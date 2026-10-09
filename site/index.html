@@ -1,0 +1,534 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NCSL Girls Tables</title>
+<meta name="description" content="NCSL Fall 2026 girls travel standings, schedules, team pages, age-group power rankings and match predictions.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230f766e'/%3E%3Cpath d='M8 10h16M8 16h16M8 22h10' stroke='white' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<style>
+:root{
+  --bg:#f6f7f5; --card:#ffffff; --ink:#15201d; --muted:#5d6b67; --faint:#8a9692; --line:#e2e6e3; --line2:#eef1ef;
+  --accent:#0f766e; --accent-ink:#ffffff; --accent-soft:#e3f2ef;
+  --win:#15803d; --draw:#a16207; --loss:#b91c1c; --win-bg:#dcfce7; --draw-bg:#fef3c7; --loss-bg:#fee2e2;
+  --chip:#eef1ef; --shadow:0 1px 2px rgba(16,24,22,.06),0 1px 1px rgba(16,24,22,.04);
+  --radius:12px; --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+  --bg:#0e1413; --card:#151d1b; --ink:#e7eeec; --muted:#9aa8a4; --faint:#6f7d79; --line:#24302d; --line2:#1c2624;
+  --accent:#2dd4bf; --accent-ink:#04201c; --accent-soft:#12302c;
+  --win:#4ade80; --draw:#fbbf24; --loss:#f87171; --win-bg:#123222; --draw-bg:#33290f; --loss-bg:#3a1717; --chip:#1f2a28;
+  --shadow:none;}}
+:root[data-theme=dark]{
+  --bg:#0e1413; --card:#151d1b; --ink:#e7eeec; --muted:#9aa8a4; --faint:#6f7d79; --line:#24302d; --line2:#1c2624;
+  --accent:#2dd4bf; --accent-ink:#04201c; --accent-soft:#12302c;
+  --win:#4ade80; --draw:#fbbf24; --loss:#f87171; --win-bg:#123222; --draw-bg:#33290f; --loss-bg:#3a1717; --chip:#1f2a28;
+  --shadow:none;}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif}
+a{color:inherit;text-decoration:none}
+a.link{color:var(--accent)} a.link:hover{text-decoration:underline}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+header.top{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;gap:14px;height:56px}
+.brand{font-weight:750;letter-spacing:-.01em;display:flex;align-items:center;gap:8px;white-space:nowrap}
+.brand i{width:22px;height:22px;border-radius:6px;background:var(--accent);display:inline-block;position:relative}
+.brand i:after{content:"";position:absolute;inset:6px 5px;border-top:2px solid var(--accent-ink);border-bottom:2px solid var(--accent-ink)}
+.brand small{font-weight:500;color:var(--muted)}
+nav.main{display:flex;gap:4px;margin-left:auto;overflow-x:auto}
+nav.main a{padding:6px 10px;border-radius:8px;color:var(--muted);font-weight:550;font-size:14px;white-space:nowrap}
+nav.main a.on,nav.main a:hover{background:var(--chip);color:var(--ink)}
+.search{position:relative}
+.search input{width:100%;padding:11px 14px 11px 38px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font:inherit;outline:none}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--faint)}
+.results{position:absolute;left:0;right:0;top:calc(100% + 6px);background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.12);max-height:360px;overflow:auto;z-index:20}
+.results a{display:flex;justify-content:space-between;gap:10px;padding:10px 14px;border-bottom:1px solid var(--line2)}
+.results a:hover,.results a.hl{background:var(--accent-soft)}
+.results span{color:var(--muted);font-size:13px;white-space:nowrap}
+main{padding:22px 0 60px}
+h1{font-size:26px;line-height:1.2;margin:4px 0 6px;letter-spacing:-.02em}
+h2{font-size:17px;margin:0 0 12px;letter-spacing:-.01em}
+.sub{color:var(--muted);margin:0 0 18px}
+.crumbs{font-size:13px;color:var(--muted);display:flex;gap:6px;flex-wrap:wrap}
+.crumbs a:hover{color:var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:16px;margin-bottom:16px}
+.card.flush{padding:0;overflow:hidden}
+.card.flush>h2{padding:14px 16px 0}
+.grid{display:grid;gap:12px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.g3{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.tile{display:block;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px;box-shadow:var(--shadow);transition:border-color .15s}
+.tile:hover{border-color:var(--accent)}
+.tile b{font-size:18px;display:block}
+.tile .meta{color:var(--muted);font-size:13px}
+.pill{display:inline-flex;align-items:center;gap:4px;font-size:12px;font-weight:600;padding:2px 8px;border-radius:99px;background:var(--chip);color:var(--muted)}
+.pill.ok{background:var(--accent-soft);color:var(--accent)}
+.note{font-size:13px;color:var(--muted);background:var(--line2);border-radius:10px;padding:10px 12px;margin:0 0 14px}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+th,td{padding:9px 8px;text-align:right;white-space:nowrap;border-bottom:1px solid var(--line2)}
+th{font-size:12px;font-weight:650;color:var(--muted);text-transform:uppercase;letter-spacing:.03em;background:var(--card);position:sticky;top:0}
+th.l,td.l{text-align:left}
+td.team{text-align:left;white-space:normal;min-width:180px}
+td.team a{font-weight:600}
+td.team a:hover{color:var(--accent)}
+tr.me td{background:var(--accent-soft)}
+tbody tr:hover td{background:var(--line2)}
+td.rk{color:var(--muted);width:34px}
+.mv{font-size:11px;font-weight:700;margin-left:4px}
+.mv.up{color:var(--win)}.mv.dn{color:var(--loss)}
+.form{display:inline-flex;gap:3px}
+.form span{width:18px;height:18px;border-radius:5px;font-size:11px;font-weight:700;display:inline-grid;place-items:center}
+.f-W{background:var(--win-bg);color:var(--win)}.f-T{background:var(--draw-bg);color:var(--draw)}.f-L{background:var(--loss-bg);color:var(--loss)}
+.pw{font-weight:650}.pw.pos{color:var(--win)}.pw.neg{color:var(--loss)}
+.daygroup{border-top:1px solid var(--line)}
+.daygroup:first-child{border-top:0}
+.dayhdr{font-size:13px;font-weight:650;color:var(--muted);padding:12px 16px 4px}
+.match{display:grid;grid-template-columns:72px 1fr 64px 1fr;gap:8px;align-items:center;padding:8px 16px}
+.match .t{font-size:13px;color:var(--muted)}
+.match .h{text-align:right;font-weight:550}
+.match .a{font-weight:550}
+.match .sc{text-align:center;font-weight:750;font-variant-numeric:tabular-nums;border-radius:8px;padding:3px 0;background:var(--chip)}
+.match .sc.pending{font-weight:500;color:var(--muted);font-size:12px}
+.match .win{color:var(--ink)} .match .lose{color:var(--muted);font-weight:450}
+.match .extra{grid-column:2 / 5;font-size:12px;color:var(--faint);display:flex;gap:10px;flex-wrap:wrap;margin-top:-4px}
+.probbar{display:flex;height:6px;border-radius:99px;overflow:hidden;width:100%;max-width:220px;background:var(--chip)}
+.probbar i{display:block}
+.pb-w{background:var(--win)}.pb-d{background:var(--faint)}.pb-l{background:var(--loss)}
+.flag{color:var(--loss);font-weight:600}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px}
+.stat{background:var(--line2);border-radius:10px;padding:10px 12px}
+.stat .k{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.03em;font-weight:600}
+.stat .v{font-size:22px;font-weight:700;letter-spacing:-.01em}
+.stat .s{font-size:12px;color:var(--muted)}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.tabs a{padding:6px 12px;border-radius:99px;background:var(--chip);color:var(--muted);font-size:14px;font-weight:600}
+.tabs a.on{background:var(--accent);color:var(--accent-ink)}
+.recap li{margin:4px 0}
+.recap ul{margin:6px 0 0;padding-left:18px}
+form.pred{display:grid;gap:12px;grid-template-columns:1fr 1fr}
+form.pred label{display:grid;gap:4px;font-size:13px;color:var(--muted);font-weight:600}
+form.pred select,form.pred input[type=range]{font:inherit;padding:9px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--ink);width:100%}
+form.pred .full{grid-column:1/-1}
+.bigprob{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;text-align:center}
+.bigprob div{border-radius:12px;padding:12px 6px}
+.bigprob b{display:block;font-size:28px;letter-spacing:-.02em}
+.bigprob span{font-size:12px;color:var(--muted);font-weight:600}
+.scoregrid td,.scoregrid th{text-align:center;padding:6px}
+.empty{color:var(--muted);padding:24px 16px;text-align:center}
+.foot{color:var(--faint);font-size:12px;border-top:1px solid var(--line);padding:18px 0 30px}
+.spark{display:block}
+.toggle{border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:8px;padding:6px 7px;cursor:pointer;display:grid;place-items:center;flex:none}
+@media (max-width:640px){
+  h1{font-size:22px}
+  .brand small{display:none}
+  .match{grid-template-columns:52px 1fr 52px 1fr;padding:8px 10px;font-size:14px}
+  form.pred{grid-template-columns:1fr}
+  .hide-sm{display:none}
+  th,td{padding:8px 6px}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="#/"><i></i>NCSL Girls Tables <small>Fall 2026</small></a>
+  <nav class="main" id="nav">
+    <a href="#/" data-r="home">Ages</a>
+    <a href="#/predict" data-r="predict">Predict</a>
+    <a href="#/changes" data-r="changes">Changes</a>
+    <a href="#/about" data-r="about">About</a>
+  </nav>
+  <button class="toggle" id="theme" title="Toggle theme" aria-label="Toggle light or dark theme"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3v18a9 9 0 0 0 0-18z" fill="currentColor"/></svg></button>
+</div></header>
+<main class="wrap" id="app"><p class="empty">Loading…</p></main>
+<div class="wrap foot" id="foot"></div>
+
+<script>
+"use strict";
+const S = {data:null, teams:{}, divs:{}, ages:{}, gamesByTeam:{}};
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmtDate = (d, opts={weekday:"short", month:"short", day:"numeric"}) => d ? new Date(d+"T12:00:00").toLocaleDateString("en-US", opts) : "Unscheduled";
+const todayISO = () => { const d = new Date(); return new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,10); };
+const ageLabel = a => a.replace(/^GU/, "U") ;
+const pct = x => Math.round(x*100) + "%";
+const signed = x => (x > 0 ? "+" : "") + x;
+
+// ---- theme
+(function(){
+  try { const t = localStorage.getItem("ncsl-theme"); if (t) document.documentElement.dataset.theme = t; } catch(e){}
+  $("#theme").onclick = () => {
+    const cur = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    const nx = cur === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = nx;
+    try { localStorage.setItem("ncsl-theme", nx); } catch(e){}
+  };
+})();
+
+// ---- data
+function G(a){ return {gamekey:a[0], no:a[1], date:a[2], time:a[3], home:a[4], away:a[5], hs:a[6], as:a[7], status:a[8], venue:a[9], resched:a[10]}; }
+async function load(){
+  const r = await fetch("data.json", {cache:"no-cache"});
+  const d = await r.json();
+  S.data = d; S.teams = d.teams;
+  d.divisions.forEach(v => { v.G = v.games.map(G); S.divs[v.id] = v;
+    v.G.forEach(g => { [g.home, g.away].forEach(k => (S.gamesByTeam[k] ||= []).push({...g, div:v.id})); });
+    v.byKey = {}; v.standings.forEach(r => v.byKey[r.key] = r);
+  });
+  d.ages.forEach(a => S.ages[a.age] = a);
+  Object.values(S.gamesByTeam).forEach(l => l.sort((x,y) => (x.date||"9").localeCompare(y.date||"9") || (x.time||"").localeCompare(y.time||"")));
+}
+
+// ---- model (mirrors scripts/model.py)
+function strength(t, gap){
+  const o = -gap * ((t.tier||1) - 1);
+  return {att: (t.att0||0) + o/2, def: (t.def0||0) + o/2};
+}
+function lambdas(hk, ak, neutral, gap){
+  const h = S.teams[hk], a = S.teams[ak], age = S.ages[h.age];
+  gap = gap ?? S.data.tier_gap;
+  const sh = strength(h, gap), sa = strength(a, gap);
+  const ha = neutral ? 0 : age.home;
+  return [Math.exp(age.mu + ha + sh.att - sa.def), Math.exp(age.mu + sa.att - sh.def)];
+}
+function pois(l, k){ let p = Math.exp(-l); for (let i=1;i<=k;i++) p *= l/i; return p; }
+function predict(hk, ak, neutral=false, gap){
+  const [lh, la] = lambdas(hk, ak, neutral, gap);
+  let w=0,d=0,l=0; const grid=[];
+  for (let i=0;i<=10;i++){ grid[i]=[]; for (let j=0;j<=10;j++){ const p=pois(lh,i)*pois(la,j); grid[i][j]=p; if(i>j)w+=p; else if(i===j)d+=p; else l+=p; } }
+  const s = w+d+l;
+  return {lh, la, w:w/s, d:d/s, l:l/s, grid};
+}
+const canPredict = (hk, ak) => { const h=S.teams[hk], a=S.teams[ak]; return h && a && h.age===a.age && S.ages[h.age]?.scored && h.att0!=null && a.att0!=null; };
+const rated = t => t && t.att0 != null;
+
+// ---- small renderers
+const teamLink = (k, cls="") => { const t = S.teams[k]; return t ? `<a class="${cls}" href="#/team/${k}">${esc(t.name)}</a>` : "TBD"; };
+const divLink = id => `<a class="link" href="#/div/${id}">${esc(S.divs[id].name.replace(/^GU\d+ /,""))}</a>`;
+const form = f => `<span class="form">${[...(f||"")].map(c=>`<span class="f-${c}">${c}</span>`).join("")}</span>`;
+const pw = p => p==null ? "–" : `<span class="pw">${p}</span>`;
+const mv = m => !m ? "" : `<span class="mv ${m>0?"up":"dn"}">${m>0?"▲":"▼"}${Math.abs(m)}</span>`;
+function probbar(p){ return `<span class="probbar" title="Home ${pct(p.w)} · Tie ${pct(p.d)} · Away ${pct(p.l)}"><i class="pb-w" style="width:${p.w*100}%"></i><i class="pb-d" style="width:${p.d*100}%"></i><i class="pb-l" style="width:${p.l*100}%"></i></span>`; }
+
+function matchRow(g, focus){
+  const played = g.hs != null;
+  let sc;
+  if (played) sc = `<div class="sc">${g.hs}–${g.as}</div>`;
+  else if (g.status==="forfeit") sc = `<div class="sc pending">FFT</div>`;
+  else if (g.status==="no_score") sc = `<div class="sc pending" title="NCSL does not publish scores at this age">played</div>`;
+  else sc = `<div class="sc pending">${g.date && g.date < todayISO() ? "pending" : "vs"}</div>`;
+  const hw = played && g.hs>g.as, aw = played && g.as>g.hs;
+  const extra = [];
+  if (g.venue) extra.push(esc(g.venue));
+  if (g.resched===2) extra.push(`<span class="flag">rescheduled this week</span>`);
+  if (!played && g.status==="scheduled" && canPredict(g.home, g.away)){
+    const p = predict(g.home, g.away);
+    extra.push(`${probbar(p)} <span>${S.teams[g.home].name.split(" ")[0]} ${pct(p.w)} · tie ${pct(p.d)} · ${S.teams[g.away].name.split(" ")[0]} ${pct(p.l)}</span> <a class="link" href="#/predict?a=${g.home}&b=${g.away}">details</a>`);
+  }
+  return `<div class="match">
+    <div class="t">${esc(g.time || "TBD")}</div>
+    <div class="h ${played?(hw?"win":aw?"lose":""):""}">${teamLink(g.home)}</div>
+    ${sc}
+    <div class="a ${played?(aw?"win":hw?"lose":""):""}">${teamLink(g.away)}</div>
+    ${extra.length?`<div class="extra">${extra.join(" · ")}</div>`:""}
+  </div>`;
+}
+function schedule(games){
+  if (!games.length) return `<p class="empty">No games.</p>`;
+  const by = {}; games.forEach(g => (by[g.date||"zz"] ||= []).push(g));
+  return Object.keys(by).sort().map(d => `<div class="daygroup" ${d===todayISO()?'id="today"':""}><div class="dayhdr">${d==="zz"?"Unscheduled":fmtDate(d,{weekday:"long",month:"short",day:"numeric"})}</div>${by[d].map(g=>matchRow(g)).join("")}</div>`).join("");
+}
+
+function standingsTable(div, highlight){
+  const scored = div.scored;
+  const rows = div.standings.map(r => {
+    const t = S.teams[r.key];
+    return `<tr class="${r.key===highlight?"me":""}"><td class="rk">${r.rank}</td><td class="team">${teamLink(r.key)}</td>
+      ${scored?`<td><b>${r.pts}</b></td><td>${r.ppg.toFixed(2)}</td>`:""}<td>${r.gp}</td>
+      ${scored?`<td>${r.w}</td><td>${r.t}</td><td>${r.l}</td><td class="hide-sm">${r.gf}</td><td class="hide-sm">${r.ga}</td><td>${signed(r.gd)}</td><td class="l hide-sm">${form(r.form)}</td><td title="Age-group rank">${t.age_rank?`#${t.age_rank}`:"–"}</td>`:""}</tr>`;
+  }).join("");
+  return `<div class="tablewrap"><table><thead><tr><th class="l">#</th><th class="l">Team</th>${scored?`<th>Pts</th><th>PPG</th>`:""}<th>GP</th>
+    ${scored?`<th>W</th><th>T</th><th>L</th><th class="hide-sm">GF</th><th class="hide-sm">GA</th><th>GD</th><th class="l hide-sm">Form</th><th>Age rk</th>`:""}</tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+
+// ---- views
+function viewHome(){
+  const d = S.data;
+  const totalGames = d.divisions.reduce((s,v)=>s+v.G.length,0);
+  const played = d.divisions.reduce((s,v)=>s+v.G.filter(g=>g.hs!=null).length,0);
+  const today = todayISO();
+  const wk = new Date(Date.now()+7*864e5).toISOString().slice(0,10);
+  const upcoming = d.divisions.flatMap(v=>v.G.filter(g=>g.date>=today && g.date<=wk).map(g=>({...g,div:v.id})));
+  const recent = d.changes.filter(c=>c.type==="result").slice(-6).reverse();
+  return `
+  <h1>NCSL girls travel, Fall 2026</h1>
+  <p class="sub">Standings, schedules, power rankings and match predictions for every girls travel division, rebuilt daily from NCSL's published schedules.</p>
+  <div class="card">${searchBox()}</div>
+  <h2>Age groups</h2>
+  <div class="grid g3" style="margin-bottom:18px">
+    ${d.ages.map(a=>{ const divs=a.divisions.map(i=>S.divs[i]); const teams=new Set(divs.flatMap(v=>v.standings.map(r=>r.key))).size;
+      return `<a class="tile" href="#/age/${a.age}"><b>${ageLabel(a.age)} girls</b>
+        <div class="meta">${divs.length} division${divs.length>1?"s":""} · ${teams} teams</div>
+        <div style="margin-top:8px">${a.scored?`<span class="pill ok">Rankings & predictions</span>`:`<span class="pill">Schedules only</span>`}</div></a>`; }).join("")}
+  </div>
+  <div class="grid g2">
+    <div class="card"><h2>At a glance</h2><div class="stats">
+      <div class="stat"><div class="k">Divisions</div><div class="v">${d.divisions.length}</div></div>
+      <div class="stat"><div class="k">Teams</div><div class="v">${Object.keys(d.teams).length}</div></div>
+      <div class="stat"><div class="k">Scores in</div><div class="v">${played}</div><div class="s">of ${totalGames} games</div></div>
+      <div class="stat"><div class="k">Next 7 days</div><div class="v">${upcoming.length}</div><div class="s">games</div></div>
+    </div></div>
+    <div class="card"><h2>Latest results posted</h2>${recent.length?`<ul class="recap" style="margin:0;padding-left:18px">${recent.map(c=>`<li>${esc(c.home)} <b>${esc(c.to)}</b> ${esc(c.away)} <span class="pill">${esc(S.divs[c.division_id]?.name||"")}</span></li>`).join("")}</ul><p style="margin:10px 0 0"><a class="link" href="#/changes">All changes →</a></p>`:`<p class="sub" style="margin:0">New results will appear here as the daily update picks them up.</p>`}</div>
+  </div>`;
+}
+
+function searchBox(){
+  return `<div class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+  <input id="q" type="search" placeholder="Find a team or club (e.g. ARL, VSA 2013)" autocomplete="off"><div class="results" id="qr" hidden></div></div>`;
+}
+function wireSearch(){
+  const q = $("#q"), out = $("#qr"); if (!q) return;
+  const all = Object.values(S.teams).map(t=>({t, s:(t.name+" "+t.code+" "+S.divs[t.div].name).toLowerCase()}));
+  let hl = 0, items = [];
+  const render = () => {
+    const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!terms.length){ out.hidden = true; return; }
+    items = all.filter(x=>terms.every(w=>x.s.includes(w))).slice(0,40);
+    hl = 0;
+    out.innerHTML = items.length ? items.map((x,i)=>`<a href="#/team/${x.t.key}" class="${i===0?"hl":""}">${esc(x.t.name)}<span>${esc(S.divs[x.t.div].name.replace("GU","U"))}</span></a>`).join("") : `<div class="empty">No matches</div>`;
+    out.hidden = false;
+  };
+  q.addEventListener("input", render);
+  q.addEventListener("keydown", e => {
+    if (e.key==="Enter" && items[hl]) location.hash = "#/team/"+items[hl].t.key;
+    if (e.key==="ArrowDown"||e.key==="ArrowUp"){ e.preventDefault(); hl=(hl+(e.key==="ArrowDown"?1:-1)+items.length)%items.length; [...out.children].forEach((c,i)=>c.classList.toggle("hl",i===hl)); }
+  });
+  document.addEventListener("click", e => { if (!e.target.closest(".search")) out.hidden = true; }, {once:false});
+}
+
+function viewAge(age){
+  const a = S.ages[age]; if (!a) return notFound();
+  const divs = a.divisions.map(i=>S.divs[i]);
+  const teams = Object.values(S.teams).filter(t=>t.age===age);
+  let body;
+  if (a.scored){
+    const unrated = teams.filter(t=>!t.age_rank); teams.splice(0, teams.length, ...teams.filter(t=>t.age_rank));
+    teams.sort((x,y)=>x.age_rank-y.age_rank);
+    body = `<div class="card flush"><h2>Power rankings, ${ageLabel(age)} girls</h2>
+      <p class="note" style="margin:6px 16px 10px">Rating: 1500 is an average ${ageLabel(age)} team; every 250 points is roughly a 2.7× edge in goals scored versus conceded against the same opponent. Teams in different divisions never play each other, so cross-division order leans on an assumed gap between division tiers. <a class="link" href="#/about">How this works</a></p>
+      <div class="tablewrap"><table><thead><tr><th class="l">#</th><th class="l">Team</th><th class="l hide-sm">Division</th><th>Rating</th><th>GP</th><th>Record</th><th class="hide-sm">GD</th><th class="l hide-sm">Trend</th></tr></thead><tbody>
+      ${teams.map(t=>{ const r=S.divs[t.div].byKey[t.key]||{}; return `<tr><td class="rk">${t.age_rank}${mv(t.rank_move)}</td><td class="team">${teamLink(t.key)}<div class="hide-sm" style="display:none"></div></td><td class="l hide-sm">${divLink(t.div)}</td><td>${pw(t.power)}</td><td>${r.gp||0}</td><td>${r.w||0}-${r.t||0}-${r.l||0}</td><td class="hide-sm">${signed(r.gd||0)}</td><td class="l hide-sm">${spark(t.key)}</td></tr>`; }).join("")}
+      </tbody></table></div>${unrated.length?`<p class="note" style="margin:10px 16px 16px">Not rated yet (no scored games): ${unrated.map(t=>teamLink(t.key,"link")).join(", ")}.</p>`:""}</div>`;
+  } else {
+    body = `<p class="note">NCSL does not publish scores for ${ageLabel(age)}, so there are no standings points, rankings or predictions at this age. Schedules are complete.</p>`;
+  }
+  return `<div class="crumbs"><a href="#/">Ages</a>›<span>${ageLabel(age)} girls</span></div>
+  <h1>${ageLabel(age)} girls</h1>
+  <p class="sub">${divs.length} division${divs.length>1?"s":""} · ${teams.length} teams</p>
+  <div class="grid g3" style="margin-bottom:16px">${divs.map(v=>{const pl=v.G.filter(g=>g.hs!=null).length; const leader=v.scored&&v.standings[0]&&v.standings[0].gp?S.teams[v.standings[0].key].name:null;
+    return `<a class="tile" href="#/div/${v.id}"><b>${esc(v.name.replace(/^GU\d+ /,""))}</b><div class="meta">${v.standings.length} teams · ${v.scored?`${pl} of ${v.G.length} played`:`${v.G.length} games`}</div>${leader?`<div class="meta" style="margin-top:6px">Leader: <b style="display:inline;font-size:13px;color:var(--ink)">${esc(leader)}</b></div>`:""}</a>`;}).join("")}</div>
+  ${body}`;
+}
+
+function spark(k){
+  const h = S.data.history; const v = (h.power[k]||[]).filter(x=>x!=null);
+  if (v.length < 2) return `<span style="color:var(--faint);font-size:12px">new</span>`;
+  const mn=Math.min(...v), mx=Math.max(...v), w=70, ht=18, rng=(mx-mn)||1;
+  const pts = v.map((x,i)=>`${(i/(v.length-1)*w).toFixed(1)},${(ht-2-(x-mn)/rng*(ht-4)).toFixed(1)}`).join(" ");
+  const up = v[v.length-1] >= v[0];
+  return `<svg class="spark" width="${w}" height="${ht}"><polyline fill="none" stroke="var(${up?"--win":"--loss"})" stroke-width="1.6" points="${pts}"/></svg>`;
+}
+
+function recap(div){
+  if (!div.scored) return "";
+  const st = div.standings.filter(r=>r.gp);
+  if (!st.length) return "";
+  const today = todayISO();
+  const played = div.G.filter(g=>g.hs!=null).sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+  const lastDate = played[0]?.date;
+  const lastWknd = played.filter(g=>lastDate && (new Date(lastDate)-new Date(g.date))/864e5 <= 2);
+  const lead = st[0], second = st[1];
+  let headline = `${esc(S.teams[lead.key].name)} lead${second?` on ${lead.ppg.toFixed(2)} points per game, with ${esc(S.teams[second.key].name)} next on ${second.ppg.toFixed(2)}`:""}.`;
+  if (second && lead.ppg===second.ppg) headline = `${esc(S.teams[lead.key].name)} and ${esc(S.teams[second.key].name)} are level at the top on ${lead.ppg.toFixed(2)} points per game.`;
+  const unbeaten = st.filter(r=>r.l===0 && r.gp>=3).map(r=>S.teams[r.key].name);
+  const pending = div.G.filter(g=>g.status==="scheduled" && g.date && g.date<today).length;
+  const top4 = new Set(st.slice(0,4).map(r=>r.key));
+  const big = div.G.filter(g=>g.status==="scheduled" && g.date>=today && top4.has(g.home) && top4.has(g.away)).slice(0,2);
+  const margin = g => Math.abs(g.hs-g.as);
+  const verb = g => margin(g)>=4?"beat":margin(g)===1?"edged":"beat";
+  return `<div class="card recap"><h2>Division recap</h2><p style="margin:0">${headline}${unbeaten.length?` Unbeaten: ${unbeaten.map(esc).join(", ")}.`:""}</p>
+    ${lastWknd.length?`<p style="margin:10px 0 0;font-weight:600">Latest results</p><ul>${lastWknd.slice(0,6).map(g=>{const hw=g.hs>=g.as; const [w,l,ws,ls]=hw?[g.home,g.away,g.hs,g.as]:[g.away,g.home,g.as,g.hs]; return `<li>${g.hs===g.as?`${teamLink(g.home)} and ${teamLink(g.away)} drew ${g.hs}–${g.as}`:`${teamLink(w)} ${verb(g)} ${teamLink(l)} ${ws}–${ls}`}</li>`;}).join("")}</ul>`:""}
+    ${big.length?`<p style="margin:10px 0 0;font-weight:600">Worth watching</p><ul>${big.map(g=>`<li>${fmtDate(g.date)}: ${teamLink(g.home)} vs ${teamLink(g.away)}, both in the top four</li>`).join("")}</ul>`:""}
+    ${pending?`<p class="note" style="margin:10px 0 0">${pending} past game${pending>1?"s have":" has"} no published result yet.</p>`:""}</div>`;
+}
+
+function viewDiv(id, tab){
+  const v = S.divs[id]; if (!v) return notFound();
+  tab = tab || "table";
+  const src = `https://elements.demosphere.com/80738/schedules/Fall2026/${id}.html`;
+  const asof = v.source_as_of ? new Date(v.source_as_of).toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) : "unknown";
+  const played = v.G.filter(g=>g.hs!=null).length;
+  return `<div class="crumbs"><a href="#/">Ages</a>›<a href="#/age/${v.age}">${ageLabel(v.age)} girls</a>›<span>${esc(v.name.replace(/^GU\d+ /,""))}</span></div>
+  <h1>${ageLabel(v.age)} girls · ${esc(v.name.replace(/^GU\d+ /,""))}</h1>
+  <p class="sub">${v.standings.length} teams · ${v.scored?`${played} of ${v.G.length} games played`:`${v.G.length} games`} · NCSL data as of ${asof} · <a class="link" href="${src}" target="_blank" rel="noopener">official schedule</a></p>
+  <div class="tabs"><a class="${tab==="table"?"on":""}" href="#/div/${id}">${v.scored?"Standings":"Teams"}</a><a class="${tab==="schedule"?"on":""}" href="#/div/${id}/schedule">Schedule & results</a></div>
+  ${tab==="table" ? `${recap(v)}<div class="card flush"><h2>${v.scored?"Standings":"Teams"}</h2>${v.scored?`<p class="note" style="margin:6px 16px 10px">Computed from the results shown here and sorted by points per game, then points, goal difference and goals scored. Forfeits count 3–0. NCSL's official table may order ties differently.</p>`:`<p class="note" style="margin:6px 16px 10px">NCSL does not publish scores at this age.</p>`}${standingsTable(v)}</div>`
+   : `<div class="card flush">${schedule(v.G)}</div>`}`;
+}
+
+function viewTeam(k){
+  const t = S.teams[k]; if (!t) return notFound();
+  const v = S.divs[t.div]; const r = v.byKey[k] || {};
+  const games = S.gamesByTeam[k] || [];
+  const today = todayISO();
+  const next = games.find(g=>g.status==="scheduled" && g.date && g.date>=today);
+  const res = games.filter(g=>g.hs!=null);
+  const biggest = res.map(g=>({g, m:(g.home===k?g.hs-g.as:g.as-g.hs)})).sort((a,b)=>b.m-a.m)[0];
+  const nextOpp = next ? (next.home===k?next.away:next.home) : null;
+  let nextHtml = "";
+  if (next){
+    const p = canPredict(next.home,next.away) ? predict(next.home,next.away) : null;
+    const myP = p ? (next.home===k?{w:p.w,d:p.d,l:p.l}:{w:p.l,d:p.d,l:p.w}) : null;
+    nextHtml = `<div class="card"><h2>Next match</h2>
+      <div style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center">
+      <div><b>${fmtDate(next.date,{weekday:"long",month:"short",day:"numeric"})}, ${esc(next.time||"time TBD")}</b><br>
+      ${next.home===k?"Home vs":"Away at"} ${teamLink(nextOpp,"link")}<br><span style="color:var(--muted);font-size:13px">${esc(next.venue||"Venue TBD")}</span></div>
+      ${myP?`<div style="min-width:220px"><div class="bigprob" style="grid-template-columns:repeat(3,1fr)"><div style="background:var(--win-bg)"><b style="font-size:20px;color:var(--win)">${pct(myP.w)}</b><span>Win</span></div><div style="background:var(--chip)"><b style="font-size:20px">${pct(myP.d)}</b><span>Tie</span></div><div style="background:var(--loss-bg)"><b style="font-size:20px;color:var(--loss)">${pct(myP.l)}</b><span>Loss</span></div></div><div style="text-align:right;margin-top:6px"><a class="link" href="#/predict?a=${next.home}&b=${next.away}">Full prediction →</a></div></div>`:""}
+      </div></div>`;
+  }
+  const scored = v.scored;
+  return `<div class="crumbs"><a href="#/">Ages</a>›<a href="#/age/${t.age}">${ageLabel(t.age)} girls</a>›<a href="#/div/${v.id}">${esc(v.name.replace(/^GU\d+ /,""))}</a>›<span>${esc(t.name)}</span></div>
+  <h1>${esc(t.name)}</h1>
+  <p class="sub">${ageLabel(t.age)} girls · ${divLink(v.id)} · team code ${esc(t.code||"–")}</p>
+  ${scored?`<div class="card"><div class="stats">
+    <div class="stat"><div class="k">Record W-T-L</div><div class="v">${r.w||0}-${r.t||0}-${r.l||0}</div><div class="s">${ordinal(r.rank)} in division</div></div>
+    <div class="stat"><div class="k">Points</div><div class="v">${r.pts||0}</div><div class="s">${(r.ppg||0).toFixed(2)} per game</div></div>
+    <div class="stat"><div class="k">Goals</div><div class="v">${r.gf||0}–${r.ga||0}</div><div class="s">GD ${signed(r.gd||0)}</div></div>
+    <div class="stat"><div class="k">Rating</div><div class="v">${pw(t.power)}</div><div class="s">${t.age_rank?`#${t.age_rank} of ${S.ages[t.age].n_teams} in ${ageLabel(t.age)} ${mv(t.rank_move)}`:"Not rated yet"}</div></div>
+    <div class="stat"><div class="k">Form</div><div class="v" style="font-size:16px;padding-top:6px">${form(r.form)||"–"}</div>${biggest&&biggest.m>0?`<div class="s">Best: ${biggest.g.home===k?biggest.g.hs:biggest.g.as}–${biggest.g.home===k?biggest.g.as:biggest.g.hs} vs ${esc(S.teams[biggest.g.home===k?biggest.g.away:biggest.g.home].name)}</div>`:""}</div>
+  </div></div>`:`<p class="note">NCSL does not publish scores at ${ageLabel(t.age)}, so this page shows the schedule only.</p>`}
+  ${nextHtml}
+  ${scored?`<div class="card flush"><h2>Division table</h2>${standingsTable(v,k)}</div>`:""}
+  <div class="card flush"><h2>Schedule & results</h2>${schedule(games)}</div>
+  ${scored&&rated(t)?`<div class="card"><h2>Rating detail</h2><p class="sub" style="margin:0">Attack ${t.att0>=0?"+":""}${t.att0.toFixed(2)}, defence ${t.def0>=0?"+":""}${t.def0.toFixed(2)} relative to the ${esc(v.name.replace(/^GU\d+ /,""))} average (log-goal scale; positive is better for both). Built from ${r.gp - (r.ff||0)} scored games${r.ff?`; ${r.ff} forfeit${r.ff>1?"s":""} excluded`:""}. ${r.gp<4?"Few games so far, so this rating is still rough.":""}</p></div>`:""}`;
+}
+const ordinal = n => !n ? "–" : n + (["th","st","nd","rd"][(n%100-20)%10]||["th","st","nd","rd"][n%100]||"th");
+
+function viewPredict(params){
+  const scoredAges = S.data.ages.filter(a=>a.scored);
+  let a = params.get("a"), b = params.get("b");
+  let age = (a && S.teams[a]?.age) || params.get("age") || scoredAges[0].age;
+  if (!S.ages[age]?.scored) age = scoredAges[0].age;
+  const teams = Object.values(S.teams).filter(t=>t.age===age && rated(t)).sort((x,y)=>x.name.localeCompare(y.name));
+  const byRank = teams.slice().sort((x,y)=>x.age_rank-y.age_rank);
+  if (!a || S.teams[a]?.age!==age || !rated(S.teams[a])) a = byRank[0].key;
+  if (!b || S.teams[b]?.age!==age || !rated(S.teams[b]) || b===a) b = byRank.find(t=>t.key!==a).key;
+  const neutral = params.get("n")==="1";
+  const gap = params.has("gap") ? +params.get("gap") : S.data.tier_gap;
+  const opt = sel => teams.map(t=>`<option value="${t.key}" ${t.key===sel?"selected":""}>${esc(t.name)} (${esc(S.divs[t.div].name.replace(/^GU\d+ /,"").replace("Division","Div"))})</option>`).join("");
+  const p = predict(a, b, neutral, gap);
+  const crossTier = S.teams[a].tier !== S.teams[b].tier;
+  const top = [];
+  p.grid.forEach((row,i)=>row.forEach((x,j)=>top.push({i,j,x})));
+  top.sort((x,y)=>y.x-x.x);
+  const s = 1/(p.w+p.d+p.l);
+  const h2h = (S.gamesByTeam[a]||[]).filter(g=>g.hs!=null && (g.home===b||g.away===b));
+  const N = 5;
+  return `<h1>Head-to-head predictor</h1>
+  <p class="sub">Pick any two teams in the same age group, scheduled to meet or not.</p>
+  <div class="card"><form class="pred" id="pf">
+    <label class="full">Age group<select name="age">${scoredAges.map(x=>`<option ${x.age===age?"selected":""} value="${x.age}">${ageLabel(x.age)} girls</option>`).join("")}</select></label>
+    <label>Home team<select name="a">${opt(a)}</select></label>
+    <label>Away team<select name="b">${opt(b)}</select></label>
+    <label>Venue<select name="n"><option value="0" ${!neutral?"selected":""}>First team at home</option><option value="1" ${neutral?"selected":""}>Neutral field</option></select></label>
+    <label>Gap between division tiers: <span id="gv">${gap.toFixed(2)}</span><input type="range" name="gap" min="0" max="2.5" step="0.05" value="${gap}"></label>
+  </form></div>
+  <div class="card">
+    <div style="display:flex;justify-content:space-between;gap:10px;margin-bottom:12px;flex-wrap:wrap"><div>${teamLink(a,"link")}<div style="color:var(--muted);font-size:13px">${esc(S.divs[S.teams[a].div].name)} · rating ${pw(S.teams[a].power)}</div></div><div style="text-align:right">${teamLink(b,"link")}<div style="color:var(--muted);font-size:13px">${esc(S.divs[S.teams[b].div].name)} · rating ${pw(S.teams[b].power)}</div></div></div>
+    <div class="bigprob"><div style="background:var(--win-bg)"><b style="color:var(--win)">${pct(p.w)}</b><span>${esc(S.teams[a].name.split(" ").slice(0,2).join(" "))} win</span></div><div style="background:var(--chip)"><b>${pct(p.d)}</b><span>Tie</span></div><div style="background:var(--loss-bg)"><b style="color:var(--loss)">${pct(p.l)}</b><span>${esc(S.teams[b].name.split(" ").slice(0,2).join(" "))} win</span></div></div>
+    <p style="margin:14px 0 0">Expected goals: <b>${p.lh.toFixed(2)}</b> – <b>${p.la.toFixed(2)}</b>. Most likely scores: ${top.slice(0,4).map(x=>`${x.i}–${x.j} (${pct(x.x*s)})`).join(", ")}.</p>
+    ${Math.min(S.teams[a].n_scored,S.teams[b].n_scored)<4?`<p class="note" style="margin:12px 0 0">At least one of these teams has fewer than four scored games, so treat this as a rough guide.</p>`:""}
+    ${crossTier?`<p class="note" style="margin:12px 0 0">These teams play in different divisions and have never met in league play. The prediction depends heavily on the tier gap, which is an assumption, not something the results can show. Drag the slider to see how much it matters.</p>`:""}
+  </div>
+  <div class="grid g2">
+  <div class="card"><h2>Score probabilities</h2><div class="tablewrap"><table class="scoregrid"><thead><tr><th></th>${[...Array(N+1).keys()].map(j=>`<th>${j}</th>`).join("")}</tr></thead><tbody>
+    ${[...Array(N+1).keys()].map(i=>`<tr><th>${i}</th>${[...Array(N+1).keys()].map(j=>{const x=p.grid[i][j]*s; return `<td style="background:color-mix(in srgb,var(--accent) ${Math.min(70,x*400)}%,transparent)">${x>=0.005?Math.round(x*100):""}</td>`;}).join("")}</tr>`).join("")}
+  </tbody></table></div><p class="note" style="margin:10px 0 0">Rows: ${esc(S.teams[a].name)} goals. Columns: ${esc(S.teams[b].name)} goals. Values in %.</p></div>
+  <div class="card"><h2>Previous meetings this season</h2>${h2h.length?h2h.map(g=>matchRow(g)).join(""):`<p class="sub" style="margin:0">None yet.</p>`}</div>
+  </div>`;
+}
+function wirePredict(){
+  const f = $("#pf"); if (!f) return;
+  const go = (changedAge) => {
+    const fd = new FormData(f); const p = new URLSearchParams();
+    if (changedAge){ p.set("age", fd.get("age")); }
+    else { p.set("a", fd.get("a")); p.set("b", fd.get("b")); }
+    if (fd.get("n")==="1") p.set("n","1");
+    if (+fd.get("gap") !== S.data.tier_gap) p.set("gap", fd.get("gap"));
+    history.replaceState(null, "", "#/predict?"+p.toString()); route();
+  };
+  f.age.onchange = () => go(true);
+  f.a.onchange = f.b.onchange = f.n.onchange = () => go(false);
+  f.gap.oninput = () => { $("#gv").textContent = (+f.gap.value).toFixed(2); };
+  f.gap.onchange = () => go(false);
+}
+
+function viewChanges(params){
+  const types = {result:"Result posted", score_change:"Score corrected", forfeit:"Forfeit", date_change:"Date changed", time_change:"Time changed", venue_change:"Venue changed", new_game:"Game added", removed:"Game removed"};
+  const filt = params.get("t");
+  const ch = S.data.changes.filter(c=>!filt || c.type===filt).slice().reverse();
+  const by = {}; ch.forEach(c => (by[c.at.slice(0,10)] ||= []).push(c));
+  return `<h1>What changed</h1>
+  <p class="sub">Differences the daily update found against the previous day's data, for the last three weeks.</p>
+  <div class="tabs"><a class="${!filt?"on":""}" href="#/changes">All</a>${Object.entries(types).map(([k,v])=>`<a class="${filt===k?"on":""}" href="#/changes?t=${k}">${v}</a>`).join("")}</div>
+  ${ch.length ? Object.keys(by).sort().reverse().map(d=>`<div class="card"><h2>Found ${fmtDate(d,{weekday:"long",month:"short",day:"numeric"})}</h2><ul class="recap" style="margin:0;padding-left:18px">${by[d].map(c=>`<li><span class="pill">${types[c.type]||c.type}</span> ${esc(c.home)} vs ${esc(c.away)}${c.date?`, ${fmtDate(c.date)}`:""}${c.from!==undefined?`: <s style="color:var(--faint)">${esc(c.from||"none")}</s> → <b>${esc(c.to||"none")}</b>`:""} · <a class="link" href="#/div/${c.division_id}">${esc(S.divs[c.division_id]?.name||"")}</a></li>`).join("")}</ul></div>`).join("")
+    : `<div class="card"><p class="empty">No changes recorded yet. The first daily update after setup starts the log.</p></div>`}`;
+}
+
+function viewAbout(){
+  const d = S.data;
+  return `<h1>How this works</h1>
+  <div class="card"><h2>Data</h2><p>Every morning a GitHub Actions job downloads the public Fall 2026 division schedules NCSL publishes through Demosphere, for all ${d.divisions.length} girls travel divisions. It parses each game (game number, date, time, teams, score, venue, reschedule flags), compares it with the previous day to log new results, score corrections and schedule changes, then rebuilds this site. This site is independent and not affiliated with NCSL; check NCSL or your club for anything official.</p>
+  <p style="margin-bottom:0">NCSL does not publish scores for U9–U11, so those ages show schedules only. Forfeits count as 3–0 in standings but are left out of ratings because they say nothing about how teams play.</p></div>
+  <div class="card"><h2>Standings</h2><p style="margin:0">Win 3, tie 1, loss 0. Teams are ordered by points per game, then total points, goal difference and goals scored, because schedules are uneven mid-season. NCSL's official order may differ.</p></div>
+  <div class="card"><h2>Ratings and predictions</h2>
+  <p>Each team gets an attack and a defence rating from a Poisson goals model: expected goals for a team = baseline × home advantage × its attack ÷ the opponent's defence. Ratings are shrunk toward the division average so a single blowout doesn't dominate. On held-out recent games the model's log-loss was 0.82, against 0.99 for always predicting the base rates.</p>
+  <p><b>The important assumption:</b> teams in different divisions never meet, so results alone can't say how Division 2 compares with Division 1. Each division step down is treated as a fixed drop in strength of ${d.tier_gap.toFixed(2)} on the log-goal scale, chosen so that a typical division winner rates about like the median team one division up, which fits NCSL's promotion and relegation. You can change it in the <a class="link" href="#/predict">predictor</a>.</p>
+  <p style="margin:0"><b>Rating</b> puts attack and defence on one scale: 1500 is an average team in the age group, and each 250 points is roughly a 2.7× edge in goals scored versus conceded against the same opponent. Win/tie/loss chances come from the full scoreline distribution, not the rating alone.</p></div>
+  <div class="card"><h2>Freshness</h2><p style="margin:0">Site built ${new Date(d.built_at).toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"})}. ${d.fetch?`Last download: ${d.fetch.ok.length} divisions OK${d.fetch.failed.length?`, ${d.fetch.failed.length} failed (previous data kept)`:""}.`:""}</p></div>`;
+}
+function notFound(){ return `<div class="card"><p class="empty">Not found. <a class="link" href="#/">Back to age groups</a></p></div>`; }
+
+// ---- router
+function route(){
+  const h = location.hash.replace(/^#/, "") || "/";
+  const [path, qs] = h.split("?");
+  const params = new URLSearchParams(qs||"");
+  const parts = path.split("/").filter(Boolean);
+  let html, r = parts[0]||"home";
+  if (r==="home") html = viewHome();
+  else if (r==="age") html = viewAge(parts[1]);
+  else if (r==="div") html = viewDiv(parts[1], parts[2]);
+  else if (r==="team") html = viewTeam(parts[1]);
+  else if (r==="predict") html = viewPredict(params);
+  else if (r==="changes") html = viewChanges(params);
+  else if (r==="about") html = viewAbout();
+  else html = notFound();
+  $("#app").innerHTML = html;
+  document.querySelectorAll("#nav a").forEach(a=>a.classList.toggle("on", a.dataset.r===(["age","div","team"].includes(r)?"home":r)));
+  wireSearch(); wirePredict();
+  const t = S.teams[parts[1]] || null;
+  document.title = (r==="team"&&t ? t.name+" · " : r==="div"&&S.divs[parts[1]] ? S.divs[parts[1]].name+" · " : r==="age"&&parts[1] ? ageLabel(parts[1])+" girls · " : "") + "NCSL Girls Tables";
+  if (!qs || r!=="predict") window.scrollTo(0,0);
+}
+window.addEventListener("hashchange", route);
+load().then(()=>{
+  route();
+  const d = S.data;
+  $("#foot").innerHTML = `Data from NCSL's public schedules on Demosphere. Built ${new Date(d.built_at).toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"})}. Not affiliated with NCSL. <a class="link" href="https://github.com/shaaude/ncsl-girls">Source</a>`;
+}).catch(e=>{ $("#app").innerHTML = `<div class="card"><p class="empty">Couldn't load data (${esc(e.message)}).</p></div>`; });
+</script>
+</body>
+</html>
