@@ -4682,6 +4682,17 @@
    "state": "VA",
    "status": "confirmed"
   },
+  "ysg:300441507": {
+   "age": "GU12",
+   "at": "2026-10-10T17:09:11Z",
+   "by": "auto-new",
+   "candidates": [],
+   "canonical_id": "Td01caeb101",
+   "club": "Virginia Soccer Association",
+   "name": "VSA Pre-ECNL VDA West II",
+   "state": "VA",
+   "status": "confirmed"
+  },
   "ysg:300441516": {
    "age": "GU12",
    "at": "2026-10-10T16:59:16Z",
@@ -4697,6 +4708,17 @@
    "name": "VSA PREMIER RED",
    "state": "VA",
    "status": "probable"
+  },
+  "ysg:300441534": {
+   "age": "GU12",
+   "at": "2026-10-10T17:09:11Z",
+   "by": "manual",
+   "candidates": [],
+   "canonical_id": "T8dd1c4c086",
+   "club": "Arlington Soccer Association",
+   "name": "Arlington SA Red",
+   "state": "VA",
+   "status": "confirmed"
   },
   "ysg:300441572": {
    "age": "GU12",
@@ -4796,6 +4818,22 @@
    "state": "VA",
    "status": "probable"
   },
+  "ysg:300441635": {
+   "age": "GU12",
+   "at": "2026-10-10T17:09:11Z",
+   "by": "auto",
+   "candidates": [
+    {
+     "canonical_id": "Tc588954002",
+     "similarity": 0.705
+    }
+   ],
+   "canonical_id": "Tc588954002",
+   "club": "Springfield SYC Soccer",
+   "name": "SYC Blue",
+   "state": "VA",
+   "status": "probable"
+  },
   "ysg:300441638": {
    "age": "GU12",
    "at": "2026-10-10T16:59:16Z",
@@ -4887,6 +4925,17 @@
    "name": "VISTA Warriors FC",
    "state": "VA",
    "status": "probable"
+  },
+  "ysg:300544464": {
+   "age": "GU12",
+   "at": "2026-10-10T17:09:11Z",
+   "by": "auto-new",
+   "candidates": [],
+   "canonical_id": "T0c175f51c6",
+   "club": "Mclean Youth Soccer",
+   "name": "Mclean Youth Soccer Girls Gold",
+   "state": "VA",
+   "status": "confirmed"
   },
   "ysg:300545774": {
    "age": "GU12",
@@ -5205,6 +5254,17 @@
    "ncsl_code": "NG14107",
    "ncsl_division": "116702955",
    "ncsl_key": "114577143",
+   "region": null,
+   "state": "VA"
+  },
+  "T0c175f51c6": {
+   "age": "GU12",
+   "club": "Mclean Youth Soccer",
+   "created": "2026-10-10T17:09:11Z",
+   "gender": "G",
+   "id": "T0c175f51c6",
+   "name": "Mclean Youth Soccer Girls Gold",
+   "ncsl_key": null,
    "region": null,
    "state": "VA"
   },
@@ -9342,6 +9402,17 @@
    "ncsl_code": "NG1090",
    "ncsl_division": "116702963",
    "ncsl_key": "102640739",
+   "region": null,
+   "state": "VA"
+  },
+  "Td01caeb101": {
+   "age": "GU12",
+   "club": "Virginia Soccer Association",
+   "created": "2026-10-10T17:09:11Z",
+   "gender": "G",
+   "id": "Td01caeb101",
+   "name": "VSA Pre-ECNL VDA West II",
+   "ncsl_key": null,
    "region": null,
    "state": "VA"
   },
