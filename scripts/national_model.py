@@ -1,8 +1,15 @@
 """National girls rating model.
 
-Poisson attack/defence model fit separately per age group on eligible canonical matches:
+One Poisson attack/defence model fit on all eligible canonical matches, every age together, so
+each team has ONE rating whatever bracket it played in (a 2014/15 team's games in a U12
+tournament and in its U13 league both count):
 
-  expected goals(i vs j) = exp(mu + home*[i at home] + att_i - def_j)
+  expected goals(i vs j) = exp(mu + mu_age[bracket] + home*[i at home] + att_i - def_j)
+
+  * bracket = the older of the two sides' entry ages; mu_age lets scoring levels differ by age
+    (lightly pulled toward the overall mu); home advantage likewise per age, pulled toward one
+    overall value.
+  * Games between teams more than one year apart are excluded.
 
   * Home advantage applies only when the venue is known to be one side's home (NCSL league
     games). Tournament and unknown venues are treated as neutral.
@@ -28,7 +35,20 @@ from config import (MARGIN_CAP, MIN_RANKED_GAMES, NATIONAL_CUTOFF, NATIONAL_RIDG
                     RECENCY_HALF_LIFE_DAYS, SUPPORTED_AGES)
 
 EXCLUSION_ORDER = ["on or before cutoff", "after evaluation date", "not played", "forfeit or administrative",
-                   "score conflict", "scrimmage", "cross-age", "unsupported age"]
+                   "score conflict", "scrimmage", "age gap over one year", "unsupported age"]
+AGE_MU_RIDGE = 2.0
+AGE_HOME_RIDGE = 5.0
+MAX_AGE_GAP = 1
+
+
+def age_n(age):
+    return int(age[2:]) if age and age[2:].isdigit() else 0
+
+
+def bracket_age(m):
+    """The age level a game was played at: the older of the two sides' entry ages."""
+    ages = [a for a in (m.get("age_a"), m.get("age_b")) if a]
+    return max(ages, key=age_n) if ages else "all"
 
 
 def eligibility(match, as_of, cutoff=NATIONAL_CUTOFF):
@@ -48,8 +68,8 @@ def eligibility(match, as_of, cutoff=NATIONAL_CUTOFF):
         return "scrimmage"
     if match["age_a"] not in SUPPORTED_AGES or match["age_b"] not in SUPPORTED_AGES:
         return "unsupported age"
-    if match["age_a"] != match["age_b"]:
-        return "cross-age"
+    if abs(age_n(match["age_a"]) - age_n(match["age_b"])) > MAX_AGE_GAP:
+        return "age gap over one year"
     return None
 
 
@@ -80,41 +100,58 @@ def components(teams, games):
 
 
 def fit(games, as_of, ridge=NATIONAL_RIDGE, half_life=RECENCY_HALF_LIFE_DAYS):
-    """games: eligible matches of one age group. Returns a model dict."""
+    """games: eligible matches (any ages). Returns a model dict."""
     teams = sorted({g["team_a"] for g in games} | {g["team_b"] for g in games})
     if not teams:
-        return {"mu": 0.3, "home": 0.0, "teams": {}, "networks": [], "n_games": 0}
+        return {"mu": 0.3, "mu_age": {}, "home": 0.0, "teams": {}, "networks": [], "n_games": 0}
     idx = {t: i for i, t in enumerate(teams)}
     n = len(teams)
+    ages = sorted({bracket_age(g) for g in games}, key=age_n)
+    aidx = {a: i for i, a in enumerate(ages)}
+    K = len(ages)
+    AG = np.array([aidx[bracket_age(g)] for g in games])
     A = np.array([idx[g["team_a"]] for g in games]); B = np.array([idx[g["team_b"]] for g in games])
     sc = [capped(g["a_score"], g["b_score"]) for g in games]
     GA = np.array([s[0] for s in sc], float); GB = np.array([s[1] for s in sc], float)
     HOME = np.array([1.0 if g.get("venue_type") == "home" else 0.0 for g in games])
     W = np.array([0.5 ** (max(0, (as_of - date.fromisoformat(g["date"])).days) / half_life) for g in games])
 
+    # x = [mu, h, off_1..off_K, hoff_1..hoff_K, att_1..att_n, def_1..def_n]
+    o0 = 2 + 2 * K
+
     def f(x):
-        mu, h, a, d = x[0], x[1], x[2:2 + n], x[2 + n:]
-        la = mu + h * HOME + a[A] - d[B]
-        lb = mu + a[B] - d[A]
+        mu, h, off, hoff, a, d = x[0], x[1], x[2:2 + K], x[2 + K:o0], x[o0:o0 + n], x[o0 + n:]
+        base = mu + off[AG]
+        hh = h + hoff[AG]
+        la = base + hh * HOME + a[A] - d[B]
+        lb = base + a[B] - d[A]
         ea, eb = np.exp(la), np.exp(lb)
         nll = np.sum(W * (ea - GA * la)) + np.sum(W * (eb - GB * lb))
-        pen = ridge * (np.sum(a ** 2) + np.sum(d ** 2)) + 5.0 * h ** 2
+        pen = (ridge * (np.sum(a ** 2) + np.sum(d ** 2)) + 5.0 * h ** 2 + AGE_MU_RIDGE * np.sum(off ** 2)
+               + AGE_HOME_RIDGE * np.sum(hoff ** 2))
         ra, rb = W * (ea - GA), W * (eb - GB)
         g = np.zeros_like(x)
         g[0] = ra.sum() + rb.sum(); g[1] = (ra * HOME).sum() + 10.0 * h
+        go = np.zeros(K); np.add.at(go, AG, ra + rb)
+        g[2:2 + K] = go + 2 * AGE_MU_RIDGE * off
+        gh = np.zeros(K); np.add.at(gh, AG, ra * HOME)
+        g[2 + K:o0] = gh + 2 * AGE_HOME_RIDGE * hoff
         ga = np.zeros(n); gd = np.zeros(n)
         np.add.at(ga, A, ra); np.add.at(ga, B, rb)
         np.add.at(gd, B, -ra); np.add.at(gd, A, -rb)
-        g[2:2 + n] = ga + 2 * ridge * a; g[2 + n:] = gd + 2 * ridge * d
+        g[o0:o0 + n] = ga + 2 * ridge * a; g[o0 + n:] = gd + 2 * ridge * d
         return nll + pen, g
 
-    x0 = np.zeros(2 + 2 * n)
+    x0 = np.zeros(o0 + 2 * n)
     x0[0] = math.log(max(0.05, float((GA * W).sum() + (GB * W).sum()) / max(1e-9, 2 * W.sum())))
-    res = minimize(f, x0, jac=True, method="L-BFGS-B", options={"maxiter": 2000})
-    mu, h, a, d = float(res.x[0]), float(res.x[1]), res.x[2:2 + n].copy(), res.x[2 + n:].copy()
+    res = minimize(f, x0, jac=True, method="L-BFGS-B", options={"maxiter": 5000, "ftol": 1e-13, "gtol": 1e-9})
+    mu, h = float(res.x[0]), float(res.x[1])
+    off, hoff = res.x[2:2 + K].copy(), res.x[2 + K:o0].copy()
+    a, d = res.x[o0:o0 + n].copy(), res.x[o0 + n:].copy()
 
     # curvature for uncertainty (diagonal Fisher information)
-    la = mu + h * HOME + a[A] - d[B]; lb = mu + a[B] - d[A]
+    base = mu + off[AG]
+    la = base + (h + hoff[AG]) * HOME + a[A] - d[B]; lb = base + a[B] - d[A]
     ea, eb = np.exp(la), np.exp(lb)
     ia = np.full(n, 2 * ridge); idd = np.full(n, 2 * ridge)
     np.add.at(ia, A, W * ea); np.add.at(ia, B, W * eb)
@@ -136,8 +173,9 @@ def fit(games, as_of, ridge=NATIONAL_RIDGE, half_life=RECENCY_HALF_LIFE_DAYS):
         i = idx[t]
         out[t] = {"att": float(a[i]), "def": float(d[i]), "se": float(se[i]), "games": games_of[t],
                   "network": net_of[t]}
-    return {"mu": mu, "home": h, "teams": out, "networks": [len(n_) for n_ in nets], "n_games": len(games),
-            "converged": bool(res.success)}
+    return {"mu": mu, "mu_age": {ag: mu + float(off[i]) for ag, i in aidx.items()}, "home": h,
+            "home_age": {ag: h + float(hoff[i]) for ag, i in aidx.items()}, "teams": out,
+            "networks": [len(n_) for n_ in nets], "n_games": len(games), "converged": bool(res.success)}
 
 
 def rating(att, dfn):
@@ -155,12 +193,15 @@ def probs(lh, la, max_goals=10):
     return w / s, dr / s, l / s
 
 
-def predict(model, ta, tb, a_home=False):
+def predict(model, ta, tb, a_home=False, age=None):
+    """age: the bracket the game is played at (sets the scoring level); None = overall level."""
     A, B = model["teams"][ta], model["teams"][tb]
     if A["network"] != B["network"]:
         return None
-    lh = math.exp(model["mu"] + (model["home"] if a_home else 0) + A["att"] - B["def"])
-    la = math.exp(model["mu"] + B["att"] - A["def"])
+    mu = model.get("mu_age", {}).get(age, model["mu"]) if age else model["mu"]
+    home = model.get("home_age", {}).get(age, model["home"]) if age else model["home"]
+    lh = math.exp(mu + (home if a_home else 0) + A["att"] - B["def"])
+    la = math.exp(mu + B["att"] - A["def"])
     return probs(lh, la)
 
 

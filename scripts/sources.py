@@ -88,6 +88,21 @@ def ncsl_observations(games, registry_by_div, retrieved_at):
 
 
 # --------------------------------------------------------------------------- generic CSV imports
+def competition_type(name):
+    """Best guess from an event name: 'Revolution Cup 2026' -> tournament. Used for display
+    (league vs tournament records) only; it does not change which games count."""
+    n = (name or "").lower()
+    if "scrimmage" in n:
+        return "scrimmage"
+    if "showcase" in n:
+        return "showcase"
+    if re.search(r"\b(cup|classic|invitational|tournament|shootout|festival|challenge|jamboree|kickoff|blast|fest|copa|clash|bash|open)\b", n):
+        return "tournament"
+    if re.search(r"\b(league|ncsl|edpl?|ecnl|ecrl|npl|division|conference|premier league|state cup)\b", n):
+        return "tournament" if "state cup" in n else "league"
+    return "unknown"
+
+
 CSV_COLUMNS = ["date", "time", "competition", "competition_type", "venue_type",
                "team_a", "team_a_id", "team_a_state", "team_b", "team_b_id", "team_b_state",
                "score_a", "score_b", "status", "age_group", "gender", "source", "source_match_id", "url"]
@@ -362,7 +377,7 @@ def _ysg_obs_from_games(info, games, retrieved, directory, problems=None):
         out.append({
             "obs_id": None, "source": "ysg", "observer": f"ysg:{info['id']}", "source_record_key": rk,
             "upstream_id": None, "date": g["date"], "time": None, "competition": g.get("competition"),
-            "competition_type": "unknown", "venue_type": "unknown",
+            "competition_type": competition_type(g.get("competition")), "venue_type": "unknown",
             "a": team(g["a_id"], g["a_name"]), "b": team(g["b_id"], g["b_name"]),
             "a_score": g["a_score"], "b_score": g["b_score"], "status": g["status"],
             "url": g.get("event_url") or f"https://youthsoccergames.com/team/{info['id']}",

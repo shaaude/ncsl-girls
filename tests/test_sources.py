@@ -59,3 +59,12 @@ def test_ysg_page_without_canonical_link_uses_given_id():
     from sources import _ysg_obs_from_games
     out = _ysg_obs_from_games({"id": "900000021", "age": "GU12"}, games2, "t", {}, [])
     assert all(o["a"]["source_key"] != "ysg:None" for o in out)
+
+
+def test_competition_type_from_event_name():
+    from sources import competition_type
+    assert competition_type("Revolution Cup 2026") == "tournament"
+    assert competition_type("Fall Showcase") == "showcase"
+    assert competition_type("NCSL Fall 2026 U12 Div 1") == "league"
+    assert competition_type("Preseason Scrimmage") == "scrimmage"
+    assert competition_type(None) == "unknown"
