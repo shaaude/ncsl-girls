@@ -234,16 +234,35 @@ STATE_SLUGS = {s.lower().replace(" ", "-"): a for s, a in [
 
 def parse_ysg_directory(html):
     """Parse a state/age/gender directory page (approved for crawling). Returns team rows.
-    Rankings on the page are deliberately NOT kept: national ratings here come only from games."""
+    Real layout (checked 2026-10-10): each <tr data-teamid> has a club cell (logo + club name),
+    a team-name cell (td.w-45) and a chevron link, all linking to /team/{id}. Rankings on the
+    page are deliberately NOT kept: national ratings here come only from games."""
     rows = []
     yg = re.search(r'data-yeargen="([^"]+)"', html)
     for attrs, body in re.findall(r'<tr\b([^>]*\bdata-teamid="\d+"[^>]*)>(.*?)</tr>', html, re.S):
         tid = re.search(r'data-teamid="(\d+)"', attrs).group(1)
-        club = re.search(r'data-club="([^"]*)"', attrs)
-        link = re.search(r'href="(?:https?://(?:www\.)?youthsoccergames\.com)?/team/' + tid + r'"[^>]*>(.*?)</a>', body, re.S)
-        rows.append({"id": tid, "name": _text(link.group(1)) if link else None,
-                     "club": htmllib.unescape(club.group(1)).strip() if club and club.group(1).strip() else None})
-    return {"yeargen": yg.group(1) if yg else None, "teams": [r for r in rows if r["name"]]}
+        cells = re.findall(r"<td\b([^>]*)>(.*?)</td>", body, re.S)
+        name = club = None
+        for cattrs, cbody in cells:
+            if f"/team/{tid}" not in cbody:
+                continue
+            txt = _text(cbody)
+            if not txt:
+                continue
+            if "w-45" in cattrs:
+                name = txt
+            elif "club-logo" in cbody and club is None:
+                club = txt
+        if name is None:   # fallback: last non-empty link text that isn't the club
+            texts = [_text(c) for _, c in cells if f"/team/{tid}" in c and _text(c)]
+            texts = [t for t in texts if t != club]
+            name = texts[-1] if texts else None
+        dc = re.search(r'data-club="([^"]*)"', attrs)
+        if dc and dc.group(1).strip():
+            club = htmllib.unescape(dc.group(1)).strip()
+        if name:
+            rows.append({"id": tid, "name": name, "club": club})
+    return {"yeargen": yg.group(1) if yg else None, "teams": rows}
 
 
 def ysg_directory_index():

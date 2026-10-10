@@ -130,14 +130,14 @@ def structure_digest(html, limit=120):
 
 
 # ------------------------------------------------------------------ directories (approved, any time)
+AGE_SLUGS = [f"u{n}" for n in range(9, 20)]    # u18 and u19 both map to GU19 (there is no GU18)
+
+
 def discover_slugs(f):
-    """Read the state and age links from one directory page instead of guessing URL formats."""
+    """The directory pages don't link other states/ages in plain hrefs, so use fixed lists
+    (all 50 states + DC, U9-U19). The first page is fetched once to confirm the layout."""
     st, html = f.get("/teams/virginia/girls/u12")
-    if st != 200:
-        return list(STATE_SLUGS), [f"u{n}" for n in range(9, 20)], st, html
-    states = sorted(set(re.findall(r'/teams/([a-z-]+)/girls/u\d+', html)) | {"virginia"})
-    ages = sorted(set(re.findall(r'/teams/[a-z-]+/girls/(u\d{1,2})\b', html)), key=lambda a: int(a[1:]))
-    return states, ages, st, html
+    return sorted(STATE_SLUGS), AGE_SLUGS, st, html
 
 
 def run_directories(perm, states_arg=None, max_pages=None):
