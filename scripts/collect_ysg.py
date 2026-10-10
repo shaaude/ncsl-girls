@@ -259,21 +259,42 @@ def profile_queue(log, today_utc):
     return q
 
 
-def run_profiles(perm, max_pages=None, force_window=False):
+def test_window_active(perm, now_et=None):
+    until = perm.get("test_runs_until_eastern")
+    if not until:
+        return False
+    now_et = now_et or datetime.now(EASTERN)
+    return now_et <= datetime.fromisoformat(until).replace(tzinfo=EASTERN)
+
+
+def run_test(perm):
+    """Weekend test approved by YouthSoccerGames: VA/MD/DC directories for every age, then a small
+    batch of team pages. Same 10 s delay. Does not count as the weekly team-page run."""
+    if not test_window_active(perm):
+        print("the approved test period has ended; nothing fetched")
+        return
+    run_directories(perm, ",".join(PRIORITY_STATES))
+    run_profiles(perm, max_pages=int(perm.get("test_run_max_profile_pages", 30)), test=True)
+
+
+def run_profiles(perm, max_pages=None, force_window=False, test=False):
     if "profiles" not in perm.get("modes", []):
         print("team profile crawling is not in the recorded permission; nothing fetched"); return
     now_et = datetime.now(EASTERN)
-    if not in_window(now_et) and not force_window:
+    if test and not test_window_active(perm, now_et):
+        print("the approved test period has ended; nothing fetched"); return
+    if not in_window(now_et) and not force_window and not test:
         msg = f"outside the permitted 1:00-5:00 AM Eastern window (now {now_et:%H:%M} ET); nothing fetched"
         print(msg)
         report({"mode": "profiles", "started": now_utc().isoformat(), "skipped": msg})
         return
     log = load_log()
-    last = max(log["profiles"].values(), default=None)
-    if last and datetime.fromisoformat(last) > now_utc() - timedelta(days=6) and not force_window:
+    weekly = log.setdefault("weekly_profile_runs", [])
+    last = max(weekly, default=None)            # test runs don't count toward "once weekly"
+    if last and datetime.fromisoformat(last) > now_utc() - timedelta(days=6) and not force_window and not test:
         msg = f"team profiles were already collected this week ({last}); once weekly only"
         print(msg); report({"mode": "profiles", "started": now_utc().isoformat(), "skipped": msg}); return
-    deadline = now_et.replace(hour=4, minute=50, second=0, microsecond=0)
+    deadline = None if test else now_et.replace(hour=4, minute=50, second=0, microsecond=0)
     f = Fetcher(perm, deadline=deadline, max_pages=max_pages or int(perm.get("max_profile_pages_per_week", 1200)))
     queue = profile_queue(log, now_utc())
     started = now_utc().isoformat()
@@ -309,8 +330,10 @@ def run_profiles(perm, max_pages=None, force_window=False):
             save_digest(f"team_structure_{digests + 1}.txt", html); digests += 1
         if saved % 25 == 0:
             save_json(LOG, log)
+    if not test and saved:
+        log["weekly_profile_runs"] = (weekly + [started])[-20:]
     save_json(LOG, log)
-    report({"mode": "profiles", "started": started, "finished": now_utc().isoformat(), "requests": f.count,
+    report({"mode": "profiles-test" if test else "profiles", "started": started, "finished": now_utc().isoformat(), "requests": f.count,
             "pages_saved": saved, "pages_with_no_games_parsed": no_games, "games_kept": games_total,
             "queue_length": len(queue), "by_reason": reasons})
     print(f"profiles: {saved} pages, {games_total} games kept (from {SCORE_FROM}), {no_games} pages with no games parsed")
@@ -350,9 +373,10 @@ def reparse():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("mode", choices=["directories", "profiles", "reparse", "bootstrap", "status"])
+    ap.add_argument("mode", choices=["directories", "profiles", "reparse", "bootstrap", "test", "status"])
     ap.add_argument("--states")
     ap.add_argument("--max-pages", type=int)
+    ap.add_argument("--test", action="store_true", help="with bootstrap: run the approved test if active")
     a = ap.parse_args()
     perm = permission()
     if not perm:
@@ -362,9 +386,14 @@ def main():
         print(json.dumps({"permission": perm.get("evidence"), "modes": perm.get("modes"), "log": {k: len(v) for k, v in load_log().items()}}, indent=1))
     elif a.mode == "reparse":
         reparse()
+    elif a.mode == "test":
+        run_test(perm)
     elif a.mode == "bootstrap":
-        # first run after permission: directories for VA/MD/DC only, so the parser can be checked
-        if not list((YSG / "directory").glob("*.json")):
+        # runs on pushes: an approved test while the test period lasts; otherwise first-time
+        # VA/MD/DC directories, or re-parse cached pages after a parser fix (no network)
+        if test_window_active(perm) and a.test:
+            run_test(perm)
+        elif not list((YSG / "directory").glob("*.json")):
             run_directories(perm, ",".join(PRIORITY_STATES), a.max_pages)
         else:
             reparse()

@@ -98,3 +98,24 @@ def test_queue_puts_likely_ncsl_teams_first():
     other = {"name": "Red", "club": "Baltimore Armour"}
     assert c.ncsl_match_score(arl, "ARL 2015G Red (U12)") > c.ncsl_match_score(other, "ARL 2015G Red (U12)")
     assert "loud" in c.club_tags("Loudoun Soccer") and "asa" in c.club_tags("Arlington Soccer Association")
+
+
+def test_weekend_test_window():
+    perm = {"test_runs_until_eastern": "2026-10-11T23:59"}
+    assert c.test_window_active(perm, datetime(2026, 10, 10, 13, 0, tzinfo=EASTERN))
+    assert not c.test_window_active(perm, datetime(2026, 10, 12, 0, 1, tzinfo=EASTERN))
+    assert not c.test_window_active({}, datetime(2026, 10, 10, 13, 0, tzinfo=EASTERN))
+
+
+def test_test_runs_do_not_count_as_weekly(monkeypatch, tmp_path):
+    monkeypatch.setattr(c, "LOG", tmp_path / "log.json")
+    monkeypatch.setattr(c, "REPORT", tmp_path / "r.json")
+    monkeypatch.setattr(c, "YSG", tmp_path)
+    monkeypatch.setattr(c, "ROOT", tmp_path)
+    class F:
+        def __init__(self, *a, **k): self.count = 0
+        def can_continue(self): return False
+    monkeypatch.setattr(c, "Fetcher", F)
+    c.run_profiles({"granted": True, "evidence": "x", "modes": ["profiles"],
+                    "test_runs_until_eastern": "2099-01-01T00:00"}, max_pages=1, test=True)
+    assert json.loads((tmp_path / "log.json").read_text()).get("weekly_profile_runs", []) == []
