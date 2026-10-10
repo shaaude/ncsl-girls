@@ -26,6 +26,42 @@
    "mode": "reparse",
    "started": "2026-10-10T16:32:20.119403+00:00",
    "team_pages": 0
+  },
+  {
+   "ages": [
+    "u9",
+    "u10",
+    "u11",
+    "u12",
+    "u13",
+    "u14",
+    "u15",
+    "u16",
+    "u17",
+    "u18",
+    "u19"
+   ],
+   "empty_pages": 1,
+   "failed": [],
+   "finished": "2026-10-10T16:46:34.161199+00:00",
+   "mode": "directories",
+   "pages": 33,
+   "saved": 33,
+   "started": "2026-10-10T16:41:14.324361+00:00",
+   "states_found": 51
+  },
+  {
+   "by_reason": {
+    "resembles an NCSL team": 30
+   },
+   "finished": "2026-10-10T16:51:47.881579+00:00",
+   "games_kept": 14,
+   "mode": "profiles-test",
+   "pages_saved": 30,
+   "pages_with_no_games_parsed": 16,
+   "queue_length": 4072,
+   "requests": 30,
+   "started": "2026-10-10T16:46:57.812301+00:00"
   }
  ]
 }
