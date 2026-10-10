@@ -33,7 +33,9 @@ def test_forfeits_conflicts_scrimmages_cross_age_excluded():
     assert eligibility(m("2026-09-01", status="conflict"), AS_OF) == "score conflict"
     assert eligibility(m("2026-09-01", ctype="scrimmage"), AS_OF) == "scrimmage"
     x = m("2026-09-01"); x["age_b"] = "GU13"
-    assert eligibility(x, AS_OF) == "cross-age"
+    assert eligibility(x, AS_OF) is None                     # one year apart: counts (one rating per team)
+    x["age_b"] = "GU14"
+    assert eligibility(x, AS_OF) == "age gap over one year"
 
 
 def test_alias_maps_to_ncsl_team_with_game_evidence(tmp_path):

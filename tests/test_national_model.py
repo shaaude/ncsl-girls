@@ -54,3 +54,27 @@ def test_uncertainty_shrinks_with_more_games():
     few = nm.fit(NET1[:2], AS_OF)["teams"]["B"]["se"]
     many = nm.fit(NET1 * 4, AS_OF)["teams"]["B"]["se"]
     assert many < few
+
+
+def test_one_rating_across_adjacent_ages():
+    """A team's games in a younger bracket count toward its single rating, and link the two
+    age groups so they can be compared."""
+    import random
+    from national_model import fit, predict
+    rnd = random.Random(3)
+    games = []
+    def g(a, b, sa, sb, age_a, age_b, d):
+        games.append({"team_a": a, "team_b": b, "a_score": sa, "b_score": sb, "date": d,
+                      "venue_type": "neutral", "age_a": age_a, "age_b": age_b})
+    for i in range(6):                      # U13 league among X, Y ; U12 league among P, Q
+        g("X", "Y", 1, 1, "GU13", "GU13", f"2026-09-{10+i:02d}")
+        g("P", "Q", 2, 0, "GU12", "GU12", f"2026-09-{10+i:02d}")
+    for i in range(3):                      # X enters a U12 tournament and beats P
+        g("X", "P", 3, 0, "GU12", "GU12", f"2026-09-0{2+i}")
+    mdl = fit(games, date(2026, 10, 1))
+    T = mdl["teams"]
+    assert len(mdl["networks"]) == 1                     # the tournament links the two ages
+    assert T["X"]["games"] == 9                           # league and tournament games, one team
+    assert set(mdl["mu_age"]) == {"GU12", "GU13"}
+    p = predict(mdl, "Y", "Q", age="GU13")
+    assert p is not None and abs(sum(p) - 1) < 1e-9
