@@ -29,8 +29,10 @@ and upload the file here. The parser was written from the site's published struc
 be checked against the first real page; anything it can't read is listed under "import
 problems" in `site/national/index.json` rather than guessed.
 
-Automated collection (`scripts/collect_ysg.py`) stays off unless `data/permissions.json`
-records written permission from YouthSoccerGames.
+Automated collection (`scripts/collect_ysg.py`, weekly workflow) runs under the written
+permission recorded in `data/permissions.json`: directory pages weekly, team pages once a week
+between 1 and 5 AM Eastern, 10 seconds between requests, games from 2026-08-01 on. Its output
+lands in `ysg/directory/` and `ysg/extracted/`; don't edit those by hand.
 
 ## Team identity decisions
 

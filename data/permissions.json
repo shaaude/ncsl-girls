@@ -1,0 +1,15 @@
+{
+ "youthsoccergames": {
+  "granted": true,
+  "granted_by": "YouthSoccerGames Data & Platform Operations <support@youthsoccergames.com>",
+  "granted_on": "2026-10-10",
+  "evidence": "Email reply 'Re: Data Usage & Academic/Analytical Research Permission Inquiry' (2026-10-10). Approves crawling state/age/gender directory pages (e.g. /teams/virginia/girls/u12). Team profile pages: once weekly, off-peak 1:00-5:00 AM Eastern only, no bulk crawling. Minimum 10 seconds between requests. Game scores only for matches on or after 2026-08-01. Visible attribution not required. Original email kept by the repository owner.",
+  "modes": ["directories", "profiles"],
+  "min_seconds_between_requests": 10,
+  "profile_window_eastern": "01:00-05:00",
+  "profile_frequency": "weekly",
+  "max_profile_pages_per_week": 1200,
+  "scores_from": "2026-08-01",
+  "robots_txt_override_by_permission": true
+ }
+}
