@@ -147,7 +147,8 @@ def csv_observations(paths=None):
 
 # --------------------------------------------------------------------------- YouthSoccerGames snapshots
 DATE_PATTERNS = [("%b %d, %Y", r"[A-Z][a-z]{2} \d{1,2}, 20\d\d"), ("%B %d, %Y", r"[A-Z][a-z]+ \d{1,2}, 20\d\d"),
-                 ("%m/%d/%Y", r"\d{1,2}/\d{1,2}/20\d\d"), ("%Y-%m-%d", r"20\d\d-\d\d-\d\d")]
+                 ("%m/%d/%Y", r"\d{1,2}/\d{1,2}/20\d\d"), ("%Y-%m-%d", r"20\d\d-\d\d-\d\d"),
+                 ("%m/%d/%y", r"\b\d{1,2}/\d{1,2}/\d\d\b"), ("%d %b %Y", r"\b\d{1,2} [A-Z][a-z]{2} 20\d\d")]
 
 
 def _text(s):
@@ -165,29 +166,97 @@ def _find_date(s):
     return None
 
 
+def _games_in_pane(pane_html, own_id, own_name):
+    """Game blocks inside a #gamehistory / #upcominggames pane (real layout checked 2026-10-10):
+    each outer <tr class="border-bottom ..."> holds an inner table whose two team rows have a
+    td.col-10 (logo + name; the opponent links to /team/{id}, the page's own team has no link)
+    and a td.col-1 with the score; other rows carry the date and the competition."""
+    games, warn = [], []
+    blocks = re.split(r'<tr\b[^>]*class="[^"]*border-bottom[^"]*"[^>]*>', pane_html)[1:]
+    for blk in blocks:
+        rows = re.findall(r"<tr\b[^>]*>(.*?)</tr>", blk, re.S)
+        teams, other_text, event = [], [], None
+        for r in rows:
+            cells = re.findall(r"<td\b([^>]*)>(.*?)</td>", r, re.S)
+            col10 = next(((a, c) for a, c in cells if "col-10" in a), None)
+            if col10:
+                link = re.search(r'/team/(\d+)', col10[1])
+                score_cell = next((c for a, c in cells if "col-1" in a and "col-10" not in a), "")
+                sc = re.search(r"\b(\d{1,2})\b", _text(score_cell))
+                teams.append({"id": link.group(1) if link else own_id,
+                              "name": _text(col10[1]) or (None if link else own_name),
+                              "score": int(sc.group(1)) if sc else None})
+            else:
+                other_text.append(_text(r))
+                ev = re.search(r'href="([^"]*events/(\d+)[^"]*)"', r)
+                if ev:
+                    event = ev
+        if len(teams) != 2:
+            if teams or other_text:
+                warn.append(f"game block with {len(teams)} team rows skipped")
+            continue
+        joined = " | ".join(t for t in other_text if t)
+        d = _find_date(joined)
+        if not d:
+            warn.append("game without a readable date skipped")
+            continue
+        comp = joined
+        for _, pat in DATE_PATTERNS:
+            comp = re.sub(pat, "", comp)
+        comp = re.sub(r"\s*\|\s*", " | ", comp).strip(" |-·,") or None
+        played = teams[0]["score"] is not None and teams[1]["score"] is not None
+        games.append({"a_id": teams[0]["id"], "a_name": teams[0]["name"], "b_id": teams[1]["id"], "b_name": teams[1]["name"],
+                      "a_score": teams[0]["score"] if played else None, "b_score": teams[1]["score"] if played else None,
+                      "date": d, "competition": comp, "event_url": event.group(1) if event else None,
+                      "event_id": event.group(2) if event else None, "status": "final" if played else "scheduled"})
+    return games, warn
+
+
+def _pane(html, pane_id):
+    m = re.search(r'<div[^>]*\bid="' + pane_id + r'"[^>]*>', html)
+    if not m:
+        return ""
+    rest = html[m.end():]
+    nxt = re.search(r'<div[^>]*class="tab-pane[^"]*"', rest)
+    return rest[: nxt.start()] if nxt else rest
+
+
 def parse_ysg_team_page(html):
-    """Parse a SAVED YouthSoccerGames team page. Returns (team_info, games, warnings).
-    The layout was inferred from the site's published structure (nested game tables with two
-    /team/{id} links, scores, and a date/competition row). It must be checked against the first
-    real saved page; anything it cannot read is reported as a warning, never guessed."""
+    """Parse a YouthSoccerGames team page. Returns (team_info, games, warnings).
+    Uses the #gamehistory and #upcominggames tabs; falls back to the older generic table scan
+    only if those tabs are missing. Anything unreadable is reported, never guessed."""
     warn = []
-    tid = None
     m = re.search(r'<link[^>]+rel="canonical"[^>]+href="[^"]*/team/(\d+)', html) or \
         re.search(r'href="https?://(?:www\.)?youthsoccergames\.com/team/(\d+)"', html)
-    if m:
-        tid = m.group(1)
+    tid = m.group(1) if m else None
     title = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S)
     name = _text(title.group(1)) if title else None
     head = _text(html[:20000])
-    age = normalize_age(re.search(r"\b(?:U|GU)\s?\d{1,2}\b", head).group(0)) if re.search(r"\b(?:U|GU)\s?\d{1,2}\b", head) else None
-    if not age and name:
-        age = normalize_age(name)
+    am = re.search(r"\b(?:U|GU)\s?\d{1,2}\b", head)
+    age = normalize_age(am.group(0)) if am else (normalize_age(name) if name else None)
     girls = bool(re.search(r"\bgirls?\b", head, re.I))
     st = re.search(r'/teams/([a-z-]+)/girls/', html)
-    state = None
-    if st:
-        state = STATE_SLUGS.get(st.group(1))
+    state = STATE_SLUGS.get(st.group(1)) if st else None
     games = []
+    hist, upc = _pane(html, "gamehistory"), _pane(html, "upcominggames")
+    if hist or upc:
+        played, w1 = _games_in_pane(hist, tid, name)
+        upcoming, w2 = _games_in_pane(upc, tid, name)
+        done = {(g["date"], frozenset((g["a_id"], g["b_id"]))) for g in played}
+        # an upcoming entry already in the history is the same game: keep the scored copy only
+        games = played + [g for g in upcoming if (g["date"], frozenset((g["a_id"], g["b_id"]))) not in done]
+        warn += w1 + w2
+    else:
+        games, w = _legacy_tables(html)
+        warn += w
+    if not games:
+        warn.append("no games found; the page layout may differ from what the parser expects")
+    return {"id": tid, "name": name, "age": age, "girls": girls, "state": state}, games, warn
+
+
+def _legacy_tables(html):
+    """Generic fallback: inner tables with two /team/{id} links (used by the synthetic fixture)."""
+    warn, games = [], []
     for tbl in re.findall(r"<table\b[^>]*>(?:(?!<table\b).)*?</table>", html, re.S):
         links = re.findall(r'href="(?:https?://(?:www\.)?youthsoccergames\.com)?/team/(\d+)"[^>]*>(.*?)</a>', tbl, re.S)
         if len(links) != 2:
@@ -213,9 +282,7 @@ def parse_ysg_team_page(html):
                       "a_score": scores[0], "b_score": scores[1], "date": d, "competition": comp,
                       "event_url": ev.group(1) if ev else None, "event_id": ev.group(2) if ev else None,
                       "status": "final" if played else "scheduled"})
-    if not games:
-        warn.append("no games found; the page layout may differ from what the parser expects")
-    return {"id": tid, "name": name, "age": age, "girls": girls, "state": state}, games, warn
+    return games, warn
 
 
 STATE_SLUGS = {s.lower().replace(" ", "-"): a for s, a in [
