@@ -1,0 +1,56 @@
+name: YouthSoccerGames collection
+# Runs only under data/permissions.json (YouthSoccerGames written permission, 2026-10-10).
+# Directory pages: weekly. Team profiles: once weekly, 1:00-5:00 AM Eastern, 10 s between requests.
+on:
+  schedule:
+    - cron: "23 6 * * 2"   # Tue 2:23 AM EDT / 1:23 AM EST - directory pages
+    - cron: "23 6 * * 3"   # Wed 2:23 AM EDT / 1:23 AM EST - team profiles (script enforces the window)
+  push:
+    branches: [main]
+    paths: ["data/permissions.json", "scripts/collect_ysg.py", "scripts/sources.py", ".github/workflows/ysg-weekly.yml"]
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "directories | profiles | reparse"
+        default: directories
+permissions:
+  contents: write
+concurrency: { group: ysg-collect, cancel-in-progress: false }
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Restore raw page cache (private; never committed)
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/ysg
+          key: ysg-raw-${{ github.run_id }}
+          restore-keys: ysg-raw-
+      - name: Collect
+        run: |
+          case "${{ github.event_name }}:${{ github.event.schedule }}" in
+            "schedule:23 6 * * 2") MODE=directories ;;
+            "schedule:23 6 * * 3") MODE=profiles ;;
+            push:*) MODE=bootstrap ;;
+            *) MODE="${{ inputs.mode }}" ;;
+          esac
+          echo "mode: $MODE"
+          python scripts/collect_ysg.py "$MODE"
+      - name: Save raw page cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/ysg
+          key: ysg-raw-${{ github.run_id }}
+      - name: Commit extracted data
+        run: |
+          git config user.name "ncsl-bot"
+          git config user.email "ncsl-bot@users.noreply.github.com"
+          git add imports/ysg data/ysg_fetch_log.json data/ysg_collection_report.json 2>/dev/null || true
+          git commit -m "YouthSoccerGames collection $(date -u +%FT%H:%MZ)" || echo "nothing to commit"
+          git pull --rebase origin main && git push

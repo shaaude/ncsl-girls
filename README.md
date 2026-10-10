@@ -37,7 +37,20 @@ Pipeline (`scripts/build_national.py`, runs after the NCSL build each time):
 5. **Model** (`scripts/national_model.py`): Poisson attack/defence per age group, recency-weighted (90-day half-life), margins capped at 6, neutral venue unless a real home game, ridge 1.0, uncertainty per team. No division-tier assumption: teams are compared only within a connected network. National rank needs the main network (≥50% of rated teams, linked by outside results) and ≥8 eligible games; fewer games = provisional.
 6. **Outputs**: `site/national/index.json`, `site/national/{AGE}.json`, `site/national/teams/{id}.json` (lazy-loaded), written atomically so a failed build leaves the previous outputs in place.
 
-Automated YouthSoccerGames collection (`scripts/collect_ysg.py`) is disabled: its robots.txt disallows crawling and no written permission is on file. It activates only if `data/permissions.json` records permission, and still obeys robots.txt and a 5-second delay.
+### YouthSoccerGames collection (written permission, 2026-10-10)
+
+YouthSoccerGames granted written permission (recorded in `data/permissions.json`; the original email is kept by the repo owner). Their robots.txt still disallows crawlers in general; this explicit permission is the basis for the collector, which stays within its terms:
+
+| Pages | Permission | How `.github/workflows/ysg-weekly.yml` runs it |
+|---|---|---|
+| State/age directory pages | Approved | Weekly, Tuesday ~1–2 AM Eastern; VA/MD/DC first |
+| Team profile pages | Once weekly, 1:00–5:00 AM Eastern | Wednesday; the script refuses outside the window, stops at 4:50, skips anything fetched in the last 7 days, max 1,200 pages |
+| All requests | ≥10 s apart | Enforced in code |
+| Game scores | On or after 2026-08-01 | Earlier games dropped at extraction |
+
+Directory pages give team IDs, names, clubs and states (their rankings are not kept). Team pages are queued: teams linked to NCSL teams first, then directory teams resembling NCSL teams, then Mid-Atlantic opponents, then other VA/MD/DC teams. At 10 s a page, about 1,200 team pages a week can be read, so match histories cover NCSL teams and their region, not the whole country.
+
+Raw pages are never committed. Extracted games go to `imports/ysg/extracted/`, team lists to `imports/ysg/directory/`, run logs to `data/ysg_collection_report.json`. Raw pages are kept in the private GitHub Actions cache so `collect_ysg.py reparse` can re-read them after a parser fix without contacting the site again. `imports/ysg/samples/` holds text-free structure outlines of a few pages for checking the parser.
 
 ### Model check (rolling weekly backtest, predicting only from earlier games)
 
@@ -45,7 +58,7 @@ On 143 NCSL games (within-division; Sept 26 and Oct 3 origins): national model l
 
 ### Tests
 
-`python -m pytest tests` covers NCSL preservation, deduplication, corrections, conflicts, same-day rematches, the date cutoff, identity linking, model behaviour and an end-to-end build. Test fixtures in `tests/fixtures/` are synthetic and never published.
+`python -m pytest tests` covers the collector's permission, time-window, delay and once-weekly rules, NCSL preservation, deduplication, corrections, conflicts, same-day rematches, the date cutoff, identity linking, model behaviour and an end-to-end build. Test fixtures in `tests/fixtures/` are synthetic and never published.
 
 ## Data files
 

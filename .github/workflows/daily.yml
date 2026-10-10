@@ -51,9 +51,9 @@ jobs:
           fi
       - name: NCSL standings, ratings and site data
         run: python scripts/build.py
-      - name: 2. Authorized national source updates (no-op without written permission)
+      - name: 2. National source status (collection itself runs in ysg-weekly.yml)
         continue-on-error: true
-        run: python scripts/collect_ysg.py
+        run: python scripts/collect_ysg.py status
       - name: 3-9. Validate, resolve identities, dedupe, rate, build national data
         continue-on-error: true      # a national failure must never block the NCSL site
         run: python scripts/build_national.py

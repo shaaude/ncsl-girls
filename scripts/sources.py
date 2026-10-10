@@ -232,10 +232,60 @@ STATE_SLUGS = {s.lower().replace(" ", "-"): a for s, a in [
     ("Washington", "WA"), ("West Virginia", "WV"), ("Wisconsin", "WI"), ("Wyoming", "WY")]}
 
 
-def ysg_observations(paths=None):
-    """imports/ysg/*.html - team pages saved by a person, or fetched under written permission."""
+def parse_ysg_directory(html):
+    """Parse a state/age/gender directory page (approved for crawling). Returns team rows.
+    Rankings on the page are deliberately NOT kept: national ratings here come only from games."""
+    rows = []
+    yg = re.search(r'data-yeargen="([^"]+)"', html)
+    for attrs, body in re.findall(r'<tr\b([^>]*\bdata-teamid="\d+"[^>]*)>(.*?)</tr>', html, re.S):
+        tid = re.search(r'data-teamid="(\d+)"', attrs).group(1)
+        club = re.search(r'data-club="([^"]*)"', attrs)
+        link = re.search(r'href="(?:https?://(?:www\.)?youthsoccergames\.com)?/team/' + tid + r'"[^>]*>(.*?)</a>', body, re.S)
+        rows.append({"id": tid, "name": _text(link.group(1)) if link else None,
+                     "club": htmllib.unescape(club.group(1)).strip() if club and club.group(1).strip() else None})
+    return {"yeargen": yg.group(1) if yg else None, "teams": [r for r in rows if r["name"]]}
+
+
+def ysg_directory_index():
+    """team id -> {name, club, state, age} from collected directory files."""
+    idx = {}
+    for p in sorted((IMPORTS / "ysg" / "directory").glob("*.json")):
+        d = json.loads(p.read_text())
+        for t in d.get("teams", []):
+            idx[t["id"]] = {"name": t["name"], "club": t.get("club"), "state": d.get("state"), "age": d.get("age")}
+    return idx
+
+
+def _ysg_obs_from_games(info, games, retrieved, directory):
+    out = []
+    for g in games:
+        rk = f"{info['id']}|{g['date']}|{min(g['a_id'], g['b_id'])}|{max(g['a_id'], g['b_id'])}|{g.get('event_id') or g.get('competition') or ''}"
+        def team(i, n):
+            meta = directory.get(i, {})
+            return {"source_key": f"ysg:{i}", "name": n or meta.get("name"), "age": info["age"],
+                    "state": meta.get("state") or (info.get("state") if i == info["id"] else None),
+                    "club": meta.get("club")}
+        out.append({
+            "obs_id": None, "source": "ysg", "observer": f"ysg:{info['id']}", "source_record_key": rk,
+            "upstream_id": None, "date": g["date"], "time": None, "competition": g.get("competition"),
+            "competition_type": "unknown", "venue_type": "unknown",
+            "a": team(g["a_id"], g["a_name"]), "b": team(g["b_id"], g["b_name"]),
+            "a_score": g["a_score"], "b_score": g["b_score"], "status": g["status"],
+            "url": g.get("event_url") or f"https://youthsoccergames.com/team/{info['id']}",
+            "retrieved_at": retrieved, "event_id": g.get("event_id"),
+        })
+    return out
+
+
+def ysg_observations(paths=None, extracted=None):
+    """YouthSoccerGames games from two places:
+      imports/ysg/*.html             team pages a person saved in a browser
+      imports/ysg/extracted/*.json   games extracted by scripts/collect_ysg.py under written permission
+    Games before 2026-08-01 are dropped at extraction, per YouthSoccerGames' permission terms."""
     out, problems = [], []
+    directory = ysg_directory_index()
     paths = paths if paths is not None else sorted((IMPORTS / "ysg").glob("*.htm*"))
+    extracted = extracted if extracted is not None else sorted((IMPORTS / "ysg" / "extracted").glob("*.json"))
     for p in paths:
         html = p.read_text(encoding="utf-8", errors="replace")
         info, games, warn = parse_ysg_team_page(html)
@@ -244,30 +294,24 @@ def ysg_observations(paths=None):
         if not info["id"]:
             m = re.search(r"(\d{6,})", p.name)
             info["id"] = m.group(1) if m else None
+        meta = directory.get(info["id"] or "", {})
+        info["age"] = info["age"] or meta.get("age")
+        info["state"] = info["state"] or meta.get("state")
         if not info["id"]:
-            problems.append({"file": p.name, "reason": "could not tell which team this page belongs to"})
-            continue
-        if not info["girls"]:
-            problems.append({"file": p.name, "reason": "page does not say girls; skipped"})
-            continue
+            problems.append({"file": p.name, "reason": "could not tell which team this page belongs to"}); continue
+        if not info["girls"] and not meta:
+            problems.append({"file": p.name, "reason": "page does not say girls; skipped"}); continue
         if not info["age"]:
-            problems.append({"file": p.name, "reason": "could not read the age group; skipped"})
-            continue
-        retrieved = file_date(p)
-        for g in games:
-            rk = f"{info['id']}|{g['date']}|{min(g['a_id'], g['b_id'])}|{max(g['a_id'], g['b_id'])}|{g['event_id'] or g['competition'] or ''}"
-            def team(i, n):
-                return {"source_key": f"ysg:{i}", "name": n, "age": info["age"],
-                        "state": info["state"] if i == info["id"] else None}
-            out.append({
-                "obs_id": None, "source": "ysg", "observer": f"ysg:{info['id']}", "source_record_key": rk,
-                "upstream_id": None, "date": g["date"], "time": None, "competition": g["competition"],
-                "competition_type": "unknown", "venue_type": "unknown",
-                "a": team(g["a_id"], g["a_name"]), "b": team(g["b_id"], g["b_name"]),
-                "a_score": g["a_score"], "b_score": g["b_score"], "status": g["status"],
-                "url": g["event_url"] or f"https://youthsoccergames.com/team/{info['id']}",
-                "retrieved_at": retrieved, "event_id": g["event_id"],
-            })
+            problems.append({"file": p.name, "reason": "could not read the age group; skipped"}); continue
+        out += _ysg_obs_from_games(info, [g for g in games if g["date"] >= "2026-08-01"], file_date(p), directory)
+    for p in extracted:
+        d = json.loads(p.read_text())
+        info = d["team"]
+        for w in d.get("warnings", []):
+            problems.append({"file": f"extracted/{p.name}", "reason": w})
+        if not info.get("age"):
+            problems.append({"file": f"extracted/{p.name}", "reason": "no age group; skipped"}); continue
+        out += _ysg_obs_from_games(info, d["games"], d["fetched_at"], directory)
     assign_seq(out)
     for o in out:   # same-day rematches on one page get distinct keys through seq
         o["source_record_key"] += f"|{o['seq']}"
