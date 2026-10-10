@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "directories | profiles | reparse"
+        description: "directories | profiles | reparse | test"
         default: directories
 permissions:
   contents: write
@@ -36,11 +36,11 @@ jobs:
           case "${{ github.event_name }}:${{ github.event.schedule }}" in
             "schedule:23 6 * * 2") MODE=directories ;;
             "schedule:23 6 * * 3") MODE=profiles ;;
-            push:*) MODE=bootstrap ;;
+            push:*) MODE="bootstrap --test" ;;
             *) MODE="${{ inputs.mode }}" ;;
           esac
           echo "mode: $MODE"
-          python scripts/collect_ysg.py "$MODE"
+          python scripts/collect_ysg.py $MODE
       - name: Save raw page cache
         if: always()
         uses: actions/cache/save@v4
