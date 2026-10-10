@@ -263,6 +263,7 @@ function viewHome(){
   const upcoming = d.divisions.flatMap(v=>v.G.filter(g=>g.date>=today && g.date<=wk).map(g=>({...g,div:v.id})));
   const recent = d.changes.filter(c=>c.type==="result").slice(-6).reverse();
   return `
+  ${freshness()}
   <h1>NCSL girls travel, Fall 2026</h1>
   <p class="sub">Standings, schedules, power rankings and match predictions for every girls travel division, rebuilt daily from NCSL's published schedules.</p>
   <div class="card">${searchBox()}</div>
@@ -284,6 +285,15 @@ function viewHome(){
   </div>`;
 }
 
+function freshness(){
+  const d = S.data, built = new Date(d.built_at), hrs = (Date.now()-built)/36e5;
+  const when = built.toLocaleString("en-US",{weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+  const ok = d.fetch ? `${d.fetch.ok.length} of ${d.fetch.ok.length+d.fetch.failed.length} divisions downloaded` : "";
+  const stale = hrs > 30;
+  return `<p class="note" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;${stale?"background:var(--loss-bg);color:var(--loss)":""}">
+    <span style="width:8px;height:8px;border-radius:50%;background:var(${stale?"--loss":"--win"});flex:none"></span>
+    <span>Data last pulled from NCSL <b>${when}</b> (${hrs<1?"under an hour ago":Math.round(hrs)+" hours ago"})${ok?` · ${ok}`:""}${stale?" · the daily update looks overdue":""}</span></p>`;
+}
 function searchBox(){
   return `<div class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
   <input id="q" type="search" placeholder="Find a team or club (e.g. ARL, VSA 2013)" autocomplete="off"><div class="results" id="qr" hidden></div></div>`;
