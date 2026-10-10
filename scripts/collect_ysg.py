@@ -286,6 +286,40 @@ def run_test(perm):
     run_profiles(perm, max_pages=int(perm.get("test_run_max_profile_pages", 30)), test=True)
 
 
+def run_teams(perm, ids):
+    """Approved weekend test: fetch a few named team pages (max 10), same 10 s delay."""
+    if not test_window_active(perm):
+        print("the approved test period has ended; nothing fetched"); return
+    ids = [i for i in ids if i.isdigit()][:10]
+    f = Fetcher(perm, max_pages=len(ids))
+    log = load_log()
+    directory = {}
+    for p in sorted((YSG / "directory").glob("*.json")):
+        d = json.loads(p.read_text())
+        for t in d["teams"]:
+            directory[t["id"]] = {"state": d["state"], "age": d["age"], "club": t.get("club"), "name": t["name"]}
+    started, saved, kept_total = now_utc().isoformat(), 0, 0
+    for tid in ids:
+        status, html = f.get(f"/team/{tid}")
+        if status != 200:
+            print(f"team {tid}: HTTP {status}"); continue
+        (CACHE / "team").mkdir(parents=True, exist_ok=True)
+        (CACHE / "team" / f"{tid}.html").write_text(html)
+        info, games, warn = parse_ysg_team_page(html, team_id=tid)
+        meta = directory.get(tid, {})
+        info.update(age=info.get("age") or meta.get("age"), state=info.get("state") or meta.get("state"),
+                    club=meta.get("club"), name=info.get("name") or meta.get("name"))
+        kept = [g for g in games if g["date"] >= SCORE_FROM]
+        save_json(YSG / "extracted" / f"{tid}.json", {"team": info, "fetched_at": now_utc().isoformat(),
+                                                      "games": kept, "warnings": warn, "games_on_page": len(games)})
+        log["profiles"][tid] = now_utc().isoformat()
+        saved += 1; kept_total += len(kept)
+        print(f"team {tid}: {len(games)} games on page, {len(kept)} from {SCORE_FROM}")
+    save_json(LOG, log)
+    report({"mode": "teams-test", "started": started, "finished": now_utc().isoformat(), "requests": f.count,
+            "pages_saved": saved, "games_kept": kept_total, "teams": ids})
+
+
 def run_profiles(perm, max_pages=None, force_window=False, test=False):
     if "profiles" not in perm.get("modes", []):
         print("team profile crawling is not in the recorded permission; nothing fetched"); return
@@ -386,7 +420,8 @@ def reparse():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("mode", choices=["directories", "profiles", "reparse", "bootstrap", "test", "status"])
+    ap.add_argument("mode", choices=["directories", "profiles", "reparse", "bootstrap", "test", "teams", "status"])
+    ap.add_argument("--ids", help="with teams: comma-separated YouthSoccerGames team IDs (max 10)")
     ap.add_argument("--states")
     ap.add_argument("--max-pages", type=int)
     ap.add_argument("--test", action="store_true", help="with bootstrap: run the approved test if active")
@@ -401,6 +436,8 @@ def main():
         reparse()
     elif a.mode == "test":
         run_test(perm)
+    elif a.mode == "teams":
+        run_teams(perm, (a.ids or "").split(","))
     elif a.mode == "bootstrap":
         # runs on pushes: an approved test while the test period lasts; otherwise first-time
         # VA/MD/DC directories, or re-parse cached pages after a parser fix (no network)
