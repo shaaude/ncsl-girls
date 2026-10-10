@@ -197,6 +197,28 @@ class Identities:
                                             "ncsl_key": None, "created": now()})
                 m.update(status="confirmed", canonical_id=cid, by="auto-new", at=now())
 
+    def apply_record_links(self, links):
+        """links: {source_key: canonical_id} from match_records (same club, same squad label, same
+        age). Ties a team's separate tournament/league records to it. Never overrides a manual
+        decision or a link made on game evidence. Returns the number of mappings changed."""
+        changed = 0
+        for key, cid in links.items():
+            m = self.mappings.get(key)
+            if not m or cid not in self.teams or m.get("by") in ("manual", "auto-evidence"):
+                continue
+            if m.get("canonical_id") == cid and m["status"] == "confirmed":
+                continue
+            old = m.get("canonical_id") if m.get("by") == "auto-new" else None
+            m.update(canonical_id=cid, status="confirmed", by="auto-label", at=now())
+            if old and old != cid and not any(mm.get("canonical_id") == old for mm in self.mappings.values()):
+                self.teams.pop(old, None)
+            t = self.teams[cid]
+            for f in ("state", "club"):
+                if m.get(f) and not t.get(f):
+                    t[f] = m[f]
+            changed += 1
+        return changed
+
     def apply_manual(self, decisions):
         """decisions: {source_key: canonical_id | "new" | "reject"} from data/identity_decisions.json."""
         for key, dec in decisions.items():
