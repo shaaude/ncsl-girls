@@ -122,10 +122,19 @@ def structure_digest(html, limit=120):
         if href:
             bits += f' href="{href.group(1)}…"'
         out.append(f"<{m.group(1)}{tag}{(' ' + bits) if bits else ''}>")
+        # shape of the text right after this tag: letters masked, digits/punctuation kept, so
+        # date and score formats are visible without copying any names
+        nxt = html[m.end(): m.end() + 120].split("<", 1)[0].strip()
+        if nxt:
+            shape = re.sub(r"[A-Z]", "A", re.sub(r"[a-z]", "a", re.sub(r"\s+", " ", nxt)))[:40]
+            out.append(f"  ~ {shape}")
         if len(out) >= 4000:
             break
     # keep the region around the first game-like table
     i = next((k for k, line in enumerate(out) if 'href="/team/' in line), 0)
+    j = next((k for k, line in enumerate(out) if 'id="gamehistory"' in line), None)
+    if j is not None:
+        return out[j: j + 260]
     return out[max(0, i - 40): i + limit]
 
 
@@ -367,7 +376,11 @@ def reparse():
         save_json(YSG / "extracted" / f"{tid}.json", {"team": info, "fetched_at": log["profiles"].get(tid),
                                                       "games": kept, "warnings": warn, "games_on_page": len(games)})
         nt += 1; games_total += len(kept)
-    report({"mode": "reparse", "started": now_utc().isoformat(), "directories": nd, "team_pages": nt, "games_kept": games_total})
+    cached = sorted((CACHE / "team").glob("*.html"))
+    for k, p in enumerate(cached[:3], 1):
+        save_digest(f"team_structure_{k}.txt", p.read_text())
+    report({"mode": "reparse", "started": now_utc().isoformat(), "directories": nd, "team_pages": nt, "games_kept": games_total,
+            "pages_with_no_games_parsed": sum(1 for p in (YSG / "extracted").glob("*.json") if not json.loads(p.read_text())["games_on_page"])})
     print(f"reparse: {nd} directory pages, {nt} team pages, {games_total} games kept")
 
 

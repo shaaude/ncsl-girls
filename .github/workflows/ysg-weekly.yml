@@ -22,6 +22,7 @@ jobs:
     timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
@@ -36,7 +37,13 @@ jobs:
           case "${{ github.event_name }}:${{ github.event.schedule }}" in
             "schedule:23 6 * * 2") MODE=directories ;;
             "schedule:23 6 * * 3") MODE=profiles ;;
-            push:*) MODE="bootstrap --test" ;;
+            push:*)
+              # a push re-reads cached pages (no network) unless it explicitly requests a run
+              if git diff --name-only HEAD~1 HEAD | grep -q '^data/ysg_run_request.json$'; then
+                MODE="$(python -c "import json;print(json.load(open('data/ysg_run_request.json'))['mode'])")"
+              else
+                MODE=reparse
+              fi ;;
             *) MODE="${{ inputs.mode }}" ;;
           esac
           echo "mode: $MODE"

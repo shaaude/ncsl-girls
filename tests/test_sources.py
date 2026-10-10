@@ -22,7 +22,7 @@ def test_ysg_parser_on_synthetic_page():
 
 
 def test_ysg_same_day_games_get_distinct_keys():
-    obs, problems = ysg_observations([FIX / "ysg_team_page_synthetic.html"])
+    obs, problems = ysg_observations([FIX / "ysg_team_page_synthetic.html"], extracted=[])
     assert len({o["obs_id"] for o in obs}) == 3
 
 
@@ -35,3 +35,15 @@ def test_csv_adapter(tmp_path):
     obs, problems = csv_observations([p])
     assert len(obs) == 1 and obs[0]["a"]["age"] == "GU12" and obs[0]["status"] == "final"
     assert len(problems) == 2
+
+
+def test_ysg_parser_on_real_layout():
+    info, games, warn = parse_ysg_team_page((FIX / "ysg_team_real_layout_synthetic.html").read_text())
+    assert info["id"] == "900000021" and info["age"] == "GU12" and info["state"] == "VA"
+    assert len(games) == 4
+    g = games[0]
+    assert (g["a_id"], g["a_score"], g["b_id"], g["b_score"]) == ("900000022", 1, "900000021", 2)
+    assert g["date"] == "2026-09-13" and g["event_id"] == "77777" and "Labor Day Cup" in g["competition"]
+    assert games[1]["a_score"] == 0 and games[1]["b_score"] == 0          # same-day rematch kept
+    assert games[2]["date"] == "2026-07-20"                                  # parser keeps; collector filters
+    assert games[3]["status"] == "scheduled" and games[3]["a_score"] is None
