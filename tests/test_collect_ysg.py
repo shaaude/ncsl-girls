@@ -91,3 +91,10 @@ def test_directory_parser_real_layout():
 def test_age_slugs_cover_supported_ages():
     from config import normalize_age, SUPPORTED_AGES
     assert {normalize_age(a) for a in c.AGE_SLUGS} - {None} == set(SUPPORTED_AGES)
+
+
+def test_queue_puts_likely_ncsl_teams_first():
+    arl = {"name": "Red", "club": "Arlington Soccer Association"}
+    other = {"name": "Red", "club": "Baltimore Armour"}
+    assert c.ncsl_match_score(arl, "ARL 2015G Red (U12)") > c.ncsl_match_score(other, "ARL 2015G Red (U12)")
+    assert "loud" in c.club_tags("Loudoun Soccer") and "asa" in c.club_tags("Arlington Soccer Association")
