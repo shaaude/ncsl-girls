@@ -193,6 +193,27 @@ def in_window(t=None):
     return 1 <= t.hour < 5
 
 
+def club_tags(club):
+    """Ways an NCSL team name might abbreviate a club: 'Arlington Soccer Association' ->
+    {'arl', 'arli', 'arlington', 'asa'}; 'Loudoun Soccer' -> {'lou', 'loud', 'loudoun', 'ls'}."""
+    words = [w for w in re.split(r"[^a-z]+", (club or "").lower()) if w]
+    if not words:
+        return set()
+    tags = {words[0], words[0][:3], words[0][:4]}
+    tags.add("".join(w[0] for w in words))
+    return {t for t in tags if len(t) >= 2}
+
+
+def ncsl_match_score(dir_team, ncsl_name):
+    """How likely a directory team is a given NCSL team, for queue ORDER only (never for linking)."""
+    sim = max(similarity(dir_team["name"], ncsl_name),
+              similarity(f"{dir_team.get('club') or ''} {dir_team['name']}", ncsl_name))
+    first = re.split(r"[^a-z]+", ncsl_name.lower())[0]
+    if first and first in club_tags(dir_team.get("club")):
+        sim += 0.3
+    return sim
+
+
 def profile_queue(log, today_utc):
     """Order: (1) YSG teams already linked to NCSL teams, (2) directory teams that resemble an NCSL
     team (same age, VA/MD/DC), (3) opponents found on fetched pages in Mid-Atlantic states,
@@ -220,10 +241,11 @@ def profile_queue(log, today_utc):
     cands = []
     for tid, t in directory.items():
         if t["state"] in ("VA", "MD", "DC") and t["age"] in by_age:
-            best = max((similarity(t["name"], n) for n in by_age[t["age"]]), default=0)
+            best = max((ncsl_match_score(t, n) for n in by_age[t["age"]]), default=0)
             if best >= 0.4:
-                cands.append((-best, tid))
-    for _, tid in sorted(cands):
+                scored_age = int(t["age"][2:]) >= 12          # NCSL publishes scores from U12 up
+                cands.append((not scored_age, -best, tid))
+    for _, _, tid in sorted(cands):
         add(tid, "resembles an NCSL team")
     for p in sorted((YSG / "extracted").glob("*.json")):
         d = json.loads(p.read_text())
