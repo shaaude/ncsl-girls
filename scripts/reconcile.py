@@ -106,7 +106,9 @@ def link_identities(ids, observations):
     for _round in range(3):          # newly linked teams can anchor their opponents next round
         changed = 0
         for key, m in list(ids.mappings.items()):
-            if m["status"] not in ("pending", "probable") or m.get("by") == "manual":
+            if m.get("by") == "manual":
+                continue
+            if m["status"] not in ("pending", "probable") and not (m["status"] == "confirmed" and m.get("by") == "auto-new"):
                 continue
             dates = defaultdict(set)
             for d, mine, theirs, opp_key in rows.get(key, []):
@@ -116,6 +118,8 @@ def link_identities(ids, observations):
                         continue
                     if opp and ocid != opp:
                         continue
+                    if cid == m.get("canonical_id"):
+                        continue              # a team's own games are not evidence about itself
                     if any(mm.get("canonical_id") == cid and mm["status"] == "confirmed" and k.split(":")[0] == key.split(":")[0]
                            for k, mm in ids.mappings.items() if k != key):
                         continue          # that team already has an ID in this source
@@ -127,7 +131,7 @@ def link_identities(ids, observations):
         linked += changed
         if not changed:
             break
-    ids.finalize_pending()
+    ids.finalize_pending(scored_keys=set(rows))
     return linked
 
 
@@ -246,7 +250,8 @@ def reconcile(observations, ids, match_index_path=DATA / "match_index.json"):
             "last_verified": max((o.get("retrieved_at") or "") for o in c),
         })
     for o, reason in unresolved:
-        if o["source"] != "ncsl":
+        # only scored games need a decision; future fixtures resolve themselves once teams link
+        if o["source"] != "ncsl" and o["status"] == "final":
             review.append({"type": "unresolved_identity", "obs_id": o["obs_id"], "date": o.get("date"),
                            "teams": [o["a"]["name"], o["b"]["name"]], "source": o["source"], "reason": reason})
     for key, m in ids.mappings.items():

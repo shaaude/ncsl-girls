@@ -203,7 +203,8 @@ def _games_in_pane(pane_html, own_id, own_name):
         comp = joined
         for _, pat in DATE_PATTERNS:
             comp = re.sub(pat, "", comp)
-        comp = re.sub(r"\s*\|\s*", " | ", comp).strip(" |-·,") or None
+        comp = re.sub(r"\bWin Prob\b[^|]*", "", comp)
+        comp = re.sub(r"(\s*\|\s*-?\s*)+", " | ", comp).strip(" |-·,") or None
         played = teams[0]["score"] is not None and teams[1]["score"] is not None
         games.append({"a_id": teams[0]["id"], "a_name": teams[0]["name"], "b_id": teams[1]["id"], "b_name": teams[1]["name"],
                       "a_score": teams[0]["score"] if played else None, "b_score": teams[1]["score"] if played else None,
@@ -221,14 +222,14 @@ def _pane(html, pane_id):
     return rest[: nxt.start()] if nxt else rest
 
 
-def parse_ysg_team_page(html):
+def parse_ysg_team_page(html, team_id=None):
     """Parse a YouthSoccerGames team page. Returns (team_info, games, warnings).
     Uses the #gamehistory and #upcominggames tabs; falls back to the older generic table scan
     only if those tabs are missing. Anything unreadable is reported, never guessed."""
     warn = []
     m = re.search(r'<link[^>]+rel="canonical"[^>]+href="[^"]*/team/(\d+)', html) or \
         re.search(r'href="https?://(?:www\.)?youthsoccergames\.com/team/(\d+)"', html)
-    tid = m.group(1) if m else None
+    tid = team_id or (m.group(1) if m else None)    # the page's own team is not linked on its page
     title = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S)
     name = _text(title.group(1)) if title else None
     head = _text(html[:20000])
@@ -342,13 +343,20 @@ def ysg_directory_index():
     return idx
 
 
-def _ysg_obs_from_games(info, games, retrieved, directory):
+def _ysg_obs_from_games(info, games, retrieved, directory, problems=None):
     out = []
     for g in games:
+        g = dict(g)
+        g["a_id"] = g.get("a_id") or info["id"]
+        g["b_id"] = g.get("b_id") or info["id"]
+        if g["a_id"] == g["b_id"]:
+            if problems is not None:
+                problems.append({"file": f"team {info['id']}", "reason": f"game on {g.get('date')} has no opponent ID; skipped"})
+            continue
         rk = f"{info['id']}|{g['date']}|{min(g['a_id'], g['b_id'])}|{max(g['a_id'], g['b_id'])}|{g.get('event_id') or g.get('competition') or ''}"
         def team(i, n):
             meta = directory.get(i, {})
-            return {"source_key": f"ysg:{i}", "name": n or meta.get("name"), "age": info["age"],
+            return {"source_key": f"ysg:{i}", "name": meta.get("name") or n, "age": info["age"],
                     "state": meta.get("state") or (info.get("state") if i == info["id"] else None),
                     "club": meta.get("club")}
         out.append({
@@ -389,7 +397,7 @@ def ysg_observations(paths=None, extracted=None):
             problems.append({"file": p.name, "reason": "page does not say girls; skipped"}); continue
         if not info["age"]:
             problems.append({"file": p.name, "reason": "could not read the age group; skipped"}); continue
-        out += _ysg_obs_from_games(info, [g for g in games if g["date"] >= "2026-08-01"], file_date(p), directory)
+        out += _ysg_obs_from_games(info, [g for g in games if g["date"] >= "2026-08-01"], file_date(p), directory, problems)
     for p in extracted:
         d = json.loads(p.read_text())
         info = d["team"]
@@ -397,7 +405,7 @@ def ysg_observations(paths=None, extracted=None):
             problems.append({"file": f"extracted/{p.name}", "reason": w})
         if not info.get("age"):
             problems.append({"file": f"extracted/{p.name}", "reason": "no age group; skipped"}); continue
-        out += _ysg_obs_from_games(info, d["games"], d["fetched_at"], directory)
+        out += _ysg_obs_from_games(info, d["games"], d["fetched_at"], directory, problems)
     assign_seq(out)
     for o in out:   # same-day rematches on one page get distinct keys through seq
         o["source_record_key"] += f"|{o['seq']}"

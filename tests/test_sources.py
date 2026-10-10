@@ -47,3 +47,15 @@ def test_ysg_parser_on_real_layout():
     assert games[1]["a_score"] == 0 and games[1]["b_score"] == 0          # same-day rematch kept
     assert games[2]["date"] == "2026-07-20"                                  # parser keeps; collector filters
     assert games[3]["status"] == "scheduled" and games[3]["a_score"] is None
+
+
+def test_ysg_page_without_canonical_link_uses_given_id():
+    html = (FIX / "ysg_team_real_layout_synthetic.html").read_text().replace(
+        '<link rel="canonical" href="https://youthsoccergames.com/team/900000021">', "")
+    info, games, warn = parse_ysg_team_page(html, team_id="900000021")
+    assert all(g["a_id"] and g["b_id"] for g in games) and games[0]["b_id"] == "900000021"
+    info2, games2, _ = parse_ysg_team_page(html)
+    obs, problems = ysg_observations(paths=[], extracted=[])
+    from sources import _ysg_obs_from_games
+    out = _ysg_obs_from_games({"id": "900000021", "age": "GU12"}, games2, "t", {}, [])
+    assert all(o["a"]["source_key"] != "ysg:None" for o in out)
