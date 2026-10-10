@@ -205,6 +205,9 @@ def main(as_of=None):
         if m["status"] == "scheduled" and m["date"] >= as_of.isoformat():
             upcoming[m["team_a"]].append(m); upcoming[m["team_b"]].append(m)
 
+    matches_by_team = defaultdict(list)
+    for m in matches:
+        matches_by_team[m["team_a"]].append(m); matches_by_team[m["team_b"]].append(m)
     for age in SUPPORTED_AGES:
         ms = eligible_by_age.get(age, [])
         mdl = nm.fit(ms, as_of) if ms else {"mu": 0.3, "home": 0.0, "teams": {}, "networks": [], "n_games": 0}
@@ -275,11 +278,8 @@ def main(as_of=None):
                          "sources": sorted({s for m in ms for s in m["sources"]})},
             "teams": rows,
         }
-        # profiles
-        by_team = defaultdict(list)
-        for m in matches:
-            if m["age_a"] == age or m["age_b"] == age:
-                by_team[m["team_a"]].append(m); by_team[m["team_b"]].append(m)
+        # profiles: every match a team played, whatever age bracket it was entered in
+        by_team = matches_by_team
         row_of = {x["id"]: x for x in rows}
         for cid in known:
             t = teams[cid]
