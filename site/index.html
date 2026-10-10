@@ -529,7 +529,7 @@ function viewAbout(){
   <div class="card"><h2>National girls</h2>
   <p>The National Girls section is separate from everything above: NCSL standings, NCSL ratings and the NCSL predictor never use its results. It combines verified results from every source we're allowed to use, counting only games after August 1, 2026.</p>
   <p>Each real game counts once, however many places report it. Teams from other sources are linked to NCSL teams only when their games line up with games the NCSL team already has (same dates, same scores); a similar name is never enough, and uncertain links wait for review. Forfeits, scrimmages, unplayed games and anything with a disputed score are left out of the model.</p>
-  <p style="margin:0">The national model gives each team one rating, fit on all its eligible games whatever age bracket they were in (a 2014/15 team's U12 tournament and U13 league games both count; games between teams more than a year apart do not), with no division-tier assumption. Teams can only be compared when a chain of games connects them; groups with no links between them are shown separately, and a team gets a national rank only inside the main connected network, with at least eight eligible games. Recent games count more, and margins over six goals count as six.</p></div>
+  <p style="margin:0">The national model gives each team one rating, fit on all its eligible games whatever age bracket they were in (a 2014/15 team's U12 tournament and U13 league games both count; games between teams more than a year apart do not). Each NCSL team starts from its division placement (the same tier gap the NCSL predictor uses), and its results, league and outside, move it from there; outside games count half as much as NCSL league games, because in testing that predicted league results better. A team gets a national rank with at least five eligible games; outside teams with no games linking them to NCSL teams are shown separately. Recent games count more, and margins over six goals count as six.</p></div>
   <div class="card"><h2>Freshness</h2><p style="margin:0">Site built ${new Date(d.built_at).toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"})}. ${d.fetch?`Last download: ${d.fetch.ok.length} divisions OK${d.fetch.failed.length?`, ${d.fetch.failed.length} failed (previous data kept)`:""}.`:""}</p></div>`;
 }
 function notFound(){ return `<div class="card"><p class="empty">Not found. <a class="link" href="#/">Back to age groups</a></p></div>`; }
@@ -549,17 +549,24 @@ const nTeamLink = (id, name, cls="") => `<a class="${cls}" href="#/national/team
 const rec = r => r ? `${r[0]}-${r[1]}-${r[2]}` : "0-0-0";
 const relPill = x => `<span class="rel rel-${x}">${x}</span>`;
 const srcPill = s => `<span class="src">${({ncsl:"NCSL",ysg:"YSG",csv:"Import",event:"Event"})[s]||esc(s)}</span>`;
-const statusLabel = x => x.status==="ranked" ? `#${x.national_rank}` : x.status==="provisional" ? `<span title="Fewer than ${N.index?.min_ranked_games||8} eligible games">prov.</span>` : `<span title="Only comparable within its own connected group">—</span>`;
+const statusLabel = x => x.status==="ranked" ? `#${x.national_rank}` : x.status==="provisional" ? `<span title="Fewer than ${N.index?.min_ranked_games||5} eligible games">prov.</span>` : `<span title="Outside team with no games linking it to NCSL teams">—</span>`;
 const fmtWhen = iso => iso ? new Date(iso).toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) : "never";
 
 function networkNames(ageData){
-  // name each connected group: an NCSL division if all its teams share one, else "Group n"
+  // name each comparable group by what is in it: NCSL divisions and/or outside teams
   const by = {};
   ageData.teams.forEach(t => (by[t.network] ||= []).push(t));
   const names = {};
   Object.entries(by).forEach(([k, ts]) => {
-    const divs = new Set(ts.map(t=>t.ncsl_division||"x"));
-    names[k] = divs.size===1 && !divs.has("x") && S.divs[[...divs][0]] ? S.divs[[...divs][0]].name.replace(/^GU\d+ /,"") + " (NCSL)" : `Group ${+k+1} (${ts.length} teams)`;
+    const divs = [...new Set(ts.map(t=>t.ncsl_division).filter(Boolean))]
+      .map(d => S.divs[d] ? S.divs[d].name.replace(/^GU\d+ /,"").replace(/^Division /,"") : null).filter(Boolean)
+      .sort((x,y)=>x.localeCompare(y, undefined, {numeric:true}));
+    const outside = ts.filter(t=>!t.ncsl_key).length;
+    const parts = [];
+    if (divs.length === 1) parts.push(`NCSL Division ${divs[0]}`);
+    else if (divs.length > 1) parts.push(`NCSL Divisions ${divs.join(", ")}`);
+    if (outside) parts.push(`${outside} outside team${outside>1?"s":""}`);
+    names[k] = (+k===0 && ageData.national_ranking_available ? "Main group: " : "") + (parts.join(" + ") || `${ts.length} teams`);
   });
   return names;
 }
@@ -650,7 +657,7 @@ function viewNationalAge(age, params){
       <tbody>${body || `<tr><td colspan="10" class="empty">No teams match these filters.</td></tr>`}</tbody></table></div>
       ${pages>1?`<div class="pager">${page>1?`<a href="${qs({page:page-1})}">‹ Prev</a>`:""}<span>Page ${page} of ${pages} · ${rows.length} teams</span>${page<pages?`<a href="${qs({page:page+1})}">Next ›</a>`:""}</div>`:`<div class="pager">${rows.length} teams</div>`}
     </div>
-    <p class="note">Rating: 1500 is the average of a connected group. Ranked = in the main national network with at least ${ix.min_ranked_games} eligible games; provisional = fewer games; "—" = in a separate group. SOS = average rating of opponents faced. Reliability reflects games played and how settled the rating is.</p>`}`;
+    <p class="note">Rating: 1500 is the average team. Ranked = at least ${ix.min_ranked_games} eligible games; provisional = fewer; "—" = an outside team with no link to NCSL teams. Teams in NCSL divisions with no games between them are compared using division placement (about ${Math.round((ad.model.tier_gap||1.14)*250)} points per division), then moved by their own results. SOS = average rating of opponents faced. Reliability is how precise the rating is: high = within about ±100 points, medium = about ±100–140, low = wider (usually few games so far).</p>`}`;
   });
 }
 
@@ -720,8 +727,9 @@ function viewNationalPredict(params){
       <label class="full">Venue<select name="v"><option value="n" ${venue==="n"?"selected":""}>Neutral (tournament)</option><option value="a" ${venue==="a"?"selected":""}>Team A at home</option><option value="b" ${venue==="b"?"selected":""}>Team B at home</option></select></label>
     </form></div>`;
     if (A.network !== B.network){
-      return head + form + `<div class="card"><h2>No basis for a prediction</h2><p style="margin:0">${esc(A.name)} and ${esc(B.name)} are in different groups with no results linking them (${esc(networkNames(ad)[A.network])} and ${esc(networkNames(ad)[B.network])}). Any number here would be invented. For NCSL teams, the <a class="link" href="#/predict">NCSL predictor</a> can compare across divisions using its stated tier assumption.</p></div>`;
+      return head + form + `<div class="card"><h2>No basis for a prediction</h2><p style="margin:0">${esc(A.name)} and ${esc(B.name)} have no games or NCSL division placement linking them (${esc(networkNames(ad)[A.network])} and ${esc(networkNames(ad)[B.network])}). Any number here would be invented. This happens only for outside teams whose opponents never played an NCSL team.</p></div>`;
     }
+    const viaDivision = A.linked_group != null && B.linked_group != null && A.linked_group !== B.linked_group;
     const pr = nPredict(ad, A, B, venue);
     const [pa, pb] = await Promise.all([nProfile(a), nProfile(b)]);
     const h2h = pa.matches.filter(m=>m.opp===b && m.gf!=null && m.status!=="scheduled");
@@ -736,6 +744,7 @@ function viewNationalPredict(params){
       <div class="bigprob"><div style="background:var(--win-bg)"><b style="color:var(--win)">${pct(pr.w)}</b><span>A wins</span></div><div style="background:var(--chip)"><b>${pct(pr.d)}</b><span>Draw</span></div><div style="background:var(--loss-bg)"><b style="color:var(--loss)">${pct(pr.l)}</b><span>B wins</span></div></div>
       <p style="margin:14px 0 0">Expected goals <b>${pr.lh.toFixed(2)}</b> – <b>${pr.la.toFixed(2)}</b>. Most likely: ${top.slice(0,4).map(x=>`${x.i}–${x.j} (${pct(x.x/pr.s)})`).join(", ")}. Rating difference ${signed(A.rating-B.rating)} (uncertainty about ±${sd}).</p>
       ${Math.min(A.games,B.games) < ix.min_ranked_games ? `<p class="note" style="margin:12px 0 0">At least one team has fewer than ${ix.min_ranked_games} eligible games, so treat this as provisional.</p>` : ""}
+      ${viaDivision ? `<p class="note" style="margin:12px 0 0">No chain of games connects these two teams yet, so this comparison leans on their NCSL division placement (the same assumption the NCSL predictor uses: about ${Math.round((ad.model.tier_gap||1.14)*250)} rating points per division), adjusted by each team's own results. Expect it to firm up as more cross-division games come in.</p>` : ""}
     </div>
     <div class="grid g2">
       <div class="card"><h2>Score probabilities</h2><div class="tablewrap"><table class="scoregrid"><thead><tr><th></th>${[0,1,2,3,4,5].map(j=>`<th>${j}</th>`).join("")}</tr></thead><tbody>

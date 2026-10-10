@@ -61,7 +61,7 @@ def register_ncsl_teams(ids, games, by_div):
                                   division=g["division_id"])
 
 
-def backtest(eligible, ncsl_games_by_age, as_of):
+def backtest(eligible, ncsl_games_by_age, as_of, tier=None):
     """Rolling-origin weekly backtest. For each origin date, fit only on games played on or before
     it and predict the following 7 days. Compares, on the same NCSL fixtures: the pooled national
     model (one rating per team across ages), the previous per-age national model (same-age games
@@ -75,13 +75,17 @@ def backtest(eligible, ncsl_games_by_age, as_of):
     while d < as_of:
         origins.append(d); d += timedelta(days=7)
     nat_all, nat_ncsl, old_ncsl, base_ncsl, rate_ncsl, cov = [], [], [], [], [], Counter()
+    nat_out, rate_out = [], []
     same = defaultdict(lambda: [[], []])         # fixtures both national variants predicted
+    vs_base = defaultdict(list)                  # fixtures both national and NCSL baseline predicted
     for origin in origins:
         train = [m for m in eligible if date.fromisoformat(m["date"]) <= origin]
         test = [m for m in eligible if origin < date.fromisoformat(m["date"]) <= min(as_of, origin + timedelta(days=7))]
         if not train or not test:
             continue
-        mdl = nm.fit(train, origin)
+        mdl = nm.fit(train, origin, tier=tier)
+        tr_ncsl = [m for m in train if "ncsl" in m["sources"]]
+        mdl_ncsl = nm.fit(tr_ncsl, origin, tier=tier) if tr_ncsl else None
         per_age = {}
         for age in {m["age_a"] for m in test if m["age_a"] == m["age_b"]}:
             tr = [m for m in train if m["age_a"] == age and m["age_b"] == age]
@@ -98,6 +102,8 @@ def backtest(eligible, ncsl_games_by_age, as_of):
                 p = nm.predict(mdl, m["team_a"], m["team_b"], a_home=home, age=nm.bracket_age(m))
             if p:
                 nat_all.append((p, k))
+                if "ncsl" not in m["sources"]:
+                    nat_out.append((p, k)); rate_out.append((rates, k))
             if "ncsl" not in m["sources"] or m["age_a"] != m["age_b"]:
                 continue
             age = m["age_a"]
@@ -122,6 +128,12 @@ def backtest(eligible, ncsl_games_by_age, as_of):
             if p:
                 cov["pooled"] += 1
                 nat_ncsl.append((flip(p), kk))
+                pn = None
+                if mdl_ncsl and m["team_a"] in mdl_ncsl["teams"] and m["team_b"] in mdl_ncsl["teams"]:
+                    pn = nm.predict(mdl_ncsl, m["team_a"], m["team_b"], a_home=home, age=nm.bracket_age(m))
+                if pn:
+                    vs_base["national"].append((flip(p), kk)); vs_base["ncsl_baseline"].append((pb, kk))
+                    vs_base["national_trained_on_ncsl_games_only"].append((flip(pn), kk))
             om = per_age.get(age)
             po = None
             if om and m["team_a"] in om["teams"] and m["team_b"] in om["teams"]:
@@ -135,6 +147,7 @@ def backtest(eligible, ncsl_games_by_age, as_of):
         "method": "rolling weekly origins; each fit uses only games on or before the origin and predicts the next 7 days",
         "origins": [o.isoformat() for o in origins],
         "national_all_fixtures": nm.evaluate(nat_all),
+        "outside_fixtures": {"national_model": nm.evaluate(nat_out), "base_rates": nm.evaluate(rate_out)},
         "ncsl_fixtures": {
             "national_model": nm.evaluate(nat_ncsl),
             "national_model_coverage": f"{cov['pooled']} of {cov['fixtures']} fixtures (others: teams in different networks)",
@@ -142,9 +155,28 @@ def backtest(eligible, ncsl_games_by_age, as_of):
             "pooled_vs_per_age_same_fixtures": {"pooled": nm.evaluate(same["pooled"][0]),
                                                 "per_age": nm.evaluate(same["per_age"][0])},
             "ncsl_baseline": nm.evaluate(base_ncsl),
+            "national_vs_ncsl_baseline_same_fixtures": {k: nm.evaluate(v) for k, v in vs_base.items()},
             "base_rates": nm.evaluate(rate_ncsl),
         },
     }
+
+
+def division_offsets(teams, by_div):
+    """{canonical id: flight - average flight of NCSL teams in its age} for NCSL teams."""
+    flight = {}
+    for cid, t in teams.items():
+        div = by_div.get(t.get("ncsl_division") or "")
+        f = str((div or {}).get("flight", "")).strip().upper()
+        if t.get("ncsl_key") and f:
+            if f.isdigit():
+                flight[cid] = int(f)
+            elif len(f) == 1 and f.isalpha():
+                flight[cid] = ord(f) - ord("A") + 1        # U9-U11 divisions A, B, C... (A strongest)
+    by_age = defaultdict(list)
+    for cid, f in flight.items():
+        by_age[teams[cid]["age"]].append(f)
+    mean = {a: sum(v) / len(v) for a, v in by_age.items()}
+    return {cid: f - mean[teams[cid]["age"]] for cid, f in flight.items()}
 
 
 ncsl_model_tiers = {}
@@ -242,10 +274,23 @@ def main(as_of=None):
     matches_by_team = defaultdict(list)
     for m in matches:
         matches_by_team[m["team_a"]].append(m); matches_by_team[m["team_b"]].append(m)
+    # NCSL division placement, centred per age (Div 1 strongest): the starting point that lets
+    # divisions with no games between them be compared
+    tier = division_offsets(ids.teams, by_div)
     # ONE fit over every age: each team gets one rating whatever bracket it played in
-    mdl = nm.fit(eligible, as_of) if eligible else {"mu": 0.3, "mu_age": {}, "home": 0.0, "teams": {},
+    mdl = nm.fit(eligible, as_of, tier=tier) if eligible else {"mu": 0.3, "mu_age": {}, "home": 0.0, "teams": {},
                                                     "networks": [], "n_games": 0}
-    rating_all = {cid: round(nm.rating(r["att"], r["def"])) for cid, r in mdl["teams"].items()}
+    # display scale: 1500 = the average NCSL team of the team's own age group (the model itself
+    # is one scale across ages; this shift changes no prediction or within-age order)
+    strength = {cid: r["att"] + r["def"] for cid, r in mdl["teams"].items()}
+    age_center = {}
+    for age in SUPPORTED_AGES:
+        v = [strength[c] for c in strength if team_age.get(c) == age and teams[c].get("ncsl_key")
+             and mdl["teams"][c]["network"] == 0]
+        age_center[age] = sum(v) / len(v) if v else 0.0
+    rating_all = {cid: round(nm.rating(r["att"], r["def"]) - 250 * (age_center.get(team_age.get(cid), 0.0)
+                                                                    if r["network"] == 0 else 0.0))
+                  for cid, r in mdl["teams"].items()}
     external_nets = {mdl["teams"][m["team_a"]]["network"] for m in eligible if "ncsl" not in m["sources"]}
     eligible_by_team = defaultdict(list)
     for m in eligible:
@@ -259,6 +304,9 @@ def main(as_of=None):
         nets = [net_sizes[g] for g in sorted(local, key=local.get)]
         main_g = next((g for g, i in local.items() if i == 0), None)
         main_share = (nets[0] / len(rated)) if rated else 0
+        # game-connected pieces inside the main network (joined only by division placement)
+        comp_sizes = Counter(r["component"] for r in rated.values() if r["network"] == main_g)
+        comp_local = {c: i for i, (c, _) in enumerate(sorted(comp_sizes.items(), key=lambda kv: (-kv[1], kv[0])))}
         # A network made only of one league's games is that league's table, not a national
         # comparison. National ranks need the main network to include results from outside NCSL.
         main_external = main_g in external_nets
@@ -270,8 +318,9 @@ def main(as_of=None):
                          "state": t.get("state"), "region": STATE_REGION.get(t.get("state") or ""),
                          "ncsl_key": t.get("ncsl_key"), "ncsl_division": t.get("ncsl_division"),
                          "att": round(r["att"], 4), "def": round(r["def"], 4), "se": round(r["se"], 3),
-                         "rating": round(nm.rating(r["att"], r["def"])), "games": r["games"],
-                         "network": local[r["network"]], "main_network": r["network"] == main_g and national_ok})
+                         "rating": rating_all[cid], "games": r["games"],
+                         "network": local[r["network"]], "main_network": r["network"] == main_g and national_ok,
+                         "linked_group": comp_local.get(r["component"])})
         # records, SOS (opponents of any age, on the one shared rating scale)
         rating_of = rating_all
         rec = defaultdict(lambda: {"all": [0, 0, 0], "league": [0, 0, 0], "tournament": [0, 0, 0], "opp": []})
@@ -291,8 +340,9 @@ def main(as_of=None):
             x["sos"] = round(statistics.mean(opp)) if opp else None
             x["status"] = ("ranked" if x["main_network"] and x["games"] >= MIN_RANKED_GAMES
                            else "provisional" if x["main_network"] else "separate network")
-            x["reliability"] = ("high" if x["status"] == "ranked" and x["se"] < 0.45 else
-                                "medium" if x["status"] == "ranked" else "low")
+            # how sure the rating is, from its standard error (games played and how informative)
+            x["reliability"] = ("low" if x["status"] == "separate network" or x["se"] >= 0.55 else
+                                "high" if x["se"] < 0.42 else "medium")
         # ranks within main network (ranked teams only); state/region ranks likewise
         ranked = sorted([x for x in rows if x["status"] == "ranked"], key=lambda x: -x["rating"])
         for i, x in enumerate(ranked, 1):
@@ -314,6 +364,7 @@ def main(as_of=None):
         age_out[age] = {
             "age": age, "built_at": built, "as_of": as_of.isoformat(),
             "model": {"mu": round(mdl["mu_age"].get(age, mdl["mu"]), 5),
+                      "tier_gap": round(mdl["tier_gap"], 3) if mdl.get("tier_gap") is not None else None,
                       "home": round(mdl.get("home_age", {}).get(age, mdl["home"]), 5),
                       "n_games": len(ms), "pooled_games_all_ages": mdl["n_games"]},
             "national_ranking_available": national_ok,
@@ -323,6 +374,7 @@ def main(as_of=None):
                          "games_against_other_ages": sum(1 for m in ms if m["age_a"] != m["age_b"]
                                                          or team_age.get(m["team_a"]) != team_age.get(m["team_b"])),
                          "main_network_share": round(main_share, 3), "main_network_has_external": main_external,
+                         "game_linked_groups_in_main_network": len(comp_sizes),
                          "sources": sorted({s for m in ms for s in m["sources"]})},
             "teams": rows,
         }
@@ -361,7 +413,7 @@ def main(as_of=None):
         if div and g["status"] == "final" and g["date"]:
             ncsl_by_age[div["age"]].append({"home": g["home"]["key"], "away": g["away"]["key"], "hs": g["home_score"],
                                             "as": g["away_score"], "date": g["date"], "div": g["division_id"]})
-    validation = backtest(eligible, ncsl_by_age, as_of)
+    validation = backtest(eligible, ncsl_by_age, as_of, tier)
 
     # ---- sources and coverage
     perm = json.loads((DATA / "permissions.json").read_text()) if (DATA / "permissions.json").exists() else {}

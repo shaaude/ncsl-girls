@@ -11,7 +11,7 @@ NATIONAL_CUTOFF = date(2026, 8, 1)
 SEASON_END_YEAR = 2027
 SUPPORTED_AGES = ["GU9", "GU10", "GU11", "GU12", "GU13", "GU14", "GU15", "GU16", "GU17", "GU19"]
 
-MIN_RANKED_GAMES = 8          # fully qualified national ranking
+MIN_RANKED_GAMES = 5          # national rank needs this many eligible games; fewer = provisional
 NATIONAL_RIDGE = 1.0
 RECENCY_HALF_LIFE_DAYS = 90
 MARGIN_CAP = 6                # goals beyond a 6-goal margin carry no extra signal
