@@ -156,7 +156,7 @@ def main(as_of=None):
     for o in obs_csv + obs_ysg:
         for side in ("a", "b"):
             t = o[side]
-            ids.ensure_source_team(t["source_key"], t["name"], t["age"], state=t.get("state"))
+            ids.ensure_source_team(t["source_key"], t["name"], t["age"], state=t.get("state"), club=t.get("club"))
     dec_path = DATA / "identity_decisions.json"
     if dec_path.exists():
         ids.apply_manual(json.loads(dec_path.read_text()))
