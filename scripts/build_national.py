@@ -333,7 +333,10 @@ def main(as_of=None):
                      "automated": True},
             "ysg": {"label": "YouthSoccerGames", "observations": src_counts.get("ysg", 0), "last_retrieved": latest("ysg"),
                     "automated": bool(perm.get("youthsoccergames", {}).get("granted")),
-                    "note": "Automated collection is off: robots.txt disallows it and no written permission is on file. Saved pages in imports/ysg/ are processed."},
+                    "note": ("Collected under written permission from YouthSoccerGames (2026-10-10): directory pages weekly, "
+                             "team pages once a week 1-5 AM Eastern, games from Aug 1, 2026."
+                             if perm.get("youthsoccergames", {}).get("granted") else
+                             "Automated collection is off: no written permission is on file. Saved pages in imports/ysg/ are processed.")},
             "csv": {"label": "Tournament and other exports (CSV)", "observations": src_counts.get("csv", 0) + src_counts.get("event", 0),
                     "last_retrieved": max(filter(None, [latest("csv"), latest("event")]), default=None), "automated": False},
         },
