@@ -80,3 +80,14 @@ def test_extracted_games_from_aug_1(tmp_path, monkeypatch):
     assert len(obs) == 1 and obs[0]["source"] == "ysg"
     # the collector itself drops anything earlier than the permitted window
     assert c.SCORE_FROM == "2026-08-01"
+
+
+def test_directory_parser_real_layout():
+    d = parse_ysg_directory((FIX / "ysg_directory_real_layout_synthetic.html").read_text())
+    assert d["teams"] == [{"id": "900000011", "name": "Testville SC 2015G Red", "club": "Testville Soccer Club"},
+                          {"id": "900000012", "name": "Sampleton FC 2015G Blue", "club": "Sampleton FC"}]
+
+
+def test_age_slugs_cover_supported_ages():
+    from config import normalize_age, SUPPORTED_AGES
+    assert {normalize_age(a) for a in c.AGE_SLUGS} - {None} == set(SUPPORTED_AGES)
