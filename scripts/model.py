@@ -44,10 +44,14 @@ def fit_age_group(games, team_div, ridge=2.0):
     res = minimize(f, x0, jac=True, method="L-BFGS-B")
     mu, h, a, d = unpack(res.x)
     a = a.copy(); d = d.copy()
-    for gidx in groups:  # centre within each division (identifiability per division)
+    # Centre each division for readability. Shift attack and defence by the SAME constant:
+    # expected goals depend only on att(i) - def(j), so a common shift leaves every prediction
+    # unchanged. (Shifting them by different amounts, as an earlier version did, moved expected
+    # goals by up to ~20% in some divisions.)
+    for gidx in groups:
         if len(gidx):
-            ca, cd = a[gidx].mean(), d[gidx].mean()
-            a[gidx] -= ca; d[gidx] -= cd; mu += 0  # baseline absorbs nothing; centring is cosmetic per division
+            c = (a[gidx].mean() + d[gidx].mean()) / 2
+            a[gidx] -= c; d[gidx] -= c
     return float(mu), float(h), {t: float(a[idx[t]]) for t in teams}, {t: float(d[idx[t]]) for t in teams}
 
 def outcome_probs(lh, la, max_goals=10):
