@@ -1,7 +1,125 @@
 {
- "fetched_at": "2026-10-10T16:49:17.882101+00:00",
- "games": [],
- "games_on_page": 0,
+ "fetched_at": "2026-10-10T16:49:17.882291+00:00",
+ "games": [
+  {
+   "a_id": "300441578",
+   "a_name": "Villarreal Virginia Academy Villarreal VA Azul",
+   "a_score": 1,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": 3,
+   "competition": "Win Prob | - NCSL Fall 2026",
+   "date": "2026-10-04",
+   "event_id": null,
+   "event_url": null,
+   "status": "final"
+  },
+  {
+   "a_id": "14337950",
+   "a_name": "Virginia Valor FC VALR White",
+   "a_score": 1,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": 5,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-09-27",
+   "event_id": null,
+   "event_url": null,
+   "status": "final"
+  },
+  {
+   "a_id": "14374400",
+   "a_name": "NPC Futbol and Futsal NPCFF",
+   "a_score": 2,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": 1,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-09-26",
+   "event_id": null,
+   "event_url": null,
+   "status": "final"
+  },
+  {
+   "a_id": "14340450",
+   "a_name": "Great Falls Reston SC - Travel GFR Green",
+   "a_score": 2,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": 0,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-09-20",
+   "event_id": null,
+   "event_url": null,
+   "status": "final"
+  },
+  {
+   "a_id": "14338300",
+   "a_name": "Gunston Soccer Club - Travel GSC Girls Premier",
+   "a_score": 5,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": 0,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-09-19",
+   "event_id": null,
+   "event_url": null,
+   "status": "final"
+  },
+  {
+   "a_id": "14362950",
+   "a_name": "DC Soccer Club DCSC Red",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": 3,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-09-13",
+   "event_id": null,
+   "event_url": null,
+   "status": "final"
+  },
+  {
+   "a_id": "300441638",
+   "a_name": "Virginia Revolution SC VRSC Black",
+   "a_score": null,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": null,
+   "competition": "Win Prob | - NCSL Fall 2026",
+   "date": "2026-10-18",
+   "event_id": null,
+   "event_url": null,
+   "status": "scheduled"
+  },
+  {
+   "a_id": "14340650",
+   "a_name": "Great Falls Reston SC - Travel GFR White",
+   "a_score": null,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": null,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-11-01",
+   "event_id": null,
+   "event_url": null,
+   "status": "scheduled"
+  },
+  {
+   "a_id": "14349950",
+   "a_name": "DeMatha Soccer Academy DMAT Roadrunners FC - Bethesda Red",
+   "a_score": null,
+   "b_id": null,
+   "b_name": "Stafford Soccer STAF Revolution White",
+   "b_score": null,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-11-08",
+   "event_id": null,
+   "event_url": null,
+   "status": "scheduled"
+  }
+ ],
+ "games_on_page": 9,
  "team": {
   "age": "GU12",
   "club": "Stafford Soccer",
@@ -10,7 +128,5 @@
   "name": "Stafford Soccer STAF Revolution White",
   "state": "VA"
  },
- "warnings": [
-  "no games found; the page layout may differ from what the parser expects"
- ]
+ "warnings": []
 }

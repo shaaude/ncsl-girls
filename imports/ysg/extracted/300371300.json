@@ -1,7 +1,60 @@
 {
- "fetched_at": "2026-10-10T16:51:27.903786+00:00",
- "games": [],
- "games_on_page": 0,
+ "fetched_at": "2026-10-10T16:51:27.903980+00:00",
+ "games": [
+  {
+   "a_id": "300371362",
+   "a_name": "Braddock Road Youth Club BRYC Academy Teal",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Blackwatch",
+   "b_score": 1,
+   "competition": "Win Prob | - Revolution Cup 2026",
+   "date": "2026-09-07",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4240395",
+   "status": "final"
+  },
+  {
+   "a_id": "300371371",
+   "a_name": "Virginia Revolution SC VRSC Black",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Blackwatch",
+   "b_score": 4,
+   "competition": "Revolution Cup 2026",
+   "date": "2026-09-06",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4240395",
+   "status": "final"
+  },
+  {
+   "a_id": "300371318",
+   "a_name": "Vienna Youth Soccer VYS NCSL Red",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Blackwatch",
+   "b_score": 4,
+   "competition": "Revolution Cup 2026",
+   "date": "2026-09-06",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4240395",
+   "status": "final"
+  },
+  {
+   "a_id": "300371362",
+   "a_name": "Braddock Road Youth Club BRYC Academy Teal",
+   "a_score": 1,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Blackwatch",
+   "b_score": 0,
+   "competition": "Revolution Cup 2026",
+   "date": "2026-09-05",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4240395",
+   "status": "final"
+  }
+ ],
+ "games_on_page": 13,
  "team": {
   "age": "GU16",
   "club": "Virginia Independent Soccer Team Association",
@@ -10,7 +63,5 @@
   "name": "Virginia Independent Soccer Team Association VISTA Blackwatch",
   "state": "VA"
  },
- "warnings": [
-  "no games found; the page layout may differ from what the parser expects"
- ]
+ "warnings": []
 }

@@ -1,7 +1,47 @@
 {
- "fetched_at": "2026-10-10T16:49:57.883200+00:00",
- "games": [],
- "games_on_page": 0,
+ "fetched_at": "2026-10-10T16:49:57.883392+00:00",
+ "games": [
+  {
+   "a_id": "300371371",
+   "a_name": "Virginia Revolution SC VRSC Black",
+   "a_score": null,
+   "b_id": null,
+   "b_name": "Montgomery Soccer Inc MSI Girls Silver",
+   "b_score": null,
+   "competition": "Win Prob | - NCSL Fall 2026",
+   "date": "2026-10-18",
+   "event_id": null,
+   "event_url": null,
+   "status": "scheduled"
+  },
+  {
+   "a_id": "14383400",
+   "a_name": "Arlington Soccer Association ARL Blue",
+   "a_score": null,
+   "b_id": null,
+   "b_name": "Montgomery Soccer Inc MSI Girls Silver",
+   "b_score": null,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-11-01",
+   "event_id": null,
+   "event_url": null,
+   "status": "scheduled"
+  },
+  {
+   "a_id": "14342050",
+   "a_name": "Sterling Youth Soccer Assoc - Travel STER REIGN LFC Hurricanes",
+   "a_score": null,
+   "b_id": null,
+   "b_name": "Montgomery Soccer Inc MSI Girls Silver",
+   "b_score": null,
+   "competition": "NCSL Fall 2026",
+   "date": "2026-11-08",
+   "event_id": null,
+   "event_url": null,
+   "status": "scheduled"
+  }
+ ],
+ "games_on_page": 3,
  "team": {
   "age": "GU16",
   "club": "Montgomery Soccer Inc",
@@ -10,7 +50,5 @@
   "name": "Montgomery Soccer Inc MSI Girls Silver",
   "state": "MD"
  },
- "warnings": [
-  "no games found; the page layout may differ from what the parser expects"
- ]
+ "warnings": []
 }

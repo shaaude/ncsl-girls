@@ -1,7 +1,60 @@
 {
- "fetched_at": "2026-10-10T16:50:57.884553+00:00",
- "games": [],
- "games_on_page": 0,
+ "fetched_at": "2026-10-10T16:50:57.884750+00:00",
+ "games": [
+  {
+   "a_id": "300442011",
+   "a_name": "EPIC SC EPIC SC Destroyers Black",
+   "a_score": 1,
+   "b_id": null,
+   "b_name": "Virginia Soccer Association VSA PREMIER RED",
+   "b_score": 0,
+   "competition": "Win Prob | - Revolution Cup 2026",
+   "date": "2026-09-07",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4267755",
+   "status": "final"
+  },
+  {
+   "a_id": "300441603",
+   "a_name": "Great Falls Reston Soccer Club GFR White",
+   "a_score": 1,
+   "b_id": null,
+   "b_name": "Virginia Soccer Association VSA PREMIER RED",
+   "b_score": 2,
+   "competition": "Revolution Cup 2026",
+   "date": "2026-09-06",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4267755",
+   "status": "final"
+  },
+  {
+   "a_id": "300441638",
+   "a_name": "Virginia Revolution SC VRSC Black",
+   "a_score": 1,
+   "b_id": null,
+   "b_name": "Virginia Soccer Association VSA PREMIER RED",
+   "b_score": 8,
+   "competition": "Revolution Cup 2026",
+   "date": "2026-09-05",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4267755",
+   "status": "final"
+  },
+  {
+   "a_id": "300442011",
+   "a_name": "EPIC SC EPIC SC Destroyers Black",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Soccer Association VSA PREMIER RED",
+   "b_score": 5,
+   "competition": "Revolution Cup 2026",
+   "date": "2026-09-05",
+   "event_id": "51201",
+   "event_url": "https://system.gotsport.com/org_event/events/51201/schedules?team=4267755",
+   "status": "final"
+  }
+ ],
+ "games_on_page": 14,
  "team": {
   "age": "GU12",
   "club": "Virginia Soccer Association",
@@ -10,7 +63,5 @@
   "name": "Virginia Soccer Association VSA PREMIER RED",
   "state": "VA"
  },
- "warnings": [
-  "no games found; the page layout may differ from what the parser expects"
- ]
+ "warnings": []
 }

@@ -1,94 +1,4 @@
 STRUCTURE ONLY - all page text removed. Used to check the parser.
-<td>
-</td>
-<td class="pe-3">
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div id="opponents">
-</div>
-<div class="row mt-4">
-<div class="col-lg-12">
-<div class="card text-center px-0 h-100">
-<div class="card-header">
-</div>
-<div class="card-body p-0">
-<table class="table table-hover mb-0">
-<tbody>
-<tr>
-<td class="text-muted py-4">
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-<div class="card text-center px-0 mt-4">
-<div class="card-header">
-</div>
-<div class="card-body p-0">
-<table class="table table-hover mb-0">
-<tbody>
-<tr>
-<td class="text-start ps-3">
-<div class="fw-semibold">
-</div>
-<div>
-<a class="text-decoration-none" href="/team/…">
-</a>
-<span class="mx-1">
-</span>
-<span class="text-muted">
-</span>
-</div>
-<div class="text-muted small">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div id="trends">
-</div>
-<div class="card text-center px-0 mt-4">
-<div class="card-header">
-</div>
-<div class="card-body p-0">
-<div class="row justify-content-center">
-<div>
-<figure class="figure w-100">
-<div>
-<canvas id="goalsChart">
-</canvas>
-</div>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<div id="games">
-</div>
-<div class="card text-center px-0 mt-4">
-<div class="card-header">
-<ul id="gamesTab">
-<li class="nav-item">
-<button class="nav-link active" id="gamehistory-tab">
-</button>
-</li>
-<li class="nav-item">
-<button class="nav-link" id="upcominggames-tab">
-</button>
-</li>
-</ul>
-</div>
-<div class="card-body p-0">
-<div class="tab-content" id="gamesTabContent">
 <div class="tab-pane fade show active" id="gamehistory">
 <div class="row justify-content-center mt-1">
 <div>
@@ -107,6 +17,7 @@ STRUCTURE ONLY - all page text removed. Used to check the parser.
 <td class="align-middle">
 </td>
 <td class="fw-lighter">
+  ~ Aaa Aaaa
 </td>
 </tr>
 <tr>
@@ -116,11 +27,13 @@ STRUCTURE ONLY - all page text removed. Used to check the parser.
 </div>
 <div>
 <a class="text-decoration-none" href="/team/…">
+  ~ Aaaaaa Aaaaaaa Aaaaaaa - Aaaaaa AA Aaaaa
 </a>
 </div>
 </div>
 </td>
 <td class="col-1 align-middle">
+  ~ 5
 </td>
 <td>
 </td>
@@ -129,13 +42,16 @@ STRUCTURE ONLY - all page text removed. Used to check the parser.
 <td class="col-10 text-start">
 <div class="d-flex align-items-center">
 <div class="me-2">
+<img class="club-logo">
 </div>
 <div>
+  ~ Aaaaaaaa Aaaaaa AAAA Aaaaaaaaaa Aaaa
 </div>
 </div>
 </td>
 <td class="col-1 align-middle">
-<span class="">
+<span class="border border-danger p-1 border-2">
+  ~ 0
 </span>
 </td>
 <td class="col-1 align-middle fw-lighter">
@@ -143,7 +59,9 @@ STRUCTURE ONLY - all page text removed. Used to check the parser.
 </tr>
 <tr>
 <td class="text-start form-text">
+  ~ Aaa 27, 2026 -
 <a class="text-decoration-none" href="https://elements.demosphere.com/…">
+  ~ AAAA Aaaa 2026
 </a>
 </td>
 </tr>
@@ -159,3 +77,185 @@ STRUCTURE ONLY - all page text removed. Used to check the parser.
 <td class="col-10 text-start">
 <div class="d-flex align-items-center">
 <div class="me-2">
+</div>
+<div>
+<a class="text-decoration-none" href="/team/…">
+  ~ Aaaaaaaaaaa Aaaaa Aaaaaa Aaaaa - Aaaaaa 
+</a>
+</div>
+</div>
+</td>
+<td class="col-1 align-middle">
+  ~ 0
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="col-10 text-start">
+<div class="d-flex align-items-center">
+<div class="me-2">
+<img class="club-logo">
+</div>
+<div>
+  ~ Aaaaaaaa Aaaaaa AAAA Aaaaaaaaaa Aaaa
+</div>
+</div>
+</td>
+<td class="col-1 align-middle">
+<span class="border border-success p-1 border-2">
+  ~ 1
+</span>
+</td>
+<td class="col-1 align-middle fw-lighter">
+</td>
+</tr>
+<tr>
+<td class="text-start form-text">
+  ~ Aaa 20, 2026 -
+<a class="text-decoration-none" href="https://elements.demosphere.com/…">
+  ~ AAAA Aaaa 2026
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="border-bottom border-3">
+<td>
+<table>
+<tbody>
+<tr>
+<td class="col-10 text-start">
+<div class="d-flex align-items-center">
+<div class="me-2">
+</div>
+<div>
+<a class="text-decoration-none" href="/team/…">
+  ~ Aaaaaaa Aaaaaa Aaaaa Aaaa - Aaaaaa AAAA 
+</a>
+</div>
+</div>
+</td>
+<td class="col-1 align-middle">
+  ~ 3
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="col-10 text-start">
+<div class="d-flex align-items-center">
+<div class="me-2">
+<img class="club-logo">
+</div>
+<div>
+  ~ Aaaaaaaa Aaaaaa AAAA Aaaaaaaaaa Aaaa
+</div>
+</div>
+</td>
+<td class="col-1 align-middle">
+<span class="border border-danger p-1 border-2">
+  ~ 0
+</span>
+</td>
+<td class="col-1 align-middle fw-lighter">
+</td>
+</tr>
+<tr>
+<td class="text-start form-text">
+  ~ Aaa 19, 2026 -
+<a class="text-decoration-none" href="https://elements.demosphere.com/…">
+  ~ AAAA Aaaa 2026
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="border-bottom border-3">
+<td>
+<table>
+<tbody>
+<tr>
+<td class="col-10 text-start">
+<div class="d-flex align-items-center">
+<div class="me-2">
+<img class="club-logo">
+</div>
+<div>
+<a class="text-decoration-none" href="/team/…">
+  ~ Aaaaaaa Aaaaaa Aaaa AAAA Aaaaa
+</a>
+</div>
+</div>
+</td>
+<td class="col-1 align-middle">
+  ~ 6
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="col-10 text-start">
+<div class="d-flex align-items-center">
+<div class="me-2">
+<img class="club-logo">
+</div>
+<div>
+  ~ Aaaaaaaa Aaaaaa AAAA Aaaaaaaaaa Aaaa
+</div>
+</div>
+</td>
+<td class="col-1 align-middle">
+<span class="border border-danger p-1 border-2">
+  ~ 0
+</span>
+</td>
+<td class="col-1 align-middle fw-lighter">
+</td>
+</tr>
+<tr>
+<td class="text-start form-text">
+  ~ Aaa 13, 2026 -
+<a class="text-decoration-none" href="https://elements.demosphere.com/…">
+  ~ AAAA Aaaa 2026
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr class="border-bottom border-3">
+<td>
+<table>
+<tbody>
+<tr>
+<td class="col-10 text-start">
+<div class="d-flex align-items-center">
+<div class="me-2">
+<img class="club-logo">
+</div>
+<div>
+<a class="text-decoration-none" href="/team/…">
+  ~ Aaaaaaa Aaaaaa Aaaa AAAA Aaaaa
+</a>
+</div>
+</div>
+</td>
+<td class="col-1 align-middle">
+  ~ 2
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="col-10 text-start">
+<div class="d-flex align-items-center">
+<div class="me-2">
+<img class="club-logo">
+</div>
+<div>

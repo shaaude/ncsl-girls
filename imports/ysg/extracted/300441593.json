@@ -1,7 +1,99 @@
 {
- "fetched_at": "2026-10-10T16:50:47.901358+00:00",
- "games": [],
- "games_on_page": 0,
+ "fetched_at": "2026-10-10T16:50:47.901549+00:00",
+ "games": [
+  {
+   "a_id": "300441599",
+   "a_name": "Virginia Reign Pre ECNL RL Girls Elite",
+   "a_score": 1,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
+   "b_score": 3,
+   "competition": "Win Prob | - 2026 Virginia Cup",
+   "date": "2026-09-06",
+   "event_id": "50189",
+   "event_url": "https://system.gotsport.com/org_event/events/50189/schedules?team=4063520",
+   "status": "final"
+  },
+  {
+   "a_id": "300522050",
+   "a_name": "Virginia Velocity FC Virginia Velocity FC Galaxy",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
+   "b_score": 1,
+   "competition": "2026 Virginia Cup",
+   "date": "2026-09-05",
+   "event_id": "50189",
+   "event_url": "https://system.gotsport.com/org_event/events/50189/schedules?team=4063520",
+   "status": "final"
+  },
+  {
+   "a_id": "300545774",
+   "a_name": "FC Richmond FC Richmond Mystx Elite Pre-Aspire",
+   "a_score": 2,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
+   "b_score": 2,
+   "competition": "2026 Virginia Cup",
+   "date": "2026-09-05",
+   "event_id": "50189",
+   "event_url": "https://system.gotsport.com/org_event/events/50189/schedules?team=4063520",
+   "status": "final"
+  },
+  {
+   "a_id": "300532515",
+   "a_name": "Arlington Soccer Association Arlington SA Pre-Academy",
+   "a_score": 5,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
+   "b_score": 1,
+   "competition": "Loudoun Premier Cup 2026",
+   "date": "2026-08-23",
+   "event_id": "50209",
+   "event_url": "https://system.gotsport.com/org_event/events/50209/schedules?team=4095321",
+   "status": "final"
+  },
+  {
+   "a_id": "300549221",
+   "a_name": "Fredericksburg FC Fredericksburg FC - Monaco",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
+   "b_score": 2,
+   "competition": "Loudoun Premier Cup 2026",
+   "date": "2026-08-23",
+   "event_id": "50209",
+   "event_url": "https://system.gotsport.com/org_event/events/50209/schedules?team=4095321",
+   "status": "final"
+  },
+  {
+   "a_id": "300441595",
+   "a_name": "McLean YS McLean Youth Soccer Girls White",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
+   "b_score": 4,
+   "competition": "Loudoun Premier Cup 2026",
+   "date": "2026-08-22",
+   "event_id": "50209",
+   "event_url": "https://system.gotsport.com/org_event/events/50209/schedules?team=4095321",
+   "status": "final"
+  },
+  {
+   "a_id": "12273337",
+   "a_name": "Players Soccer Academy Villarreal VA PSA Spirit",
+   "a_score": 0,
+   "b_id": null,
+   "b_name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
+   "b_score": 6,
+   "competition": "Loudoun Premier Cup 2026",
+   "date": "2026-08-22",
+   "event_id": "50209",
+   "event_url": "https://system.gotsport.com/org_event/events/50209/schedules?team=4095321",
+   "status": "final"
+  }
+ ],
+ "games_on_page": 22,
  "team": {
   "age": "GU12",
   "club": "Virginia Independent Soccer Team Association",
@@ -10,7 +102,5 @@
   "name": "Virginia Independent Soccer Team Association VISTA Liberty FC",
   "state": "VA"
  },
- "warnings": [
-  "no games found; the page layout may differ from what the parser expects"
- ]
+ "warnings": []
 }
