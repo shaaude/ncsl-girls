@@ -78,3 +78,22 @@ def test_one_rating_across_adjacent_ages():
     assert set(mdl["mu_age"]) == {"GU12", "GU13"}
     p = predict(mdl, "Y", "Q", age="GU13")
     assert p is not None and abs(sum(p) - 1) < 1e-9
+
+
+def test_division_placement_links_divisions_without_games():
+    """Two NCSL divisions that never meet are still comparable through their placement, and
+    the Division 1 side starts ahead; an outside pair with no link stays separate."""
+    from national_model import fit, predict
+    games = []
+    for i in range(5):
+        for a, b, age in (("D1a", "D1b", "GU13"), ("D2a", "D2b", "GU13"), ("Oa", "Ob", "GU13")):
+            games.append({"team_a": a, "team_b": b, "a_score": 1, "b_score": 1, "date": f"2026-09-{10+i:02d}",
+                          "venue_type": "neutral", "age_a": age, "age_b": age, "sources": ["ncsl"]})
+    tier = {"D1a": -0.5, "D1b": -0.5, "D2a": 0.5, "D2b": 0.5}
+    mdl = fit(games, date(2026, 10, 1), tier=tier)
+    T = mdl["teams"]
+    assert T["D1a"]["network"] == T["D2a"]["network"] != T["Oa"]["network"]
+    assert T["D1a"]["component"] != T["D2a"]["component"]
+    assert T["D1a"]["att"] + T["D1a"]["def"] > T["D2a"]["att"] + T["D2a"]["def"]
+    assert predict(mdl, "D1a", "D2a") is not None and predict(mdl, "D1a", "Oa") is None
+    assert abs(mdl["tier_gap"] - nm.TIER_GAP_PRIOR) < 0.05

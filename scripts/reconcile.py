@@ -74,7 +74,17 @@ class ObservationStore:
         write_jsonl(self.path, sorted(self.rows.values(), key=lambda r: (r.get("date") or "", r["obs_id"])))
 
     def all(self):
-        return list(self.rows.values())
+        """Every observation, minus stale copies: a row no longer on its source page is dropped
+        when the same page now lists a game on the same date between the same two teams (the
+        page was re-read and the row's text changed, e.g. a parser fix). Rows that simply
+        dropped off a page are kept."""
+        live = defaultdict(set)
+        for r in self.rows.values():
+            if not r.get("missing_from_source"):
+                live[(r["observer"], r.get("date"))].add(frozenset((r["a"]["source_key"], r["b"]["source_key"])))
+        return [r for r in self.rows.values()
+                if not (r.get("missing_from_source")
+                        and frozenset((r["a"]["source_key"], r["b"]["source_key"])) in live.get((r["observer"], r.get("date")), ()))]
 
 
 def _oriented(o, first_cid, cid_of):

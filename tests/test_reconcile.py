@@ -98,3 +98,20 @@ def test_empty_pull_keeps_history(tmp_path):
     store.upsert(seq([obs("ysg", "ysg:1", "k1", "2026-09-13", A, B, 2, 1)]), "ysg")
     store.upsert([], "ysg")
     assert len(store.all()) == 1 and not store.all()[0]["missing_from_source"]
+
+
+def test_stale_copy_of_a_game_is_dropped_when_the_page_is_reread(tmp_path):
+    """A page re-read after a parser fix reports the same game with different text; the old
+    row must not survive as a second game."""
+    from reconcile import ObservationStore
+    st = ObservationStore(tmp_path / "obs.jsonl")
+    def ob(oid, comp):
+        return {"obs_id": oid, "source": "ysg", "observer": "ysg:1", "date": "2026-10-04",
+                "a": {"source_key": "ysg:1"}, "b": {"source_key": "ysg:2"}, "a_score": 1, "b_score": 0,
+                "competition": comp, "retrieved_at": "x"}
+    st.upsert([ob("old", "Win Prob | - NCSL Fall 2026"), ob("gone", "Other")], "ysg")
+    st.rows["gone"]["date"] = "2026-09-01"
+    st.upsert([ob("new", "NCSL Fall 2026")], "ysg")
+    ids = {r["obs_id"] for r in st.all()}
+    assert "new" in ids and "old" not in ids
+    assert "gone" in ids            # a game that just dropped off the page is kept
