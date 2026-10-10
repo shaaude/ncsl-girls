@@ -121,9 +121,25 @@ form.pred .full{grid-column:1/-1}
 .foot{color:var(--faint);font-size:12px;border-top:1px solid var(--line);padding:18px 0 30px}
 .spark{display:block}
 .toggle{border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:8px;padding:6px 7px;cursor:pointer;display:grid;place-items:center;flex:none}
+.seg{display:inline-flex;background:var(--chip);border-radius:99px;padding:3px;margin-bottom:14px}
+.seg a{padding:5px 14px;border-radius:99px;font-size:14px;font-weight:600;color:var(--muted)}
+.seg a.on{background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
+.filters{display:flex;gap:8px;flex-wrap:wrap;padding:0 16px 12px}
+.filters select,.filters input{font:inherit;font-size:14px;padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.filters input{min-width:180px;flex:1}
+th.sortable{cursor:pointer;user-select:none} th.sortable:hover{color:var(--ink)} th.sorted{color:var(--accent)}
+.rel{font-size:11px;font-weight:700;padding:2px 7px;border-radius:99px;text-transform:uppercase;letter-spacing:.03em}
+.rel-high{background:var(--win-bg);color:var(--win)}.rel-medium{background:var(--draw-bg);color:var(--draw)}.rel-low{background:var(--chip);color:var(--muted)}
+.src{font-size:11px;font-weight:650;padding:1px 6px;border-radius:5px;background:var(--chip);color:var(--muted);margin-right:3px}
+.pager{display:flex;gap:6px;justify-content:center;align-items:center;padding:12px;font-size:14px;color:var(--muted)}
+.pager a{padding:5px 10px;border-radius:8px;background:var(--chip);color:var(--ink)}
+.banner{border-left:4px solid var(--draw);background:var(--draw-bg);color:var(--ink);border-radius:10px;padding:12px 14px;margin-bottom:14px;font-size:14px}
+.banner b{color:var(--draw)}
 @media (max-width:640px){
   h1{font-size:22px}
   .brand small{display:none}
+  .brand .bt{display:none}
+  nav.main a{padding:6px 7px}
   .match{grid-template-columns:52px 1fr 52px 1fr;padding:8px 10px;font-size:14px}
   form.pred{grid-template-columns:1fr}
   .hide-sm{display:none}
@@ -133,9 +149,10 @@ form.pred .full{grid-column:1/-1}
 </head>
 <body>
 <header class="top"><div class="wrap">
-  <a class="brand" href="#/"><i></i>NCSL Girls Tables <small>Fall 2026</small></a>
+  <a class="brand" href="#/" aria-label="NCSL Girls Tables home"><i></i><span class="bt">NCSL Girls Tables</span> <small>Fall 2026</small></a>
   <nav class="main" id="nav">
-    <a href="#/" data-r="home">Ages</a>
+    <a href="#/" data-r="home">NCSL<span class="hide-sm"> League</span></a>
+    <a href="#/national" data-r="national">National<span class="hide-sm"> Girls</span></a>
     <a href="#/predict" data-r="predict">Predict</a>
     <a href="#/changes" data-r="changes">Changes</a>
     <a href="#/about" data-r="about">About</a>
@@ -420,6 +437,7 @@ function viewTeam(k){
     <div class="stat"><div class="k">Form</div><div class="v" style="font-size:16px;padding-top:6px">${form(r.form)||"–"}</div>${biggest&&biggest.m>0?`<div class="s">Best: ${biggest.g.home===k?biggest.g.hs:biggest.g.as}–${biggest.g.home===k?biggest.g.as:biggest.g.hs} vs ${esc(S.teams[biggest.g.home===k?biggest.g.away:biggest.g.home].name)}</div>`:""}</div>
   </div></div>`:`<p class="note">NCSL does not publish scores at ${ageLabel(t.age)}, so this page shows the schedule only.</p>`}
   ${nextHtml}
+  <div class="card" id="natpanel" data-ncsl="${k}"><h2>National performance</h2><p class="sub" style="margin:0">Loading…</p></div>
   ${scored?`<div class="card flush"><h2>Division table</h2>${standingsTable(v,k)}</div>`:""}
   <div class="card flush"><h2>Schedule & results</h2>${schedule(games)}</div>
   ${scored&&rated(t)?`<div class="card"><h2>Rating detail</h2><p class="sub" style="margin:0">Attack ${t.att0>=0?"+":""}${t.att0.toFixed(2)}, defence ${t.def0>=0?"+":""}${t.def0.toFixed(2)} relative to the ${esc(v.name.replace(/^GU\d+ /,""))} average (log-goal scale; positive is better for both). Built from ${r.gp - (r.ff||0)} scored games${r.ff?`; ${r.ff} forfeit${r.ff>1?"s":""} excluded`:""}. ${r.gp<4?"Few games so far, so this rating is still rough.":""}</p></div>`:""}`;
@@ -446,8 +464,9 @@ function viewPredict(params){
   const s = 1/(p.w+p.d+p.l);
   const h2h = (S.gamesByTeam[a]||[]).filter(g=>g.hs!=null && (g.home===b||g.away===b));
   const N = 5;
-  return `<h1>Head-to-head predictor</h1>
-  <p class="sub">Pick any two teams in the same age group, scheduled to meet or not.</p>
+  return `<div class="seg"><a class="on" href="#/predict">NCSL model</a><a href="#/national/predict">National model</a></div>
+  <h1>Head-to-head predictor</h1>
+  <p class="sub">NCSL league results only, with the division-tier assumption. Pick any two teams in the same age group, scheduled to meet or not.</p>
   <div class="card"><form class="pred" id="pf">
     <label class="full">Age group<select name="age">${scoredAges.map(x=>`<option ${x.age===age?"selected":""} value="${x.age}">${ageLabel(x.age)} girls</option>`).join("")}</select></label>
     <label>Home team<select name="a">${opt(a)}</select></label>
@@ -507,9 +526,271 @@ function viewAbout(){
   <p>Each team gets an attack and a defence rating from a Poisson goals model: expected goals for a team = baseline × home advantage × its attack ÷ the opponent's defence. Ratings are shrunk toward the division average so a single blowout doesn't dominate. On held-out recent games the model's log-loss was 0.82, against 0.99 for always predicting the base rates.</p>
   <p><b>The important assumption:</b> teams in different divisions never meet, so results alone can't say how Division 2 compares with Division 1. Each division step down is treated as a fixed drop in strength of ${d.tier_gap.toFixed(2)} on the log-goal scale, chosen so that a typical division winner rates about like the median team one division up, which fits NCSL's promotion and relegation. You can change it in the <a class="link" href="#/predict">predictor</a>.</p>
   <p style="margin:0"><b>Rating</b> puts attack and defence on one scale: 1500 is an average team in the age group, and each 250 points is roughly a 2.7× edge in goals scored versus conceded against the same opponent. Win/tie/loss chances come from the full scoreline distribution, not the rating alone.</p></div>
+  <div class="card"><h2>National girls</h2>
+  <p>The National Girls section is separate from everything above: NCSL standings, NCSL ratings and the NCSL predictor never use its results. It combines verified results from every source we're allowed to use, counting only games after August 1, 2026.</p>
+  <p>Each real game counts once, however many places report it. Teams from other sources are linked to NCSL teams only when their games line up with games the NCSL team already has (same dates, same scores); a similar name is never enough, and uncertain links wait for review. Forfeits, scrimmages, unplayed games and anything with a disputed score are left out of the model.</p>
+  <p style="margin:0">The national model is fit from scratch per age group with no division-tier assumption. Teams can only be compared when a chain of games connects them; groups with no links between them are shown separately, and a team gets a national rank only inside the main connected network, with at least eight eligible games. Recent games count more, and margins over six goals count as six.</p></div>
   <div class="card"><h2>Freshness</h2><p style="margin:0">Site built ${new Date(d.built_at).toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"})}. ${d.fetch?`Last download: ${d.fetch.ok.length} divisions OK${d.fetch.failed.length?`, ${d.fetch.failed.length} failed (previous data kept)`:""}.`:""}</p></div>`;
 }
 function notFound(){ return `<div class="card"><p class="empty">Not found. <a class="link" href="#/">Back to age groups</a></p></div>`; }
+
+
+// =====================================================================================
+// National Girls (lazy-loaded from national/*.json; independent of the NCSL data above)
+// =====================================================================================
+const N = {index:null, ages:{}, profiles:{}};
+let ROUTE_TOKEN = 0;
+async function nGet(path){ const r = await fetch(path, {cache:"no-cache"}); if (!r.ok) throw new Error(path+" "+r.status); return r.json(); }
+async function nIndex(){ return N.index ||= await nGet("national/index.json"); }
+async function nAge(a){ return N.ages[a] ||= await nGet(`national/${a}.json`); }
+async function nProfile(id){ return N.profiles[id] ||= await nGet(`national/teams/${id}.json`); }
+function later(render){ const tok = ++ROUTE_TOKEN; render().then(html=>{ if (tok===ROUTE_TOKEN){ const el=$("#nat"); if (el){ el.outerHTML = html; wireNational(); } } }).catch(e=>{ const el=$("#nat"); if (el) el.innerHTML = `<div class="card"><p class="empty">National data isn't available right now (${esc(e.message)}). The NCSL pages are unaffected.</p></div>`; }); return `<div id="nat"><p class="empty">Loading national data…</p></div>`; }
+const nTeamLink = (id, name, cls="") => `<a class="${cls}" href="#/national/team/${id}">${esc(name)}</a>`;
+const rec = r => r ? `${r[0]}-${r[1]}-${r[2]}` : "0-0-0";
+const relPill = x => `<span class="rel rel-${x}">${x}</span>`;
+const srcPill = s => `<span class="src">${({ncsl:"NCSL",ysg:"YSG",csv:"Import",event:"Event"})[s]||esc(s)}</span>`;
+const statusLabel = x => x.status==="ranked" ? `#${x.national_rank}` : x.status==="provisional" ? `<span title="Fewer than ${N.index?.min_ranked_games||8} eligible games">prov.</span>` : `<span title="Only comparable within its own connected group">—</span>`;
+const fmtWhen = iso => iso ? new Date(iso).toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) : "never";
+
+function networkNames(ageData){
+  // name each connected group: an NCSL division if all its teams share one, else "Group n"
+  const by = {};
+  ageData.teams.forEach(t => (by[t.network] ||= []).push(t));
+  const names = {};
+  Object.entries(by).forEach(([k, ts]) => {
+    const divs = new Set(ts.map(t=>t.ncsl_division||"x"));
+    names[k] = divs.size===1 && !divs.has("x") && S.divs[[...divs][0]] ? S.divs[[...divs][0]].name.replace(/^GU\d+ /,"") + " (NCSL)" : `Group ${+k+1} (${ts.length} teams)`;
+  });
+  return names;
+}
+
+function viewNational(){
+  return later(async () => {
+    const ix = await nIndex();
+    const T = ix.totals;
+    const anyExternal = T.external_matches > 0;
+    const v = ix.validation?.ncsl_fixtures;
+    return `<h1>National girls</h1>
+    <p class="sub">Ratings from every verified result we have for the age groups NCSL plays, counting only games after ${fmtDate(ix.cutoff,{month:"long",day:"numeric",year:"numeric"})}. Kept separate from NCSL's official standings, which never use these results.</p>
+    ${anyExternal ? "" : `<div class="banner"><b>Coverage is NCSL-only so far.</b> No tournament or out-of-league results have been imported yet, so there are no national rankings: teams can only be compared inside their own NCSL division. Results arrive through files added to the repo's <code>imports/</code> folder (tournament exports or saved team pages). Automated collection from YouthSoccerGames stays off unless they give written permission.</div>`}
+    <div class="grid g3" style="margin-bottom:18px">${ix.ages.map(a=>`<a class="tile" href="#/national/${a.age}"><b>${ageLabel(a.age)} girls</b>
+      <div class="meta">${a.teams_rated} rated · ${a.eligible_matches} eligible games</div>
+      <div style="margin-top:8px">${a.national_ranking_available?`<span class="pill ok">National ranks</span>`:a.teams_rated?`<span class="pill">Within-group ratings</span>`:`<span class="pill">No scored games</span>`}</div></a>`).join("")}</div>
+    <div class="grid g2">
+      <div class="card"><h2>Coverage</h2><div class="stats">
+        <div class="stat"><div class="k">Teams known</div><div class="v">${T.canonical_teams}</div><div class="s">${T.ncsl_teams} NCSL · ${T.non_ncsl_teams} other</div></div>
+        <div class="stat"><div class="k">Eligible games</div><div class="v">${T.eligible_matches}</div><div class="s">of ${T.canonical_matches} unique matches</div></div>
+        <div class="stat"><div class="k">NCSL teams linked</div><div class="v">${T.ncsl_teams_linked_to_other_sources}</div><div class="s">to outside sources</div></div>
+        <div class="stat"><div class="k">Duplicates merged</div><div class="v">${T.duplicates_merged}</div><div class="s">${T.unresolved_conflicts} unresolved conflicts</div></div>
+      </div><p class="note" style="margin:12px 0 0">Not a complete national picture: only results from the sources below are included.</p></div>
+      <div class="card"><h2>Sources</h2><div class="tablewrap"><table><thead><tr><th class="l">Source</th><th>Reports</th><th class="l">Last update</th></tr></thead><tbody>
+        ${Object.values(ix.sources).map(s=>`<tr><td class="l">${esc(s.label)}${s.note?`<div style="font-size:12px;color:var(--muted);white-space:normal">${esc(s.note)}</div>`:""}</td><td>${s.observations}</td><td class="l">${fmtWhen(s.last_retrieved)}</td></tr>`).join("")}
+      </tbody></table></div></div>
+    </div>
+    <div class="grid g2">
+      <div class="card"><h2>Latest imported results</h2>${ix.latest_external.length?`<ul class="recap" style="margin:0;padding-left:18px">${ix.latest_external.map(m=>`<li>${fmtDate(m.date)}: ${esc(m.a)} <b>${m.score[0]}–${m.score[1]}</b> ${esc(m.b)} <span class="pill">${ageLabel(m.age)}</span> ${m.competition?`<span style="color:var(--muted)">${esc(m.competition)}</span>`:""}</li>`).join("")}</ul>`:`<p class="sub" style="margin:0">None yet.</p>`}</div>
+      <div class="card"><h2>Model check</h2>${v&&v.national_model?.n?`<p style="margin:0 0 8px">Tested on ${v.national_model.n} NCSL games it hadn't seen, predicting each week from earlier results only:</p>
+        <div class="tablewrap"><table><thead><tr><th class="l">Model</th><th>Log-loss</th><th>Brier</th><th>Calib. error</th></tr></thead><tbody>
+        <tr><td class="l">National model</td><td>${v.national_model.log_loss}</td><td>${v.national_model.brier}</td><td>${v.national_model.ece}</td></tr>
+        <tr><td class="l">NCSL model</td><td>${v.ncsl_baseline.log_loss}</td><td>${v.ncsl_baseline.brier}</td><td>${v.ncsl_baseline.ece}</td></tr>
+        <tr><td class="l">Base rates</td><td>${v.base_rates.log_loss}</td><td>${v.base_rates.brier}</td><td>${v.base_rates.ece}</td></tr></tbody></table></div>
+        <p class="note" style="margin:10px 0 0">Lower is better for all three. These are within-division games only; cross-division accuracy can't be measured until outside results connect divisions.</p>`:`<p class="sub" style="margin:0">Not enough games to test yet.</p>`}</div>
+    </div>
+    <p class="note">Built ${fmtWhen(ix.built_at)} · evaluation date ${fmtDate(ix.as_of)} · ${T.review_queue} item${T.review_queue===1?"":"s"} waiting for review</p>`;
+  });
+}
+
+function viewNationalAge(age, params){
+  return later(async () => {
+    const ix = await nIndex(); const ad = await nAge(age);
+    const nets = networkNames(ad);
+    let rows = ad.teams.slice();
+    const q = (params.get("q")||"").toLowerCase(), st = params.get("state")||"", rg = params.get("region")||"",
+          only = params.get("ncsl")==="1", status = params.get("status")||"all";
+    const sort = params.get("sort") || "rating", dir = params.get("dir")==="asc" ? 1 : -1;
+    if (q) rows = rows.filter(t => (t.name+" "+(t.club||"")).toLowerCase().includes(q));
+    if (st) rows = rows.filter(t => t.state===st);
+    if (rg) rows = rows.filter(t => t.region===rg);
+    if (only) rows = rows.filter(t => t.ncsl_key);
+    if (status!=="all") rows = rows.filter(t => t.status===status);
+    const key = {rating:t=>t.rating, games:t=>t.games, sos:t=>t.sos??-1e9, name:t=>t.name, rank:t=>-(t.national_rank||1e9)}[sort] || (t=>t.rating);
+    rows.sort((a,b)=>{ const x=key(a), y=key(b); return (x>y?1:x<y?-1:0)*dir; });
+    if (!ad.national_ranking_available && sort==="rating"){
+      const order = Object.fromEntries(Object.entries(nets).sort((x,y)=>x[1].localeCompare(y[1], undefined, {numeric:true})).map(([k],i)=>[k,i]));
+      rows.sort((a,b)=>order[a.network]-order[b.network] || b.rating-a.rating);
+    }
+    const per = 50, page = Math.max(1, +(params.get("page")||1)), pages = Math.max(1, Math.ceil(rows.length/per));
+    const shown = rows.slice((page-1)*per, page*per);
+    const states = [...new Set(ad.teams.map(t=>t.state).filter(Boolean))].sort();
+    const regions = [...new Set(ad.teams.map(t=>t.region).filter(Boolean))].sort();
+    const qs = (o) => { const p = new URLSearchParams(params); Object.entries(o).forEach(([k,v])=> v===null?p.delete(k):p.set(k,v)); return `#/national/${age}?${p}`; };
+    const th = (k, label, cls="") => `<th class="sortable ${cls} ${sort===k?"sorted":""}" data-href="${qs({sort:k, dir: sort===k && dir===-1 ? "asc" : "desc", page:null})}">${label}${sort===k?(dir===-1?" ↓":" ↑"):""}</th>`;
+    let lastNet = null;
+    const body = shown.map(t => {
+      let hdr = "";
+      if (!ad.national_ranking_available && sort==="rating" && t.network!==lastNet){ lastNet = t.network; hdr = `<tr><td colspan="10" class="l" style="background:var(--line2);font-weight:650;font-size:13px">${esc(nets[t.network])}</td></tr>`; }
+      return hdr + `<tr><td class="rk">${statusLabel(t)}${mv(t.rank_move)}</td><td class="team">${nTeamLink(t.id, t.name)}${t.ncsl_key?` <span class="src">NCSL</span>`:""}</td>
+      <td class="l hide-sm" style="white-space:normal">${esc(t.club||"–")}</td><td class="hide-sm">${esc(t.state||"–")}</td><td><b>${t.rating}</b></td><td>${t.games}</td>
+      <td>${rec(t.record)}</td><td class="hide-sm">${t.sos??"–"}</td><td class="hide-sm">${t.rank_move?mv(t.rank_move):"–"}</td><td>${relPill(t.reliability)}</td></tr>`;
+    }).join("");
+    return `<div class="crumbs"><a href="#/national">National girls</a>›<span>${ageLabel(age)}</span></div>
+    <h1>${ageLabel(age)} girls, national</h1>
+    <p class="sub">${ad.coverage.teams_rated} rated teams · ${ad.coverage.eligible_matches} eligible games · sources: ${ad.coverage.sources.map(srcPill).join("")||"none"}</p>
+    ${ad.coverage.teams_rated===0 ? `<div class="card"><p class="empty">No eligible scored games at ${ageLabel(age)} yet.${["GU9","GU10","GU11"].includes(age)?" NCSL doesn't publish scores at this age, so ratings here need results from other sources.":""}</p></div>` : `
+    ${ad.national_ranking_available ? "" : `<div class="banner"><b>No national ranking yet.</b> Teams are split into ${ad.coverage.networks} groups that have no results linking them${ad.coverage.main_network_has_external?"":" (each is a single NCSL division)"}. Ratings are only comparable within a group, so the table shows each group separately and nobody gets a national rank until outside results connect the groups.</div>`}
+    <div class="card flush">
+      <div class="filters" style="padding-top:14px">
+        <input id="nq" type="search" placeholder="Search team or club" value="${esc(params.get("q")||"")}">
+        <select data-k="status"><option value="all">All teams</option>${["ranked","provisional","separate network"].map(x=>`<option ${status===x?"selected":""} value="${x}">${x[0].toUpperCase()+x.slice(1)}</option>`).join("")}</select>
+        <select data-k="state"><option value="">All states</option>${states.map(x=>`<option ${st===x?"selected":""}>${x}</option>`).join("")}</select>
+        <select data-k="region"><option value="">All regions</option>${regions.map(x=>`<option ${rg===x?"selected":""}>${x}</option>`).join("")}</select>
+        <label style="display:flex;gap:6px;align-items:center;font-size:14px;color:var(--muted)"><input type="checkbox" data-k="ncsl" ${only?"checked":""}> NCSL teams only</label>
+      </div>
+      <div class="tablewrap"><table><thead><tr>${th("rank","Rank","l")}${th("name","Team","l")}<th class="l hide-sm">Club</th><th class="hide-sm">State</th>${th("rating","Rating")}${th("games","Games")}<th>W-D-L</th>${th("sos","SOS","hide-sm")}<th class="hide-sm">Trend</th><th>Reliability</th></tr></thead>
+      <tbody>${body || `<tr><td colspan="10" class="empty">No teams match these filters.</td></tr>`}</tbody></table></div>
+      ${pages>1?`<div class="pager">${page>1?`<a href="${qs({page:page-1})}">‹ Prev</a>`:""}<span>Page ${page} of ${pages} · ${rows.length} teams</span>${page<pages?`<a href="${qs({page:page+1})}">Next ›</a>`:""}</div>`:`<div class="pager">${rows.length} teams</div>`}
+    </div>
+    <p class="note">Rating: 1500 is the average of a connected group. Ranked = in the main national network with at least ${ix.min_ranked_games} eligible games; provisional = fewer games; "—" = in a separate group. SOS = average rating of opponents faced. Reliability reflects games played and how settled the rating is.</p>`}`;
+  });
+}
+
+function viewNationalTeam(id){
+  return later(async () => {
+    const ix = await nIndex(); const p = await nProfile(id); const ad = await nAge(p.age);
+    const x = p.summary; const nets = networkNames(ad);
+    const ms = p.matches; const today = todayISO();
+    const played = ms.filter(m=>m.gf!=null && m.status!=="scheduled");
+    const upcoming = ms.filter(m=>m.status==="scheduled" && m.date>=today);
+    const form = played.filter(m=>m.eligible).slice(-5).map(m=>m.gf>m.ga?"W":m.gf===m.ga?"T":"L").join("");
+    const hist = (p.history||[]).filter(h=>h.rating!=null);
+    const trend = hist.length>1 ? (()=>{ const v=hist.map(h=>h.rating), mn=Math.min(...v), mx=Math.max(...v), w=120, ht=28, rg=(mx-mn)||1;
+      return `<svg width="${w}" height="${ht}"><polyline fill="none" stroke="var(--accent)" stroke-width="2" points="${v.map((r,i)=>`${(i/(v.length-1)*w).toFixed(1)},${(ht-3-(r-mn)/rg*(ht-6)).toFixed(1)}`).join(" ")}"/></svg>`; })() : `<span style="color:var(--faint);font-size:12px">builds up daily</span>`;
+    const byId = Object.fromEntries(ad.teams.map(t=>[t.id,t]));
+    const predictFor = m => { const o = byId[m.opp]; if (!x || !o || o.network!==x.network) return ""; const pr = nPredict(ad, x, o, m.venue==="H" ? "a" : m.venue==="A" ? "b" : "n"); return ` · ${probbar(pr)} ${pct(pr.w)} / ${pct(pr.d)} / ${pct(pr.l)}`; };
+    return `<div class="crumbs"><a href="#/national">National girls</a>›<a href="#/national/${p.age}">${ageLabel(p.age)}</a>›<span>${esc(p.name)}</span></div>
+    <h1>${esc(p.name)}</h1>
+    <p class="sub">${ageLabel(p.age)} girls${p.club?` · ${esc(p.club)}`:""}${p.state?` · ${esc(p.state)}`:""}${p.region?` (${esc(p.region)})`:""}${p.ncsl_key&&S.teams[p.ncsl_key]?` · <a class="link" href="#/team/${p.ncsl_key}">NCSL team page</a> (${esc(S.divs[S.teams[p.ncsl_key].div].name)})`:""}</p>
+    ${x ? `<div class="card"><div class="stats">
+      <div class="stat"><div class="k">National</div><div class="v">${x.national_rank?`#${x.national_rank}`:x.status==="provisional"?"Prov.":"—"}</div><div class="s">${x.status==="ranked"?`of ranked ${ageLabel(p.age)}`:x.status==="provisional"?`needs ${ix.min_ranked_games} games`:esc(nets[x.network])}</div></div>
+      <div class="stat"><div class="k">State / region</div><div class="v">${x.state_rank?`#${x.state_rank}`:"—"} <span style="font-size:15px;color:var(--muted)">/ ${x.region_rank?`#${x.region_rank}`:"—"}</span></div><div class="s">${esc(x.state||"state unknown")}</div></div>
+      <div class="stat"><div class="k">Rating</div><div class="v">${x.rating}</div><div class="s">± ${Math.round(x.se*250)} · ${relPill(x.reliability)}</div></div>
+      <div class="stat"><div class="k">Record W-D-L</div><div class="v">${rec(x.record)}</div><div class="s">League ${rec(x.league_record)} · Tourn. ${rec(x.tournament_record)}</div></div>
+      <div class="stat"><div class="k">Strength of schedule</div><div class="v">${x.sos??"–"}</div><div class="s">avg opponent rating</div></div>
+      <div class="stat"><div class="k">Form · trend</div><div class="v" style="font-size:16px;padding-top:6px">${form?formHtml(form):"–"}</div><div class="s">${trend}</div></div>
+    </div></div>` : `<div class="card"><p class="sub" style="margin:0">No eligible scored games after ${fmtDate(ix.cutoff,{month:"short",day:"numeric"})} yet, so this team has no national rating. That's an honest gap, not a zero.</p></div>`}
+    ${upcoming.length?`<div class="card flush"><h2>Upcoming known fixtures</h2>${upcoming.map(m=>`<div class="match" style="grid-template-columns:80px 1fr"><div class="t">${fmtDate(m.date)}</div><div>${m.venue==="H"?"vs":m.venue==="A"?"at":"vs"} ${nTeamLink(m.opp,m.opp_name,"link")}<div class="extra" style="grid-column:auto;margin-top:2px">${esc(m.competition||"")}${predictFor(m)}</div></div></div>`).join("")}</div>`:""}
+    <div class="card flush"><h2>Match history</h2>${played.length?`<div class="tablewrap"><table><thead><tr><th class="l">Date</th><th class="l">Opponent</th><th>Result</th><th class="l hide-sm">Competition</th><th class="hide-sm">Venue</th><th class="l">Source</th></tr></thead><tbody>
+      ${played.slice().reverse().map(m=>`<tr style="${m.eligible?"":"opacity:.55"}"><td class="l">${fmtDate(m.date,{month:"short",day:"numeric"})}</td><td class="team">${nTeamLink(m.opp,m.opp_name)}</td>
+      <td><b class="${m.gf>m.ga?"pw pos":m.gf<m.ga?"pw neg":""}">${m.gf>m.ga?"W":m.gf===m.ga?"D":"L"} ${m.gf}–${m.ga}</b></td><td class="l hide-sm" style="white-space:normal">${esc(m.competition||"–")}${m.type&&m.type!=="unknown"?` <span class="src">${esc(m.type)}</span>`:""}</td><td class="hide-sm">${m.venue}</td>
+      <td class="l">${m.sources.map(srcPill).join("")}${m.eligible?"":`<div style="font-size:11px;color:var(--muted)">not counted: ${esc(m.exclusion)}</div>`}</td></tr>`).join("")}
+    </tbody></table></div>`:`<p class="empty">No results yet.</p>`}</div>
+    <div class="card"><h2>Identity and sources</h2><ul class="recap" style="margin:0;padding-left:18px">${p.aliases.map(a=>`<li><code>${esc(a.source_key)}</code> · ${esc(a.name||"")} <span class="pill ${a.status==="confirmed"?"ok":""}">${esc(a.status)}</span> <span style="color:var(--muted);font-size:12px">${esc(a.by||"")}</span></li>`).join("")}</ul>
+      <p class="note" style="margin:10px 0 0">Last verified ${fmtWhen(p.last_verified)}. Outside results are linked to this team only when their games line up with games it already has; unconfirmed links are held for review and never counted.</p></div>`;
+  });
+}
+const formHtml = f => `<span class="form">${[...f].map(c=>`<span class="f-${c}">${c}</span>`).join("")}</span>`;
+
+function nPredict(ad, A, B, venue){   // venue: "a" = A home, "b" = B home, "n" = neutral
+  const h = ad.model.home, mu = ad.model.mu;
+  const lh = Math.exp(mu + (venue==="a"?h:0) + A.att - B.def), la = Math.exp(mu + (venue==="b"?h:0) + B.att - A.def);
+  let w=0,d=0,l=0; const grid=[];
+  for (let i=0;i<=10;i++){ grid[i]=[]; for (let j=0;j<=10;j++){ const p=pois(lh,i)*pois(la,j); grid[i][j]=p; if(i>j)w+=p; else if(i===j)d+=p; else l+=p; } }
+  const s=w+d+l; return {lh, la, w:w/s, d:d/s, l:l/s, grid, s};
+}
+
+function viewNationalPredict(params){
+  return later(async () => {
+    const ix = await nIndex();
+    const ages = ix.ages.filter(a=>a.teams_rated>1).map(a=>a.age);
+    const head = `<div class="seg"><a href="#/predict">NCSL model</a><a class="on" href="#/national/predict">National model</a></div><h1>National head-to-head</h1>`;
+    if (!ages.length) return head + `<div class="card"><p class="empty">No age group has enough rated teams yet.</p></div>`;
+    let age = params.get("age"); if (!ages.includes(age)) age = ages.includes("GU12") ? "GU12" : ages[0];
+    const ad = await nAge(age);
+    const teams = ad.teams.slice().sort((x,y)=>x.name.localeCompare(y.name));
+    const byId = Object.fromEntries(teams.map(t=>[t.id,t]));
+    const best = ad.teams.slice().sort((x,y)=>y.rating-x.rating);
+    let a = params.get("a"), b = params.get("b");
+    if (!byId[a]) a = best[0].id;
+    if (!byId[b] || b===a) b = (best.find(t=>t.id!==a && t.network===byId[a].network) || best.find(t=>t.id!==a)).id;
+    const A = byId[a], B = byId[b], venue = params.get("v") || "n";
+    const opt = sel => teams.map(t=>`<option value="${t.id}" ${t.id===sel?"selected":""}>${esc(t.name)}${t.state?` (${t.state})`:""}</option>`).join("");
+    const form = `<div class="card"><form class="pred" id="npf">
+      <label class="full">Age group<select name="age">${ages.map(x=>`<option ${x===age?"selected":""} value="${x}">${ageLabel(x)} girls</option>`).join("")}</select></label>
+      <label>Team A<select name="a">${opt(a)}</select></label><label>Team B<select name="b">${opt(b)}</select></label>
+      <label class="full">Venue<select name="v"><option value="n" ${venue==="n"?"selected":""}>Neutral (tournament)</option><option value="a" ${venue==="a"?"selected":""}>Team A at home</option><option value="b" ${venue==="b"?"selected":""}>Team B at home</option></select></label>
+    </form></div>`;
+    if (A.network !== B.network){
+      return head + form + `<div class="card"><h2>No basis for a prediction</h2><p style="margin:0">${esc(A.name)} and ${esc(B.name)} are in different groups with no results linking them (${esc(networkNames(ad)[A.network])} and ${esc(networkNames(ad)[B.network])}). Any number here would be invented. For NCSL teams, the <a class="link" href="#/predict">NCSL predictor</a> can compare across divisions using its stated tier assumption.</p></div>`;
+    }
+    const pr = nPredict(ad, A, B, venue);
+    const [pa, pb] = await Promise.all([nProfile(a), nProfile(b)]);
+    const h2h = pa.matches.filter(m=>m.opp===b && m.gf!=null && m.status!=="scheduled");
+    const oppsA = {}; pa.matches.filter(m=>m.eligible).forEach(m=>(oppsA[m.opp] ||= []).push(m));
+    const common = pb.matches.filter(m=>m.eligible && oppsA[m.opp]).reduce((acc,m)=>((acc[m.opp] ||= {name:m.opp_name, a:oppsA[m.opp], b:[]}).b.push(m), acc), {});
+    const top = []; pr.grid.forEach((row,i)=>row.forEach((x,j)=>top.push({i,j,x}))); top.sort((x,y)=>y.x-x.x);
+    const sd = Math.round(Math.hypot(A.se, B.se) * 250);
+    const res = m => `${m.gf>m.ga?"W":m.gf===m.ga?"D":"L"} ${m.gf}–${m.ga}`;
+    return head + form + `
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;gap:10px;margin-bottom:12px;flex-wrap:wrap"><div>${nTeamLink(a,A.name,"link")}<div style="color:var(--muted);font-size:13px">rating ${A.rating} · SOS ${A.sos??"–"} · ${A.games} games ${relPill(A.reliability)}</div></div><div style="text-align:right">${nTeamLink(b,B.name,"link")}<div style="color:var(--muted);font-size:13px">rating ${B.rating} · SOS ${B.sos??"–"} · ${B.games} games ${relPill(B.reliability)}</div></div></div>
+      <div class="bigprob"><div style="background:var(--win-bg)"><b style="color:var(--win)">${pct(pr.w)}</b><span>A wins</span></div><div style="background:var(--chip)"><b>${pct(pr.d)}</b><span>Draw</span></div><div style="background:var(--loss-bg)"><b style="color:var(--loss)">${pct(pr.l)}</b><span>B wins</span></div></div>
+      <p style="margin:14px 0 0">Expected goals <b>${pr.lh.toFixed(2)}</b> – <b>${pr.la.toFixed(2)}</b>. Most likely: ${top.slice(0,4).map(x=>`${x.i}–${x.j} (${pct(x.x/pr.s)})`).join(", ")}. Rating difference ${signed(A.rating-B.rating)} (uncertainty about ±${sd}).</p>
+      ${Math.min(A.games,B.games) < ix.min_ranked_games ? `<p class="note" style="margin:12px 0 0">At least one team has fewer than ${ix.min_ranked_games} eligible games, so treat this as provisional.</p>` : ""}
+    </div>
+    <div class="grid g2">
+      <div class="card"><h2>Score probabilities</h2><div class="tablewrap"><table class="scoregrid"><thead><tr><th></th>${[0,1,2,3,4,5].map(j=>`<th>${j}</th>`).join("")}</tr></thead><tbody>
+        ${[0,1,2,3,4,5].map(i=>`<tr><th>${i}</th>${[0,1,2,3,4,5].map(j=>{const x=pr.grid[i][j]/pr.s; return `<td style="background:color-mix(in srgb,var(--accent) ${Math.min(70,x*400)}%,transparent)">${x>=0.005?Math.round(x*100):""}</td>`;}).join("")}</tr>`).join("")}
+      </tbody></table></div><p class="note" style="margin:10px 0 0">Rows: A's goals. Columns: B's goals. Values in %.</p></div>
+      <div class="card"><h2>Evidence</h2>
+        <p style="margin:0 0 6px;font-weight:600">Head-to-head</p>${h2h.length?`<ul class="recap" style="margin:0 0 10px;padding-left:18px">${h2h.map(m=>`<li>${fmtDate(m.date)}: A ${res(m)} ${m.sources.map(srcPill).join("")}</li>`).join("")}</ul>`:`<p class="sub" style="margin:0 0 10px">No meetings yet.</p>`}
+        <p style="margin:0 0 6px;font-weight:600">Common opponents (${Object.keys(common).length})</p>${Object.keys(common).length?`<ul class="recap" style="margin:0;padding-left:18px">${Object.entries(common).slice(0,8).map(([id,c])=>`<li>${nTeamLink(id,c.name,"link")}: A ${c.a.map(res).join(", ")} · B ${c.b.map(res).join(", ")}</li>`).join("")}</ul>`:`<p class="sub" style="margin:0">None. They are linked only through longer chains of opponents.</p>`}
+      </div>
+    </div>`;
+  });
+}
+
+async function fillNcslNationalPanel(){
+  const el = $("#natpanel"); if (!el) return;
+  const key = el.dataset.ncsl;
+  try {
+    const ix = await nIndex(); const id = ix.ncsl_map[key];
+    if (!id){ el.innerHTML = `<h2>National performance</h2><p class="sub" style="margin:0">Not available for this team.</p>`; return; }
+    const age = S.teams[key].age; const ad = await nAge(age); const x = ad.teams.find(t=>t.id===id);
+    const p = await nProfile(id).catch(()=>null);
+    const outside = p ? p.matches.filter(m=>m.eligible && m.sources.some(s=>s!=="ncsl")) : [];
+    const tourn = outside.filter(m=>m.type==="tournament"||m.type==="showcase");
+    let body;
+    if (!x) body = `<p class="sub" style="margin:0">No eligible scored games yet, so no national rating. ${["GU9","GU10","GU11"].includes(age)?"NCSL doesn't publish scores at this age.":""}</p>`;
+    else if (!outside.length) body = `<p class="sub" style="margin:0">No results from outside NCSL have been linked to this team yet, so its national picture is the same as its NCSL division: national rating ${x.rating} (± ${Math.round(x.se*250)}), comparable only with teams in its division. Tournament results will connect it to other teams once they're imported.</p>`;
+    else body = `<div class="stats"><div class="stat"><div class="k">National</div><div class="v">${x.national_rank?`#${x.national_rank}`:x.status==="provisional"?"Prov.":"—"}</div><div class="s">${esc(x.status)}</div></div>
+      <div class="stat"><div class="k">State</div><div class="v">${x.state_rank?`#${x.state_rank}`:"—"}</div><div class="s">${esc(x.state||"unknown")}</div></div>
+      <div class="stat"><div class="k">National rating</div><div class="v">${x.rating}</div><div class="s">${relPill(x.reliability)}</div></div>
+      <div class="stat"><div class="k">Outside games</div><div class="v">${outside.length}</div><div class="s">${tourn.length} tournament</div></div></div>`;
+    el.innerHTML = `<h2>National performance</h2>${body}<p style="margin:10px 0 0"><a class="link" href="#/national/team/${id}">National profile →</a> <span style="color:var(--muted);font-size:13px">These results never change the official NCSL standings above.</span></p>`;
+  } catch(e) {
+    el.innerHTML = `<h2>National performance</h2><p class="sub" style="margin:0">National data isn't available right now.</p>`;
+  }
+}
+
+function wireNational(){
+  document.querySelectorAll("th.sortable").forEach(th => th.onclick = () => { location.hash = th.dataset.href; });
+  const nq = $("#nq");
+  if (nq){
+    const h = location.hash.split("?"), p = new URLSearchParams(h[1]||"");
+    nq.onchange = () => { p.set("q", nq.value); p.delete("page"); location.hash = h[0]+"?"+p; };
+    document.querySelectorAll(".filters [data-k]").forEach(el => el.onchange = () => {
+      const k = el.dataset.k; const v = el.type==="checkbox" ? (el.checked?"1":"") : el.value;
+      v ? p.set(k, v) : p.delete(k); p.delete("page"); location.hash = h[0]+"?"+p; });
+  }
+  const f = $("#npf");
+  if (f) f.querySelectorAll("select").forEach(sel => sel.onchange = () => {
+    const p = new URLSearchParams();
+    p.set("age", f.age.value);
+    if (sel.name!=="age"){ p.set("a", f.a.value); p.set("b", f.b.value); }
+    p.set("v", f.v.value);
+    location.hash = "#/national/predict?" + p;
+  });
+}
 
 // ---- router
 function route(){
@@ -525,13 +806,20 @@ function route(){
   else if (r==="predict") html = viewPredict(params);
   else if (r==="changes") html = viewChanges(params);
   else if (r==="about") html = viewAbout();
+  else if (r==="national" && parts[1]==="team") html = viewNationalTeam(parts[2]);
+  else if (r==="national" && parts[1]==="predict") html = viewNationalPredict(params);
+  else if (r==="national" && parts[1]) html = viewNationalAge(parts[1], params);
+  else if (r==="national") html = viewNational();
   else html = notFound();
+  if (r!=="national") ROUTE_TOKEN++;
   $("#app").innerHTML = html;
-  document.querySelectorAll("#nav a").forEach(a=>a.classList.toggle("on", a.dataset.r===(["age","div","team"].includes(r)?"home":r)));
+  const navKey = ["age","div","team"].includes(r) ? "home" : (r==="national" && parts[1]==="predict") ? "predict" : r;
+  document.querySelectorAll("#nav a").forEach(a=>a.classList.toggle("on", a.dataset.r===navKey));
   wireSearch(); wirePredict();
+  if (r==="team") fillNcslNationalPanel();
   const t = S.teams[parts[1]] || null;
-  document.title = (r==="team"&&t ? t.name+" · " : r==="div"&&S.divs[parts[1]] ? S.divs[parts[1]].name+" · " : r==="age"&&parts[1] ? ageLabel(parts[1])+" girls · " : "") + "NCSL Girls Tables";
-  if (!qs || r!=="predict") window.scrollTo(0,0);
+  document.title = (r==="team"&&t ? t.name+" · " : r==="div"&&S.divs[parts[1]] ? S.divs[parts[1]].name+" · " : r==="age"&&parts[1] ? ageLabel(parts[1])+" girls · " : r==="national" ? "National girls · " : "") + "NCSL Girls Tables";
+  if (!qs || (r!=="predict" && r!=="national")) window.scrollTo(0,0);
 }
 window.addEventListener("hashchange", route);
 load().then(()=>{

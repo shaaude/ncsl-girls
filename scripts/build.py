@@ -13,7 +13,7 @@ DATA, SITE = ROOT / "data", ROOT / "site"
 RIDGE = 1.0
 SCORED_MIN_AGE = 12          # NCSL does not publish scores below U12
 DEFAULT_TIER_GAP = 1.14      # log-strength units between adjacent divisions (see README)
-ET = timezone(timedelta(hours=-4))
+from config import EASTERN as ET   # America/New_York, daylight-saving aware
 
 def age_num(age): return int(age[2:])
 
