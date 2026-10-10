@@ -238,6 +238,10 @@ def profile_queue(log, today_utc):
     for k, m in aliases["mappings"].items():
         if k.startswith("ysg:") and m.get("canonical_id") in teams and teams[m["canonical_id"]].get("ncsl_key"):
             add(k[4:], "linked to NCSL team")
+    rl = ROOT / "data" / "record_links.json"
+    if rl.exists():
+        for k in json.loads(rl.read_text())["links"]:
+            add(k[4:], "another record of an NCSL team")
     directory = {}
     for p in sorted((YSG / "directory").glob("*.json")):
         d = json.loads(p.read_text())
@@ -286,11 +290,32 @@ def run_test(perm):
     run_profiles(perm, max_pages=int(perm.get("test_run_max_profile_pages", 30)), test=True)
 
 
-def run_teams(perm, ids):
-    """Approved weekend test: fetch a few named team pages (max 10), same 10 s delay."""
+def record_ids(today_utc=None):
+    """YSG records tied to NCSL teams by data/record_links.json, not fetched in the last 7 days.
+    Ages NCSL publishes scores for (U12 and up) first."""
+    p = ROOT / "data" / "record_links.json"
+    if not p.exists():
+        return []
+    links = json.loads(p.read_text())["links"]
+    teams = json.loads((ROOT / "data" / "team_aliases.json").read_text())["teams"]
+    log = load_log()
+    today_utc = today_utc or now_utc()
+    recent = {tid for tid, ts in log["profiles"].items() if datetime.fromisoformat(ts) > today_utc - timedelta(days=7)}
+    out = []
+    for key, cid in links.items():
+        tid = key[4:]
+        if tid in recent:
+            continue
+        age = teams.get(cid, {}).get("age") or "GU0"
+        out.append((int(age[2:]) < 12, -int(tid), tid))       # newer (tournament) IDs first
+    return [t for _, _, t in sorted(out)]
+
+
+def run_teams(perm, ids, cap=10):
+    """Approved weekend test: fetch named team pages (default max 10), same 10 s delay."""
     if not test_window_active(perm):
         print("the approved test period has ended; nothing fetched"); return
-    ids = [i for i in ids if i.isdigit()][:10]
+    ids = [i for i in ids if i.isdigit()][:cap]
     f = Fetcher(perm, max_pages=len(ids))
     log = load_log()
     directory = {}
@@ -420,7 +445,7 @@ def reparse():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("mode", choices=["directories", "profiles", "reparse", "bootstrap", "test", "teams", "status"])
+    ap.add_argument("mode", choices=["directories", "profiles", "reparse", "bootstrap", "test", "teams", "records", "status"])
     ap.add_argument("--ids", help="with teams: comma-separated YouthSoccerGames team IDs (max 10)")
     ap.add_argument("--states")
     ap.add_argument("--max-pages", type=int)
@@ -438,6 +463,12 @@ def main():
         run_test(perm)
     elif a.mode == "teams":
         run_teams(perm, (a.ids or "").split(","))
+    elif a.mode == "records":
+        # approved weekend test: pages of every NCSL team's other YSG records (tournament entries)
+        cap = int(a.max_pages or perm.get("test_run_max_record_pages", 400))
+        ids = record_ids()
+        print(f"records: {len(ids)} linked records due; fetching up to {cap}")
+        run_teams(perm, ids, cap=cap)
     elif a.mode == "bootstrap":
         # runs on pushes: an approved test while the test period lasts; otherwise first-time
         # VA/MD/DC directories, or re-parse cached pages after a parser fix (no network)

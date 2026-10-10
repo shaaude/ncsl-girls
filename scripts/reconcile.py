@@ -121,6 +121,7 @@ def link_identities(ids, observations):
                     if cid == m.get("canonical_id"):
                         continue              # a team's own games are not evidence about itself
                     if any(mm.get("canonical_id") == cid and mm["status"] == "confirmed" and k.split(":")[0] == key.split(":")[0]
+                           and mm.get("by") != "auto-label"        # a tournament record doesn't block the league one
                            for k, mm in ids.mappings.items() if k != key):
                         continue          # that team already has an ID in this source
                     dates[cid].add(d)

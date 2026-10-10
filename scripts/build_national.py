@@ -5,9 +5,10 @@
 Reads   data/games.json, data/registry.json, data/fetch_report.json (NCSL, authoritative)
         imports/csv/*.csv, imports/ysg/*.html (external results; see imports/README.md)
         data/identity_decisions.json (manual identity decisions, optional)
+        imports/ysg/directory/*.json (club and squad names, to tie a team's separate YSG records)
 Writes  data/team_aliases.json, data/match_observations.jsonl, data/match_index.json,
         data/canonical_matches.jsonl, data/match_corrections.jsonl, data/review_queue.jsonl,
-        data/national_ratings_history.json, site/national/**
+        data/national_ratings_history.json, data/record_links.json, site/national/**
 
 NCSL standings are never touched here: build.py computes them from NCSL results alone.
 All outputs are written to a temporary folder first and swapped in only if the whole build
@@ -28,6 +29,7 @@ from config import (MAIN_NETWORK_MIN_SHARE, MIN_RANKED_GAMES, NATIONAL_CUTOFF, S
                     SUPPORTED_AGES, eastern_today)
 from identities import Identities
 from reconcile import ObservationStore, corrections, link_identities, load_jsonl, reconcile, write_jsonl
+import match_records
 from sources import csv_observations, ncsl_observations, ysg_observations
 import national_model as nm
 import model as ncsl_model
@@ -168,6 +170,11 @@ def main(as_of=None):
     store.upsert(obs_ysg, "ysg")
     all_obs = store.all()
     newly_linked = link_identities(ids, all_obs)
+    # a team's separate YSG tournament/league records: same club, same squad label, same age
+    decisions = json.loads(dec_path.read_text()) if dec_path.exists() else {}
+    rec = match_records.compute({"teams": ids.teams, "mappings": ids.mappings}, decisions)
+    newly_linked += ids.apply_record_links(rec["links"])
+    (DATA / "record_links.json").write_text(json.dumps(rec, indent=1, sort_keys=True))
 
     prev_matches = load_jsonl(DATA / "canonical_matches.jsonl")
     matches, review, stats = reconcile(all_obs, ids)
