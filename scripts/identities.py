@@ -155,25 +155,38 @@ class Identities:
         line up with the canonical team's games (same date, same score, consistent opponent).
         Confirms a unique winner with 2+ matching dates, or 1 date plus a resembling name."""
         m = self.mappings.get(source_key)
-        if not m or m["status"] not in ("pending", "probable") or m.get("by") == "manual":
+        if not m or m.get("by") == "manual":
+            return m
+        relink = m["status"] == "confirmed" and m.get("by") == "auto-new"
+        if m["status"] not in ("pending", "probable") and not relink:
             return m
         scored = sorted(((n, cid) for cid, n in evidence.items() if n > 0), reverse=True)
         if not scored or (len(scored) > 1 and scored[0][0] == scored[1][0]):
             return m
         n, cid = scored[0]
+        if relink and cid == m["canonical_id"]:
+            return m
+        if relink and self.teams.get(cid, {}).get("ncsl_key") is None:
+            return m              # only fold an auto-created squad into an established (NCSL) team
         if n >= 2 or similarity(m.get("name"), self.teams[cid]["name"]) >= 0.35:
+            old = m.get("canonical_id") if relink else None
             m.update(canonical_id=cid, status="confirmed", by="auto-evidence", evidence_dates=n, at=now())
+            if old and not any(mm.get("canonical_id") == old for mm in self.mappings.values()):
+                self.teams.pop(old, None)     # the placeholder squad had no other identities
             t = self.teams[cid]
             for f in ("state", "club"):
                 if m.get(f) and not t.get(f):
                     t[f] = m[f]
         return m
 
-    def finalize_pending(self):
+    def finalize_pending(self, scored_keys=None):
         """After the evidence pass: a pending team that resembles a known team is held for review
-        (probable, not used in training); anything else is a separate squad of its own."""
+        (probable, not used in training); a team seen only in unscored games stays pending (there
+        is nothing to link it by yet); anything else becomes a separate squad of its own."""
         for key, m in self.mappings.items():
             if m["status"] != "pending":
+                continue
+            if scored_keys is not None and key not in scored_keys:
                 continue
             if m.get("candidates"):
                 m.update(status="probable", canonical_id=m["candidates"][0]["canonical_id"], at=now())

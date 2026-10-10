@@ -213,7 +213,7 @@ def main(as_of=None):
         main_share = (nets[0] / len(rated)) if rated else 0
         # A network made only of one league's games is that league's table, not a national
         # comparison. National ranks need the main network to include results from outside NCSL.
-        main_external = any(any(s != "ncsl" for s in m["sources"]) for m in ms
+        main_external = any("ncsl" not in m["sources"] for m in ms
                             if rated.get(m["team_a"], {}).get("network") == 0)
         national_ok = bool(rated) and main_share >= MAIN_NETWORK_MIN_SHARE and main_external
         rows = []
@@ -322,7 +322,8 @@ def main(as_of=None):
     ncsl_cids = {cid for cid, t in teams.items() if t.get("ncsl_key")}
     ncsl_linked = {m["canonical_id"] for k, m in ids.mappings.items()
                    if not k.startswith("ncsl:") and m["status"] == "confirmed" and m["canonical_id"] in ncsl_cids}
-    external_matches = [m for m in matches if any(s != "ncsl" for s in m["sources"])]
+    external_matches = [m for m in matches if "ncsl" not in m["sources"]]          # games NCSL doesn't have
+    external_played = [m for m in external_matches if m.get("eligible")]
     index = {
         "built_at": built, "as_of": as_of.isoformat(), "cutoff": NATIONAL_CUTOFF.isoformat(),
         "cutoff_rule": f"matches dated after {NATIONAL_CUTOFF.isoformat()}",
@@ -345,7 +346,8 @@ def main(as_of=None):
                    "score_conflicts": stats["conflicts"],
                    "unresolved_conflicts": sum(1 for r in review if r["type"] == "score_conflict" and not r["resolved_by_authority"]),
                    "review_queue": len(review), "identities_linked_this_run": newly_linked,
-                   "external_matches": len(external_matches)},
+                   "external_matches": len(external_matches), "external_eligible_matches": len(external_played),
+                   "ncsl_games_confirmed_by_other_sources": sum(1 for m in matches if "ncsl" in m["sources"] and len(m["sources"]) > 1)},
         "exclusions": dict(excluded),
         "import_problems": (prob_csv + prob_ysg)[:200],
         "ages": [{"age": a, **age_out[a]["coverage"], "national_ranking_available": age_out[a]["national_ranking_available"]}
@@ -353,7 +355,7 @@ def main(as_of=None):
         "latest_external": [{"date": m["date"], "a": teams[m["team_a"]]["name"], "b": teams[m["team_b"]]["name"],
                              "score": [m["a_score"], m["b_score"]], "competition": m.get("competition"),
                              "age": m["age_a"], "sources": m["sources"]}
-                            for m in sorted(external_matches, key=lambda m: m["date"], reverse=True)[:12]],
+                            for m in sorted(external_played, key=lambda m: m["date"], reverse=True)[:12]],
         "ncsl_map": {t["ncsl_key"]: cid for cid, t in teams.items() if t.get("ncsl_key")},
         "validation": validation,
         "build_seconds": None,

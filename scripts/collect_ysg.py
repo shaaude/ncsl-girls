@@ -322,7 +322,7 @@ def run_profiles(perm, max_pages=None, force_window=False, test=False):
             continue
         (CACHE / "team").mkdir(parents=True, exist_ok=True)
         (CACHE / "team" / f"{tid}.html").write_text(html)
-        info, games, warn = parse_ysg_team_page(html)
+        info, games, warn = parse_ysg_team_page(html, team_id=tid)
         meta = directory.get(tid, {})
         info["id"] = tid
         info["age"] = info.get("age") or meta.get("age")
@@ -368,7 +368,7 @@ def reparse():
     for p in sorted((CACHE / "team").glob("*.html")):
         tid = p.stem
         html = p.read_text()
-        info, games, warn = parse_ysg_team_page(html)
+        info, games, warn = parse_ysg_team_page(html, team_id=tid)
         meta = directory.get(tid, {})
         info.update(id=tid, age=info.get("age") or meta.get("age"), state=info.get("state") or meta.get("state"),
                     club=meta.get("club"), name=info.get("name") or meta.get("name"))
