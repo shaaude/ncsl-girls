@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-10T16:43:24.160998+00:00",
+ "fetched_at": "2026-10-13T14:26:37.663347+00:00",
  "state": "MD",
  "state_slug": "maryland",
  "teams": [
@@ -12,13 +12,13 @@
   },
   {
    "club": "Bethesda SC",
-   "id": "300448283",
-   "name": "Pre-ECNL"
+   "id": "300483620",
+   "name": "Bethesda ECNL"
   },
   {
    "club": "Bethesda SC",
-   "id": "300483620",
-   "name": "Bethesda ECNL"
+   "id": "300448283",
+   "name": "Pre-ECNL"
   },
   {
    "club": "Alliance Soccer Club",
@@ -56,16 +56,6 @@
    "name": "FCCH Girls - Red"
   },
   {
-   "club": "Churchville Soccer Club",
-   "id": "300448284",
-   "name": "Churchville SC Blue"
-  },
-  {
-   "club": "Alliance Soccer Club",
-   "id": "12038124",
-   "name": "Owls"
-  },
-  {
    "club": "Coppermine Soccer Club",
    "id": "300448336",
    "name": "Inspire"
@@ -77,13 +67,23 @@
   },
   {
    "club": "Alliance Soccer Club",
-   "id": "12038122",
-   "name": "Comets"
+   "id": "12038124",
+   "name": "Owls"
+  },
+  {
+   "club": "Churchville Soccer Club",
+   "id": "300448284",
+   "name": "Churchville SC Blue"
   },
   {
    "club": "SAC/BA",
    "id": "300448316",
    "name": "SAC Girls - Pre-GA"
+  },
+  {
+   "club": "Alliance Soccer Club",
+   "id": "12038122",
+   "name": "Comets"
   },
   {
    "club": "Maryland United Football Club",
@@ -101,24 +101,19 @@
    "name": "Old Line FC Girls Black"
   },
   {
-   "club": "North Carroll Soccer Club",
-   "id": "300448353",
-   "name": "NCSC Hurricanes"
-  },
-  {
-   "club": "Alliance Soccer Club",
-   "id": "300521185",
-   "name": "ASC Panthers"
-  },
-  {
    "club": "Baltimore Union Soccer Club",
    "id": "300448341",
    "name": "Elite"
   },
   {
-   "club": "Pasadena Soccer Club",
-   "id": "300533790",
-   "name": "Pasadena SC Elite Blue"
+   "club": "North Carroll Soccer Club",
+   "id": "300448353",
+   "name": "NCSC Hurricanes"
+  },
+  {
+   "club": "Baltimore Bays Soccer Club",
+   "id": "300448326",
+   "name": "Baltimore Bays Wave"
   },
   {
    "club": "DMV MarksMen Elite",
@@ -126,14 +121,19 @@
    "name": "Lady MarksMen Elite"
   },
   {
+   "club": "Pasadena Soccer Club",
+   "id": "300533790",
+   "name": "Pasadena SC Elite Blue"
+  },
+  {
+   "club": "Alliance Soccer Club",
+   "id": "300521185",
+   "name": "ASC Panthers"
+  },
+  {
    "club": "Potomac Soccer Association",
    "id": "300448354",
    "name": "Inspire"
-  },
-  {
-   "club": "Baltimore Bays Soccer Club",
-   "id": "300448326",
-   "name": "Baltimore Bays Wave"
   },
   {
    "club": "Bayside Football Club",
@@ -146,24 +146,9 @@
    "name": "SEVERNA PARK"
   },
   {
-   "club": "FC Charles 1658",
-   "id": "300448279",
-   "name": "FCCH Girls - Grey"
-  },
-  {
-   "club": "Harford FC United",
-   "id": "300521179",
-   "name": "HFC United Girls Gold"
-  },
-  {
    "club": "Pipeline SC",
    "id": "300448308",
    "name": "Girls North Black"
-  },
-  {
-   "club": "Southeast Soccer Club",
-   "id": "300479585",
-   "name": "Southeast SC Chaos - Girls"
   },
   {
    "club": "St Marys Soccer",
@@ -171,14 +156,14 @@
    "name": "SMS Girls Red"
   },
   {
-   "club": "Hereford Soccer Club",
-   "id": "300448301",
-   "name": "Hereford Girls Maroon"
+   "club": "FC Charles 1658",
+   "id": "300448279",
+   "name": "FCCH Girls - Grey"
   },
   {
-   "club": "Lutherville Timonium Soccer Club",
-   "id": "300448304",
-   "name": "LTSC Girls Premier"
+   "club": "Fallston Soccer",
+   "id": "300521188",
+   "name": "Fallston Orange"
   },
   {
    "club": "SAC/BA",
@@ -186,9 +171,39 @@
    "name": "SAC Girls - Premier Blue"
   },
   {
+   "club": "Hereford Soccer Club",
+   "id": "300448301",
+   "name": "Hereford Girls Maroon"
+  },
+  {
+   "club": "FC Frederick",
+   "id": "300448294",
+   "name": "Black"
+  },
+  {
+   "club": "DC Soccer Club",
+   "id": "300448312",
+   "name": "DCSC Blue"
+  },
+  {
+   "club": "Southeast Soccer Club",
+   "id": "300479585",
+   "name": "Southeast SC Chaos - Girls"
+  },
+  {
+   "club": "DC Way Academy",
+   "id": "300448289",
+   "name": "DCWA - Elite"
+  },
+  {
    "club": "Old Line Football Club",
    "id": "300448288",
    "name": "Old Line FC Girls Red"
+  },
+  {
+   "club": "Chaos Soccer Club of Maryland",
+   "id": "300508902",
+   "name": "Chaos SC G"
   },
   {
    "club": "Calvert Soccer Assn",
@@ -211,9 +226,9 @@
    "name": "SAC Girls - United White"
   },
   {
-   "club": "DC Way Academy",
-   "id": "300448289",
-   "name": "DCWA - Elite"
+   "club": "Harford FC United",
+   "id": "300521179",
+   "name": "HFC United Girls Gold"
   },
   {
    "club": "Northern Elite Soccer Club",
@@ -221,14 +236,34 @@
    "name": "Cheetahs"
   },
   {
-   "club": "Chaos Soccer Club of Maryland",
-   "id": "300508902",
-   "name": "Chaos SC G"
+   "club": "Lutherville Timonium Soccer Club",
+   "id": "300448304",
+   "name": "LTSC Girls Premier"
+  },
+  {
+   "club": "Montgomery Soccer",
+   "id": "300448344",
+   "name": "MSI Girls Gold"
+  },
+  {
+   "club": "Arundel Soccer Association",
+   "id": "300521184",
+   "name": "ASA Juventus Elite Girls"
+  },
+  {
+   "club": "Baltimore Celtic Soccer Club",
+   "id": "300448346",
+   "name": "Pre GA"
+  },
+  {
+   "club": "Cecil Soccer League",
+   "id": "300448300",
+   "name": "Cecil FC Girls"
   },
   {
    "club": "Galaxy FC",
-   "id": "300521186",
-   "name": "Galaxy FC Black"
+   "id": "300448334",
+   "name": "Galaxy FC"
   },
   {
    "club": "Harundale Youth Sports League",
@@ -237,33 +272,13 @@
   },
   {
    "club": "Galaxy FC",
-   "id": "300448334",
-   "name": "Galaxy FC"
+   "id": "300521186",
+   "name": "Galaxy FC Black"
   },
   {
-   "club": "Cecil Soccer League",
-   "id": "300448300",
-   "name": "Cecil FC Girls"
-  },
-  {
-   "club": "Arundel Soccer Association",
-   "id": "300521184",
-   "name": "ASA Juventus Elite Girls"
-  },
-  {
-   "club": "Montgomery Soccer",
-   "id": "300448344",
-   "name": "MSI Girls Gold"
-  },
-  {
-   "club": "Baltimore Celtic Soccer Club",
-   "id": "300448346",
-   "name": "Pre GA"
-  },
-  {
-   "club": "Takoma Park Soccer Club",
-   "id": "12079355",
-   "name": "Takoma ThunderCats"
+   "club": "City Sporting Club",
+   "id": "300448292",
+   "name": "Black"
   },
   {
    "club": "The Player Progression Academy",
@@ -271,9 +286,9 @@
    "name": "PPA EDP Girls"
   },
   {
-   "club": "City Sporting Club",
-   "id": "300448292",
-   "name": "Black"
+   "club": "Takoma Park Soccer Club",
+   "id": "12079355",
+   "name": "Takoma ThunderCats"
   },
   {
    "club": "Grassroots Soccer Academy",
@@ -291,11 +306,6 @@
    "name": "SMS Girls White"
   },
   {
-   "club": "FC Frederick",
-   "id": "300448294",
-   "name": "Black"
-  },
-  {
    "club": "SAC/BA",
    "id": "300448342",
    "name": "SAC Girls - United Blue"
@@ -306,19 +316,14 @@
    "name": "DFC Girls Green"
   },
   {
+   "club": "Juventus Academy DC Metro",
+   "id": "300521187",
+   "name": "Girls Academy I"
+  },
+  {
    "club": "Catonsville Soccer",
    "id": "300448325",
    "name": "Catonsville Cobras Girls Gold"
-  },
-  {
-   "club": "Cockeysville FC",
-   "id": "300533789",
-   "name": "Cockeysville FC Blue Thunder"
-  },
-  {
-   "club": "WSA",
-   "id": "300448269",
-   "name": "Westminster United Fusion Blue"
   },
   {
    "club": "Montgomery Soccer",
@@ -326,14 +331,9 @@
    "name": "MSI Girls Silver"
   },
   {
-   "club": "Panthers FC",
-   "id": "300448303",
-   "name": "Pink Panthers"
-  },
-  {
-   "club": "Juventus Academy DC Metro",
-   "id": "300521187",
-   "name": "Girls Academy I"
+   "club": "WSA",
+   "id": "300448269",
+   "name": "Westminster United Fusion Blue"
   },
   {
    "club": "FC Charles 1658",
@@ -341,9 +341,14 @@
    "name": "FC Charles Girls - Grey"
   },
   {
-   "club": "Freedom Soccer Club",
-   "id": "300474732",
-   "name": "FSC White"
+   "club": "Shore FC",
+   "id": "300448313",
+   "name": "Shore FC Girls Black"
+  },
+  {
+   "club": "Panthers FC",
+   "id": "300448303",
+   "name": "Pink Panthers"
   },
   {
    "club": "Washington Capital United",
@@ -356,29 +361,14 @@
    "name": "Coppermine SC Girls Pre-Academy II"
   },
   {
-   "club": "Bowie Boys and Girls Club",
-   "id": "300448356",
-   "name": "Bowie FC Red"
-  },
-  {
    "club": "Elevate Soccer Academy",
    "id": "300448287",
    "name": "ESA Girls"
   },
   {
-   "club": "City SC Frederick",
-   "id": "300448320",
-   "name": "City SC Frederick Red"
-  },
-  {
-   "club": "Shore FC",
-   "id": "300448313",
-   "name": "Shore FC Girls Black"
-  },
-  {
-   "club": "Alliance Soccer Club",
-   "id": "300448324",
-   "name": "ASC Valkyries"
+   "club": "Bowie Boys and Girls Club",
+   "id": "300448356",
+   "name": "Bowie FC Red"
   },
   {
    "club": "Potomac Soccer Association",
@@ -386,19 +376,24 @@
    "name": "Potomac Premier II"
   },
   {
+   "club": "City SC Frederick",
+   "id": "300448320",
+   "name": "City SC Frederick Red"
+  },
+  {
+   "club": "Alliance Soccer Club",
+   "id": "300448324",
+   "name": "ASC Valkyries"
+  },
+  {
    "club": "Mount Washington Soccer Club, Inc.",
    "id": "300448323",
    "name": "Mount Washington SC Girls Sky"
   },
   {
-   "club": "Coyotes FC",
-   "id": "300481817",
-   "name": "Coyotes Soccer"
-  },
-  {
-   "club": "Grassroots Soccer Academy",
-   "id": "11898455",
-   "name": "Grassroots Girls Academy"
+   "club": "Cockeysville FC",
+   "id": "300533789",
+   "name": "Cockeysville FC Blue Thunder"
   },
   {
    "club": "North Carroll Soccer Club",
@@ -406,14 +401,19 @@
    "name": "NCSC Blaze"
   },
   {
+   "club": "Grassroots Soccer Academy",
+   "id": "11898455",
+   "name": "Grassroots Girls Academy"
+  },
+  {
+   "club": "Coyotes FC",
+   "id": "300481817",
+   "name": "Coyotes Soccer"
+  },
+  {
    "club": "Pasadena Soccer Club",
    "id": "300533794",
    "name": "Pasadena SC Elite White"
-  },
-  {
-   "club": "Churchville Soccer Club",
-   "id": "300521190",
-   "name": "Churchville SC White"
   },
   {
    "club": "Olney Boys and Girls Community Sports Association",
@@ -426,14 +426,19 @@
    "name": "Baltimore Bays Mayhem"
   },
   {
+   "club": "City Sporting Club",
+   "id": "300521182",
+   "name": "City Sporting Club Girls Black"
+  },
+  {
+   "club": "Churchville Soccer Club",
+   "id": "300521190",
+   "name": "Churchville SC White"
+  },
+  {
    "club": "Bethesda Soccer Club",
    "id": "300448311",
    "name": "Roadrunners FC - Bethesda Red"
-  },
-  {
-   "club": "Ellicott City Soccer Club",
-   "id": "300448332",
-   "name": "CiTY Girls Elite"
   },
   {
    "club": "Maryland Rush",
@@ -441,9 +446,9 @@
    "name": "Rush"
   },
   {
-   "club": "Lutherville Timonium Soccer Club",
-   "id": "300448328",
-   "name": "LTSC Girls Select"
+   "club": "Ellicott City Soccer Club",
+   "id": "300448332",
+   "name": "CiTY Girls Elite"
   },
   {
    "club": "SAC/BA",
@@ -451,19 +456,14 @@
    "name": "SAC Girls - United Gold"
   },
   {
-   "club": "City Sporting Club",
-   "id": "300521182",
-   "name": "City Sporting Club Girls Black"
-  },
-  {
    "club": "A3 Soccer",
    "id": "300448290",
    "name": "Ipswich Town"
   },
   {
-   "club": "DC Soccer Club",
-   "id": "300479586",
-   "name": "DCSC Select"
+   "club": "Lutherville Timonium Soccer Club",
+   "id": "300448328",
+   "name": "LTSC Girls Select"
   },
   {
    "club": "Galaxy FC",
@@ -471,14 +471,19 @@
    "name": "Galaxy FC Teal"
   },
   {
-   "club": "Catonsville Soccer",
-   "id": "300448277",
-   "name": "Catonsville Cobras Girls Blue"
+   "club": "DC Soccer Club",
+   "id": "300479586",
+   "name": "DCSC Select"
   },
   {
    "club": "Broadneck Soccer Club",
    "id": "300448352",
    "name": "BSC Lightning"
+  },
+  {
+   "club": "Catonsville Soccer",
+   "id": "300448277",
+   "name": "Catonsville Cobras Girls Blue"
   },
   {
    "club": "AVID Soccer Club",
@@ -499,11 +504,6 @@
    "club": "Aspen Hill Soccer Club",
    "id": "11729989",
    "name": "Aspen Hill SC Girls"
-  },
-  {
-   "club": "Soccer Association of Montgomery",
-   "id": "11808893",
-   "name": "Generations FC Girls"
   },
   {
    "club": "Cockeysville Football Club",
@@ -616,11 +616,6 @@
    "name": "Girls Red"
   },
   {
-   "club": "GVAA Lions Select",
-   "id": "12133371",
-   "name": "GVAA Lions Select"
-  },
-  {
    "club": "Montgomery Soccer",
    "id": "12159521",
    "name": "Les Mousquetaires Girls (Rochambeau French School)"
@@ -676,6 +671,11 @@
    "name": "Inspire"
   },
   {
+   "club": "DC Soccer Club",
+   "id": "14167250",
+   "name": "DCSC Pre-Academy"
+  },
+  {
    "club": "Bethesda Soccer Club",
    "id": "14339100",
    "name": "BETH ECNL II"
@@ -711,24 +711,29 @@
    "name": "FCCH Girls - Grey"
   },
   {
+   "club": "Baltimore Union Soccer Club",
+   "id": "14443200",
+   "name": "Classic"
+  },
+  {
+   "club": "TOCA JUNIORS FC",
+   "id": "15898700",
+   "name": "Toca Juniors FC"
+  },
+  {
+   "club": "Generations F.C.",
+   "id": "15898900",
+   "name": "Generations FC Girls"
+  },
+  {
    "club": "Northern Elite Soccer Club",
    "id": "300448268",
    "name": "Flames"
   },
   {
-   "club": "Harford FC United",
-   "id": "300448271",
-   "name": "HFC United Girls Premier"
-  },
-  {
    "club": "WSA",
    "id": "300448295",
    "name": "Westminster United Fusion White"
-  },
-  {
-   "club": "DC Soccer Club",
-   "id": "300448312",
-   "name": "DCSC Blue"
   },
   {
    "club": "Towson United",
@@ -764,6 +769,11 @@
    "club": "The Player Progression Academy",
    "id": "300471361",
    "name": "PPA Orange Girls"
+  },
+  {
+   "club": "Freedom Soccer Club",
+   "id": "300474732",
+   "name": "FSC White"
   },
   {
    "club": "Maryland Rush",
@@ -824,11 +834,6 @@
    "club": "Hereford Soccer Club",
    "id": "300521183",
    "name": "Hereford Girls Gold"
-  },
-  {
-   "club": "Fallston Soccer",
-   "id": "300521188",
-   "name": "Fallston Orange"
   },
   {
    "club": "Thunder SC of Howard County",

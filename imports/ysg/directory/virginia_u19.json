@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-10T16:42:54.142982+00:00",
+ "fetched_at": "2026-10-13T14:26:08.467069+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
@@ -9,21 +9,6 @@
    "club": "Virginia Development Academy",
    "id": "300528828",
    "name": "VDA ECNL"
-  },
-  {
-   "club": "McLean Youth Soccer",
-   "id": "11706972",
-   "name": "EDP"
-  },
-  {
-   "club": "McLean YS",
-   "id": "300539059",
-   "name": "Aspire"
-  },
-  {
-   "club": "Lee Mount Vernon Soccer Club",
-   "id": "300528819",
-   "name": "LMVSC Girls Red"
   },
   {
    "club": "Steel United Virginia",
@@ -36,24 +21,49 @@
    "name": "Inter Virginia FC Valor VA"
   },
   {
-   "club": "Springfield SYC Soccer",
-   "id": "300539049",
-   "name": "Aspire"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "300338118",
-   "name": "Arlington SA Red/ RL"
-  },
-  {
    "club": "Virginia Atlantic FC",
    "id": "300528811",
    "name": "Girls Academy I"
   },
   {
+   "club": "McLean YS",
+   "id": "300539059",
+   "name": "Aspire"
+  },
+  {
+   "club": "McLean Youth Soccer",
+   "id": "11706972",
+   "name": "EDP"
+  },
+  {
+   "club": "Lee Mount Vernon Soccer Club",
+   "id": "300528819",
+   "name": "LMVSC Girls Red"
+  },
+  {
+   "club": "Burke Athletic Club",
+   "id": "300539052",
+   "name": "Silver Lightning (VA)"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "300539049",
+   "name": "Aspire"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300539055",
+   "name": "RU RED ELITE (VA)"
+  },
+  {
    "club": "Leesburg football club",
    "id": "300338162",
    "name": "LFC Lightning"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "300338118",
+   "name": "Arlington SA Red/ RL"
   },
   {
    "club": "Prince William Soccer Inc",
@@ -81,24 +91,9 @@
    "name": "Tri Cities United - CHSA"
   },
   {
-   "club": "Beach FC",
-   "id": "300528810",
-   "name": "NPL TL Fyre"
-  },
-  {
    "club": "Sterling Soccer Club",
    "id": "300338117",
    "name": "Sterling Academy I"
-  },
-  {
-   "club": "BRYC Elite Academy",
-   "id": "300338095",
-   "name": "BRYC Academy Silver"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300539055",
-   "name": "RU RED ELITE (VA)"
   },
   {
    "club": "Virginia Revolution SC",
@@ -106,19 +101,24 @@
    "name": "Aspire"
   },
   {
-   "club": "VA Rush Soccer Club",
-   "id": "300338120",
-   "name": "VA Rush Blue Angels"
-  },
-  {
    "club": "Vienna Youth Soccer",
    "id": "300465741",
    "name": "VYS Red"
   },
   {
+   "club": "Freedom FC",
+   "id": "300539054",
+   "name": "Freedom FC (VA)"
+  },
+  {
    "club": "Alexandria Soccer Association",
    "id": "300338115",
    "name": "Alex Girls Red"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "300338120",
+   "name": "VA Rush Blue Angels"
   },
   {
    "club": "Alexandria Soccer Association",
@@ -149,11 +149,6 @@
    "club": "Virginia Soccer Association",
    "id": "10379937",
    "name": "Premier Red"
-  },
-  {
-   "club": "Virginia United FC",
-   "id": "11694673",
-   "name": "Virginia United Premier Roanoke"
   },
   {
    "club": "Beach FC",
@@ -201,17 +196,7 @@
    "name": "Beach FC TL Surge PL"
   },
   {
-   "club": "Piedmont Youth Soccer League",
-   "id": "12282236",
-   "name": "PYSL Hurricanes Girls"
-  },
-  {
-   "club": "Salem Sabres Football Club",
-   "id": "12283292",
-   "name": "Sabres Girls"
-  },
-  {
-   "club": "New River United Soccer Association",
+   "club": "New River United",
    "id": "12283294",
    "name": "New River United Girls Elite"
   },
@@ -226,9 +211,14 @@
    "name": "AFC PL VA"
   },
   {
-   "club": "Christiansburg Soccer Club",
+   "club": "Christiansburg SC",
    "id": "12329101",
    "name": "CSC Girls"
+  },
+  {
+   "club": "Smith Mountain Lake SC",
+   "id": "12329102",
+   "name": "SML Jets Franklin Girls"
   },
   {
    "club": "Central Virginia United SC",
@@ -236,7 +226,7 @@
    "name": "Girls Black"
   },
   {
-   "club": "Madison County Travel Soccer",
+   "club": "MC Soccer Club",
    "id": "12334795",
    "name": "MC United"
   },
@@ -276,6 +266,16 @@
    "name": "Suffolk FC Riptides"
   },
   {
+   "club": "Beach FC",
+   "id": "14156750",
+   "name": "Beach FC ECNL RL"
+  },
+  {
+   "club": "Richmond United",
+   "id": "14161200",
+   "name": "Richmond United ECNL RL Red"
+  },
+  {
    "club": "Prince William Courage - Travel",
    "id": "14330600",
    "name": "PW Courage Pride"
@@ -306,6 +306,16 @@
    "name": "SYC Blue"
   },
   {
+   "club": "Stafford Soccer",
+   "id": "14906150",
+   "name": "ECNL RL Blue"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "15203800",
+   "name": "PW Courage Pride"
+  },
+  {
    "club": "Beach FC",
    "id": "15390200",
    "name": "Beach FC Froese Sharks"
@@ -326,6 +336,11 @@
    "name": "Virginia Surge FC"
   },
   {
+   "club": "Bedford SA",
+   "id": "16609100",
+   "name": "Girls VCSL"
+  },
+  {
    "club": "Vienna Youth Soccer",
    "id": "300017470",
    "name": "ECNL RL"
@@ -339,6 +354,11 @@
    "club": "BRYC Elite Academy",
    "id": "300148703",
    "name": "Elite Academy Silver"
+  },
+  {
+   "club": "BRYC Elite Academy",
+   "id": "300338095",
+   "name": "BRYC Academy Silver"
   },
   {
    "club": "Virginia Valor FC",
@@ -389,6 +409,11 @@
    "club": "Arlington Soccer Association",
    "id": "300338172",
    "name": "Arlington SA White"
+  },
+  {
+   "club": "Beach FC",
+   "id": "300528810",
+   "name": "NPL TL Fyre"
   },
   {
    "club": "Blue Ridge United",
@@ -456,19 +481,9 @@
    "name": "GFR Blue"
   },
   {
-   "club": "Burke Athletic Club",
-   "id": "300539052",
-   "name": "Silver Lightning (VA)"
-  },
-  {
    "club": "Richmond United",
    "id": "300539053",
    "name": "Richmond United ECNL RL Blue"
-  },
-  {
-   "club": "Freedom FC",
-   "id": "300539054",
-   "name": "Freedom FC (VA)"
   },
   {
    "club": "Soccer Organization Charlottesville Area",
@@ -539,6 +554,11 @@
    "club": "VA Rush Soccer Club",
    "id": "300557165",
    "name": "Aspire"
+  },
+  {
+   "club": "Virginia United FC",
+   "id": "300557801",
+   "name": "VA United Elite"
   }
  ]
 }
