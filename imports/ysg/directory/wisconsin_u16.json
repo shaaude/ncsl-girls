@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-13T15:55:34.577160+00:00",
+ "fetched_at": "2026-10-20T13:23:17.301408+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
@@ -16,24 +16,9 @@
    "name": "GA"
   },
   {
-   "club": "Bavarian United",
-   "id": "300513344",
-   "name": "BUSC Girls Blue"
-  },
-  {
    "club": "North Shore United",
    "id": "300371878",
    "name": "GA"
-  },
-  {
-   "club": "SC Wave",
-   "id": "300371901",
-   "name": "GA"
-  },
-  {
-   "club": "Lakeshore United FC",
-   "id": "300557456",
-   "name": "LUFC Navy"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -41,8 +26,13 @@
    "name": "FC Wisconsin ECNL"
   },
   {
-   "club": "Elmbrook United",
-   "id": "300371891",
+   "club": "SC Wave",
+   "id": "300371901",
+   "name": "GA"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "300558976",
    "name": "Aspire"
   },
   {
@@ -51,9 +41,19 @@
    "name": "Aspire"
   },
   {
+   "club": "Elmbrook United",
+   "id": "300371891",
+   "name": "Aspire"
+  },
+  {
    "club": "FC Wisconsin",
    "id": "300371935",
    "name": "ECNL"
+  },
+  {
+   "club": "Lakeshore United FC",
+   "id": "300557456",
+   "name": "LUFC Navy"
   },
   {
    "club": "SC Wave",
@@ -61,9 +61,24 @@
    "name": "Aspire"
   },
   {
+   "club": "Bavarian United",
+   "id": "300513344",
+   "name": "BUSC Girls Blue"
+  },
+  {
    "club": "MC United Soccer Club",
    "id": "300371874",
    "name": "Aspire"
+  },
+  {
+   "club": "River Surge FC",
+   "id": "300513346",
+   "name": "River Surge FC Girls Blue WI"
+  },
+  {
+   "club": "SC Wave",
+   "id": "15595450",
+   "name": "GA"
   },
   {
    "club": "Croatian Eagles Soccer Club",
@@ -76,14 +91,14 @@
    "name": "Aspire"
   },
   {
-   "club": "North Shore United",
-   "id": "300371886",
-   "name": "Aspire"
-  },
-  {
    "club": "Milwaukee Kickers Academy",
    "id": "300371884",
    "name": "Milwaukee Kickers DPL"
+  },
+  {
+   "club": "North Shore United",
+   "id": "300371886",
+   "name": "Aspire"
   },
   {
    "club": "RUSH WI Southeast",
@@ -111,29 +126,9 @@
    "name": "Rebels"
   },
   {
-   "club": "Hartford United Soccer Club",
-   "id": "11799043",
-   "name": "HUSC Girls"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club - Mukwonago",
-   "id": "11800976",
-   "name": "MK MU Blue"
-  },
-  {
-   "club": "OSC",
-   "id": "11828861",
-   "name": "Girls Orange"
-  },
-  {
    "club": "Polonia SC",
    "id": "11830979",
    "name": "Polonia Girls Grey Eagles"
-  },
-  {
-   "club": "Elkhorn Soccer Club",
-   "id": "11833788",
-   "name": "- Girls"
   },
   {
    "club": "Madison 56ers",
@@ -211,11 +206,6 @@
    "name": "LKF Character"
   },
   {
-   "club": "Capital east soccer club",
-   "id": "12130523",
-   "name": "Capital east soccer club"
-  },
-  {
    "club": "Waupaca Kickers Soccer Club",
    "id": "12168812",
    "name": "WKSC Ross"
@@ -241,11 +231,6 @@
    "name": "Croatian Eagles"
   },
   {
-   "club": "RUSH Wisconsin",
-   "id": "12261756",
-   "name": "G Rush (WI)"
-  },
-  {
    "club": "Oregon Soccer Club",
    "id": "12261758",
    "name": "Oregon SC Orange (WI)"
@@ -266,19 +251,19 @@
    "name": "Aspire"
   },
   {
-   "club": "Croatian Eagles SC",
-   "id": "12285095",
-   "name": "Aspire"
-  },
-  {
    "club": "PCYS",
    "id": "14081200",
    "name": "PCYS Girls"
   },
   {
-   "club": "SC Wave",
-   "id": "15595450",
-   "name": "GA"
+   "club": "RUSH Wisconsin West",
+   "id": "16036650",
+   "name": "LXU Girls Elite"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "16041150",
+   "name": "EBU Girls Premier"
   },
   {
    "club": "Madison 56ers",
@@ -336,9 +321,9 @@
    "name": "MK MUK Blue"
   },
   {
-   "club": "EBU",
+   "club": "Elmbrook United",
    "id": "300371893",
-   "name": "Girls Premier"
+   "name": "EBU Girls Premier"
   },
   {
    "club": "RUSH Wisconsin Soccer Club",
@@ -351,21 +336,6 @@
    "name": "Croatian Eagles Red-"
   },
   {
-   "club": "Sauk Prairie Strikers",
-   "id": "300371898",
-   "name": "Red"
-  },
-  {
-   "club": "Fond du Lac Soccer Association",
-   "id": "300371899",
-   "name": "Fondy Phoenix Girls"
-  },
-  {
-   "club": "Verona Soccer Club",
-   "id": "300371900",
-   "name": "Verona orange"
-  },
-  {
    "club": "River Surge FC",
    "id": "300371902",
    "name": "BLUE"
@@ -374,11 +344,6 @@
    "club": "RUSH Wisconsin Soccer Club",
    "id": "300371921",
    "name": "Rush WI G - Rush"
-  },
-  {
-   "club": "SPSC",
-   "id": "300371925",
-   "name": "Girls Red"
   },
   {
    "club": "Madison 56ers",
@@ -419,11 +384,6 @@
    "club": "AFC Union",
    "id": "300507368",
    "name": "AFC Union"
-  },
-  {
-   "club": "River Surge FC",
-   "id": "300513346",
-   "name": "River Surge FC Girls Blue WI"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -474,6 +434,11 @@
    "club": "River Surge FC",
    "id": "300555854",
    "name": "River Surge FC Blue"
+  },
+  {
+   "club": "RUSH Wisconsin",
+   "id": "300558977",
+   "name": "G Rush (WI)"
   }
  ]
 }

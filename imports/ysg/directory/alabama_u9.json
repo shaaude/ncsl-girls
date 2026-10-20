@@ -1,10 +1,20 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-10-13T14:29:58.241489+00:00",
+ "fetched_at": "2026-10-20T11:57:46.477989+00:00",
  "state": "AL",
  "state_slug": "alabama",
  "teams": [
+  {
+   "club": "Club Ohio",
+   "id": "300555410",
+   "name": "Club Ohio West Academy I"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "300522818",
+   "name": "Girls South Shore Navy"
+  },
   {
    "club": "Weatherford SC",
    "id": "300522817",
@@ -29,11 +39,6 @@
    "club": "PVSC United (GCYSL)",
    "id": "300536114",
    "name": "Grant"
-  },
-  {
-   "club": "North Alabama Soccer Coalition",
-   "id": "16345850",
-   "name": "Vero FC NASC Dash"
   },
   {
    "club": "North Alabama Soccer Coalition",
@@ -66,19 +71,14 @@
    "name": "Girls Pre-GA"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300522818",
-   "name": "Girls South Shore Navy"
-  },
-  {
    "club": "Our Lady of Good Counsel",
    "id": "300522819",
    "name": "Blue Wave"
   },
   {
-   "club": "Fairhope Soccer Club",
-   "id": "16333000",
-   "name": "Fairhope Academy Girls Blue"
+   "club": "North Alabama Soccer Coalition",
+   "id": "16345850",
+   "name": "Vero FC NASC Dash"
   },
   {
    "club": "PVSC United (GCYSL)",
@@ -109,11 +109,6 @@
    "club": "CC United Soccer Club",
    "id": "300555028",
    "name": "TCSL White"
-  },
-  {
-   "club": "Club Ohio",
-   "id": "300555410",
-   "name": "Club Ohio West Academy I"
   },
   {
    "club": "Club Ohio",
@@ -244,6 +239,11 @@
    "club": "Vestavia Hills Soccer Club",
    "id": "16243500",
    "name": "Vhsc Attack Tiro"
+  },
+  {
+   "club": "Fairhope Soccer Club",
+   "id": "16333000",
+   "name": "Fairhope Academy Girls Blue"
   }
  ]
 }

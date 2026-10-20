@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T14:30:57.630851+00:00",
+ "fetched_at": "2026-10-20T11:58:46.451806+00:00",
  "state": "AL",
  "state_slug": "alabama",
  "teams": [
@@ -9,6 +9,11 @@
    "club": "Hoover Vestavia Soccer",
    "id": "300372208",
    "name": "GA"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "300541712",
+   "name": "ECNL RL"
   },
   {
    "club": "Alabama FC",
@@ -21,19 +26,9 @@
    "name": "Hoover Vestavia SCCL"
   },
   {
-   "club": "Briarwood Soccer Club",
-   "id": "300372184",
-   "name": "Briarwood Girls Gold"
-  },
-  {
    "club": "Alabama FC",
    "id": "300372153",
    "name": "SCCL"
-  },
-  {
-   "club": "Auburn Soccer Club (AL)",
-   "id": "300372156",
-   "name": "Girls"
   },
   {
    "club": "Alabama FC",
@@ -42,18 +37,13 @@
   },
   {
    "club": "Alabama FC",
-   "id": "300530289",
-   "name": "Alabama FC Central Premier"
-  },
-  {
-   "club": "Alabama FC",
    "id": "300488778",
    "name": "Huntsville ECNL RL"
   },
   {
-   "club": "North Alabama SC",
-   "id": "300372169",
-   "name": "NASC Gravity NPL"
+   "club": "Dothan Shockers FC",
+   "id": "300372222",
+   "name": "Dothan Shockers FC"
   },
   {
    "club": "VERO FC",
@@ -61,9 +51,19 @@
    "name": "Athletic SC Alabama Girls Premier"
   },
   {
-   "club": "Revolution Soccer Club",
-   "id": "11923901",
-   "name": "Revolution Navy"
+   "club": "Briarwood Soccer Club",
+   "id": "300372184",
+   "name": "Briarwood Girls Gold"
+  },
+  {
+   "club": "Homewood Soccer Club",
+   "id": "300372182",
+   "name": "Homewood Freedom Girls"
+  },
+  {
+   "club": "North Alabama SC",
+   "id": "300372169",
+   "name": "NASC Gravity NPL"
   },
   {
    "club": "Auburn Soccer Club (AL)",
@@ -76,19 +76,14 @@
    "name": "Union ECNL RL"
   },
   {
-   "club": "Homewood Soccer Club",
-   "id": "300372182",
-   "name": "Homewood Freedom Girls"
+   "club": "Auburn Soccer Club (AL)",
+   "id": "300372156",
+   "name": "Girls"
   },
   {
-   "club": "Alabama FC",
-   "id": "300372147",
-   "name": "Central Select"
-  },
-  {
-   "club": "Dothan Shockers FC",
-   "id": "300372222",
-   "name": "Dothan Shockers FC"
+   "club": "Revolution Soccer Club",
+   "id": "11923901",
+   "name": "Revolution Navy"
   },
   {
    "club": "Chelsea Soccer Association",
@@ -101,19 +96,24 @@
    "name": "Futsal - Girls Team Gancarz"
   },
   {
-   "club": "Haverford SC",
-   "id": "11923249",
-   "name": "Futsal - Girls Team Crespo"
-  },
-  {
    "club": "Vestavia Hills Soccer Club",
    "id": "300372183",
    "name": "Attack Black"
   },
   {
    "club": "Haverford SC",
-   "id": "11923247",
-   "name": "Futsal - Girls Team Burnett"
+   "id": "11923249",
+   "name": "Futsal - Girls Team Crespo"
+  },
+  {
+   "club": "Hoover Soccer Club",
+   "id": "11923879",
+   "name": "Hoover Lady Phantoms Blue"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "300530289",
+   "name": "Alabama FC Central Premier"
   },
   {
    "club": "Concord SA",
@@ -121,9 +121,9 @@
    "name": "Concord Marlins"
   },
   {
-   "club": "Hoover Soccer Club",
-   "id": "11923879",
-   "name": "Hoover Lady Phantoms Blue"
+   "club": "Haverford SC",
+   "id": "11923247",
+   "name": "Futsal - Girls Team Burnett"
   },
   {
    "club": "Haverford SC",
@@ -141,14 +141,14 @@
    "name": "Futsal - Girls Team Corbin"
   },
   {
+   "club": "Alabama FC",
+   "id": "300372147",
+   "name": "Central Select"
+  },
+  {
    "club": "Hoover Soccer Club",
    "id": "300556778",
    "name": "HSC Blue"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "11675908",
-   "name": "Alabaster Premier"
   },
   {
    "club": "Opelika Soccer Asso",
@@ -381,11 +381,6 @@
    "name": "TUSC Girls Navy"
   },
   {
-   "club": "Scarborough SC",
-   "id": "300372179",
-   "name": "Bassett"
-  },
-  {
    "club": "Athletic SC Alabama",
    "id": "300372186",
    "name": "AYSO United Premier"
@@ -424,11 +419,6 @@
    "club": "Alabama FC",
    "id": "300541710",
    "name": "ECNL"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "300541712",
-   "name": "ECNL RL"
   },
   {
    "club": "Gardendale SC (GSC)",

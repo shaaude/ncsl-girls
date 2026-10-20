@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-13T15:37:44.666348+00:00",
+ "fetched_at": "2026-10-20T13:05:26.510263+00:00",
  "state": "PA",
  "state_slug": "pennsylvania",
  "teams": [
@@ -26,19 +26,14 @@
    "name": "Dominion ECNL RL"
   },
   {
-   "club": "Capital Area SC",
-   "id": "300337013",
-   "name": "CASA Elite NL"
-  },
-  {
-   "club": "Beadling Soccer Club",
-   "id": "300337105",
-   "name": "Beadling Girls West"
-  },
-  {
    "club": "Philadelphia Soccer Club",
    "id": "300337011",
    "name": "Philadelphia SC Surf Coppa Express"
+  },
+  {
+   "club": "Capital Area SC",
+   "id": "300337013",
+   "name": "CASA Elite NL"
   },
   {
    "club": "FC DELCO",
@@ -51,19 +46,9 @@
    "name": "MCUSC Adrenaline"
   },
   {
-   "club": "Beadling Soccer Club",
-   "id": "300528628",
-   "name": "Beadling South Girls RL NPL"
-  },
-  {
    "club": "Lionville SC",
    "id": "300337021",
    "name": "Lionville Blue Warriors"
-  },
-  {
-   "club": "Carlisle Area Youth Soccer",
-   "id": "300528613",
-   "name": "Carlisle Cannons"
   },
   {
    "club": "Quakertown Soccer Club",
@@ -71,14 +56,24 @@
    "name": "QSC Blast"
   },
   {
+   "club": "Beadling Soccer Club",
+   "id": "300337105",
+   "name": "Beadling Girls West"
+  },
+  {
+   "club": "Carlisle Area Youth Soccer",
+   "id": "300528613",
+   "name": "Carlisle Cannons"
+  },
+  {
+   "club": "Beadling Soccer Club",
+   "id": "300528628",
+   "name": "Beadling South Girls RL NPL"
+  },
+  {
    "club": "Pittsburgh Independence FC",
    "id": "300473231",
    "name": "Pittsburgh Independence Premier"
-  },
-  {
-   "club": "STN NorthPenn",
-   "id": "300337028",
-   "name": "G08"
   },
   {
    "club": "PA Classics",
@@ -91,9 +86,14 @@
    "name": "Girls Elite"
   },
   {
-   "club": "Western Lehigh United Soccer Club",
-   "id": "300337008",
-   "name": "WLUSC Girls - Crampton"
+   "club": "STN NorthPenn",
+   "id": "300337028",
+   "name": "G08"
+  },
+  {
+   "club": "Northeast Cantolao FC",
+   "id": "300337005",
+   "name": "Northeast Cantolao FC Girls - Flame"
   },
   {
    "club": "Erie FC",
@@ -101,9 +101,9 @@
    "name": "Erie FC Girls"
   },
   {
-   "club": "Northeast Cantolao Football Club",
-   "id": "300337005",
-   "name": "Northeast Cantolao FC Girls - Flame"
+   "club": "Western Lehigh United Soccer Club",
+   "id": "300337008",
+   "name": "WLUSC Girls - Crampton"
   },
   {
    "club": "Allegheny Force Football Club",
@@ -141,24 +141,24 @@
    "name": "Kicks"
   },
   {
+   "club": "Steel City FC",
+   "id": "300472171",
+   "name": "BC United"
+  },
+  {
    "club": "Pittsburgh Football Club",
    "id": "300337103",
    "name": "Pittsburgh Football Club G"
   },
   {
    "club": "Steel City FC",
-   "id": "300472171",
-   "name": "BC United"
+   "id": "300337094",
+   "name": "Steel City FC Classic"
   },
   {
    "club": "AC United",
    "id": "300336969",
    "name": "Chaos"
-  },
-  {
-   "club": "Steel City FC",
-   "id": "300337094",
-   "name": "Steel City FC Classic"
   },
   {
    "club": "Radnor Soccer Club",
@@ -176,34 +176,14 @@
    "name": "SCPASA LADY LIONS"
   },
   {
-   "club": "SJEB FC",
-   "id": "300337019",
-   "name": "GA"
-  },
-  {
    "club": "Coastal Kickers",
    "id": "300487564",
    "name": "Coastal Kickers"
   },
   {
-   "club": "Hunter SC",
-   "id": "300489672",
-   "name": "Elite"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "300528608",
-   "name": "ECNL (G)"
-  },
-  {
-   "club": "Philadelphia Ukrainian Nationals",
-   "id": "300528610",
-   "name": "ECNL-RL"
-  },
-  {
    "club": "FC Europa",
-   "id": "300528612",
-   "name": "FCE Girls ECNL RL"
+   "id": "11823594",
+   "name": "ECNL RL"
   },
   {
    "club": "LVU Rush",
@@ -211,9 +191,29 @@
    "name": "GA"
   },
   {
-   "club": "Pittsburgh Riverhounds",
-   "id": "300528630",
-   "name": "ECNL"
+   "club": "FC Europa",
+   "id": "300528612",
+   "name": "FCE Girls ECNL RL"
+  },
+  {
+   "club": "Philadelphia Ukrainian Nationals",
+   "id": "300528610",
+   "name": "ECNL-RL"
+  },
+  {
+   "club": "FC DELCO",
+   "id": "300528608",
+   "name": "ECNL (G)"
+  },
+  {
+   "club": "Hunter SC",
+   "id": "300489672",
+   "name": "Elite"
+  },
+  {
+   "club": "SJEB FC",
+   "id": "300337019",
+   "name": "GA"
   },
   {
    "club": "Conshy FC",
@@ -224,6 +224,11 @@
    "club": "Octorara Soccer Club",
    "id": "300488019",
    "name": "OSC Hotshots (Buohl) active"
+  },
+  {
+   "club": "Pittsburgh Riverhounds",
+   "id": "300528630",
+   "name": "ECNL"
   },
   {
    "club": "Sea Gals",
@@ -251,6 +256,11 @@
    "name": "FC Energy (PA West)"
   },
   {
+   "club": "FC DELCO",
+   "id": "12198729",
+   "name": "NAL (G) *"
+  },
+  {
    "club": "PA Classics",
    "id": "12198728",
    "name": "PA Classics NAL Reading"
@@ -276,9 +286,9 @@
    "name": "STN NorthPenn"
   },
   {
-   "club": "FC DELCO",
-   "id": "12198729",
-   "name": "NAL (G) *"
+   "club": "PA Classics",
+   "id": "12235502",
+   "name": "GA"
   },
   {
    "club": "Tournament Team",
@@ -336,11 +346,6 @@
    "name": "Fusion"
   },
   {
-   "club": "FC Europa",
-   "id": "11823594",
-   "name": "ECNL RL"
-  },
-  {
    "club": "PA Classics",
    "id": "12332887",
    "name": "Aspire"
@@ -363,11 +368,6 @@
   {
    "club": "Penn Rising XI",
    "id": "12235503",
-   "name": "GA"
-  },
-  {
-   "club": "PA Classics",
-   "id": "12235502",
    "name": "GA"
   }
  ]

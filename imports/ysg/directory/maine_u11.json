@@ -1,24 +1,34 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-13T15:03:22.814326+00:00",
+ "fetched_at": "2026-10-20T12:31:06.479603+00:00",
  "state": "ME",
  "state_slug": "maine",
  "teams": [
+  {
+   "club": "Falmouth Youth Soccer",
+   "id": "300551612",
+   "name": "U11G-Yellow-Furey"
+  },
   {
    "club": "Cumberland Soccer Club",
    "id": "300448020",
    "name": "Girls Hayes"
   },
   {
-   "club": "Brunswick Travel SC",
-   "id": "300483609",
-   "name": "- Rybny"
+   "club": "Scarborough SC",
+   "id": "300551615",
+   "name": "Dumont"
   },
   {
-   "club": "Portland Area Youth Soccer Association",
-   "id": "300551608",
-   "name": "U11G-Blue"
+   "club": "Bangor SC",
+   "id": "300448022",
+   "name": "- Girls"
+  },
+  {
+   "club": "Falmouth Youth Soccer",
+   "id": "300551611",
+   "name": "U11G-Blue-Iskander"
   },
   {
    "club": "Waterville Youth Soccer Association",
@@ -26,14 +36,14 @@
    "name": "Tozier/Grant"
   },
   {
-   "club": "Merrymeeting SC",
-   "id": "300483611",
-   "name": "O'Brien"
+   "club": "Portland Area Youth Soccer Association",
+   "id": "300551608",
+   "name": "U11G-Blue"
   },
   {
-   "club": "Freeport United SC",
-   "id": "300551610",
-   "name": "Girls"
+   "club": "Gorham YSA",
+   "id": "300551620",
+   "name": "Chase"
   },
   {
    "club": "Cape Elizabeth Soccer Club",
@@ -42,8 +52,28 @@
   },
   {
    "club": "NEFC Maine",
+   "id": "300521154",
+   "name": "NEFC Maine Girls Red"
+  },
+  {
+   "club": "Freeport United SC",
+   "id": "300551610",
+   "name": "Girls"
+  },
+  {
+   "club": "Brunswick Travel SC",
+   "id": "300483609",
+   "name": "- Rybny"
+  },
+  {
+   "club": "NEFC Maine",
    "id": "300448023",
    "name": "NEFC Maine Girls Red"
+  },
+  {
+   "club": "Scarborough SC",
+   "id": "300555356",
+   "name": "DiSotto"
   },
   {
    "club": "Maine Lightning Soccer Club",
@@ -51,14 +81,14 @@
    "name": "Maine Lightning Girls Gold"
   },
   {
-   "club": "NEFC Maine",
-   "id": "300521154",
-   "name": "NEFC Maine Girls Red"
-  },
-  {
    "club": "FC America Maine",
    "id": "300481811",
    "name": "Premier Girls"
+  },
+  {
+   "club": "Merrymeeting SC",
+   "id": "300483611",
+   "name": "O'Brien"
   },
   {
    "club": "Seacoast United Maine SC",
@@ -96,6 +126,11 @@
    "name": "Girls"
   },
   {
+   "club": "Yarmouth Colts SC",
+   "id": "300551624",
+   "name": "Grohman"
+  },
+  {
    "club": "Pen Bay SC",
    "id": "300483615",
    "name": "Girls - McWilliams"
@@ -121,29 +156,24 @@
    "name": "Girls-U11-Grey"
   },
   {
-   "club": "Maine Lightning Soccer Club",
-   "id": "300479579",
-   "name": "Girls State Blue"
+   "club": "Patriot Soccer Club",
+   "id": "300551613",
+   "name": "- Saucier"
+  },
+  {
+   "club": "Brewer Soccer Club",
+   "id": "300521155",
+   "name": "-Turmelle"
+  },
+  {
+   "club": "Midcoast FC",
+   "id": "300521156",
+   "name": "- LaRochelle"
   },
   {
    "club": "Sanford Springvale Soccer Association",
    "id": "300521157",
    "name": "Girls Goodwin"
-  },
-  {
-   "club": "Cumberland Soccer Club",
-   "id": "300551616",
-   "name": "Girls Pandolfo"
-  },
-  {
-   "club": "Scarborough SC",
-   "id": "300555356",
-   "name": "DiSotto"
-  },
-  {
-   "club": "Yarmouth Colts SC",
-   "id": "300551624",
-   "name": "Grohman"
   },
   {
    "club": "Yarmouth Colts SC",
@@ -161,11 +191,6 @@
    "name": "Girls Duncklee"
   },
   {
-   "club": "Gorham YSA",
-   "id": "300551620",
-   "name": "Chase"
-  },
-  {
    "club": "Cumberland Soccer Club",
    "id": "300551618",
    "name": "Girls DuBois"
@@ -176,39 +201,14 @@
    "name": "Girls Delahanty"
   },
   {
-   "club": "Brewer Soccer Club",
-   "id": "300521155",
-   "name": "-Turmelle"
-  },
-  {
-   "club": "Scarborough SC",
-   "id": "300551615",
-   "name": "Dumont"
+   "club": "Cumberland Soccer Club",
+   "id": "300551616",
+   "name": "Girls Pandolfo"
   },
   {
    "club": "Portland Area Youth Soccer Association",
    "id": "300551614",
    "name": "Girls Truman"
-  },
-  {
-   "club": "Patriot Soccer Club",
-   "id": "300551613",
-   "name": "- Saucier"
-  },
-  {
-   "club": "Falmouth Youth Soccer",
-   "id": "300551612",
-   "name": "U11G-Yellow-Furey"
-  },
-  {
-   "club": "Falmouth Youth Soccer",
-   "id": "300551611",
-   "name": "U11G-Blue-Iskander"
-  },
-  {
-   "club": "Midcoast FC",
-   "id": "300521156",
-   "name": "- LaRochelle"
   },
   {
    "club": "York Soccer Club",
@@ -271,29 +271,24 @@
    "name": "GIRLS"
   },
   {
-   "club": "Westbrook Soccer Club",
-   "id": "300448050",
-   "name": "Girls - Reed"
-  },
-  {
-   "club": "Falmouth Youth Soccer",
-   "id": "300448044",
-   "name": "U10G-Yellow-Furey"
-  },
-  {
    "club": "Windham YSA",
    "id": "300448054",
    "name": "Girls - Hamilton"
   },
   {
+   "club": "Westbrook Soccer Club",
+   "id": "300448050",
+   "name": "Girls - Reed"
+  },
+  {
+   "club": "Maine Lightning Soccer Club",
+   "id": "300479579",
+   "name": "Girls State Blue"
+  },
+  {
    "club": "South Portland Strikers",
    "id": "300448033",
    "name": "Girls Rizzuto"
-  },
-  {
-   "club": "Bangor SC",
-   "id": "300448022",
-   "name": "- Girls"
   },
   {
    "club": "Coldbrook Travel Soccer Club",

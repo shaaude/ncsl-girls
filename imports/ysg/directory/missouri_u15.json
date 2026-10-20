@@ -1,18 +1,18 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T15:13:13.641801+00:00",
+ "fetched_at": "2026-10-20T12:40:56.484656+00:00",
  "state": "MO",
  "state_slug": "missouri",
  "teams": [
   {
-   "club": "Midwest United",
-   "id": "11687710",
+   "club": "St. Louis Development Academy",
+   "id": "12238584",
    "name": "GA"
   },
   {
-   "club": "St. Louis Development Academy",
-   "id": "12238584",
+   "club": "Midwest United",
+   "id": "11687710",
    "name": "GA"
   },
   {
@@ -21,9 +21,19 @@
    "name": "Navy ECNL"
   },
   {
+   "club": "Union KC Soccer Club",
+   "id": "12238588",
+   "name": "GA"
+  },
+  {
    "club": "Missouri Rush",
    "id": "300380595",
    "name": "ECNL"
+  },
+  {
+   "club": "St. Louis Development Academy",
+   "id": "300380501",
+   "name": "GA"
   },
   {
    "club": "St. Louis Scott Gallagher SC",
@@ -41,16 +51,6 @@
    "name": "GA Gold"
   },
   {
-   "club": "St. Louis Development Academy",
-   "id": "300380501",
-   "name": "GA"
-  },
-  {
-   "club": "CarShield FC",
-   "id": "300380464",
-   "name": "CarShield Surf Girls (MO)"
-  },
-  {
    "club": "St. Louis Scott Gallagher SC",
    "id": "300380517",
    "name": "Illinois ECNL RL"
@@ -61,14 +61,19 @@
    "name": "Aspire"
   },
   {
-   "club": "Union KC Soccer Club",
-   "id": "300380493",
-   "name": "Union KC DPL"
-  },
-  {
    "club": "St. Louis Scott Gallagher SC",
    "id": "300380499",
    "name": "IL ECNL RL"
+  },
+  {
+   "club": "CarShield FC",
+   "id": "300380464",
+   "name": "CarShield Surf Girls (MO)"
+  },
+  {
+   "club": "Union KC Soccer Club",
+   "id": "300380493",
+   "name": "Union KC DPL"
   },
   {
    "club": "JB Marine Soccer Club",
@@ -81,21 +86,6 @@
    "name": "GA White"
   },
   {
-   "club": "JB Marine Soccer Club",
-   "id": "300477410",
-   "name": "JB Marine DPL"
-  },
-  {
-   "club": "Sporting City",
-   "id": "300380458",
-   "name": "GA"
-  },
-  {
-   "club": "AFA Fillies",
-   "id": "300380579",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Unified FC",
    "id": "300380652",
    "name": "Unified FC Academy Pumas"
@@ -106,19 +96,24 @@
    "name": "MO ECNL RL"
   },
   {
-   "club": "Kolping Kicks Soccer Club",
-   "id": "300380581",
-   "name": "Kolping SC Basler"
+   "club": "JB Marine Soccer Club",
+   "id": "300477410",
+   "name": "JB Marine DPL"
   },
   {
-   "club": "Missouri Rush",
-   "id": "300513741",
-   "name": "MRSC Premier White (MO)"
-  },
-  {
-   "club": "Sporting Springfield",
-   "id": "300542214",
+   "club": "AFA Fillies",
+   "id": "300380579",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Sporting City",
+   "id": "300380458",
+   "name": "GA"
+  },
+  {
+   "club": "United Capital City Athletic",
+   "id": "300558542",
+   "name": "UCCA Academy"
   },
   {
    "club": "AFA Fillies",
@@ -131,19 +126,9 @@
    "name": "SLSG MO G Elite Navy"
   },
   {
-   "club": "Sporting Columbia SC",
-   "id": "300513742",
-   "name": "Sporting Columbia Navy (MO)"
-  },
-  {
-   "club": "Unified FC",
-   "id": "300380651",
-   "name": "Unified FC Premier - Katz"
-  },
-  {
-   "club": "St. Louis Scott Gallagher SC",
-   "id": "300513740",
-   "name": "SLSG MO G Elite Green"
+   "club": "Missouri Rush",
+   "id": "300513741",
+   "name": "MRSC Premier White (MO)"
   },
   {
    "club": "Missouri Rush",
@@ -151,19 +136,39 @@
    "name": "ECNL RL"
   },
   {
+   "club": "Sporting Columbia SC",
+   "id": "300513742",
+   "name": "Sporting Columbia Navy (MO)"
+  },
+  {
    "club": "Lou Fusz Athletic",
    "id": "300380434",
    "name": "Aspire"
   },
   {
+   "club": "Kolping Kicks Soccer Club",
+   "id": "300380581",
+   "name": "Kolping SC Basler"
+  },
+  {
+   "club": "Unified FC",
+   "id": "300380651",
+   "name": "Unified FC Premier - Katz"
+  },
+  {
    "club": "Sporting Springfield",
-   "id": "300380583",
+   "id": "300542214",
    "name": "ECNL RL"
   },
   {
-   "club": "Blue Springs Soccer Academy",
-   "id": "300380668",
-   "name": "BSSA SOUL"
+   "club": "REAL WC St Louis Soccer Club",
+   "id": "300380437",
+   "name": "REAL WC St. Louis (MO)"
+  },
+  {
+   "club": "Sporting Springfield",
+   "id": "300380583",
+   "name": "ECNL RL"
   },
   {
    "club": "Northland KC Surf",
@@ -176,24 +181,9 @@
    "name": "Aspire"
   },
   {
-   "club": "REAL WC St Louis Soccer Club",
-   "id": "300380437",
-   "name": "REAL WC St. Louis (MO)"
-  },
-  {
-   "club": "Steamers Crew Soccer Club",
-   "id": "300464651",
-   "name": "Steamer's Crew Blue"
-  },
-  {
-   "club": "KC Blaze Soccer Club",
-   "id": "300380643",
-   "name": "KC Blaze Eclipse"
-  },
-  {
-   "club": "Union KC",
-   "id": "300380609",
-   "name": "Union KC Aspire"
+   "club": "MYSA Independent Teams",
+   "id": "300477010",
+   "name": "MSSL Elite"
   },
   {
    "club": "Kirkwood United Soccer Club",
@@ -201,14 +191,24 @@
    "name": "Kirkwood United SC Black"
   },
   {
+   "club": "St. Louis Scott Gallagher SC",
+   "id": "300513740",
+   "name": "SLSG MO G Elite Green"
+  },
+  {
+   "club": "REAL WC St Louis Soccer Club",
+   "id": "300537592",
+   "name": "REAL WC St. Louis"
+  },
+  {
    "club": "Kansas City Scott Gallagher",
    "id": "300492505",
    "name": "KCSG ELITE MO"
   },
   {
-   "club": "Sporting Columbia SC",
-   "id": "300380673",
-   "name": "Sporting Columbia Navy"
+   "club": "KC Blaze Soccer Club",
+   "id": "300380643",
+   "name": "KC Blaze Eclipse"
   },
   {
    "club": "MYSA Independent Teams",
@@ -216,19 +216,19 @@
    "name": "Thundercats"
   },
   {
+   "club": "Sporting Columbia SC",
+   "id": "300380673",
+   "name": "Sporting Columbia Navy"
+  },
+  {
+   "club": "Steamers Crew Soccer Club",
+   "id": "300464651",
+   "name": "Steamer's Crew Blue"
+  },
+  {
    "club": "CarShield FC",
    "id": "300380618",
    "name": "CarShield FC Wave"
-  },
-  {
-   "club": "MYSA Independent Teams",
-   "id": "300477010",
-   "name": "MSSL Elite"
-  },
-  {
-   "club": "Missouri Rush",
-   "id": "300380453",
-   "name": "MRSC Premier Blue (MO)"
   },
   {
    "club": "AFA Fillies",
@@ -241,24 +241,14 @@
    "name": "Southwest MO Rush ECNL RL"
   },
   {
-   "club": "Missouri Rush Soccer Club",
-   "id": "300380455",
-   "name": "Mo Rush NPL White"
-  },
-  {
    "club": "Washington Soccer Academy",
    "id": "300105261",
    "name": "Washington Soccer Academy"
   },
   {
-   "club": "United STL Academy",
-   "id": "300380475",
-   "name": "Union STL Select (MO)"
-  },
-  {
-   "club": "St. Louis Scott Gallagher SC",
-   "id": "300380510",
-   "name": "SLSG Barcelona"
+   "club": "Missouri Rush",
+   "id": "300380453",
+   "name": "MRSC Premier Blue (MO)"
   },
   {
    "club": "AFA Fillies",
@@ -266,9 +256,14 @@
    "name": "SECRET OATH - Trapped"
   },
   {
-   "club": "Saint Louis Fire FC",
-   "id": "300380457",
-   "name": "Saint Louis Fire FC"
+   "club": "Missouri Rush Soccer Club",
+   "id": "300380455",
+   "name": "Mo Rush NPL White"
+  },
+  {
+   "club": "United STL Academy",
+   "id": "300380475",
+   "name": "Union STL Select (MO)"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -276,14 +271,19 @@
    "name": "Blue Star Liga (MO)"
   },
   {
-   "club": "Southwest MO Rush NPL",
-   "id": "300380474",
-   "name": "Southwest MO Rush NPL (USYS)"
+   "club": "Unified FC",
+   "id": "300509282",
+   "name": "Unified FC Academy"
   },
   {
-   "club": "Missouri Rush Soccer Club",
-   "id": "300380592",
-   "name": "MO Rush Azul"
+   "club": "St. Louis Scott Gallagher SC",
+   "id": "300380510",
+   "name": "SLSG Barcelona"
+  },
+  {
+   "club": "Saint Louis Fire FC",
+   "id": "300380457",
+   "name": "Saint Louis Fire FC"
   },
   {
    "club": "Union KC Soccer Club",
@@ -291,19 +291,34 @@
    "name": "Union KC Elite (MO)"
   },
   {
+   "club": "Southwest MO Rush NPL",
+   "id": "300380474",
+   "name": "Southwest MO Rush NPL (USYS)"
+  },
+  {
+   "club": "REAL WC St Louis Soccer Club",
+   "id": "300380487",
+   "name": "REAL WC St. Louis Girls-N-Blue"
+  },
+  {
+   "club": "Missouri Rush Soccer Club",
+   "id": "300380592",
+   "name": "MO Rush Azul"
+  },
+  {
    "club": "St. Louis Development Academy",
    "id": "300380489",
    "name": "STLDA Elite"
   },
   {
-   "club": "United Capital City Athletic",
-   "id": "300380655",
-   "name": "UCCA"
-  },
-  {
    "club": "united springfield academy",
    "id": "300380555",
    "name": "USA girls"
+  },
+  {
+   "club": "United Capital City Athletic",
+   "id": "300380655",
+   "name": "UCCA"
   },
   {
    "club": "St. Louis Stars SC",
@@ -314,16 +329,6 @@
    "club": "River City FC",
    "id": "300380476",
    "name": "Academy"
-  },
-  {
-   "club": "REAL WC St Louis Soccer Club",
-   "id": "300380487",
-   "name": "REAL WC St. Louis Girls-N-Blue"
-  },
-  {
-   "club": "Ajax Soccer Club Saint Louis",
-   "id": "300380443",
-   "name": "Ajax St. Louis Galaxy"
   },
   {
    "club": "United Capital City Athletic",
@@ -339,6 +344,11 @@
    "club": "St Louis Youth Soccer Association",
    "id": "300380433",
    "name": "FCGSC Scorpions"
+  },
+  {
+   "club": "Ajax Soccer Club Saint Louis",
+   "id": "300380443",
+   "name": "Ajax St. Louis Galaxy"
   },
   {
    "club": "St. Louis Development Academy",
@@ -361,34 +371,14 @@
    "name": "LFA Red Star Tango"
   },
   {
-   "club": "Sporting City",
-   "id": "300380638",
-   "name": "Sporting City Indigo - East"
-  },
-  {
-   "club": "Steamers Crew Soccer Club",
-   "id": "300380439",
-   "name": "Steamer's Crew White"
-  },
-  {
-   "club": "JB Marine Soccer Club",
-   "id": "300380468",
-   "name": "JB Marine Green"
-  },
-  {
    "club": "Lou Fusz Athletic",
    "id": "300380649",
    "name": "LFA Red Star Samba"
   },
   {
-   "club": "Monarchy FC",
-   "id": "300380477",
-   "name": "MONARCHY FC"
-  },
-  {
-   "club": "St. Louis Scott Gallagher SC",
-   "id": "300380500",
-   "name": "SLSG IL G Courage"
+   "club": "JB Marine Soccer Club",
+   "id": "300380468",
+   "name": "JB Marine Green"
   },
   {
    "club": "CarShield FC",
@@ -401,19 +391,29 @@
    "name": "ICFC Cottleville Blue"
   },
   {
+   "club": "Monarchy FC",
+   "id": "300380477",
+   "name": "MONARCHY FC"
+  },
+  {
+   "club": "Sporting City",
+   "id": "300380638",
+   "name": "Sporting City Indigo - East"
+  },
+  {
    "club": "Hawks FC",
    "id": "300380478",
    "name": "Hawks FC Netherlands"
   },
   {
-   "club": "JB Marine Soccer Club",
-   "id": "300380490",
-   "name": "NPL"
+   "club": "St. Louis Scott Gallagher SC",
+   "id": "300380500",
+   "name": "SLSG IL G Courage"
   },
   {
-   "club": "CarShield FC",
-   "id": "300551465",
-   "name": "CarShield FC Navy"
+   "club": "Steamers Crew Soccer Club",
+   "id": "300380439",
+   "name": "Steamer's Crew White"
   },
   {
    "club": "St Louis Legends SC",
@@ -421,14 +421,19 @@
    "name": "St. Louis Legends Pre-Academy"
   },
   {
-   "club": "Lighthouse Christian Chargers",
-   "id": "12005414",
-   "name": "LC Select"
+   "club": "CarShield FC",
+   "id": "300551465",
+   "name": "CarShield FC Navy"
   },
   {
    "club": "MYSA Independent Teams",
    "id": "12005420",
    "name": "Bolivar Fury"
+  },
+  {
+   "club": "Lighthouse Christian Chargers",
+   "id": "12005414",
+   "name": "LC Select"
   },
   {
    "club": "Rolla Knights Soccer Club",
@@ -591,24 +596,9 @@
    "name": "Indigo"
   },
   {
-   "club": "Union KC Soccer Club",
-   "id": "12238588",
-   "name": "GA"
-  },
-  {
-   "club": "United Capital City Athletic",
-   "id": "12238808",
-   "name": "UCCA Academy"
-  },
-  {
    "club": "Missouri Rush",
    "id": "12253574",
    "name": "MRSC France"
-  },
-  {
-   "club": "SEMO Elite FC",
-   "id": "12253581",
-   "name": "Academy Black"
   },
   {
    "club": "Lady Knights",
@@ -616,19 +606,9 @@
    "name": "Lady Knights"
   },
   {
-   "club": "St. Louis Development Academy",
-   "id": "12291841",
-   "name": "Aspire"
-  },
-  {
    "club": "Union KC Soccer Club",
    "id": "12291842",
    "name": "Aspire Navy"
-  },
-  {
-   "club": "Southwest MO Rush",
-   "id": "12291844",
-   "name": "Aspire"
   },
   {
    "club": "Union KC Soccer Club",
@@ -651,9 +631,19 @@
    "name": "Columbia Rush Blue"
   },
   {
+   "club": "Carshield Academy",
+   "id": "16861650",
+   "name": "Carshield Academy"
+  },
+  {
    "club": "Missouri Rush Soccer Club",
    "id": "300380479",
    "name": "Mo Rush ECNL-RL"
+  },
+  {
+   "club": "JB Marine Soccer Club",
+   "id": "300380490",
+   "name": "NPL"
   },
   {
    "club": "St. Louis Scott Gallagher SC",
@@ -706,6 +696,11 @@
    "name": "Union KC NPL"
   },
   {
+   "club": "Union KC",
+   "id": "300380609",
+   "name": "Union KC Aspire"
+  },
+  {
    "club": "Virtus Futbol Club",
    "id": "300380619",
    "name": "Virtus FC Girls"
@@ -719,6 +714,11 @@
    "club": "independent",
    "id": "300380653",
    "name": "MSSL Elite"
+  },
+  {
+   "club": "Blue Springs Soccer Academy",
+   "id": "300380668",
+   "name": "BSSA SOUL"
   },
   {
    "club": "Unified FC",
@@ -736,11 +736,6 @@
    "name": "Hot Shots"
   },
   {
-   "club": "Unified FC",
-   "id": "300509282",
-   "name": "Unified FC Academy"
-  },
-  {
    "club": "JB Marine Soccer Club",
    "id": "300513743",
    "name": "JB Marine Green"
@@ -754,11 +749,6 @@
    "club": "Columbia Rush Soccer Club",
    "id": "300530616",
    "name": "Columbia Rush White"
-  },
-  {
-   "club": "REAL WC St Louis Soccer Club",
-   "id": "300537592",
-   "name": "REAL WC St. Louis"
   },
   {
    "club": "KC Blaze",
@@ -814,6 +804,26 @@
    "club": "CarShield FC",
    "id": "300556782",
    "name": "CarShield FC Academy"
+  },
+  {
+   "club": "St. Louis Development Academy",
+   "id": "300558543",
+   "name": "Aspire"
+  },
+  {
+   "club": "SEMO Elite FC",
+   "id": "300558544",
+   "name": "Academy Black"
+  },
+  {
+   "club": "TBD",
+   "id": "300558545",
+   "name": "TBD"
+  },
+  {
+   "club": "Southwest MO Rush",
+   "id": "300558996",
+   "name": "Aspire"
   }
  ]
 }

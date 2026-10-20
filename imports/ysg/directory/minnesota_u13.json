@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-10-13T15:09:14.567302+00:00",
+ "fetched_at": "2026-10-20T12:36:56.466394+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
@@ -11,14 +11,19 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "300414511",
-   "name": "ECNL RL"
-  },
-  {
    "club": "St. Croix",
    "id": "300414495",
    "name": "St Croix ECNL RL"
+  },
+  {
+   "club": "Minnesota Thunder Academy",
+   "id": "300414503",
+   "name": "Girls Pre-ECNL"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "300414511",
+   "name": "ECNL RL"
   },
   {
    "club": "Boreal FC",
@@ -29,11 +34,6 @@
    "club": "Maplebrook Soccer Association",
    "id": "300414550",
    "name": "Girls National - Anderson"
-  },
-  {
-   "club": "Minnesota Thunder Academy",
-   "id": "300414503",
-   "name": "Girls Pre-ECNL"
   },
   {
    "club": "Manitou FC",
@@ -56,6 +56,11 @@
    "name": "ECNL RL"
   },
   {
+   "club": "CC United Soccer Club",
+   "id": "300414493",
+   "name": "N1 G2013/14"
+  },
+  {
    "club": "Waconia Soccer Club",
    "id": "11857978",
    "name": "Girls Winter League"
@@ -64,11 +69,6 @@
    "club": "Keliix-Intra Soccer Club",
    "id": "300414562",
    "name": "ECNL RL"
-  },
-  {
-   "club": "CC United Soccer Club",
-   "id": "300414493",
-   "name": "N1 G2013/14"
   },
   {
    "club": "North Surf",
@@ -81,13 +81,13 @@
    "name": "Girls Select"
   },
   {
-   "club": "Tonka United SA",
-   "id": "300414531",
+   "club": "Wave SC",
+   "id": "300414494",
    "name": "ECNL RL"
   },
   {
-   "club": "Wave SC",
-   "id": "300414494",
+   "club": "Tonka United SA",
+   "id": "300414531",
    "name": "ECNL RL"
   },
   {
@@ -96,24 +96,14 @@
    "name": "TCSL Regional"
   },
   {
-   "club": "Edina Soccer Club",
-   "id": "300414553",
+   "club": "Bloomington United",
+   "id": "300556029",
+   "name": "TCSL Regional Royal"
+  },
+  {
+   "club": "North Star FC",
+   "id": "300414475",
    "name": "N1 G2013/14"
-  },
-  {
-   "club": "Prior Lake SC",
-   "id": "300552940",
-   "name": "TCSL Regional Navy"
-  },
-  {
-   "club": "Salvo Soccer Club",
-   "id": "300414470",
-   "name": "Pre GA"
-  },
-  {
-   "club": "Tonka United SA",
-   "id": "300414532",
-   "name": "Girls Academy"
   },
   {
    "club": "Boreal FC",
@@ -121,9 +111,19 @@
    "name": "TCSL Cities Dinsmore"
   },
   {
+   "club": "Tonka United SA",
+   "id": "300414532",
+   "name": "Girls Academy"
+  },
+  {
    "club": "North Surf",
    "id": "300414517",
    "name": "TCSL State Royal"
+  },
+  {
+   "club": "Salvo Soccer Club",
+   "id": "300414470",
+   "name": "Pre GA"
   },
   {
    "club": "Minnesota Thunder Academy",
@@ -131,8 +131,8 @@
    "name": "ECNL RL"
   },
   {
-   "club": "North Star FC",
-   "id": "300414475",
+   "club": "Edina Soccer Club",
+   "id": "300414553",
    "name": "N1 G2013/14"
   },
   {
@@ -146,14 +146,14 @@
    "name": "Girls Heat"
   },
   {
+   "club": "Prior Lake SC",
+   "id": "300552940",
+   "name": "TCSL Regional Navy"
+  },
+  {
    "club": "St. Paul Blackhawks",
    "id": "300414541",
    "name": "TCSL Regional Black"
-  },
-  {
-   "club": "Salvo Soccer Club",
-   "id": "300414571",
-   "name": "Salvo SC East Steel"
   },
   {
    "club": "Fusion Soccer Club",
@@ -161,9 +161,14 @@
    "name": "N1 G2013/14"
   },
   {
-   "club": "Legacy FC",
-   "id": "300414489",
-   "name": "TCSL State Elite"
+   "club": "Salvo Soccer Club",
+   "id": "300414571",
+   "name": "Salvo SC East Steel"
+  },
+  {
+   "club": "EPSC",
+   "id": "300414483",
+   "name": "TCSL Cities Grey"
   },
   {
    "club": "Fusion Soccer Club",
@@ -176,9 +181,9 @@
    "name": "TCSL Cities EDT"
   },
   {
-   "club": "Manitou FC",
-   "id": "300552942",
-   "name": "TCSL State"
+   "club": "Legacy FC",
+   "id": "300414489",
+   "name": "TCSL State Elite"
   },
   {
    "club": "North United SC",
@@ -186,19 +191,34 @@
    "name": "TCSL Cities Gold"
   },
   {
-   "club": "EPSC",
-   "id": "300414483",
-   "name": "TCSL Cities Grey"
-  },
-  {
    "club": "Minneapolis United",
    "id": "300414543",
    "name": "N1 G2013/14"
   },
   {
+   "club": "Lakeville Soccer Club",
+   "id": "300414519",
+   "name": "N1 G2013/14"
+  },
+  {
+   "club": "Manitou FC",
+   "id": "300552942",
+   "name": "TCSL State"
+  },
+  {
    "club": "EPSC",
    "id": "300414482",
    "name": "TCSL Regional Red"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "300414554",
+   "name": "TCSL Regional"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "300414557",
+   "name": "TCSL Cities Navy"
   },
   {
    "club": "Minnesota Rush",
@@ -207,13 +227,8 @@
   },
   {
    "club": "Fusion Soccer Club",
-   "id": "300414557",
-   "name": "TCSL Cities Navy"
-  },
-  {
-   "club": "Cottage Grove United SC",
-   "id": "300414554",
-   "name": "TCSL Regional"
+   "id": "300414530",
+   "name": "Girls Navy"
   },
   {
    "club": "St Croix Soccer Club",
@@ -221,14 +236,9 @@
    "name": "St Croix Academy"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "300414519",
-   "name": "N1 G2013/14"
-  },
-  {
-   "club": "Orono Westonka Soccer Club",
-   "id": "300414546",
-   "name": "TCSL Regional"
+   "club": "Prior Lake SC",
+   "id": "300414504",
+   "name": "TCSL Cities Gold"
   },
   {
    "club": "CC United Soccer Club",
@@ -236,24 +246,14 @@
    "name": "TCSL State"
   },
   {
-   "club": "Fusion Soccer Club",
-   "id": "300414530",
-   "name": "Girls Navy"
-  },
-  {
-   "club": "Edina Soccer Club",
-   "id": "300414496",
-   "name": "TCSL State Black"
+   "club": "Orono Westonka Soccer Club",
+   "id": "300414546",
+   "name": "TCSL Regional"
   },
   {
    "club": "Mahtomedi Soccer Association",
    "id": "300414497",
    "name": "TCSL Cities Zephyrs Navy"
-  },
-  {
-   "club": "Prior Lake SC",
-   "id": "300414504",
-   "name": "TCSL Cities Gold"
   },
   {
    "club": "North Surf",
@@ -264,6 +264,16 @@
    "club": "Maplebrook Soccer Association",
    "id": "300414549",
    "name": "Girls State - Soukup"
+  },
+  {
+   "club": "Minneapolis United",
+   "id": "300414526",
+   "name": "TCSL Cities Samba"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "300414524",
+   "name": "TCSL Cities"
   },
   {
    "club": "Tonka United SA",
@@ -286,24 +296,9 @@
    "name": "Girls Black"
   },
   {
-   "club": "Salvo Soccer Club",
-   "id": "300414572",
-   "name": "South Steel"
-  },
-  {
-   "club": "Minneapolis United",
-   "id": "300414526",
-   "name": "TCSL Cities Samba"
-  },
-  {
-   "club": "Park Valley United FC",
-   "id": "300414524",
-   "name": "TCSL Cities"
-  },
-  {
-   "club": "CC United Soccer Club",
-   "id": "300414547",
-   "name": "Girls Cities"
+   "club": "Lakes United Futbol Club",
+   "id": "300489293",
+   "name": "Girls"
   },
   {
    "club": "Centennial Soccer Club",
@@ -311,19 +306,19 @@
    "name": "Girls Black"
   },
   {
-   "club": "Manitou FC",
-   "id": "300414513",
-   "name": "Girls Orange"
+   "club": "CC United Soccer Club",
+   "id": "300414547",
+   "name": "Girls Cities"
   },
   {
-   "club": "Lakes United Futbol Club",
-   "id": "300489293",
-   "name": "Girls"
+   "club": "Edina Soccer Club",
+   "id": "300414496",
+   "name": "TCSL State Black"
   },
   {
-   "club": "Tonka United SA",
-   "id": "300414529",
-   "name": "Girls Select"
+   "club": "Salvo Soccer Club",
+   "id": "300414572",
+   "name": "South Steel"
   },
   {
    "club": "Minnesota Rush",
@@ -331,29 +326,14 @@
    "name": "Girls EDT"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "300414520",
-   "name": "TCSL State Gold"
-  },
-  {
    "club": "Tonka United SA",
-   "id": "300414468",
+   "id": "300414529",
    "name": "Girls Select"
   },
   {
-   "club": "Shakopee SA",
-   "id": "300414478",
-   "name": "TCSL State"
-  },
-  {
-   "club": "St Croix Soccer Club",
-   "id": "300414481",
-   "name": "Girls Academy Blue"
-  },
-  {
-   "club": "Cottage Grove United SC",
-   "id": "300414556",
-   "name": "TCSL State"
+   "club": "Manitou FC",
+   "id": "300414513",
+   "name": "Girls Orange"
   },
   {
    "club": "Mahtomedi Soccer Association",
@@ -361,19 +341,39 @@
    "name": "TCSL Regional Zephyrs Gold"
   },
   {
-   "club": "Minnesota Thunder Academy",
-   "id": "300414558",
-   "name": "Girls Air"
+   "club": "Tonka United SA",
+   "id": "300414468",
+   "name": "Girls Select"
   },
   {
-   "club": "Fusion Soccer Club",
-   "id": "300414515",
-   "name": "Girls Navy"
+   "club": "Lakeville Soccer Club",
+   "id": "300414520",
+   "name": "TCSL State Gold"
+  },
+  {
+   "club": "St Croix Soccer Club",
+   "id": "300414481",
+   "name": "Girls Academy Blue"
+  },
+  {
+   "club": "Shakopee SA",
+   "id": "300414478",
+   "name": "TCSL State"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "300414556",
+   "name": "TCSL State"
   },
   {
    "club": "Force Soccer Club",
    "id": "300473043",
    "name": "Girls - VanJoske"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "300414515",
+   "name": "Girls Navy"
   },
   {
    "club": "Edina Soccer Club",
@@ -391,6 +391,16 @@
    "name": "Salvo SC South Steel"
   },
   {
+   "club": "Minnesota Thunder Academy",
+   "id": "300414558",
+   "name": "Girls Air"
+  },
+  {
+   "club": "North Suburban SA",
+   "id": "300473041",
+   "name": "Girls Select Blue"
+  },
+  {
    "club": "Minneapolis United",
    "id": "300414567",
    "name": "TCSL State Copa"
@@ -401,19 +411,14 @@
    "name": "Lakers FC - Girls Academy"
   },
   {
-   "club": "North Suburban SA",
-   "id": "300473041",
-   "name": "Girls Select Blue"
+   "club": "Orono Westonka Soccer Club",
+   "id": "300414506",
+   "name": "TCSL Cities"
   },
   {
    "club": "Lakeville Soccer Club",
    "id": "300414522",
    "name": "Girls Gold"
-  },
-  {
-   "club": "Orono Westonka Soccer Club",
-   "id": "300414506",
-   "name": "TCSL Cities"
   },
   {
    "club": "East Ridge Soccer Club",
@@ -426,9 +431,9 @@
    "name": "Select Wohnoutka"
   },
   {
-   "club": "Salvo SC",
-   "id": "300552943",
-   "name": "TCSL Regional Academy"
+   "club": "North United SC",
+   "id": "300473040",
+   "name": "Girls NUSC Silver"
   },
   {
    "club": "CC United Soccer Club",
@@ -436,9 +441,9 @@
    "name": "Girls Cities"
   },
   {
-   "club": "North United SC",
-   "id": "300473040",
-   "name": "Girls NUSC Silver"
+   "club": "Salvo SC",
+   "id": "300552943",
+   "name": "TCSL Regional Academy"
   },
   {
    "club": "Park Valley United FC",
@@ -504,16 +509,6 @@
    "club": "Tonka Fusion Elite",
    "id": "11832999",
    "name": "GA"
-  },
-  {
-   "club": "G Mississippi Valley Storm",
-   "id": "11833900",
-   "name": "- Mississippi Valley Storm"
-  },
-  {
-   "club": "Valkyrie",
-   "id": "11833901",
-   "name": "2014"
   },
   {
    "club": "Keliix-Intra Soccer Club",
@@ -666,11 +661,6 @@
    "name": "N1 G2013/14"
   },
   {
-   "club": "Maplebrook Soccer Association",
-   "id": "12313719",
-   "name": "TCSL Regional"
-  },
-  {
    "club": "North Oaks Soccer Club",
    "id": "14580750",
    "name": "NOSC Blast South Girls Sahara Mo"
@@ -761,9 +751,9 @@
    "name": "MN Thunder Academy ECNL"
   },
   {
-   "club": "Bloomington United",
-   "id": "300556029",
-   "name": "TCSL Regional Royal"
+   "club": "Maplebrook Soccer Association",
+   "id": "300559068",
+   "name": "TCSL Regional"
   }
  ]
 }

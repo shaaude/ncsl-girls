@@ -1,14 +1,24 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-13T15:54:44.885208+00:00",
+ "fetched_at": "2026-10-20T13:22:26.557534+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
   {
+   "club": "Elmbrook United",
+   "id": "300550677",
+   "name": "Inspire"
+  },
+  {
    "club": "AFC Union",
    "id": "300457308",
    "name": "AFC Union G Premier"
+  },
+  {
+   "club": "St. Croix",
+   "id": "300556647",
+   "name": "TCSL State - ECU"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -24,21 +34,6 @@
    "club": "KASL Cheetahs Green",
    "id": "300457305",
    "name": "KASL Cheetahs Green"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club",
-   "id": "11818473",
-   "name": "LX United Girls Maroon"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club",
-   "id": "11818474",
-   "name": "LX United Girls Teal"
-  },
-  {
-   "club": "RUSH Wisconsin West",
-   "id": "11818523",
-   "name": "RWW Blue"
   },
   {
    "club": "Red Star Soccer Club",
@@ -166,11 +161,6 @@
    "name": "McFarland Strikers"
   },
   {
-   "club": "MAS",
-   "id": "12106860",
-   "name": "MAS Girls"
-  },
-  {
    "club": "MHSC",
    "id": "12107950",
    "name": "MHSC Girls Black"
@@ -284,6 +274,11 @@
    "club": "WIUFC",
    "id": "14562550",
    "name": "WIUFC Girls Elite"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "16035550",
+   "name": "LXU Girls Blue"
   },
   {
    "club": "AFC Union",
@@ -446,11 +441,6 @@
    "name": "WIUFC De Pere Girls - Manchester City"
   },
   {
-   "club": "Elmbrook United",
-   "id": "300550677",
-   "name": "Inspire"
-  },
-  {
    "club": "Soccer Club Of Reedsburg",
    "id": "300555230",
    "name": "Reedsburg SC Girls"
@@ -514,11 +504,6 @@
    "club": "Milwaukee Kickers Soccer Association",
    "id": "300556379",
    "name": "MKSC Union Girls Blue"
-  },
-  {
-   "club": "St. Croix",
-   "id": "300556647",
-   "name": "TCSL State - ECU"
   }
  ]
 }

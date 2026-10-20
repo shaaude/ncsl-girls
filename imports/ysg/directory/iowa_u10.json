@@ -1,10 +1,15 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-13T14:55:53.568736+00:00",
+ "fetched_at": "2026-10-20T12:23:36.449890+00:00",
  "state": "IA",
  "state_slug": "iowa",
  "teams": [
+  {
+   "club": "Bettendorf Soccer Association",
+   "id": "300523887",
+   "name": "BSA Girls White"
+  },
   {
    "club": "Quad City Strikers",
    "id": "300474926",
@@ -21,9 +26,9 @@
    "name": "North Scott Soccer Club Girls - Red"
   },
   {
-   "club": "Bettendorf Soccer Association",
-   "id": "300459867",
-   "name": "BSA Girls Blue"
+   "club": "Dubuque Soccer Club",
+   "id": "300547267",
+   "name": "White"
   },
   {
    "club": "Pearl City Soccer Club",
@@ -31,7 +36,27 @@
    "name": "Pearl City"
   },
   {
-   "club": "Rockford Raptors",
+   "club": "FC United",
+   "id": "300484977",
+   "name": "FC United"
+  },
+  {
+   "club": "Bettendorf Soccer Association",
+   "id": "300459867",
+   "name": "BSA Girls Blue"
+  },
+  {
+   "club": "Southeast Soccer Academy",
+   "id": "300459869",
+   "name": "SESA G"
+  },
+  {
+   "club": "DeWitt",
+   "id": "300474927",
+   "name": "Central DeWitt Sabers"
+  },
+  {
+   "club": "Rockford Raptors FC",
    "id": "300547260",
    "name": "Fuerza Raptors"
   },
@@ -41,14 +66,9 @@
    "name": "Iowa Rush Girls Blue"
   },
   {
-   "club": "DeWitt",
-   "id": "300474927",
-   "name": "Central DeWitt Sabers"
-  },
-  {
-   "club": "Quad City Strikers",
-   "id": "300459870",
-   "name": "Ice Ice Strikers"
+   "club": "Apex Soccer Academy",
+   "id": "300473117",
+   "name": "Apex Girls Red"
   },
   {
    "club": "Muscatine Soccer Club",
@@ -56,44 +76,19 @@
    "name": "MSC"
   },
   {
-   "club": "Southeast Soccer Academy",
-   "id": "300459869",
-   "name": "SESA G"
-  },
-  {
-   "club": "FC United",
-   "id": "15873000",
-   "name": "Navy"
-  },
-  {
-   "club": "Apex Soccer Academy",
-   "id": "300473117",
-   "name": "Apex Girls Red"
-  },
-  {
-   "club": "FC United",
-   "id": "15872950",
-   "name": "Red"
-  },
-  {
-   "club": "Iowa Rush Soccer Club",
-   "id": "300477224",
-   "name": "Iowa Rush North Academy Girls"
-  },
-  {
-   "club": "WDMSC",
-   "id": "300478876",
-   "name": "WDMSC Girls Red"
-  },
-  {
-   "club": "Phantom Futbol Club",
-   "id": "300484091",
-   "name": "Phantom Futbol Club"
+   "club": "Lee County Strikers (",
+   "id": "300484090",
+   "name": "Lee County Strikers White"
   },
   {
    "club": "Sporting Iowa",
    "id": "300547265",
    "name": "Sporting Iowa White"
+  },
+  {
+   "club": "Apex Soccer Academy",
+   "id": "300559184",
+   "name": "Apex Rush Girls Academy"
   },
   {
    "club": "Decorah United",
@@ -126,19 +121,14 @@
    "name": "Red"
   },
   {
-   "club": "Dubuque Soccer Club",
-   "id": "300547267",
-   "name": "White"
-  },
-  {
    "club": "Cedar River Soccer Association",
    "id": "300547266",
    "name": "CRSA Girls"
   },
   {
-   "club": "Lee County Strikers (",
-   "id": "300484090",
-   "name": "Lee County Strikers White"
+   "club": "Iowa Rush Soccer Club",
+   "id": "300477224",
+   "name": "Iowa Rush North Academy Girls"
   },
   {
    "club": "JUSC",
@@ -151,11 +141,6 @@
    "name": "White"
   },
   {
-   "club": "Bettendorf Soccer Association",
-   "id": "300523887",
-   "name": "BSA Girls White"
-  },
-  {
    "club": "Quad City Strikers",
    "id": "300491358",
    "name": "QCS Strikers Girls"
@@ -166,9 +151,24 @@
    "name": "North Scott Soccer Club Girls - White"
   },
   {
-   "club": "FC United",
-   "id": "300484977",
-   "name": "FC United"
+   "club": "Phantom Futbol Club",
+   "id": "300484091",
+   "name": "Phantom Futbol Club"
+  },
+  {
+   "club": "WDMSC",
+   "id": "300478876",
+   "name": "WDMSC Girls Red"
+  },
+  {
+   "club": "ADM Soccer Club",
+   "id": "12066159",
+   "name": "ADM Soccer Club"
+  },
+  {
+   "club": "ADM",
+   "id": "12066157",
+   "name": "ADM Soccer Sisters"
   },
   {
    "club": "Dubuque Soccer Club",
@@ -211,19 +211,39 @@
    "name": "DSC"
   },
   {
-   "club": "ADM",
-   "id": "12066157",
-   "name": "ADM Soccer Sisters"
+   "club": "Gilbert Tigers",
+   "id": "12066160",
+   "name": "Gilbert Tigers"
   },
   {
-   "club": "Dubuque Soccer Club",
-   "id": "11798990",
-   "name": "Girls"
+   "club": "JUSC",
+   "id": "14096050",
+   "name": "JUSC Girls Blue"
   },
   {
-   "club": "Apex Soccer Academy",
-   "id": "12100554",
-   "name": "Girls Gray"
+   "club": "FC United",
+   "id": "15873000",
+   "name": "Navy"
+  },
+  {
+   "club": "FC United",
+   "id": "15872950",
+   "name": "Red"
+  },
+  {
+   "club": "Johnston Urbandale SC",
+   "id": "15345750",
+   "name": "JUSC Girls Blue"
+  },
+  {
+   "club": "Johnston Urbandale SC",
+   "id": "15345700",
+   "name": "JUSC Girls Red"
+  },
+  {
+   "club": "FK enVISION",
+   "id": "15339250",
+   "name": "FK enVISION - Girls"
   },
   {
    "club": "Dubuque Soccer Club",
@@ -241,14 +261,14 @@
    "name": "JUSC Girls Red"
   },
   {
-   "club": "JUSC",
-   "id": "14096050",
-   "name": "JUSC Girls Blue"
-  },
-  {
    "club": "FK enVISION",
    "id": "12180883",
    "name": "FK enVISION"
+  },
+  {
+   "club": "Apex Soccer Academy",
+   "id": "12100554",
+   "name": "Girls Gray"
   },
   {
    "club": "Dubuque Soccer Club",
@@ -279,16 +299,6 @@
    "club": "FC United",
    "id": "12068346",
    "name": "FC United Girls"
-  },
-  {
-   "club": "Gilbert Tigers",
-   "id": "12066160",
-   "name": "Gilbert Tigers"
-  },
-  {
-   "club": "ADM Soccer Club",
-   "id": "12066159",
-   "name": "ADM Soccer Club"
   }
  ]
 }

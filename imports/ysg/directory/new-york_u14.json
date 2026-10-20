@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-13T15:25:53.703883+00:00",
+ "fetched_at": "2026-10-20T12:53:36.496883+00:00",
  "state": "NY",
  "state_slug": "new-york",
  "teams": [
@@ -26,14 +26,14 @@
    "name": "ECNL"
   },
   {
-   "club": "Island FC",
-   "id": "300514605",
-   "name": "GA"
-  },
-  {
    "club": "Western New York Flash",
    "id": "300399302",
    "name": "WNY Flash Binghamton ECNL RL"
+  },
+  {
+   "club": "Island FC",
+   "id": "300514605",
+   "name": "GA"
   },
   {
    "club": "RNY FC Youth",
@@ -52,8 +52,8 @@
   },
   {
    "club": "East Coast Surf",
-   "id": "11686205",
-   "name": "NY Surf ECNL RL"
+   "id": "300543113",
+   "name": "East Coast Surf ECNL RL"
   },
   {
    "club": "Alleycats",
@@ -62,22 +62,12 @@
   },
   {
    "club": "East Coast Surf",
-   "id": "300543113",
-   "name": "East Coast Surf ECNL RL"
-  },
-  {
-   "club": "WNY Flash Academy",
-   "id": "300518840",
-   "name": "WNY Flash ECNL"
+   "id": "11686205",
+   "name": "NY Surf ECNL RL"
   },
   {
    "club": "Long Island Slammers",
    "id": "300499969",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Long Island Slammers",
-   "id": "300537680",
    "name": "ECNL RL"
   },
   {
@@ -86,14 +76,19 @@
    "name": "ECNL"
   },
   {
+   "club": "Long Island Slammers",
+   "id": "300537680",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "WNY Flash Academy",
+   "id": "300518840",
+   "name": "WNY Flash ECNL"
+  },
+  {
    "club": "Long Island SC",
    "id": "300398920",
    "name": "GA"
-  },
-  {
-   "club": "FC Somers",
-   "id": "300399023",
-   "name": "Roma"
   },
   {
    "club": "World Class FC",
@@ -101,9 +96,14 @@
    "name": "World Class FC - ECNL RL"
   },
   {
-   "club": "Quickstrike FC",
-   "id": "300399051",
-   "name": "Quickstrike FC ECNL RL"
+   "club": "Manhattan SC",
+   "id": "300543115",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "FC Somers",
+   "id": "300399023",
+   "name": "Roma"
   },
   {
    "club": "SUSA FC",
@@ -114,6 +114,11 @@
    "club": "Western New York Flash",
    "id": "300399281",
    "name": "WNY Flash Rochester ECNL RL"
+  },
+  {
+   "club": "Quickstrike FC",
+   "id": "300399051",
+   "name": "Quickstrike FC ECNL RL"
   },
   {
    "club": "PAC FC",
@@ -131,29 +136,14 @@
    "name": "NYCFC Aspire Blue"
   },
   {
-   "club": "Fox Soccer Academy Premier",
-   "id": "300399018",
-   "name": "FSA Nirvana"
-  },
-  {
-   "club": "Manhattan Soccer Club",
-   "id": "11686209",
-   "name": "Manhattan SC ECNL RL"
+   "club": "Huntington Inter FC",
+   "id": "300398911",
+   "name": "Stars"
   },
   {
    "club": "SUSA FC",
    "id": "300470641",
    "name": "ECNL RL"
-  },
-  {
-   "club": "Western New York Flash",
-   "id": "300485981",
-   "name": "WNY Flash Binghamton ECNL RL"
-  },
-  {
-   "club": "Huntington Inter FC",
-   "id": "300398911",
-   "name": "Stars"
   },
   {
    "club": "DUSC",
@@ -166,34 +156,14 @@
    "name": "EM ECNL-RL"
   },
   {
-   "club": "Clarkstown Soccer Club",
-   "id": "300399131",
-   "name": "Clarkstown SC White (NY)"
+   "club": "Western New York Flash",
+   "id": "300485981",
+   "name": "WNY Flash Binghamton ECNL RL"
   },
   {
-   "club": "FC Dynamo ROC",
-   "id": "300399301",
-   "name": "FC Dynamo ROC"
-  },
-  {
-   "club": "New York SC",
-   "id": "300399038",
-   "name": "Aspire"
-  },
-  {
-   "club": "East Coast Surf",
-   "id": "300398899",
-   "name": "Dix Hills Surf"
-  },
-  {
-   "club": "Syracuse Development Academy",
-   "id": "300399255",
-   "name": "GA"
-  },
-  {
-   "club": "NY Rush",
-   "id": "300399260",
-   "name": "NY Rush DPL"
+   "club": "Manhattan Soccer Club",
+   "id": "11686209",
+   "name": "Manhattan SC ECNL RL"
   },
   {
    "club": "Mahopac Soccer Association",
@@ -201,9 +171,34 @@
    "name": "Tigers"
   },
   {
-   "club": "Atlantic United SB/LGN SC",
-   "id": "300398981",
-   "name": "Aspire"
+   "club": "Fox Soccer Academy Premier",
+   "id": "300399018",
+   "name": "FSA Nirvana"
+  },
+  {
+   "club": "FC Dynamo ROC",
+   "id": "300399301",
+   "name": "FC Dynamo ROC"
+  },
+  {
+   "club": "East Meadow Soccer Club",
+   "id": "300531409",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "East Coast Surf",
+   "id": "300398899",
+   "name": "Dix Hills Surf"
+  },
+  {
+   "club": "Clarkstown Soccer Club",
+   "id": "300399131",
+   "name": "Clarkstown SC White (NY)"
+  },
+  {
+   "club": "Syracuse Development Academy",
+   "id": "300399255",
+   "name": "GA"
   },
   {
    "club": "Commack Soccer",
@@ -211,14 +206,29 @@
    "name": "Commack Stingrays"
   },
   {
-   "club": "Rye",
-   "id": "300399090",
-   "name": "Cougars"
+   "club": "Atlantic United SB/LGN SC",
+   "id": "300398981",
+   "name": "Aspire"
+  },
+  {
+   "club": "New York SC",
+   "id": "300399038",
+   "name": "Aspire"
+  },
+  {
+   "club": "NY Rush",
+   "id": "300399260",
+   "name": "NY Rush DPL"
   },
   {
    "club": "Quickstrike FC",
    "id": "300399053",
    "name": "Quickstrike FC"
+  },
+  {
+   "club": "Rye",
+   "id": "300399090",
+   "name": "Cougars"
   },
   {
    "club": "SUSA FC",
@@ -231,11 +241,6 @@
    "name": "Buffalo Pro Soccer USL Academy"
   },
   {
-   "club": "Western New York Flash",
-   "id": "300476820",
-   "name": "WNY Flash ECNL RL"
-  },
-  {
    "club": "Kosmos FC",
    "id": "300399050",
    "name": "TST Atalanta Blue"
@@ -246,9 +251,9 @@
    "name": "Clarence Inferno Black"
   },
   {
-   "club": "Greenbush Soccer Club",
-   "id": "300531397",
-   "name": "Greenbush SC Girls"
+   "club": "Brooklyn United Academy",
+   "id": "300398991",
+   "name": "BKU NAL"
   },
   {
    "club": "FC Westchester",
@@ -256,14 +261,14 @@
    "name": "NAL"
   },
   {
-   "club": "Coliseum Soccer Club",
-   "id": "300477045",
-   "name": "Shock Gold"
+   "club": "Cedar Stars Academy (Staten Island)",
+   "id": "300398998",
+   "name": "Green"
   },
   {
-   "club": "Rockville Centre Soccer Club",
-   "id": "300398986",
-   "name": "RVC Rampage"
+   "club": "Western New York Flash",
+   "id": "300476820",
+   "name": "WNY Flash ECNL RL"
   },
   {
    "club": "Garden City",
@@ -271,14 +276,14 @@
    "name": "Rockets Girls"
   },
   {
-   "club": "Cedar Stars Academy (Staten Island)",
-   "id": "300398998",
-   "name": "Green"
+   "club": "Coliseum Soccer Club",
+   "id": "300477045",
+   "name": "Shock Gold"
   },
   {
-   "club": "Brooklyn United Academy",
-   "id": "300398991",
-   "name": "BKU NAL"
+   "club": "Greenbush Soccer Club",
+   "id": "300531397",
+   "name": "Greenbush SC Girls"
   },
   {
    "club": "Lakefront Soccer Club",
@@ -286,14 +291,14 @@
    "name": "Lakefront SC"
   },
   {
+   "club": "Rockville Centre Soccer Club",
+   "id": "300398986",
+   "name": "RVC Rampage"
+  },
+  {
    "club": "Sleepy Hollow",
    "id": "300399059",
    "name": "Thunder"
-  },
-  {
-   "club": "LMFC",
-   "id": "300398990",
-   "name": "Premier Girls"
   },
   {
    "club": "Long Island SC",
@@ -311,11 +316,6 @@
    "name": "DPL"
   },
   {
-   "club": "Atletico FC",
-   "id": "300398955",
-   "name": "Atletico FC"
-  },
-  {
    "club": "Carmel United",
    "id": "300399010",
    "name": "Crush"
@@ -324,6 +324,21 @@
    "club": "Force FC",
    "id": "300470642",
    "name": "ECNL RL"
+  },
+  {
+   "club": "LMFC",
+   "id": "300398990",
+   "name": "Premier Girls"
+  },
+  {
+   "club": "Atletico FC",
+   "id": "300398955",
+   "name": "Atletico FC"
+  },
+  {
+   "club": "Northport Cow Harbor United Soccer Club",
+   "id": "300398941",
+   "name": "Gotham"
   },
   {
    "club": "West Islip Soccer Club",
@@ -336,34 +351,9 @@
    "name": "WNY Flash Rochester Premier"
   },
   {
-   "club": "Northport Cow Harbor United Soccer Club",
-   "id": "300398941",
-   "name": "Gotham"
-  },
-  {
-   "club": "East Coast Surf",
-   "id": "300398954",
-   "name": "East Coast Surf Blue"
-  },
-  {
-   "club": "Eastern FC",
-   "id": "300499970",
-   "name": "ECNL RL"
-  },
-  {
    "club": "SUSA FC",
    "id": "300399066",
    "name": "(NYE)"
-  },
-  {
-   "club": "Baymen (LIJSL)",
-   "id": "300465147",
-   "name": "United"
-  },
-  {
-   "club": "RNY FC Youth",
-   "id": "300399298",
-   "name": "RNYFC DPL"
   },
   {
    "club": "Force FC",
@@ -376,33 +366,28 @@
    "name": "Strikers"
   },
   {
-   "club": "South Shore Futbol Club",
-   "id": "300399015",
-   "name": "Storm"
-  },
-  {
-   "club": "Cortlandt SC",
-   "id": "300399043",
-   "name": "United"
-  },
-  {
-   "club": "Buffalo Stallions",
-   "id": "300399290",
-   "name": "Buffalo Stallions Girls"
-  },
-  {
    "club": "East Fishkill Soccer Club",
    "id": "300399069",
    "name": "Cheetahs Girls"
   },
   {
-   "club": "Asphalt Green",
-   "id": "300398973",
-   "name": "Girls NAL"
+   "club": "East Coast Surf",
+   "id": "300398954",
+   "name": "East Coast Surf Blue"
   },
   {
-   "club": "Auburndale SC",
-   "id": "300398953",
+   "club": "RNY FC Youth",
+   "id": "300399298",
+   "name": "RNYFC DPL"
+  },
+  {
+   "club": "Baymen (LIJSL)",
+   "id": "300465147",
+   "name": "United"
+  },
+  {
+   "club": "South Shore Futbol Club",
+   "id": "300399015",
    "name": "Storm"
   },
   {
@@ -411,39 +396,14 @@
    "name": "Blau Weiss Gottschee Girls"
   },
   {
-   "club": "Invictus FC",
-   "id": "300399280",
-   "name": "INVICTUS FC GIRLS"
-  },
-  {
-   "club": "Lancaster-Depew SC",
-   "id": "300399284",
-   "name": "LDSC Thunder"
-  },
-  {
-   "club": "Hauppauge Soccer League",
-   "id": "300398893",
-   "name": "Lightning"
-  },
-  {
-   "club": "Sachem Slammers",
-   "id": "300398909",
-   "name": "Black"
-  },
-  {
-   "club": "JP Soccer",
-   "id": "300398896",
-   "name": "G2012/13"
-  },
-  {
-   "club": "UST FC Academy",
-   "id": "300399087",
-   "name": "UST FC Tigers"
-  },
-  {
    "club": "Eastern FC",
-   "id": "300399028",
-   "name": "Girls"
+   "id": "300499970",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Buffalo Stallions",
+   "id": "300399290",
+   "name": "Buffalo Stallions Girls"
   },
   {
    "club": "Bellport Soccer Club",
@@ -451,14 +411,59 @@
    "name": "Panthers"
   },
   {
-   "club": "World Class FC",
-   "id": "300399094",
-   "name": "World Class FC - - Principalli"
+   "club": "Auburndale SC",
+   "id": "300398953",
+   "name": "Storm"
+  },
+  {
+   "club": "JP Soccer",
+   "id": "300398896",
+   "name": "G2012/13"
+  },
+  {
+   "club": "Lancaster-Depew SC",
+   "id": "300399284",
+   "name": "LDSC Thunder"
+  },
+  {
+   "club": "Asphalt Green",
+   "id": "300398973",
+   "name": "Girls NAL"
+  },
+  {
+   "club": "Sachem Slammers",
+   "id": "300398909",
+   "name": "Black"
+  },
+  {
+   "club": "Invictus FC",
+   "id": "300399280",
+   "name": "INVICTUS FC GIRLS"
+  },
+  {
+   "club": "UST FC Academy",
+   "id": "300399087",
+   "name": "UST FC Tigers"
+  },
+  {
+   "club": "Cortlandt SC",
+   "id": "300399043",
+   "name": "United"
+  },
+  {
+   "club": "Eastern FC",
+   "id": "300399028",
+   "name": "Girls"
+  },
+  {
+   "club": "Hauppauge Soccer League",
+   "id": "300398893",
+   "name": "Lightning"
   },
   {
    "club": "FC Dutchmen",
    "id": "300399032",
-   "name": "FC Dutchmen Surf STORM DPL"
+   "name": "FC Dutchmen Surf DPL"
   },
   {
    "club": "Showtime FC",
@@ -471,24 +476,14 @@
    "name": "IYSA Gold Select"
   },
   {
-   "club": "New Hyde Park Wildcats Soccer Club",
-   "id": "300399016",
-   "name": "Pink Cheetahs"
-  },
-  {
    "club": "Lockport SC",
    "id": "300488843",
    "name": "LSC Lightning Jennings"
   },
   {
-   "club": "Greater Long Beach (LIJSL)",
-   "id": "300399098",
-   "name": "TSUNAMI"
-  },
-  {
-   "club": "Rivertowns United",
-   "id": "300398959",
-   "name": "Raptors"
+   "club": "New Hyde Park Wildcats Soccer Club",
+   "id": "300399016",
+   "name": "Pink Cheetahs"
   },
   {
    "club": "New York Soccer Club",
@@ -496,19 +491,14 @@
    "name": "NYSC"
   },
   {
-   "club": "Armonk SC",
-   "id": "300398963",
-   "name": "Cheetahs"
+   "club": "Rivertowns United",
+   "id": "300398959",
+   "name": "Raptors"
   },
   {
-   "club": "FC Dynamo ROC",
-   "id": "300477858",
-   "name": "FC Dynamo ROC United"
-  },
-  {
-   "club": "Niskayuna Soccer Club",
-   "id": "300481129",
-   "name": "Niskayuna SC Select"
+   "club": "Greater Long Beach (LIJSL)",
+   "id": "300399098",
+   "name": "TSUNAMI"
   },
   {
    "club": "Chappaqua",
@@ -516,9 +506,14 @@
    "name": "Dragons"
   },
   {
-   "club": "Manorville (LIJSL)",
-   "id": "300398915",
-   "name": "Wild"
+   "club": "Niskayuna Soccer Club",
+   "id": "300481129",
+   "name": "Niskayuna SC Select"
+  },
+  {
+   "club": "FC Dynamo ROC",
+   "id": "300477858",
+   "name": "FC Dynamo ROC United"
   },
   {
    "club": "Huntington Inter FC",
@@ -526,9 +521,9 @@
    "name": "PSG Gold"
   },
   {
-   "club": "Success Academy Soccer Program",
-   "id": "300398979",
-   "name": "SA - Blue"
+   "club": "Albertson Soccer Club",
+   "id": "300398894",
+   "name": "White"
   },
   {
    "club": "Manhattan Soccer Club",
@@ -536,14 +531,14 @@
    "name": "Magic"
   },
   {
-   "club": "Atlantic United SB/LGN SC",
-   "id": "300398958",
-   "name": "NAL (Surge)"
+   "club": "Success Academy Soccer Program",
+   "id": "300398979",
+   "name": "SA - Blue"
   },
   {
-   "club": "Western New York Flash",
-   "id": "300399299",
-   "name": "Flash Binghamton Premier"
+   "club": "Armonk SC",
+   "id": "300398963",
+   "name": "Cheetahs"
   },
   {
    "club": "Gold Coast FC",
@@ -551,39 +546,19 @@
    "name": "QPR"
   },
   {
+   "club": "Atlantic United SB/LGN SC",
+   "id": "300398958",
+   "name": "NAL (Surge)"
+  },
+  {
    "club": "Rush-Henrietta Soccer Club",
    "id": "300481135",
    "name": "Robinson"
   },
   {
-   "club": "Floral Park (LIJSL)",
-   "id": "300398974",
-   "name": "Fire"
-  },
-  {
-   "club": "LMFC",
-   "id": "300399021",
-   "name": "Yellow Lions"
-  },
-  {
-   "club": "Albertson Soccer Club",
-   "id": "300398894",
-   "name": "White"
-  },
-  {
-   "club": "East Islip Soccer Club",
-   "id": "300399003",
-   "name": "Blue Thunder"
-  },
-  {
-   "club": "Bellport Soccer Club",
-   "id": "300398984",
-   "name": "Pumas"
-  },
-  {
-   "club": "Bellport",
-   "id": "300514601",
-   "name": "Panthers"
+   "club": "Force FC",
+   "id": "300398924",
+   "name": "Force FC EDP"
   },
   {
    "club": "Shrub Oak",
@@ -596,9 +571,29 @@
    "name": "(NYE)"
   },
   {
-   "club": "Cobras FC",
-   "id": "300399261",
-   "name": "Cobras FC Swanson"
+   "club": "Western New York Flash",
+   "id": "300399299",
+   "name": "Flash Binghamton Premier"
+  },
+  {
+   "club": "LMFC",
+   "id": "300399021",
+   "name": "Yellow Lions"
+  },
+  {
+   "club": "Bellport Soccer Club",
+   "id": "300398984",
+   "name": "Pumas"
+  },
+  {
+   "club": "DUSC",
+   "id": "300398919",
+   "name": "Girls GA II Blue"
+  },
+  {
+   "club": "New Rochelle",
+   "id": "300398912",
+   "name": "New Rochelle Girls"
   },
   {
    "club": "Brooklyn United Academy",
@@ -606,9 +601,79 @@
    "name": "BKU National"
   },
   {
+   "club": "Cobras FC",
+   "id": "300399261",
+   "name": "Cobras FC Swanson"
+  },
+  {
    "club": "Niagara Pioneer SC",
    "id": "300399300",
    "name": "Niagara Pioneer Tornados"
+  },
+  {
+   "club": "Floral Park (LIJSL)",
+   "id": "300398974",
+   "name": "Fire"
+  },
+  {
+   "club": "Manorville (LIJSL)",
+   "id": "300398915",
+   "name": "Wild"
+  },
+  {
+   "club": "Western New York Flash",
+   "id": "300531412",
+   "name": "WNY Flash Premier"
+  },
+  {
+   "club": "Port Washington Soccer Club",
+   "id": "300398918",
+   "name": "Blazes"
+  },
+  {
+   "club": "East Islip Soccer Club",
+   "id": "300399003",
+   "name": "Blue Thunder"
+  },
+  {
+   "club": "Huntington Inter FC",
+   "id": "300399025",
+   "name": "Inter FC"
+  },
+  {
+   "club": "Gotham Girls FC",
+   "id": "300398971",
+   "name": "Royals"
+  },
+  {
+   "club": "AFC Rochester",
+   "id": "300481133",
+   "name": "AFCR Brighton United Gotham"
+  },
+  {
+   "club": "Rush NY Albany",
+   "id": "300531398",
+   "name": "Albany Rush (NY)"
+  },
+  {
+   "club": "Penfield Rangers Soccer Club",
+   "id": "300485315",
+   "name": "Penfield Fusion Girls Red"
+  },
+  {
+   "club": "Greenbush Soccer Club",
+   "id": "300531403",
+   "name": "Greenbush SC Girls"
+  },
+  {
+   "club": "Long Island SC",
+   "id": "300399009",
+   "name": "LISC Girls Premier"
+  },
+  {
+   "club": "Carmel United Soccer Club",
+   "id": "300399014",
+   "name": "Crush pink"
   },
   {
    "club": "Mahopac Soccer Association",
@@ -616,14 +681,9 @@
    "name": "Panthers"
   },
   {
-   "club": "Force FC",
-   "id": "300398924",
-   "name": "Force FC EDP"
-  },
-  {
-   "club": "Port Washington Soccer Club",
-   "id": "300398918",
-   "name": "Blazes"
+   "club": "Long Island SC",
+   "id": "300399017",
+   "name": "Girls Academy East"
   },
   {
    "club": "VOB Soccer Club",
@@ -636,66 +696,6 @@
    "name": "Cyclones Girls"
   },
   {
-   "club": "Rush NY Albany",
-   "id": "300531398",
-   "name": "Albany Rush (NY)"
-  },
-  {
-   "club": "Western New York Flash",
-   "id": "300531412",
-   "name": "WNY Flash Premier"
-  },
-  {
-   "club": "New Rochelle",
-   "id": "300398912",
-   "name": "New Rochelle Girls"
-  },
-  {
-   "club": "Gotham Girls FC",
-   "id": "300398971",
-   "name": "Royals"
-  },
-  {
-   "club": "Greenbush Soccer Club",
-   "id": "300531403",
-   "name": "Greenbush SC Girls"
-  },
-  {
-   "club": "AFC Rochester",
-   "id": "300481133",
-   "name": "AFCR Brighton United Gotham"
-  },
-  {
-   "club": "Islandia SC PAL",
-   "id": "300398982",
-   "name": "Thorns"
-  },
-  {
-   "club": "Penfield Rangers Soccer Club",
-   "id": "300485315",
-   "name": "Penfield Fusion Girls Red"
-  },
-  {
-   "club": "Long Island SC",
-   "id": "300399017",
-   "name": "Girls Academy East"
-  },
-  {
-   "club": "Carmel United Soccer Club",
-   "id": "300399014",
-   "name": "Crush pink"
-  },
-  {
-   "club": "DUSC",
-   "id": "300398919",
-   "name": "Girls GA II Blue"
-  },
-  {
-   "club": "Bedford",
-   "id": "300399073",
-   "name": "Bolts"
-  },
-  {
    "club": "Hellenic Classical Center",
    "id": "300484618",
    "name": "Hellenic Classical Charter Spartans"
@@ -706,19 +706,9 @@
    "name": "Blue Angels"
   },
   {
-   "club": "Long Island SC",
-   "id": "300399009",
-   "name": "LISC Girls Premier"
-  },
-  {
-   "club": "Huntington Inter FC",
-   "id": "300399025",
-   "name": "Inter FC"
-  },
-  {
-   "club": "Eastchester",
-   "id": "300398966",
-   "name": "Lynx"
+   "club": "Bedford",
+   "id": "300399073",
+   "name": "Bolts"
   },
   {
    "club": "Briarcliff",
@@ -726,14 +716,14 @@
    "name": "Bobcats"
   },
   {
-   "club": "Queen City Football Club",
-   "id": "300481131",
-   "name": "Queen City FC Adirondack Girls (Light)"
+   "club": "North East Reds FC - Long Island",
+   "id": "300514602",
+   "name": "DPL (Red)"
   },
   {
-   "club": "Garden City",
-   "id": "300399045",
-   "name": "Glory"
+   "club": "Bellport",
+   "id": "300514601",
+   "name": "Panthers"
   },
   {
    "club": "Cedar Stars Academy (Staten Island)",
@@ -741,69 +731,9 @@
    "name": "White"
   },
   {
-   "club": "Chili Soccer Association",
-   "id": "300531413",
-   "name": "CSA Fusion FC"
-  },
-  {
-   "club": "Syracuse Development Academy",
-   "id": "300399274",
-   "name": "SDA Orange"
-  },
-  {
-   "club": "Merrick/South Merrick PAL Soccer Club",
-   "id": "300466695",
-   "name": "Impact"
-  },
-  {
-   "club": "Empire State Youth Soccer Club",
-   "id": "300481130",
-   "name": "Alleycats UPSL"
-  },
-  {
-   "club": "Sound Beach SC",
-   "id": "300398996",
-   "name": "Arsenal"
-  },
-  {
-   "club": "Quickstrike FC",
-   "id": "300399155",
-   "name": "G13"
-  },
-  {
-   "club": "Island Trees Soccer Club",
-   "id": "300399093",
-   "name": "Island Trees Rebels"
-  },
-  {
-   "club": "Levittown Soccer Club",
-   "id": "300399106",
-   "name": "Elite Girls"
-  },
-  {
-   "club": "Brooklyn City FC",
-   "id": "300531399",
-   "name": "Brooklyn City F.C. Bridge Academy"
-  },
-  {
-   "club": "Elwood (LIJSL)",
-   "id": "300398983",
-   "name": "Herricanes"
-  },
-  {
-   "club": "Elmont SC (LIJSL)",
-   "id": "300398988",
-   "name": "Elmont Rush"
-  },
-  {
-   "club": "SUSA FC",
-   "id": "300399113",
-   "name": "EDP"
-  },
-  {
-   "club": "Cold Spring Harbor Huntington (LIJSL)",
-   "id": "300398978",
-   "name": "Fury"
+   "club": "Islandia SC PAL",
+   "id": "300398982",
+   "name": "Thorns"
   },
   {
    "club": "East Coast Surf",
@@ -811,19 +741,74 @@
    "name": "East Coast Surf White"
   },
   {
+   "club": "Merrick/South Merrick PAL Soccer Club",
+   "id": "300466695",
+   "name": "Impact"
+  },
+  {
+   "club": "Brooklyn City FC",
+   "id": "300531399",
+   "name": "Brooklyn City F.C. Bridge Academy"
+  },
+  {
+   "club": "Queen City Football Club",
+   "id": "300481131",
+   "name": "Queen City FC Adirondack Girls (Light)"
+  },
+  {
+   "club": "Syracuse Development Academy",
+   "id": "300399274",
+   "name": "SDA Orange"
+  },
+  {
+   "club": "Quickstrike FC",
+   "id": "300399155",
+   "name": "G13"
+  },
+  {
+   "club": "Empire State Youth Soccer Club",
+   "id": "300481130",
+   "name": "Alleycats UPSL"
+  },
+  {
+   "club": "SUSA FC",
+   "id": "300399113",
+   "name": "EDP"
+  },
+  {
    "club": "DUSC",
    "id": "300467741",
    "name": "GA II"
   },
   {
-   "club": "North Babylon Soccer Club",
-   "id": "300465149",
-   "name": "North Babylon Wave FC"
+   "club": "Chili Soccer Association",
+   "id": "300531413",
+   "name": "CSA Fusion FC"
   },
   {
-   "club": "Babylon",
-   "id": "300531402",
-   "name": "Inferno"
+   "club": "Eastchester",
+   "id": "300398966",
+   "name": "Lynx"
+  },
+  {
+   "club": "Levittown Soccer Club",
+   "id": "300399106",
+   "name": "Elite Girls"
+  },
+  {
+   "club": "Garden City",
+   "id": "300399045",
+   "name": "Glory"
+  },
+  {
+   "club": "Island Trees Soccer Club",
+   "id": "300399093",
+   "name": "Island Trees Rebels"
+  },
+  {
+   "club": "Sound Beach SC",
+   "id": "300398996",
+   "name": "Arsenal"
   },
   {
    "club": "Amherst Soccer Association",
@@ -831,14 +816,69 @@
    "name": "Amherst Legends"
   },
   {
-   "club": "Scarsdale",
-   "id": "300398964",
-   "name": "Aces"
+   "club": "Chelsea Piers Soccer Club",
+   "id": "300399029",
+   "name": "SC"
+  },
+  {
+   "club": "Elwood (LIJSL)",
+   "id": "300398983",
+   "name": "Herricanes"
+  },
+  {
+   "club": "Babylon",
+   "id": "300531402",
+   "name": "Inferno"
+  },
+  {
+   "club": "Unique Ballers FC",
+   "id": "300531405",
+   "name": "UBFC Spirit"
+  },
+  {
+   "club": "Elmont SC (LIJSL)",
+   "id": "300398988",
+   "name": "Elmont Rush"
+  },
+  {
+   "club": "Cold Spring Harbor Huntington (LIJSL)",
+   "id": "300398978",
+   "name": "Fury"
   },
   {
    "club": "White Plains YS",
    "id": "300399020",
    "name": "Black"
+  },
+  {
+   "club": "Clarkstown Soccer Club",
+   "id": "300479279",
+   "name": "Clarkstown-G13D-MongeCalderon"
+  },
+  {
+   "club": "Eastern FC",
+   "id": "300399046",
+   "name": "Girls Force"
+  },
+  {
+   "club": "Valhalla",
+   "id": "300399140",
+   "name": "Lady Vikings"
+  },
+  {
+   "club": "Scarsdale",
+   "id": "300398964",
+   "name": "Aces"
+  },
+  {
+   "club": "Greenburgh Utd",
+   "id": "300398947",
+   "name": "Elite"
+  },
+  {
+   "club": "North Babylon Soccer Club",
+   "id": "300465149",
+   "name": "North Babylon Wave FC"
   },
   {
    "club": "Terryville Soccer Club",
@@ -851,34 +891,9 @@
    "name": "Reign"
   },
   {
-   "club": "Clarkstown Soccer Club",
-   "id": "300479279",
-   "name": "Clarkstown-G13D-MongeCalderon"
-  },
-  {
-   "club": "Valhalla",
-   "id": "300399140",
-   "name": "Lady Vikings"
-  },
-  {
-   "club": "Eastern FC",
-   "id": "300399046",
-   "name": "Girls Force"
-  },
-  {
-   "club": "South Huntington SC",
-   "id": "300398897",
-   "name": "Heat"
-  },
-  {
    "club": "Lindenhurst Soccer Club",
    "id": "300399139",
    "name": "Raptors"
-  },
-  {
-   "club": "Unique Ballers FC",
-   "id": "300531405",
-   "name": "UBFC Spirit"
   },
   {
    "club": "Soccer Stars United",
@@ -886,24 +901,9 @@
    "name": "Soccer Stars United Capella"
   },
   {
-   "club": "Greenburgh Utd",
-   "id": "300398947",
-   "name": "Elite"
-  },
-  {
-   "club": "Chelsea Piers Soccer Club",
-   "id": "300399029",
-   "name": "SC"
-  },
-  {
-   "club": "Rocky Point",
-   "id": "300398914",
-   "name": "Ravens"
-  },
-  {
-   "club": "Atlantic United SB/LGN SC",
-   "id": "300399063",
-   "name": "White (Crush)"
+   "club": "South Huntington SC",
+   "id": "300398897",
+   "name": "Heat"
   },
   {
    "club": "Pelham",
@@ -911,14 +911,9 @@
    "name": "Ravens"
   },
   {
-   "club": "Rockville Centre Soccer Club",
-   "id": "300398944",
-   "name": "RVC Fire"
-  },
-  {
-   "club": "HBC Soccer Club",
-   "id": "300399166",
-   "name": "Pressure"
+   "club": "Rye Brook",
+   "id": "300514606",
+   "name": "Sirens"
   },
   {
    "club": "East Fishkill Soccer Club",
@@ -926,24 +921,9 @@
    "name": "Fusion"
   },
   {
-   "club": "Rye Brook",
-   "id": "300514606",
-   "name": "Sirens"
-  },
-  {
-   "club": "Harrison",
-   "id": "300399100",
-   "name": "Spirit"
-  },
-  {
-   "club": "Northport Cow Harbor United Soccer Club",
-   "id": "300399085",
-   "name": "Palermo"
-  },
-  {
-   "club": "HBC Soccer Club",
-   "id": "300399165",
-   "name": "Sparkle"
+   "club": "Rocky Point",
+   "id": "300398914",
+   "name": "Ravens"
   },
   {
    "club": "Hilton Heat Soccer Club",
@@ -951,9 +931,34 @@
    "name": "Hilton Heat - Montagliano"
   },
   {
-   "club": "South Huntington SC",
-   "id": "300465151",
-   "name": "South Huntington Fire"
+   "club": "Northport Cow Harbor United Soccer Club",
+   "id": "300399085",
+   "name": "Palermo"
+  },
+  {
+   "club": "Harrison",
+   "id": "300399100",
+   "name": "Spirit"
+  },
+  {
+   "club": "HBC Soccer Club",
+   "id": "300399166",
+   "name": "Pressure"
+  },
+  {
+   "club": "HBC Soccer Club",
+   "id": "300399165",
+   "name": "Sparkle"
+  },
+  {
+   "club": "Rockville Centre Soccer Club",
+   "id": "300398944",
+   "name": "RVC Fire"
+  },
+  {
+   "club": "Atlantic United SB/LGN SC",
+   "id": "300399063",
+   "name": "White (Crush)"
   },
   {
    "club": "VOB Soccer Club",
@@ -966,29 +971,19 @@
    "name": "Chelsea"
   },
   {
-   "club": "Lynbrook/East Rockaway SC",
-   "id": "300465150",
-   "name": "FC Fury"
-  },
-  {
-   "club": "Sound Beach SC",
-   "id": "300398960",
-   "name": "Wolves"
-  },
-  {
-   "club": "Floral Park (LIJSL)",
-   "id": "300399001",
-   "name": "Emerald Warriors"
-  },
-  {
    "club": "John Jay Futbol Club",
    "id": "300399056",
    "name": "Purple"
   },
   {
-   "club": "Bay Shore",
-   "id": "300398940",
-   "name": "United"
+   "club": "South Huntington SC",
+   "id": "300465151",
+   "name": "South Huntington Fire"
+  },
+  {
+   "club": "Lynbrook/East Rockaway SC",
+   "id": "300465150",
+   "name": "FC Fury"
   },
   {
    "club": "Mt Pleasant",
@@ -1001,19 +996,34 @@
    "name": "Alliance"
   },
   {
-   "club": "Lakefront Soccer Club",
-   "id": "300399266",
-   "name": "Lakefront SC Blue"
-  },
-  {
    "club": "Hillcrest FC",
    "id": "300399054",
    "name": "Allstars"
   },
   {
+   "club": "Sound Beach SC",
+   "id": "300398960",
+   "name": "Wolves"
+  },
+  {
+   "club": "Bay Shore",
+   "id": "300398940",
+   "name": "United"
+  },
+  {
+   "club": "Lakefront Soccer Club",
+   "id": "300399266",
+   "name": "Lakefront SC Blue"
+  },
+  {
    "club": "Staten Island Soccer Club",
    "id": "300399035",
    "name": "SISC Lightning Girls"
+  },
+  {
+   "club": "Floral Park (LIJSL)",
+   "id": "300399001",
+   "name": "Emerald Warriors"
   },
   {
    "club": "Roosevelt (LIJSL)",
@@ -1026,14 +1036,14 @@
    "name": "Ravens"
   },
   {
-   "club": "Longwood Soccer Club",
-   "id": "300465146",
-   "name": "Pink Panthers"
-  },
-  {
    "club": "Rye",
    "id": "300399086",
    "name": "Leopards"
+  },
+  {
+   "club": "Longwood Soccer Club",
+   "id": "300465146",
+   "name": "Pink Panthers"
   },
   {
    "club": "Town of Poughkeepsie Soccer Club",
@@ -1231,11 +1241,6 @@
    "name": "Wilson FC Warriors"
   },
   {
-   "club": "RNY FC Youth",
-   "id": "12254310",
-   "name": "GA"
-  },
-  {
    "club": "Southampton Soccer Club",
    "id": "12283439",
    "name": "Southampton Girls Academy"
@@ -1356,11 +1361,6 @@
    "name": "Bolts"
   },
   {
-   "club": "RNY FC Youth",
-   "id": "12334863",
-   "name": "RNY FC Youth DPL"
-  },
-  {
    "club": "North Rockland Soccer Association",
    "id": "14523900",
    "name": "NoRockland-GU14-Wildcats"
@@ -1374,6 +1374,11 @@
    "club": "East Islip Soccer Club",
    "id": "14549150",
    "name": "Cubs"
+  },
+  {
+   "club": "Great Kills",
+   "id": "15656550",
+   "name": "GKSC Blaze"
   },
   {
    "club": "Our Lady of Good Counsel",
@@ -1419,6 +1424,11 @@
    "club": "hewlettlawrence soccer club",
    "id": "300399089",
    "name": "Blue Storm"
+  },
+  {
+   "club": "World Class FC",
+   "id": "300399094",
+   "name": "World Class FC - - Principalli"
   },
   {
    "club": "East Meadow Soccer Club",
@@ -1586,11 +1596,6 @@
    "name": "Spirit"
   },
   {
-   "club": "North East Reds FC - Long Island",
-   "id": "300514602",
-   "name": "DPL (Red)"
-  },
-  {
    "club": "Glen Cove",
    "id": "300514603",
    "name": "Jaguars"
@@ -1626,11 +1631,6 @@
    "name": "Albany Alleycats ECNL RL"
   },
   {
-   "club": "East Meadow Soccer Club",
-   "id": "300531409",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Chili Soccer Association",
    "id": "300531414",
    "name": "CSA Elite Lightning"
@@ -1651,11 +1651,6 @@
    "name": "WNY Flash Rochester ECNL RL"
   },
   {
-   "club": "Manhattan SC",
-   "id": "300543115",
-   "name": "ECNL RL"
-  },
-  {
    "club": "WNY Flash Academy",
    "id": "300543116",
    "name": "WNY Flash Binghamton ECNL RL"
@@ -1674,6 +1669,16 @@
    "club": "Manhattan SC",
    "id": "300552853",
    "name": "Wave"
+  },
+  {
+   "club": "East Coast Surf",
+   "id": "300554894",
+   "name": "Dix Hills Surf EDP"
+  },
+  {
+   "club": "West Side",
+   "id": "300554895",
+   "name": "Red Bulls Gold"
   },
   {
    "club": "Met Oval",
@@ -1709,6 +1714,16 @@
    "club": "Island FC",
    "id": "300557182",
    "name": "Aspire East"
+  },
+  {
+   "club": "RNY FC Youth",
+   "id": "300558569",
+   "name": "GA"
+  },
+  {
+   "club": "RNY FC Youth",
+   "id": "300559023",
+   "name": "RNY FC Youth DPL"
   }
  ]
 }

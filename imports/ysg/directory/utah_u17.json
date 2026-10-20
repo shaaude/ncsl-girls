@@ -1,15 +1,10 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-13T15:48:24.812021+00:00",
+ "fetched_at": "2026-10-20T13:16:06.533622+00:00",
  "state": "UT",
  "state_slug": "utah",
  "teams": [
-  {
-   "club": "Utah Avalanche Soccer Club",
-   "id": "300357583",
-   "name": "ECNL"
-  },
   {
    "club": "Utah Celtic FC",
    "id": "300357542",
@@ -19,6 +14,11 @@
    "club": "La Roca Futbol Club",
    "id": "300357569",
    "name": "FC ECNL"
+  },
+  {
+   "club": "Utah Avalanche Soccer Club",
+   "id": "300357583",
+   "name": "ECNL"
   },
   {
    "club": "Utah Surf Soccer Club",
@@ -31,24 +31,24 @@
    "name": "Aspire"
   },
   {
-   "club": "City SC Utah",
-   "id": "300357586",
-   "name": "ECNL RL"
-  },
-  {
    "club": "La Roca Futbol Club",
    "id": "300357570",
    "name": "FC ECNL RL"
   },
   {
-   "club": "League 30",
-   "id": "300357548",
-   "name": "Lady Hawks (SFC)"
+   "club": "City SC Utah",
+   "id": "300357586",
+   "name": "ECNL RL"
   },
   {
    "club": "7 Elite Academy",
    "id": "300357553",
    "name": "Elite Academy Copa South"
+  },
+  {
+   "club": "League 30",
+   "id": "300357548",
+   "name": "Lady Hawks (SFC)"
   },
   {
    "club": "Utah Avalanche Soccer Club",
@@ -61,6 +61,11 @@
    "name": "Impact Aspire"
   },
   {
+   "club": "Wasatch SC",
+   "id": "300357557",
+   "name": "GA"
+  },
+  {
    "club": "Utah Celtic FC",
    "id": "300357550",
    "name": "Celtic - Redhair"
@@ -71,19 +76,14 @@
    "name": "ZM"
   },
   {
-   "club": "Wasatch SC",
-   "id": "300357557",
-   "name": "GA"
+   "club": "Ignite FC",
+   "id": "300357539",
+   "name": "Rebel Elite Black"
   },
   {
    "club": "Black Diamond FC",
    "id": "300357551",
    "name": "Aspire"
-  },
-  {
-   "club": "Ignite FC",
-   "id": "300357539",
-   "name": "Rebel Elite Black"
   },
   {
    "club": "Wasatch SC",
@@ -101,16 +101,6 @@
    "name": "TSasaki"
   },
   {
-   "club": "Utah Avalanche Soccer Club",
-   "id": "300357581",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Utah Avalanche Soccer Club",
-   "id": "300517403",
-   "name": "NUU Avalanche ECNL-RL"
-  },
-  {
    "club": "CFC",
    "id": "300357534",
    "name": "Red BD"
@@ -119,6 +109,16 @@
    "club": "Vipers FC",
    "id": "300479094",
    "name": "Vipers FC BN"
+  },
+  {
+   "club": "Utah Avalanche Soccer Club",
+   "id": "300357581",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Utah Avalanche Soccer Club",
+   "id": "300517403",
+   "name": "NUU Avalanche ECNL-RL"
   },
   {
    "club": "La Roca Futbol Club",
@@ -131,8 +131,23 @@
    "name": "Park City SC Red"
   },
   {
+   "club": "FC El Mellindo",
+   "id": "300357558",
+   "name": "G10"
+  },
+  {
    "club": "MetaSport Futbol Club",
    "id": "11821139",
+   "name": "Aspire"
+  },
+  {
+   "club": "7 Elite Academy",
+   "id": "300558951",
+   "name": "Aspire"
+  },
+  {
+   "club": "Impact United SC",
+   "id": "300558950",
    "name": "Aspire"
   },
   {
@@ -141,14 +156,59 @@
    "name": "ECNL RL"
   },
   {
+   "club": "MetaSport FC",
+   "id": "300540686",
+   "name": "MetaSport RH"
+  },
+  {
+   "club": "La Roca FC",
+   "id": "300540680",
+   "name": "ECNL G"
+  },
+  {
+   "club": "Aggies FC",
+   "id": "300357572",
+   "name": "NE"
+  },
+  {
    "club": "Utah Avalanche",
    "id": "300540683",
    "name": "NUU Avalanche ECNL RL"
   },
   {
+   "club": "Utah Youth Soccer",
+   "id": "300357584",
+   "name": "Utah ODP"
+  },
+  {
    "club": "Utah Avalanche",
    "id": "300540682",
    "name": "Avalanche ECNL RL"
+  },
+  {
+   "club": "Utah Celtic FC",
+   "id": "300465001",
+   "name": "Cardenas"
+  },
+  {
+   "club": "MetaSport Futbol Club",
+   "id": "300465002",
+   "name": "JB"
+  },
+  {
+   "club": "La Roca Futbol Club",
+   "id": "300482430",
+   "name": "La Roca T Henley"
+  },
+  {
+   "club": "L",
+   "id": "300488725",
+   "name": "Legacy"
+  },
+  {
+   "club": "City SC Utah",
+   "id": "300512909",
+   "name": "City SC UT GA-DB"
   },
   {
    "club": "Utah Avalanche",
@@ -157,8 +217,8 @@
   },
   {
    "club": "La Roca FC",
-   "id": "300540680",
-   "name": "ECNL G"
+   "id": "300529727",
+   "name": "ECNL RL South"
   },
   {
    "club": "La Roca FC",
@@ -166,109 +226,9 @@
    "name": "ECNL RL North"
   },
   {
-   "club": "La Roca FC",
-   "id": "300529727",
-   "name": "ECNL RL South"
-  },
-  {
-   "club": "City SC Utah",
-   "id": "300512909",
-   "name": "City SC UT GA-DB"
-  },
-  {
-   "club": "Utah Youth Soccer",
-   "id": "300357584",
-   "name": "Utah ODP"
-  },
-  {
-   "club": "L",
-   "id": "300488725",
-   "name": "Legacy"
-  },
-  {
-   "club": "La Roca Futbol Club",
-   "id": "300482430",
-   "name": "La Roca T Henley"
-  },
-  {
-   "club": "FC El Mellindo",
-   "id": "300357558",
-   "name": "G10"
-  },
-  {
-   "club": "Aggies FC",
-   "id": "300357572",
-   "name": "NE"
-  },
-  {
-   "club": "MetaSport Futbol Club",
-   "id": "300465002",
-   "name": "JB"
-  },
-  {
-   "club": "MetaSport FC",
-   "id": "300540686",
-   "name": "MetaSport RH"
-  },
-  {
-   "club": "Utah Celtic FC",
-   "id": "300465001",
-   "name": "Cardenas"
-  },
-  {
-   "club": "Utah Development Academy",
-   "id": "11950338",
-   "name": "09/10G"
-  },
-  {
-   "club": "Mexico Utah Academy",
-   "id": "12089009",
-   "name": "Mexico Utah Academy"
-  },
-  {
-   "club": "Utah Development Academy",
-   "id": "12048034",
-   "name": "UDA"
-  },
-  {
-   "club": "Utah Celtic FC",
-   "id": "12025095",
-   "name": "FC - Lucas"
-  },
-  {
-   "club": "Rampage Soccer Club",
-   "id": "12025073",
-   "name": "Black BB"
-  },
-  {
-   "club": "Rio FC",
-   "id": "11975561",
-   "name": "Girls"
-  },
-  {
-   "club": "SSFC Valkyrie",
-   "id": "11975560",
-   "name": "KH"
-  },
-  {
-   "club": "Copper Mountain Soccer Club",
-   "id": "11950153",
-   "name": "SB"
-  },
-  {
-   "club": "City SC Utah",
-   "id": "11950122",
-   "name": "Elite"
-  },
-  {
-   "club": "Shooters Soccer Club",
-   "id": "11949713",
-   "name": "CD"
-  },
-  {
-   "club": "Atomic Athletics",
-   "id": "11909998",
-   "name": "Atomic Athletics - TD"
+   "club": "Park city soccer club",
+   "id": "11834634",
+   "name": "Park City Red"
   },
   {
    "club": "Vipers FCCB",
@@ -276,49 +236,64 @@
    "name": "Vipers FC-CB"
   },
   {
-   "club": "Park city soccer club",
-   "id": "11834634",
-   "name": "Park City Red"
+   "club": "Atomic Athletics",
+   "id": "11909998",
+   "name": "Atomic Athletics - TD"
   },
   {
-   "club": "City SC UT Premier",
-   "id": "300357546",
-   "name": "Metro"
+   "club": "Shooters Soccer Club",
+   "id": "11949713",
+   "name": "CD"
   },
   {
-   "club": "STRIKERS TW STRIKERS",
-   "id": "13093650",
-   "name": "STRIKERS TW STRIKERS"
+   "club": "City SC Utah",
+   "id": "11950122",
+   "name": "Elite"
   },
   {
-   "club": "7 Elite Academy",
-   "id": "12286515",
-   "name": "Aspire"
+   "club": "Copper Mountain Soccer Club",
+   "id": "11950153",
+   "name": "SB"
   },
   {
-   "club": "Impact United SC",
-   "id": "12286511",
-   "name": "Aspire"
+   "club": "Utah Development Academy",
+   "id": "11950338",
+   "name": "09/10G"
   },
   {
-   "club": "Wasatch Soccer Club",
-   "id": "12186867",
-   "name": "Wasatch GA Aspire"
+   "club": "SSFC Valkyrie",
+   "id": "11975560",
+   "name": "KH"
   },
   {
-   "club": "SWAT",
-   "id": "12186661",
-   "name": "SWAT"
+   "club": "Rio FC",
+   "id": "11975561",
+   "name": "Girls"
   },
   {
-   "club": "Peak Soccer Club",
-   "id": "12181737",
-   "name": "Peak SC KrH Blue"
+   "club": "Rampage Soccer Club",
+   "id": "12025073",
+   "name": "Black BB"
   },
   {
-   "club": "Rampage SC",
-   "id": "12178236",
-   "name": "Rampage BB"
+   "club": "Utah Celtic FC",
+   "id": "12025095",
+   "name": "FC - Lucas"
+  },
+  {
+   "club": "Utah Development Academy",
+   "id": "12048034",
+   "name": "UDA"
+  },
+  {
+   "club": "Mexico Utah Academy",
+   "id": "12089009",
+   "name": "Mexico Utah Academy"
+  },
+  {
+   "club": "La Roca Futbol Club",
+   "id": "12155766",
+   "name": "ECNL"
   },
   {
    "club": "Northern Utah United",
@@ -326,9 +301,34 @@
    "name": "NUU Royalty EL"
   },
   {
-   "club": "La Roca Futbol Club",
-   "id": "12155766",
-   "name": "ECNL"
+   "club": "Rampage SC",
+   "id": "12178236",
+   "name": "Rampage BB"
+  },
+  {
+   "club": "Peak Soccer Club",
+   "id": "12181737",
+   "name": "Peak SC KrH Blue"
+  },
+  {
+   "club": "SWAT",
+   "id": "12186661",
+   "name": "SWAT"
+  },
+  {
+   "club": "Wasatch Soccer Club",
+   "id": "12186867",
+   "name": "Wasatch GA Aspire"
+  },
+  {
+   "club": "STRIKERS TW STRIKERS",
+   "id": "13093650",
+   "name": "STRIKERS TW STRIKERS"
+  },
+  {
+   "club": "City SC UT Premier",
+   "id": "300357546",
+   "name": "Metro"
   }
  ]
 }

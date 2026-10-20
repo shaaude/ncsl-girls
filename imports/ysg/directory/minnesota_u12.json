@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-10-13T15:09:04.555992+00:00",
+ "fetched_at": "2026-10-20T12:36:46.478094+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
@@ -26,14 +26,14 @@
    "name": "TCSL National Academy"
   },
   {
-   "club": "Boreal FC",
-   "id": "300432505",
-   "name": "TCSL National Maldonado"
+   "club": "North Oaks Soccer Club",
+   "id": "300432589",
+   "name": "NOSC Blast South Girls Sahara"
   },
   {
-   "club": "Salvo SC",
-   "id": "300553053",
-   "name": "TCSL Regional Academy"
+   "club": "Western Wisconsin Soccer",
+   "id": "300555199",
+   "name": "TCSL Regional WW VSA"
   },
   {
    "club": "Tonka United SA",
@@ -41,9 +41,14 @@
    "name": "TCSL National Academy"
   },
   {
-   "club": "North Oaks Soccer Club",
-   "id": "300432589",
-   "name": "NOSC Blast South Girls Sahara"
+   "club": "Boreal FC",
+   "id": "300432505",
+   "name": "TCSL National Maldonado"
+  },
+  {
+   "club": "Bloomington United",
+   "id": "300556145",
+   "name": "TCSL State Red"
   },
   {
    "club": "North Surf",
@@ -51,14 +56,14 @@
    "name": "TCSL National"
   },
   {
-   "club": "Edina Soccer Club",
-   "id": "300432555",
-   "name": "TCSL National Green"
-  },
-  {
    "club": "St. Croix",
    "id": "300432592",
    "name": "TCSL State - PreECNL-RL)"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "300432555",
+   "name": "TCSL National Green"
   },
   {
    "club": "Centennial Soccer Club",
@@ -91,6 +96,16 @@
    "name": "TCSL National Swoosh"
   },
   {
+   "club": "North Star FC",
+   "id": "300555198",
+   "name": "NSFC TCSL National"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "300553053",
+   "name": "TCSL Regional Academy"
+  },
+  {
    "club": "St. Paul Blackhawks",
    "id": "300432509",
    "name": "TCSL Regional Black"
@@ -106,19 +121,24 @@
    "name": "TCSL National EDT"
   },
   {
-   "club": "Prior Lake SC",
-   "id": "300432538",
-   "name": "TCSL State Gold"
-  },
-  {
    "club": "Orono Westonka Soccer Club",
    "id": "300473071",
    "name": "TCSL Regional"
   },
   {
+   "club": "Prior Lake SC",
+   "id": "300432538",
+   "name": "TCSL State Gold"
+  },
+  {
    "club": "Salvo Soccer Club",
    "id": "300432549",
    "name": "Salvo SC East Steel"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "300553052",
+   "name": "TCSL Regional Academy"
   },
   {
    "club": "North Star FC",
@@ -131,9 +151,9 @@
    "name": "TCSL State"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "300432580",
-   "name": "TCSL Regional Academy"
+   "club": "Waconia SC",
+   "id": "300432545",
+   "name": "TCSL State"
   },
   {
    "club": "Maplebrook Soccer Association",
@@ -141,39 +161,19 @@
    "name": "Girls - Barber/Sirek"
   },
   {
-   "club": "Waconia SC",
-   "id": "300432545",
-   "name": "TCSL State"
-  },
-  {
-   "club": "Lakeville Soccer Club",
-   "id": "300432566",
-   "name": "TCSL State Gold"
-  },
-  {
    "club": "Legacy FC",
    "id": "300432583",
    "name": "TCSL State Elite"
   },
   {
-   "club": "Fusion Soccer Club",
-   "id": "300432576",
-   "name": "TCSL Regional Navy"
-  },
-  {
-   "club": "Salvo SC",
-   "id": "300553052",
+   "club": "Lakeville Soccer Club",
+   "id": "300432580",
    "name": "TCSL Regional Academy"
   },
   {
-   "club": "Park Valley United FC",
-   "id": "300485423",
-   "name": "TCSL Regional"
-  },
-  {
-   "club": "Bloomington United",
-   "id": "300432499",
-   "name": "Girls Heat"
+   "club": "St Croix Soccer Club",
+   "id": "12035405",
+   "name": "Girls ECU"
   },
   {
    "club": "Mahtomedi Soccer Association",
@@ -181,9 +181,24 @@
    "name": "TCSL Regional Zephyrs Gold"
   },
   {
-   "club": "St Croix Soccer Club",
-   "id": "12035405",
-   "name": "Girls ECU"
+   "club": "Bloomington United",
+   "id": "300432499",
+   "name": "Girls Heat"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "300432566",
+   "name": "TCSL State Gold"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "300432576",
+   "name": "TCSL Regional Navy"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "300485423",
+   "name": "TCSL Regional"
   },
   {
    "club": "Tonka United SA",
@@ -196,19 +211,9 @@
    "name": "Manitou Pre ECNL RL"
   },
   {
-   "club": "Minnesota Rush",
-   "id": "300432582",
-   "name": "TCSL Regional EDT"
-  },
-  {
    "club": "Salvo Soccer Club",
    "id": "300432572",
    "name": "Salvo SC South Steel"
-  },
-  {
-   "club": "Wave SC",
-   "id": "300432492",
-   "name": "TCSL State Elite"
   },
   {
    "club": "Cottage Grove United SC",
@@ -216,9 +221,29 @@
    "name": "TCSL Regional"
   },
   {
+   "club": "Minnesota Rush",
+   "id": "300432582",
+   "name": "TCSL Regional EDT"
+  },
+  {
    "club": "Lakes Area Youth Soccer Association",
    "id": "300432515",
    "name": "Brainerd United Girls"
+  },
+  {
+   "club": "Wave SC",
+   "id": "300432492",
+   "name": "TCSL State Elite"
+  },
+  {
+   "club": "EPSC",
+   "id": "300553049",
+   "name": "TCSL Cities Grey"
+  },
+  {
+   "club": "Keliix-Intra Soccer Club",
+   "id": "300432564",
+   "name": "TCSL State"
   },
   {
    "club": "Boreal FC",
@@ -226,9 +251,9 @@
    "name": "TCSL State Nordmeier"
   },
   {
-   "club": "Keliix-Intra Soccer Club",
-   "id": "300432564",
-   "name": "TCSL State"
+   "club": "North Surf",
+   "id": "300432552",
+   "name": "TCSL Regional Royal"
   },
   {
    "club": "HFC United",
@@ -241,9 +266,9 @@
    "name": "Girls Gold"
   },
   {
-   "club": "North Surf",
-   "id": "300432552",
-   "name": "TCSL Regional Royal"
+   "club": "Prior Lake Soccer Club",
+   "id": "300432500",
+   "name": "Girls Gold"
   },
   {
    "club": "Edina Soccer Club",
@@ -256,34 +281,14 @@
    "name": "TCSL Cities Gold"
   },
   {
-   "club": "Prior Lake Soccer Club",
-   "id": "300432500",
-   "name": "Girls Gold"
-  },
-  {
-   "club": "Mahtomedi Soccer Association",
-   "id": "300432525",
-   "name": "TCSL State Zephyrs Navy"
-  },
-  {
-   "club": "North Oaks Soccer Club",
-   "id": "300489334",
-   "name": "NOSC Blast South Girls FS"
-  },
-  {
    "club": "Minnesota Rush",
    "id": "300432495",
    "name": "TCSL Cities EDT"
   },
   {
-   "club": "Tonka United SA",
-   "id": "300432541",
-   "name": "TCSL State Select"
-  },
-  {
-   "club": "St. Paul Blackhawks",
-   "id": "300432501",
-   "name": "TCSL State Red"
+   "club": "Mahtomedi Soccer Association",
+   "id": "300432525",
+   "name": "TCSL State Zephyrs Navy"
   },
   {
    "club": "United FC Rush",
@@ -296,6 +301,11 @@
    "name": "TCSL State"
   },
   {
+   "club": "Tonka United SA",
+   "id": "300432541",
+   "name": "TCSL State Select"
+  },
+  {
    "club": "Park Valley United FC",
    "id": "300432554",
    "name": "Girls White Swoosh"
@@ -306,19 +316,24 @@
    "name": "TCSL Cities"
   },
   {
-   "club": "EPSC",
-   "id": "300553049",
-   "name": "TCSL Cities Grey"
+   "club": "St. Paul Blackhawks",
+   "id": "300432501",
+   "name": "TCSL State Red"
+  },
+  {
+   "club": "Lakes United FC",
+   "id": "300556144",
+   "name": "TCSL Cities"
+  },
+  {
+   "club": "North Oaks Soccer Club",
+   "id": "300489334",
+   "name": "NOSC Blast South Girls FS"
   },
   {
    "club": "Wave Soccer Club",
    "id": "300432498",
    "name": "Premier Leja"
-  },
-  {
-   "club": "North United SC",
-   "id": "300432562",
-   "name": "TCSL State Platinum"
   },
   {
    "club": "Salvo Soccer Club",
@@ -331,19 +346,34 @@
    "name": "TCSL State"
   },
   {
+   "club": "North United SC",
+   "id": "300432562",
+   "name": "TCSL State Platinum"
+  },
+  {
    "club": "Minneapolis United",
    "id": "300432559",
    "name": "TCSL State Copa"
   },
   {
    "club": "East Ridge Soccer Club",
-   "id": "300553050",
-   "name": "TCSL Cities Black"
-  },
-  {
-   "club": "East Ridge Soccer Club",
    "id": "300432581",
    "name": "Girls Black"
+  },
+  {
+   "club": "Minneapolis United",
+   "id": "300473066",
+   "name": "TCSL Cities Samba"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "300432537",
+   "name": "TCSL State Navy"
+  },
+  {
+   "club": "Maplebrook Soccer Association",
+   "id": "300432497",
+   "name": "Girls Cities - Kloncz"
   },
   {
    "club": "Dakota SC",
@@ -356,24 +386,9 @@
    "name": "TCSL State Red"
   },
   {
-   "club": "Maplebrook Soccer Association",
-   "id": "300432497",
-   "name": "Girls Cities - Kloncz"
-  },
-  {
-   "club": "Fusion Soccer Club",
-   "id": "300432537",
-   "name": "TCSL State Navy"
-  },
-  {
    "club": "Salvo SC",
    "id": "300553051",
    "name": "TCSL Cities Two Rivers/ Rosemount Select"
-  },
-  {
-   "club": "Minneapolis United",
-   "id": "300473066",
-   "name": "TCSL Cities Samba"
   },
   {
    "club": "Lakes United Futbol Club",
@@ -386,9 +401,9 @@
    "name": "TCSL Cities Black"
   },
   {
-   "club": "Edina Soccer Club",
-   "id": "300432544",
-   "name": "TCSL Cities Gold"
+   "club": "East Ridge Soccer Club",
+   "id": "300553050",
+   "name": "TCSL Cities Black"
   },
   {
    "club": "Legacy FC",
@@ -396,8 +411,8 @@
    "name": "TCSL Cities Select"
   },
   {
-   "club": "North United SC",
-   "id": "300432568",
+   "club": "Edina Soccer Club",
+   "id": "300432544",
    "name": "TCSL Cities Gold"
   },
   {
@@ -406,9 +421,9 @@
    "name": "TCSL Cities"
   },
   {
-   "club": "Force Soccer Club",
-   "id": "300480194",
-   "name": "Girls - O'Brien"
+   "club": "North United SC",
+   "id": "300432568",
+   "name": "TCSL Cities Gold"
   },
   {
    "club": "Salvo Soccer Club",
@@ -416,9 +431,19 @@
    "name": "Salvo SC East Red"
   },
   {
+   "club": "Force Soccer Club",
+   "id": "300480194",
+   "name": "Girls - O'Brien"
+  },
+  {
    "club": "EPSC",
    "id": "300473070",
    "name": "TCSL Cities Grey"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "300553054",
+   "name": "TCSL State Woodbury Select"
   },
   {
    "club": "CC United Soccer Club",
@@ -431,24 +456,24 @@
    "name": "TCSL Cities"
   },
   {
-   "club": "Tonka United SA",
-   "id": "300432504",
-   "name": "TCSL Cities Select Echo"
-  },
-  {
    "club": "Edina Soccer Club",
    "id": "300432543",
    "name": "Girls Silver"
   },
   {
-   "club": "Fusion Soccer Club",
-   "id": "300432586",
-   "name": "TCSL Cities Navy"
+   "club": "Tonka United SA",
+   "id": "300432504",
+   "name": "TCSL Cities Select Echo"
   },
   {
    "club": "Park Valley United FC",
    "id": "300432553",
    "name": "TCSL Cities"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "300432586",
+   "name": "TCSL Cities Navy"
   },
   {
    "club": "Centennial Soccer Club",
@@ -461,14 +486,14 @@
    "name": "Girls Hinkle"
   },
   {
-   "club": "Park Valley United FC",
-   "id": "12035196",
-   "name": "Girls White Air Jordan"
-  },
-  {
    "club": "Lakeville Soccer Club",
    "id": "300551556",
    "name": "TCSL Cities Black"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "12035196",
+   "name": "Girls White Air Jordan"
   },
   {
    "club": "Southeast Soccer Club",
@@ -546,11 +571,6 @@
    "name": "TCSL Cities Tango"
   },
   {
-   "club": "Minnesota Thunder Academy",
-   "id": "12293917",
-   "name": "TCSL Regional Air"
-  },
-  {
    "club": "HFC United",
    "id": "12293934",
    "name": "TCSL Cities Navy"
@@ -606,29 +626,9 @@
    "name": "TCSL Cities Select Gideon"
   },
   {
-   "club": "Maplebrook Soccer Association",
-   "id": "12310269",
-   "name": "TCSL State - Brenes"
-  },
-  {
-   "club": "Maplebrook Soccer Association",
-   "id": "12310599",
-   "name": "TCSL State - Reineck"
-  },
-  {
    "club": "Manitou FC",
    "id": "12311702",
    "name": "TCSL State Orange"
-  },
-  {
-   "club": "Maplebrook Soccer Association",
-   "id": "12312338",
-   "name": "TCSL National"
-  },
-  {
-   "club": "Manitou FC",
-   "id": "12313709",
-   "name": "TCSL Regional"
   },
   {
    "club": "Minneapolis United Soccer Club",
@@ -686,29 +686,29 @@
    "name": "KMYSA"
   },
   {
-   "club": "Salvo SC",
-   "id": "300553054",
-   "name": "TCSL State Woodbury Select"
+   "club": "Maplebrook Soccer Association",
+   "id": "300559120",
+   "name": "TCSL National"
   },
   {
-   "club": "North Star FC",
-   "id": "300555198",
-   "name": "NSFC TCSL National"
+   "club": "Maplebrook Soccer Association",
+   "id": "300559121",
+   "name": "TCSL State - Brenes"
   },
   {
-   "club": "Western Wisconsin Soccer",
-   "id": "300555199",
-   "name": "TCSL Regional WW VSA"
+   "club": "Maplebrook Soccer Association",
+   "id": "300559122",
+   "name": "TCSL State - Reineck"
   },
   {
-   "club": "Lakes United FC",
-   "id": "300556144",
-   "name": "TCSL Cities"
+   "club": "Manitou FC",
+   "id": "300559123",
+   "name": "TCSL Regional"
   },
   {
-   "club": "Bloomington United",
-   "id": "300556145",
-   "name": "TCSL State Red"
+   "club": "Minnesota Thunder Academy",
+   "id": "300559124",
+   "name": "TCSL Regional Air"
   }
  ]
 }

@@ -1,24 +1,19 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-13T14:58:24.826773+00:00",
+ "fetched_at": "2026-10-20T12:26:06.458718+00:00",
  "state": "KS",
  "state_slug": "kansas",
  "teams": [
-  {
-   "club": "Kansas City Athletics",
-   "id": "300394188",
-   "name": "ECNL"
-  },
   {
    "club": "KC Athletics",
    "id": "300518799",
    "name": "Kansas City Athletics ECNL"
   },
   {
-   "club": "FC Wichita",
-   "id": "300482924",
-   "name": "ECNL RL"
+   "club": "Kansas City Athletics",
+   "id": "300394188",
+   "name": "ECNL"
   },
   {
    "club": "KC Legends",
@@ -26,9 +21,9 @@
    "name": "KC Legends Aspire"
   },
   {
-   "club": "Kansas City Surf",
-   "id": "300482925",
-   "name": "ECNL-RL"
+   "club": "FC Wichita",
+   "id": "300482924",
+   "name": "ECNL RL"
   },
   {
    "club": "Sporting Blue Valley",
@@ -36,14 +31,19 @@
    "name": "ECNL G"
   },
   {
-   "club": "Kansas Rush",
-   "id": "300394061",
-   "name": "GA"
+   "club": "Kansas City Surf",
+   "id": "300542853",
+   "name": "BLUE ECNL RL"
   },
   {
    "club": "FC Wichita",
-   "id": "300394159",
-   "name": "FC WICHITA"
+   "id": "300542842",
+   "name": "Red ECNL RL"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "300482925",
+   "name": "ECNL-RL"
   },
   {
    "club": "Sporting Kaw Valley",
@@ -51,9 +51,24 @@
    "name": "SKV Elite"
   },
   {
+   "club": "FC Wichita",
+   "id": "300394159",
+   "name": "FC WICHITA"
+  },
+  {
+   "club": "Kansas Rush",
+   "id": "300394061",
+   "name": "GA"
+  },
+  {
    "club": "Union KC Soccer Club",
    "id": "300394062",
    "name": "GA"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "300394139",
+   "name": "KC Athletics Academy Select NLMC McGuire"
   },
   {
    "club": "Sporting Wichita",
@@ -61,9 +76,9 @@
    "name": "SPORTING WICHITA DPL ACADEMY"
   },
   {
-   "club": "KC Athletics",
-   "id": "300394139",
-   "name": "KC Athletics Academy Select NLMC McGuire"
+   "club": "KC Legends",
+   "id": "300551470",
+   "name": "Aspire"
   },
   {
    "club": "Kansas City Athletics",
@@ -81,29 +96,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Toca Fusion Athletic Club",
-   "id": "300542839",
-   "name": "Toca Fusion Premier ECNL RL"
-  },
-  {
-   "club": "Kansas Rush",
-   "id": "300542846",
-   "name": "Blue ECNL RL"
-  },
-  {
-   "club": "Toca FC",
-   "id": "300394072",
-   "name": "13G"
-  },
-  {
    "club": "KC Athletics",
    "id": "300473298",
    "name": "KC Athletics Academy Select NLMC Palmer"
-  },
-  {
-   "club": "KC Legends",
-   "id": "300394306",
-   "name": "KCL Academy Red"
   },
   {
    "club": "Sporting Blue Valley Soccer Club",
@@ -111,19 +106,14 @@
    "name": "SPORTING BV"
   },
   {
-   "club": "KC Legends",
-   "id": "300394320",
-   "name": "KCL Academy White"
+   "club": "Toca Fusion Athletic Club",
+   "id": "300542839",
+   "name": "Toca Fusion Premier ECNL RL"
   },
   {
-   "club": "FC Wichita",
-   "id": "300394158",
-   "name": "FC Wichita Premier"
-  },
-  {
-   "club": "KC Legends",
-   "id": "300394315",
-   "name": "KCL Academy Black"
+   "club": "Toca FC",
+   "id": "300394072",
+   "name": "13G"
   },
   {
    "club": "Sporting Blue Valley Soccer Club",
@@ -131,14 +121,9 @@
    "name": "Sporting BV Torino"
   },
   {
-   "club": "FC Wichita",
-   "id": "300486305",
-   "name": "FC Wichita NPL"
-  },
-  {
-   "club": "Derby United",
-   "id": "300394345",
-   "name": "Derby United Crush"
+   "club": "KC Legends",
+   "id": "300394306",
+   "name": "KCL Academy Red"
   },
   {
    "club": "Topeka Soccer Club",
@@ -146,23 +131,43 @@
    "name": "TSC Select Blue"
   },
   {
+   "club": "KC Legends",
+   "id": "300394315",
+   "name": "KCL Academy Black"
+  },
+  {
+   "club": "FC Wichita",
+   "id": "300486305",
+   "name": "FC Wichita NPL"
+  },
+  {
+   "club": "Kansas Rush",
+   "id": "300542846",
+   "name": "Blue ECNL RL"
+  },
+  {
+   "club": "Derby United",
+   "id": "300394345",
+   "name": "Derby United Crush"
+  },
+  {
    "club": "Sporting Blue Valley",
    "id": "300491236",
    "name": "ECNL RL"
   },
   {
+   "club": "FC Wichita",
+   "id": "300394158",
+   "name": "FC Wichita Premier"
+  },
+  {
+   "club": "Wichita Surf Soccer Club",
+   "id": "12241209",
+   "name": "WICHITA SURF ELITE"
+  },
+  {
    "club": "Union KC Soccer Club",
    "id": "11740924",
-   "name": "Aspire"
-  },
-  {
-   "club": "KC Legends",
-   "id": "300469258",
-   "name": "KCL Black"
-  },
-  {
-   "club": "Kansas Rush",
-   "id": "300394056",
    "name": "Aspire"
   },
   {
@@ -171,23 +176,18 @@
    "name": "WUFC Fierce"
   },
   {
+   "club": "KC Legends",
+   "id": "300469258",
+   "name": "KCL Black"
+  },
+  {
    "club": "Union KC Soccer Club",
    "id": "300551471",
    "name": "Aspire Red"
   },
   {
-   "club": "TISC",
-   "id": "300394283",
-   "name": "TISC Legends"
-  },
-  {
-   "club": "Derby United",
-   "id": "300394344",
-   "name": "Derby United Force"
-  },
-  {
-   "club": "KC Fusion",
-   "id": "300394063",
+   "club": "Kansas Rush",
+   "id": "300394056",
    "name": "Aspire"
   },
   {
@@ -196,9 +196,34 @@
    "name": "Union KC Elite"
   },
   {
+   "club": "TISC",
+   "id": "300394283",
+   "name": "TISC Legends"
+  },
+  {
+   "club": "KC Fusion",
+   "id": "300394063",
+   "name": "Aspire"
+  },
+  {
    "club": "CLUB AZZURRI",
    "id": "300467733",
    "name": "Azzurri Academy"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "300509414",
+   "name": "Kansas City Athletics ECNL RL"
+  },
+  {
+   "club": "KC Legends",
+   "id": "300394320",
+   "name": "KCL Academy White"
+  },
+  {
+   "club": "Derby United",
+   "id": "300394344",
+   "name": "Derby United Force"
   },
   {
    "club": "Kansas Rush",
@@ -206,14 +231,19 @@
    "name": "Kansas Rush Nero"
   },
   {
+   "club": "Derby United",
+   "id": "300548866",
+   "name": "Derby United Dash"
+  },
+  {
    "club": "VC Fusion",
    "id": "300394111",
    "name": "VC Fusion"
   },
   {
-   "club": "Derby United",
-   "id": "300548866",
-   "name": "Derby United Dash"
+   "club": "TISC",
+   "id": "300394284",
+   "name": "TISC Bravo"
   },
   {
    "club": "Sporting Blue Valley Soccer Club",
@@ -226,21 +256,6 @@
    "name": "FC Wichita Elite"
   },
   {
-   "club": "TISC",
-   "id": "300394284",
-   "name": "TISC Bravo"
-  },
-  {
-   "club": "McPherson City FC",
-   "id": "300394080",
-   "name": "MCFC Girls"
-  },
-  {
-   "club": "Toca FC",
-   "id": "300394182",
-   "name": "Toca FC Premier"
-  },
-  {
    "club": "RAPTORS SC",
    "id": "300394187",
    "name": "LADY RAPTORS"
@@ -251,9 +266,19 @@
    "name": "NEWTON RAILERS"
   },
   {
+   "club": "McPherson City FC",
+   "id": "300394080",
+   "name": "MCFC Girls"
+  },
+  {
    "club": "WICHITA WARRIORS SOCCER CLUB",
    "id": "300394069",
    "name": "Wichita Warriors"
+  },
+  {
+   "club": "Toca FC",
+   "id": "300394182",
+   "name": "Toca FC Premier"
   },
   {
    "club": "AZTECA",
@@ -261,14 +286,19 @@
    "name": "AZTECA"
   },
   {
-   "club": "KC Legends",
-   "id": "300394319",
-   "name": "KCL Kingdom"
-  },
-  {
    "club": "Atlas FC",
    "id": "300551472",
    "name": "FC Atlas Neza"
+  },
+  {
+   "club": "McPherson City FC",
+   "id": "12241211",
+   "name": "Kansas Blast Girls"
+  },
+  {
+   "club": "KC Legends",
+   "id": "300394319",
+   "name": "KCL Kingdom"
   },
   {
    "club": "Wichita Regional Soccer Association",
@@ -294,11 +324,6 @@
    "club": "KC Athletics",
    "id": "11666723",
    "name": "Kansas City Athletics Academy Select MADL"
-  },
-  {
-   "club": "Called to Greatness FC",
-   "id": "11828333",
-   "name": "Called to Greatness FC"
   },
   {
    "club": "SPORTING BV",
@@ -396,24 +421,9 @@
    "name": "KANSAS CITY SURF (KS)"
   },
   {
-   "club": "Wichita Surf Soccer Club",
-   "id": "12241209",
-   "name": "WICHITA SURF ELITE"
-  },
-  {
-   "club": "McPherson City FC",
-   "id": "12241211",
-   "name": "Kansas Blast Girls"
-  },
-  {
    "club": "Dodge City Toro's FC",
    "id": "12241235",
    "name": "DODGE CITY TOROS FC"
-  },
-  {
-   "club": "Wichita Surf Soccer Club",
-   "id": "12241238",
-   "name": "WICHITA SURF ACADEMY"
   },
   {
    "club": "WRSA Independents",
@@ -449,11 +459,6 @@
    "club": "KC Athletics",
    "id": "14092950",
    "name": "KC Athletics Shamrock Rovers"
-  },
-  {
-   "club": "Kansas Rush",
-   "id": "14093000",
-   "name": "Kansas Rush Nero"
   },
   {
    "club": "Sporting City",
@@ -506,6 +511,31 @@
    "name": "Sporting KV Elite MHK"
   },
   {
+   "club": "TBD",
+   "id": "16422150",
+   "name": "Forfeit red"
+  },
+  {
+   "club": "Toca Fusion",
+   "id": "16861450",
+   "name": "Toca Fusion Gold"
+  },
+  {
+   "club": "Manhattan Surf",
+   "id": "16861550",
+   "name": "Manhattan Surf Blue Girls"
+  },
+  {
+   "club": "Toca Fusion",
+   "id": "16861600",
+   "name": "Toca Fusion Championship"
+  },
+  {
+   "club": "Nueva Era FC",
+   "id": "16861850",
+   "name": "Nueva Era FC"
+  },
+  {
    "club": "KC Athletics",
    "id": "300259902",
    "name": "KC Athletics Volare"
@@ -534,11 +564,6 @@
    "club": "Toca FC",
    "id": "300394181",
    "name": "Toca FC GA Aspire"
-  },
-  {
-   "club": "Dodge City Toro's FC",
-   "id": "300394205",
-   "name": "DODGE CITY TOROS FC"
   },
   {
    "club": "KC Surf",
@@ -661,11 +686,6 @@
    "name": "SBV Boca"
   },
   {
-   "club": "KC Athletics",
-   "id": "300509414",
-   "name": "Kansas City Athletics ECNL RL"
-  },
-  {
    "club": "Kansas Rush",
    "id": "300509416",
    "name": "Gold ECNL RL"
@@ -704,11 +724,6 @@
    "club": "KC Legends",
    "id": "300542841",
    "name": "KCL Black Aspire"
-  },
-  {
-   "club": "FC Wichita",
-   "id": "300542842",
-   "name": "Red ECNL RL"
   },
   {
    "club": "Wichita Surf",
@@ -756,11 +771,6 @@
    "name": "SPORTING BV Boca"
   },
   {
-   "club": "Kansas City Surf",
-   "id": "300542853",
-   "name": "BLUE ECNL RL"
-  },
-  {
    "club": "Sporting Kaw Valley",
    "id": "300542854",
    "name": "Sporting Kaw Valley Elite"
@@ -781,9 +791,19 @@
    "name": "Union KC Elite Navy"
   },
   {
-   "club": "KC Legends",
-   "id": "300551470",
-   "name": "Aspire"
+   "club": "KC Surf",
+   "id": "300558562",
+   "name": "KC Surf"
+  },
+  {
+   "club": "Wichita Surf Soccer Club",
+   "id": "300559289",
+   "name": "WICHITA SURF ACADEMY"
+  },
+  {
+   "club": "Kansas Rush",
+   "id": "300559571",
+   "name": "Kansas Rush Nero"
   }
  ]
 }

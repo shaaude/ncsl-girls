@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-13T14:40:57.738776+00:00",
+ "fetched_at": "2026-10-20T12:08:36.496389+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
@@ -21,24 +21,24 @@
    "name": "Colorado Rush North DPL"
   },
   {
-   "club": "Denver Kickers Sport Club",
-   "id": "300333383",
-   "name": "Denver Kickers RED NPL"
-  },
-  {
    "club": "CO Elevation FC",
    "id": "300333382",
    "name": "Aspire"
   },
   {
-   "club": "Broomfield Soccer Club",
-   "id": "300527855",
-   "name": "Prestige DPL"
-  },
-  {
    "club": "Colorado Rush",
    "id": "300557410",
    "name": "Colorado Rush COS (CO)"
+  },
+  {
+   "club": "Denver Kickers Sport Club",
+   "id": "300333383",
+   "name": "Denver Kickers RED NPL"
+  },
+  {
+   "club": "Broomfield Soccer Club",
+   "id": "300527855",
+   "name": "Prestige DPL"
   },
   {
    "club": "CO Elevation FC",
@@ -51,24 +51,24 @@
    "name": "Pride SC Copa CO"
   },
   {
+   "club": "ALBION SC Denver",
+   "id": "300333375",
+   "name": "DPLO"
+  },
+  {
    "club": "ALBION SC Colorado",
    "id": "300527857",
    "name": "ALBION SC Boulder County DPL"
   },
   {
-   "club": "ALBION SC Denver",
-   "id": "300333375",
+   "club": "Colorado United",
+   "id": "300527867",
    "name": "DPLO"
   },
   {
    "club": "Pueblo Rangers SC",
    "id": "300527869",
    "name": "Pueblo Rangers SC Elite"
-  },
-  {
-   "club": "Colorado United",
-   "id": "300527867",
-   "name": "DPLO"
   },
   {
    "club": "Colorado Rush",
@@ -91,14 +91,14 @@
    "name": "North White"
   },
   {
+   "club": "Colorado Storm",
+   "id": "300527863",
+   "name": "CR DPL"
+  },
+  {
    "club": "Forge Athletic Club",
    "id": "300527864",
    "name": "Forge Athletic Club"
-  },
-  {
-   "club": "Skyline Soccer Association",
-   "id": "300527865",
-   "name": "DPL"
   },
   {
    "club": "City SC NOCO",
@@ -106,24 +106,9 @@
    "name": "DPLO"
   },
   {
-   "club": "Albion SC Colorado",
-   "id": "12327778",
-   "name": "Boulder County DPL"
-  },
-  {
-   "club": "Pride Soccer Club",
-   "id": "300333373",
-   "name": "United"
-  },
-  {
-   "club": "Arsenal Colorado",
-   "id": "12327392",
-   "name": "Gold (CO)"
-  },
-  {
-   "club": "Colorado Rush COS",
-   "id": "300333369",
-   "name": "Rush COS White"
+   "club": "Skyline Soccer Association",
+   "id": "300527865",
+   "name": "DPL"
   },
   {
    "club": "Colorado United",
@@ -131,9 +116,19 @@
    "name": "Red"
   },
   {
+   "club": "Colorado Storm",
+   "id": "300527856",
+   "name": "North Black I"
+  },
+  {
    "club": "Vail Valley SC",
    "id": "16360700",
    "name": "VVSC Navy"
+  },
+  {
+   "club": "Colorado Rush COS",
+   "id": "300333369",
+   "name": "Rush COS White"
   },
   {
    "club": "Colorado Storm",
@@ -141,24 +136,24 @@
    "name": "CO Storm Black Team"
   },
   {
-   "club": "Colorado Lightning Soccer Academy",
-   "id": "12329546",
-   "name": "Colorado Lightning Girls u"
-  },
-  {
    "club": "Montrose SC",
    "id": "14253350",
    "name": "Montrose Avalanche"
   },
   {
-   "club": "Broomfield Soccer Club",
-   "id": "12332427",
-   "name": "Aspire"
-  },
-  {
    "club": "Bear Creek Soccer",
    "id": "12331239",
    "name": "Bear Creek Soccer Bandits"
+  },
+  {
+   "club": "Pride Soccer Club",
+   "id": "300333373",
+   "name": "United"
+  },
+  {
+   "club": "Colorado Lightning Soccer Academy",
+   "id": "12329546",
+   "name": "Colorado Lightning Girls u"
   },
   {
    "club": "Colorado Rapids Youth Soccer Club",
@@ -176,19 +171,14 @@
    "name": "DPL"
   },
   {
-   "club": "Colorado Storm",
-   "id": "300527856",
-   "name": "North Black I"
+   "club": "Colorado United",
+   "id": "12327590",
+   "name": "Premier"
   },
   {
    "club": "Colorado Edge SC",
    "id": "300527862",
    "name": "Colorado EDGE United"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "300527863",
-   "name": "CR DPL"
   },
   {
    "club": "ALBION SC Colorado",
@@ -204,6 +194,21 @@
    "club": "Colorado Rapids FC",
    "id": "300527871",
    "name": "ECNL RL North"
+  },
+  {
+   "club": "Albion SC Denver",
+   "id": "300558909",
+   "name": "Aspire"
+  },
+  {
+   "club": "City SC NOCO",
+   "id": "300558910",
+   "name": "Aspire"
+  },
+  {
+   "club": "Broomfield Soccer Club",
+   "id": "300558911",
+   "name": "Aspire"
   },
   {
    "club": "Colorado Rapids Youth Soccer Club",
@@ -251,9 +256,14 @@
    "name": "GA"
   },
   {
-   "club": "Colorado United",
-   "id": "12327590",
-   "name": "Premier"
+   "club": "Colorado Rush",
+   "id": "12327777",
+   "name": "Colorado Rush East DPL"
+  },
+  {
+   "club": "Arsenal Colorado",
+   "id": "12327392",
+   "name": "Gold (CO)"
   },
   {
    "club": "Colorado Rush",
@@ -271,19 +281,14 @@
    "name": "Colorado Rush North (CO)"
   },
   {
-   "club": "City SC NOCO",
-   "id": "12285880",
-   "name": "Aspire"
-  },
-  {
-   "club": "Albion SC Denver",
-   "id": "12285879",
-   "name": "Aspire"
-  },
-  {
    "club": "Colorado Storm",
    "id": "12284272",
    "name": "North Black I"
+  },
+  {
+   "club": "Albion SC Denver",
+   "id": "12281240",
+   "name": "DPL"
   },
   {
    "club": "Colorado Rush",
@@ -296,9 +301,9 @@
    "name": "CISA Dunes H.S Girls"
   },
   {
-   "club": "Colorado Rush",
-   "id": "12327777",
-   "name": "Colorado Rush East DPL"
+   "club": "ALBION SC Boulder County",
+   "id": "12327778",
+   "name": "Boulder County DPL"
   },
   {
    "club": "Colorado United",

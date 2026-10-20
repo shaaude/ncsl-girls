@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-10-13T15:45:44.821805+00:00",
+ "fetched_at": "2026-10-20T13:13:26.638820+00:00",
  "state": "TX",
  "state_slug": "texas",
  "teams": [
@@ -31,6 +31,11 @@
    "name": "City Select I"
   },
   {
+   "club": "Lonestar SAT",
+   "id": "300545697",
+   "name": "ECNL RL STXCL"
+  },
+  {
    "club": "Solar Soccer Club",
    "id": "300439956",
    "name": "SOLAR PRE-ECNL ADAMES"
@@ -39,6 +44,16 @@
    "club": "Solar SC",
    "id": "300545696",
    "name": "SOLAR PRE-ECNL KLASSEN"
+  },
+  {
+   "club": "FC Westlake",
+   "id": "300533362",
+   "name": "North ECNL RL STXCL"
+  },
+  {
+   "club": "BVB International Academy Texas",
+   "id": "300439877",
+   "name": "BVBIA Pre-ECNL Klassen"
   },
   {
    "club": "Dallas Hornets",
@@ -51,31 +66,6 @@
    "name": "SOLAR PRE-ECNL BATES"
   },
   {
-   "club": "Frisco Soccer Association",
-   "id": "300440019",
-   "name": "FSA Cheetahs (D Rodriguez)"
-  },
-  {
-   "club": "FC Dallas",
-   "id": "300439883",
-   "name": "Pre-ECNL Lovegrove"
-  },
-  {
-   "club": "BVB International Academy Texas",
-   "id": "300439877",
-   "name": "BVBIA Pre-ECNL Klassen"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440982",
-   "name": "Challenge STXCL EC"
-  },
-  {
-   "club": "DKSC",
-   "id": "300439622",
-   "name": "Pre-ECNL Zaldivar"
-  },
-  {
    "club": "El Paso Surf Soccer Club",
    "id": "300440818",
    "name": "El Paso Surf SC Sifuentes (TX)"
@@ -86,9 +76,24 @@
    "name": "ULETE FC Andre"
   },
   {
-   "club": "HTX",
-   "id": "300441027",
-   "name": "City E"
+   "club": "Lubbock Soccer",
+   "id": "300439699",
+   "name": "Tigers"
+  },
+  {
+   "club": "DKSC",
+   "id": "300439622",
+   "name": "Pre-ECNL Zaldivar"
+  },
+  {
+   "club": "Frisco Soccer Association",
+   "id": "300440019",
+   "name": "FSA Cheetahs (D Rodriguez)"
+  },
+  {
+   "club": "Challenge Soccer Club",
+   "id": "300440982",
+   "name": "Challenge STXCL EC"
   },
   {
    "club": "FC Dallas Youth",
@@ -96,54 +101,19 @@
    "name": "Pre-ECNL Fondren"
   },
   {
-   "club": "Albion Hurricanes FC",
-   "id": "300440963",
-   "name": "AHFC Pre-ECNL"
-  },
-  {
-   "club": "Lubbock Soccer",
-   "id": "300439699",
-   "name": "Tigers"
-  },
-  {
-   "club": "FC Westlake",
-   "id": "300533362",
-   "name": "North ECNL RL STXCL"
-  },
-  {
    "club": "Dutch FC",
    "id": "300439443",
    "name": "Dutch Lionesses Ajax"
   },
   {
-   "club": "BVB International Academy Texas",
-   "id": "300439542",
-   "name": "BVB PreECNL Yellow East (Brown)"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439913",
-   "name": "Z-Sting Pre-ECNL Prokof"
+   "club": "Albion Hurricanes FC",
+   "id": "300440963",
+   "name": "AHFC Pre-ECNL"
   },
   {
    "club": "HTX",
-   "id": "300521880",
-   "name": "HTX City SW STXCL EC"
-  },
-  {
-   "club": "Dallas Texans Soccer Club",
-   "id": "300521709",
-   "name": "Dallas Texans Pre ECNL Haylock"
-  },
-  {
-   "club": "HTX",
-   "id": "300440863",
-   "name": "HTX City W STXCL EC"
-  },
-  {
-   "club": "Houston Surf Soccer Club",
-   "id": "300440786",
-   "name": "Girls Blue"
+   "id": "300441027",
+   "name": "City E"
   },
   {
    "club": "Dallas Surf SC",
@@ -151,9 +121,24 @@
    "name": "Dallas Surf Inspire Silver"
   },
   {
-   "club": "Lubbock Soccer",
-   "id": "300439697",
-   "name": "Firecrackers"
+   "club": "Albion SC Dallas",
+   "id": "300521714",
+   "name": "Inspire"
+  },
+  {
+   "club": "BVB International Academy Texas",
+   "id": "300439542",
+   "name": "BVB PreECNL Yellow East (Brown)"
+  },
+  {
+   "club": "FC Dallas",
+   "id": "300439883",
+   "name": "Pre-ECNL Lovegrove"
+  },
+  {
+   "club": "HTX",
+   "id": "300521880",
+   "name": "HTX City SW STXCL EC"
   },
   {
    "club": "Classics Elite SA",
@@ -161,9 +146,14 @@
    "name": "CE Pre-ECNL"
   },
   {
-   "club": "Albion Hurricanes FC",
-   "id": "300466313",
-   "name": "AHFC PRE-ECNL WHITE"
+   "club": "Sting Soccer Club",
+   "id": "300439913",
+   "name": "Z-Sting Pre-ECNL Prokof"
+  },
+  {
+   "club": "Lubbock Soccer",
+   "id": "300439697",
+   "name": "Firecrackers"
   },
   {
    "club": "Atltico Dallas Youth",
@@ -171,24 +161,9 @@
    "name": "Inspire White"
   },
   {
-   "club": "Solar Soccer Club",
-   "id": "300439955",
-   "name": "SOLAR PRE-ECNL NAZIER"
-  },
-  {
    "club": "HTX",
-   "id": "300440762",
-   "name": "HTX City S STXCL EC"
-  },
-  {
-   "club": "DKSC",
-   "id": "300439846",
-   "name": "Pre-ECNL Zaldivar"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300440009",
-   "name": "MUNICH / HONEYBEES"
+   "id": "300521871",
+   "name": "HTX City N STXCL EC"
   },
   {
    "club": "Solar SC",
@@ -196,9 +171,9 @@
    "name": "SOLAR PRE-ECNL NAIZER"
   },
   {
-   "club": "HTX",
-   "id": "300521871",
-   "name": "HTX City N STXCL EC"
+   "club": "DKSC",
+   "id": "300439846",
+   "name": "Pre-ECNL Zaldivar"
   },
   {
    "club": "Dallas Surf SC",
@@ -206,9 +181,9 @@
    "name": "Pre-GA"
   },
   {
-   "club": "Dallas Surf SC",
-   "id": "300439615",
-   "name": "Inspire Black"
+   "club": "HTX",
+   "id": "300440762",
+   "name": "HTX City S STXCL EC"
   },
   {
    "club": "Fever United",
@@ -221,19 +196,49 @@
    "name": "DKSC Pre ECNL CHAVEZ"
   },
   {
-   "club": "Reign SC",
-   "id": "300439490",
-   "name": "REIGN SC"
-  },
-  {
    "club": "Denton Soccer Association",
    "id": "300533277",
    "name": "DSA Blue Flames"
   },
   {
+   "club": "Dallas Surf SC",
+   "id": "300439615",
+   "name": "Inspire Black"
+  },
+  {
+   "club": "Reign SC",
+   "id": "300439490",
+   "name": "REIGN SC"
+  },
+  {
+   "club": "Albion Hurricanes FC",
+   "id": "300466313",
+   "name": "AHFC PRE-ECNL WHITE"
+  },
+  {
+   "club": "Solar Soccer Club",
+   "id": "300439955",
+   "name": "SOLAR PRE-ECNL NAZIER"
+  },
+  {
+   "club": "HTX",
+   "id": "300440863",
+   "name": "HTX City W STXCL EC"
+  },
+  {
    "club": "FC Dallas Youth",
    "id": "300533266",
    "name": "Pre-ECNL Lovegrove"
+  },
+  {
+   "club": "Dallas Texans Soccer Club",
+   "id": "300521709",
+   "name": "Dallas Texans Pre ECNL Haylock"
+  },
+  {
+   "club": "Houston Surf Soccer Club",
+   "id": "300440786",
+   "name": "Girls Blue"
   },
   {
    "club": "Dallas Surf SC",
@@ -246,14 +251,14 @@
    "name": "Brown"
   },
   {
-   "club": "Rayos FC",
-   "id": "300439605",
-   "name": "Rayos Hernandez"
-  },
-  {
    "club": "FC Dallas ETX",
    "id": "300533268",
    "name": "FCD-ETX Sabillon"
+  },
+  {
+   "club": "FLAME FC",
+   "id": "12287447",
+   "name": "FLAME FC"
   },
   {
    "club": "Del Rio Furia Soccer League",
@@ -261,19 +266,14 @@
    "name": "portugal"
   },
   {
-   "club": "Lonestar Soccer Club",
-   "id": "300440855",
-   "name": "Lonestar STXCL WC Black"
+   "club": "WTX ROYALTY",
+   "id": "300439478",
+   "name": "WTX ROYALTY GIRLS"
   },
   {
-   "club": "Heir FC",
-   "id": "300521703",
-   "name": "Inspire"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300440005",
-   "name": "CHELSEA / PINK PANTHERS"
+   "club": "Dallas Cosmos Soccer Club",
+   "id": "12275713",
+   "name": "Dallas Cosmos Navy (TX)"
   },
   {
    "club": "Dallas Cosmos Soccer Club",
@@ -281,9 +281,24 @@
    "name": "Dallas Cosmos SC Pre-ECNL Black"
   },
   {
-   "club": "WTX ROYALTY",
-   "id": "300439478",
-   "name": "WTX ROYALTY GIRLS"
+   "club": "Albion Hurricanes FC",
+   "id": "300440958",
+   "name": "AHFC PRE-ECNL WHITE TX"
+  },
+  {
+   "club": "Rayos FC",
+   "id": "300439605",
+   "name": "Rayos Hernandez"
+  },
+  {
+   "club": "FC Dallas",
+   "id": "300439881",
+   "name": "Pre-ECNL Haylock"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440855",
+   "name": "Lonestar STXCL WC Black"
   },
   {
    "club": "FC Dallas Youth",
@@ -291,9 +306,9 @@
    "name": "Pre-ECNL Avant West"
   },
   {
-   "club": "Albion Hurricanes FC",
-   "id": "300440958",
-   "name": "AHFC PRE-ECNL WHITE TX"
+   "club": "Dallas Hornets",
+   "id": "300439501",
+   "name": "Dallas Hornets DEV (prev AlphaForms)"
   },
   {
    "club": "Atltico Dallas Youth",
@@ -301,14 +316,29 @@
    "name": "Atletico Dallas Youth DFW-C Welge"
   },
   {
-   "club": "Dallas Hornets",
-   "id": "300439501",
-   "name": "Dallas Hornets DEV (prev AlphaForms)"
+   "club": "Del Rio Furia Soccer League",
+   "id": "12019292",
+   "name": "USA"
   },
   {
-   "club": "FC Dallas",
-   "id": "300439881",
-   "name": "Pre-ECNL Haylock"
+   "club": "WTX Lightning SC",
+   "id": "300439715",
+   "name": "WTX Lightning SC"
+  },
+  {
+   "club": "Cosmos FC Academy",
+   "id": "300440852",
+   "name": "COSMOS FC WHITE (CAMARENA)"
+  },
+  {
+   "club": "Solar SC",
+   "id": "300545701",
+   "name": "SOLAR PRE-ECNL MABRY"
+  },
+  {
+   "club": "Atltico Dallas Youth",
+   "id": "300439692",
+   "name": "Atletico Dallas Youth Inspire Blue"
   },
   {
    "club": "Dallas Texans Soccer Club",
@@ -321,9 +351,9 @@
    "name": "Lubbock Fury"
   },
   {
-   "club": "Albion SC Dallas",
-   "id": "300521714",
-   "name": "Inspire"
+   "club": "Frisco Soccer Association",
+   "id": "300440017",
+   "name": "FSA Pretty Ponies (Hercules)"
   },
   {
    "club": "Dallas Surf SC",
@@ -331,34 +361,9 @@
    "name": "Dallas Surf WTX-"
   },
   {
-   "club": "Solar SC",
-   "id": "300545701",
-   "name": "SOLAR PRE-ECNL MABRY"
-  },
-  {
-   "club": "WTX Lightning SC",
-   "id": "300439715",
-   "name": "WTX Lightning SC"
-  },
-  {
-   "club": "Atltico Dallas Youth",
-   "id": "300439692",
-   "name": "Atletico Dallas Youth Inspire Blue"
-  },
-  {
-   "club": "Cosmos FC Academy",
-   "id": "300440852",
-   "name": "COSMOS FC WHITE (CAMARENA)"
-  },
-  {
-   "club": "San Angelo Extreme FC",
-   "id": "300439765",
-   "name": "San Angelo Extreme FC"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300439492",
-   "name": "REAL MADRID G"
+   "club": "Fever United",
+   "id": "300440002",
+   "name": "FC Pre-ECNL Girau"
   },
   {
    "club": "Sting Soccer Club",
@@ -366,34 +371,14 @@
    "name": "Sting Pre-ECNL Girau"
   },
   {
-   "club": "Del Rio Furia Soccer League",
-   "id": "12019292",
-   "name": "USA"
+   "club": "DKSC",
+   "id": "300553998",
+   "name": "DKSC WTX GUILLEN"
   },
   {
-   "club": "Challenge SC",
-   "id": "300533363",
-   "name": "Challenge East Pre-ECNL"
-  },
-  {
-   "club": "Fever United",
-   "id": "300440002",
-   "name": "FC Pre-ECNL Girau"
-  },
-  {
-   "club": "Houston Futsal Soccer Club",
-   "id": "300440915",
-   "name": "Houston Futsal SC Fixo"
-  },
-  {
-   "club": "Atltico Dallas Youth",
-   "id": "300439621",
-   "name": "Atletico Dallas Youth Pre ECNL Blanton (Pre GA)"
-  },
-  {
-   "club": "Elite Premier FC",
-   "id": "300439511",
-   "name": "Elite Premier FC"
+   "club": "FLAME FC",
+   "id": "300439623",
+   "name": "15G 42% 43%"
   },
   {
    "club": "Imperial Soccer Club",
@@ -406,24 +391,14 @@
    "name": "Pre-ECNL Grady"
   },
   {
-   "club": "FLAME FC",
-   "id": "300439623",
-   "name": "15G 42% 43%"
-  },
-  {
    "club": "Evolution",
    "id": "300439472",
    "name": "Moon"
   },
   {
-   "club": "FC Dallas Youth",
-   "id": "300439535",
-   "name": "FC Dallas Youth Navy"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439477",
-   "name": "Sting Pre-ECNL Richardson"
+   "club": "Elite Premier FC",
+   "id": "300439511",
+   "name": "Elite Premier FC"
   },
   {
    "club": "Sting Soccer Club",
@@ -431,84 +406,9 @@
    "name": "Sting Pre-ECNL Tapia"
   },
   {
-   "club": "Brazosport Youth Soccer Assn.",
-   "id": "300440811",
-   "name": "BYSA Lady Raptors"
-  },
-  {
-   "club": "DKSC",
-   "id": "300553998",
-   "name": "DKSC WTX GUILLEN"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440986",
-   "name": "Challenge STXCL EC Kingwood"
-  },
-  {
-   "club": "The Hive",
-   "id": "300479503",
-   "name": "The Hive"
-  },
-  {
-   "club": "Frisco Soccer Association",
-   "id": "300440017",
-   "name": "FSA Pretty Ponies (Hercules)"
-  },
-  {
-   "club": "HTX",
-   "id": "300521884",
-   "name": "HTX City W STXCL EC"
-  },
-  {
-   "club": "FWYSA",
-   "id": "11934262",
-   "name": "Lady Lions United"
-  },
-  {
-   "club": "MYSA",
-   "id": "300471658",
-   "name": "The United Red"
-  },
-  {
-   "club": "FC Dallas Youth",
-   "id": "300439597",
-   "name": "North White-"
-  },
-  {
-   "club": "Classics Elite SA",
-   "id": "300440822",
-   "name": "CE Regional"
-  },
-  {
-   "club": "Birds of Prey",
-   "id": "300439574",
-   "name": "Birds of Prey"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439911",
-   "name": "Sting Pre-ECNL Rey"
-  },
-  {
-   "club": "DKSC",
-   "id": "300439847",
-   "name": "DKSC PRE-ECNL ESQUIVEL"
-  },
-  {
-   "club": "Lubbock Matadors Youth Academy",
-   "id": "300439540",
-   "name": "LMYA Girls Flint"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440987",
-   "name": "Aggieland STXCL EC"
-  },
-  {
-   "club": "El Paso Locomotive FC",
-   "id": "300440865",
-   "name": "Locomotive FC Pre-ECNL"
+   "club": "Atltico Dallas Youth",
+   "id": "300439621",
+   "name": "Atletico Dallas Youth Pre ECNL Blanton (Pre GA)"
   },
   {
    "club": "Sting Soccer Club",
@@ -516,29 +416,74 @@
    "name": "Sting Pre-ECNL Hadwick Brave"
   },
   {
-   "club": "Lubbock Soccer",
-   "id": "300439703",
-   "name": "The Soccer Queens"
+   "club": "Sting Soccer Club",
+   "id": "300439477",
+   "name": "Sting Pre-ECNL Richardson"
   },
   {
-   "club": "Aledo Soccer Club",
-   "id": "300533267",
-   "name": "Aledo Soccer Club - Orange"
+   "club": "Challenge SC",
+   "id": "300533363",
+   "name": "Challenge East Pre-ECNL"
   },
   {
-   "club": "North Texas Elite SC",
-   "id": "300439549",
-   "name": "North Texas Elite Pina"
+   "club": "Houston Futsal Soccer Club",
+   "id": "300440915",
+   "name": "Houston Futsal SC Fixo"
   },
   {
-   "club": "FWYSA",
-   "id": "300521721",
-   "name": "ANGEL CITY FC"
+   "club": "Fort Worth All Stars FC",
+   "id": "12275712",
+   "name": "FW All Stars FC"
   },
   {
-   "club": "Houston Select SA",
-   "id": "300521882",
-   "name": "Houston Select EDPL"
+   "club": "FC Dallas Youth",
+   "id": "300439535",
+   "name": "FC Dallas Youth Navy"
+  },
+  {
+   "club": "FC Westlake",
+   "id": "300521888",
+   "name": "FC Westlake Elite North White STXCL WC"
+  },
+  {
+   "club": "Birds of Prey",
+   "id": "300439574",
+   "name": "Birds of Prey"
+  },
+  {
+   "club": "The Hive",
+   "id": "300479503",
+   "name": "The Hive"
+  },
+  {
+   "club": "Heir FC",
+   "id": "300521703",
+   "name": "Inspire"
+  },
+  {
+   "club": "Brazosport Youth Soccer Assn.",
+   "id": "300440811",
+   "name": "BYSA Lady Raptors"
+  },
+  {
+   "club": "Solar Soccer Club",
+   "id": "300439957",
+   "name": "SOLAR PRE-ECNL MABRY"
+  },
+  {
+   "club": "HTX",
+   "id": "300521884",
+   "name": "HTX City W STXCL EC"
+  },
+  {
+   "club": "FC Dallas Youth",
+   "id": "300439597",
+   "name": "North White-"
+  },
+  {
+   "club": "Challenge Soccer Club",
+   "id": "300440986",
+   "name": "Challenge STXCL EC Kingwood"
   },
   {
    "club": "FC Dallas Youth",
@@ -546,14 +491,119 @@
    "name": "Pre-ECNL Stark"
   },
   {
-   "club": "Atltico Dallas Youth",
-   "id": "300439694",
-   "name": "Pre-ECNL Welge"
+   "club": "Lubbock Matadors Youth Academy",
+   "id": "300439540",
+   "name": "LMYA Girls Flint"
+  },
+  {
+   "club": "Sting Soccer Club",
+   "id": "300439911",
+   "name": "Sting Pre-ECNL Rey"
   },
   {
    "club": "Lubbock Soccer",
    "id": "300439696",
    "name": "Sky Rush FC"
+  },
+  {
+   "club": "El Paso Locomotive FC",
+   "id": "300440865",
+   "name": "Locomotive FC Pre-ECNL"
+  },
+  {
+   "club": "Atltico Dallas Youth",
+   "id": "300439694",
+   "name": "Pre-ECNL Welge"
+  },
+  {
+   "club": "Skittles",
+   "id": "300439441",
+   "name": "West Texas Riot"
+  },
+  {
+   "club": "North Dallas Panthers",
+   "id": "300439467",
+   "name": "Panthers Black"
+  },
+  {
+   "club": "Sting Soccer Club",
+   "id": "300521708",
+   "name": "Sting Pre-ECNL Wong"
+  },
+  {
+   "club": "FC Dallas Youth",
+   "id": "300439510",
+   "name": "FC Dallas Youth Blue"
+  },
+  {
+   "club": "Lubbock Soccer",
+   "id": "300439703",
+   "name": "The Soccer Queens"
+  },
+  {
+   "club": "Birds of Prey",
+   "id": "300439457",
+   "name": "Minis"
+  },
+  {
+   "club": "DKSC",
+   "id": "300439847",
+   "name": "DKSC PRE-ECNL ESQUIVEL"
+  },
+  {
+   "club": "North Texas Elite SC",
+   "id": "300439549",
+   "name": "North Texas Elite Pina"
+  },
+  {
+   "club": "San Angelo Extreme FC",
+   "id": "300439765",
+   "name": "San Angelo Extreme FC"
+  },
+  {
+   "club": "TXMAMBAS Soccer Club",
+   "id": "300440791",
+   "name": "TXMambasG14/15"
+  },
+  {
+   "club": "Houston Select SA",
+   "id": "300521882",
+   "name": "Houston Select EDPL"
+  },
+  {
+   "club": "Aledo Soccer Club",
+   "id": "300533267",
+   "name": "Aledo Soccer Club - Orange"
+  },
+  {
+   "club": "Atltico Dallas Youth",
+   "id": "300439691",
+   "name": "Atletico Dallas Youth Pre-ECNL Blanton!"
+  },
+  {
+   "club": "Sting Austin",
+   "id": "300440913",
+   "name": "Sting Austin STXCL WC V Sanchez"
+  },
+  {
+   "club": "MYSA",
+   "id": "300471658",
+   "name": "The United Red"
+  },
+  {
+   "club": "Independent Teams - NTX",
+   "id": "300439581",
+   "name": "Red Flames FC"
+  },
+  {
+   "club": "Solar SC",
+   "id": "12275711",
+   "name": "Solar Carrillo.E"
+  },
+  {
+   "club": "Frisco Soccer Association",
+   "id": "300440021",
+   "name": "FSA Pink Lightning (Brandao)"
   },
   {
    "club": "HTX",
@@ -566,64 +616,9 @@
    "name": "LTFC Premier II STXCL WC"
   },
   {
-   "club": "FC Dallas Youth",
-   "id": "300439510",
-   "name": "FC Dallas Youth Blue"
-  },
-  {
-   "club": "Sting Austin",
-   "id": "300440913",
-   "name": "Sting Austin STXCL WC V Sanchez"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440851",
-   "name": "Lonestar STXCL WC Red NTH"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300521708",
-   "name": "Sting Pre-ECNL Wong"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300502801",
-   "name": "UNICORNS"
-  },
-  {
-   "club": "San Antonio City FC",
-   "id": "300533342",
-   "name": "SA City SC Red STXCL WC"
-  },
-  {
-   "club": "Skittles",
-   "id": "300439441",
-   "name": "West Texas Riot"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440854",
-   "name": "Lonestar STXCL WC Silver"
-  },
-  {
-   "club": "Atltico Dallas Youth",
-   "id": "300439691",
-   "name": "Atletico Dallas Youth Pre-ECNL Blanton!"
-  },
-  {
-   "club": "Independent Teams - NTX",
-   "id": "300439581",
-   "name": "Red Flames FC"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439466",
-   "name": "Sting WTX Abraham"
-  },
-  {
-   "club": "Birds of Prey",
-   "id": "300439457",
-   "name": "Minis"
+   "club": "Solar SC",
+   "id": "300439958",
+   "name": "SOLAR PRE-ECNL JAIME"
   },
   {
    "club": "Coppell Youth SA",
@@ -631,54 +626,14 @@
    "name": "Coppell FC Hernandez Red"
   },
   {
-   "club": "Weatherford SA",
-   "id": "300439544",
-   "name": "Reign"
+   "club": "Sidewinders FC",
+   "id": "300440830",
+   "name": "Sidewinders FC G"
   },
   {
-   "club": "Solar SC",
-   "id": "300439958",
-   "name": "SOLAR PRE-ECNL JAIME"
-  },
-  {
-   "club": "FC Dallas Youth",
-   "id": "300521650",
-   "name": "FC Dallas Youth Pre-ECNL Falcon"
-  },
-  {
-   "club": "TXMAMBAS Soccer Club",
-   "id": "300440791",
-   "name": "TXMambasG14/15"
-  },
-  {
-   "club": "Solar Soccer Club",
-   "id": "300439957",
-   "name": "SOLAR PRE-ECNL MABRY"
-  },
-  {
-   "club": "Frisco Soccer Association",
-   "id": "300440021",
-   "name": "FSA Pink Lightning (Brandao)"
-  },
-  {
-   "club": "SG1 Soccer Club",
-   "id": "300440902",
-   "name": "BLACK STXCL EC"
-  },
-  {
-   "club": "Texas Nova SC",
-   "id": "300439512",
-   "name": "Texas Nova SC"
-  },
-  {
-   "club": "Bronchos Elite",
-   "id": "300439541",
-   "name": "White"
-  },
-  {
-   "club": "Cabosa Shreveport United",
-   "id": "300439447",
-   "name": "Shreveport United Blue"
+   "club": "Lonestar Soccer Club",
+   "id": "300440851",
+   "name": "Lonestar STXCL WC Red NTH"
   },
   {
    "club": "Atltico Dallas Youth",
@@ -686,39 +641,9 @@
    "name": "Atletico Dallas Youth Corona"
   },
   {
-   "club": "Texas Warriors FC",
-   "id": "300439531",
-   "name": "Texas Warriors FC - Salas"
-  },
-  {
-   "club": "FC Dallas ETX",
-   "id": "300439602",
-   "name": "- Lackey"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300440012",
-   "name": "Paris / Owlettes"
-  },
-  {
-   "club": "HTX",
-   "id": "300521869",
-   "name": "HTX City E STXCL EC"
-  },
-  {
-   "club": "FC Dallas",
-   "id": "300439882",
-   "name": "Pre-ECNL Avant West"
-  },
-  {
-   "club": "Sidewinders FC",
-   "id": "300440830",
-   "name": "Sidewinders FC G"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300440010",
-   "name": "Eagles"
+   "club": "Frisco Soccer Association",
+   "id": "11973560",
+   "name": "FSA Lucky Charms (Flewelen)"
   },
   {
    "club": "Reign SC",
@@ -726,14 +651,29 @@
    "name": "REIGN SC Navy"
   },
   {
-   "club": "Dallas Texans West Texas",
-   "id": "300439470",
-   "name": "Dallas Texans WTX"
+   "club": "HTX",
+   "id": "300521869",
+   "name": "HTX City E STXCL EC"
   },
   {
    "club": "FC Dallas High Plains",
    "id": "300439728",
    "name": "FC Dallas High Plains Girls Red"
+  },
+  {
+   "club": "FC Dallas ETX",
+   "id": "300439602",
+   "name": "- Lackey"
+  },
+  {
+   "club": "Texas Warriors FC",
+   "id": "300439531",
+   "name": "Texas Warriors FC - Salas"
+  },
+  {
+   "club": "San Antonio City FC",
+   "id": "300533352",
+   "name": "SA City DMFC B GIRLS"
   },
   {
    "club": "Atltico Dallas Youth",
@@ -746,9 +686,89 @@
    "name": "Warren Park Dragons Girls"
   },
   {
+   "club": "Classics Elite SA",
+   "id": "300440822",
+   "name": "CE Regional"
+  },
+  {
+   "club": "El Paso Premier League",
+   "id": "300440905",
+   "name": "ATLAS V.F Girls"
+  },
+  {
+   "club": "Texas Nova SC",
+   "id": "300439512",
+   "name": "Texas Nova SC"
+  },
+  {
+   "club": "Dallas Texans West Texas",
+   "id": "300439470",
+   "name": "Dallas Texans WTX"
+  },
+  {
    "club": "Atltico Dallas Youth",
    "id": "300439493",
    "name": "Atletico Dallas Youth Williams"
+  },
+  {
+   "club": "FC Dallas Youth",
+   "id": "300521650",
+   "name": "FC Dallas Youth Pre-ECNL Falcon"
+  },
+  {
+   "club": "SG1 Soccer Club",
+   "id": "300440902",
+   "name": "BLACK STXCL EC"
+  },
+  {
+   "club": "HTX",
+   "id": "300533345",
+   "name": "HTX City S STXCL EC"
+  },
+  {
+   "club": "Pony Xpress Castillo",
+   "id": "11726191",
+   "name": "Pony Xpress Castillo - LD"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440854",
+   "name": "Lonestar STXCL WC Silver"
+  },
+  {
+   "club": "Texas Select Futbol Club",
+   "id": "300439576",
+   "name": "Texas Select FC Franco"
+  },
+  {
+   "club": "FC Dallas",
+   "id": "300439882",
+   "name": "Pre-ECNL Avant West"
+  },
+  {
+   "club": "Villarreal NTX",
+   "id": "300439625",
+   "name": "Villarreal NTX"
+  },
+  {
+   "club": "Lubbock Soccer",
+   "id": "300439698",
+   "name": "Hub City Dolphins"
+  },
+  {
+   "club": "Falls Town FC",
+   "id": "300439566",
+   "name": "15G"
+  },
+  {
+   "club": "Sting Soccer Club",
+   "id": "300439465",
+   "name": "Sting Silva"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440832",
+   "name": "Lonestar Gray Sth"
   },
   {
    "club": "Lonestar Soccer Club",
@@ -761,124 +781,9 @@
    "name": "BSYSC Panthers"
   },
   {
-   "club": "San Antonio City FC",
-   "id": "300533352",
-   "name": "SA City DMFC B GIRLS"
-  },
-  {
-   "club": "North Dallas Panthers",
-   "id": "300439467",
-   "name": "Panthers Black"
-  },
-  {
-   "club": "HTX",
-   "id": "300533345",
-   "name": "HTX City S STXCL EC"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300440007",
-   "name": "INTER / TROJAN PONIES"
-  },
-  {
-   "club": "Villarreal NTX",
-   "id": "300439625",
-   "name": "Villarreal NTX"
-  },
-  {
-   "club": "Falls Town FC",
-   "id": "300439566",
-   "name": "15G"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300467451",
-   "name": "Lonestar San Antonio Tapatios"
-  },
-  {
-   "club": "Pony Xpress Castillo",
-   "id": "11726191",
-   "name": "Pony Xpress Castillo - LD"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439465",
-   "name": "Sting Silva"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440834",
-   "name": "Lonestar Red Sth"
-  },
-  {
-   "club": "Frisco Soccer Association",
-   "id": "11973560",
-   "name": "FSA Lucky Charms (Flewelen)"
-  },
-  {
-   "club": "Dallas Surf SC",
-   "id": "300439643",
-   "name": "Dallas Surf White"
-  },
-  {
-   "club": "San Antonio City FC",
-   "id": "300440843",
-   "name": "SA City PG Elite BDT"
-  },
-  {
    "club": "FC Dallas",
    "id": "300439885",
    "name": "Pre-ECNL Stark"
-  },
-  {
-   "club": "Texas Select Futbol Club",
-   "id": "300439576",
-   "name": "Texas Select FC Franco"
-  },
-  {
-   "club": "Lubbock Soccer",
-   "id": "300439702",
-   "name": "Sweet Cleats"
-  },
-  {
-   "club": "BVB International Academy Texas",
-   "id": "300439878",
-   "name": "BVBIA Pre-ECNL Brown"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440832",
-   "name": "Lonestar Gray Sth"
-  },
-  {
-   "club": "New Braunfels YSA",
-   "id": "300440727",
-   "name": "NB Eagles Stars"
-  },
-  {
-   "club": "Southside Fury Soccer Academy",
-   "id": "300439471",
-   "name": "Juventus"
-  },
-  {
-   "club": "Atltico Dallas Youth",
-   "id": "300439546",
-   "name": "Atletico Dallas Youth TX-C Blue"
-  },
-  {
-   "club": "HTX",
-   "id": "300440893",
-   "name": "HTX Woodforest Gold I STXCL EC"
-  },
-  {
-   "club": "Dallas Surf SC",
-   "id": "300439647",
-   "name": "Dallas Surf Central"
-  },
-  {
-   "club": "BVB International Academy Texas",
-   "id": "300439596",
-   "name": "BVB Black (Oldham)"
   },
   {
    "club": "Henderson SA",
@@ -886,24 +791,59 @@
    "name": "Lady Lions"
   },
   {
-   "club": "Sting Soccer Club",
-   "id": "300521647",
-   "name": "Sting WTX R Franco"
+   "club": "Dallas Surf SC",
+   "id": "300439643",
+   "name": "Dallas Surf White"
   },
   {
-   "club": "North Dallas Panthers",
-   "id": "300439626",
-   "name": "Panthers Gold"
+   "club": "Houston Surf Soccer Club",
+   "id": "300552506",
+   "name": "Inspire"
   },
   {
-   "club": "El Paso Premier League",
-   "id": "300440905",
-   "name": "ATLAS V.F Girls"
+   "club": "San Antonio City FC",
+   "id": "300533342",
+   "name": "SA City SC Red STXCL WC"
   },
   {
-   "club": "Del Rio Furia Soccer League",
-   "id": "12019290",
-   "name": "Ireland"
+   "club": "Challenge Soccer Club",
+   "id": "300440997",
+   "name": "Challenge Red STXCL EC"
+  },
+  {
+   "club": "Cabosa Shreveport United",
+   "id": "300439447",
+   "name": "Shreveport United Blue"
+  },
+  {
+   "club": "Lubbock Soccer",
+   "id": "300439700",
+   "name": "Zebras"
+  },
+  {
+   "club": "San Antonio City FC",
+   "id": "300440843",
+   "name": "SA City PG Elite BDT"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300467451",
+   "name": "Lonestar San Antonio Tapatios"
+  },
+  {
+   "club": "Southside Fury Soccer Academy",
+   "id": "300439471",
+   "name": "Juventus"
+  },
+  {
+   "club": "Lubbock Soccer",
+   "id": "300439702",
+   "name": "Sweet Cleats"
+  },
+  {
+   "club": "San Angelo Elite",
+   "id": "300439639",
+   "name": "San Angelo Elite"
   },
   {
    "club": "RISE Soccer Club",
@@ -916,39 +856,34 @@
    "name": "Atletico Dallas Youth Pre-ECNL Perez"
   },
   {
-   "club": "SG1 Soccer Club",
-   "id": "300440735",
-   "name": "STXCL EC"
+   "club": "El Paso Locomotive FC",
+   "id": "300440871",
+   "name": "Locomotive EPPL McDougal"
   },
   {
    "club": "New Braunfels YSA",
-   "id": "300440768",
-   "name": "NB AJAX Girls White"
+   "id": "300440727",
+   "name": "NB Eagles Stars"
   },
   {
-   "club": "San Antonio City FC",
-   "id": "300533343",
-   "name": "Inspire W"
+   "club": "BVB International Academy Texas",
+   "id": "300439596",
+   "name": "BVB Black (Oldham)"
   },
   {
-   "club": "Challenge Soccer Club",
-   "id": "300440998",
-   "name": "Challenge STXCL EC Red East"
+   "club": "Sting Soccer Club",
+   "id": "300439466",
+   "name": "Sting WTX Abraham"
   },
   {
-   "club": "Lubbock Soccer",
-   "id": "300471652",
-   "name": "Pink Punishers"
+   "club": "Dallas Surf SC",
+   "id": "300439647",
+   "name": "Dallas Surf Central"
   },
   {
-   "club": "Lubbock Soccer",
-   "id": "300439700",
-   "name": "Zebras"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440997",
-   "name": "Challenge Red STXCL EC"
+   "club": "Vision FC",
+   "id": "300510052",
+   "name": "Vision FC"
   },
   {
    "club": "Challenge Soccer Club",
@@ -956,129 +891,14 @@
    "name": "East STXCL EC"
   },
   {
-   "club": "DKSC",
-   "id": "300545682",
-   "name": "DKSC WTX TERRAZAS"
-  },
-  {
-   "club": "Revolution Premier SC",
-   "id": "300439521",
-   "name": "Inspire Gold"
-  },
-  {
-   "club": "Pearland Soccer Club",
-   "id": "300440914",
-   "name": "PSC NextUp EDPL"
-  },
-  {
-   "club": "FC Dallas Midland-Odessa",
-   "id": "300439580",
-   "name": "FC Dallas Midland-Odessa G"
-  },
-  {
-   "club": "San Angelo Elite",
-   "id": "300439639",
-   "name": "San Angelo Elite"
-  },
-  {
    "club": "Lubbock Soccer",
-   "id": "300439698",
-   "name": "Hub City Dolphins"
+   "id": "300471652",
+   "name": "Pink Punishers"
   },
   {
-   "club": "FWYSA",
-   "id": "300439618",
-   "name": "Aledo Cats"
-  },
-  {
-   "club": "Birdville Area Youth Futbol Alliance",
-   "id": "300439593",
-   "name": "BAYFA Chaos"
-  },
-  {
-   "club": "Fighting Irish",
-   "id": "300533349",
-   "name": "Fighting Irish FC - Agar"
-  },
-  {
-   "club": "Reign SC",
-   "id": "300521705",
-   "name": "REIGN SC NAVY"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440983",
-   "name": "Cypress STXCL EC"
-  },
-  {
-   "club": "FC Dallas ETX",
-   "id": "300533262",
-   "name": "FCD-ETX Celso"
-  },
-  {
-   "club": "Dallas Legacy",
-   "id": "300439553",
-   "name": "Dallas Legacy Arroyo"
-  },
-  {
-   "club": "Frisco Soccer Association",
-   "id": "300440024",
-   "name": "FSA Unicorns FC (Ogunkoya)"
-  },
-  {
-   "club": "Solar SC",
-   "id": "300439608",
-   "name": "Solar Jaime White"
-  },
-  {
-   "club": "Independent Teams - NTX",
-   "id": "300545679",
-   "name": "Renegades"
-  },
-  {
-   "club": "Greater Wichita Falls Soccer Association",
-   "id": "300439660",
-   "name": "Greater Wichita Falls SA Bluebonnets"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300439550",
-   "name": "HOWLERS"
-  },
-  {
-   "club": "Frisco Soccer Association",
-   "id": "11973564",
-   "name": "FSA Tsunami Elite (Fuhrman)"
-  },
-  {
-   "club": "Centex Soccer Association",
-   "id": "300467807",
-   "name": "Fusion FC"
-  },
-  {
-   "club": "Del Rio Furia Soccer League",
-   "id": "12019289",
-   "name": "Belgium"
-  },
-  {
-   "club": "Dripping Springs Soccer DSYSA",
-   "id": "300440763",
-   "name": "DS Stars Maroon"
-  },
-  {
-   "club": "FWYSA",
-   "id": "300440011",
-   "name": "Lady Cavs"
-  },
-  {
-   "club": "Sting Austin",
-   "id": "300440912",
-   "name": "Sting Austin Driskill"
-  },
-  {
-   "club": "Juventus Premier Futbol Club",
-   "id": "300439469",
-   "name": "JPFC Ramos"
+   "club": "Lonestar ATX",
+   "id": "300553117",
+   "name": "Red NW B STXCL-WC"
   },
   {
    "club": "El Paso Premier League",
@@ -1086,54 +906,74 @@
    "name": "RSL NM"
   },
   {
-   "club": "Rosenberg FC",
-   "id": "300440747",
-   "name": "RB - Gold EDPL"
-  },
-  {
-   "club": "Solar SC",
-   "id": "300439953",
-   "name": "Solar - Orozco"
-  },
-  {
-   "club": "El Paso Locomotive FC",
-   "id": "300440871",
-   "name": "Locomotive EPPL McDougal"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439910",
-   "name": "Sting Pre-ECNL Alvarado"
-  },
-  {
-   "club": "Albion Hurricanes FC",
-   "id": "300440964",
-   "name": "AHFC Premier CF"
-  },
-  {
-   "club": "FC Westlake",
-   "id": "300521877",
-   "name": "FC Westlake North STXCL WC"
-  },
-  {
-   "club": "SG1 Soccer Club",
-   "id": "300440898",
-   "name": "BLACK STXCL EC"
+   "club": "Birdville Area Youth Futbol Alliance",
+   "id": "300439593",
+   "name": "BAYFA Chaos"
   },
   {
    "club": "Challenge Soccer Club",
-   "id": "300440991",
-   "name": "Challenge White STXCL EC"
+   "id": "300440987",
+   "name": "Aggieland STXCL EC"
   },
   {
-   "club": "903FC",
-   "id": "300439551",
-   "name": "Silos"
+   "club": "HTX",
+   "id": "300440893",
+   "name": "HTX Woodforest Gold I STXCL EC"
   },
   {
-   "club": "FC Dallas High Plains",
-   "id": "300439729",
-   "name": "FC Dallas High Plains Girls Blue"
+   "club": "Del Rio Furia Soccer League",
+   "id": "12019290",
+   "name": "Ireland"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440834",
+   "name": "Lonestar Red Sth"
+  },
+  {
+   "club": "Revolution Premier SC",
+   "id": "300439521",
+   "name": "Inspire Gold"
+  },
+  {
+   "club": "BVB International Academy Texas",
+   "id": "300439878",
+   "name": "BVBIA Pre-ECNL Brown"
+  },
+  {
+   "club": "FC Dallas Midland-Odessa",
+   "id": "300439580",
+   "name": "FC Dallas Midland-Odessa G"
+  },
+  {
+   "club": "Solar SC",
+   "id": "300439608",
+   "name": "Solar Jaime White"
+  },
+  {
+   "club": "SG1 Soccer Club",
+   "id": "300440735",
+   "name": "STXCL EC"
+  },
+  {
+   "club": "DKSC",
+   "id": "300545682",
+   "name": "DKSC WTX TERRAZAS"
+  },
+  {
+   "club": "Fighting Irish",
+   "id": "300533349",
+   "name": "Fighting Irish FC - Agar"
+  },
+  {
+   "club": "New Braunfels YSA",
+   "id": "300440768",
+   "name": "NB AJAX Girls White"
+  },
+  {
+   "club": "Del Rio Furia Soccer League",
+   "id": "12019289",
+   "name": "Belgium"
   },
   {
    "club": "El Paso Premier League",
@@ -1141,14 +981,134 @@
    "name": "Sun City Dash"
   },
   {
+   "club": "Independent Teams - NTX",
+   "id": "300545679",
+   "name": "Renegades"
+  },
+  {
+   "club": "Sting Soccer Club",
+   "id": "300521647",
+   "name": "Sting WTX R Franco"
+  },
+  {
+   "club": "Centex Soccer Association",
+   "id": "300467807",
+   "name": "Fusion FC"
+  },
+  {
+   "club": "Reign SC",
+   "id": "300521705",
+   "name": "REIGN SC NAVY"
+  },
+  {
+   "club": "Dallas Legacy",
+   "id": "300439553",
+   "name": "Dallas Legacy Arroyo"
+  },
+  {
+   "club": "Challenge Soccer Club",
+   "id": "300440983",
+   "name": "Cypress STXCL EC"
+  },
+  {
+   "club": "CH Walker/Shooting Stars",
+   "id": "300439468",
+   "name": "CH Walker/Shooting Stars"
+  },
+  {
+   "club": "Sting Austin",
+   "id": "300440912",
+   "name": "Sting Austin Driskill"
+  },
+  {
+   "club": "Sting Soccer Club",
+   "id": "300439910",
+   "name": "Sting Pre-ECNL Alvarado"
+  },
+  {
+   "club": "Solar SC",
+   "id": "300439953",
+   "name": "Solar - Orozco"
+  },
+  {
+   "club": "Frisco Soccer Association",
+   "id": "11973564",
+   "name": "FSA Tsunami Elite (Fuhrman)"
+  },
+  {
+   "club": "Greater Longview SA",
+   "id": "300439726",
+   "name": "Monarchs"
+  },
+  {
+   "club": "Dallas Surf SC",
+   "id": "12275714",
+   "name": "Dallas Surf Blue"
+  },
+  {
+   "club": "Atltico Dallas Youth",
+   "id": "300439546",
+   "name": "Atletico Dallas Youth TX-C Blue"
+  },
+  {
+   "club": "Frisco Soccer Association",
+   "id": "300440024",
+   "name": "FSA Unicorns FC (Ogunkoya)"
+  },
+  {
+   "club": "FC Dallas ETX",
+   "id": "300533262",
+   "name": "FCD-ETX Celso"
+  },
+  {
    "club": "Lonestar ATX",
    "id": "300553118",
    "name": "Red NW C STXCL-WC"
   },
   {
-   "club": "FIERCE United",
-   "id": "300440827",
-   "name": "FIERCE Elite"
+   "club": "Hurst United SA",
+   "id": "300439996",
+   "name": "FC Hurst United"
+  },
+  {
+   "club": "Greater Wichita Falls Soccer Association",
+   "id": "300439660",
+   "name": "Greater Wichita Falls SA Bluebonnets"
+  },
+  {
+   "club": "Pearland Soccer Club",
+   "id": "300440914",
+   "name": "PSC NextUp EDPL"
+  },
+  {
+   "club": "903FC",
+   "id": "300439551",
+   "name": "Silos"
+  },
+  {
+   "club": "Challenge Soccer Club",
+   "id": "300440991",
+   "name": "Challenge White STXCL EC"
+  },
+  {
+   "club": "Drifters FC",
+   "id": "300439486",
+   "name": "Drifters FC DeRieux"
+  },
+  {
+   "club": "Rosenberg FC",
+   "id": "300440747",
+   "name": "RB - Gold EDPL"
+  },
+  {
+   "club": "Sting Soccer Club",
+   "id": "300439483",
+   "name": "Sting WTX Alvarado"
+  },
+  {
+   "club": "FC Dallas High Plains",
+   "id": "300439729",
+   "name": "FC Dallas High Plains Girls Blue"
   },
   {
    "club": "Ennis SA",
@@ -1156,14 +1116,69 @@
    "name": "Lady Lions FC"
   },
   {
+   "club": "FIERCE United",
+   "id": "300440827",
+   "name": "FIERCE Elite"
+  },
+  {
+   "club": "North Dallas Panthers",
+   "id": "300439626",
+   "name": "Panthers Gold"
+  },
+  {
    "club": "FC Westlake",
-   "id": "300440874",
-   "name": "FC Westlake STXCL WC Blue"
+   "id": "300521877",
+   "name": "FC Westlake North STXCL WC"
+  },
+  {
+   "club": "Albion Hurricanes FC",
+   "id": "300440964",
+   "name": "AHFC Premier CF"
+  },
+  {
+   "club": "McKinney Soccer",
+   "id": "300439530",
+   "name": "MKY Lady Cardinals (McDaniel)"
+  },
+  {
+   "club": "Albion Hurricanes FC",
+   "id": "300440891",
+   "name": "AHFC CENTRAL PREMIER I STXCL EC"
+  },
+  {
+   "club": "Challenge Soccer Club",
+   "id": "300440998",
+   "name": "Challenge STXCL EC Red East"
+  },
+  {
+   "club": "Juventus Premier Futbol Club",
+   "id": "300439469",
+   "name": "JPFC Ramos"
+  },
+  {
+   "club": "Albion Hurricanes FC",
+   "id": "300440957",
+   "name": "AHFC EAST BLUE STXCL EC"
   },
   {
    "club": "El Paso Premier League",
    "id": "300533351",
    "name": "Nido Aguila Girls"
+  },
+  {
+   "club": "San Antonio City FC",
+   "id": "300533343",
+   "name": "Inspire W"
+  },
+  {
+   "club": "McKinney Soccer",
+   "id": "300439503",
+   "name": "MKY Flash (Smith)"
+  },
+  {
+   "club": "FC Westlake",
+   "id": "300440874",
+   "name": "FC Westlake STXCL WC Blue"
   },
   {
    "club": "HTX",
@@ -1176,149 +1191,14 @@
    "name": "AHFC CENTRAL PREMIER II STXCL EC"
   },
   {
-   "club": "Sting Soccer Club",
-   "id": "300439907",
-   "name": "Sting Pre-ECNL Robles"
-  },
-  {
-   "club": "Drifters FC",
-   "id": "300439486",
-   "name": "Drifters FC DeRieux"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440836",
-   "name": "Lonestar Black Nth"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439483",
-   "name": "Sting WTX Alvarado"
-  },
-  {
-   "club": "Hurst United SA",
-   "id": "300439996",
-   "name": "FC Hurst United"
-  },
-  {
-   "club": "Brazos valley soccer association",
-   "id": "300440750",
-   "name": "BVFC Champions"
-  },
-  {
-   "club": "Albion Hurricanes FC",
-   "id": "300440957",
-   "name": "AHFC EAST BLUE STXCL EC"
-  },
-  {
-   "club": "Greater Longview SA",
-   "id": "300439726",
-   "name": "Monarchs"
-  },
-  {
    "club": "Atltico Dallas Youth",
    "id": "300439514",
    "name": "Blue Pre ECNL Blanton-"
   },
   {
-   "club": "McKinney Soccer",
-   "id": "300439503",
-   "name": "MKY Flash (Smith)"
-  },
-  {
-   "club": "210 FC",
-   "id": "300440794",
-   "name": "FC"
-  },
-  {
-   "club": "Ennis SA",
-   "id": "300476624",
-   "name": "Ladies United W.F.C."
-  },
-  {
-   "club": "Dragons Soccer Club",
-   "id": "300440848",
-   "name": "Lady Dragons"
-  },
-  {
-   "club": "Dynamos Soccer Club",
-   "id": "300440932",
-   "name": "Dynamos STXCL EC"
-  },
-  {
-   "club": "Pflugerville FC",
-   "id": "300440739",
-   "name": "Pflugerville FC STXCL WC Green"
-  },
-  {
-   "club": "Lubbock Soccer",
-   "id": "300471653",
-   "name": "Kryptonite"
-  },
-  {
-   "club": "Dallas Texans Soccer Club",
-   "id": "300439474",
-   "name": "Waco Texans Girls"
-  },
-  {
-   "club": "Lions FC",
-   "id": "300440724",
-   "name": "LIONS FC STXCL WC"
-  },
-  {
-   "club": "Evolution",
-   "id": "300439640",
-   "name": "Watt"
-  },
-  {
-   "club": "FW International FC",
-   "id": "300439517",
-   "name": "FW International Futbol Club West"
-  },
-  {
-   "club": "HTX",
-   "id": "300440889",
-   "name": "Woodlands Black"
-  },
-  {
-   "club": "Atltico Dallas Youth",
-   "id": "11870050",
-   "name": "Atletico Dallas Youth Blue Pre-ECNL Blanton"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300439485",
-   "name": "Sting WTX Fernandez"
-  },
-  {
-   "club": "El Paso Premier League",
-   "id": "300533347",
-   "name": "El Paso Surf ML"
-  },
-  {
-   "club": "Dallas Surf SC",
-   "id": "300439649",
-   "name": "South"
-  },
-  {
-   "club": "Fortress Wolves FC",
-   "id": "300439571",
-   "name": "FWFC Strong"
-  },
-  {
-   "club": "LTFC",
-   "id": "300440810",
-   "name": "LTFC Black"
-  },
-  {
-   "club": "Independent Teams - NTX",
-   "id": "300521649",
-   "name": "Midlothian Legends SC"
-  },
-  {
-   "club": "NTX Celtic FC",
-   "id": "300439638",
-   "name": "NTX Celtic FC South Mapps"
+   "club": "SG1 Soccer Club",
+   "id": "300440898",
+   "name": "BLACK STXCL EC"
   },
   {
    "club": "Capital City SC",
@@ -1326,19 +1206,44 @@
    "name": "Inspire"
   },
   {
-   "club": "FC Dallas Youth",
-   "id": "300439547",
-   "name": "FC Dallas Youth Central"
+   "club": "Dragons Soccer Club",
+   "id": "300440848",
+   "name": "Lady Dragons"
   },
   {
-   "club": "Independent Teams - NTX",
-   "id": "300439446",
-   "name": "The Hive"
+   "club": "Ennis SA",
+   "id": "300476624",
+   "name": "Ladies United W.F.C."
   },
   {
-   "club": "McKinney Soccer",
-   "id": "300439530",
-   "name": "MKY Lady Cardinals (McDaniel)"
+   "club": "Lonestar Soccer Club",
+   "id": "300440836",
+   "name": "Lonestar Black Nth"
+  },
+  {
+   "club": "Lions FC",
+   "id": "300440724",
+   "name": "LIONS FC STXCL WC"
+  },
+  {
+   "club": "Sting Soccer Club",
+   "id": "300439907",
+   "name": "Sting Pre-ECNL Robles"
+  },
+  {
+   "club": "Aspire FC",
+   "id": "300553114",
+   "name": "AFC APEX Sky TSG"
+  },
+  {
+   "club": "Evolution",
+   "id": "300439640",
+   "name": "Watt"
+  },
+  {
+   "club": "El Paso Premier League",
+   "id": "300533347",
+   "name": "El Paso Surf ML"
   },
   {
    "club": "West Texas Rush Soccer Club",
@@ -1346,29 +1251,19 @@
    "name": "WTX Rush Blue"
   },
   {
-   "club": "NTX Celtic FC",
-   "id": "300550363",
-   "name": "NTX Celtic FC North Holden"
+   "club": "Atltico Dallas Youth",
+   "id": "11870050",
+   "name": "Atletico Dallas Youth Blue Pre-ECNL Blanton"
   },
   {
-   "club": "Albion Hurricanes FC",
-   "id": "300479507",
-   "name": "AHFC Premier W"
+   "club": "Dallas Texans Soccer Club",
+   "id": "300439474",
+   "name": "Waco Texans Girls"
   },
   {
-   "club": "CH Walker/Shooting Stars",
-   "id": "300439468",
-   "name": "CH Walker/Shooting Stars"
-  },
-  {
-   "club": "Santa Fe YSC",
-   "id": "300440796",
-   "name": "Stingrays FC"
-  },
-  {
-   "club": "LTFC",
-   "id": "300440802",
-   "name": "LTFC Red"
+   "club": "El Paso Premier League",
+   "id": "300440790",
+   "name": "Lady Pumas"
   },
   {
    "club": "FC Dallas",
@@ -1376,39 +1271,69 @@
    "name": "Pre-ECNL O'Malley"
   },
   {
-   "club": "DKSC",
-   "id": "300476033",
-   "name": "DKSC GARCIA"
+   "club": "NTX Celtic FC",
+   "id": "300550363",
+   "name": "NTX Celtic FC North Holden"
   },
   {
-   "club": "GLASA",
-   "id": "300439872",
-   "name": "FM Sirens"
+   "club": "Sting Soccer Club",
+   "id": "300439485",
+   "name": "Sting WTX Fernandez"
   },
   {
-   "club": "Coppell Youth SA",
-   "id": "300439754",
-   "name": "Coppell FC Campanella White"
-  },
-  {
-   "club": "Kingdom Football Academy",
-   "id": "300440896",
-   "name": "Kingdom Football Academy -"
-  },
-  {
-   "club": "Atltico Dallas Youth",
-   "id": "300439579",
-   "name": "Atletico Dallas Youth Moreno"
+   "club": "Klein SC",
+   "id": "300440808",
+   "name": "KSC-"
   },
   {
    "club": "HTX",
-   "id": "300521875",
-   "name": "HTX South Gold STXCL EC"
+   "id": "300440889",
+   "name": "Woodlands Black"
   },
   {
-   "club": "Albion Hurricanes FC",
-   "id": "300440779",
-   "name": "AHFC SW BLACK STXCL EC"
+   "club": "Lonestar Soccer Club",
+   "id": "300440862",
+   "name": "Lonestar Sportsmanship Nth"
+  },
+  {
+   "club": "Fortress Wolves FC",
+   "id": "300439571",
+   "name": "FWFC Strong"
+  },
+  {
+   "club": "FW International FC",
+   "id": "300439517",
+   "name": "FW International Futbol Club West"
+  },
+  {
+   "club": "Lubbock Soccer",
+   "id": "300471653",
+   "name": "Kryptonite"
+  },
+  {
+   "club": "Reign SC",
+   "id": "300533275",
+   "name": "REIGN SC GOLD"
+  },
+  {
+   "club": "FC Dallas Youth",
+   "id": "300439547",
+   "name": "FC Dallas Youth Central"
+  },
+  {
+   "club": "LTFC",
+   "id": "300440810",
+   "name": "LTFC Black"
+  },
+  {
+   "club": "Frisco Soccer Association",
+   "id": "300439449",
+   "name": "FSA FC Angels (Judah)"
+  },
+  {
+   "club": "210 FC",
+   "id": "300440794",
+   "name": "FC"
   },
   {
    "club": "GT United",
@@ -1416,19 +1341,49 @@
    "name": "GT United"
   },
   {
-   "club": "Valor FC",
-   "id": "300439495",
-   "name": "Valor FC"
+   "club": "NTX Celtic FC",
+   "id": "300439638",
+   "name": "NTX Celtic FC South Mapps"
   },
   {
-   "club": "Bulverde YSA",
-   "id": "300440751",
-   "name": "Relentless SC Girls"
+   "club": "Dripping Springs Soccer DSYSA",
+   "id": "300440763",
+   "name": "DS Stars Maroon"
   },
   {
-   "club": "Albion Hurricanes FC",
-   "id": "300440961",
-   "name": "AHFC SW BLUE STXCL EC"
+   "club": "Atltico Dallas Youth",
+   "id": "300439579",
+   "name": "Atletico Dallas Youth Moreno"
+  },
+  {
+   "club": "Dallas Surf SC",
+   "id": "300439649",
+   "name": "South"
+  },
+  {
+   "club": "Kingdom Football Academy",
+   "id": "300440896",
+   "name": "Kingdom Football Academy -"
+  },
+  {
+   "club": "Challenge Soccer Club",
+   "id": "300440996",
+   "name": "Challenge Cypress Red STXCL EC"
+  },
+  {
+   "club": "Coppell Youth SA",
+   "id": "300439754",
+   "name": "Coppell FC Campanella White"
+  },
+  {
+   "club": "DKSC",
+   "id": "300476033",
+   "name": "DKSC GARCIA"
+  },
+  {
+   "club": "Midland SA",
+   "id": "300439463",
+   "name": "Socc Monkeys"
   },
   {
    "club": "Sting Soccer Club",
@@ -1441,34 +1396,9 @@
    "name": "Frisco Fusion Blue"
   },
   {
-   "club": "Tyler Soccer Association",
-   "id": "300439440",
-   "name": "Tyler SA FC Pink Panthers"
-  },
-  {
-   "club": "Cooke County SA",
-   "id": "300481666",
-   "name": "Mean Green"
-  },
-  {
-   "club": "El Paso Premier League",
-   "id": "300440790",
-   "name": "Lady Pumas"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440996",
-   "name": "Challenge Cypress Red STXCL EC"
-  },
-  {
-   "club": "Albion Hurricanes FC",
-   "id": "300440891",
-   "name": "AHFC CENTRAL PREMIER I STXCL EC"
-  },
-  {
-   "club": "Dallas Surf SC",
-   "id": "300439650",
-   "name": "Dallas Surf Black"
+   "club": "Bulverde YSA",
+   "id": "300440751",
+   "name": "Relentless SC Girls"
   },
   {
    "club": "Sting Soccer Club",
@@ -1476,109 +1406,54 @@
    "name": "Sting Pre-ECNL M Lara"
   },
   {
-   "club": "Klein SC",
-   "id": "300440808",
-   "name": "KSC-"
+   "club": "Valor FC",
+   "id": "300439495",
+   "name": "Valor FC"
   },
   {
-   "club": "Stephenville SA",
-   "id": "300521713",
-   "name": "Stephenville FC"
+   "club": "Pflugerville FC",
+   "id": "300440739",
+   "name": "Pflugerville FC STXCL WC Green"
   },
   {
-   "club": "Hill Country United",
-   "id": "300440769",
-   "name": "HC United"
+   "club": "Cooke County SA",
+   "id": "300481666",
+   "name": "Mean Green"
   },
   {
-   "club": "GFI Academy",
-   "id": "300440743",
-   "name": "Inspire"
+   "club": "Greater NW Soccer Association",
+   "id": "300476031",
+   "name": "ASA Cheetahs"
   },
   {
-   "club": "Independent Teams - NTX",
-   "id": "300439509",
-   "name": "JC United FC Black"
+   "club": "Albion Hurricanes FC",
+   "id": "300479507",
+   "name": "AHFC Premier W"
   },
   {
-   "club": "Revolution Premier SC",
-   "id": "300521717",
-   "name": "Revolution Premier SC White"
+   "club": "Albion Hurricanes FC",
+   "id": "300440959",
+   "name": "AHFC EAST BLACK STXCL EC"
   },
   {
-   "club": "Frisco Soccer Association",
-   "id": "300439449",
-   "name": "FSA FC Angels (Judah)"
+   "club": "HTX",
+   "id": "300521875",
+   "name": "HTX South Gold STXCL EC"
   },
   {
-   "club": "Jacksonville SA",
-   "id": "300439499",
-   "name": "STKZ SC Alvarez"
+   "club": "Brazos valley soccer association",
+   "id": "300440750",
+   "name": "BVFC Champions"
   },
   {
-   "club": "RISE Soccer Club",
-   "id": "300440900",
-   "name": "RISE SC Volt STXCL EC"
+   "club": "Albion Hurricanes FC",
+   "id": "300440779",
+   "name": "AHFC SW BLACK STXCL EC"
   },
   {
-   "club": "Brownsville Opportunity Youth Soccer Association (BOYSA)",
-   "id": "300440948",
-   "name": "Six Shooters (G)"
-  },
-  {
-   "club": "Frisco Fusion",
-   "id": "300521645",
-   "name": "Frisco Fusion Blue"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440862",
-   "name": "Lonestar Sportsmanship Nth"
-  },
-  {
-   "club": "Legacy United FC 2",
-   "id": "300533269",
-   "name": "Legacy United FC"
-  },
-  {
-   "club": "Victoria Youth Soccer Organization",
-   "id": "300440844",
-   "name": "Fire"
-  },
-  {
-   "club": "Colleyville Soccer Association",
-   "id": "300439791",
-   "name": "Colleyville SA Pandas - Ott, Greene"
-  },
-  {
-   "club": "Cleburne",
-   "id": "300439814",
-   "name": "Cleburne Lady Knights"
-  },
-  {
-   "club": "Pony Xpress Castillo",
-   "id": "300521701",
-   "name": "Pony Xpress"
-  },
-  {
-   "club": "StrikerZ DFW",
-   "id": "300439536",
-   "name": "StrikerZ DFW Purple"
-  },
-  {
-   "club": "Independent Teams - NTX",
-   "id": "300439554",
-   "name": "JC United FC Gold"
-  },
-  {
-   "club": "Lake Highlands SA",
-   "id": "300439543",
-   "name": "Bugs"
-  },
-  {
-   "club": "HPSA Scots",
-   "id": "300439636",
-   "name": "HPSA Scots Navy"
+   "club": "LTFC",
+   "id": "300440802",
+   "name": "LTFC Red"
   },
   {
    "club": "Northeast Soccer League",
@@ -1586,34 +1461,109 @@
    "name": "WTX Rush NESL WHITE"
   },
   {
+   "club": "Dallas Surf SC",
+   "id": "300439650",
+   "name": "Dallas Surf Black"
+  },
+  {
+   "club": "Premier Futbol Academy of San Antonio",
+   "id": "300521874",
+   "name": "Premier FA STXCL WC"
+  },
+  {
    "club": "City of Forney",
    "id": "300439774",
    "name": "Dolphins - Cabrera"
   },
   {
-   "club": "Sting Corpus Christi",
-   "id": "300440881",
-   "name": "Sting CC Clitnovici"
+   "club": "Frisco Fusion",
+   "id": "300521645",
+   "name": "Frisco Fusion Blue"
   },
   {
-   "club": "Abilene Youth Sports Authority",
-   "id": "300483407",
-   "name": "Brown/Wildfires"
+   "club": "Independent Teams - NTX",
+   "id": "300439446",
+   "name": "The Hive"
   },
   {
-   "club": "HTX",
-   "id": "300440877",
-   "name": "Kingwood Gold"
+   "club": "GFI Academy",
+   "id": "300440743",
+   "name": "Inspire"
   },
   {
-   "club": "Fortress Wolves FC",
-   "id": "300439628",
-   "name": "FWFC Casey"
+   "club": "Stephenville SA",
+   "id": "300521713",
+   "name": "Stephenville FC"
   },
   {
-   "club": "Challenge Soccer Club",
-   "id": "300440989",
-   "name": "Aggieland Red STXCL EC"
+   "club": "Black Lions FC",
+   "id": "300440882",
+   "name": "LIONESSES"
+  },
+  {
+   "club": "Legacy United FC 2",
+   "id": "300533269",
+   "name": "Legacy United FC"
+  },
+  {
+   "club": "StrikerZ DFW",
+   "id": "300439536",
+   "name": "StrikerZ DFW Purple"
+  },
+  {
+   "club": "Tyler Soccer Association",
+   "id": "300469641",
+   "name": "Stars"
+  },
+  {
+   "club": "Independent Teams - NTX",
+   "id": "300521649",
+   "name": "Midlothian Legends SC"
+  },
+  {
+   "club": "Revolution Premier SC",
+   "id": "300521717",
+   "name": "Revolution Premier SC White"
+  },
+  {
+   "club": "Pony Xpress Castillo",
+   "id": "300521701",
+   "name": "Pony Xpress"
+  },
+  {
+   "club": "Jacksonville SA",
+   "id": "300439499",
+   "name": "STKZ SC Alvarez"
+  },
+  {
+   "club": "Independent Teams - NTX",
+   "id": "300439509",
+   "name": "JC United FC Black"
+  },
+  {
+   "club": "HPSA Scots",
+   "id": "300439636",
+   "name": "HPSA Scots Navy"
+  },
+  {
+   "club": "Houston Surf Soccer Club",
+   "id": "300440765",
+   "name": "Girls Black"
+  },
+  {
+   "club": "RISE Soccer Club",
+   "id": "300440900",
+   "name": "RISE SC Volt STXCL EC"
+  },
+  {
+   "club": "LTFC",
+   "id": "300440805",
+   "name": "LTFC White"
+  },
+  {
+   "club": "Santa Fe YSC",
+   "id": "300440796",
+   "name": "Stingrays FC"
   },
   {
    "club": "Denton Soccer Association",
@@ -1621,9 +1571,49 @@
    "name": "DSA Olympians FC"
   },
   {
-   "club": "Independent Teams - NTX",
-   "id": "300439641",
-   "name": "Freedom United Girls"
+   "club": "Sting Corpus Christi",
+   "id": "300440881",
+   "name": "Sting CC Clitnovici"
+  },
+  {
+   "club": "Tyler Soccer Association",
+   "id": "300439966",
+   "name": "Tyler SA Golden Girls"
+  },
+  {
+   "club": "Brownsville Opportunity Youth Soccer Association (BOYSA)",
+   "id": "300440948",
+   "name": "Six Shooters"
+  },
+  {
+   "club": "Hill Country United",
+   "id": "300440769",
+   "name": "HC United"
+  },
+  {
+   "club": "Challenge Soccer Club",
+   "id": "300440989",
+   "name": "Aggieland Red STXCL EC"
+  },
+  {
+   "club": "Lake Highlands SA",
+   "id": "300439543",
+   "name": "Bugs"
+  },
+  {
+   "club": "Georgetown Soccer Association",
+   "id": "300440857",
+   "name": "GSA Firehawks"
+  },
+  {
+   "club": "Albion Hurricanes FC",
+   "id": "300440892",
+   "name": "AHFC CENTRAL PREMIER III STXCL EC"
+  },
+  {
+   "club": "Abilene Youth Sports Authority",
+   "id": "300483407",
+   "name": "Brown/Wildfires"
   },
   {
    "club": "FAIRFIELD FC",
@@ -1631,9 +1621,54 @@
    "name": "FFC Osborne"
   },
   {
-   "club": "Lonestar Soccer Club",
-   "id": "300440821",
-   "name": "Lonestar White Nth"
+   "club": "Houston Surf Soccer Club",
+   "id": "300440785",
+   "name": "Girls White"
+  },
+  {
+   "club": "Centex Soccer Association",
+   "id": "300439591",
+   "name": "Speed Cats"
+  },
+  {
+   "club": "Soccer Central/AC River/SA Athenians",
+   "id": "300440910",
+   "name": "SA Athenians Girls"
+  },
+  {
+   "club": "Cleburne",
+   "id": "300439814",
+   "name": "Cleburne Lady Knights"
+  },
+  {
+   "club": "Independent Teams - NTX",
+   "id": "300439641",
+   "name": "Freedom United Girls"
+  },
+  {
+   "club": "Midlothian SA",
+   "id": "300439834",
+   "name": "Midlothian Leon"
+  },
+  {
+   "club": "Midland SA",
+   "id": "300439984",
+   "name": "Pink Huskies"
+  },
+  {
+   "club": "Fortress Wolves FC",
+   "id": "300439628",
+   "name": "FWFC Casey"
+  },
+  {
+   "club": "Mana FC",
+   "id": "300440826",
+   "name": "Rosa"
+  },
+  {
+   "club": "Victoria Youth Soccer Organization",
+   "id": "300440844",
+   "name": "Fire"
   },
   {
    "club": "FC Westlake",
@@ -1642,73 +1677,13 @@
   },
   {
    "club": "Lonestar Soccer Club",
-   "id": "300440831",
-   "name": "Lonestar Blue Nth"
-  },
-  {
-   "club": "Midland SA",
-   "id": "300439463",
-   "name": "Socc Monkeys"
-  },
-  {
-   "club": "Houston Surf Soccer Club",
-   "id": "300440765",
-   "name": "Girls Black"
-  },
-  {
-   "club": "Boerne Soccer Club",
-   "id": "300533355",
-   "name": "Boerne Soccer Club Red"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "300439532",
-   "name": "Arl Danner/Wildcats"
-  },
-  {
-   "club": "Black Lions FC",
-   "id": "300440882",
-   "name": "LIONESSES"
-  },
-  {
-   "club": "Black Lions FC",
-   "id": "300440937",
-   "name": "LIONESSES BLACK"
-  },
-  {
-   "club": "Centex Soccer Association",
-   "id": "300439591",
-   "name": "Speed Cats"
+   "id": "300440860",
+   "name": "Lonestar Leadership Nth"
   },
   {
    "club": "Albion Hurricanes FC",
-   "id": "300440959",
-   "name": "AHFC EAST BLACK STXCL EC"
-  },
-  {
-   "club": "Soccer Central/AC River/SA Athenians",
-   "id": "300440910",
-   "name": "SA Athenians Girls"
-  },
-  {
-   "club": "HTX",
-   "id": "300440804",
-   "name": "Central Gold"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440839",
-   "name": "Lonestar Black Sth"
-  },
-  {
-   "club": "Solar Soccer Club",
-   "id": "300533258",
-   "name": "Solar Carrillo.T"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440992",
-   "name": "Challenge East White STXCL EC"
+   "id": "300440961",
+   "name": "AHFC SW BLUE STXCL EC"
   },
   {
    "club": "BVB International Academy DFW",
@@ -1716,29 +1691,14 @@
    "name": "BVBIA DFW White"
   },
   {
-   "club": "Midlothian SA",
-   "id": "300439834",
-   "name": "Midlothian Leon"
-  },
-  {
-   "club": "Mansfield SA",
-   "id": "300439740",
-   "name": "Pink Panthers"
-  },
-  {
-   "club": "Houston Surf Soccer Club",
-   "id": "300440785",
-   "name": "Girls White"
-  },
-  {
-   "club": "Mana FC",
-   "id": "300440826",
-   "name": "Rosa"
-  },
-  {
    "club": "West Texas Storm United FC",
    "id": "300439874",
    "name": "WTX Storm United Academy Girls"
+  },
+  {
+   "club": "Tyler Soccer Association",
+   "id": "300439440",
+   "name": "Tyler SA FC Pink Panthers"
   },
   {
    "club": "Pflugerville FC",
@@ -1746,139 +1706,14 @@
    "name": "Pflugerville FC Blue"
   },
   {
-   "club": "FC Westlake",
-   "id": "300440879",
-   "name": "FC Westlake Liverpool"
+   "club": "Mansfield SA",
+   "id": "300439740",
+   "name": "Pink Panthers"
   },
   {
-   "club": "Pearland Soccer Club",
-   "id": "300440737",
-   "name": "PSC NextUp Elite"
-  },
-  {
-   "club": "Amarillo Rush SC",
-   "id": "300439453",
-   "name": "Amarillo Rush Jimenez"
-  },
-  {
-   "club": "LTFC",
-   "id": "300440805",
-   "name": "LTFC White"
-  },
-  {
-   "club": "El Paso Premier League",
-   "id": "300533336",
-   "name": "LADY REBELS"
-  },
-  {
-   "club": "G3 Soccer Club",
-   "id": "300440799",
-   "name": "Soccer"
-  },
-  {
-   "club": "Tyler Soccer Association",
-   "id": "300439966",
-   "name": "Tyler SA Golden Girls"
-  },
-  {
-   "club": "Albion Hurricanes FC",
-   "id": "300477700",
-   "name": "AHFC Premier CF"
-  },
-  {
-   "club": "Atltico Dallas Youth",
-   "id": "300439507",
-   "name": "Atletico Dallas Youth Riedell (CTX)"
-  },
-  {
-   "club": "Texas Rangers",
-   "id": "300439450",
-   "name": "TX Rangers FC Booker"
-  },
-  {
-   "club": "Georgetown Soccer Association",
-   "id": "300440857",
-   "name": "GSA Firehawks"
-  },
-  {
-   "club": "Houston Futsal Soccer Club",
-   "id": "300440916",
-   "name": "Houston Futsal SC Pivo"
-  },
-  {
-   "club": "Dallas Cosmos Soccer Club",
-   "id": "300439627",
-   "name": "Dallas Cosmos White"
-  },
-  {
-   "club": "Imperial Soccer Club",
-   "id": "300440975",
-   "name": "Imperial SC Red"
-  },
-  {
-   "club": "Greater NW Soccer Association",
-   "id": "300476031",
-   "name": "ASA Cheetahs"
-  },
-  {
-   "club": "GLASA",
-   "id": "300439869",
-   "name": "Seahorses"
-  },
-  {
-   "club": "GFI Academy",
-   "id": "300440734",
-   "name": "Girls Gold TW"
-  },
-  {
-   "club": "San Antonio City FC",
-   "id": "300440847",
-   "name": "SA City PG Elite KD"
-  },
-  {
-   "club": "McKinney Soccer",
-   "id": "300439508",
-   "name": "MKY Sharks (Jimenez)"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440873",
-   "name": "Lonestar Integrity Nth"
-  },
-  {
-   "club": "Aspire Football Club",
-   "id": "300533339",
-   "name": "Next Gen Girls Sky EDPL"
-  },
-  {
-   "club": "Independent Teams - NTX",
-   "id": "11945518",
-   "name": "Eclipse FC"
-  },
-  {
-   "club": "Heir FC",
-   "id": "300521704",
-   "name": "Inspire Black"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440860",
-   "name": "Lonestar Leadership Nth"
-  },
-  {
-   "club": "SA United Soccer Club",
-   "id": "300440792",
-   "name": "SA United Platinum"
-  },
-  {
-   "club": "SA United Soccer Club",
-   "id": "300440784",
-   "name": "SA United"
-  },
-  {
-   "club": "Albion Hurricanes FC",
-   "id": "300440838",
-   "name": "AHFC CENTRAL PREMIER IV STXCL EC"
+   "club": "Solar Soccer Club",
+   "id": "300533258",
+   "name": "Solar Carrillo.T"
   },
   {
    "club": "North Fort Worth Alliance SA",
@@ -1886,39 +1721,59 @@
    "name": "Mustangs"
   },
   {
-   "club": "Lonestar Soccer Club",
-   "id": "300440841",
-   "name": "Lonestar San Antonio Red"
+   "club": "Arlington Soccer Association",
+   "id": "300439532",
+   "name": "Arl Danner/Wildcats"
   },
   {
-   "club": "Evolution",
-   "id": "300439458",
-   "name": "Green"
+   "club": "Classics Elite SA",
+   "id": "300440795",
+   "name": "CE Champions"
+  },
+  {
+   "club": "Amarillo Rush SC",
+   "id": "300439453",
+   "name": "Amarillo Rush Jimenez"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440831",
+   "name": "Lonestar Blue Nth"
+  },
+  {
+   "club": "Imperial Soccer Club",
+   "id": "300440975",
+   "name": "Imperial SC Red"
+  },
+  {
+   "club": "Independent Teams - NTX",
+   "id": "300439554",
+   "name": "JC United FC Gold"
   },
   {
    "club": "FC Westlake",
-   "id": "300440883",
-   "name": "FC Westlake White"
+   "id": "300440879",
+   "name": "FC Westlake Liverpool"
   },
   {
-   "club": "Castroville United",
-   "id": "300440885",
-   "name": "Castroville United STXCL-WC"
+   "club": "Challenge Soccer Club",
+   "id": "300440992",
+   "name": "Challenge East White STXCL EC"
   },
   {
-   "club": "Texas Warriors FC",
-   "id": "300439476",
-   "name": "Texas Warriors FC Red"
+   "club": "HTX",
+   "id": "300440804",
+   "name": "Central Gold"
   },
   {
-   "club": "Dripping Springs Soccer DSYSA",
-   "id": "300440817",
-   "name": "DS Stars CTPL"
+   "club": "McKinney Soccer",
+   "id": "300439508",
+   "name": "MKY Sharks (Jimenez)"
   },
   {
-   "club": "Boerne SC",
-   "id": "300440755",
-   "name": "Boerne Soccer Club Navy"
+   "club": "GFI Academy",
+   "id": "300440734",
+   "name": "Girls Gold TW"
   },
   {
    "club": "Greater NW Soccer Association",
@@ -1926,9 +1781,89 @@
    "name": "ASA Lone Stars"
   },
   {
-   "club": "Albion Hurricanes FC",
-   "id": "300440892",
-   "name": "AHFC CENTRAL PREMIER III STXCL EC"
+   "club": "SA United Soccer Club",
+   "id": "300440784",
+   "name": "SA United"
+  },
+  {
+   "club": "Heir FC",
+   "id": "300521704",
+   "name": "Inspire Black"
+  },
+  {
+   "club": "Dallas Cosmos Soccer Club",
+   "id": "300439627",
+   "name": "Dallas Cosmos White"
+  },
+  {
+   "club": "Houston Futsal Soccer Club",
+   "id": "300440916",
+   "name": "Houston Futsal SC Pivo"
+  },
+  {
+   "club": "Black Lions FC",
+   "id": "300440937",
+   "name": "LIONESSES BLACK"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440859",
+   "name": "Lonestar Sportsmanship Sth"
+  },
+  {
+   "club": "Galaxy Soccer Club",
+   "id": "300440731",
+   "name": "GalaxySC Red"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440873",
+   "name": "Lonestar Integrity Nth"
+  },
+  {
+   "club": "Boerne Soccer Club",
+   "id": "300533355",
+   "name": "Boerne Soccer Club Red"
+  },
+  {
+   "club": "San Antonio City FC",
+   "id": "300440847",
+   "name": "SA City PG Elite KD"
+  },
+  {
+   "club": "Aspire Football Club",
+   "id": "300533339",
+   "name": "Next Gen Girls Sky EDPL"
+  },
+  {
+   "club": "Atltico Dallas Youth",
+   "id": "300439507",
+   "name": "Atletico Dallas Youth Riedell (CTX)"
+  },
+  {
+   "club": "G3 Soccer Club",
+   "id": "300440799",
+   "name": "Soccer"
+  },
+  {
+   "club": "El Paso Premier League",
+   "id": "300533336",
+   "name": "LADY REBELS"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440839",
+   "name": "Lonestar Black Sth"
+  },
+  {
+   "club": "FC Westlake",
+   "id": "300440883",
+   "name": "FC Westlake White"
+  },
+  {
+   "club": "Lonestar ATX",
+   "id": "300538010",
+   "name": "Royal NTH STXCL-WC"
   },
   {
    "club": "Allen Sports Association",
@@ -1936,24 +1871,89 @@
    "name": "The Stars (Bleris)"
   },
   {
+   "club": "Dallas Roma FC",
+   "id": "300550362",
+   "name": "Dallas Roma FC Girls"
+  },
+  {
    "club": "Midlothian SA",
    "id": "300439833",
    "name": "Midlothian Cheetahs"
   },
   {
-   "club": "Houston Surf Soccer Club",
-   "id": "300533364",
-   "name": "Houston Surf G Black"
+   "club": "Texas Warriors FC",
+   "id": "300439476",
+   "name": "Texas Warriors FC Red"
   },
   {
-   "club": "Leander YSA",
-   "id": "300440801",
-   "name": "Leander FC G Green"
+   "club": "Lonestar Soccer Club",
+   "id": "300440821",
+   "name": "Lonestar White Nth"
   },
   {
-   "club": "San Marcos AYS",
-   "id": "300440869",
-   "name": "Surge Elite Maroon"
+   "club": "Texoma Youth Soccer Association",
+   "id": "300476620",
+   "name": "Texoma Blaze"
+  },
+  {
+   "club": "SA United Soccer Club",
+   "id": "300440792",
+   "name": "SA United Platinum"
+  },
+  {
+   "club": "Henderson SA",
+   "id": "300439796",
+   "name": "Liverpool FC"
+  },
+  {
+   "club": "Pearland Soccer Club",
+   "id": "300440737",
+   "name": "PSC NextUp Elite"
+  },
+  {
+   "club": "Albion Hurricanes FC",
+   "id": "300477700",
+   "name": "AHFC Premier CF"
+  },
+  {
+   "club": "Texas Rangers",
+   "id": "300439450",
+   "name": "TX Rangers FC Booker"
+  },
+  {
+   "club": "Dripping Springs Soccer DSYSA",
+   "id": "300440817",
+   "name": "DS Stars CTPL"
+  },
+  {
+   "club": "Castroville United",
+   "id": "300440885",
+   "name": "Castroville United STXCL-WC"
+  },
+  {
+   "club": "Albion Hurricanes FC",
+   "id": "300440838",
+   "name": "AHFC CENTRAL PREMIER IV STXCL EC"
+  },
+  {
+   "club": "Evolution",
+   "id": "300439458",
+   "name": "Green"
+  },
+  {
+   "club": "Lonestar Soccer Club",
+   "id": "300440841",
+   "name": "Lonestar San Antonio Red"
+  },
+  {
+   "club": "Boerne SC",
+   "id": "300440755",
+   "name": "Boerne Soccer Club Navy"
+  },
+  {
+   "club": "Colleyville Soccer Association",
+   "id": "300439791",
+   "name": "Colleyville SA Pandas - Ott, Greene"
   },
   {
    "club": "Legion FC",
@@ -1961,14 +1961,14 @@
    "name": "Legion FC"
   },
   {
-   "club": "Midlothian Premier FC",
-   "id": "300439633",
-   "name": "Girls"
+   "club": "Frisco Soccer Association",
+   "id": "300440020",
+   "name": "FSA Frisco Stars (K Horn)"
   },
   {
-   "club": "Midland SA",
-   "id": "300439984",
-   "name": "Pink Huskies"
+   "club": "Steel United Texas",
+   "id": "300439464",
+   "name": "Steel United TX Pink"
   },
   {
    "club": "Texas Premier SC (STX)",
@@ -1977,13 +1977,18 @@
   },
   {
    "club": "Independent Teams - NTX",
-   "id": "300439538",
-   "name": "Hurricanes AC Pink"
+   "id": "11945518",
+   "name": "Eclipse FC"
   },
   {
-   "club": "LTFC",
-   "id": "300440800",
-   "name": "LTFC Premier II"
+   "club": "HTX",
+   "id": "300440877",
+   "name": "Kingwood Gold"
+  },
+  {
+   "club": "Midlothian Premier FC",
+   "id": "300439633",
+   "name": "Girls"
   },
   {
    "club": "GFI Academy",
@@ -1991,44 +1996,34 @@
    "name": "Girls Gold SB"
   },
   {
+   "club": "San Marcos AYS",
+   "id": "300440869",
+   "name": "Surge Elite Maroon"
+  },
+  {
+   "club": "LTFC",
+   "id": "300440800",
+   "name": "LTFC Premier II"
+  },
+  {
+   "club": "Houston Surf Soccer Club",
+   "id": "300533364",
+   "name": "Houston Surf G Black"
+  },
+  {
    "club": "Pearland Soccer Club",
    "id": "300533350",
    "name": "PSC NextUp Elite"
   },
   {
-   "club": "Steel United Texas",
-   "id": "300439464",
-   "name": "Steel United TX Pink"
+   "club": "Burleson",
+   "id": "300439784",
+   "name": "Next Level FC"
   },
   {
-   "club": "Henderson SA",
-   "id": "300439796",
-   "name": "Liverpool FC"
-  },
-  {
-   "club": "Classics Elite SA",
-   "id": "300440795",
-   "name": "CE Champions"
-  },
-  {
-   "club": "FC Dallas Youth",
-   "id": "300439480",
-   "name": "FC Dallas Youth White"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "300439795",
-   "name": "Arl Kidd/Texas United FC"
-  },
-  {
-   "club": "HTX",
-   "id": "300440887",
-   "name": "Woodlands White"
-  },
-  {
-   "club": "Georgetown Soccer Association",
-   "id": "300533346",
-   "name": "Force FC White"
+   "club": "Dynamos Soccer Club",
+   "id": "300440932",
+   "name": "Dynamos STXCL EC"
   },
   {
    "club": "Abilene Youth Sports Authority",
@@ -2036,9 +2031,19 @@
    "name": "Lee/Strikers"
   },
   {
-   "club": "City of Houston",
-   "id": "300440749",
-   "name": "H-Town Soccer Academy Milby"
+   "club": "FC Dallas Youth",
+   "id": "300439480",
+   "name": "FC Dallas Youth White"
+  },
+  {
+   "club": "McKinney Soccer",
+   "id": "300439539",
+   "name": "MKY Cheetahs (Atkinson)"
+  },
+  {
+   "club": "Independent Teams - NTX",
+   "id": "300439538",
+   "name": "Hurricanes AC Pink"
   },
   {
    "club": "GFI Academy",
@@ -2046,19 +2051,104 @@
    "name": "Inspire"
   },
   {
+   "club": "HTX",
+   "id": "300440887",
+   "name": "Woodlands White"
+  },
+  {
+   "club": "Independent Teams - NTX",
+   "id": "300521640",
+   "name": "Texas United FC G"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "300439795",
+   "name": "Arl Kidd/Texas United FC"
+  },
+  {
+   "club": "Greater Longview SA",
+   "id": "300439456",
+   "name": "Fusion FC"
+  },
+  {
+   "club": "Leander YSA",
+   "id": "300440801",
+   "name": "Leander FC G Green"
+  },
+  {
+   "club": "Georgetown Soccer Association",
+   "id": "300533346",
+   "name": "Force FC White"
+  },
+  {
    "club": "Desoto SA",
    "id": "300147345",
    "name": "DeSoto Manchester Ladies"
   },
   {
-   "club": "Tyler Soccer Association",
-   "id": "300469641",
-   "name": "Stars"
+   "club": "Texoma Youth Soccer Association",
+   "id": "300439938",
+   "name": "Sherman Twilight"
   },
   {
    "club": "Kernow Storm FC",
    "id": "300439578",
    "name": "Kernow Storm FC SCDL Fleming"
+  },
+  {
+   "club": "Mansfield SA",
+   "id": "300439741",
+   "name": "Thunder"
+  },
+  {
+   "club": "Rowlett YSA",
+   "id": "300439829",
+   "name": "Rowlett YSA Lady Saints"
+  },
+  {
+   "club": "Texoma Youth Soccer Association",
+   "id": "300439937",
+   "name": "Denison Sapphire"
+  },
+  {
+   "club": "Garland SA",
+   "id": "300439999",
+   "name": "Firecrackers"
+  },
+  {
+   "club": "Wylie Youth Soccer Association",
+   "id": "300439671",
+   "name": "WYSA Cheetahs"
+  },
+  {
+   "club": "SG1 Soccer Club",
+   "id": "300465251",
+   "name": "ORANGE STXCL EC"
+  },
+  {
+   "club": "HTX",
+   "id": "300440788",
+   "name": "South Black"
+  },
+  {
+   "club": "Athens Futbol Club",
+   "id": "300439607",
+   "name": "Athens Futbol Club Gonzalez"
+  },
+  {
+   "club": "BAYOU CITY LOBOS",
+   "id": "300440909",
+   "name": "Bayou City Lady Lobos"
+  },
+  {
+   "club": "Gregory Portland Futbol Club",
+   "id": "300440757",
+   "name": "GPFC Blue"
+  },
+  {
+   "club": "Midlothian SA",
+   "id": "300439533",
+   "name": "Midlothian Dysfunctional"
   },
   {
    "club": "FC Westlake",
@@ -2071,134 +2161,9 @@
    "name": "AHFC CENTRAL BLUE STXCL EC"
   },
   {
-   "club": "Galaxy Soccer Club",
-   "id": "300440731",
-   "name": "GalaxySC Red"
-  },
-  {
-   "club": "SG1 Soccer Club",
-   "id": "300465251",
-   "name": "ORANGE STXCL EC"
-  },
-  {
-   "club": "Garland SA",
-   "id": "300439999",
-   "name": "Firecrackers"
-  },
-  {
-   "club": "Frisco Soccer Association",
-   "id": "300440020",
-   "name": "FSA Frisco Stars (K Horn)"
-  },
-  {
-   "club": "Burleson",
-   "id": "300439784",
-   "name": "Next Level FC"
-  },
-  {
-   "club": "Mansfield SA",
-   "id": "300439741",
-   "name": "Thunder"
-  },
-  {
-   "club": "HTX",
-   "id": "300521873",
-   "name": "HTX Barbers Hill White STXCL EC"
-  },
-  {
-   "club": "Texoma Youth Soccer Association",
-   "id": "300476620",
-   "name": "Texoma Blaze"
-  },
-  {
-   "club": "Midlothian SA",
-   "id": "300439533",
-   "name": "Midlothian Dysfunctional"
-  },
-  {
-   "club": "Texoma Youth Soccer Association",
-   "id": "300439938",
-   "name": "Sherman Twilight"
-  },
-  {
-   "club": "Lonestar Soccer Club",
-   "id": "300440859",
-   "name": "Lonestar Sportsmanship Sth"
-  },
-  {
-   "club": "Gregory Portland Futbol Club",
-   "id": "300440757",
-   "name": "GPFC Blue"
-  },
-  {
-   "club": "Greater Longview SA",
-   "id": "300439456",
-   "name": "Fusion FC"
-  },
-  {
-   "club": "Inwood Soccer Club",
-   "id": "300440771",
-   "name": "ID ISC"
-  },
-  {
-   "club": "FIERCE United",
-   "id": "300440846",
-   "name": "FIERCE Navy"
-  },
-  {
-   "club": "Challenge Soccer Club",
-   "id": "300440993",
-   "name": "Navy STXCL EC"
-  },
-  {
-   "club": "BAYOU CITY LOBOS",
-   "id": "300440909",
-   "name": "Bayou City Lady Lobos"
-  },
-  {
-   "club": "Lake Cities SA",
-   "id": "300439892",
-   "name": "LCSA Grass Ballerinas"
-  },
-  {
-   "club": "Athens Futbol Club",
-   "id": "300439607",
-   "name": "Athens Futbol Club Gonzalez"
-  },
-  {
    "club": "Independent Teams - NTX",
    "id": "300481664",
    "name": "Eclipse FC"
-  },
-  {
-   "club": "Texas LoneStars Soccer Club",
-   "id": "300297561",
-   "name": "Texas LoneStars"
-  },
-  {
-   "club": "Victory Soccer Club",
-   "id": "300439555",
-   "name": "Girls West"
-  },
-  {
-   "club": "New Braunfels YSA",
-   "id": "300440789",
-   "name": "NB Bluebonnets"
-  },
-  {
-   "club": "Premier Futbol Academy of San Antonio",
-   "id": "300440756",
-   "name": "Premier FA Grey"
-  },
-  {
-   "club": "Texoma Youth Soccer Association",
-   "id": "300439937",
-   "name": "Denison Sapphire"
-  },
-  {
-   "club": "Sting Corpus Christi",
-   "id": "300440777",
-   "name": "Sting CC Schieck"
   },
   {
    "club": "Fever United",
@@ -2206,49 +2171,29 @@
    "name": "Fever United North Santamaria"
   },
   {
-   "club": "Alamo Heights Fort Sam Houston",
-   "id": "300469955",
-   "name": "AHFSH Wanderers Girls - Kiehne"
+   "club": "Plano YSA",
+   "id": "300466837",
+   "name": "PYSA Toros (Ramirez)"
   },
   {
-   "club": "Intensity Soccer FC",
-   "id": "300483428",
-   "name": "Intensity FC"
+   "club": "New Braunfels YSA",
+   "id": "300440789",
+   "name": "NB Bluebonnets"
   },
   {
-   "club": "Alamo Heights Fort Sam Houston",
-   "id": "300440974",
-   "name": "AHFSH Fire Red"
+   "club": "Victory Soccer Club",
+   "id": "300439555",
+   "name": "Girls West"
   },
   {
-   "club": "Katy YSC",
-   "id": "300468158",
-   "name": "Katy - Soria"
+   "club": "City of Houston",
+   "id": "300440749",
+   "name": "H-Town Soccer Academy Milby"
   },
   {
-   "club": "Lions FC",
-   "id": "300493251",
-   "name": "Lady Lions White"
-  },
-  {
-   "club": "HTX",
-   "id": "300440788",
-   "name": "South Black"
-  },
-  {
-   "club": "Red Oak Soccer Assoc.",
-   "id": "300439991",
-   "name": "Orange Crush"
-  },
-  {
-   "club": "McKinney Soccer",
-   "id": "300439539",
-   "name": "MKY Cheetahs (Atkinson)"
-  },
-  {
-   "club": "Katy YSC",
-   "id": "300441005",
-   "name": "Katy - Brown"
+   "club": "Challenge Soccer Club",
+   "id": "300440993",
+   "name": "Navy STXCL EC"
   },
   {
    "club": "McKinney Soccer",
@@ -2256,119 +2201,19 @@
    "name": "MKY Pink Lightning (Lewis)"
   },
   {
-   "club": "HTX",
-   "id": "300440845",
-   "name": "South White"
-  },
-  {
-   "club": "Katy YSC",
-   "id": "300441010",
-   "name": "Katy - Bish"
-  },
-  {
-   "club": "Inwood Soccer Club",
-   "id": "300440776",
-   "name": "ID Pursuit FC"
-  },
-  {
-   "club": "Town & Country Optimist Club",
-   "id": "300440868",
-   "name": "TC Premier SC White"
-  },
-  {
-   "club": "Garland SA",
-   "id": "300439998",
-   "name": "Wolves"
-  },
-  {
-   "club": "Plano YSA",
-   "id": "300466837",
-   "name": "PYSA Toros (Ramirez)"
-  },
-  {
-   "club": "Burleson",
-   "id": "300468722",
-   "name": "Hurricanes FC"
-  },
-  {
-   "club": "Katy YSC",
-   "id": "300441008",
-   "name": "Katy - Buzzaird"
+   "club": "FIERCE United",
+   "id": "300440846",
+   "name": "FIERCE Navy"
   },
   {
    "club": "HTX",
-   "id": "300533354",
-   "name": "HTX Woodlands White STXCL EC"
-  },
-  {
-   "club": "Barbers Hill Youth Soccer",
-   "id": "300440835",
-   "name": "BH CHAOS"
-  },
-  {
-   "club": "Texas Raptors Soccer Club",
-   "id": "300439445",
-   "name": "Texas Raptors SC"
-  },
-  {
-   "club": "FC Dallas East Paris",
-   "id": "12068395",
-   "name": "FC Dallas East Paris - Torres"
-  },
-  {
-   "club": "SA United Soccer Club",
-   "id": "300521879",
-   "name": "Black"
-  },
-  {
-   "club": "McKinney Soccer",
-   "id": "300465894",
-   "name": "MKY Fury (Breznicky)"
-  },
-  {
-   "club": "Bedford-Euless Soccer",
-   "id": "300439505",
-   "name": "BESA Eclipse"
-  },
-  {
-   "club": "Beaumont YSC",
-   "id": "300441018",
-   "name": "BMT JARAMILLO GIRLS"
+   "id": "300521873",
+   "name": "HTX Barbers Hill White STXCL EC"
   },
   {
    "club": "Keller Soccer Association",
    "id": "300439932",
    "name": "Keller Wyldstyle"
-  },
-  {
-   "club": "McKinney Soccer",
-   "id": "300439563",
-   "name": "MKY Guardians (Ochs)"
-  },
-  {
-   "club": "Meca United",
-   "id": "300439455",
-   "name": "Meca United"
-  },
-  {
-   "club": "New Braunfels YSA",
-   "id": "300440770",
-   "name": "NB AJAX Girls Blue"
-  },
-  {
-   "club": "Dallas Cosmos Soccer Club",
-   "id": "300479504",
-   "name": "Dallas Cosmos Red"
-  },
-  {
-   "club": "Mineral Wells Soccer",
-   "id": "300439815",
-   "name": "Hurricanes"
-  },
-  {
-   "club": "Flo Town Kicks",
-   "id": "300483431",
-   "name": "FTK SALSA DIII"
   },
   {
    "club": "Odessa SA",
@@ -2377,48 +2222,8 @@
   },
   {
    "club": "Premier Futbol Academy of San Antonio",
-   "id": "300440720",
-   "name": "Premier FA Green"
-  },
-  {
-   "club": "SCA RAYADAS",
-   "id": "300440837",
-   "name": "SCA RAYADAS"
-  },
-  {
-   "club": "Allen Sports Association",
-   "id": "300465897",
-   "name": "Cheetahs (Rodriguez )"
-  },
-  {
-   "club": "City of Forney",
-   "id": "300439772",
-   "name": "Minions"
-  },
-  {
-   "club": "Wylie Youth Soccer Association",
-   "id": "300439671",
-   "name": "WYSA Cheetahs"
-  },
-  {
-   "club": "Midlothian SA",
-   "id": "300439836",
-   "name": "Midlothian Warriors-Gonzalez"
-  },
-  {
-   "club": "Albion Hurricanes FC",
-   "id": "300440829",
-   "name": "AHFC Black C"
-  },
-  {
-   "club": "Rowlett YSA",
-   "id": "300439829",
-   "name": "Rowlett YSA Lady Saints"
-  },
-  {
-   "club": "Greater Randolph Area YSA",
-   "id": "12002546",
-   "name": "Grizzlies-J Ramirez"
+   "id": "300440756",
+   "name": "Premier FA Grey"
   },
   {
    "club": "Midland SA",
@@ -2426,14 +2231,69 @@
    "name": "Lady Rattlers"
   },
   {
-   "club": "MAFC",
-   "id": "300533360",
-   "name": "Royal STXCL EC"
+   "club": "City of Forney",
+   "id": "300521641",
+   "name": "Texas Gunners"
   },
   {
-   "club": "Frisco Soccer Association",
-   "id": "300440015",
-   "name": "FSA Heartbreakers (Toliver)"
+   "club": "Red Oak Soccer Assoc.",
+   "id": "300439991",
+   "name": "Orange Crush"
+  },
+  {
+   "club": "Lake Cities SA",
+   "id": "300439892",
+   "name": "LCSA Grass Ballerinas"
+  },
+  {
+   "club": "Town & Country Optimist Club",
+   "id": "300440868",
+   "name": "TC Premier SC White"
+  },
+  {
+   "club": "Alamo Heights Fort Sam Houston",
+   "id": "300440974",
+   "name": "AHFSH Fire Red"
+  },
+  {
+   "club": "HTX",
+   "id": "300440845",
+   "name": "South White"
+  },
+  {
+   "club": "Texas LoneStars Soccer Club",
+   "id": "300297561",
+   "name": "Texas LoneStars"
+  },
+  {
+   "club": "HTX",
+   "id": "300521887",
+   "name": "HTX Woodlands Black STXCL EC"
+  },
+  {
+   "club": "Inwood Soccer Club",
+   "id": "300440776",
+   "name": "ID Pursuit FC"
+  },
+  {
+   "club": "Bedford-Euless Soccer",
+   "id": "300439505",
+   "name": "BESA Eclipse"
+  },
+  {
+   "club": "Meca United",
+   "id": "300439455",
+   "name": "Meca United"
+  },
+  {
+   "club": "Alamo Heights Fort Sam Houston",
+   "id": "300469955",
+   "name": "AHFSH Wanderers Girls - Kiehne"
+  },
+  {
+   "club": "Barbers Hill Youth Soccer",
+   "id": "300440835",
+   "name": "BH CHAOS"
   },
   {
    "club": "Eagle Mountain SA",
@@ -2441,24 +2301,49 @@
    "name": "EMSA Chaos"
   },
   {
-   "club": "Keller Soccer Association",
-   "id": "300521642",
-   "name": "Keller Power SC"
+   "club": "McKinney Soccer",
+   "id": "300465894",
+   "name": "MKY Fury (Breznicky)"
+  },
+  {
+   "club": "Intensity Soccer FC",
+   "id": "300483428",
+   "name": "Intensity FC"
+  },
+  {
+   "club": "Sting Corpus Christi",
+   "id": "300440777",
+   "name": "Sting CC Schieck"
+  },
+  {
+   "club": "Lions FC",
+   "id": "300493251",
+   "name": "Lady Lions White"
+  },
+  {
+   "club": "Lonestar ATX",
+   "id": "300538011",
+   "name": "Royal STH STXCL-WC"
+  },
+  {
+   "club": "Garland SA",
+   "id": "300439998",
+   "name": "Wolves"
+  },
+  {
+   "club": "FC Dallas East Paris",
+   "id": "12068395",
+   "name": "FC Dallas East Paris - Torres"
   },
   {
    "club": "Burleson",
-   "id": "300557623",
-   "name": "Burleson Lady Bees"
+   "id": "300468722",
+   "name": "Hurricanes FC"
   },
   {
-   "club": "Cleburne",
-   "id": "300557624",
-   "name": "Cleburne Yellow Jackets"
-  },
-  {
-   "club": "Greater Longview SA",
-   "id": "300470358",
-   "name": "Reign FC"
+   "club": "HTX",
+   "id": "300533354",
+   "name": "HTX Woodlands White STXCL EC"
   },
   {
    "club": "Hurst United SA",
@@ -2466,34 +2351,14 @@
    "name": "HUSA Cyclones"
   },
   {
-   "club": "SEABREEZE YOUTH SOCCER",
-   "id": "300481672",
-   "name": "SB Arevalo"
-  },
-  {
-   "club": "FC Padre",
-   "id": "300440930",
-   "name": "| Vipers"
+   "club": "Texas Raptors Soccer Club",
+   "id": "300439445",
+   "name": "Texas Raptors SC"
   },
   {
    "club": "Midland SA",
    "id": "300439556",
    "name": "Dynasty"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "300439794",
-   "name": "Arl Siegal/FC Broncos"
-  },
-  {
-   "club": "Katy YSC",
-   "id": "300441007",
-   "name": "Katy - Cothran"
-  },
-  {
-   "club": "Hays Youth Soccer Association",
-   "id": "300440736",
-   "name": "Fusion Coach Laz"
   },
   {
    "club": "Midland SA",
@@ -2502,23 +2367,78 @@
   },
   {
    "club": "McKinney Soccer",
-   "id": "300439679",
-   "name": "MKY Ladybugs (Johnston)"
+   "id": "300439563",
+   "name": "MKY Guardians (Ochs)"
   },
   {
-   "club": "Sunnyvale Raiders Soccer Association",
-   "id": "300483406",
-   "name": "Sunnyvale Raiders"
+   "club": "Dallas Cosmos Soccer Club",
+   "id": "300479504",
+   "name": "Dallas Cosmos Red"
   },
   {
-   "club": "Colleyville Soccer Association",
-   "id": "300466312",
-   "name": "Colleyville SA Pride Football Club - - Streicher & Jensen"
+   "club": "SA United Soccer Club",
+   "id": "300521879",
+   "name": "Black"
   },
   {
-   "club": "Avanti Soccer Academy",
-   "id": "300439527",
-   "name": "Avanti SA West"
+   "club": "Frisco Soccer Association",
+   "id": "300440015",
+   "name": "FSA Heartbreakers (Toliver)"
+  },
+  {
+   "club": "Mineral Wells Soccer",
+   "id": "300439815",
+   "name": "Hurricanes"
+  },
+  {
+   "club": "Inwood Soccer Club",
+   "id": "300440771",
+   "name": "ID ISC"
+  },
+  {
+   "club": "Midlothian SA",
+   "id": "300439836",
+   "name": "Midlothian Warriors-Gonzalez"
+  },
+  {
+   "club": "Greater Longview SA",
+   "id": "300470358",
+   "name": "Reign FC"
+  },
+  {
+   "club": "Allen Sports Association",
+   "id": "300465897",
+   "name": "Cheetahs (Rodriguez )"
+  },
+  {
+   "club": "New Braunfels YSA",
+   "id": "300440770",
+   "name": "NB AJAX Girls Blue"
+  },
+  {
+   "club": "Flo Town Kicks",
+   "id": "300483431",
+   "name": "FTK SALSA DIII"
+  },
+  {
+   "club": "Keller Soccer Association",
+   "id": "300521642",
+   "name": "Keller Power SC"
+  },
+  {
+   "club": "SEABREEZE YOUTH SOCCER",
+   "id": "300481672",
+   "name": "SB Arevalo"
+  },
+  {
+   "club": "Cleburne",
+   "id": "300557624",
+   "name": "Cleburne Yellow Jackets"
+  },
+  {
+   "club": "Burleson",
+   "id": "300557623",
+   "name": "Burleson Lady Bees"
   },
   {
    "club": "Texoma Youth Soccer Association",
@@ -2526,109 +2446,34 @@
    "name": "Sherman Pink Diamonds"
   },
   {
-   "club": "Santa Fe Youth Soccer",
-   "id": "300465903",
-   "name": "SFYS Valkyries"
+   "club": "Katy YSC",
+   "id": "300468158",
+   "name": "Katy - Soria"
   },
   {
-   "club": "Bulverde YSA",
-   "id": "300440899",
-   "name": "Strive G"
+   "club": "FC Padre",
+   "id": "300440930",
+   "name": "| Vipers"
   },
   {
-   "club": "LTFC",
-   "id": "300440952",
-   "name": "LTYA Rockstars (Edwards)"
+   "club": "SCA RAYADAS",
+   "id": "300440837",
+   "name": "SCA RAYADAS"
   },
   {
-   "club": "Burleson",
-   "id": "300439779",
-   "name": "Little Marvels"
+   "club": "Premier Futbol Academy of San Antonio",
+   "id": "300440720",
+   "name": "Premier FA Green"
   },
   {
-   "club": "Frisco Soccer Association",
-   "id": "300440022",
-   "name": "FSA Royals FC (R Allen)"
-  },
-  {
-   "club": "Northeast Soccer League",
-   "id": "300551976",
-   "name": "City SC El Paso"
-  },
-  {
-   "club": "Greater NW Soccer Association",
-   "id": "300481665",
-   "name": "GNWSA Blaze"
-  },
-  {
-   "club": "Irving Soccer Association",
-   "id": "12003075",
-   "name": "IRVING BLACK EAGLES GR"
-  },
-  {
-   "club": "Colleyville Soccer Association",
-   "id": "300466836",
-   "name": "Colleyville SA Pixies - Rowntree, Shevchuk, Da Silva"
-  },
-  {
-   "club": "Stephenville SA",
-   "id": "300439942",
-   "name": "Thunderbirds"
-  },
-  {
-   "club": "Waxahachie SA",
-   "id": "300468425",
-   "name": "Strikers"
-  },
-  {
-   "club": "Pflugerville AYSL",
-   "id": "11940771",
-   "name": "PAYSL Honey Badgers"
-  },
-  {
-   "club": "FIERCE United",
-   "id": "300440842",
-   "name": "FIERCE Grey"
-  },
-  {
-   "club": "City of Forney",
-   "id": "300469327",
-   "name": "Black Panthers - Mcpherson"
-  },
-  {
-   "club": "Greater NW Soccer Association",
-   "id": "11967845",
-   "name": "GNWSA United"
-  },
-  {
-   "club": "Colleyville Soccer Association",
-   "id": "300439496",
-   "name": "Colleyville SA Rockets - - Sherzer and Utorka"
-  },
-  {
-   "club": "Soccer Centro",
-   "id": "300289038",
-   "name": "SOCCER CENTRO"
+   "club": "Albion Hurricanes FC",
+   "id": "300440829",
+   "name": "AHFC Black C"
   },
   {
    "club": "Greater Randolph Area YSA",
-   "id": "300440901",
-   "name": "ROADRUNNERS (PETERSON)"
-  },
-  {
-   "club": "Greater Longview SA",
-   "id": "12006187",
-   "name": "Sidekicks"
-  },
-  {
-   "club": "Sting Corpus Christi",
-   "id": "11949283",
-   "name": "Sting CC Recreational"
-  },
-  {
-   "club": "Greater NW Soccer Association",
-   "id": "11967843",
-   "name": "ASA Savages"
+   "id": "12002546",
+   "name": "Grizzlies-J Ramirez"
   },
   {
    "club": "Wylie Youth Soccer Association",
@@ -2636,14 +2481,89 @@
    "name": "WYSA Dragons (Hevel)"
   },
   {
-   "club": "Greater Randolph Area YSA",
-   "id": "12002549",
-   "name": "The Champions-A. Deleon"
+   "club": "Burleson",
+   "id": "300439779",
+   "name": "Little Marvels"
   },
   {
-   "club": "Georgetown Soccer Association",
-   "id": "300440824",
-   "name": "GSA Sirens"
+   "club": "Katy YSC",
+   "id": "300441008",
+   "name": "Katy - Buzzaird"
+  },
+  {
+   "club": "McKinney Soccer",
+   "id": "300439679",
+   "name": "MKY Ladybugs (Johnston)"
+  },
+  {
+   "club": "City of Forney",
+   "id": "300439772",
+   "name": "Minions"
+  },
+  {
+   "club": "Tyler Soccer Association",
+   "id": "300553999",
+   "name": "Tyler SA Diamonds"
+  },
+  {
+   "club": "MAFC",
+   "id": "300533360",
+   "name": "Royal STXCL EC"
+  },
+  {
+   "club": "Katy YSC",
+   "id": "300441010",
+   "name": "Katy - Bish"
+  },
+  {
+   "club": "Frisco Soccer Association",
+   "id": "300440022",
+   "name": "FSA Royals FC (R Allen)"
+  },
+  {
+   "club": "Colleyville Soccer Association",
+   "id": "300466836",
+   "name": "Colleyville SA Pixies - Rowntree, Shevchuk, Da Silva"
+  },
+  {
+   "club": "Colleyville Soccer Association",
+   "id": "300466312",
+   "name": "Colleyville SA Pride Football Club - - Streicher & Jensen"
+  },
+  {
+   "club": "Colleyville Soccer Association",
+   "id": "300439496",
+   "name": "Colleyville SA Rockets - - Sherzer and Utorka"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "300439794",
+   "name": "Arl Siegal/FC Broncos"
+  },
+  {
+   "club": "Sunnyvale Raiders Soccer Association",
+   "id": "300483406",
+   "name": "Sunnyvale Raiders"
+  },
+  {
+   "club": "Avanti Soccer Academy",
+   "id": "300439527",
+   "name": "Avanti SA West"
+  },
+  {
+   "club": "Santa Fe Youth Soccer",
+   "id": "300465903",
+   "name": "SFYS Valkyries"
+  },
+  {
+   "club": "Katy YSC",
+   "id": "300441005",
+   "name": "Katy - Brown"
+  },
+  {
+   "club": "Hays Youth Soccer Association",
+   "id": "300440736",
+   "name": "Fusion Coach Laz"
   },
   {
    "club": "Allen Sports Association",
@@ -2651,39 +2571,14 @@
    "name": "Hurricanes (Szeto)"
   },
   {
-   "club": "New Braunfels YSA",
-   "id": "300440819",
-   "name": "NB Storm"
+   "club": "LTFC",
+   "id": "300440952",
+   "name": "LTYA Rockstars (Edwards)"
   },
   {
-   "club": "Waxahachie SA",
-   "id": "300468426",
-   "name": "Diamondbacks FC"
-  },
-  {
-   "club": "Greater Randolph Area YSA",
-   "id": "12002548",
-   "name": "Shooting Stars ( MUNOZ)"
-  },
-  {
-   "club": "Keller Soccer Association",
-   "id": "300439931",
-   "name": "Keller Strykers"
-  },
-  {
-   "club": "Hurst United SA",
-   "id": "300439537",
-   "name": "HUSA Lightning Bolts (f: Hot Shots)"
-  },
-  {
-   "club": "FC Padre",
-   "id": "300298347",
-   "name": "| Panthers"
-  },
-  {
-   "club": "Katy YSC",
-   "id": "300441009",
-   "name": "Katy - DaSilva"
+   "club": "Greater NW Soccer Association",
+   "id": "300481665",
+   "name": "GNWSA Blaze"
   },
   {
    "club": "Rowlett YSA",
@@ -2691,9 +2586,54 @@
    "name": "Sharks"
   },
   {
+   "club": "Bulverde YSA",
+   "id": "300440899",
+   "name": "Strive G"
+  },
+  {
+   "club": "Beaumont YSC",
+   "id": "300441018",
+   "name": "BMT JARAMILLO GIRLS"
+  },
+  {
    "club": "San Angelo SA",
    "id": "300439809",
    "name": "Goal Diggers SA"
+  },
+  {
+   "club": "Stephenville SA",
+   "id": "300439942",
+   "name": "Thunderbirds"
+  },
+  {
+   "club": "Keller Soccer Association",
+   "id": "300521643",
+   "name": "Keller Elite"
+  },
+  {
+   "club": "Greater Longview SA",
+   "id": "12006187",
+   "name": "Sidekicks"
+  },
+  {
+   "club": "New Braunfels YSA",
+   "id": "300534274",
+   "name": "NB Thunderbolts"
+  },
+  {
+   "club": "Waxahachie SA",
+   "id": "300468425",
+   "name": "Strikers"
+  },
+  {
+   "club": "Katy YSC",
+   "id": "300441007",
+   "name": "Katy - Cothran"
+  },
+  {
+   "club": "Pflugerville AYSL",
+   "id": "11940771",
+   "name": "PAYSL Honey Badgers"
   },
   {
    "club": "Birdville Area Youth Futbol Alliance",
@@ -2701,19 +2641,64 @@
    "name": "BAYFA Storm"
   },
   {
-   "club": "Mesquite SA",
-   "id": "300557622",
-   "name": "Mesquite SA Chelsea East"
+   "club": "Greater NW Soccer Association",
+   "id": "11967843",
+   "name": "ASA Savages"
+  },
+  {
+   "club": "City of Forney",
+   "id": "300469327",
+   "name": "Black Panthers - Mcpherson"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300440009",
+   "name": "MUNICH / HONEYBEES"
+  },
+  {
+   "club": "FIERCE United",
+   "id": "300440842",
+   "name": "FIERCE Grey"
+  },
+  {
+   "club": "Irving Soccer Association",
+   "id": "12003075",
+   "name": "IRVING BLACK EAGLES GR"
+  },
+  {
+   "club": "FC Padre",
+   "id": "300298347",
+   "name": "| Panthers"
+  },
+  {
+   "club": "Greater Randolph Area YSA",
+   "id": "300440901",
+   "name": "ROADRUNNERS (PETERSON)"
   },
   {
    "club": "Keller Soccer Association",
-   "id": "300439930",
-   "name": "Keller Monarchs"
+   "id": "300439931",
+   "name": "Keller Strykers"
   },
   {
-   "club": "Mesquite SA",
-   "id": "300469328",
-   "name": "Shooting Stars"
+   "club": "Sting Corpus Christi",
+   "id": "11949283",
+   "name": "Sting CC Recreational"
+  },
+  {
+   "club": "Weatherford SA",
+   "id": "300439544",
+   "name": "Reign"
+  },
+  {
+   "club": "Greater NW Soccer Association",
+   "id": "11967845",
+   "name": "GNWSA United"
+  },
+  {
+   "club": "Waxahachie SA",
+   "id": "300468426",
+   "name": "Diamondbacks FC"
   },
   {
    "club": "Bedford-Euless Soccer",
@@ -2721,9 +2706,39 @@
    "name": "BESA Blue Belles"
   },
   {
-   "club": "Elgin Youth Soccer Association",
-   "id": "300440922",
-   "name": "Elgin United- Molina G"
+   "club": "Grapevine Southlake SA",
+   "id": "300439731",
+   "name": "GSSA Texas Tornadoes"
+  },
+  {
+   "club": "Northeast Soccer League",
+   "id": "300551976",
+   "name": "City SC El Paso"
+  },
+  {
+   "club": "Georgetown Soccer Association",
+   "id": "300440824",
+   "name": "GSA Sirens"
+  },
+  {
+   "club": "Soccer Centro",
+   "id": "300289038",
+   "name": "SOCCER CENTRO"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300440005",
+   "name": "CHELSEA / PINK PANTHERS"
+  },
+  {
+   "club": "New Braunfels YSA",
+   "id": "300440819",
+   "name": "NB Storm"
+  },
+  {
+   "club": "Mesquite SA",
+   "id": "300557622",
+   "name": "Mesquite SA Chelsea East"
   },
   {
    "club": "Eagle Mountain SA",
@@ -2731,19 +2746,104 @@
    "name": "EMSA Fury"
   },
   {
-   "club": "Grapevine Southlake SA",
-   "id": "300439731",
-   "name": "GSSA Texas Tornadoes"
-  },
-  {
    "club": "Bedford-Euless Soccer",
    "id": "300439823",
    "name": "BESA Cats"
   },
   {
+   "club": "Greater Randolph Area YSA",
+   "id": "12002549",
+   "name": "The Champions-A. Deleon"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300439492",
+   "name": "REAL MADRID G"
+  },
+  {
+   "club": "FWYSA",
+   "id": "11934262",
+   "name": "Lady Lions United"
+  },
+  {
+   "club": "Keller Soccer Association",
+   "id": "300439930",
+   "name": "Keller Monarchs"
+  },
+  {
+   "club": "Greater Randolph Area YSA",
+   "id": "12002548",
+   "name": "Shooting Stars ( MUNOZ)"
+  },
+  {
+   "club": "Hurst United SA",
+   "id": "300439537",
+   "name": "HUSA Lightning Bolts (f: Hot Shots)"
+  },
+  {
+   "club": "Mesquite SA",
+   "id": "300469328",
+   "name": "Shooting Stars"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300502801",
+   "name": "UNICORNS"
+  },
+  {
+   "club": "Rowlett YSA",
+   "id": "300439828",
+   "name": "Cartwheels"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300521721",
+   "name": "ANGEL CITY FC"
+  },
+  {
+   "club": "Elgin Youth Soccer Association",
+   "id": "300440922",
+   "name": "Elgin United- Molina G"
+  },
+  {
    "club": "Hurst United SA",
    "id": "300439997",
    "name": "HUSA Trinity Blaze"
+  },
+  {
+   "club": "Katy YSC",
+   "id": "300441009",
+   "name": "Katy - DaSilva"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300440012",
+   "name": "Paris / Owlettes"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300440010",
+   "name": "Eagles"
+  },
+  {
+   "club": "San Angelo SA",
+   "id": "300439810",
+   "name": "Venom SA"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300439618",
+   "name": "Aledo Cats"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300440007",
+   "name": "INTER / TROJAN PONIES"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300439550",
+   "name": "HOWLERS"
   },
   {
    "club": "North Austin Soccer Alliance",
@@ -2756,19 +2856,14 @@
    "name": "NASA Austin Axolotl"
   },
   {
-   "club": "Rowlett YSA",
-   "id": "300439828",
-   "name": "Cartwheels"
-  },
-  {
-   "club": "San Angelo SA",
-   "id": "300439810",
-   "name": "Venom SA"
-  },
-  {
    "club": "San Angelo SA",
    "id": "300439808",
    "name": "Fury SA"
+  },
+  {
+   "club": "FWYSA",
+   "id": "300440011",
+   "name": "Lady Cavs"
   },
   {
    "club": "Leander YSA",
@@ -2951,11 +3046,6 @@
    "name": "FSA The Shamrocks (P Phillips) Flewelen"
   },
   {
-   "club": "Drifters FC",
-   "id": "11769624",
-   "name": "Herrera"
-  },
-  {
    "club": "Pflugerville AYSL",
    "id": "11770281",
    "name": "Dragons"
@@ -2964,11 +3054,6 @@
    "club": "Pflugerville AYSL",
    "id": "11770282",
    "name": "Honey Badgers"
-  },
-  {
-   "club": "Pflugerville AYSL",
-   "id": "11770283",
-   "name": "Lions"
   },
   {
    "club": "Big Country SA",
@@ -3521,6 +3606,11 @@
    "name": "Houston Futsal SC Pivo"
   },
   {
+   "club": "Houston Surf Soccer Club",
+   "id": "12261567",
+   "name": "G White I"
+  },
+  {
    "club": "Club America",
    "id": "12265595",
    "name": "Nido Dallas East Silos"
@@ -3639,26 +3729,6 @@
    "club": "Sting Soccer Club",
    "id": "12275710",
    "name": "Sting Wong"
-  },
-  {
-   "club": "Solar SC",
-   "id": "12275711",
-   "name": "Solar Carrillo.E"
-  },
-  {
-   "club": "Fort Worth All Stars FC",
-   "id": "12275712",
-   "name": "FW All Stars FC"
-  },
-  {
-   "club": "Dallas Cosmos Soccer Club",
-   "id": "12275713",
-   "name": "Dallas Cosmos Navy (TX)"
-  },
-  {
-   "club": "Dallas Surf SC",
-   "id": "12275714",
-   "name": "Dallas Surf Blue"
   },
   {
    "club": "Dallas Surf SC",
@@ -3826,16 +3896,6 @@
    "name": "Atletico Dallas Youth TX-C"
   },
   {
-   "club": "FLAME FC",
-   "id": "12287447",
-   "name": "FLAME FC"
-  },
-  {
-   "club": "West Texas Mambas Academy",
-   "id": "12287451",
-   "name": "WTX MAMBAS CORTEZ"
-  },
-  {
    "club": "Sunnyvale Raiders Soccer Association",
    "id": "12288176",
    "name": "Sunnyvale Raiders Dougherty"
@@ -3919,11 +3979,6 @@
    "club": "Reign SC",
    "id": "12299935",
    "name": "REIGN SC SILVER"
-  },
-  {
-   "club": "NTX Celtic FC",
-   "id": "12299941",
-   "name": "NTX Celtic FC North Adams"
   },
   {
    "club": "HPSA Scots",
@@ -4696,11 +4751,6 @@
    "name": "U11USA"
   },
   {
-   "club": "Duncanville SA",
-   "id": "15503300",
-   "name": "DSA NTX Celtic Redic"
-  },
-  {
    "club": "Garland SA",
    "id": "15517950",
    "name": "Garland SA Wolves"
@@ -5011,11 +5061,6 @@
    "name": "Coppell Youth SA LEOPARDS"
   },
   {
-   "club": "Lady Royals FC",
-   "id": "300244455",
-   "name": "Lady Royals FC"
-  },
-  {
    "club": "HTX",
    "id": "300252384",
    "name": "Blizzard Ballers"
@@ -5029,6 +5074,11 @@
    "club": "Big Country SA",
    "id": "300439524",
    "name": "T.Walker/Wonder Girls"
+  },
+  {
+   "club": "Bronchos Elite",
+   "id": "300439541",
+   "name": "White"
   },
   {
    "club": "Independent Teams - NTX",
@@ -5137,13 +5187,18 @@
   },
   {
    "club": "GLASA",
-   "id": "300439870",
-   "name": "TEXAS LIGHTNING"
+   "id": "300439869",
+   "name": "Seahorses"
   },
   {
    "club": "GLASA",
    "id": "300439871",
    "name": "Rainbow Cobras"
+  },
+  {
+   "club": "GLASA",
+   "id": "300439872",
+   "name": "FM Sirens"
   },
   {
    "club": "Heart of Texas Soccer",
@@ -5431,29 +5486,9 @@
    "name": "HTX City NW STXCL EC"
   },
   {
-   "club": "Vision FC",
-   "id": "300510052",
-   "name": "Vision FC"
-  },
-  {
    "club": "Dallas Deportivo FC",
    "id": "300510054",
    "name": "Dallas Deportivo F.C."
-  },
-  {
-   "club": "Independent Teams - NTX",
-   "id": "300521640",
-   "name": "Texas United FC G"
-  },
-  {
-   "club": "City of Forney",
-   "id": "300521641",
-   "name": "Texas Gunners"
-  },
-  {
-   "club": "Keller Soccer Association",
-   "id": "300521643",
-   "name": "Keller Elite"
   },
   {
    "club": "Dallas Surf SC",
@@ -5506,11 +5541,6 @@
    "name": "Houston Rangers PreGA"
   },
   {
-   "club": "Premier Futbol Academy of San Antonio",
-   "id": "300521874",
-   "name": "Premier FA STXCL WC"
-  },
-  {
    "club": "Lonestar ATX",
    "id": "300521876",
    "name": "Lonestar ATX Gold NTH STXCL-WC"
@@ -5534,16 +5564,6 @@
    "club": "HTX",
    "id": "300521886",
    "name": "HTX Kingwood Black STXCL EC"
-  },
-  {
-   "club": "HTX",
-   "id": "300521887",
-   "name": "HTX Woodlands Black STXCL EC"
-  },
-  {
-   "club": "FC Westlake",
-   "id": "300521888",
-   "name": "FC Westlake Elite North White STXCL WC"
   },
   {
    "club": "Coyotes FC Academy",
@@ -5599,11 +5619,6 @@
    "club": "Solar Soccer Club",
    "id": "300533272",
    "name": "Solar Fiashetti"
-  },
-  {
-   "club": "Reign SC",
-   "id": "300533275",
-   "name": "REIGN SC GOLD"
   },
   {
    "club": "Club America",
@@ -5669,21 +5684,6 @@
    "club": "Cornerstone Youth Sports",
    "id": "300533359",
    "name": "CYS Warriors Lady Girls"
-  },
-  {
-   "club": "New Braunfels YSA",
-   "id": "300534274",
-   "name": "NB Thunderbolts"
-  },
-  {
-   "club": "Lonestar ATX",
-   "id": "300538010",
-   "name": "Royal NTH STXCL-WC"
-  },
-  {
-   "club": "Lonestar ATX",
-   "id": "300538011",
-   "name": "Royal STH STXCL-WC"
   },
   {
    "club": "Sting Soccer Club",
@@ -5766,11 +5766,6 @@
    "name": "Alpha Forms Pre ECNL"
   },
   {
-   "club": "Lonestar SAT",
-   "id": "300545697",
-   "name": "ECNL RL STXCL"
-  },
-  {
    "club": "El Paso Locomotive FC",
    "id": "300545698",
    "name": "Pre ECNL"
@@ -5816,11 +5811,6 @@
    "name": "FC Westlake STXCL WC Central White"
   },
   {
-   "club": "Dallas Roma FC",
-   "id": "300550362",
-   "name": "Dallas Roma FC Girls"
-  },
-  {
    "club": "San Antonio City FC",
    "id": "300551361",
    "name": "SA City SC Blue STXCL WC"
@@ -5836,19 +5826,9 @@
    "name": "Colleyville SA Pandas - - Ott, Greene"
   },
   {
-   "club": "Houston Surf Soccer Club",
-   "id": "300552506",
-   "name": "Inspire"
-  },
-  {
    "club": "Houston Select SA",
    "id": "300553113",
    "name": "Girls TYSL"
-  },
-  {
-   "club": "Aspire FC",
-   "id": "300553114",
-   "name": "AFC APEX Sky TSG"
   },
   {
    "club": "Alamo Heights Fort Sam Houston",
@@ -5861,16 +5841,6 @@
    "name": "DSA Las Toritas FC Castillo"
   },
   {
-   "club": "Lonestar ATX",
-   "id": "300553117",
-   "name": "Red NW B STXCL-WC"
-  },
-  {
-   "club": "Tyler Soccer Association",
-   "id": "300553999",
-   "name": "Tyler SA Diamonds"
-  },
-  {
    "club": "SGA",
    "id": "300556880",
    "name": "SGA Inspire"
@@ -5879,6 +5849,21 @@
    "club": "Del Rio Furia Soccer League",
    "id": "300556881",
    "name": "Austin FC"
+  },
+  {
+   "club": "NTX Celtic FC",
+   "id": "300558371",
+   "name": "NTX Celtic FC North Adams"
+  },
+  {
+   "club": "Duncanville SA",
+   "id": "300558372",
+   "name": "DSA NTX Celtic Redic"
+  },
+  {
+   "club": "West Texas Mambas Academy",
+   "id": "300559346",
+   "name": "WTX MAMBAS CORTEZ"
   }
  ]
 }

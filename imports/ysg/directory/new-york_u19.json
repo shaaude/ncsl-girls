@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-13T15:26:43.608887+00:00",
+ "fetched_at": "2026-10-20T12:54:26.486754+00:00",
  "state": "NY",
  "state_slug": "new-york",
  "teams": [
@@ -16,19 +16,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "NY Rush",
-   "id": "300336295",
-   "name": "NY Rush Select DPL"
-  },
-  {
    "club": "FC Westchester",
    "id": "300336159",
    "name": "NAL"
   },
   {
-   "club": "Coliseum Soccer Club",
-   "id": "300336158",
-   "name": "Coliseum DPL"
+   "club": "NY Rush",
+   "id": "300336295",
+   "name": "NY Rush Select DPL"
   },
   {
    "club": "Empire State Youth Soccer Club",
@@ -36,14 +31,9 @@
    "name": "Alleycats ECNL RL"
   },
   {
-   "club": "Fox Soccer Academy Premier",
-   "id": "300336171",
-   "name": "FSA Nirvana"
-  },
-  {
-   "club": "Soaring Capital Soccer Club",
-   "id": "300336310",
-   "name": "Soaring Capital Impact"
+   "club": "Coliseum Soccer Club",
+   "id": "300336158",
+   "name": "Coliseum DPL"
   },
   {
    "club": "Lakefront Soccer Club",
@@ -51,9 +41,14 @@
    "name": "Lakefront SC Carpenter"
   },
   {
-   "club": "New Rochelle Football Club",
-   "id": "300336192",
-   "name": "Girls"
+   "club": "Soaring Capital Soccer Club",
+   "id": "300336310",
+   "name": "Soaring Capital Impact"
+  },
+  {
+   "club": "Fox Soccer Academy Premier",
+   "id": "300336171",
+   "name": "FSA Nirvana"
   },
   {
    "club": "Empire City Soccer Academy",
@@ -61,9 +56,9 @@
    "name": "Empire City Girls"
   },
   {
-   "club": "Smithtown Kickers Soccer Club",
-   "id": "300528439",
-   "name": "LI Slammers Girls NPL"
+   "club": "New Rochelle Football Club",
+   "id": "300336192",
+   "name": "Girls"
   },
   {
    "club": "East Coast Surf",
@@ -76,9 +71,19 @@
    "name": "G2008/07"
   },
   {
+   "club": "Cedar Stars Academy (Staten Island)",
+   "id": "300469175",
+   "name": "G2008/9"
+  },
+  {
    "club": "NY Rush",
    "id": "300336294",
    "name": "Syracuse"
+  },
+  {
+   "club": "Smithtown Kickers Soccer Club",
+   "id": "300528439",
+   "name": "LI Slammers Girls NPL"
   },
   {
    "club": "BW Gottschee Academy",
@@ -86,9 +91,9 @@
    "name": "Blau Weiss Gottschee Girls"
   },
   {
-   "club": "Cedar Stars Academy (Staten Island)",
-   "id": "300469175",
-   "name": "G2008/9"
+   "club": "Empire State Youth Soccer Club",
+   "id": "300528442",
+   "name": "Alleycats NPL"
   },
   {
    "club": "NY Rush",
@@ -101,16 +106,6 @@
    "name": "G2010"
   },
   {
-   "club": "Empire State Youth Soccer Club",
-   "id": "300528442",
-   "name": "Alleycats NPL"
-  },
-  {
-   "club": "RNY FC Youth",
-   "id": "300336293",
-   "name": "RNYFC DPL"
-  },
-  {
    "club": "Amherst Soccer Association",
    "id": "300336289",
    "name": "Amherst Red - Griffin"
@@ -121,9 +116,24 @@
    "name": "PRO"
   },
   {
+   "club": "Quickstrike FC",
+   "id": "300336199",
+   "name": "Quickstrike FC NPL"
+  },
+  {
    "club": "Atlantic United SB/LGN SC",
    "id": "300528441",
    "name": "Blue (Lightning)"
+  },
+  {
+   "club": "FC Dutchmen",
+   "id": "300336203",
+   "name": "FC Dutchmen Surf FORCE DPL"
+  },
+  {
+   "club": "RNY FC Youth",
+   "id": "300336293",
+   "name": "RNYFC DPL"
   },
   {
    "club": "Syracuse Development Academy",
@@ -136,24 +146,9 @@
    "name": "FSA Nirvana"
   },
   {
-   "club": "Quickstrike FC",
-   "id": "300336199",
-   "name": "Quickstrike FC NPL"
-  },
-  {
    "club": "Westchester Rush",
    "id": "300336170",
    "name": "NY Rush Westchester Girls"
-  },
-  {
-   "club": "FC Dutchmen",
-   "id": "300336203",
-   "name": "FC Dutchmen Surf FORCE DPL"
-  },
-  {
-   "club": "Brooklyn United Academy",
-   "id": "300336164",
-   "name": "Academy"
   },
   {
    "club": "North Country Soccer Club",
@@ -166,14 +161,19 @@
    "name": "FC Copa Academy Brooklyn Black"
   },
   {
-   "club": "NY Rush",
-   "id": "300336304",
-   "name": "Rochester Rush Girls"
+   "club": "Brooklyn United Academy",
+   "id": "300336164",
+   "name": "Academy"
   },
   {
    "club": "East Islip Soccer Club",
    "id": "300088829",
    "name": "Red Devils United"
+  },
+  {
+   "club": "NY Rush",
+   "id": "300336304",
+   "name": "Rochester Rush Girls"
   },
   {
    "club": "North Country F.C.",

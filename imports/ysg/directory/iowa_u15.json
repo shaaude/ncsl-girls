@@ -1,10 +1,15 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T14:56:42.784067+00:00",
+ "fetched_at": "2026-10-20T12:24:26.474068+00:00",
  "state": "IA",
  "state_slug": "iowa",
  "teams": [
+  {
+   "club": "VSA Rush",
+   "id": "12238589",
+   "name": "GA"
+  },
   {
    "club": "VSA Rush",
    "id": "300377527",
@@ -41,6 +46,16 @@
    "name": "ECNL"
   },
   {
+   "club": "Pearl City Soccer Club",
+   "id": "300377528",
+   "name": "Pearl City"
+  },
+  {
+   "club": "Sporting Iowa Central",
+   "id": "300542058",
+   "name": "Sporting Iowa ECNL RL"
+  },
+  {
    "club": "Northwest Iowa Soccer Club",
    "id": "300478122",
    "name": "NWISC Galaxy"
@@ -51,29 +66,19 @@
    "name": "UFA DSM Elite (IA)"
   },
   {
-   "club": "Sporting Iowa Central",
-   "id": "300542058",
-   "name": "Sporting Iowa ECNL RL"
-  },
-  {
    "club": "AYSO United Cedar Rapids",
    "id": "300377507",
    "name": "AYSO United Girls NL"
   },
   {
-   "club": "Pearl City Soccer Club",
-   "id": "300377528",
-   "name": "Pearl City"
+   "club": "FC United",
+   "id": "11663235",
+   "name": "ECNL RL"
   },
   {
    "club": "FC America",
    "id": "300377506",
    "name": "FCA FIRE"
-  },
-  {
-   "club": "FC United",
-   "id": "11663235",
-   "name": "ECNL RL"
   },
   {
    "club": "FC United",
@@ -86,19 +91,14 @@
    "name": "VSA Girls Premier"
   },
   {
-   "club": "WIN Surf",
-   "id": "300377564",
-   "name": "WIN Surf (IA)"
-  },
-  {
    "club": "Apex Soccer Academy",
    "id": "300472979",
    "name": "Apex Girls Red"
   },
   {
-   "club": "Sporting Iowa East",
-   "id": "300530527",
-   "name": "Sporting Iowa Strikers Girls"
+   "club": "WIN Surf",
+   "id": "300377564",
+   "name": "WIN Surf (IA)"
   },
   {
    "club": "Sporting Iowa",
@@ -106,34 +106,209 @@
    "name": "Sporting Iowa White"
   },
   {
+   "club": "Sporting Iowa East",
+   "id": "300530527",
+   "name": "Sporting Iowa Strikers Girls"
+  },
+  {
    "club": "NWISC",
    "id": "300377532",
    "name": "Galaxy"
   },
   {
+   "club": "Western Iowa Surf",
+   "id": "11818455",
+   "name": "Black"
+  },
+  {
+   "club": "Adel DeSoto Soccer Club",
+   "id": "11825555",
+   "name": "ADMSC"
+  },
+  {
+   "club": "Van Meter Youth Soccer Club",
+   "id": "11825577",
+   "name": "Van Meter Girls"
+  },
+  {
+   "club": "Iowa Soccer Club",
+   "id": "11841103",
+   "name": "ISC Rage White Girls"
+  },
+  {
+   "club": "Ames Soccer Club",
+   "id": "11844290",
+   "name": "Ames Girls Navy"
+  },
+  {
+   "club": "CEDAR VALLEY SOCCER CLUB",
+   "id": "11844308",
+   "name": "CVSC GIRLS"
+  },
+  {
+   "club": "Des Moines Soccer Club",
+   "id": "11844314",
+   "name": "DMSC Girls Red"
+  },
+  {
+   "club": "Top notch talent",
+   "id": "11912132",
+   "name": "TNT Soccer Elite"
+  },
+  {
+   "club": "AYSO United Cedar Rapids",
+   "id": "11934327",
+   "name": "AYSO United Girls Blue"
+  },
+  {
    "club": "FC United",
-   "id": "300377531",
+   "id": "11934355",
    "name": "FC United"
   },
   {
-   "club": "Muscatine Soccer Club",
-   "id": "300377530",
-   "name": "MSC Girls"
+   "club": "TNT Soccer",
+   "id": "12006419",
+   "name": "TNT Soccer"
   },
   {
-   "club": "Cedar Valley Soccer Club",
-   "id": "300377525",
-   "name": "CVSC"
+   "club": "Dubuque Soccer Club",
+   "id": "12012077",
+   "name": "DSC"
   },
   {
-   "club": "North Scott Soccer Club",
-   "id": "300377519",
-   "name": "NSSC Dynamite"
+   "club": "Ames Soccer Club",
+   "id": "12033327",
+   "name": "Ames SC Girls Navy"
   },
   {
-   "club": "Mason City Soccer Club",
-   "id": "300555169",
-   "name": "MCSC"
+   "club": "FC United",
+   "id": "12038456",
+   "name": "FC United"
+  },
+  {
+   "club": "CRSA",
+   "id": "12038461",
+   "name": "CRSA Girls"
+  },
+  {
+   "club": "Iowa Soccer Club",
+   "id": "12048518",
+   "name": "ISC Rage"
+  },
+  {
+   "club": "Western Iowa Surf",
+   "id": "12057953",
+   "name": "WIA Surf Black"
+  },
+  {
+   "club": "Nevada Zebras",
+   "id": "12066198",
+   "name": "Nevada Zebras"
+  },
+  {
+   "club": "Ballard",
+   "id": "12066199",
+   "name": "Ballard"
+  },
+  {
+   "club": "Winterset",
+   "id": "12066200",
+   "name": "Winterset"
+  },
+  {
+   "club": "Iowa Soccer Club",
+   "id": "12078742",
+   "name": "ISC Rage Girls"
+  },
+  {
+   "club": "CRSA",
+   "id": "12088628",
+   "name": "CRSA Girls"
+  },
+  {
+   "club": "Sporting Iowa Central",
+   "id": "12177178",
+   "name": "Sporting Iowa ECNL-RL"
+  },
+  {
+   "club": "Sporting Iowa Central",
+   "id": "12181857",
+   "name": "Sporting Iowa ECNL"
+  },
+  {
+   "club": "VSA Rush",
+   "id": "12238338",
+   "name": "(IA)"
+  },
+  {
+   "club": "Sporting Iowa East",
+   "id": "14758600",
+   "name": "Sporting Iowa East Girls II"
+  },
+  {
+   "club": "Sporting Iowa",
+   "id": "14777650",
+   "name": "Sporting Iowa White"
+  },
+  {
+   "club": "Sporting Iowa East",
+   "id": "14777700",
+   "name": "SIE Girls II"
+  },
+  {
+   "club": "Iowa Rush Soccer Club",
+   "id": "15150750",
+   "name": "Iowa Rush South Girls"
+  },
+  {
+   "club": "FC United",
+   "id": "15340150",
+   "name": "FC United Premier"
+  },
+  {
+   "club": "Sporting Iowa Central",
+   "id": "15343050",
+   "name": "Sporting Iowa White"
+  },
+  {
+   "club": "Pearl City SC",
+   "id": "15873650",
+   "name": "U15G"
+  },
+  {
+   "club": "Evolution SC",
+   "id": "15874550",
+   "name": "16UG"
+  },
+  {
+   "club": "Iowa Rush Soccer Club",
+   "id": "16037500",
+   "name": "Iowa Rush North Girls"
+  },
+  {
+   "club": "Iowa Soccer Club",
+   "id": "300377503",
+   "name": "Iowa ODP - Navy"
+  },
+  {
+   "club": "DCG Soccer Club",
+   "id": "300377508",
+   "name": "DCG Select"
+  },
+  {
+   "club": "NWISC Galaxy",
+   "id": "300377509",
+   "name": "Blue"
+  },
+  {
+   "club": "Des Moines SC",
+   "id": "300377511",
+   "name": "Des Moines SC Girls Red"
+  },
+  {
+   "club": "TNT Soccer Elite",
+   "id": "300377512",
+   "name": "TNT Soccer"
   },
   {
    "club": "Dubuque Soccer Club",
@@ -141,18 +316,93 @@
    "name": "DSC-GU14"
   },
   {
+   "club": "Cedar Valley Soccer Club",
+   "id": "300377525",
+   "name": "CVSC"
+  },
+  {
+   "club": "Muscatine Soccer Club",
+   "id": "300377530",
+   "name": "MSC Girls"
+  },
+  {
+   "club": "FC United",
+   "id": "300377531",
+   "name": "FC United"
+  },
+  {
+   "club": "Vision Soccer Academy",
+   "id": "300377580",
+   "name": "VSA Girls Competitive"
+  },
+  {
+   "club": "Clinton United Soccer Club",
+   "id": "300470629",
+   "name": "Clinton United"
+  },
+  {
+   "club": "Sporting Iowa",
+   "id": "300473275",
+   "name": "Sporting Iowa ECNL-RL"
+  },
+  {
+   "club": "Sporting Iowa",
+   "id": "300473276",
+   "name": "Sporting Iowa ECNL"
+  },
+  {
+   "club": "515 Soccer Academy",
+   "id": "300473277",
+   "name": "Soccer - Girls"
+  },
+  {
+   "club": "Cedar River Soccer Association",
+   "id": "300477166",
+   "name": "CRSA Girls"
+  },
+  {
+   "club": "Sporting Iowa Central",
+   "id": "300477167",
+   "name": "Sporting Iowa White"
+  },
+  {
+   "club": "J-Hawk Soccer Club",
+   "id": "300480886",
+   "name": "Iowa United FC"
+  },
+  {
+   "club": "Iowa Soccer Club",
+   "id": "300530525",
+   "name": "ISC Rage Blue Girls"
+  },
+  {
    "club": "Pearl City Soccer Club",
    "id": "300530526",
    "name": "Pearl City Girls"
   },
   {
-   "club": "Ames Soccer Club",
-   "id": "300542061",
-   "name": "Ames SC Girls Yellow"
+   "club": "Apex Soccer Academy",
+   "id": "300542049",
+   "name": "Apex Rush Girls"
   },
   {
-   "club": "SIE",
-   "id": "300542060",
+   "club": "Iowa Soccer Club",
+   "id": "300542050",
+   "name": "ISC Unified Blue Girls"
+  },
+  {
+   "club": "SCFC",
+   "id": "300542053",
+   "name": "SCFC"
+  },
+  {
+   "club": "Cedar Valley Soccer Club",
+   "id": "300542054",
+   "name": "CVSC"
+  },
+  {
+   "club": "Sporting Iowa East",
+   "id": "300542056",
    "name": "SIE Girls I"
   },
   {
@@ -161,264 +411,24 @@
    "name": "SCFC G -"
   },
   {
-   "club": "Sporting Iowa East",
-   "id": "300542056",
+   "club": "SIE",
+   "id": "300542060",
    "name": "SIE Girls I"
   },
   {
-   "club": "Cedar Valley Soccer Club",
-   "id": "300542054",
-   "name": "CVSC"
-  },
-  {
-   "club": "SCFC",
-   "id": "300542053",
-   "name": "SCFC"
-  },
-  {
-   "club": "Iowa Soccer Club",
-   "id": "300542050",
-   "name": "ISC Unified Blue Girls"
-  },
-  {
-   "club": "Apex Soccer Academy",
-   "id": "300542049",
-   "name": "Apex Rush Girls"
-  },
-  {
-   "club": "Vision Soccer Academy",
-   "id": "300377580",
-   "name": "VSA Girls Competitive"
-  },
-  {
-   "club": "Iowa Soccer Club",
-   "id": "300530525",
-   "name": "ISC Rage Blue Girls"
-  },
-  {
-   "club": "J-Hawk Soccer Club",
-   "id": "300480886",
-   "name": "Iowa United FC"
-  },
-  {
-   "club": "Sporting Iowa Central",
-   "id": "300477167",
-   "name": "Sporting Iowa White"
-  },
-  {
-   "club": "Cedar River Soccer Association",
-   "id": "300477166",
-   "name": "CRSA Girls"
-  },
-  {
-   "club": "515 Soccer Academy",
-   "id": "300473277",
-   "name": "Soccer - Girls"
-  },
-  {
-   "club": "Sporting Iowa",
-   "id": "300473276",
-   "name": "Sporting Iowa ECNL"
-  },
-  {
-   "club": "Sporting Iowa",
-   "id": "300473275",
-   "name": "Sporting Iowa ECNL-RL"
-  },
-  {
-   "club": "Clinton United Soccer Club",
-   "id": "300470629",
-   "name": "Clinton United"
-  },
-  {
-   "club": "CEDAR VALLEY SOCCER CLUB",
-   "id": "11844308",
-   "name": "CVSC GIRLS"
-  },
-  {
-   "club": "Western Iowa Surf",
-   "id": "12057953",
-   "name": "WIA Surf Black"
-  },
-  {
-   "club": "Iowa Soccer Club",
-   "id": "12048518",
-   "name": "ISC Rage"
-  },
-  {
-   "club": "CRSA",
-   "id": "12038461",
-   "name": "CRSA Girls"
-  },
-  {
-   "club": "FC United",
-   "id": "12038456",
-   "name": "FC United"
-  },
-  {
    "club": "Ames Soccer Club",
-   "id": "12033327",
-   "name": "Ames SC Girls Navy"
+   "id": "300542061",
+   "name": "Ames SC Girls Yellow"
   },
   {
-   "club": "Dubuque Soccer Club",
-   "id": "12012077",
-   "name": "DSC"
-  },
-  {
-   "club": "TNT Soccer",
-   "id": "12006419",
-   "name": "TNT Soccer"
-  },
-  {
-   "club": "FC United",
-   "id": "11934355",
-   "name": "FC United"
-  },
-  {
-   "club": "AYSO United Cedar Rapids",
-   "id": "11934327",
-   "name": "AYSO United Girls Blue"
-  },
-  {
-   "club": "Top notch talent",
-   "id": "11912132",
-   "name": "TNT Soccer Elite"
-  },
-  {
-   "club": "Des Moines Soccer Club",
-   "id": "11844314",
-   "name": "DMSC Girls Red"
-  },
-  {
-   "club": "Nevada Zebras",
-   "id": "12066198",
-   "name": "Nevada Zebras"
-  },
-  {
-   "club": "Ames Soccer Club",
-   "id": "11844290",
-   "name": "Ames Girls Navy"
-  },
-  {
-   "club": "Iowa Soccer Club",
-   "id": "11841103",
-   "name": "ISC Rage White Girls"
-  },
-  {
-   "club": "Van Meter Youth Soccer Club",
-   "id": "11825577",
-   "name": "Van Meter Girls"
-  },
-  {
-   "club": "Adel DeSoto Soccer Club",
-   "id": "11825555",
-   "name": "ADMSC"
-  },
-  {
-   "club": "Western Iowa Surf",
-   "id": "11818455",
-   "name": "Black"
+   "club": "Mason City Soccer Club",
+   "id": "300555169",
+   "name": "MCSC"
   },
   {
    "club": "Sporting Iowa East",
-   "id": "11799156",
-   "name": "Sporting Iowa Strikers Girls White"
-  },
-  {
-   "club": "Sporting Iowa East",
-   "id": "14777700",
-   "name": "SIE Girls II"
-  },
-  {
-   "club": "Des Moines SC",
-   "id": "300377511",
-   "name": "Des Moines SC Girls Red"
-  },
-  {
-   "club": "NWISC Galaxy",
-   "id": "300377509",
-   "name": "Blue"
-  },
-  {
-   "club": "DCG Soccer Club",
-   "id": "300377508",
-   "name": "DCG Select"
-  },
-  {
-   "club": "Iowa Soccer Club",
-   "id": "300377503",
-   "name": "Iowa ODP - Navy"
-  },
-  {
-   "club": "Evolution SC",
-   "id": "15874550",
-   "name": "16UG"
-  },
-  {
-   "club": "Pearl City SC",
-   "id": "15873650",
-   "name": "U15G"
-  },
-  {
-   "club": "Sporting Iowa East",
-   "id": "15154950",
+   "id": "300558534",
    "name": "Sporting Iowa East Girls I"
-  },
-  {
-   "club": "Iowa Rush Soccer Club",
-   "id": "15150750",
-   "name": "Iowa Rush South Girls"
-  },
-  {
-   "club": "TNT Soccer Elite",
-   "id": "300377512",
-   "name": "TNT Soccer"
-  },
-  {
-   "club": "Sporting Iowa",
-   "id": "14777650",
-   "name": "Sporting Iowa White"
-  },
-  {
-   "club": "VSA Rush",
-   "id": "12238589",
-   "name": "GA"
-  },
-  {
-   "club": "VSA Rush",
-   "id": "12238338",
-   "name": "(IA)"
-  },
-  {
-   "club": "Sporting Iowa Central",
-   "id": "12181857",
-   "name": "Sporting Iowa ECNL"
-  },
-  {
-   "club": "Sporting Iowa Central",
-   "id": "12177178",
-   "name": "Sporting Iowa ECNL-RL"
-  },
-  {
-   "club": "CRSA",
-   "id": "12088628",
-   "name": "CRSA Girls"
-  },
-  {
-   "club": "Iowa Soccer Club",
-   "id": "12078742",
-   "name": "ISC Rage Girls"
-  },
-  {
-   "club": "Winterset",
-   "id": "12066200",
-   "name": "Winterset"
-  },
-  {
-   "club": "Ballard",
-   "id": "12066199",
-   "name": "Ballard"
   }
  ]
 }

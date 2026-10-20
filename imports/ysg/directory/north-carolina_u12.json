@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-10-13T15:27:23.644916+00:00",
+ "fetched_at": "2026-10-20T12:55:10.146559+00:00",
  "state": "NC",
  "state_slug": "north-carolina",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "CSA CLT Man City G"
   },
   {
-   "club": "NCFC Youth",
-   "id": "300435621",
-   "name": "NCYSA Academy Pre-Courage Navy"
-  },
-  {
    "club": "FC Athletico",
    "id": "12028940",
    "name": "FCA Sporting G"
+  },
+  {
+   "club": "Wake Futbol Club",
+   "id": "12028949",
+   "name": "WFC PA Angels JRs G"
   },
   {
    "club": "Pitt Greenville Soccer Assn",
@@ -27,23 +27,8 @@
   },
   {
    "club": "Charlotte Soccer Academy",
-   "id": "12028963",
-   "name": "CSA Charlotte King G"
-  },
-  {
-   "club": "Onslow Classic Soccer Assn - (OCSA)",
-   "id": "12028939",
-   "name": "OCSA Coastal Crew G"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
    "id": "12028991",
    "name": "CSA North King G"
-  },
-  {
-   "club": "Wilson Youth Soccer Association",
-   "id": "300467232",
-   "name": "WYSA Girls Blue"
   },
   {
    "club": "Charlotte Independence Soccer Club",
@@ -51,19 +36,14 @@
    "name": "CISC PA North Tan G"
   },
   {
-   "club": "Mebane Youth Soccer Association",
-   "id": "12028955",
-   "name": "MYSA Blue G"
-  },
-  {
-   "club": "Wake Futbol Club",
-   "id": "12028949",
-   "name": "WFC PA Angels JRs G"
-  },
-  {
    "club": "Charlotte Soccer Academy",
-   "id": "12028988",
-   "name": "CSA Matthews Roma G"
+   "id": "12028963",
+   "name": "CSA Charlotte King G"
+  },
+  {
+   "club": "Wilson Youth Soccer Association",
+   "id": "300467232",
+   "name": "WYSA Girls Blue"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -71,14 +51,34 @@
    "name": "CSA N/HV Elite G"
   },
   {
-   "club": "Charlotte Soccer Academy",
-   "id": "12028968",
-   "name": "CSA HV Roma G"
+   "club": "Onslow Classic Soccer Assn - (OCSA)",
+   "id": "12028939",
+   "name": "OCSA Coastal Crew G"
+  },
+  {
+   "club": "Mebane Youth Soccer Association",
+   "id": "12028955",
+   "name": "MYSA Blue G"
   },
   {
    "club": "Charlotte Metro FC",
    "id": "12028964",
    "name": "CMFC Black G"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "12028968",
+   "name": "CSA HV Roma G"
+  },
+  {
+   "club": "Wilson Youth Soccer Assn",
+   "id": "12028935",
+   "name": "WYSA Explosion Blue G"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "12028988",
+   "name": "CSA Matthews Roma G"
   },
   {
    "club": "Carolina Core FC",
@@ -96,14 +96,9 @@
    "name": "WFC PA South G"
   },
   {
-   "club": "Charlotte Independence Soccer Club",
-   "id": "300472621",
-   "name": "CISC MOR State Blue G"
-  },
-  {
-   "club": "Wilson Youth Soccer Assn",
-   "id": "12028935",
-   "name": "WYSA Explosion Blue G"
+   "club": "AC Sandhills",
+   "id": "12028957",
+   "name": "ACS White G"
   },
   {
    "club": "Seashore Soccer League",
@@ -111,14 +106,9 @@
    "name": "SSL Blue G"
   },
   {
-   "club": "AC Sandhills",
-   "id": "12028957",
-   "name": "ACS White G"
-  },
-  {
-   "club": "Highland Football Club",
-   "id": "12028999",
-   "name": "HFC White G"
+   "club": "Charlotte Independence Soccer Club",
+   "id": "300472621",
+   "name": "CISC MOR State Blue G"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -126,9 +116,24 @@
    "name": "CSA Huntersville King G"
   },
   {
+   "club": "Charlotte Soccer Academy",
+   "id": "12028995",
+   "name": "CSA Belmont King G"
+  },
+  {
+   "club": "Highland Football Club",
+   "id": "12028999",
+   "name": "HFC White G"
+  },
+  {
    "club": "Catawba Valley YSA",
    "id": "12028967",
    "name": "CVYSA Blue G"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "12028985",
+   "name": "CSA Uptown King G"
   },
   {
    "club": "Carolina Football Club Swarm",
@@ -141,24 +146,14 @@
    "name": "WYSA Explosion Black G"
   },
   {
-   "club": "Superb Futbol Club",
-   "id": "12028951",
-   "name": "SFC Green G"
-  },
-  {
    "club": "Sanford Area Soccer League",
    "id": "12028972",
    "name": "SASL Ladybugs G"
   },
   {
-   "club": "Triangle United Soccer Assn",
-   "id": "12028954",
-   "name": "TUSA Academy Elite Jrs G"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "12028995",
-   "name": "CSA Belmont King G"
+   "club": "Superb Futbol Club",
+   "id": "12028951",
+   "name": "SFC Green G"
   },
   {
    "club": "Wake Futbol Club",
@@ -171,39 +166,14 @@
    "name": "TUSA Chatham Academy Jr G"
   },
   {
+   "club": "Triangle United Soccer Assn",
+   "id": "12028954",
+   "name": "TUSA Academy Elite Jrs G"
+  },
+  {
    "club": "Charlotte Independence Soccer Club",
    "id": "12028997",
    "name": "CISC YC State Blue G"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "12028943",
-   "name": "CSA Matthews King G"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "12028985",
-   "name": "CSA Uptown King G"
-  },
-  {
-   "club": "Wesley Chapel Weddington AA",
-   "id": "12028998",
-   "name": "WCWAA Premier G"
-  },
-  {
-   "club": "Pitt Greenville Soccer Assn",
-   "id": "12028971",
-   "name": "PGSA Stars White G"
-  },
-  {
-   "club": "NC Fusion",
-   "id": "12028966",
-   "name": "NCF WS Gold G"
-  },
-  {
-   "club": "Asheboro City Futbol Club",
-   "id": "12028982",
-   "name": "ACFC Leopards G"
   },
   {
    "club": "Highland Football Club",
@@ -211,9 +181,29 @@
    "name": "HFC Red G"
   },
   {
+   "club": "Pitt Greenville Soccer Assn",
+   "id": "12028971",
+   "name": "PGSA Stars White G"
+  },
+  {
    "club": "Charlotte Soccer Academy",
-   "id": "12028942",
-   "name": "CSA UM Elite G"
+   "id": "12028943",
+   "name": "CSA Matthews King G"
+  },
+  {
+   "club": "Asheboro City Futbol Club",
+   "id": "12028982",
+   "name": "ACFC Leopards G"
+  },
+  {
+   "club": "Wesley Chapel Weddington AA",
+   "id": "12028998",
+   "name": "WCWAA Premier G"
+  },
+  {
+   "club": "NC Fusion",
+   "id": "12028966",
+   "name": "NCF WS Gold G"
   },
   {
    "club": "Carolina Core FC",
@@ -226,14 +216,14 @@
    "name": "CCFCY Pre Green Jrs G"
   },
   {
-   "club": "Waxhaw Athletic Association",
-   "id": "12028989",
-   "name": "WAA Navy G"
+   "club": "Charlotte Soccer Academy",
+   "id": "12028942",
+   "name": "CSA UM Elite G"
   },
   {
-   "club": "FSC Villarreal Force Academy",
-   "id": "12028938",
-   "name": "FSC Villarreal Force Y G"
+   "club": "Triangle United Soccer Assn",
+   "id": "12028952",
+   "name": "TUSA Gold G"
   },
   {
    "club": "AC Sandhills",
@@ -241,9 +231,14 @@
    "name": "ACS Orange G"
   },
   {
-   "club": "Triangle United Soccer Assn",
-   "id": "12028952",
-   "name": "TUSA Gold G"
+   "club": "FSC Villarreal Force Academy",
+   "id": "12028938",
+   "name": "FSC Villarreal Force Y G"
+  },
+  {
+   "club": "Waxhaw Athletic Association",
+   "id": "12028989",
+   "name": "WAA Navy G"
   },
   {
    "club": "Charlotte Independence Soccer Club",
@@ -256,14 +251,14 @@
    "name": "WUSC Revolution G"
   },
   {
-   "club": "Wesley Chapel Weddington AA",
-   "id": "12028965",
-   "name": "WCWAA Elite G"
-  },
-  {
    "club": "Wilmington Hammerheads FC",
    "id": "300472619",
    "name": "WHYFC Blue G"
+  },
+  {
+   "club": "Wesley Chapel Weddington AA",
+   "id": "12028965",
+   "name": "WCWAA Elite G"
   },
   {
    "club": "Fox Soccer Academy of the Carolinas",
@@ -656,6 +651,11 @@
    "name": "Gold South"
   },
   {
+   "club": "NCFC Youth",
+   "id": "300435621",
+   "name": "NCYSA Academy Pre-Courage Navy"
+  },
+  {
    "club": "Carolina Velocity FC",
    "id": "300435622",
    "name": "CVFC Crystal Palace G"
@@ -713,7 +713,7 @@
   {
    "club": "Carolina Core FC Youth",
    "id": "300557823",
-   "name": "CCFC Pre-GA Green G"
+   "name": "Carolina Core FC Youth Pre-GA Green"
   }
  ]
 }

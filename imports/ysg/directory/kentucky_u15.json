@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T15:00:22.774379+00:00",
+ "fetched_at": "2026-10-20T12:28:06.469487+00:00",
  "state": "KY",
  "state_slug": "kentucky",
  "teams": [
@@ -16,19 +16,14 @@
    "name": "GA Cincinnati"
   },
   {
-   "club": "Racing Louisville Academy",
-   "id": "300378410",
-   "name": "ECNL"
-  },
-  {
    "club": "Kings Hammer Cincinnati",
    "id": "300378392",
    "name": "Aspire"
   },
   {
-   "club": "Lexington Sporting",
-   "id": "300378374",
-   "name": "Lex Sporting Club Black NL (KY)"
+   "club": "Racing Louisville Academy",
+   "id": "300378410",
+   "name": "ECNL"
   },
   {
    "club": "Kings Hammer Soccer Club",
@@ -36,19 +31,19 @@
    "name": "Aspire TN"
   },
   {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "300378389",
-   "name": "Racing Academy ECNL-RL"
-  },
-  {
-   "club": "Javanon FC",
-   "id": "300378396",
-   "name": "Aspire"
+   "club": "Lexington Sporting",
+   "id": "300378374",
+   "name": "Lex Sporting Club Black NL (KY)"
   },
   {
    "club": "Racing Louisville Academy",
    "id": "300378409",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Javanon FC",
+   "id": "300378396",
+   "name": "Aspire"
   },
   {
    "club": "Central Kentucky Storm Soccer Club",
@@ -76,6 +71,16 @@
    "name": "Fusion FC Green"
   },
   {
+   "club": "Independence SC",
+   "id": "300378375",
+   "name": "ISC Cobras"
+  },
+  {
+   "club": "Fusion NKY FC",
+   "id": "300378377",
+   "name": "Fusion FC Black"
+  },
+  {
    "club": "Nelson Elite",
    "id": "300378370",
    "name": "Nelson Elite Girls"
@@ -91,24 +96,14 @@
    "name": "CKFA Girls"
   },
   {
-   "club": "Independence SC",
-   "id": "300378375",
-   "name": "ISC Cobras"
-  },
-  {
-   "club": "Fusion NKY FC",
-   "id": "300378377",
-   "name": "Fusion FC Black"
+   "club": "Lexington Sporting",
+   "id": "300378373",
+   "name": "Lex Sporting Club Black"
   },
   {
    "club": "Kings Hammer Soccer Club",
    "id": "300378379",
    "name": "KH ELITE MURFREESBORO"
-  },
-  {
-   "club": "Lexington Sporting",
-   "id": "300378373",
-   "name": "Lex Sporting Club Black"
   },
   {
    "club": "Independence SC",
@@ -126,11 +121,6 @@
    "name": "Racing Oldham Purple"
   },
   {
-   "club": "Mockingbird Valley Premier",
-   "id": "300506572",
-   "name": "MVP White"
-  },
-  {
    "club": "I AM 3RD SOCCER",
    "id": "300378390",
    "name": "PDA Girls Black"
@@ -141,19 +131,29 @@
    "name": "MUSA Flyers Girls"
   },
   {
+   "club": "Mockingbird Valley Premier",
+   "id": "300506572",
+   "name": "MVP White"
+  },
+  {
+   "club": "Valor United FC",
+   "id": "300378397",
+   "name": "Lady Valor United FC"
+  },
+  {
    "club": "Falls City Soccer Club",
    "id": "300378367",
    "name": "FCSC GOLD"
   },
   {
-   "club": "Fusion NKY FC",
-   "id": "300378391",
-   "name": "Fusion FC White"
-  },
-  {
    "club": "Nedo SC",
    "id": "300378399",
    "name": "Nedo SC Gold"
+  },
+  {
+   "club": "Fusion NKY FC",
+   "id": "300378391",
+   "name": "Fusion FC White"
   },
   {
    "club": "Kentucky Rush SC",
@@ -166,19 +166,14 @@
    "name": "FC Kentucky Girls"
   },
   {
-   "club": "Kings Hammer Soccer Club",
-   "id": "300479180",
-   "name": "KHA NKY"
+   "club": "LouCity / Racing Youth Academy",
+   "id": "300378389",
+   "name": "Racing Academy ECNL-RL"
   },
   {
-   "club": "Lexington Sporting",
-   "id": "300488482",
-   "name": "Club ECNL RL"
-  },
-  {
-   "club": "Lexington Sporting",
-   "id": "300542097",
-   "name": "Club Academy ECNL RL"
+   "club": "LouCity / Racing Youth Academy",
+   "id": "300542099",
+   "name": "Racing Louisville Academy ECNL RL"
   },
   {
    "club": "LouCity / Racing Youth Academy",
@@ -186,14 +181,19 @@
    "name": "Racing Louisville Academy ECNL"
   },
   {
-   "club": "Fusion NKY FC",
-   "id": "11862329",
-   "name": "FUSION FC NKY White"
+   "club": "Lexington Sporting",
+   "id": "300542097",
+   "name": "Club Academy ECNL RL"
   },
   {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "300542099",
-   "name": "Racing Louisville Academy ECNL RL"
+   "club": "Lexington Sporting",
+   "id": "300488482",
+   "name": "Club ECNL RL"
+  },
+  {
+   "club": "Kings Hammer Soccer Club",
+   "id": "300479180",
+   "name": "KHA NKY"
   },
   {
    "club": "Independence SC",
@@ -249,11 +249,6 @@
    "club": "Owensboro United Soccer Club",
    "id": "11895763",
    "name": "Spartak Middle School Girls"
-  },
-  {
-   "club": "Valor United FC",
-   "id": "300378397",
-   "name": "Lady Valor United FC"
   }
  ]
 }

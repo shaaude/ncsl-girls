@@ -1,23 +1,28 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-10-13T14:40:43.539280+00:00",
+ "fetched_at": "2026-10-20T12:08:26.450477+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
-  {
-   "club": "Real Colorado",
-   "id": "300515913",
-   "name": "National ECNL"
-  },
   {
    "club": "Real Colorado",
    "id": "300539241",
    "name": "National ECNL"
   },
   {
+   "club": "Real Colorado",
+   "id": "300515913",
+   "name": "National ECNL"
+  },
+  {
    "club": "Colorado Storm",
    "id": "300529004",
+   "name": "ECNL"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "300529002",
    "name": "ECNL"
   },
   {
@@ -31,9 +36,9 @@
    "name": "ECNL"
   },
   {
-   "club": "Colorado Rush",
-   "id": "300529002",
-   "name": "ECNL"
+   "club": "Arsenal Colorado",
+   "id": "300539243",
+   "name": "ECNL RL"
   },
   {
    "club": "Colorado EDGE SC",
@@ -44,11 +49,6 @@
    "club": "Colorado Storm",
    "id": "300340255",
    "name": "Central ECNL RL"
-  },
-  {
-   "club": "Arsenal Colorado",
-   "id": "300539243",
-   "name": "ECNL RL"
   },
   {
    "club": "Colorado Rapids FC",
@@ -76,8 +76,8 @@
    "name": "Athletico ECNL"
   },
   {
-   "club": "Arsenal Colorado",
-   "id": "300515903",
+   "club": "Colorado Rush",
+   "id": "300529003",
    "name": "ECNL RL"
   },
   {
@@ -86,13 +86,13 @@
    "name": "Colorado EDGE ECNL RL"
   },
   {
-   "club": "Pride SC",
-   "id": "300512577",
+   "club": "Arsenal Colorado",
+   "id": "300515903",
    "name": "ECNL RL"
   },
   {
-   "club": "Colorado Rush",
-   "id": "300529003",
+   "club": "Pride SC",
+   "id": "300512577",
    "name": "ECNL RL"
   },
   {
@@ -101,9 +101,9 @@
    "name": "ECNL RL South"
   },
   {
-   "club": "Real Colorado",
-   "id": "11784508",
-   "name": "ECNL RL"
+   "club": "ALBION SC Denver",
+   "id": "300340280",
+   "name": "ALBION SC Denver DPLO"
   },
   {
    "club": "Pride Soccer Club",
@@ -112,8 +112,13 @@
   },
   {
    "club": "Colorado United",
-   "id": "300340316",
-   "name": "GA"
+   "id": "300340275",
+   "name": "DPLO"
+  },
+  {
+   "club": "Real Colorado",
+   "id": "11784508",
+   "name": "ECNL RL"
   },
   {
    "club": "Colorado Storm",
@@ -121,9 +126,9 @@
    "name": "South ECNL RL"
   },
   {
-   "club": "Albion SC Denver",
-   "id": "300340280",
-   "name": "DPL"
+   "club": "Colorado United",
+   "id": "300340316",
+   "name": "GA"
   },
   {
    "club": "Colorado Rush",
@@ -136,24 +141,19 @@
    "name": "Rush Select Blue"
   },
   {
+   "club": "Real Colorado",
+   "id": "300479048",
+   "name": "Olympico ECNL RL"
+  },
+  {
    "club": "Colorado Rush",
    "id": "300478804",
    "name": "CO Rush South Academy Blue"
   },
   {
-   "club": "Colorado Rapids FC",
-   "id": "300340299",
-   "name": "North ECNL RL"
-  },
-  {
-   "club": "Colorado United",
-   "id": "300340275",
-   "name": "DPLO"
-  },
-  {
-   "club": "Real Colorado",
-   "id": "300479048",
-   "name": "Olympico ECNL RL"
+   "club": "Westy Soccer Club",
+   "id": "300340281",
+   "name": "Westy SC Elite (CO)"
   },
   {
    "club": "ALBION SC Colorado",
@@ -161,9 +161,9 @@
    "name": "ALBION SC Colorado GA"
   },
   {
-   "club": "Westy Soccer Club",
-   "id": "300340281",
-   "name": "Westy SC Elite (CO)"
+   "club": "Colorado Rapids FC",
+   "id": "300340299",
+   "name": "North ECNL RL"
   },
   {
    "club": "Colorado Storm",
@@ -176,11 +176,6 @@
    "name": "Colorado Rush North DPL"
   },
   {
-   "club": "Denver Kickers Sport Club",
-   "id": "300340267",
-   "name": "DPL"
-  },
-  {
    "club": "City SC NOCO",
    "id": "300340254",
    "name": "Aspire"
@@ -191,9 +186,14 @@
    "name": "CR DPL"
   },
   {
-   "club": "CO Elevation FC",
-   "id": "300340269",
-   "name": "Peak Elite"
+   "club": "Denver Kickers Sport Club",
+   "id": "300340267",
+   "name": "DPL"
+  },
+  {
+   "club": "Grand Junction SC",
+   "id": "300558932",
+   "name": "Aspire"
   },
   {
    "club": "Broomfield Soccer Club",
@@ -204,6 +204,11 @@
    "club": "Pride Soccer Club",
    "id": "300340282",
    "name": "Pride SC Copa"
+  },
+  {
+   "club": "CO Elevation FC",
+   "id": "300340269",
+   "name": "Peak Elite"
   },
   {
    "club": "CO Elevation FC",
@@ -299,11 +304,6 @@
    "club": "Colorado Storm",
    "id": "12284271",
    "name": "CR Black"
-  },
-  {
-   "club": "Grand Junction SC",
-   "id": "12306504",
-   "name": "Aspire"
   },
   {
    "club": "Colorado Edge SC",

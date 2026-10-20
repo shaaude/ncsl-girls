@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-13T15:19:53.578443+00:00",
+ "fetched_at": "2026-10-20T12:47:36.499716+00:00",
  "state": "NH",
  "state_slug": "new-hampshire",
  "teams": [
@@ -26,11 +26,6 @@
    "name": "Seacoast United Bedford Girls Carolina"
   },
   {
-   "club": "Beast Soccer Club",
-   "id": "300556914",
-   "name": "Girls - Chaos"
-  },
-  {
    "club": "Maximum Velocity FC",
    "id": "300533875",
    "name": "Maximum Velocity FC Girls"
@@ -41,9 +36,19 @@
    "name": "Strikers Girls"
   },
   {
-   "club": "Oyster River United",
-   "id": "300450517",
-   "name": "ORU Girls Gray"
+   "club": "Beast Soccer Club",
+   "id": "300556914",
+   "name": "Girls - Chaos"
+  },
+  {
+   "club": "Seacoast of Bedford",
+   "id": "300450502",
+   "name": "Seacoast United Bedford Girls Navy"
+  },
+  {
+   "club": "Seacoast United SC",
+   "id": "300533876",
+   "name": "Seacoast United - Navy"
   },
   {
    "club": "Merrimack Youth Soccer",
@@ -54,11 +59,6 @@
    "club": "Londonderry Soccer Club",
    "id": "300450513",
    "name": "LSC United Girls - Blue"
-  },
-  {
-   "club": "Seacoast of Bedford",
-   "id": "300450502",
-   "name": "Seacoast United Bedford Girls Navy"
   },
   {
    "club": "Seacoast of Bedford",
@@ -86,24 +86,14 @@
    "name": "Girls - Ercha"
   },
   {
+   "club": "Litchfield SC",
+   "id": "300556916",
+   "name": "Litchfield Girls"
+  },
+  {
    "club": "Hollis/Brookline Cavalier SC",
    "id": "300450524",
    "name": "HB Cavs Black"
-  },
-  {
-   "club": "Windham Soccer Association",
-   "id": "300450523",
-   "name": "WSA Girls -"
-  },
-  {
-   "club": "Hampshire United SC",
-   "id": "300473731",
-   "name": "Hampshire United SC"
-  },
-  {
-   "club": "Garrison City FC",
-   "id": "300450514",
-   "name": "Girls"
   },
   {
    "club": "Nashua Youth Soccer League",
@@ -111,9 +101,9 @@
    "name": "Nashua United SC Girls - Blue"
   },
   {
-   "club": "Merrimack Youth Soccer",
-   "id": "300450515",
-   "name": "Merrimack Blue"
+   "club": "Windham Soccer Association",
+   "id": "300450523",
+   "name": "WSA Girls -"
   },
   {
    "club": "Raymond Soccer Club",
@@ -121,54 +111,24 @@
    "name": "Raymond Soccer Club Girls"
   },
   {
-   "club": "Timberwolves SC",
-   "id": "300473734",
-   "name": "Timberwolves Girls"
+   "club": "Hampshire United SC",
+   "id": "300473731",
+   "name": "Hampshire United SC"
   },
   {
-   "club": "ConVal Soccer Club",
-   "id": "300450511",
-   "name": "Conval Girls"
-  },
-  {
-   "club": "Mount Washington Valley Soccer Club",
-   "id": "300479605",
-   "name": "MWVSC Spring"
-  },
-  {
-   "club": "Exeter Youth Soccer Association - FC Exeter",
-   "id": "300450519",
-   "name": "Girls BLUE"
+   "club": "Merrimack Youth Soccer",
+   "id": "300556911",
+   "name": "Merrimack Blue"
   },
   {
    "club": "Garrison City FC",
-   "id": "300450518",
+   "id": "300450514",
    "name": "Girls"
   },
   {
-   "club": "Oyster River United",
-   "id": "300450506",
-   "name": "ORU Girls Blue"
-  },
-  {
-   "club": "Portsmouth City SC",
-   "id": "300450527",
-   "name": "PCSC Girls Black"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300546536",
-   "name": "FC Stars New Hampshire Pre-ECNL RL"
-  },
-  {
-   "club": "Exeter Youth Soccer Association - FC Exeter",
-   "id": "11739206",
-   "name": "FC Exeter Girls Red"
-  },
-  {
-   "club": "Timberwolves SC",
-   "id": "300556915",
-   "name": "Timberwolves"
+   "club": "Merrimack Youth Soccer",
+   "id": "300450515",
+   "name": "Merrimack Blue"
   },
   {
    "club": "Exeter Youth Soccer Association - FC Exeter",
@@ -176,14 +136,54 @@
    "name": "Girls White"
   },
   {
+   "club": "ConVal Soccer Club",
+   "id": "300450511",
+   "name": "Conval Girls"
+  },
+  {
    "club": "Exeter Youth Soccer Association - FC Exeter",
    "id": "300556912",
    "name": "Girls Blue"
   },
   {
-   "club": "Merrimack Youth Soccer",
-   "id": "300556911",
-   "name": "Merrimack Blue"
+   "club": "Timberwolves SC",
+   "id": "300473734",
+   "name": "Timberwolves Girls"
+  },
+  {
+   "club": "Mount Washington Valley Soccer Club",
+   "id": "300479605",
+   "name": "MWVSC Spring"
+  },
+  {
+   "club": "Timberwolves SC",
+   "id": "300556915",
+   "name": "Timberwolves"
+  },
+  {
+   "club": "Lightning SC",
+   "id": "300553196",
+   "name": "Lightning Soccer Club Girls Green"
+  },
+  {
+   "club": "Exeter Youth Soccer Association - FC Exeter",
+   "id": "11739206",
+   "name": "FC Exeter Girls Red"
+  },
+  {
+   "club": "Lightning Soccer Club",
+   "id": "12041439",
+   "name": "Lightning Soccer Club Girls White"
+  },
+  {
+   "club": "Hampstead Hurricanes SC",
+   "id": "11739305",
+   "name": "- Girls - Duncan/Bickford"
+  },
+  {
+   "club": "Portsmouth City SC",
+   "id": "300450526",
+   "name": "PCSC Girls Maroon"
   },
   {
    "club": "Bow Soccer Club",
@@ -196,19 +196,9 @@
    "name": "Girls Red"
   },
   {
-   "club": "Lightning SC",
-   "id": "300553196",
-   "name": "Lightning Soccer Club Girls Green"
-  },
-  {
-   "club": "Bedford Athletic Club",
-   "id": "300450521",
-   "name": "BAC Bulldogs Select"
-  },
-  {
-   "club": "Seacoast United SC",
-   "id": "300533876",
-   "name": "Seacoast United - Navy"
+   "club": "Hampshire United SC",
+   "id": "300467466",
+   "name": "Tournament"
   },
   {
    "club": "Newmarket Youth Soccer Assoc",
@@ -216,44 +206,14 @@
    "name": "Newmarket (NYSA) Girls"
   },
   {
-   "club": "Become Elite Soccer",
-   "id": "300507258",
-   "name": "Become Elite Soccer Girls"
-  },
-  {
-   "club": "Auburn Soccer Club",
-   "id": "300473733",
-   "name": "ASC Girls Tigers"
-  },
-  {
    "club": "Seacoast United SC",
    "id": "300467820",
    "name": "RDP Girls"
   },
   {
-   "club": "Hampshire United SC",
-   "id": "300467466",
-   "name": "Tournament"
-  },
-  {
-   "club": "Litchfield SC",
-   "id": "300556916",
-   "name": "Litchfield Girls"
-  },
-  {
-   "club": "Portsmouth City SC",
-   "id": "300450526",
-   "name": "PCSC Girls Maroon"
-  },
-  {
-   "club": "Hooksett YAA",
-   "id": "12303859",
-   "name": "Select O'Leary"
-  },
-  {
-   "club": "Hampstead Hurricanes SC",
-   "id": "11739305",
-   "name": "- Girls - Duncan/Bickford"
+   "club": "FC Stars",
+   "id": "300546536",
+   "name": "FC Stars New Hampshire Pre-ECNL RL"
   },
   {
    "club": "John Stark United SC",
@@ -261,9 +221,24 @@
    "name": "Girls Blythe"
   },
   {
+   "club": "John Stark United SC",
+   "id": "12041412",
+   "name": "Spring Girls/Blythe/Younie"
+  },
+  {
+   "club": "Auburn Soccer Club",
+   "id": "300473733",
+   "name": "ASC Girls Tigers"
+  },
+  {
    "club": "North Hampton SC",
    "id": "11739488",
    "name": "NORTH HAMPTON SC G"
+  },
+  {
+   "club": "Exeter Youth Soccer Association - FC Exeter",
+   "id": "300450519",
+   "name": "Girls BLUE"
   },
   {
    "club": "Pemi-Baker Soccer Club",
@@ -271,69 +246,14 @@
    "name": "Rapids Girls"
   },
   {
-   "club": "John Stark United SC",
-   "id": "12041412",
-   "name": "Spring Girls/Blythe/Younie"
-  },
-  {
-   "club": "Lightning Soccer Club",
-   "id": "12041439",
-   "name": "Lightning Soccer Club Girls White"
-  },
-  {
-   "club": "Manchester Lightning",
-   "id": "12041474",
-   "name": "Girls Spring"
-  },
-  {
-   "club": "John Stark United SC",
-   "id": "12302388",
-   "name": "John Stark United Girls"
-  },
-  {
-   "club": "Bedford Athletic Club",
-   "id": "12302391",
-   "name": "BAC Bulldogs - Premier"
-  },
-  {
-   "club": "Oyster River United",
-   "id": "12302452",
-   "name": "ORU Girls Gray (Fall"
-  },
-  {
-   "club": "Exeter Youth Soccer Association - FC Exeter",
-   "id": "12302456",
-   "name": "Girls Red"
-  },
-  {
-   "club": "Salem Y.S.A.",
-   "id": "12302457",
-   "name": "Strikers Girls"
-  },
-  {
-   "club": "Merrimack Youth Soccer",
-   "id": "12302458",
-   "name": "Merrimack White"
-  },
-  {
-   "club": "Mount Washington Valley SC",
-   "id": "12303857",
-   "name": "Girls Fall"
+   "club": "Become Elite Soccer",
+   "id": "300507258",
+   "name": "Become Elite Soccer Girls"
   },
   {
    "club": "Revolution United FC",
    "id": "12303858",
    "name": "City Girls"
-  },
-  {
-   "club": "Bow Soccer Club",
-   "id": "300450508",
-   "name": "BSC - Girls - Red"
-  },
-  {
-   "club": "Pemi-Baker Soccer Club",
-   "id": "12303860",
-   "name": "PBSC Rapids Girls"
   },
   {
    "club": "Candia FC",
@@ -399,6 +319,81 @@
    "club": "Barrington Storm Soccer Club",
    "id": "300450500",
    "name": "Barrington Storm SC Girls"
+  },
+  {
+   "club": "Hooksett YAA",
+   "id": "12303859",
+   "name": "Select O'Leary"
+  },
+  {
+   "club": "Bedford Athletic Club",
+   "id": "300450521",
+   "name": "BAC Bulldogs Select"
+  },
+  {
+   "club": "Mount Washington Valley SC",
+   "id": "12303857",
+   "name": "Girls Fall"
+  },
+  {
+   "club": "Merrimack Youth Soccer",
+   "id": "12302458",
+   "name": "Merrimack White"
+  },
+  {
+   "club": "Oyster River United",
+   "id": "300450506",
+   "name": "ORU Girls Blue"
+  },
+  {
+   "club": "Salem Y.S.A.",
+   "id": "12302457",
+   "name": "Strikers Girls"
+  },
+  {
+   "club": "Bow Soccer Club",
+   "id": "300450508",
+   "name": "BSC - Girls - Red"
+  },
+  {
+   "club": "Exeter Youth Soccer Association - FC Exeter",
+   "id": "12302456",
+   "name": "Girls Red"
+  },
+  {
+   "club": "Oyster River United",
+   "id": "12302452",
+   "name": "ORU Girls Gray (Fall"
+  },
+  {
+   "club": "Bedford Athletic Club",
+   "id": "12302391",
+   "name": "BAC Bulldogs - Premier"
+  },
+  {
+   "club": "John Stark United SC",
+   "id": "12302388",
+   "name": "John Stark United Girls"
+  },
+  {
+   "club": "Manchester Lightning",
+   "id": "12041474",
+   "name": "Girls Spring"
+  },
+  {
+   "club": "Oyster River United",
+   "id": "300450517",
+   "name": "ORU Girls Gray"
+  },
+  {
+   "club": "Garrison City FC",
+   "id": "300450518",
+   "name": "Girls"
+  },
+  {
+   "club": "Pemi-Baker Soccer Club",
+   "id": "12303860",
+   "name": "PBSC Rapids Girls"
   }
  ]
 }

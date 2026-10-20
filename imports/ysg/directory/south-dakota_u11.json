@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-13T15:41:54.187190+00:00",
+ "fetched_at": "2026-10-20T13:09:36.536160+00:00",
  "state": "SD",
  "state_slug": "south-dakota",
  "teams": [
@@ -21,14 +21,14 @@
    "name": "Spearfish Soccer Maroon"
   },
   {
+   "club": "Black Hills Rapids SC",
+   "id": "300454316",
+   "name": "BH Rapids White"
+  },
+  {
    "club": "Hub City Soccer Club",
    "id": "300454282",
    "name": "HCSC Ice"
-  },
-  {
-   "club": "OFC Green Lightning",
-   "id": "300454286",
-   "name": "OFC Green Lightning"
   },
   {
    "club": "OFC Green Lightning",
@@ -36,9 +36,9 @@
    "name": "OFC Green Lightning"
   },
   {
-   "club": "Black Hills Rapids SC",
-   "id": "300454316",
-   "name": "BH Rapids White"
+   "club": "OFC Green Lightning",
+   "id": "300454286",
+   "name": "OFC Green Lightning"
   },
   {
    "club": "Ignite Soccer Club",
@@ -52,12 +52,12 @@
   },
   {
    "club": "Black Hills Rapids SC",
-   "id": "300476170",
+   "id": "300454288",
    "name": "BH Rapids White"
   },
   {
    "club": "Black Hills Rapids SC",
-   "id": "300454288",
+   "id": "300476170",
    "name": "BH Rapids White"
   },
   {
@@ -71,14 +71,14 @@
    "name": "SSA White"
   },
   {
-   "club": "Spearfish Soccer",
-   "id": "300454305",
-   "name": "Spearfish White"
-  },
-  {
    "club": "Belle Fourche",
    "id": "300476169",
    "name": "Belle Fourche Girls"
+  },
+  {
+   "club": "Spearfish Soccer",
+   "id": "300454305",
+   "name": "Spearfish White"
   },
   {
    "club": "Yankton United",
@@ -86,14 +86,14 @@
    "name": "Yankton United"
   },
   {
-   "club": "BASA RED",
-   "id": "300483740",
-   "name": "BASA RED"
-  },
-  {
    "club": "Wysa Pickles",
    "id": "300483741",
    "name": "Wysa Pickles"
+  },
+  {
+   "club": "Oahe Futbol Club",
+   "id": "300454318",
+   "name": "OFC Green Lightning"
   },
   {
    "club": "DASC",
@@ -121,24 +121,19 @@
    "name": "Yankton United"
   },
   {
-   "club": "Oahe Futbol Club",
-   "id": "300454318",
-   "name": "OFC Green Lightning"
-  },
-  {
    "club": "BRANDON AREA SOCCER",
    "id": "300546765",
    "name": "BASA"
   },
   {
-   "club": "HCSC",
-   "id": "300454306",
-   "name": "HCSC Ice"
-  },
-  {
    "club": "Mitchell Soccer Association",
    "id": "300549800",
    "name": "Fire & Ice"
+  },
+  {
+   "club": "HCSC",
+   "id": "300454306",
+   "name": "HCSC Ice"
   },
   {
    "club": "SoDak Spurs SC",
@@ -151,9 +146,14 @@
    "name": "BASA"
   },
   {
-   "club": "Brandon Area Soccer Association",
-   "id": "300481905",
-   "name": "BASA"
+   "club": "BASA",
+   "id": "300476171",
+   "name": "BASA Black"
+  },
+  {
+   "club": "Dakota Alliance Soccer Club",
+   "id": "300480279",
+   "name": "DASC Academy Pride"
   },
   {
    "club": "Dakota Alliance Soccer Club",
@@ -191,19 +191,19 @@
    "name": "BASA Red"
   },
   {
-   "club": "BASA",
-   "id": "300476171",
-   "name": "BASA Black"
+   "club": "Brandon Area Soccer Association",
+   "id": "300481905",
+   "name": "BASA"
   },
   {
-   "club": "Dakota Alliance Soccer Club",
-   "id": "300480279",
-   "name": "DASC Academy Pride"
+   "club": "BASA BLACK",
+   "id": "300483739",
+   "name": "BASA BLACK"
   },
   {
    "club": "YANKTON UNITED",
-   "id": "300454296",
-   "name": "Yankton United White"
+   "id": "300454295",
+   "name": "Yankton United Red"
   },
   {
    "club": "Groton Soccer Association",
@@ -216,9 +216,9 @@
    "name": "DASC Spirit"
   },
   {
-   "club": "BASA BLACK",
-   "id": "300483739",
-   "name": "BASA BLACK"
+   "club": "BASA RED",
+   "id": "300483740",
+   "name": "BASA RED"
   },
   {
    "club": "Ignite Soccer Club",
@@ -234,6 +234,11 @@
    "club": "Dakota Alliance Soccer Club",
    "id": "12082517",
    "name": "DASC Academy Spirit"
+  },
+  {
+   "club": "DASC",
+   "id": "12296148",
+   "name": "DASC Academy Angel City"
   },
   {
    "club": "Brandon Area Soccer Association",
@@ -272,8 +277,8 @@
   },
   {
    "club": "DASC",
-   "id": "12296148",
-   "name": "DASC Academy Angel City"
+   "id": "12296566",
+   "name": "DASC Academy Royals"
   },
   {
    "club": "BASA",
@@ -301,19 +306,14 @@
    "name": "DASC Royals"
   },
   {
-   "club": "DASC",
-   "id": "300454275",
-   "name": "Academy Royals"
-  },
-  {
    "club": "SoDak Spurs SC",
    "id": "300454299",
    "name": "SoDak Spurs SC Girls Orange"
   },
   {
    "club": "YANKTON UNITED",
-   "id": "300454295",
-   "name": "Yankton United Red"
+   "id": "300454296",
+   "name": "Yankton United White"
   },
   {
    "club": "DASC",
@@ -339,6 +339,11 @@
    "club": "DASC",
    "id": "300454277",
    "name": "Academy Spirit"
+  },
+  {
+   "club": "DASC",
+   "id": "300454275",
+   "name": "Academy Royals"
   },
   {
    "club": "SoDak Spurs SC",
@@ -374,11 +379,6 @@
    "club": "DASC",
    "id": "12296571",
    "name": "DASC Academy Current"
-  },
-  {
-   "club": "DASC",
-   "id": "12296566",
-   "name": "DASC Academy Royals"
   }
  ]
 }

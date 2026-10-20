@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-13T14:54:42.774496+00:00",
+ "fetched_at": "2026-10-20T12:22:26.458866+00:00",
  "state": "IN",
  "state_slug": "indiana",
  "teams": [
@@ -26,19 +26,24 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Indy Eleven Academy",
-   "id": "300393337",
-   "name": "Indy Eleven Pro Academy ECNL"
-  },
-  {
    "club": "NWI Lions United",
    "id": "300393250",
    "name": "NWI Lions United Yellow"
   },
   {
+   "club": "Indy Eleven Academy",
+   "id": "300393337",
+   "name": "Indy Eleven Pro Academy ECNL"
+  },
+  {
    "club": "Carmel FC",
    "id": "300393281",
    "name": "Carmel FC (IN)"
+  },
+  {
+   "club": "Indy Eleven North",
+   "id": "300393288",
+   "name": "IXI North"
   },
   {
    "club": "NIFC Academy",
@@ -51,19 +56,14 @@
    "name": "Dynamo Girls Red"
   },
   {
-   "club": "Hendricks Elite FC",
-   "id": "300514401",
-   "name": "Hendricks Elite FC Gold"
-  },
-  {
-   "club": "Indy Eleven North",
-   "id": "300393288",
-   "name": "IXI North"
-  },
-  {
    "club": "South Central Soccer Academy Eleven",
    "id": "300393299",
    "name": "SCSA Eleven Red (IN)"
+  },
+  {
+   "club": "Hendricks Elite FC",
+   "id": "300514401",
+   "name": "Hendricks Elite FC Gold"
   },
   {
    "club": "Indy Premier SC",
@@ -71,14 +71,14 @@
    "name": "Aspire"
   },
   {
+   "club": "Warsaw Travel SC",
+   "id": "300552356",
+   "name": "Warsaw Wave Breakers"
+  },
+  {
    "club": "Columbus express soccer club",
    "id": "300393262",
    "name": "Columbus Express Orange"
-  },
-  {
-   "club": "FC Pride",
-   "id": "300393346",
-   "name": "Elite ECNL RL"
   },
   {
    "club": "Indy Eleven Academy",
@@ -86,24 +86,9 @@
    "name": "Indy Eleven Regional"
   },
   {
-   "club": "Warsaw Travel SC",
-   "id": "300552356",
-   "name": "Warsaw Wave Breakers"
-  },
-  {
    "club": "Fort Wayne United FC",
    "id": "300393244",
    "name": "FW United FC NL"
-  },
-  {
-   "club": "Hoosier Futbol Club",
-   "id": "300393306",
-   "name": "Hoosier FC Elite Wolves I (IN)"
-  },
-  {
-   "club": "USAI",
-   "id": "300531204",
-   "name": "USAI Red"
   },
   {
    "club": "Westside United FC",
@@ -111,14 +96,24 @@
    "name": "WSU Girls Elite"
   },
   {
-   "club": "Indy Eleven Academy",
-   "id": "11660420",
-   "name": "ECNL RL"
+   "club": "Hoosier Futbol Club",
+   "id": "300393306",
+   "name": "Hoosier FC Elite Wolves I (IN)"
   },
   {
    "club": "Indiana Impact SC",
    "id": "300393279",
    "name": "Impact SC (IN)"
+  },
+  {
+   "club": "USAI",
+   "id": "300531204",
+   "name": "USAI Red"
+  },
+  {
+   "club": "Indy Premier SC",
+   "id": "300514394",
+   "name": "DPL"
   },
   {
    "club": "FCE United",
@@ -127,13 +122,13 @@
   },
   {
    "club": "Indy Premier SC",
-   "id": "300514394",
-   "name": "DPL"
-  },
-  {
-   "club": "Indy Premier SC",
    "id": "300393251",
    "name": "Indy Premier Elite II"
+  },
+  {
+   "club": "FC Pride",
+   "id": "300393346",
+   "name": "Elite ECNL RL"
   },
   {
    "club": "Fort Wayne Sport Club",
@@ -151,9 +146,9 @@
    "name": "Union FC Indy Teal I (IN)"
   },
   {
-   "club": "Indiana Elite F.C.",
-   "id": "300531207",
-   "name": "Indiana Elite FC ECNL RL"
+   "club": "Indy Eleven Academy",
+   "id": "11660420",
+   "name": "ECNL RL"
   },
   {
    "club": "Indy Eleven Spirit",
@@ -161,14 +156,19 @@
    "name": "Indy Eleven Spirit"
   },
   {
+   "club": "Cutters Soccer Club",
+   "id": "300552358",
+   "name": "Cutters Eleven Girls Red"
+  },
+  {
+   "club": "Indiana Elite F.C.",
+   "id": "300531207",
+   "name": "Indiana Elite FC ECNL RL"
+  },
+  {
    "club": "Indy Eleven Spirit",
    "id": "300489258",
    "name": "ECNL RL"
-  },
-  {
-   "club": "Millennium Soccer Association",
-   "id": "300393302",
-   "name": "Millennium SA Black"
   },
   {
    "club": "NWI Lions United",
@@ -176,44 +176,9 @@
    "name": "NWI Lions United Yellow II"
   },
   {
-   "club": "Indiana Elite FC",
-   "id": "300393371",
-   "name": "RL"
-  },
-  {
-   "club": "Indy Eleven Academy",
-   "id": "300509410",
-   "name": "Indy Eleven Red"
-  },
-  {
-   "club": "Carmel FC",
-   "id": "300393307",
-   "name": "Carmel FC White"
-  },
-  {
-   "club": "FCE United",
-   "id": "300393267",
-   "name": "Girls Elite II"
-  },
-  {
-   "club": "Hamilton North Futbol Club",
-   "id": "300393246",
-   "name": "Hamilton North FC Girls"
-  },
-  {
-   "club": "Circle City FC",
-   "id": "300393300",
-   "name": "Circle City FC"
-  },
-  {
-   "club": "Plymouth United FC",
-   "id": "300514400",
-   "name": "United FC"
-  },
-  {
-   "club": "Hoosier Futbol Club",
-   "id": "300393273",
-   "name": "Hoosier FC Elite II"
+   "club": "Millennium Soccer Association",
+   "id": "300393302",
+   "name": "Millennium SA Black"
   },
   {
    "club": "Indiana Southwest Futbol Club",
@@ -221,14 +186,49 @@
    "name": "ISFC Girls"
   },
   {
+   "club": "Carmel FC",
+   "id": "300393307",
+   "name": "Carmel FC White"
+  },
+  {
+   "club": "Indy Eleven Academy",
+   "id": "300509410",
+   "name": "Indy Eleven Red"
+  },
+  {
+   "club": "Hamilton North Futbol Club",
+   "id": "300393246",
+   "name": "Hamilton North FC Girls"
+  },
+  {
+   "club": "Hoosier Futbol Club",
+   "id": "300393273",
+   "name": "Hoosier FC Elite II"
+  },
+  {
+   "club": "Circle City FC",
+   "id": "300393300",
+   "name": "Circle City FC"
+  },
+  {
+   "club": "FCE United",
+   "id": "300393267",
+   "name": "Girls Elite II"
+  },
+  {
+   "club": "Plymouth United FC",
+   "id": "300514400",
+   "name": "United FC"
+  },
+  {
+   "club": "Indiana Elite FC",
+   "id": "300393371",
+   "name": "RL"
+  },
+  {
    "club": "Fort Wayne United FC",
    "id": "300514396",
    "name": "FWU Academy"
-  },
-  {
-   "club": "Carmel FC",
-   "id": "300531203",
-   "name": "Carmel FC Blue"
   },
   {
    "club": "Jr. Irish Soccer Club",
@@ -246,9 +246,19 @@
    "name": "FC Pride Dynamo Girls Black"
   },
   {
-   "club": "Indy Eleven Spirit",
-   "id": "300393312",
-   "name": "Indy Eleven Spirit White"
+   "club": "NIFC Academy",
+   "id": "300514393",
+   "name": "NIFCA - Navy"
+  },
+  {
+   "club": "Carmel FC",
+   "id": "300531203",
+   "name": "Carmel FC Blue"
+  },
+  {
+   "club": "Indiana Impact SC",
+   "id": "300393290",
+   "name": "Impact SC"
   },
   {
    "club": "South Central Soccer Academy Eleven",
@@ -261,14 +271,9 @@
    "name": "Legacy Blaze FC RED"
   },
   {
-   "club": "Indiana Impact SC",
-   "id": "300393290",
-   "name": "Impact SC"
-  },
-  {
-   "club": "USAI",
-   "id": "300542763",
-   "name": "USAI White"
+   "club": "Boilers FC",
+   "id": "300393258",
+   "name": "Boilers FC Girls Black"
   },
   {
    "club": "Union FC Indy",
@@ -281,9 +286,24 @@
    "name": "NWI Lions United Yellow II"
   },
   {
-   "club": "Boilers FC",
-   "id": "300393258",
-   "name": "Boilers FC Girls Black"
+   "club": "Westside United FC",
+   "id": "300495369",
+   "name": "WSU Girls Premiere"
+  },
+  {
+   "club": "Indy Eleven Spirit",
+   "id": "300393312",
+   "name": "Indy Eleven Spirit White"
+  },
+  {
+   "club": "USAI",
+   "id": "300542763",
+   "name": "USAI White"
+  },
+  {
+   "club": "Central Indiana Futbol Club",
+   "id": "300552355",
+   "name": "Central Indiana Futbol Club"
   },
   {
    "club": "Indy Premier SC",
@@ -291,14 +311,14 @@
    "name": "Indy Premier Copa"
   },
   {
-   "club": "Westside United FC",
-   "id": "300495369",
-   "name": "WSU Girls Premiere"
-  },
-  {
    "club": "Cutters Soccer Club",
    "id": "300393301",
    "name": "Cutters SC Girls Red"
+  },
+  {
+   "club": "NIFC Academy",
+   "id": "300551181",
+   "name": "NIFCA - Red"
   },
   {
    "club": "Indy Eleven Academy",
@@ -356,6 +376,11 @@
    "name": "Aspire FWU"
   },
   {
+   "club": "Chicago Soccer Academy (CSA)",
+   "id": "14763350",
+   "name": "Chicago Soccer Academy G White"
+  },
+  {
    "club": "FC Pride",
    "id": "300393293",
    "name": "FC Pride-Girls Flames"
@@ -364,11 +389,6 @@
    "club": "Southern Indiana United",
    "id": "300393313",
    "name": "Southern Indiana United Girls Red"
-  },
-  {
-   "club": "NIFC Academy",
-   "id": "300514393",
-   "name": "NIFCA - Navy"
   },
   {
    "club": "Fort Wayne United FC",
@@ -394,21 +414,6 @@
    "club": "MERCURY SOCCER",
    "id": "300542762",
    "name": "BSC PREMIER"
-  },
-  {
-   "club": "NIFC Academy",
-   "id": "300551181",
-   "name": "NIFCA - Red"
-  },
-  {
-   "club": "Central Indiana Futbol Club",
-   "id": "300552355",
-   "name": "Central Indiana Futbol Club"
-  },
-  {
-   "club": "Cutters Soccer Club",
-   "id": "300552358",
-   "name": "Cutters Eleven Girls Red"
   },
   {
    "club": "Hoosier Futbol Club",

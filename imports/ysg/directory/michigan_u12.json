@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-10-13T15:07:12.950518+00:00",
+ "fetched_at": "2026-10-20T12:34:56.495423+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
@@ -11,9 +11,19 @@
    "name": "2015"
   },
   {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300545133",
+   "name": "C PreECNL G RED"
+  },
+  {
    "club": "Michigan Burn",
    "id": "300432070",
    "name": "Pre ECNL Black"
+  },
+  {
+   "club": "Nationals",
+   "id": "300545195",
+   "name": "SC Macomb Pre-ECNL BLUE Lavelle"
   },
   {
    "club": "Michigan Jaguars FC",
@@ -21,19 +31,19 @@
    "name": "Inspire Green"
   },
   {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300545133",
-   "name": "C PreECNL G RED"
-  },
-  {
    "club": "Nationals",
    "id": "300431965",
    "name": "Sunset Squad"
   },
   {
-   "club": "Nationals",
-   "id": "300545195",
-   "name": "SC Macomb Pre-ECNL BLUE Lavelle"
+   "club": "Midwest United FC",
+   "id": "300464415",
+   "name": "FC Pre-Academy"
+  },
+  {
+   "club": "Michigan Rangers FC",
+   "id": "300545182",
+   "name": "Pre-ECNL"
   },
   {
    "club": "Midwest United FC",
@@ -42,18 +52,28 @@
   },
   {
    "club": "Nationals",
+   "id": "300545159",
+   "name": "SC Oakland Pre-ECNL GRAY"
+  },
+  {
+   "club": "Nationals",
    "id": "300432065",
    "name": "Nationals SC Macomb Pre-ECNL Blue Rodman"
   },
   {
-   "club": "Midwest United FC",
-   "id": "300464415",
-   "name": "FC Pre-Academy"
+   "club": "Nationals",
+   "id": "300432217",
+   "name": "Nationals TriCounty Black"
   },
   {
-   "club": "Nationals",
-   "id": "300545159",
-   "name": "SC Oakland Pre-ECNL GRAY"
+   "club": "Warriors SC",
+   "id": "300432140",
+   "name": "Warriors SC Girls Red"
+  },
+  {
+   "club": "Michigan Rangers FC",
+   "id": "300432124",
+   "name": "MI Rangers FC Black"
   },
   {
    "club": "Legends FC",
@@ -66,29 +86,24 @@
    "name": "Central G Red"
   },
   {
-   "club": "Nationals",
-   "id": "300432217",
-   "name": "Nationals TriCounty Black"
-  },
-  {
-   "club": "Michigan Rangers FC",
-   "id": "300432124",
-   "name": "MI Rangers FC Black"
-  },
-  {
    "club": "Cap City Athletic 1847",
    "id": "300545111",
    "name": "Pre ECNL G"
   },
   {
-   "club": "Warriors SC",
-   "id": "300432140",
-   "name": "Warriors SC Girls Red"
-  },
-  {
    "club": "Portage Soccer Club",
    "id": "300432193",
    "name": "Portage SC Green"
+  },
+  {
+   "club": "Portage Soccer Club",
+   "id": "300520953",
+   "name": "Portage SC Pre-ECNL RL Green"
+  },
+  {
+   "club": "Michigan Hawks",
+   "id": "300432023",
+   "name": "Magic"
   },
   {
    "club": "East Futbol Club",
@@ -106,19 +121,14 @@
    "name": "Girls Black"
   },
   {
+   "club": "Michigan Stars Elite SC",
+   "id": "300432032",
+   "name": "MI Stars Oakland Pre-GAA"
+  },
+  {
    "club": "Nationals",
-   "id": "300431970",
-   "name": "Nationals Michigan North Black"
-  },
-  {
-   "club": "Michigan Hawks",
-   "id": "300432023",
-   "name": "Magic"
-  },
-  {
-   "club": "Royal Oak FC",
-   "id": "300432018",
-   "name": "Royal Oak FC Girls Green"
+   "id": "300431993",
+   "name": "Nationals SC Capital Area Pre-ECNL"
   },
   {
    "club": "TKO Premier SC",
@@ -126,9 +136,9 @@
    "name": "Pre-ECNL"
   },
   {
-   "club": "Nationals",
-   "id": "300431993",
-   "name": "Capital Area Girls Pre-Academy"
+   "club": "Novi Parks SC",
+   "id": "300431973",
+   "name": "Girls Lightning Gold"
   },
   {
    "club": "Royal Oak FC",
@@ -136,9 +146,9 @@
    "name": "Pre ECNL RL GMA Green"
   },
   {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300432061",
-   "name": "North Oakland Girls Academy"
+   "club": "Nationals",
+   "id": "300431970",
+   "name": "Nationals Michigan North Black"
   },
   {
    "club": "Michigan Jaguars FC",
@@ -146,14 +156,19 @@
    "name": "Lansing Girls Pre-DPL--DA"
   },
   {
-   "club": "Novi Parks SC",
-   "id": "300431973",
-   "name": "Girls Lightning Gold"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300432061",
+   "name": "North Oakland Girls Academy"
   },
   {
    "club": "Detroit City FC",
    "id": "300432016",
    "name": "Detroit City FC West Pre-ECNL"
+  },
+  {
+   "club": "Royal Oak FC",
+   "id": "300432018",
+   "name": "Royal Oak FC Girls Green"
   },
   {
    "club": "Michigan Tigers FC",
@@ -166,11 +181,6 @@
    "name": "East FC Azul"
   },
   {
-   "club": "Michigan Stars Elite SC",
-   "id": "300432032",
-   "name": "MI Stars Oakland Pre-GAA"
-  },
-  {
    "club": "Michigan Jaguars FC",
    "id": "300431987",
    "name": "Rochester-Romeo Girls White"
@@ -181,9 +191,44 @@
    "name": "Inspire White"
   },
   {
+   "club": "West Michigan Youth Soccer Association",
+   "id": "300475940",
+   "name": "East FC Gold"
+  },
+  {
    "club": "Michigan Burn",
    "id": "300432188",
    "name": "MI Burn White"
+  },
+  {
+   "club": "GREAT LAKES ALLIANCE",
+   "id": "300537923",
+   "name": "STORM GIRLS"
+  },
+  {
+   "club": "Michigan Jaguars FC",
+   "id": "300432036",
+   "name": "WB Girls Green"
+  },
+  {
+   "club": "Michigan Burn",
+   "id": "300532973",
+   "name": "Pre ECNL White"
+  },
+  {
+   "club": "AC Grand Rapids Academy",
+   "id": "300490140",
+   "name": "ACGR Shore Black"
+  },
+  {
+   "club": "Nationals",
+   "id": "300431964",
+   "name": "Nationals SC Oakland Pre-ECNL Gray"
+  },
+  {
+   "club": "Nationals",
+   "id": "300464417",
+   "name": "Anchor Bay Girls Black"
   },
   {
    "club": "Michigan Jaguars FC",
@@ -197,73 +242,8 @@
   },
   {
    "club": "Michigan Jaguars FC",
-   "id": "300432036",
+   "id": "300550882",
    "name": "WB Girls Green"
-  },
-  {
-   "club": "West Michigan Youth Soccer Association",
-   "id": "300475940",
-   "name": "East FC Gold"
-  },
-  {
-   "club": "Nationals",
-   "id": "300431964",
-   "name": "Nationals SC Oakland Pre-ECNL Gray"
-  },
-  {
-   "club": "Michigan Jaguars FC",
-   "id": "300432067",
-   "name": "Rochester Romeo Girls Green-DA"
-  },
-  {
-   "club": "Lakeshore Football Club",
-   "id": "300431994",
-   "name": "Lakeshore FC DA"
-  },
-  {
-   "club": "Nationals",
-   "id": "300464417",
-   "name": "Anchor Bay Girls Black"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300432152",
-   "name": "Central G White"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300432153",
-   "name": "Hartland G Red"
-  },
-  {
-   "club": "Midland SC",
-   "id": "300431977",
-   "name": "Midland Fusion Girls DA"
-  },
-  {
-   "club": "Midwest United FC SCOR",
-   "id": "300432161",
-   "name": "Midwest United FC SCOR Academy"
-  },
-  {
-   "club": "AC Grand Rapids Academy",
-   "id": "300490140",
-   "name": "ACGR Shore Black"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300432154",
-   "name": "Hartland G White"
-  },
-  {
-   "club": "Cap City Athletic 1847",
-   "id": "300532970",
-   "name": "Cap City Girls Grey"
-  },
-  {
-   "club": "Nationals",
-   "id": "300432064",
-   "name": "Macomb Girls Black"
   },
   {
    "club": "Michigan Jaguars FC",
@@ -272,13 +252,13 @@
   },
   {
    "club": "Cap City Athletic 1847",
-   "id": "300432110",
+   "id": "300532970",
    "name": "Cap City Girls Grey"
   },
   {
-   "club": "Detroit City FC South Oakland",
-   "id": "300432000",
-   "name": "DCFC South Oakland Girls Rouge DA"
+   "club": "Michigan Jaguars FC",
+   "id": "300432067",
+   "name": "Rochester Romeo Girls Green-DA"
   },
   {
    "club": "Liverpool FC-IA Michigan",
@@ -286,14 +266,54 @@
    "name": "North Oakland Girls PreAcademy"
   },
   {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300432154",
+   "name": "Hartland G White"
+  },
+  {
+   "club": "Midland SC",
+   "id": "300431977",
+   "name": "Midland Fusion Girls DA"
+  },
+  {
+   "club": "Michigan Stars Elite SC",
+   "id": "300520951",
+   "name": "Inspire"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300432152",
+   "name": "Central G White"
+  },
+  {
+   "club": "Nationals",
+   "id": "300432064",
+   "name": "Macomb Girls Black"
+  },
+  {
+   "club": "Midwest United FC SCOR",
+   "id": "300432161",
+   "name": "Midwest United FC SCOR Academy"
+  },
+  {
    "club": "West Michigan Youth Soccer Association",
    "id": "300476835",
    "name": "USA PA"
   },
   {
-   "club": "Nationals",
-   "id": "300432229",
-   "name": "Nationals TriCounty Girls Red"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300432153",
+   "name": "Hartland G Red"
+  },
+  {
+   "club": "Lakeshore Football Club",
+   "id": "300431994",
+   "name": "Lakeshore FC DA"
+  },
+  {
+   "club": "Cap City Athletic 1847",
+   "id": "300432110",
+   "name": "Cap City Girls Grey"
   },
   {
    "club": "ROYAL OAK FC",
@@ -301,9 +321,64 @@
    "name": "ROYAL OAK FC GIRLS WHITE"
   },
   {
+   "club": "Detroit City FC South Oakland",
+   "id": "300432000",
+   "name": "DCFC South Oakland Girls Rouge DA"
+  },
+  {
+   "club": "WAZA FC",
+   "id": "300432249",
+   "name": "Waza FC Black"
+  },
+  {
    "club": "Plymouth Soccer Club",
    "id": "300545191",
    "name": "Plymouth Reign Pre-ECNL RL"
+  },
+  {
+   "club": "Nationals",
+   "id": "300432229",
+   "name": "Nationals TriCounty Girls Red"
+  },
+  {
+   "club": "West Michigan Youth Soccer Association",
+   "id": "300476834",
+   "name": "Rapids FC Green"
+  },
+  {
+   "club": "Michigan Hawks",
+   "id": "300432106",
+   "name": "Michigan Hawks Dugan"
+  },
+  {
+   "club": "County Western Soccer Club",
+   "id": "300432071",
+   "name": "WSC Black"
+  },
+  {
+   "club": "Detroit City FC",
+   "id": "300432311",
+   "name": "Downriver Rouge"
+  },
+  {
+   "club": "Michigan Jaguars FC",
+   "id": "300432146",
+   "name": "ANN ARBOR GIRLS GREEN"
+  },
+  {
+   "club": "Monroe Area S.A.",
+   "id": "300470338",
+   "name": "Monroe United Maroon"
+  },
+  {
+   "club": "Great Lakes Alliance",
+   "id": "300431957",
+   "name": "Anchor Bay Jr Tars"
+  },
+  {
+   "club": "GREAT LAKES ALLIANCE",
+   "id": "300495612",
+   "name": "GLA STORM"
   },
   {
    "club": "Traverse Bay Area YS",
@@ -316,54 +391,9 @@
    "name": "Force G Green"
   },
   {
-   "club": "River Oaks AYSO",
-   "id": "300432054",
-   "name": "River Oaks AYSO"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300431951",
-   "name": "Windsor G Red"
-  },
-  {
-   "club": "WAZA FC",
-   "id": "300432249",
-   "name": "Waza FC Black"
-  },
-  {
-   "club": "NATIONALS",
-   "id": "300432216",
-   "name": "OAKLAND NATIONALS BLACK"
-  },
-  {
-   "club": "Michigan Hawks",
-   "id": "300432106",
-   "name": "Michigan Hawks Dugan"
-  },
-  {
-   "club": "Michigan Development Academy",
-   "id": "300432137",
-   "name": "MDA GOLD"
-  },
-  {
-   "club": "TKO Premier SC",
-   "id": "300432113",
-   "name": "TKO Premier SC DA White"
-  },
-  {
-   "club": "BC Fire SC",
-   "id": "300432210",
-   "name": "BC Fire SC Blue"
-  },
-  {
-   "club": "Michigan Tigers FC",
-   "id": "300431967",
-   "name": "Michigan Tigers Girls Director's Academy (Silver)"
-  },
-  {
-   "club": "County Western Soccer Club",
-   "id": "300432071",
-   "name": "WSC Black"
+   "club": "Chelsea SC",
+   "id": "300431972",
+   "name": "Chelsea SC Girls Blue"
   },
   {
    "club": "Eastside FC",
@@ -371,24 +401,9 @@
    "name": "Eastside FC Girls Green"
   },
   {
-   "club": "Chelsea SC",
-   "id": "300431972",
-   "name": "Chelsea SC Girls Blue"
-  },
-  {
-   "club": "Monroe Area S.A.",
-   "id": "300470338",
-   "name": "Monroe United Maroon"
-  },
-  {
-   "club": "West Michigan Youth Soccer Association",
-   "id": "300476834",
-   "name": "Rapids FC Green"
-  },
-  {
-   "club": "Michigan Stars Elite SC",
-   "id": "300431998",
-   "name": "MI Stars Oakland"
+   "club": "Michigan Tigers FC",
+   "id": "300431967",
+   "name": "Michigan Tigers Girls Director's Academy (Silver)"
   },
   {
    "club": "Michigan Jaguars FC",
@@ -396,39 +411,39 @@
    "name": "Michigan Jaguars Lansing Girls Green"
   },
   {
-   "club": "Michigan Jaguars FC",
-   "id": "300432146",
-   "name": "ANN ARBOR GIRLS GREEN"
-  },
-  {
-   "club": "GREAT LAKES ALLIANCE",
-   "id": "300495612",
-   "name": "GLA STORM"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300432155",
-   "name": "Central G Black"
-  },
-  {
-   "club": "Detroit City FC",
-   "id": "300432311",
-   "name": "Downriver Rouge"
-  },
-  {
-   "club": "NATIONALS",
-   "id": "300432228",
-   "name": "NATIONALS GENESEE BLACK"
-  },
-  {
-   "club": "Great Lakes Alliance",
-   "id": "300431957",
-   "name": "Anchor Bay Jr Tars"
+   "club": "River Oaks AYSO",
+   "id": "300432054",
+   "name": "River Oaks AYSO"
   },
   {
    "club": "TKO Premier SC",
-   "id": "300431947",
-   "name": "TKO Premier SC RA Blue"
+   "id": "300432113",
+   "name": "TKO Premier SC DA White"
+  },
+  {
+   "club": "Michigan Stars Elite SC",
+   "id": "300431998",
+   "name": "MI Stars Oakland"
+  },
+  {
+   "club": "Michigan Development Academy",
+   "id": "300432137",
+   "name": "MDA GOLD"
+  },
+  {
+   "club": "NATIONALS",
+   "id": "300432216",
+   "name": "OAKLAND NATIONALS BLACK"
+  },
+  {
+   "club": "BC Fire SC",
+   "id": "300432210",
+   "name": "BC Fire SC Blue"
+  },
+  {
+   "club": "West Michigan Galaxy",
+   "id": "300432078",
+   "name": "WM Galaxy Elite"
   },
   {
    "club": "Nationals",
@@ -441,19 +456,9 @@
    "name": "Michigan Tigers Girls Blue"
   },
   {
-   "club": "Bay Area SA",
-   "id": "300432172",
-   "name": "BASA Girls"
-  },
-  {
-   "club": "Portage Soccer Club",
-   "id": "300432025",
-   "name": "Portage SC White"
-  },
-  {
-   "club": "Nationals",
-   "id": "300432215",
-   "name": "Nationals CA SC Pre-Academy Gray"
+   "club": "Southwest Michigan Soccer Club Inc",
+   "id": "300432010",
+   "name": "SWM SC DA"
   },
   {
    "club": "Plymouth Soccer Club",
@@ -461,29 +466,14 @@
    "name": "Plymouth Reign DA White"
   },
   {
-   "club": "Royal Oak FC",
-   "id": "300431990",
-   "name": "Girls White"
+   "club": "Nationals",
+   "id": "300432215",
+   "name": "Nationals CA SC Pre-Academy Gray"
   },
   {
-   "club": "Southwest Michigan Soccer Club Inc",
-   "id": "300432010",
-   "name": "SWM SC DA"
-  },
-  {
-   "club": "Plymouth City",
-   "id": "300432060",
-   "name": "United"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300431958",
-   "name": "North Oakland Girls PreAcademy"
-  },
-  {
-   "club": "Oxford Soccer Club",
-   "id": "300432042",
-   "name": "Oxford Wildcats Gold"
+   "club": "TKO Premier SC",
+   "id": "300431947",
+   "name": "TKO Premier SC RA Blue"
   },
   {
    "club": "Novi Parks SC",
@@ -492,13 +482,43 @@
   },
   {
    "club": "Detroit City FC",
+   "id": "300432062",
+   "name": "Detroit City FC West Rouge"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300431951",
+   "name": "Windsor G Red"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300432155",
+   "name": "Central G Black"
+  },
+  {
+   "club": "Portage Soccer Club",
+   "id": "300432025",
+   "name": "Portage SC White"
+  },
+  {
+   "club": "NATIONALS",
+   "id": "300432228",
+   "name": "NATIONALS GENESEE BLACK"
+  },
+  {
+   "club": "Detroit City FC",
    "id": "300432310",
    "name": "DCFC City Rouge"
   },
   {
-   "club": "Detroit City FC",
-   "id": "300432062",
-   "name": "Detroit City FC West Rouge"
+   "club": "Plymouth City",
+   "id": "300432060",
+   "name": "United"
+  },
+  {
+   "club": "Royal Oak FC",
+   "id": "300431990",
+   "name": "Girls White"
   },
   {
    "club": "Grand Ledge SC",
@@ -506,19 +526,9 @@
    "name": "Grand Ledge SC Girls - Navy"
   },
   {
-   "club": "Sturgis SC",
-   "id": "300432190",
-   "name": "Sturgis FC"
-  },
-  {
-   "club": "Michigan Development Academy",
-   "id": "300432135",
-   "name": "MDA Black"
-  },
-  {
-   "club": "Portage Soccer Club",
-   "id": "300431942",
-   "name": "Portage SC Yellow"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300431958",
+   "name": "North Oakland Girls PreAcademy"
   },
   {
    "club": "JACS",
@@ -526,14 +536,24 @@
    "name": "JACS Sparks Girls"
   },
   {
-   "club": "Midwest United FC",
-   "id": "300520894",
-   "name": "Midwest United FC Girls Pre Academy"
+   "club": "Oxford Soccer Club",
+   "id": "300432042",
+   "name": "Oxford Wildcats Gold"
   },
   {
-   "club": "Saginaw township soccer association",
-   "id": "300432266",
-   "name": "Detroit City FC North Rouge"
+   "club": "Bay Area SA",
+   "id": "300432172",
+   "name": "BASA Girls"
+  },
+  {
+   "club": "Michigan Development Academy",
+   "id": "300432135",
+   "name": "MDA Black"
+  },
+  {
+   "club": "Sturgis SC",
+   "id": "300432190",
+   "name": "Sturgis FC"
   },
   {
    "club": "Cap City Athletic 1847",
@@ -541,54 +561,9 @@
    "name": "Cap City Girls Blue"
   },
   {
-   "club": "Cap City Athletic 1847",
-   "id": "300432112",
-   "name": "Cap City Girls Blue"
-  },
-  {
-   "club": "Michigan Rangers FC",
-   "id": "300432125",
-   "name": "MI Rangers FC White"
-  },
-  {
-   "club": "Royal Oak FC",
-   "id": "300431992",
-   "name": "Girls Black"
-  },
-  {
-   "club": "Saline FC",
-   "id": "300432083",
-   "name": "Saline FC Girls Black"
-  },
-  {
-   "club": "Force SC",
-   "id": "300432268",
-   "name": "Force SC Green"
-  },
-  {
    "club": "Portage Soccer Club",
    "id": "300520895",
    "name": "Portage SC White"
-  },
-  {
-   "club": "michigan jaguars FC",
-   "id": "300537926",
-   "name": "Michigan Jaguars United Girls White"
-  },
-  {
-   "club": "Nationals",
-   "id": "300431978",
-   "name": "Capital Area Girls Red"
-  },
-  {
-   "club": "Michigan Wolves",
-   "id": "300432027",
-   "name": "Michigan Wolves"
-  },
-  {
-   "club": "Mason Soccer Club",
-   "id": "300432012",
-   "name": "Mason Girls Red"
   },
   {
    "club": "North Macomb Community Youth Soccer",
@@ -596,39 +571,34 @@
    "name": "Romeo FC Riptide"
   },
   {
-   "club": "Michigan Jaguars FC",
-   "id": "300431948",
-   "name": "United Girls Green-DA"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300545183",
+   "name": "NO G PreECNL GMA"
   },
   {
-   "club": "Nationals",
-   "id": "300468146",
-   "name": "Anchor Bay Girls Red"
+   "club": "Portage Soccer Club",
+   "id": "300431942",
+   "name": "Portage SC Yellow"
+  },
+  {
+   "club": "Royal Oak FC",
+   "id": "300431992",
+   "name": "Girls Black"
   },
   {
    "club": "Midwest United FC",
-   "id": "300464416",
-   "name": "FC DA Pre-Academy"
+   "id": "300520894",
+   "name": "Midwest United FC Girls Pre Academy"
   },
   {
-   "club": "Goodrich Soccer Club",
-   "id": "300431989",
-   "name": "GSC Girls"
+   "club": "Cap City Athletic 1847",
+   "id": "300432112",
+   "name": "Cap City Girls Blue"
   },
   {
-   "club": "Garden City SC",
-   "id": "300432072",
-   "name": "Galaxy Orange"
-  },
-  {
-   "club": "Kalamazoo Soccer Club",
-   "id": "300431943",
-   "name": "2015G"
-  },
-  {
-   "club": "Dewitt Soccer Club",
-   "id": "300432180",
-   "name": "Dewitt SC Girls - Nash"
+   "club": "Saline FC",
+   "id": "300432083",
+   "name": "Saline FC Girls Black"
   },
   {
    "club": "Columbia Soccer Club",
@@ -636,24 +606,44 @@
    "name": "Columbia Girls"
   },
   {
+   "club": "Force SC",
+   "id": "300432268",
+   "name": "Force SC Green"
+  },
+  {
    "club": "Williamston Soccer Club",
    "id": "300469939",
    "name": "Williamston Girls - White"
   },
   {
-   "club": "Alma PAL Strikers",
-   "id": "300469941",
-   "name": "Girls"
+   "club": "Mason Soccer Club",
+   "id": "300432012",
+   "name": "Mason Girls Red"
   },
   {
-   "club": "Bloomfield Hills YSL",
-   "id": "300432142",
-   "name": "Bloomfield Select Girls Purple"
+   "club": "Garden City SC",
+   "id": "300432072",
+   "name": "Galaxy Orange"
   },
   {
-   "club": "Huron S.A.",
-   "id": "300432055",
-   "name": "Lady Chiefs"
+   "club": "Michigan Rangers FC",
+   "id": "300432125",
+   "name": "MI Rangers FC White"
+  },
+  {
+   "club": "Nationals",
+   "id": "300468146",
+   "name": "Anchor Bay Girls Red"
+  },
+  {
+   "club": "Michigan Wolves",
+   "id": "300432027",
+   "name": "Michigan Wolves"
+  },
+  {
+   "club": "Nationals",
+   "id": "300431978",
+   "name": "Capital Area Girls Red"
   },
   {
    "club": "Detroit City FC South Oakland",
@@ -661,49 +651,34 @@
    "name": "DCFC South Oakland Girls Gold"
   },
   {
+   "club": "Saginaw township soccer association",
+   "id": "300432266",
+   "name": "Detroit City FC North Rouge"
+  },
+  {
+   "club": "Midwest United FC",
+   "id": "300464416",
+   "name": "FC DA Pre-Academy"
+  },
+  {
+   "club": "Dewitt Soccer Club",
+   "id": "300432180",
+   "name": "Dewitt SC Girls - Nash"
+  },
+  {
+   "club": "Bloomfield Hills YSL",
+   "id": "300432142",
+   "name": "Bloomfield Select Girls Purple"
+  },
+  {
+   "club": "michigan jaguars FC",
+   "id": "300537926",
+   "name": "Michigan Jaguars United Girls White"
+  },
+  {
    "club": "Detroit City FC",
    "id": "300532969",
    "name": "Downriver Gold"
-  },
-  {
-   "club": "Haslett Soccer",
-   "id": "300432014",
-   "name": "Haslett SC Navy"
-  },
-  {
-   "club": "Northville SA",
-   "id": "300470337",
-   "name": "ENVY FC Orange"
-  },
-  {
-   "club": "Leelanau Soccer Club",
-   "id": "300432208",
-   "name": "LSC United"
-  },
-  {
-   "club": "Traverse Bay Area YS",
-   "id": "300432033",
-   "name": "North Storm Red"
-  },
-  {
-   "club": "Nationals",
-   "id": "300532975",
-   "name": "Nationals Lapeer Black Girls"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300432302",
-   "name": "Legends FC Girls Blue"
-  },
-  {
-   "club": "Michigan Stars Elite SC",
-   "id": "300432069",
-   "name": "MI Stars Oakland White"
-  },
-  {
-   "club": "Bedford Travel Soccer",
-   "id": "300432270",
-   "name": "Bedford Girls Red"
   },
   {
    "club": "G.L.A.S AYSO Region 610",
@@ -711,49 +686,54 @@
    "name": "Alliance Girls"
   },
   {
-   "club": "Force Soccer Club",
-   "id": "300432031",
-   "name": "White"
-  },
-  {
-   "club": "Lapeer Lightning Soccer Club",
-   "id": "300537922",
-   "name": "Lapeer Lightning Soccer Club Girls Blue"
-  },
-  {
-   "club": "Midland SC",
-   "id": "300431981",
-   "name": "Midland Fusion Girls White MMYSL"
-  },
-  {
-   "club": "Farmington SC",
-   "id": "300431941",
-   "name": "Fusion Red"
-  },
-  {
    "club": "Royal Oak FC",
    "id": "12247978",
    "name": "Royal Oak FC Girls Black"
   },
   {
+   "club": "Michigan Stars Elite SC",
+   "id": "12247983",
+   "name": "MI Stars Macomb Pre GA"
+  },
+  {
+   "club": "Northville SA",
+   "id": "300470337",
+   "name": "ENVY FC Orange"
+  },
+  {
+   "club": "Michigan Jaguars FC",
+   "id": "300431948",
+   "name": "United Girls Green-DA"
+  },
+  {
+   "club": "Huron S.A.",
+   "id": "300432055",
+   "name": "Lady Chiefs"
+  },
+  {
+   "club": "Kalamazoo Soccer Club",
+   "id": "300431943",
+   "name": "2015G"
+  },
+  {
+   "club": "Michigan Wolves",
+   "id": "12191666",
+   "name": "Michigan Wolves Black"
+  },
+  {
+   "club": "Haslett Soccer",
+   "id": "300432014",
+   "name": "Haslett SC Navy"
+  },
+  {
+   "club": "Goodrich Soccer Club",
+   "id": "300431989",
+   "name": "GSC Girls"
+  },
+  {
    "club": "Nationals",
-   "id": "300432236",
-   "name": "Nationals Lapeer Girls Black"
-  },
-  {
-   "club": "Oxford Soccer Club",
-   "id": "300468147",
-   "name": "Oxford Wildcats Yellow"
-  },
-  {
-   "club": "Muth United FC",
-   "id": "300431995",
-   "name": "Girls"
-  },
-  {
-   "club": "Maple Valley",
-   "id": "300432024",
-   "name": "Girls"
+   "id": "300532975",
+   "name": "Nationals Lapeer Black Girls"
   },
   {
    "club": "Lenawee United FC",
@@ -761,14 +741,94 @@
    "name": "Girls -"
   },
   {
+   "club": "Saline FC",
+   "id": "300557216",
+   "name": "Saline FC Girls Gold"
+  },
+  {
+   "club": "Portage Soccer Club",
+   "id": "300520897",
+   "name": "Portage SC Yellow"
+  },
+  {
+   "club": "Michigan Stars Elite SC",
+   "id": "300432069",
+   "name": "MI Stars Oakland White"
+  },
+  {
+   "club": "Lapeer Lightning Soccer Club",
+   "id": "300537922",
+   "name": "Lapeer Lightning Soccer Club Girls Blue"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300432302",
+   "name": "Legends FC Girls Blue"
+  },
+  {
+   "club": "Bedford Travel Soccer",
+   "id": "300432270",
+   "name": "Bedford Girls Red"
+  },
+  {
+   "club": "LA Dragons",
+   "id": "300431999",
+   "name": "Dragons Girls -"
+  },
+  {
+   "club": "Traverse Bay Area YS",
+   "id": "300432033",
+   "name": "North Storm Red"
+  },
+  {
+   "club": "Farmington SC",
+   "id": "300431941",
+   "name": "Fusion Red"
+  },
+  {
+   "club": "Force Soccer Club",
+   "id": "300432031",
+   "name": "White"
+  },
+  {
+   "club": "Fraser SC",
+   "id": "300554924",
+   "name": "FSC Select Girls"
+  },
+  {
    "club": "East Lansing Soccer Club",
    "id": "300469938",
    "name": "East Lansing SC Grade Girls"
   },
   {
+   "club": "Northville SA",
+   "id": "300557218",
+   "name": "ENVY FC White"
+  },
+  {
+   "club": "Midland SC",
+   "id": "300431981",
+   "name": "Midland Fusion Girls White MMYSL"
+  },
+  {
+   "club": "Nationals",
+   "id": "300432236",
+   "name": "Nationals Lapeer Girls Black"
+  },
+  {
+   "club": "Okemos Soccer Club",
+   "id": "300432203",
+   "name": "Okemos Maroon"
+  },
+  {
    "club": "Holly Alliance AYSO",
    "id": "300470336",
    "name": "Holly Alliance"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300520899",
+   "name": "Ann Arbor G Red"
   },
   {
    "club": "Southwest Michigan Soccer Club Inc",
@@ -781,9 +841,9 @@
    "name": "Williamston Girls - Green"
   },
   {
-   "club": "Bloomfield Hills YSL",
-   "id": "300432049",
-   "name": "Bloomfield Select Girls White"
+   "club": "Lakewood Soccer Club",
+   "id": "300432164",
+   "name": "Lakewood"
   },
   {
    "club": "Milan Youth Soccer Club",
@@ -796,29 +856,19 @@
    "name": "Girls Silver"
   },
   {
-   "club": "St Johns Soccer Club",
-   "id": "300432040",
-   "name": "SJSC REDWINGS GIRLS RED"
-  },
-  {
    "club": "Detroit City FC",
    "id": "300432052",
    "name": "DCFC City Gold"
   },
   {
-   "club": "Dewitt Soccer Club",
-   "id": "300432179",
-   "name": "Dewitt SC - Girls Blue"
+   "club": "Oxford Soccer Club",
+   "id": "300468147",
+   "name": "Oxford Wildcats Yellow"
   },
   {
-   "club": "Portland Soccer Club",
-   "id": "12002997",
-   "name": "Portland Girls"
-  },
-  {
-   "club": "LA Dragons",
-   "id": "300431999",
-   "name": "Dragons Girls -"
+   "club": "Owosso Soccer Club",
+   "id": "12245965",
+   "name": "OSC Girls"
   },
   {
    "club": "Mason Soccer Club",
@@ -826,9 +876,14 @@
    "name": "Mason Girls Blue"
   },
   {
-   "club": "Ovid-Elsie Soccer Club",
-   "id": "300495613",
-   "name": "OE Girls"
+   "club": "Portland Soccer Club",
+   "id": "12002997",
+   "name": "Portland Girls"
+  },
+  {
+   "club": "Dewitt Soccer Club",
+   "id": "300432179",
+   "name": "Dewitt SC - Girls Blue"
   },
   {
    "club": "ER United",
@@ -836,14 +891,14 @@
    "name": "ER Girls"
   },
   {
+   "club": "Ovid-Elsie Soccer Club",
+   "id": "300495613",
+   "name": "OE Girls"
+  },
+  {
    "club": "County Western Soccer Club",
    "id": "300469936",
    "name": "WSC White"
-  },
-  {
-   "club": "Lakewood Soccer Club",
-   "id": "300432164",
-   "name": "Lakewood"
   },
   {
    "club": "West Michigan Youth Soccer Association",
@@ -874,31 +929,6 @@
    "club": "Nationals",
    "id": "11762427",
    "name": "Macomb PreECNL"
-  },
-  {
-   "club": "DCFC DOWNRIVER",
-   "id": "11862594",
-   "name": "DCFC DOWNRIVER ROUGE"
-  },
-  {
-   "club": "MASA MONROE UNITED",
-   "id": "11862600",
-   "name": "MAROON"
-  },
-  {
-   "club": "GARDEN CITY SOCCER CLUB",
-   "id": "11862601",
-   "name": "GCSC GALAXY GIRLS ORANGE"
-  },
-  {
-   "club": "OXFORD SOCCER CLUB MYSL",
-   "id": "11862603",
-   "name": "OSC WILDCATS GOLD"
-  },
-  {
-   "club": "PLYMOUTH SELECT",
-   "id": "11862611",
-   "name": "PLYMOUTH CITY UNITED GIRLS"
   },
   {
    "club": "Chaos Soccer",
@@ -1156,11 +1186,6 @@
    "name": "Royal Oak FC Pre ECNL RL GMA"
   },
   {
-   "club": "Michigan Wolves",
-   "id": "12191666",
-   "name": "Michigan Wolves Black"
-  },
-  {
    "club": "Michigan Jaguars FC",
    "id": "12192658",
    "name": "Lansing Girls Pre DPL"
@@ -1204,11 +1229,6 @@
    "club": "Oxford SC",
    "id": "12241582",
    "name": "OSC Gold"
-  },
-  {
-   "club": "Owosso Soccer Club",
-   "id": "12245965",
-   "name": "OSC Girls"
   },
   {
    "club": "East Lansing Soccer Club",
@@ -1274,16 +1294,6 @@
    "club": "Flushing Flames United",
    "id": "12247982",
    "name": "ORANGE"
-  },
-  {
-   "club": "Michigan Stars Elite SC",
-   "id": "12247983",
-   "name": "MI Stars Macomb Pre GA"
-  },
-  {
-   "club": "Mount Pleasant Soccer Club",
-   "id": "12248041",
-   "name": "MPSC Girls Blue"
   },
   {
    "club": "Thunder Chickens",
@@ -1401,6 +1411,16 @@
    "name": "Legends FC DA"
   },
   {
+   "club": "West Michigan Galaxy",
+   "id": "16460350",
+   "name": "WM Galaxy Black"
+  },
+  {
+   "club": "ENVY FC",
+   "id": "16460850",
+   "name": "ENVY FC GIRLS ORANGE"
+  },
+  {
    "club": "Novi Parks SC",
    "id": "16619200",
    "name": "Girls Thunder Royal"
@@ -1461,11 +1481,6 @@
    "name": "GEO Blue"
   },
   {
-   "club": "BLOOMFIELD SELECT",
-   "id": "300310885",
-   "name": "BLOOMFIELD SELECT GIRLS WHITE"
-  },
-  {
    "club": "United Soccer Athletes",
    "id": "300431946",
    "name": "USA White"
@@ -1481,24 +1496,34 @@
    "name": "Monroe United Black"
   },
   {
+   "club": "Muth United FC",
+   "id": "300431995",
+   "name": "Girls"
+  },
+  {
+   "club": "Maple Valley",
+   "id": "300432024",
+   "name": "Girls"
+  },
+  {
+   "club": "St Johns Soccer Club",
+   "id": "300432040",
+   "name": "SJSC REDWINGS GIRLS RED"
+  },
+  {
    "club": "Petoskey YS",
    "id": "300432046",
    "name": "Whitecaps Blue"
   },
   {
+   "club": "Bloomfield Hills YSL",
+   "id": "300432049",
+   "name": "Bloomfield Select Girls White"
+  },
+  {
    "club": "West Michigan Galaxy",
    "id": "300432077",
    "name": "WM Galaxy Grey"
-  },
-  {
-   "club": "West Michigan Galaxy",
-   "id": "300432078",
-   "name": "WM Galaxy Elite"
-  },
-  {
-   "club": "Michigan Tigers Futbol Club",
-   "id": "300432084",
-   "name": "Michigan Tigers Silver"
   },
   {
    "club": "Michigan Wolves",
@@ -1551,9 +1576,9 @@
    "name": "DCFC City Gold"
   },
   {
-   "club": "Okemos Soccer Club",
-   "id": "300432203",
-   "name": "Okemos Maroon"
+   "club": "Leelanau Soccer Club",
+   "id": "300432208",
+   "name": "LSC United"
   },
   {
    "club": "Nationals",
@@ -1646,9 +1671,9 @@
    "name": "MI Power Black"
   },
   {
-   "club": "CHELSEA SC",
-   "id": "300432318",
-   "name": "CHELSEA SOCCER CLUB GIRLS BLUE"
+   "club": "Alma PAL Strikers",
+   "id": "300469941",
+   "name": "Girls"
   },
   {
    "club": "Canton Soccer Club",
@@ -1756,31 +1781,6 @@
    "name": "United Girls Green"
   },
   {
-   "club": "Portage Soccer Club",
-   "id": "300520897",
-   "name": "Portage SC Yellow"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300520899",
-   "name": "Ann Arbor G Red"
-  },
-  {
-   "club": "Michigan Stars Elite SC",
-   "id": "300520951",
-   "name": "Inspire"
-  },
-  {
-   "club": "Portage Soccer Club",
-   "id": "300520953",
-   "name": "Portage SC Pre-ECNL RL Green"
-  },
-  {
-   "club": "Michigan Burn",
-   "id": "300532973",
-   "name": "Pre ECNL White"
-  },
-  {
    "club": "Blackhawks Sports Club",
    "id": "300532974",
    "name": "Girls Silver"
@@ -1789,11 +1789,6 @@
    "club": "Liverpool FC-IA Michigan",
    "id": "300537920",
    "name": "Central Pre ECNL G Black"
-  },
-  {
-   "club": "GREAT LAKES ALLIANCE",
-   "id": "300537923",
-   "name": "STORM GIRLS"
   },
   {
    "club": "Michigan Stars Oakland",
@@ -2141,16 +2136,6 @@
    "name": "WM Galaxy Grey"
   },
   {
-   "club": "Michigan Rangers FC",
-   "id": "300545182",
-   "name": "Pre-ECNL"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300545183",
-   "name": "NO G PreECNL GMA"
-  },
-  {
    "club": "Nationals Macomb",
    "id": "300545184",
    "name": "Nationals SC Macomb Pre-ECNL Blue Rodman"
@@ -2206,24 +2191,9 @@
    "name": "MI Stars Oakland GA-Inspire"
   },
   {
-   "club": "Michigan Jaguars FC",
-   "id": "300550882",
-   "name": "WB Girls Green"
-  },
-  {
-   "club": "Fraser SC",
-   "id": "300554924",
-   "name": "FSC Select Girls"
-  },
-  {
    "club": "Mount Pleasant Soccer Club",
    "id": "300556849",
    "name": "MPSC Girls White"
-  },
-  {
-   "club": "Saline FC",
-   "id": "300557216",
-   "name": "Saline FC Girls Gold"
   },
   {
    "club": "Liverpool FC-IA Michigan",
@@ -2231,14 +2201,14 @@
    "name": "North Oakland G Academy"
   },
   {
-   "club": "Northville SA",
-   "id": "300557218",
-   "name": "ENVY FC White"
-  },
-  {
    "club": "Nationals",
    "id": "300557219",
    "name": "Nationals Macomb Black"
+  },
+  {
+   "club": "Mount Pleasant Soccer Club",
+   "id": "300558670",
+   "name": "MPSC Girls Blue"
   }
  ]
 }

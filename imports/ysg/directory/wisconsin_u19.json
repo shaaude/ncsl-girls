@@ -1,13 +1,18 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-13T15:56:04.751303+00:00",
+ "fetched_at": "2026-10-20T13:23:46.532245+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
   {
    "club": "Elmbrook United",
    "id": "12238569",
+   "name": "GA"
+  },
+  {
+   "club": "SC Wave",
+   "id": "16441800",
    "name": "GA"
   },
   {
@@ -26,19 +31,24 @@
    "name": "Croatian Eagles DPL"
   },
   {
+   "club": "Lakeshore United FC",
+   "id": "300528887",
+   "name": "LUFC Navy"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "300558930",
+   "name": "Aspire"
+  },
+  {
    "club": "Bavarian United",
    "id": "300528885",
    "name": "BUSC Girls Blue"
   },
   {
    "club": "Madison 56ers",
-   "id": "16219300",
-   "name": "Madison Girls White"
-  },
-  {
-   "club": "Green Bay Lightning Soccer Club",
-   "id": "16219350",
-   "name": "GBL Lightning Premier Girls"
+   "id": "300539081",
+   "name": "Aspire"
   },
   {
    "club": "Green Bay Lightning Soccer Club",
@@ -46,9 +56,9 @@
    "name": "Green Bay Lightning HS Girls"
   },
   {
-   "club": "SC Wave",
-   "id": "16441800",
-   "name": "GA"
+   "club": "Green Bay Lightning Soccer Club",
+   "id": "16219350",
+   "name": "GBL Lightning Premier Girls"
   },
   {
    "club": "SC Wave",
@@ -56,14 +66,14 @@
    "name": "Aspire"
   },
   {
+   "club": "Madison 56ers",
+   "id": "16219300",
+   "name": "Madison Girls White"
+  },
+  {
    "club": "AC Toros",
    "id": "300123502",
    "name": "AC Toros Girls Red"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club - Tosa",
-   "id": "12329628",
-   "name": "Tosa Kickers Kicks Blue"
   },
   {
    "club": "Madison 56ers",
@@ -72,48 +82,18 @@
   },
   {
    "club": "Lakeshore United FC",
-   "id": "300528887",
-   "name": "LUFC Navy"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300539081",
-   "name": "Aspire"
-  },
-  {
-   "club": "Lakeshore United FC",
    "id": "300555766",
    "name": "LUFC Navy"
   },
   {
-   "club": "Hartford United Soccer Club",
-   "id": "11799044",
-   "name": "HUSC HS Girls"
-  },
-  {
-   "club": "Fond du Lac Soccer Association",
-   "id": "11800956",
-   "name": "Fond du Lac Phoenix Girls"
-  },
-  {
-   "club": "McFarland Soccer Association",
-   "id": "11800973",
-   "name": "McFarland HS Girls Blue"
+   "club": "Elmbrook United",
+   "id": "300558929",
+   "name": "Aspire"
   },
   {
    "club": "Milwaukee Kickers Soccer Club - Mukwonago",
    "id": "11830935",
    "name": "MK MU"
-  },
-  {
-   "club": "Middleton United",
-   "id": "11833792",
-   "name": "Red"
-  },
-  {
-   "club": "Sauk Prairie HS",
-   "id": "11833793",
-   "name": "girls"
   },
   {
    "club": "Forward Madison FC",
@@ -131,16 +111,6 @@
    "name": "Eau Claire United"
   },
   {
-   "club": "Forward Madison FC",
-   "id": "12329631",
-   "name": "Rally Madison FC"
-  },
-  {
-   "club": "Platteville Power Soccer Club",
-   "id": "12128816",
-   "name": "Platteville Power"
-  },
-  {
    "club": "Croatian Eagles Soccer Club",
    "id": "12197485",
    "name": "Croatian Eagles MWC"
@@ -151,14 +121,19 @@
    "name": "G Rush (WI)"
   },
   {
-   "club": "Elmbrook United",
-   "id": "12328495",
-   "name": "Aspire"
+   "club": "Milwaukee Kickers Soccer Club - Tosa",
+   "id": "12329628",
+   "name": "Tosa Kickers Kicks Blue"
   },
   {
-   "club": "Croatian Eagles SC",
-   "id": "12328497",
-   "name": "Aspire"
+   "club": "Forward Madison FC",
+   "id": "12329631",
+   "name": "Rally Madison FC"
+  },
+  {
+   "club": "/ HS Bickelhaupt/Barker",
+   "id": "16038900",
+   "name": "HS Girls Bickelhaupt/Barker"
   }
  ]
 }

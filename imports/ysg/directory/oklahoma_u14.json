@@ -1,10 +1,15 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-13T15:33:14.733327+00:00",
+ "fetched_at": "2026-10-20T13:00:56.505759+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "300400868",
+   "name": "OK Energy FC ECNL"
+  },
   {
    "club": "Tulsa Soccer Club",
    "id": "300400829",
@@ -12,7 +17,7 @@
   },
   {
    "club": "Oklahoma Energy FC",
-   "id": "300400868",
+   "id": "300537697",
    "name": "OK Energy FC ECNL"
   },
   {
@@ -23,22 +28,12 @@
   {
    "club": "FC Tulsa Academy",
    "id": "300543224",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "FC Tulsa Academy",
-   "id": "300400830",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Blitz Academy FC",
-   "id": "11664961",
    "name": "FC Tulsa Academy ECNL RL"
   },
   {
-   "club": "Oklahoma Celtic",
-   "id": "12244187",
-   "name": "GA"
+   "club": "Oklahoma Energy FC",
+   "id": "300400869",
+   "name": "OK Energy FC ECNL RL"
   },
   {
    "club": "Oklahoma Celtic",
@@ -46,19 +41,24 @@
    "name": "Oklahoma Celtic ECNL RL"
   },
   {
+   "club": "Oklahoma Celtic",
+   "id": "12244187",
+   "name": "GA"
+  },
+  {
    "club": "West Side Alliance SC",
    "id": "300518856",
    "name": "West Side Alliance ECNL"
   },
   {
-   "club": "Oklahoma Energy FC",
-   "id": "300400838",
-   "name": "OK Energy FC ECNL RL TX"
+   "club": "Blitz Academy FC",
+   "id": "11664961",
+   "name": "FC Tulsa Academy ECNL RL"
   },
   {
    "club": "Oklahoma Energy FC",
-   "id": "300400869",
-   "name": "OK Energy FC ECNL RL"
+   "id": "300400838",
+   "name": "OK Energy FC ECNL RL TX"
   },
   {
    "club": "Broken Arrow Soccer Club",
@@ -71,14 +71,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "300400937",
-   "name": "BA Express Premier"
-  },
-  {
-   "club": "West Side Alliance SC",
-   "id": "300518855",
-   "name": "West Side Alliance ECNL RL"
+   "club": "NorthWest Optimist Club",
+   "id": "300531465",
+   "name": "NWO FC"
   },
   {
    "club": "West Side Alliance Soccer Club",
@@ -86,14 +81,9 @@
    "name": "ECNL"
   },
   {
-   "club": "NorthWest Optimist Club",
-   "id": "300531465",
-   "name": "NWO FC"
-  },
-  {
-   "club": "Sporting Oklahoma",
-   "id": "300400846",
-   "name": "Sporting Oklahoma"
+   "club": "Broken Arrow Soccer Club",
+   "id": "300400937",
+   "name": "BA Express Premier"
   },
   {
    "club": "NorthWest Optimist Club",
@@ -106,14 +96,14 @@
    "name": "OEFC"
   },
   {
+   "club": "Sporting Oklahoma",
+   "id": "300400846",
+   "name": "Sporting Oklahoma"
+  },
+  {
    "club": "Oklahoma Energy FC",
    "id": "300400842",
    "name": "OK Energy FC White"
-  },
-  {
-   "club": "South Lakes SC",
-   "id": "300543219",
-   "name": "Oklahoma Cosmos ECNL RL"
   },
   {
    "club": "Oklahoma Energy FC",
@@ -121,24 +111,14 @@
    "name": "OK Energy FC ECNL RL II"
   },
   {
-   "club": "FC Tulsa Academy",
-   "id": "300400828",
-   "name": "FC Tulsa Academy Girls Premier"
+   "club": "South Lakes SC",
+   "id": "300543219",
+   "name": "Oklahoma Cosmos ECNL RL"
   },
   {
-   "club": "West Side Alliance Soccer Club",
-   "id": "300400921",
-   "name": "WSA Girls (Rhein)"
-  },
-  {
-   "club": "Claremore SC",
-   "id": "300514666",
-   "name": "Select"
-  },
-  {
-   "club": "OEFC",
-   "id": "300400907",
-   "name": "OEFC White"
+   "club": "West Side Alliance SC",
+   "id": "300518855",
+   "name": "West Side Alliance ECNL RL"
   },
   {
    "club": "Sporting Oklahoma",
@@ -146,19 +126,19 @@
    "name": "Blue"
   },
   {
+   "club": "Claremore SC",
+   "id": "300514666",
+   "name": "Select"
+  },
+  {
+   "club": "West Side Alliance Soccer Club",
+   "id": "300400921",
+   "name": "WSA Girls (Rhein)"
+  },
+  {
    "club": "West Side Alliance Soccer Club",
    "id": "300400931",
    "name": "Tulsa ECNL RL"
-  },
-  {
-   "club": "Oklahoma Energy FC",
-   "id": "300400839",
-   "name": "OK Energy FC ECNL RL FL"
-  },
-  {
-   "club": "Oklahoma Celtic",
-   "id": "300400857",
-   "name": "Oklahoma Celtic White"
   },
   {
    "club": "Tulsa Soccer Club",
@@ -166,14 +146,34 @@
    "name": "Tulsa SC"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "300400934",
-   "name": "BA Express Elite"
+   "club": "Oklahoma Celtic",
+   "id": "300400857",
+   "name": "Oklahoma Celtic White"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "300400839",
+   "name": "OK Energy FC ECNL RL FL"
+  },
+  {
+   "club": "FC Tulsa Academy",
+   "id": "300400828",
+   "name": "FC Tulsa Academy Girls Premier"
   },
   {
    "club": "Oklahoma Energy FC",
    "id": "300400843",
    "name": "OK Energy FC Black"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "300400934",
+   "name": "BA Express Elite"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "300514663",
+   "name": "BASC Express Classic"
   },
   {
    "club": "ELGIN FUTBOL CLUB (E.F.C.)",
@@ -187,8 +187,8 @@
   },
   {
    "club": "Broken Arrow Soccer Club",
-   "id": "300514663",
-   "name": "BASC Express Classic"
+   "id": "300400812",
+   "name": "BA Express Classic"
   },
   {
    "club": "FC Tulsa Academy",
@@ -196,9 +196,9 @@
    "name": "FC Tulsa Academy Girls Black"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "300400812",
-   "name": "BA Express Classic"
+   "club": "West Side Alliance Soccer Club",
+   "id": "11664968",
+   "name": "OKC ECNL RL"
   },
   {
    "club": "West Side Alliance SC",
@@ -211,9 +211,9 @@
    "name": "WSA South Cobler"
   },
   {
-   "club": "West Side Alliance Soccer Club",
-   "id": "11664968",
-   "name": "OKC ECNL RL"
+   "club": "Oklahoma Energy FC",
+   "id": "300400863",
+   "name": "OK Energy FC Red"
   },
   {
    "club": "West Side Alliance Soccer Club",
@@ -226,11 +226,6 @@
    "name": "Vision Yell"
   },
   {
-   "club": "Oklahoma Energy FC",
-   "id": "300400863",
-   "name": "OK Energy FC Red"
-  },
-  {
    "club": "West Side Alliance SC",
    "id": "300543223",
    "name": "West Side Alliance Tulsa ECNL RL"
@@ -239,6 +234,11 @@
    "club": "South Lakes SC",
    "id": "300400818",
    "name": "Oklahoma Cosmos Premier"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "300400808",
+   "name": "OK Energy FC Gold"
   },
   {
    "club": "West Side Alliance SC",
@@ -251,16 +251,6 @@
    "name": "OPL"
   },
   {
-   "club": "Oklahoma Energy FC",
-   "id": "300400808",
-   "name": "OK Energy FC Gold"
-  },
-  {
-   "club": "Oklahoma Celtic",
-   "id": "11982818",
-   "name": "NYSA - Midnight Wolves"
-  },
-  {
    "club": "Edmond Soccer Club",
    "id": "300400886",
    "name": "ESC GIRLS REBELS"
@@ -269,6 +259,11 @@
    "club": "midwest city soccer club",
    "id": "300468647",
    "name": "MWC Pandas"
+  },
+  {
+   "club": "Oklahoma Celtic",
+   "id": "11982818",
+   "name": "NYSA - Midnight Wolves"
   },
   {
    "club": "Choctaw SA (CNP)",
@@ -446,11 +441,6 @@
    "name": "Thunderstorm"
   },
   {
-   "club": "Edmond SC",
-   "id": "12336442",
-   "name": "ESC GIRLS THUNDERBOLTS"
-  },
-  {
    "club": "Verdigris SC",
    "id": "12339008",
    "name": "VSC Girls"
@@ -496,11 +486,6 @@
    "name": "Enid Royals"
   },
   {
-   "club": "El Reno SC",
-   "id": "15111300",
-   "name": "Frontier United FC"
-  },
-  {
    "club": "Broken Arrow Soccer Club",
    "id": "15594600",
    "name": "Breakaway - Musseman"
@@ -539,6 +524,11 @@
    "club": "OEFC",
    "id": "300400903",
    "name": "OEFC Black"
+  },
+  {
+   "club": "OEFC",
+   "id": "300400907",
+   "name": "OEFC White"
   },
   {
    "club": "Broken Arrow Soccer Club",
@@ -612,11 +602,6 @@
   },
   {
    "club": "Oklahoma Energy FC",
-   "id": "300537697",
-   "name": "OK Energy FC ECNL"
-  },
-  {
-   "club": "Oklahoma Energy FC",
    "id": "300543221",
    "name": "OK Energy FC Frontier ECNL RL"
   },
@@ -649,6 +634,16 @@
    "club": "Ponca City SA",
    "id": "300552867",
    "name": "PC United"
+  },
+  {
+   "club": "El Reno SC",
+   "id": "300558579",
+   "name": "Frontier United FC"
+  },
+  {
+   "club": "Edmond SC",
+   "id": "300559295",
+   "name": "ESC GIRLS THUNDERBOLTS"
   }
  ]
 }

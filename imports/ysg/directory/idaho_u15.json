@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T14:51:13.547961+00:00",
+ "fetched_at": "2026-10-20T12:18:56.513857+00:00",
  "state": "ID",
  "state_slug": "idaho",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "Thorns ECNL"
   },
   {
-   "club": "Idaho Slammers FC",
-   "id": "300376744",
-   "name": "Idaho United Neon"
-  },
-  {
    "club": "Boise Timbers | Thorns",
    "id": "300376749",
    "name": "Boise Thorns FC ECNL"
+  },
+  {
+   "club": "Idaho Slammers FC",
+   "id": "300376744",
+   "name": "Idaho United Neon"
   },
   {
    "club": "Idaho Youth Soccer Association",
@@ -36,14 +36,14 @@
    "name": "Idaho Rush ECNL RL"
   },
   {
-   "club": "CGA Academy SC",
-   "id": "300376720",
-   "name": "CGA Elite"
-  },
-  {
    "club": "Global Sports Academy",
    "id": "300376729",
    "name": "GSA Elite"
+  },
+  {
+   "club": "CGA Academy SC",
+   "id": "300376720",
+   "name": "CGA Elite"
   },
   {
    "club": "Idaho Storm",
@@ -56,29 +56,9 @@
    "name": "Idaho Rush Nero"
   },
   {
-   "club": "Sandpoint Strikers FC",
-   "id": "300376728",
-   "name": "2012G"
-  },
-  {
-   "club": "Boise Timbers | Thorns",
-   "id": "300376723",
-   "name": "Thorns ECNL RL"
-  },
-  {
-   "club": "Boise Timbers | Thorns",
-   "id": "300376748",
-   "name": "Boise Thorns FC ECNL RL"
-  },
-  {
-   "club": "Idaho Rush Soccer Club",
-   "id": "300376706",
-   "name": "Idaho Rush Azul"
-  },
-  {
-   "club": "PVSC United",
-   "id": "300376736",
-   "name": "PVSC Girls- Davis"
+   "club": "Idaho Surf SC",
+   "id": "300376709",
+   "name": "ID Surf DPL"
   },
   {
    "club": "Palacios Futbol Club (PFC)",
@@ -86,14 +66,34 @@
    "name": "PFC"
   },
   {
+   "club": "Idaho Rush Soccer Club",
+   "id": "300376706",
+   "name": "Idaho Rush Azul"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300376723",
+   "name": "Thorns ECNL RL"
+  },
+  {
+   "club": "PVSC United",
+   "id": "300376736",
+   "name": "PVSC Girls- Davis"
+  },
+  {
+   "club": "Sandpoint Strikers FC",
+   "id": "300376728",
+   "name": "2012G"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300376748",
+   "name": "Boise Thorns FC ECNL RL"
+  },
+  {
    "club": "IFFC",
    "id": "300376718",
    "name": "IFFC Claret - Cook"
-  },
-  {
-   "club": "Idaho Surf SC",
-   "id": "300376709",
-   "name": "ID Surf DPL"
   },
   {
    "club": "Indie Chicas",
@@ -116,11 +116,6 @@
    "name": "Girls Inferno Copa"
   },
   {
-   "club": "Kuna PAL",
-   "id": "300376711",
-   "name": "Kuna FC Wildcats"
-  },
-  {
    "club": "Project 208",
    "id": "300376734",
    "name": "FC G"
@@ -131,34 +126,14 @@
    "name": "PVSC Girls- Millward"
   },
   {
-   "club": "Hells Canyon FC",
-   "id": "300376725",
-   "name": "HCFC Rapids Girls"
-  },
-  {
-   "club": "Indie Chicas",
-   "id": "300376707",
-   "name": "WHITE Indie Chicas"
-  },
-  {
    "club": "Idaho Inferno Soccer Club",
    "id": "300376710",
    "name": "Girls Inferno Liga"
   },
   {
-   "club": "Upper Valley Soccer Foundation",
-   "id": "300376741",
-   "name": "UVSF United Miles"
-  },
-  {
-   "club": "Real Soccer Club",
-   "id": "300471286",
-   "name": "Real Eagle CF - Chicago Stars"
-  },
-  {
-   "club": "Global Sports Academy",
-   "id": "300376738",
-   "name": "GSA"
+   "club": "Hells Canyon FC",
+   "id": "300376725",
+   "name": "HCFC Rapids Girls"
   },
   {
    "club": "North Boise FC",
@@ -166,9 +141,24 @@
    "name": "NBFC Girls"
   },
   {
-   "club": "IFFC",
-   "id": "300376731",
-   "name": "IFFC Cobalt - Brower"
+   "club": "Upper Valley Soccer Foundation",
+   "id": "300376741",
+   "name": "UVSF United Miles"
+  },
+  {
+   "club": "Indie Chicas",
+   "id": "300376707",
+   "name": "WHITE Indie Chicas"
+  },
+  {
+   "club": "Kuna PAL",
+   "id": "300376711",
+   "name": "Kuna FC Wildcats"
+  },
+  {
+   "club": "Global Sports Academy",
+   "id": "300376738",
+   "name": "GSA"
   },
   {
    "club": "Legacy SC",
@@ -179,6 +169,16 @@
    "club": "PVSC United",
    "id": "300376730",
    "name": "PVSC Girls- Olsen"
+  },
+  {
+   "club": "IFFC",
+   "id": "300376731",
+   "name": "IFFC Cobalt - Brower"
+  },
+  {
+   "club": "Real Soccer Club",
+   "id": "300471286",
+   "name": "Real Eagle CF - Chicago Stars"
   },
   {
    "club": "Shelly Soccer",

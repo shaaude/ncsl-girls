@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-13T15:09:45.846647+00:00",
+ "fetched_at": "2026-10-20T12:37:26.506096+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
@@ -11,19 +11,14 @@
    "name": "Minnesota Thunder ECNL"
   },
   {
+   "club": "Minneapolis United",
+   "id": "300365251",
+   "name": "ECNL RL"
+  },
+  {
    "club": "Lakeville Soccer Club",
    "id": "300365270",
-   "name": "Girls ECNL RL"
-  },
-  {
-   "club": "Minneapolis United Soccer Club",
-   "id": "300365251",
-   "name": "Girls Elite"
-  },
-  {
-   "club": "St Croix Soccer Club",
-   "id": "300365252",
-   "name": "Girls ECNL-RL"
+   "name": "ECNL RL"
   },
   {
    "club": "Salvo Soccer Club",
@@ -31,14 +26,19 @@
    "name": "Salvo SC GA"
   },
   {
-   "club": "Tonka Fusion Elite",
-   "id": "300365299",
-   "name": "GA"
+   "club": "St. Croix",
+   "id": "300365252",
+   "name": "ECNL RL"
   },
   {
    "club": "Minnesota Rush",
    "id": "300365238",
-   "name": "Minnesota Rush ECNL RL"
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Tonka Fusion Elite",
+   "id": "300365299",
+   "name": "GA"
   },
   {
    "club": "Manitou FC",
@@ -46,9 +46,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Wave Soccer Club",
+   "club": "Wave SC",
    "id": "300365283",
-   "name": "Elite Porter"
+   "name": "ECNL RL"
   },
   {
    "club": "Minnesota Rush",
@@ -58,7 +58,7 @@
   {
    "club": "Boreal FC",
    "id": "300365276",
-   "name": "Boreal FC ECNL RL"
+   "name": "ECNL RL"
   },
   {
    "club": "Wave Soccer Club",
@@ -71,19 +71,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Minnesota Thunder Academy",
-   "id": "300365249",
-   "name": "MTA ECNL-RL Tourney only"
-  },
-  {
    "club": "Minneapolis United Soccer Club",
    "id": "11742557",
    "name": "ECNL RL"
   },
   {
    "club": "Minnesota Thunder Academy",
-   "id": "11742562",
-   "name": "Minnesota Thunder ECNL RL"
+   "id": "300365249",
+   "name": "MTA ECNL-RL Tourney only"
   },
   {
    "club": "Twin Cities Fire Soccer Club",
@@ -91,19 +86,24 @@
    "name": "Girls NPL"
   },
   {
+   "club": "Minnesota Thunder Academy",
+   "id": "11742562",
+   "name": "Minnesota Thunder ECNL RL"
+  },
+  {
    "club": "Lakeville Soccer Club",
    "id": "300365268",
-   "name": "Girls Select"
+   "name": "N1 G2010/11"
   },
   {
    "club": "EPSC",
    "id": "300365239",
-   "name": "Girls Red"
+   "name": "ECNL RL"
   },
   {
    "club": "North Star FC",
    "id": "300365223",
-   "name": "Girls Academy"
+   "name": "N1 G2010/11"
   },
   {
    "club": "Maplebrook Soccer Association",
@@ -113,7 +113,7 @@
   {
    "club": "Keliix-Intra Soccer Club",
    "id": "300365286",
-   "name": "Girls NPL"
+   "name": "Keliix Intra"
   },
   {
    "club": "North Oaks Soccer Club",
@@ -121,19 +121,19 @@
    "name": "NOSC Blast South Girls Sahara"
   },
   {
-   "club": "Wave Soccer Club",
-   "id": "300365247",
-   "name": "Premier Brady"
-  },
-  {
    "club": "Fusion Soccer Club",
    "id": "300365242",
    "name": "ECNL RL"
   },
   {
-   "club": "North Suburban SA",
+   "club": "Wave SC",
+   "id": "300365247",
+   "name": "N1 G2010/11"
+  },
+  {
+   "club": "North Surf",
    "id": "300365243",
-   "name": "Girls Academy Black NPL"
+   "name": "TCSL Regional Black"
   },
   {
    "club": "Boreal FC",
@@ -141,14 +141,14 @@
    "name": "White - Ames"
   },
   {
+   "club": "CC United Soccer Club",
+   "id": "300365246",
+   "name": "N1 G2010/11"
+  },
+  {
    "club": "Lakes United Futbol Club",
    "id": "300530076",
    "name": "Girls"
-  },
-  {
-   "club": "CC United Soccer Club",
-   "id": "300365246",
-   "name": "Girls Regional"
   },
   {
    "club": "Park Valley United FC",
@@ -158,7 +158,7 @@
   {
    "club": "St. Paul Blackhawks",
    "id": "300365274",
-   "name": "Girls Black"
+   "name": "TCSL Regional Black"
   },
   {
    "club": "Minnesota Rush",
@@ -166,24 +166,24 @@
    "name": "Girls EDT"
   },
   {
-   "club": "Salvo Soccer Club",
-   "id": "300365265",
-   "name": "Salvo SC Navy"
-  },
-  {
    "club": "Mankato United Soccer Club",
    "id": "300479118",
    "name": "G MAL"
   },
   {
-   "club": "United FC Rush",
-   "id": "300365278",
-   "name": "Girls Select"
+   "club": "Salvo Soccer Club",
+   "id": "300365265",
+   "name": "Salvo SC Navy"
   },
   {
    "club": "Tonka United SA",
    "id": "300365272",
    "name": "Girls Academy"
+  },
+  {
+   "club": "United FC Rush",
+   "id": "300365278",
+   "name": "Girls Select"
   },
   {
    "club": "Minneapolis United Soccer Club",
@@ -198,7 +198,7 @@
   {
    "club": "Lakeville Soccer Club",
    "id": "300365269",
-   "name": "Girls Gold"
+   "name": "TCSL Regional Select"
   },
   {
    "club": "Manitou FC",
@@ -216,24 +216,24 @@
    "name": "Girls Samba"
   },
   {
-   "club": "Alexandria Area SA",
-   "id": "11946908",
-   "name": "Redbirds FC Girls"
-  },
-  {
    "club": "Waconia Soccer Club",
    "id": "300365260",
    "name": "Girls Perez"
   },
   {
+   "club": "Alexandria Area SA",
+   "id": "11946908",
+   "name": "Redbirds FC Girls"
+  },
+  {
    "club": "Fusion Soccer Club",
    "id": "300365241",
-   "name": "Girls Select"
+   "name": "TCSL Regional Select"
   },
   {
    "club": "North United SC",
    "id": "300482589",
-   "name": "Girls NUSC Platinum"
+   "name": "TCSL State Platinum"
   },
   {
    "club": "North Suburban SA",
@@ -288,7 +288,7 @@
   {
    "club": "Legacy FC",
    "id": "300472961",
-   "name": "LFC Girls Elite"
+   "name": "TCSL Regional Elite"
   },
   {
    "club": "BV UNITED",
@@ -399,6 +399,16 @@
    "club": "Fusion Soccer Club",
    "id": "12187877",
    "name": "Girls Academy"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "16038550",
+   "name": "WWFC"
+  },
+  {
+   "club": "Twin Cities Fire Soccer Club",
+   "id": "16770400",
+   "name": "ECNL RL"
   },
   {
    "club": "Gitchi Gummi Soccer Club",

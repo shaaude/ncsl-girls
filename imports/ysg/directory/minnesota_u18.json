@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-10-13T15:10:04.364346+00:00",
+ "fetched_at": "2026-10-20T12:37:46.465491+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
@@ -41,14 +41,14 @@
    "name": "Girls NPL"
   },
   {
-   "club": "East Select Soccer",
-   "id": "300484496",
-   "name": "East Select"
-  },
-  {
    "club": "Boreal FC",
    "id": "300343045",
    "name": "Boreal FC ECNL RL"
+  },
+  {
+   "club": "East Select Soccer",
+   "id": "300484496",
+   "name": "East Select"
   },
   {
    "club": "Fusion Soccer Club",
@@ -63,17 +63,12 @@
   {
    "club": "EPSC",
    "id": "300343024",
-   "name": "Girls Red"
+   "name": "ECNL RL"
   },
   {
    "club": "East Ridge Soccer Club",
    "id": "300343002",
    "name": "Girls Elite NPL"
-  },
-  {
-   "club": "Keliix-Intra Soccer Club",
-   "id": "300343036",
-   "name": "Keliix-Intra SC - ECNL RL"
   },
   {
    "club": "Lakeville Soccer Club",
@@ -86,9 +81,9 @@
    "name": "Salvo SC ECNL RL"
   },
   {
-   "club": "North Star FC",
-   "id": "300343023",
-   "name": "NORTH STAR FC Academy"
+   "club": "Keliix-Intra Soccer Club",
+   "id": "300343036",
+   "name": "Keliix-Intra SC - ECNL RL"
   },
   {
    "club": "Fusion Soccer Club",
@@ -96,9 +91,9 @@
    "name": "Girls Select"
   },
   {
-   "club": "North Oaks Soccer Club",
-   "id": "300342975",
-   "name": "NOSC Blast South Girls - Sahara"
+   "club": "North Star FC",
+   "id": "300343023",
+   "name": "NORTH STAR FC Academy"
   },
   {
    "club": "Minneapolis United Soccer Club",
@@ -106,9 +101,9 @@
    "name": "Girls Elite"
   },
   {
-   "club": "Twin Cities Fire Soccer Club",
-   "id": "300486227",
-   "name": "Fire SC North"
+   "club": "North Oaks Soccer Club",
+   "id": "300342975",
+   "name": "NOSC Blast South Girls - Sahara"
   },
   {
    "club": "Manitou FC",
@@ -116,14 +111,19 @@
    "name": "ECNL RL"
   },
   {
-   "club": "North Suburban SA",
-   "id": "300343009",
-   "name": "Girls Academy Black NPL"
+   "club": "Twin Cities Fire Soccer Club",
+   "id": "300486227",
+   "name": "Fire SC North"
   },
   {
    "club": "North Star FC",
    "id": "300479922",
    "name": "NSFC Winona Girls"
+  },
+  {
+   "club": "North Suburban SA",
+   "id": "300343009",
+   "name": "Girls Academy Black NPL"
   },
   {
    "club": "35 Select",
@@ -171,24 +171,24 @@
    "name": "Girls Navy"
   },
   {
-   "club": "Maplebrook Soccer Association",
-   "id": "300342991",
-   "name": "Girls State - Petersen"
-  },
-  {
    "club": "Legacy FC",
    "id": "300482508",
    "name": "LFC Girls Elite"
   },
   {
-   "club": "Dakota Soccer Club",
-   "id": "300343025",
-   "name": "- Girls"
+   "club": "Maplebrook Soccer Association",
+   "id": "300342991",
+   "name": "Girls State - Petersen"
   },
   {
    "club": "CC United Soccer Club",
    "id": "300343016",
    "name": "Girls Regional"
+  },
+  {
+   "club": "Dakota Soccer Club",
+   "id": "300343025",
+   "name": "- Girls"
   },
   {
    "club": "Orono Westonka Soccer League",
@@ -221,14 +221,14 @@
    "name": "Girls Volt"
   },
   {
-   "club": "North Star FC",
-   "id": "300477530",
-   "name": "NSFC BLACK"
-  },
-  {
    "club": "Sartell Soccer Association",
    "id": "300489141",
    "name": "Sartell Valkyrie"
+  },
+  {
+   "club": "North Star FC",
+   "id": "300477530",
+   "name": "NSFC BLACK"
   },
   {
    "club": "New Prague Area Youth Soccer",
@@ -236,14 +236,14 @@
    "name": "New Prague SMSL"
   },
   {
-   "club": "Minnesota Rush",
-   "id": "11930364",
-   "name": "Girls NARS"
-  },
-  {
    "club": "Minnesota Thunder Academy",
    "id": "300539477",
    "name": "MN Thunder Academy ECNL"
+  },
+  {
+   "club": "Minnesota Rush",
+   "id": "11930364",
+   "name": "Girls NARS"
   },
   {
    "club": "Alexandria Area SA",
@@ -289,6 +289,11 @@
    "club": "Salvo SC",
    "id": "12336884",
    "name": "GA"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "16038950",
+   "name": "WWFC"
   },
   {
    "club": "Lakes Area Youth Soccer Association",

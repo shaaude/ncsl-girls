@@ -1,7 +1,7 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-10-13T14:59:22.712502+00:00",
+ "fetched_at": "2026-10-20T12:27:06.455559+00:00",
  "state": "KY",
  "state_slug": "kentucky",
  "teams": [
@@ -36,14 +36,9 @@
    "name": "Racing Academy Purple"
   },
   {
-   "club": "Kings Hammer Cincinnati",
-   "id": "300524757",
-   "name": "KHA NKY Red"
-  },
-  {
-   "club": "Kings Hammer Cincinnati",
-   "id": "300524755",
-   "name": "KHA NKY Black"
+   "club": "Falls City Soccer Club",
+   "id": "300524754",
+   "name": "FCSC GOLD"
   },
   {
    "club": "LouCity / Racing Youth Academy",
@@ -51,14 +46,24 @@
    "name": "Racing South Black"
   },
   {
-   "club": "Falls City Soccer Club",
-   "id": "300524754",
-   "name": "FCSC GOLD"
+   "club": "Kings Hammer Cincinnati",
+   "id": "300524755",
+   "name": "KHA NKY Black"
+  },
+  {
+   "club": "Kings Hammer Cincinnati",
+   "id": "300524757",
+   "name": "KHA NKY Red"
   },
   {
    "club": "Winchester Soccer Club",
    "id": "300500933",
    "name": "WinCity United Girls"
+  },
+  {
+   "club": "I AM 3RD SOCCER",
+   "id": "300536495",
+   "name": "PDA Girls Blue"
   },
   {
    "club": "LouCity / Racing Youth Academy",
@@ -76,14 +81,14 @@
    "name": "Racing Oldham Purple"
   },
   {
-   "club": "Madison United Soccer Association",
-   "id": "300524753",
-   "name": "MUSA Flyers Girls"
-  },
-  {
    "club": "Independence SC",
    "id": "300552074",
    "name": "ISC Shamrocks"
+  },
+  {
+   "club": "Madison United Soccer Association",
+   "id": "300524753",
+   "name": "MUSA Flyers Girls"
   },
   {
    "club": "Cynthiana-Harrison County YS",
@@ -101,14 +106,49 @@
    "name": "MVP Black"
   },
   {
+   "club": "Mockingbird Valley Premier",
+   "id": "12220335",
+   "name": "MVP Academy"
+  },
+  {
+   "club": "Lexington Sporting",
+   "id": "300536498",
+   "name": "Lexington Sporting - Academy Pre ECNL"
+  },
+  {
+   "club": "I AM 3RD SOCCER",
+   "id": "300557030",
+   "name": "PDA Girls Black"
+  },
+  {
    "club": "Lexington Sporting",
    "id": "300524750",
    "name": "Lex Sporting Black"
   },
   {
-   "club": "I AM 3RD SOCCER",
-   "id": "300536495",
-   "name": "PDA Girls Blue"
+   "club": "Valor United FC",
+   "id": "300556487",
+   "name": "Lady Valor"
+  },
+  {
+   "club": "Madison United Soccer Association",
+   "id": "300553482",
+   "name": "MUSA Flyers Jr Academy Girls"
+  },
+  {
+   "club": "LouCity / Racing Youth Academy",
+   "id": "300552656",
+   "name": "Racing South Purple"
+  },
+  {
+   "club": "IAM3RD PDA",
+   "id": "300548308",
+   "name": "PDA GIRLS BLACK"
+  },
+  {
+   "club": "Paducah Futbal Academy",
+   "id": "300536499",
+   "name": "PFA Girls"
   },
   {
    "club": "Winchester Soccer Club",
@@ -119,46 +159,6 @@
    "club": "Lexington Sporting",
    "id": "300536497",
    "name": "Lexington Sporting -Pre ECNL Green"
-  },
-  {
-   "club": "Lexington Sporting",
-   "id": "300536498",
-   "name": "Lexington Sporting - Academy Pre ECNL"
-  },
-  {
-   "club": "Paducah Futbal Academy",
-   "id": "300536499",
-   "name": "PFA Girls"
-  },
-  {
-   "club": "IAM3RD PDA",
-   "id": "300548308",
-   "name": "PDA GIRLS BLACK"
-  },
-  {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "300552656",
-   "name": "Racing South Purple"
-  },
-  {
-   "club": "Madison United Soccer Association",
-   "id": "300553482",
-   "name": "MUSA Flyers Jr Academy Girls"
-  },
-  {
-   "club": "Valor United FC",
-   "id": "300556487",
-   "name": "Lady Valor"
-  },
-  {
-   "club": "I AM 3RD SOCCER",
-   "id": "300557030",
-   "name": "PDA Girls Black"
-  },
-  {
-   "club": "Mockingbird Valley Premier",
-   "id": "12220335",
-   "name": "MVP Academy"
   },
   {
    "club": "Central Kentucky Storm SC",
@@ -239,6 +239,46 @@
    "club": "LouCity / Racing Youth Academy",
    "id": "300524749",
    "name": "Racing Shelby Purple"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476550",
+   "name": "U8G1"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476600",
+   "name": "U8G2"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476650",
+   "name": "U8G3"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476700",
+   "name": "U8G4"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476750",
+   "name": "U8G5"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476800",
+   "name": "U8G6"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476850",
+   "name": "U8G7"
+  },
+  {
+   "club": "EYSA",
+   "id": "16476900",
+   "name": "U8G8"
   }
  ]
 }

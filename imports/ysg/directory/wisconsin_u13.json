@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-10-13T15:55:04.626498+00:00",
+ "fetched_at": "2026-10-20T13:22:46.518284+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
@@ -16,6 +16,11 @@
    "name": "FC Wisconsin ECNL"
   },
   {
+   "club": "Croatian Eagles SC",
+   "id": "300559099",
+   "name": "Aspire"
+  },
+  {
    "club": "Madison 56ers",
    "id": "300519566",
    "name": "GA"
@@ -26,14 +31,14 @@
    "name": "Aspire"
   },
   {
-   "club": "North Shore United",
-   "id": "300551532",
-   "name": "Aspire"
-  },
-  {
    "club": "Polonia SC",
    "id": "300423698",
    "name": "Polonia (WI)"
+  },
+  {
+   "club": "North Shore United",
+   "id": "300551532",
+   "name": "Aspire"
   },
   {
    "club": "ACE SOCCER CLUB",
@@ -51,6 +56,11 @@
    "name": "WW VSA"
   },
   {
+   "club": "RUSH WI Southeast",
+   "id": "300519565",
+   "name": "Girls National"
+  },
+  {
    "club": "Western Wisconsin Soccer",
    "id": "300423707",
    "name": "WWFC"
@@ -61,14 +71,19 @@
    "name": "LKF CHARACTER"
   },
   {
-   "club": "FC Wisconsin",
-   "id": "300423727",
-   "name": "Pre-ECNL"
+   "club": "RUSH Wisconsin",
+   "id": "300557568",
+   "name": "G Rush (WI)"
   },
   {
    "club": "Hartford Soccer Club",
    "id": "300423705",
    "name": "HSC Girls Orange"
+  },
+  {
+   "club": "FC Wisconsin",
+   "id": "300423727",
+   "name": "Pre-ECNL"
   },
   {
    "club": "Western Wisconsin Soccer",
@@ -79,31 +94,6 @@
    "club": "Rice Lake Soccer Association",
    "id": "300478206",
    "name": "RLSA Stars"
-  },
-  {
-   "club": "Sauk Prairie Strikers",
-   "id": "11800989",
-   "name": "Red"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club",
-   "id": "11818477",
-   "name": "LX United Girls Select"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "11828852",
-   "name": "EBU - Premier II"
-  },
-  {
-   "club": "MAS",
-   "id": "11833902",
-   "name": "Girls"
-  },
-  {
-   "club": "WR Kickers Shaw/Hanneman",
-   "id": "11833903",
-   "name": "2025 U12"
   },
   {
    "club": "Legacy Soccer",
@@ -271,11 +261,6 @@
    "name": "ICE"
   },
   {
-   "club": "Whitewater United",
-   "id": "12130522",
-   "name": "Whitewater United FC"
-  },
-  {
    "club": "AC Toros",
    "id": "12150274",
    "name": "AC-Toros Red"
@@ -361,29 +346,9 @@
    "name": "WWFC"
   },
   {
-   "club": "Croatian Eagles SC",
-   "id": "12294261",
-   "name": "Aspire"
-  },
-  {
    "club": "SC Wave",
    "id": "12294262",
    "name": "Aspire"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "12294264",
-   "name": "Aspire"
-  },
-  {
-   "club": "North Shore United",
-   "id": "12294777",
-   "name": "GA"
-  },
-  {
-   "club": "SC Wave",
-   "id": "12314311",
-   "name": "GA"
   },
   {
    "club": "Capital East",
@@ -404,6 +369,36 @@
    "club": "Elmbrook United",
    "id": "14552650",
    "name": "Elmbrook United Girls Elite"
+  },
+  {
+   "club": "RUSH Wisconsin",
+   "id": "16035800",
+   "name": "Rush WI Girls Rush"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "16036050",
+   "name": "LXU Girls Select Blue"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "16036150",
+   "name": "LXU Girls Select Grey"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "16036800",
+   "name": "Madision Girls Silver"
+  },
+  {
+   "club": "Valkyrie",
+   "id": "16040200",
+   "name": "Valkyrie"
+  },
+  {
+   "club": "Eau Claire United Soccer Club",
+   "id": "16042150",
+   "name": "ECU Girls"
   },
   {
    "club": "Madison 56ers",
@@ -496,16 +491,6 @@
    "name": "Middleton United White"
   },
   {
-   "club": "SPSC",
-   "id": "300423702",
-   "name": "Girls Red"
-  },
-  {
-   "club": "Capital East Soccer Club",
-   "id": "300423704",
-   "name": "Maroon"
-  },
-  {
    "club": "Middleton United Soccer Club",
    "id": "300423709",
    "name": "MU Red"
@@ -576,11 +561,6 @@
    "name": "McFarland Girls Blue"
   },
   {
-   "club": "Capital East Blue",
-   "id": "300481452",
-   "name": "Capital East Blue"
-  },
-  {
    "club": "Elmbrook United",
    "id": "300485389",
    "name": "EBU Classic"
@@ -601,19 +581,9 @@
    "name": "SC Wave"
   },
   {
-   "club": "Madison 56ers",
-   "id": "300485393",
-   "name": "Madison Girls White"
-  },
-  {
    "club": "Legacy",
    "id": "300485394",
    "name": "Legacy Girls Red"
-  },
-  {
-   "club": "RUSH WI Southeast",
-   "id": "300519565",
-   "name": "Girls National"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -671,9 +641,19 @@
    "name": "Aspire"
   },
   {
-   "club": "RUSH Wisconsin",
-   "id": "300557568",
-   "name": "G Rush (WI)"
+   "club": "North Shore United",
+   "id": "300558639",
+   "name": "GA"
+  },
+  {
+   "club": "SC Wave",
+   "id": "300558640",
+   "name": "GA"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "300559098",
+   "name": "Aspire"
   }
  ]
 }

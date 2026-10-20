@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-13T15:05:12.891159+00:00",
+ "fetched_at": "2026-10-20T12:32:56.482456+00:00",
  "state": "MA",
  "state_slug": "massachusetts",
  "teams": [
@@ -16,11 +16,6 @@
    "name": "NSCCL England"
   },
   {
-   "club": "Scorpions SC",
-   "id": "300521311",
-   "name": "Pre-ECNL"
-  },
-  {
    "club": "Needham Soccer Club",
    "id": "300448642",
    "name": "NSCCL Norway"
@@ -29,6 +24,11 @@
    "club": "Needham Soccer Club",
    "id": "300448638",
    "name": "NSCCL Italy"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "300521311",
+   "name": "Pre-ECNL"
   },
   {
    "club": "Select",
@@ -41,29 +41,24 @@
    "name": "NSCCL Brazil"
   },
   {
-   "club": "New England Force",
-   "id": "300521227",
-   "name": "Inspire"
-  },
-  {
    "club": "Needham Soccer Club",
    "id": "300448635",
    "name": "NSCCL Chile"
   },
   {
    "club": "New England Force",
-   "id": "300521231",
-   "name": "Girls Midnight"
-  },
-  {
-   "club": "Western United Pioneers FC",
-   "id": "300448548",
+   "id": "300521227",
    "name": "Inspire"
   },
   {
    "club": "FC Stars",
    "id": "300448603",
    "name": "Metro Girls McDonough"
+  },
+  {
+   "club": "Western United Pioneers FC",
+   "id": "300448548",
+   "name": "Inspire"
   },
   {
    "club": "Select",
@@ -76,19 +71,14 @@
    "name": "NSCCL Nigeria"
   },
   {
-   "club": "Scorpions SC",
-   "id": "300448571",
-   "name": "Scorpions SC East Black"
-  },
-  {
    "club": "Needham Soccer Club",
    "id": "300448637",
    "name": "NSCCL Germany"
   },
   {
-   "club": "FC Stars",
-   "id": "300488294",
-   "name": "FC Stars Metrowest Summer Team Girls"
+   "club": "Scorpions SC",
+   "id": "300448571",
+   "name": "Scorpions SC East Black"
   },
   {
    "club": "Needham Soccer Club",
@@ -99,6 +89,11 @@
    "club": "Select",
    "id": "300466885",
    "name": "South Shore AP Black"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300488294",
+   "name": "FC Stars Metrowest Summer Team Girls"
   },
   {
    "club": "Needham Soccer Club",
@@ -116,6 +111,26 @@
    "name": "NSCCL Netherlands"
   },
   {
+   "club": "IFA",
+   "id": "300448553",
+   "name": "Inspire"
+  },
+  {
+   "club": "New England Force",
+   "id": "300521231",
+   "name": "Girls Midnight"
+  },
+  {
+   "club": "New England Surf",
+   "id": "300448610",
+   "name": "New England Surf Metro West Girls NAVY"
+  },
+  {
+   "club": "Needham Soccer Club",
+   "id": "300448643",
+   "name": "NSCCL USA"
+  },
+  {
    "club": "New England Surf",
    "id": "300448591",
    "name": "New England Surf Metro Boston Navy Girls"
@@ -126,34 +141,19 @@
    "name": "South Shore AP Navy Wave"
   },
   {
-   "club": "Needham Soccer Club",
-   "id": "300448643",
-   "name": "NSCCL USA"
-  },
-  {
-   "club": "New England Surf",
-   "id": "300448610",
-   "name": "New England Surf Metro West Girls NAVY"
-  },
-  {
-   "club": "IFA",
-   "id": "300448553",
-   "name": "Inspire"
-  },
-  {
    "club": "SFC New England",
    "id": "300448565",
    "name": "SFC Pre-NAL"
   },
   {
+   "club": "America FC United",
+   "id": "300546280",
+   "name": "AFC Girls Pre-DPL"
+  },
+  {
    "club": "Select",
    "id": "300448593",
    "name": "North Shore AP Sky Blue"
-  },
-  {
-   "club": "NEFC",
-   "id": "300448547",
-   "name": "NEFC South Girls Red"
   },
   {
    "club": "NEFC",
@@ -166,14 +166,24 @@
    "name": "North Girls Carolina Blue"
   },
   {
+   "club": "NEFC",
+   "id": "300521241",
+   "name": "NEFC North Shore Girls Pre-GA Red"
+  },
+  {
    "club": "Seacoast United Massachusetts",
    "id": "300448629",
    "name": "Inspire"
   },
   {
-   "club": "Select",
-   "id": "300448575",
-   "name": "South Shore AP Sky Blue Legacy"
+   "club": "New England Force",
+   "id": "300521228",
+   "name": "South Shore DPL"
+  },
+  {
+   "club": "NEFC",
+   "id": "300448547",
+   "name": "NEFC South Girls Red"
   },
   {
    "club": "Needham Soccer Club",
@@ -191,14 +201,9 @@
    "name": "IFA South Shore Girls Pre-NAL"
   },
   {
-   "club": "FC Stars",
-   "id": "300448568",
-   "name": "FC Stars Acton Blue- Mike"
-  },
-  {
-   "club": "America FC United",
-   "id": "300546280",
-   "name": "AFC Girls Pre-DPL"
+   "club": "Select",
+   "id": "300448575",
+   "name": "South Shore AP Sky Blue Legacy"
   },
   {
    "club": "FC Stars",
@@ -206,9 +211,19 @@
    "name": "FC Stars Northboro Blue"
   },
   {
+   "club": "FC Stars",
+   "id": "300448568",
+   "name": "FC Stars Acton Blue- Mike"
+  },
+  {
    "club": "NATICK SOCCER CLUB",
    "id": "300480236",
    "name": "Natick Strikers"
+  },
+  {
+   "club": "Seacoast United",
+   "id": "300552540",
+   "name": "Inspire"
   },
   {
    "club": "Spirit of Liverpool USA",
@@ -216,24 +231,14 @@
    "name": "Girls National"
   },
   {
-   "club": "NEFC",
-   "id": "300521241",
-   "name": "NEFC North Shore Girls Pre-GA Red"
-  },
-  {
    "club": "New England Surf",
    "id": "300448573",
    "name": "New England Surf Metro South Girls Navy"
   },
   {
-   "club": "FC Stars",
-   "id": "300448624",
-   "name": "FC Stars North East Blue"
-  },
-  {
-   "club": "New England Force",
-   "id": "300448606",
-   "name": "Girls Surge"
+   "club": "New England Surf",
+   "id": "300521238",
+   "name": "New England Surf State Sky"
   },
   {
    "club": "Mariner Youth Soccer",
@@ -241,9 +246,19 @@
    "name": "Scorpions Girls Elite"
   },
   {
-   "club": "NEFC",
-   "id": "300448618",
-   "name": "NEFC World Class Girls"
+   "club": "FC Stars",
+   "id": "300448624",
+   "name": "FC Stars North East Blue"
+  },
+  {
+   "club": "WarCats SC",
+   "id": "300554048",
+   "name": "Girls"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "300448562",
+   "name": "MetroWest Girls Black"
   },
   {
    "club": "Spirit of Liverpool USA",
@@ -251,14 +266,9 @@
    "name": "Girls CELTIC JM"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300448545",
-   "name": "Pre-DPL"
-  },
-  {
    "club": "NEFC",
-   "id": "300448563",
-   "name": "NEFC North Shore Girls Red"
+   "id": "300448618",
+   "name": "NEFC World Class Girls"
   },
   {
    "club": "FC Stars",
@@ -266,34 +276,9 @@
    "name": "East Girls Blue"
   },
   {
-   "club": "Select",
-   "id": "300448617",
-   "name": "South Shore AT Royals"
-  },
-  {
-   "club": "NEFC",
-   "id": "300448579",
-   "name": "NEFC Metro West Girls Red"
-  },
-  {
-   "club": "NEFC",
-   "id": "300448549",
-   "name": "NEFC Newton Girls Academy Red"
-  },
-  {
    "club": "America FC United",
    "id": "300448550",
    "name": "AFC Girls Elite"
-  },
-  {
-   "club": "New England Surf",
-   "id": "300448564",
-   "name": "South Shore Girls Navy"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "300448628",
-   "name": "South Girls Black"
   },
   {
    "club": "FC Stars",
@@ -301,14 +286,34 @@
    "name": "MetroWest Girls Blue Marlboro"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300448557",
-   "name": "South Shore Royal Blue"
+   "club": "NEFC",
+   "id": "300448579",
+   "name": "NEFC Metro West Girls Red"
+  },
+  {
+   "club": "New England Force",
+   "id": "300448606",
+   "name": "Girls Surge"
+  },
+  {
+   "club": "New England Surf",
+   "id": "300448564",
+   "name": "South Shore Girls Navy"
+  },
+  {
+   "club": "NEFC",
+   "id": "300448563",
+   "name": "NEFC North Shore Girls Red"
   },
   {
    "club": "Scorpions SC",
-   "id": "300448562",
-   "name": "MetroWest Girls Black"
+   "id": "300448628",
+   "name": "South Girls Black"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "300448557",
+   "name": "South Shore Royal Blue"
   },
   {
    "club": "Wellesley Premier Club",
@@ -321,9 +326,34 @@
    "name": "Boston Bolts Metro North Pre-Academy"
   },
   {
-   "club": "New England Surf",
-   "id": "300521238",
-   "name": "New England Surf State Sky"
+   "club": "NEFC",
+   "id": "300448549",
+   "name": "NEFC Newton Girls Academy Red"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "300521247",
+   "name": "GIRLS SOUTH BLACK"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300521304",
+   "name": "FC Stars Metrowest Blue"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "300448545",
+   "name": "Pre-DPL"
+  },
+  {
+   "club": "Wellesley Premier Club",
+   "id": "300521229",
+   "name": "Wellesley Premier Club Girls FC"
+  },
+  {
+   "club": "Select",
+   "id": "300448617",
+   "name": "South Shore AT Royals"
   },
   {
    "club": "Select",
@@ -336,9 +366,9 @@
    "name": "Wildcats Football Club"
   },
   {
-   "club": "Scorpions SC",
-   "id": "300448601",
-   "name": "MetroWest Girls White"
+   "club": "Select",
+   "id": "300448598",
+   "name": "New Hampshire"
   },
   {
    "club": "Lexington United Soccer Club",
@@ -346,24 +376,14 @@
    "name": "Girls LPDA"
   },
   {
-   "club": "Select",
-   "id": "300448598",
-   "name": "New Hampshire"
-  },
-  {
    "club": "NEFC",
    "id": "300448611",
    "name": "NEFC North Shore Girls Grey"
   },
   {
-   "club": "NEFC",
-   "id": "300448552",
-   "name": "NEFC Metro North Girls Red"
-  },
-  {
-   "club": "New England Force",
-   "id": "300521232",
-   "name": "Girls Pre DPL"
+   "club": "Scorpions SC",
+   "id": "300448601",
+   "name": "MetroWest Girls White"
   },
   {
    "club": "SFC New England",
@@ -371,39 +391,14 @@
    "name": "SFC White"
   },
   {
-   "club": "New England Surf",
-   "id": "300448625",
-   "name": "South Shore Girls Sky"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "300521247",
-   "name": "GIRLS SOUTH BLACK"
-  },
-  {
-   "club": "IFA",
-   "id": "300448620",
-   "name": "West Blue"
-  },
-  {
    "club": "NEFC",
    "id": "300448577",
    "name": "Blackstone Valley Girls Red"
   },
   {
-   "club": "IFA",
-   "id": "300448561",
-   "name": "MW Girls Blue"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300466888",
-   "name": "New Hampshire Girls Blue"
-  },
-  {
-   "club": "Burlington Youth Soccer Assoc. of Mass",
-   "id": "300448583",
-   "name": "Burlington Soccer Academy Girls"
+   "club": "Boston Vigor FC",
+   "id": "300448605",
+   "name": "Boston Vigor FC Girls Liverpool"
   },
   {
    "club": "Inter Academy Metrowest Boston",
@@ -417,18 +412,23 @@
   },
   {
    "club": "IFA",
-   "id": "300448645",
-   "name": "West Gold"
+   "id": "300448620",
+   "name": "West Blue"
   },
   {
-   "club": "Boston Vigor FC",
-   "id": "300448605",
-   "name": "Boston Vigor FC Girls Liverpool"
+   "club": "IFA",
+   "id": "300448561",
+   "name": "MW Girls Blue"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300448622",
-   "name": "Girls Southeast Navy"
+   "club": "FC Stars",
+   "id": "300466888",
+   "name": "New Hampshire Girls Blue"
+  },
+  {
+   "club": "NEFC",
+   "id": "300448552",
+   "name": "NEFC Metro North Girls Red"
   },
   {
    "club": "Seacoast United Massachusetts",
@@ -436,14 +436,9 @@
    "name": "North Girls Navy"
   },
   {
-   "club": "Scorpions SC",
-   "id": "300448581",
-   "name": "Scorpions SC East White"
-  },
-  {
-   "club": "AC Independence",
-   "id": "300448614",
-   "name": "ACI Girls Lighthouse"
+   "club": "IFA",
+   "id": "300448645",
+   "name": "West Gold"
   },
   {
    "club": "Seacoast United Massachusetts",
@@ -451,19 +446,14 @@
    "name": "South Shore Sky Blue"
   },
   {
-   "club": "Western United Pioneers FC",
-   "id": "300493340",
-   "name": "Girls Elite White"
+   "club": "Burlington Youth Soccer Assoc. of Mass",
+   "id": "300448583",
+   "name": "Burlington Soccer Academy Girls"
   },
   {
    "club": "Seacoast United Massachusetts",
-   "id": "300448558",
-   "name": "South Shore Teal"
-  },
-  {
-   "club": "Commonwealth Football Club",
-   "id": "300448546",
-   "name": "Girls"
+   "id": "300448622",
+   "name": "Girls Southeast Navy"
   },
   {
    "club": "NEFC",
@@ -471,9 +461,14 @@
    "name": "NEFC Metro West Girls Northboro Red"
   },
   {
-   "club": "NEFC",
-   "id": "300448582",
-   "name": "NEFC South Girls Navy"
+   "club": "Western United Pioneers FC",
+   "id": "300493340",
+   "name": "Girls Elite White"
+  },
+  {
+   "club": "New England Force",
+   "id": "300521232",
+   "name": "Girls Pre DPL"
   },
   {
    "club": "Scorpions SC",
@@ -481,14 +476,19 @@
    "name": "South Girls White"
   },
   {
-   "club": "America FC United",
-   "id": "300448578",
-   "name": "AFC Girls Pre-Elite"
+   "club": "Seacoast United Massachusetts",
+   "id": "300448558",
+   "name": "South Shore Teal"
   },
   {
-   "club": "IFA",
-   "id": "300448554",
-   "name": "Greater Boston Gold"
+   "club": "AC Independence",
+   "id": "300448614",
+   "name": "ACI Girls Lighthouse"
+  },
+  {
+   "club": "Commonwealth Football Club",
+   "id": "300448546",
+   "name": "Girls"
   },
   {
    "club": "Harvest Soccer Club",
@@ -496,9 +496,64 @@
    "name": "Harvest SC Girls"
   },
   {
+   "club": "FC Stars",
+   "id": "300448627",
+   "name": "FC Stars Acton White- Foley"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "300448581",
+   "name": "Scorpions SC East White"
+  },
+  {
+   "club": "New England Surf",
+   "id": "300448574",
+   "name": "Metro South Girls Sky"
+  },
+  {
+   "club": "NEFC",
+   "id": "300448582",
+   "name": "NEFC South Girls Navy"
+  },
+  {
+   "club": "IFA",
+   "id": "300448554",
+   "name": "Greater Boston Gold"
+  },
+  {
+   "club": "Wachusett United FC",
+   "id": "300466880",
+   "name": "Wachusett United FC Girls"
+  },
+  {
    "club": "Scorpions SC",
    "id": "300466882",
    "name": "East Teal"
+  },
+  {
+   "club": "NEFC",
+   "id": "300448566",
+   "name": "NEFC North Shore Girls Navy"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "300521246",
+   "name": "Girls South Shore Navy"
+  },
+  {
+   "club": "America FC United",
+   "id": "300448578",
+   "name": "AFC Girls Pre-Elite"
+  },
+  {
+   "club": "FC Stars",
+   "id": "11971736",
+   "name": "Acton Girls Blue Foley"
+  },
+  {
+   "club": "Northfields United",
+   "id": "300448600",
+   "name": "Northfields United Girls"
   },
   {
    "club": "FC Stars",
@@ -507,33 +562,13 @@
   },
   {
    "club": "FC Stars",
-   "id": "300448627",
-   "name": "FC Stars Acton White- Foley"
-  },
-  {
-   "club": "NEFC",
-   "id": "300448566",
-   "name": "NEFC North Shore Girls Navy"
+   "id": "11971738",
+   "name": "Acton Girls White Dewhurst"
   },
   {
    "club": "New England Force",
    "id": "300448608",
    "name": "New England Force Girls Pre Surge"
-  },
-  {
-   "club": "FC Stars",
-   "id": "11971736",
-   "name": "Acton Girls Blue Foley"
-  },
-  {
-   "club": "Wachusett United FC",
-   "id": "300466880",
-   "name": "Wachusett United FC Girls"
-  },
-  {
-   "club": "FC Stars",
-   "id": "11971738",
-   "name": "Acton Girls White Dewhurst"
   },
   {
    "club": "Marshfield United Soccer Club",
@@ -546,24 +581,9 @@
    "name": "Marshfield United Girls Grey"
   },
   {
-   "club": "Marshfield United Soccer Club",
-   "id": "300521248",
-   "name": "Marshfield United Girls"
-  },
-  {
    "club": "NEFC",
    "id": "11972297",
    "name": "North Shore Soccer Academy Oceanside GIrls"
-  },
-  {
-   "club": "Wellesley Premier Club",
-   "id": "300448619",
-   "name": "Girls Raiders"
-  },
-  {
-   "club": "New England Surf",
-   "id": "300448574",
-   "name": "Metro South Girls Sky"
   },
   {
    "club": "New England Surf",
@@ -576,9 +596,29 @@
    "name": "South Shore PA Spirit"
   },
   {
+   "club": "Wellesley Premier Club",
+   "id": "300448619",
+   "name": "Girls Raiders"
+  },
+  {
+   "club": "Marshfield United Soccer Club",
+   "id": "300521248",
+   "name": "Marshfield United Girls"
+  },
+  {
+   "club": "IFA South Shore",
+   "id": "300448580",
+   "name": "IFA South Shore Girls Blue"
+  },
+  {
    "club": "Boston Football Club",
    "id": "300448655",
    "name": "GU11"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "300448607",
+   "name": "Girls Metro West Navy"
   },
   {
    "club": "WarCats SC",
@@ -591,11 +631,6 @@
    "name": "Boston Bolts Boston Pre-Academy"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300448607",
-   "name": "Girls Metro West Navy"
-  },
-  {
    "club": "Fellsway Wanderers FC",
    "id": "300448584",
    "name": "Girls"
@@ -606,9 +641,9 @@
    "name": "New England Force Girls Storm Black"
   },
   {
-   "club": "IFA South Shore",
-   "id": "300448580",
-   "name": "IFA South Shore Girls Blue"
+   "club": "Seacoast United Massachusetts",
+   "id": "300448599",
+   "name": "North Girls Navy"
   },
   {
    "club": "Valeo FC",
@@ -616,19 +651,14 @@
    "name": "WAVE"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300448599",
-   "name": "North Girls Navy"
+   "club": "FC Boston Bolts",
+   "id": "300448626",
+   "name": "Boston Bolts West Pre-NAL"
   },
   {
    "club": "FC Boston Bolts",
    "id": "300467462",
    "name": "Boston Bolts Boston Elite"
-  },
-  {
-   "club": "FC Boston Bolts",
-   "id": "300448626",
-   "name": "Boston Bolts West Pre-NAL"
   },
   {
    "club": "Steel United Massachusetts",
@@ -781,11 +811,6 @@
    "name": "NEFC Central DPL"
   },
   {
-   "club": "FC Stars",
-   "id": "15442250",
-   "name": "FC Stars Lancaster Pre-ECNL"
-  },
-  {
    "club": "Seekonk Youth Soccer",
    "id": "15544550",
    "name": "SEEKONK, CETENICH"
@@ -841,9 +866,9 @@
    "name": "Boston Sky Blue"
   },
   {
-   "club": "Northfields United",
-   "id": "300448600",
-   "name": "Northfields United Girls"
+   "club": "New England Surf",
+   "id": "300448625",
+   "name": "South Shore Girls Sky"
   },
   {
    "club": "IFA",
@@ -906,16 +931,6 @@
    "name": "Wachusett United FC Girls"
   },
   {
-   "club": "New England Force",
-   "id": "300521228",
-   "name": "South Shore DPL"
-  },
-  {
-   "club": "Wellesley Premier Club",
-   "id": "300521229",
-   "name": "Wellesley Premier Club Girls FC"
-  },
-  {
    "club": "Select",
    "id": "300521230",
    "name": "South Shore AP Sky Blue Reign"
@@ -961,11 +976,6 @@
    "name": "NEFC South Girls Red"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300521246",
-   "name": "Girls South Shore Navy"
-  },
-  {
    "club": "BOMBER NATION",
    "id": "300521249",
    "name": "BOMBER NATION"
@@ -992,11 +1002,6 @@
   },
   {
    "club": "FC Stars",
-   "id": "300521304",
-   "name": "FC Stars Metrowest Blue"
-  },
-  {
-   "club": "FC Stars",
    "id": "300521305",
    "name": "FC Stars Marlboro Pre-ECNL"
   },
@@ -1018,7 +1023,7 @@
   {
    "club": "New England Surf",
    "id": "300521310",
-   "name": "Pre ECNL"
+   "name": "New England Surf Pre ECNL"
   },
   {
    "club": "Scorpions SC",
@@ -1081,11 +1086,6 @@
    "name": "Girls State Select"
   },
   {
-   "club": "Seacoast United",
-   "id": "300552540",
-   "name": "Inspire"
-  },
-  {
    "club": "FC Stars",
    "id": "300553175",
    "name": "FC Stars Worcester"
@@ -1099,11 +1099,6 @@
    "club": "Best FC",
    "id": "300553177",
    "name": "BEST FC Girls Regional"
-  },
-  {
-   "club": "WarCats SC",
-   "id": "300554048",
-   "name": "Girls"
   },
   {
    "club": "WarCats SC",
@@ -1149,6 +1144,11 @@
    "club": "Needham Soccer Club",
    "id": "300557639",
    "name": "Needham Force"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300559153",
+   "name": "FC Stars Lancaster Pre-ECNL"
   }
  ]
 }

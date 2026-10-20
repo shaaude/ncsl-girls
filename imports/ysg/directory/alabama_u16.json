@@ -1,10 +1,20 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-13T14:31:08.453018+00:00",
+ "fetched_at": "2026-10-20T11:58:56.432186+00:00",
  "state": "AL",
  "state_slug": "alabama",
  "teams": [
+  {
+   "club": "Alabama FC",
+   "id": "300540788",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "300540787",
+   "name": "ECNL"
+  },
   {
    "club": "Hoover Vestavia Soccer",
    "id": "300358544",
@@ -46,16 +56,6 @@
    "name": "Huntsville ECNL RL"
   },
   {
-   "club": "Revolution Soccer Club",
-   "id": "16493100",
-   "name": "Revolution Girls Navy (AL)"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "300358496",
-   "name": "Central Premier"
-  },
-  {
    "club": "Homewood Soccer Club",
    "id": "16494200",
    "name": "Homewood Soccer Club Girls Freedom AL"
@@ -72,6 +72,11 @@
   },
   {
    "club": "Alabama FC",
+   "id": "300358496",
+   "name": "Central Premier"
+  },
+  {
+   "club": "Alabama FC",
    "id": "16493550",
    "name": "Alabama FC Girls AL"
   },
@@ -81,14 +86,19 @@
    "name": "NASC Girls AL"
   },
   {
+   "club": "Auburn Soccer Club (AL)",
+   "id": "16492950",
+   "name": "Auburn Soccer Club Girls AL"
+  },
+  {
    "club": "Alabama FC",
    "id": "16493200",
    "name": "Alabama FC Huntsville Girls Elite AL"
   },
   {
-   "club": "Prattville United Soccer Club",
-   "id": "300358522",
-   "name": "Prattville United FC Girls"
+   "club": "Revolution Soccer Club",
+   "id": "16493100",
+   "name": "Revolution Girls Navy (AL)"
   },
   {
    "club": "Vestavia Hills Soccer Club",
@@ -96,9 +106,9 @@
    "name": "VHSC Attack Girls Black AL"
   },
   {
-   "club": "Auburn Soccer Club (AL)",
-   "id": "16492950",
-   "name": "Auburn Soccer Club Girls AL"
+   "club": "Prattville United Soccer Club",
+   "id": "300358522",
+   "name": "Prattville United FC Girls"
   },
   {
    "club": "Alabama FC",
@@ -131,24 +141,14 @@
    "name": "Revolution White"
   },
   {
-   "club": "Homewood Soccer Club",
-   "id": "300358556",
-   "name": "Homewood Freedom Girls"
+   "club": "Hoover Soccer Club",
+   "id": "300358550",
+   "name": "Hoover Lady Phantoms Blue"
   },
   {
    "club": "Beach City FC",
    "id": "300552740",
    "name": "Clarke"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "300540788",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "300540787",
-   "name": "ECNL"
   },
   {
    "club": "VERO FC",
@@ -176,9 +176,9 @@
    "name": "Starletts"
   },
   {
-   "club": "Hoover Soccer Club",
-   "id": "300358550",
-   "name": "Hoover Lady Phantoms Blue"
+   "club": "Homewood Soccer Club",
+   "id": "300358556",
+   "name": "Homewood Freedom Girls"
   },
   {
    "club": "Tuscaloosa United Soccer Club",
@@ -244,11 +244,6 @@
    "club": "Lindenhurst Soccer Club (LIJSL)",
    "id": "11822556",
    "name": "G Bulldogs"
-  },
-  {
-   "club": "Yuba Elite FC",
-   "id": "11787101",
-   "name": "10/11G"
   },
   {
    "club": "Alabama FC",

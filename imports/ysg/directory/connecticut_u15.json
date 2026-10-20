@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T14:42:03.576303+00:00",
+ "fetched_at": "2026-10-20T12:09:46.445275+00:00",
  "state": "CT",
  "state_slug": "connecticut",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Connecticut Football Club",
-   "id": "300518466",
-   "name": "United ECNL"
-  },
-  {
    "club": "Ginga FC",
    "id": "300375430",
    "name": "Aspire"
+  },
+  {
+   "club": "Connecticut Football Club",
+   "id": "300518466",
+   "name": "United ECNL"
   },
   {
    "club": "FSA FC",
@@ -31,19 +31,9 @@
    "name": "CFC Summit Neon Girls"
   },
   {
-   "club": "CT Rush Soccer Club",
-   "id": "300375463",
-   "name": "CT Rush Select Girls ECNL RL"
-  },
-  {
    "club": "JA Elite FC",
    "id": "300375429",
    "name": "JA Elite FC - Girls"
-  },
-  {
-   "club": "Inter Connecticut FC",
-   "id": "300375416",
-   "name": "DPL"
   },
   {
    "club": "A.C. Connecticut",
@@ -51,9 +41,19 @@
    "name": "ECRL"
   },
   {
+   "club": "Inter Connecticut FC",
+   "id": "300375416",
+   "name": "DPL"
+  },
+  {
    "club": "Ajax Premier",
    "id": "300375425",
    "name": "Ajax Premier - Pink"
+  },
+  {
+   "club": "CT Rush Soccer Club",
+   "id": "300375463",
+   "name": "CT Rush Select Girls ECNL RL"
   },
   {
    "club": "Inter Connecticut FC",
@@ -66,11 +66,6 @@
    "name": "GA"
   },
   {
-   "club": "FSA FC",
-   "id": "300518465",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Chelsea Piers Soccer Club",
    "id": "300375458",
    "name": "Arsenal"
@@ -79,6 +74,11 @@
    "club": "CFC North",
    "id": "300375450",
    "name": "CFC North DPL"
+  },
+  {
+   "club": "FSA FC",
+   "id": "300518465",
+   "name": "ECNL RL"
   },
   {
    "club": "Vale SC",
@@ -106,14 +106,9 @@
    "name": "Girls Red"
   },
   {
-   "club": "Ginga FC",
-   "id": "300375412",
-   "name": "(CT)"
-  },
-  {
    "club": "CT Rush Soccer Club",
-   "id": "300375420",
-   "name": "CT Rush South Central Girls"
+   "id": "300375422",
+   "name": "CT Rush Central Girls"
   },
   {
    "club": "Connecticut Football Club",
@@ -127,18 +122,23 @@
   },
   {
    "club": "CT Rush Soccer Club",
-   "id": "300375422",
-   "name": "CT Rush Central Girls"
+   "id": "300375420",
+   "name": "CT Rush South Central Girls"
   },
   {
-   "club": "Sporting CT",
-   "id": "300375437",
-   "name": "Sporting CT Girls DPL"
+   "club": "Ginga FC",
+   "id": "300375412",
+   "name": "(CT)"
   },
   {
    "club": "Ole FC",
    "id": "300375410",
    "name": "CFC Ole NAL"
+  },
+  {
+   "club": "Sporting CT",
+   "id": "300375437",
+   "name": "Sporting CT Girls DPL"
   },
   {
    "club": "Revolution United FC",
@@ -151,14 +151,14 @@
    "name": "Greenwich United EDP"
   },
   {
-   "club": "Inter Connecticut FC",
-   "id": "300375447",
-   "name": "INTER CONNECTICUT SL Girls"
-  },
-  {
    "club": "Stamford FC",
    "id": "300375415",
    "name": "Stamford FC Girls Premier"
+  },
+  {
+   "club": "Inter Connecticut FC",
+   "id": "300375447",
+   "name": "INTER CONNECTICUT SL Girls"
   },
   {
    "club": "Vale SC",
@@ -171,6 +171,11 @@
    "name": "CFC North EDP Black"
   },
   {
+   "club": "Mendonca Soccer School",
+   "id": "300464324",
+   "name": "DOCA"
+  },
+  {
    "club": "Westchester Rush",
    "id": "300486962",
    "name": "New Fairfield Rush Girls"
@@ -179,11 +184,6 @@
    "club": "A.C. Connecticut",
    "id": "300375446",
    "name": "NAL"
-  },
-  {
-   "club": "Hartford Athletic Youth Academy",
-   "id": "300375453",
-   "name": "Hartford Athletic Girls HSC"
   },
   {
    "club": "WAM United Soccer Club",
@@ -196,9 +196,9 @@
    "name": "Central Girls White"
   },
   {
-   "club": "Mendonca Soccer School",
-   "id": "300464324",
-   "name": "DOCA"
+   "club": "Hartford Athletic Youth Academy",
+   "id": "300375453",
+   "name": "Hartford Athletic Girls HSC"
   },
   {
    "club": "Southeast Soccer Club",
@@ -216,14 +216,14 @@
    "name": "Vale-Rush West Girls"
   },
   {
-   "club": "Revolution United FC",
-   "id": "300375413",
-   "name": "Revolution White"
-  },
-  {
    "club": "Chelsea Piers Soccer Club",
    "id": "300464326",
    "name": "Newcastle"
+  },
+  {
+   "club": "Revolution United FC",
+   "id": "300375413",
+   "name": "Revolution White"
   },
   {
    "club": "Hartford Athletic Youth Academy",
@@ -249,11 +249,6 @@
    "club": "CT Crew",
    "id": "12122807",
    "name": "CT Crew"
-  },
-  {
-   "club": "New Haven",
-   "id": "12130946",
-   "name": "New Haven"
   },
   {
    "club": "Connecticut Futsal Association",
@@ -311,6 +306,21 @@
    "name": "NJSA Girls"
   },
   {
+   "club": "Newtown",
+   "id": "16139200",
+   "name": "Newtown - Girls White"
+  },
+  {
+   "club": "Guilford",
+   "id": "16140250",
+   "name": "Guilford Girls"
+  },
+  {
+   "club": "Newtown",
+   "id": "16140850",
+   "name": "Newtown - Girls Blue"
+  },
+  {
    "club": "CFC North",
    "id": "300375418",
    "name": "ECNL RL Sky"
@@ -319,11 +329,6 @@
    "club": "Avon Soccer Club",
    "id": "300375436",
    "name": "Avon Eagles"
-  },
-  {
-   "club": "West Hartford",
-   "id": "300375445",
-   "name": "West Hartford"
   },
   {
    "club": "Fairfield United Soccer Association",
@@ -409,6 +414,21 @@
    "club": "Connecticut FC",
    "id": "300541908",
    "name": "United ECNL RL"
+  },
+  {
+   "club": "Stamford FC",
+   "id": "300555460",
+   "name": "Stamford FC Gold"
+  },
+  {
+   "club": "Chelsea Piers SC",
+   "id": "300558985",
+   "name": "Dortmund"
+  },
+  {
+   "club": "New Haven",
+   "id": "300558986",
+   "name": "New Haven"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-10-13T15:22:54.432852+00:00",
+ "fetched_at": "2026-10-20T12:50:36.493434+00:00",
  "state": "NJ",
  "state_slug": "new-jersey",
  "teams": [
@@ -31,24 +31,19 @@
    "name": "GA"
   },
   {
-   "club": "STA",
-   "id": "300343814",
-   "name": "GA"
-  },
-  {
    "club": "NJ Nationals FC",
    "id": "300343843",
    "name": "Girls Elite"
   },
   {
-   "club": "Real Futbol Academy",
-   "id": "300343757",
+   "club": "STA",
+   "id": "300343814",
    "name": "GA"
   },
   {
-   "club": "SJEB FC",
-   "id": "300343776",
-   "name": "GA GA)"
+   "club": "Real Futbol Academy",
+   "id": "300343757",
+   "name": "GA"
   },
   {
    "club": "PDA Blue",
@@ -62,6 +57,11 @@
   },
   {
    "club": "SJEB FC",
+   "id": "300343776",
+   "name": "GA GA)"
+  },
+  {
+   "club": "SJEB FC",
    "id": "300343752",
    "name": "Aspire NAL)"
   },
@@ -69,11 +69,6 @@
    "club": "NJ Premier FC",
    "id": "300343786",
    "name": "Aspire"
-  },
-  {
-   "club": "PDA",
-   "id": "300464294",
-   "name": "PDA White Shore ECNL RL"
   },
   {
    "club": "Cedar Stars Academy Bergen",
@@ -86,6 +81,16 @@
    "name": "NJ Surf South Shore Girls"
   },
   {
+   "club": "PDA",
+   "id": "300464294",
+   "name": "PDA White Shore ECNL RL"
+  },
+  {
+   "club": "STA",
+   "id": "300343782",
+   "name": "Aspire"
+  },
+  {
    "club": "Deptford Premier FC",
    "id": "300343767",
    "name": "DSA Athena FC Elite NL"
@@ -96,19 +101,9 @@
    "name": "Match Fit Surf ECNL RL"
   },
   {
-   "club": "STA",
-   "id": "300343782",
-   "name": "Aspire"
-  },
-  {
    "club": "Jersey Shore Boca Jr FC",
    "id": "300343798",
    "name": "O'Hara"
-  },
-  {
-   "club": "The Football Academy NJ",
-   "id": "11740904",
-   "name": "Aspire"
   },
   {
    "club": "East Greenwich Soccer Association",
@@ -116,39 +111,24 @@
    "name": "Kingsway Premier Girls"
   },
   {
+   "club": "The Football Academy NJ",
+   "id": "11740904",
+   "name": "Aspire"
+  },
+  {
    "club": "WSA",
    "id": "300343792",
    "name": "Union County FC Dortmund DPL"
   },
   {
+   "club": "PDA",
+   "id": "300343859",
+   "name": "PDA Shore FC"
+  },
+  {
    "club": "Torpedoes SC",
    "id": "300343759",
    "name": "Torpedoes Red*"
-  },
-  {
-   "club": "PDA South",
-   "id": "300516137",
-   "name": "PDA SOUTH BLUE ECNL RL-"
-  },
-  {
-   "club": "Next Level Soccer Academy",
-   "id": "300343806",
-   "name": "NLSA Surf Girls ECNL-RL"
-  },
-  {
-   "club": "Match Fit Academy FC",
-   "id": "300470806",
-   "name": "Match Fit Surf Blue ECNL RL"
-  },
-  {
-   "club": "TSF Academy - NJ",
-   "id": "300343742",
-   "name": "Girls NAL"
-  },
-  {
-   "club": "PDA White (Shore)",
-   "id": "300516147",
-   "name": "PDA White ECNL RL"
   },
   {
    "club": "Match Fit Academy FC",
@@ -161,19 +141,34 @@
    "name": "Wildcats"
   },
   {
-   "club": "STA Mount Olive Soccer Club",
-   "id": "300343790",
-   "name": "STA MOSC DPL"
+   "club": "Real Futbol Academy",
+   "id": "300343739",
+   "name": "Aspire"
   },
   {
-   "club": "Sporting Club Premier",
-   "id": "300343764",
-   "name": "PDA SCP ECNL RL Northeast"
+   "club": "Match Fit Academy FC",
+   "id": "300470806",
+   "name": "Match Fit Surf Blue ECNL RL"
   },
   {
-   "club": "PDA",
-   "id": "300343859",
-   "name": "PDA Shore FC"
+   "club": "TSF Academy - NJ",
+   "id": "300343742",
+   "name": "Girls NAL"
+  },
+  {
+   "club": "Next Level Soccer Academy",
+   "id": "300343806",
+   "name": "NLSA Surf Girls ECNL-RL"
+  },
+  {
+   "club": "PDA White (Shore)",
+   "id": "300516147",
+   "name": "PDA White ECNL RL"
+  },
+  {
+   "club": "PDA South",
+   "id": "300516137",
+   "name": "PDA SOUTH BLUE ECNL RL-"
   },
   {
    "club": "FC Copa Academy",
@@ -181,24 +176,29 @@
    "name": "FC Copa ECNL RL NJ Central"
   },
   {
+   "club": "Sporting Club Premier",
+   "id": "300343764",
+   "name": "PDA SCP ECNL RL Northeast"
+  },
+  {
+   "club": "STA Mount Olive Soccer Club",
+   "id": "300343790",
+   "name": "STA MOSC DPL"
+  },
+  {
+   "club": "NJ14 Soccer Club",
+   "id": "300343831",
+   "name": "DPL"
+  },
+  {
    "club": "Future Soccer Academy",
    "id": "300343766",
    "name": "Future_SA_09G"
   },
   {
-   "club": "Real Futbol Academy",
-   "id": "300343739",
-   "name": "Aspire"
-  },
-  {
    "club": "PSA North",
    "id": "300343818",
    "name": "ECNL RL"
-  },
-  {
-   "club": "NLSA Surf",
-   "id": "300343816",
-   "name": "NLSA ECNL RL"
   },
   {
    "club": "Match Fit Surf",
@@ -211,14 +211,9 @@
    "name": "NAL Girls"
   },
   {
-   "club": "PDA South",
-   "id": "300343829",
-   "name": "PDA SOUTH WHITE ECNL"
-  },
-  {
-   "club": "NJ14 Soccer Club",
-   "id": "300343831",
-   "name": "DPL"
+   "club": "NLSA Surf",
+   "id": "300343816",
+   "name": "NLSA ECNL RL"
   },
   {
    "club": "Howell United SC",
@@ -226,14 +221,14 @@
    "name": "Force"
   },
   {
-   "club": "Mount Laurel United",
-   "id": "300343793",
-   "name": "Dragons"
-  },
-  {
    "club": "NJ Blaze",
    "id": "300343751",
    "name": "NJ Blaze Soccer Academy - Black"
+  },
+  {
+   "club": "PDA South",
+   "id": "300343829",
+   "name": "PDA SOUTH WHITE ECNL"
   },
   {
    "club": "Next Level Soccer Academy",
@@ -242,8 +237,18 @@
   },
   {
    "club": "FC Berna Legacy",
+   "id": "300343773",
+   "name": "NJ Nationals Legacy Girls Black"
+  },
+  {
+   "club": "FC Berna Legacy",
    "id": "300343777",
    "name": "Legacy Girls Gold"
+  },
+  {
+   "club": "Mount Laurel United",
+   "id": "300343793",
+   "name": "Dragons"
   },
   {
    "club": "NJ Crush FC",
@@ -251,19 +256,9 @@
    "name": "NJ Crush FC NPL"
   },
   {
-   "club": "FC Berna Legacy",
-   "id": "300343773",
-   "name": "NJ Nationals Legacy Girls Black"
-  },
-  {
    "club": "Tar-Kill Soccer Club",
    "id": "300343799",
    "name": "Tarkill Thunder"
-  },
-  {
-   "club": "Sporting Club Premier",
-   "id": "300343819",
-   "name": "PDA SCP ECNL RL"
   },
   {
    "club": "Match Fit Surf",
@@ -271,24 +266,24 @@
    "name": "Girls Mercer NPL"
   },
   {
+   "club": "Sporting Club Premier",
+   "id": "300343819",
+   "name": "PDA SCP ECNL RL"
+  },
+  {
    "club": "Pittsgrove Soccer Club",
    "id": "300343784",
    "name": "PSC Milan"
   },
   {
-   "club": "Parsippany Soccer Club",
-   "id": "300343797",
-   "name": "PSC Academy Girls NPL"
+   "club": "FC Copa Academy",
+   "id": "300343864",
+   "name": "ECNL RL"
   },
   {
    "club": "Edison United SA",
    "id": "300343746",
    "name": "PRIDE"
-  },
-  {
-   "club": "FC Copa Academy",
-   "id": "300343864",
-   "name": "ECNL RL"
   },
   {
    "club": "SJYS",
@@ -301,6 +296,11 @@
    "name": "Premier Surge"
   },
   {
+   "club": "Cheshire Soccer Academy",
+   "id": "11715248",
+   "name": "Cheshire Girls DPL"
+  },
+  {
    "club": "PSA Monmouth",
    "id": "300343825",
    "name": "ECNL RL"
@@ -311,9 +311,9 @@
    "name": "Washington United Girls"
   },
   {
-   "club": "WTSC",
-   "id": "12078139",
-   "name": "Washington Premier Girls"
+   "club": "Parsippany Soccer Club",
+   "id": "300343797",
+   "name": "PSC Academy Girls NPL"
   },
   {
    "club": "Mount Laurel United",
@@ -321,24 +321,19 @@
    "name": "Elite"
   },
   {
+   "club": "Middletown Soccer Club",
+   "id": "300343803",
+   "name": "MSC Fire Red"
+  },
+  {
    "club": "STA",
    "id": "300343740",
    "name": "STA-MUSC USYS"
   },
   {
-   "club": "Steel United NJ",
-   "id": "300343795",
-   "name": "Elite"
-  },
-  {
-   "club": "Cheshire Soccer Academy",
-   "id": "11715248",
-   "name": "Cheshire Girls DPL"
-  },
-  {
-   "club": "Middletown Soccer Club",
-   "id": "300343803",
-   "name": "MSC Fire Red"
+   "club": "WTSC",
+   "id": "12078139",
+   "name": "Washington Premier Girls"
   },
   {
    "club": "Morris Elite Soccer Club",
@@ -346,9 +341,19 @@
    "name": "USLA"
   },
   {
+   "club": "Steel United NJ",
+   "id": "300343795",
+   "name": "Elite"
+  },
+  {
    "club": "Wall Soccer Club",
    "id": "300343801",
    "name": "Wall SC Pride"
+  },
+  {
+   "club": "Union City Soccer Club",
+   "id": "300472430",
+   "name": "UnionCity-G17-Blanco"
   },
   {
    "club": "NJ Crush FC",
@@ -359,11 +364,6 @@
    "club": "Ironbound Soccer Club",
    "id": "11715488",
    "name": "- DPL"
-  },
-  {
-   "club": "Union City Soccer Club",
-   "id": "300472430",
-   "name": "UnionCity-G17-Blanco"
   },
   {
    "club": "North Plainfield SC",

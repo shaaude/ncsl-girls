@@ -1,19 +1,19 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T15:42:34.185237+00:00",
+ "fetched_at": "2026-10-20T13:10:16.491668+00:00",
  "state": "SD",
  "state_slug": "south-dakota",
  "teams": [
   {
-   "club": "DASC",
-   "id": "300384701",
-   "name": "DASC Girls Dortmund (SD)"
-  },
-  {
    "club": "Black Hills Rapids SC",
    "id": "300384675",
    "name": "BH Rapids NPL"
+  },
+  {
+   "club": "DASC",
+   "id": "300384701",
+   "name": "DASC Girls Dortmund (SD)"
   },
   {
    "club": "South Dakota United Futbol Club",
@@ -57,11 +57,6 @@
   },
   {
    "club": "Spearfish Soccer Association",
-   "id": "300478134",
-   "name": "Spearfish Soccer Cockrell"
-  },
-  {
-   "club": "Spearfish Soccer Association",
    "id": "300384681",
    "name": "SSA Maroon"
   },
@@ -69,6 +64,11 @@
    "club": "Black Hills Rapids SC",
    "id": "300384700",
    "name": "BH Rapids Burgundy"
+  },
+  {
+   "club": "Spearfish Soccer Association",
+   "id": "300478134",
+   "name": "Spearfish Soccer Cockrell"
   },
   {
    "club": "Spearfish Soccer",
@@ -86,49 +86,9 @@
    "name": "BH Rapids White"
   },
   {
-   "club": "Sturgis Soccer Association",
-   "id": "300384682",
-   "name": "Girls"
-  },
-  {
-   "club": "Ignite Soccer Club",
-   "id": "300464656",
-   "name": "Ignite Girls Phoenix"
-  },
-  {
    "club": "Dakota Alliance Soccer Club",
-   "id": "300480086",
-   "name": "Girls Ambush Soccer Academy"
-  },
-  {
-   "club": "DASC",
-   "id": "300478137",
-   "name": "DASC Academy Pride"
-  },
-  {
-   "club": "DASC",
-   "id": "300478136",
-   "name": "DASC Academy Gotham"
-  },
-  {
-   "club": "DASC",
-   "id": "300478135",
-   "name": "DASC Academy Spirit"
-  },
-  {
-   "club": "DASC",
-   "id": "300384703",
-   "name": "Girls Dortmund"
-  },
-  {
-   "club": "Sturgis Soccer",
-   "id": "300384707",
-   "name": "Sturgis girls"
-  },
-  {
-   "club": "Black Hills Rapids SC",
-   "id": "300467720",
-   "name": "BH Rapids Pre-NPL"
+   "id": "300384752",
+   "name": "DASC Dortmund"
   },
   {
    "club": "Spearfish Soccer",
@@ -136,39 +96,19 @@
    "name": "Spearfish Maroon"
   },
   {
-   "club": "Hub City Soccer Club",
-   "id": "300384725",
-   "name": "HCSC Bronze Blitz"
-  },
-  {
-   "club": "Dakota Alliance Soccer Club",
-   "id": "300384752",
-   "name": "DASC Dortmund"
-  },
-  {
-   "club": "Ignite Soccer Club",
-   "id": "300464657",
-   "name": "Ignite Girls Fire"
-  },
-  {
-   "club": "WYSA",
-   "id": "12067843",
-   "name": "WYSA"
-  },
-  {
-   "club": "Oahe Futbol Club",
-   "id": "11902856",
-   "name": "Green Lightning"
-  },
-  {
-   "club": "HCSC",
-   "id": "11902857",
-   "name": "HCSC Diamonds"
-  },
-  {
    "club": "WYSA",
    "id": "11902858",
    "name": "WYSA Galaxy"
+  },
+  {
+   "club": "Sturgis Soccer",
+   "id": "300384707",
+   "name": "Sturgis girls"
+  },
+  {
+   "club": "DASC",
+   "id": "300384703",
+   "name": "Girls Dortmund"
   },
   {
    "club": "Yankton United",
@@ -181,14 +121,64 @@
    "name": "U14"
   },
   {
-   "club": "WYSA",
-   "id": "11949320",
-   "name": "WYSA Wildfire"
+   "club": "Hub City Soccer Club",
+   "id": "300384725",
+   "name": "HCSC Bronze Blitz"
+  },
+  {
+   "club": "Oahe Futbol Club",
+   "id": "11902856",
+   "name": "Green Lightning"
+  },
+  {
+   "club": "Ignite Soccer Club",
+   "id": "300464656",
+   "name": "Ignite Girls Phoenix"
+  },
+  {
+   "club": "Ignite Soccer Club",
+   "id": "300464657",
+   "name": "Ignite Girls Fire"
+  },
+  {
+   "club": "Black Hills Rapids SC",
+   "id": "300467720",
+   "name": "BH Rapids Pre-NPL"
+  },
+  {
+   "club": "DASC",
+   "id": "300478135",
+   "name": "DASC Academy Spirit"
+  },
+  {
+   "club": "DASC",
+   "id": "300478136",
+   "name": "DASC Academy Gotham"
+  },
+  {
+   "club": "DASC",
+   "id": "300478137",
+   "name": "DASC Academy Pride"
+  },
+  {
+   "club": "HCSC",
+   "id": "11902857",
+   "name": "HCSC Diamonds"
+  },
+  {
+   "club": "Dakota Alliance Soccer Club",
+   "id": "300480086",
+   "name": "Girls Ambush Soccer Academy"
   },
   {
    "club": "South Dakota United Futbol Club",
    "id": "11953041",
    "name": "SDU Force II"
+  },
+  {
+   "club": "Spearfish Soccer Association",
+   "id": "12090992",
+   "name": "Spearfish Cockrell"
   },
   {
    "club": "Spearfish Soccer Association",
@@ -211,9 +201,9 @@
    "name": "BH Rapids NPL"
   },
   {
-   "club": "Brandon Area Soccer Association",
-   "id": "300384684",
-   "name": "BASA"
+   "club": "WYSA",
+   "id": "12067843",
+   "name": "WYSA"
   },
   {
    "club": "DASC",
@@ -246,9 +236,9 @@
    "name": "Girls Ambush Soccer Accedemy"
   },
   {
-   "club": "Spearfish Soccer Association",
-   "id": "12090992",
-   "name": "Spearfish Cockrell"
+   "club": "Brandon Area Soccer Association",
+   "id": "300384684",
+   "name": "BASA"
   },
   {
    "club": "SDU",
@@ -264,6 +254,16 @@
    "club": "DASC",
    "id": "300384671",
    "name": "Girls Dortmund"
+  },
+  {
+   "club": "WYSA",
+   "id": "11949320",
+   "name": "WYSA Wildfire"
+  },
+  {
+   "club": "Sturgis Soccer Association",
+   "id": "300384682",
+   "name": "Girls"
   }
  ]
 }

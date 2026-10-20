@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T15:40:44.613335+00:00",
+ "fetched_at": "2026-10-20T13:08:26.499879+00:00",
  "state": "SC",
  "state_slug": "south-carolina",
  "teams": [
@@ -26,6 +26,11 @@
    "name": "Aspire"
   },
   {
+   "club": "South Carolina Surf SC",
+   "id": "300518672",
+   "name": "South Carolina Surf ECNL"
+  },
+  {
    "club": "Carolina Elite Soccer Academy",
    "id": "300384581",
    "name": "CESA Liberty ECNL RL"
@@ -36,9 +41,9 @@
    "name": "DPL"
   },
   {
-   "club": "South Carolina Surf Soccer Club",
-   "id": "300384571",
-   "name": "NPL"
+   "club": "Congaree Rapid FC",
+   "id": "300384566",
+   "name": "Congaree Rapid FC Sky (SC)"
   },
   {
    "club": "Tormenta FC",
@@ -46,14 +51,19 @@
    "name": "Tormenta FC DPL"
   },
   {
-   "club": "Congaree Rapid FC",
-   "id": "300384566",
-   "name": "Congaree Rapid FC Sky (SC)"
-  },
-  {
    "club": "Charleston Soccer Club",
    "id": "300384562",
    "name": "CSC Girls DPL"
+  },
+  {
+   "club": "South Carolina Surf Soccer Club",
+   "id": "300384571",
+   "name": "NPL"
+  },
+  {
+   "club": "South Carolina United FC",
+   "id": "300384575",
+   "name": "South Carolina United ECNL RL"
   },
   {
    "club": "Florence Soccer Association",
@@ -66,11 +76,6 @@
    "name": "CISC MAT DPL"
   },
   {
-   "club": "South Carolina United FC",
-   "id": "300384575",
-   "name": "South Carolina United ECNL RL"
-  },
-  {
    "club": "South Carolina Surf SC",
    "id": "300384578",
    "name": "South Carolina Surf ECNL RL"
@@ -81,14 +86,14 @@
    "name": "CESA USYS NL (SC)"
   },
   {
-   "club": "Bulls Rush FC (SC)",
-   "id": "300513790",
-   "name": "Bulls Rush Premier (SC)"
-  },
-  {
    "club": "Furman United Soccer Club",
    "id": "11914228",
    "name": "United FC Elite NL"
+  },
+  {
+   "club": "Bulls Rush FC (SC)",
+   "id": "300513790",
+   "name": "Bulls Rush Premier (SC)"
   },
   {
    "club": "Clover Elite",
@@ -96,19 +101,24 @@
    "name": "CCLNC - CLOVER ELITE FC GIRLS"
   },
   {
-   "club": "South Carolina Surf Soccer Club",
-   "id": "16274200",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Ashley River Soccer Club",
    "id": "16274400",
    "name": "ARSC Surge"
   },
   {
-   "club": "Beach United Football Club",
-   "id": "300384584",
-   "name": "BUFC Fusion"
+   "club": "Charlotte Soccer Academy",
+   "id": "300559763",
+   "name": "Charlotte SA Gold ECNL RL"
+  },
+  {
+   "club": "Charlotte Independence SC",
+   "id": "300559762",
+   "name": "Aspire South"
+  },
+  {
+   "club": "Mount Pleasant FC (MPFC)",
+   "id": "300555886",
+   "name": "MPFC Black Panthers"
   },
   {
    "club": "Charlotte Independence SC",
@@ -116,14 +126,9 @@
    "name": "Aspire South"
   },
   {
-   "club": "South Carolina Surf SC",
-   "id": "300518672",
-   "name": "South Carolina Surf ECNL"
-  },
-  {
-   "club": "Mount Pleasant FC (MPFC)",
-   "id": "300555886",
-   "name": "MPFC Black Panthers"
+   "club": "Beach United Football Club",
+   "id": "300384584",
+   "name": "BUFC Fusion"
   },
   {
    "club": "Lakeland Toros",
@@ -136,16 +141,6 @@
    "name": "CFC Swarm NPL"
   },
   {
-   "club": "Bulls Soccer Club",
-   "id": "11815900",
-   "name": "Bulls Rush Girls Red"
-  },
-  {
-   "club": "Lowco Rush",
-   "id": "11833878",
-   "name": "Girls"
-  },
-  {
    "club": "Charlotte Independence SC",
    "id": "11835756",
    "name": "Aspire North"
@@ -156,19 +151,9 @@
    "name": "Land United Gold G"
   },
   {
-   "club": "South Carolina Surf Soccer Club",
-   "id": "16274250",
-   "name": "Blue"
-  },
-  {
    "club": "FC Charleston",
    "id": "12165258",
    "name": "FCC Girls Gold"
-  },
-  {
-   "club": "Charlotte Independence SC",
-   "id": "12282358",
-   "name": "Aspire South"
   },
   {
    "club": "Aiken Futbol Club",
@@ -179,11 +164,6 @@
    "club": "Furman United SC",
    "id": "12316954",
    "name": "DPL"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "14162400",
-   "name": "Charlotte SA Gold ECNL RL"
   },
   {
    "club": "Coast Futbol Alliance",
@@ -199,6 +179,16 @@
    "club": "Carolina Elite SA",
    "id": "16274150",
    "name": "CESA ECNL-RL"
+  },
+  {
+   "club": "South Carolina Surf Soccer Club",
+   "id": "16274200",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "South Carolina Surf Soccer Club",
+   "id": "16274250",
+   "name": "Blue"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-13T14:55:12.763854+00:00",
+ "fetched_at": "2026-10-20T12:22:56.446003+00:00",
  "state": "IN",
  "state_slug": "indiana",
  "teams": [
@@ -42,8 +42,8 @@
   },
   {
    "club": "Indy Eleven Academy",
-   "id": "300351320",
-   "name": "Indy Eleven National (IN)"
+   "id": "300540189",
+   "name": "Indy Eleven ECNL RL"
   },
   {
    "club": "Indy Premier SC",
@@ -56,14 +56,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Indy Eleven Academy",
-   "id": "300351340",
-   "name": "Indy Eleven Regional (IN)"
-  },
-  {
    "club": "Indy Premier SC",
    "id": "300351331",
    "name": "Aspire"
+  },
+  {
+   "club": "Indy Eleven Academy",
+   "id": "300351340",
+   "name": "Indy Eleven Regional"
   },
   {
    "club": "FC Pride Soccer Club",
@@ -83,17 +83,17 @@
   {
    "club": "Fort Wayne Sport Club",
    "id": "300351343",
-   "name": "FWSC Dortmund"
-  },
-  {
-   "club": "Legacy Blaze FC",
-   "id": "300478086",
-   "name": "Legacy Blaze FC RED"
+   "name": "Dortmund (IN)"
   },
   {
    "club": "FC Midwest Academy",
    "id": "300529530",
    "name": "FC Midwest Academy Girls"
+  },
+  {
+   "club": "Legacy Blaze FC",
+   "id": "300478086",
+   "name": "Legacy Blaze FC RED"
   },
   {
    "club": "Indy Eleven Academy",
@@ -121,14 +121,14 @@
    "name": "DPL"
   },
   {
-   "club": "Union FC Indy",
-   "id": "300351311",
-   "name": "Union FC Indy Girls Teal I"
-  },
-  {
    "club": "Columbus express soccer club",
    "id": "300351347",
    "name": "Orange"
+  },
+  {
+   "club": "Union FC Indy",
+   "id": "300351311",
+   "name": "Union FC Indy Girls Teal I"
   },
   {
    "club": "Fort Wayne Sport Club",
@@ -136,14 +136,14 @@
    "name": "FWSC Darmstadt"
   },
   {
-   "club": "Carmel FC",
-   "id": "300351341",
-   "name": "Carmel FC Gold"
-  },
-  {
    "club": "FC Pride Soccer Club",
    "id": "300351332",
    "name": "FC Pride Dynamo Girls Red"
+  },
+  {
+   "club": "Carmel FC",
+   "id": "300351341",
+   "name": "Carmel FC Gold"
   },
   {
    "club": "Millennium Soccer Association",
@@ -156,11 +156,6 @@
    "name": "WSU Girls Elite"
   },
   {
-   "club": "NWI Lions United",
-   "id": "300351334",
-   "name": "NWI Lions United White"
-  },
-  {
    "club": "Indy Premier SC",
    "id": "300351317",
    "name": "Indy Premier Copa"
@@ -169,6 +164,11 @@
    "club": "Jr. Irish Soccer Club",
    "id": "300351315",
    "name": "Jr Irish Premier"
+  },
+  {
+   "club": "NWI Lions United",
+   "id": "300351334",
+   "name": "NWI Lions United White"
   },
   {
    "club": "Indy Premier SC",
@@ -186,19 +186,29 @@
    "name": "Hendricks Elite FC"
   },
   {
+   "club": "Legacy Blaze FC",
+   "id": "300482405",
+   "name": "Legacy Blaze FC RED"
+  },
+  {
+   "club": "Indiana Elite F.C.",
+   "id": "300529528",
+   "name": "Indiana Elite FC Girls"
+  },
+  {
+   "club": "Indy Eleven Spirit",
+   "id": "300540186",
+   "name": "ECNL RL"
+  },
+  {
    "club": "NWI Lions United",
    "id": "300540192",
    "name": "ECNL RL"
   },
   {
-   "club": "Indiana Elite F.C.",
-   "id": "300540191",
-   "name": "Indiana Elite FC ECNL RL"
-  },
-  {
    "club": "Indy Eleven Academy",
-   "id": "300540189",
-   "name": "Indy Eleven ECNL RL"
+   "id": "300540187",
+   "name": "Indy Eleven ECNL"
   },
   {
    "club": "FC Pride",
@@ -208,27 +218,17 @@
   {
    "club": "FC Pride",
    "id": "300540188",
-   "name": "Elite ECNL RL"
-  },
-  {
-   "club": "Indy Eleven Academy",
-   "id": "300540187",
-   "name": "Indy Eleven ECNL"
-  },
-  {
-   "club": "Indy Eleven Spirit",
-   "id": "300540186",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Legacy Blaze FC",
-   "id": "300482405",
-   "name": "Legacy Blaze FC RED"
+   "name": "FC Pride Elite ECNL RL"
   },
   {
    "club": "Indiana Elite F.C.",
-   "id": "300529528",
-   "name": "Indiana Elite FC Girls"
+   "id": "300540191",
+   "name": "Indiana Elite FC ECNL RL"
+  },
+  {
+   "club": "Fort Wayne United FC",
+   "id": "12284680",
+   "name": "Aspire"
   },
   {
    "club": "Westside United FC",
@@ -241,11 +241,6 @@
    "name": "Teal II"
   },
   {
-   "club": "Fort Wayne United FC",
-   "id": "12284680",
-   "name": "Aspire"
-  },
-  {
    "club": "Indy Eleven Spirit",
    "id": "300473244",
    "name": "10G"
@@ -254,11 +249,6 @@
    "club": "SWISA",
    "id": "300351307",
    "name": "SWISA Tsunami"
-  },
-  {
-   "club": "FC Pride Soccer Club",
-   "id": "300351313",
-   "name": "Girls ECNL RL"
   },
   {
    "club": "FC Pride Soccer Club",

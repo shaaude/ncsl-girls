@@ -1,7 +1,7 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-13T15:55:44.686295+00:00",
+ "fetched_at": "2026-10-20T13:23:26.535690+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
@@ -21,14 +21,19 @@
    "name": "FC Wisconsin ECNL"
   },
   {
+   "club": "FC Wisconsin Girls",
+   "id": "300517506",
+   "name": "FC Wisconsin ECNL"
+  },
+  {
    "club": "Wisconsin United FC",
    "id": "300358329",
    "name": "Aspire"
   },
   {
-   "club": "FC Wisconsin Girls",
-   "id": "300517506",
-   "name": "FC Wisconsin ECNL"
+   "club": "SC Wave",
+   "id": "300358334",
+   "name": "GA"
   },
   {
    "club": "FC Wisconsin",
@@ -36,8 +41,8 @@
    "name": "ECNL"
   },
   {
-   "club": "SC Wave",
-   "id": "300358334",
+   "club": "Madison 56ers",
+   "id": "300358335",
    "name": "GA"
   },
   {
@@ -46,8 +51,8 @@
    "name": "Aspire"
   },
   {
-   "club": "Madison 56ers",
-   "id": "300358335",
+   "club": "SC Wave",
+   "id": "15595500",
    "name": "GA"
   },
   {
@@ -61,13 +66,13 @@
    "name": "Aspire"
   },
   {
-   "club": "SC Wave",
-   "id": "300474829",
+   "club": "Madison 56ers",
+   "id": "300512933",
    "name": "Aspire"
   },
   {
-   "club": "North Shore United",
-   "id": "300358328",
+   "club": "SC Wave",
+   "id": "300474829",
    "name": "Aspire"
   },
   {
@@ -76,39 +81,24 @@
    "name": "Milwaukee Kickers DPL"
   },
   {
-   "club": "Western Wisconsin Soccer",
-   "id": "300358332",
-   "name": "WW VSA"
+   "club": "North Shore United",
+   "id": "300358328",
+   "name": "Aspire"
   },
   {
-   "club": "Red Star Soccer Club",
-   "id": "300555818",
-   "name": "Red Star SC"
+   "club": "Lakeshore United FC",
+   "id": "300540779",
+   "name": "LUFC Navy"
   },
   {
-   "club": "Rush Union Wisconsin",
-   "id": "300358338",
-   "name": "Rush Union WI Premier NL (WI)"
+   "club": "RUSH Wisconsin",
+   "id": "300558954",
+   "name": "G Rush (WI)"
   },
   {
-   "club": "Western Wisconsin Soccer",
-   "id": "300358333",
-   "name": "Western Wisconsin FC"
-  },
-  {
-   "club": "RUSH Wisconsin Soccer Club",
-   "id": "300358346",
-   "name": "Rush WI G - Rush"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Association",
-   "id": "300555819",
-   "name": "MKSC Union Red"
-  },
-  {
-   "club": "Rush Union Wisconsin",
-   "id": "300358327",
-   "name": "Rush Union WI Girls Select"
+   "club": "RUSH Wisconsin",
+   "id": "300558515",
+   "name": "Rush WI Girls Blue"
   },
   {
    "club": "Forward Madison FC",
@@ -116,9 +106,54 @@
    "name": "Rally Madison FC"
   },
   {
-   "club": "Lakeshore United FC",
-   "id": "300540779",
-   "name": "LUFC Navy"
+   "club": "Milwaukee Kickers Soccer Association",
+   "id": "300555819",
+   "name": "MKSC Union Red"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "300358332",
+   "name": "WW VSA"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "300358333",
+   "name": "Western Wisconsin FC"
+  },
+  {
+   "club": "Red Star Soccer Club",
+   "id": "300555818",
+   "name": "Red Star SC"
+  },
+  {
+   "club": "Jackson SC",
+   "id": "300555817",
+   "name": "JSC"
+  },
+  {
+   "club": "Lake Country FC",
+   "id": "300555816",
+   "name": "Lake Country FC Blue"
+  },
+  {
+   "club": "Rush Union Wisconsin",
+   "id": "300358338",
+   "name": "Rush Union WI Premier NL (WI)"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "300540777",
+   "name": "FC Wisconsin ECNL RL"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "300517504",
+   "name": "FC Wisconsin ECNL RL"
+  },
+  {
+   "club": "RUSH Wisconsin Soccer Club",
+   "id": "300358346",
+   "name": "Rush WI G - Rush"
   },
   {
    "club": "Madison 56ers",
@@ -131,44 +166,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Lakeshore United FC",
-   "id": "300512932",
-   "name": "LUFC Navy"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300512933",
-   "name": "Aspire"
-  },
-  {
    "club": "RUSH WI Southeast",
    "id": "300512934",
    "name": "Girls National"
   },
   {
-   "club": "FC Wisconsin Girls",
-   "id": "300517504",
-   "name": "FC Wisconsin ECNL RL"
-  },
-  {
-   "club": "Jackson SC",
-   "id": "300555817",
-   "name": "JSC"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300540777",
-   "name": "FC Wisconsin ECNL RL"
-  },
-  {
-   "club": "Lake Country FC",
-   "id": "300555816",
-   "name": "Lake Country FC Blue"
-  },
-  {
-   "club": "/  WR Kickers Schuerman/Barker",
-   "id": "11833907",
-   "name": "WR Kickers Schuerman/Barker"
+   "club": "Lakeshore United FC",
+   "id": "300512932",
+   "name": "LUFC Navy"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -186,11 +191,6 @@
    "name": "10G"
   },
   {
-   "club": "MAS",
-   "id": "11833908",
-   "name": "Girls"
-  },
-  {
    "club": "Legacy",
    "id": "11831687",
    "name": "LPR"
@@ -202,18 +202,8 @@
   },
   {
    "club": "RUSH Wisconsin West",
-   "id": "11818527",
-   "name": "RWW Girls"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club",
-   "id": "11818480",
-   "name": "LX United Girls Select"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club",
-   "id": "11818479",
-   "name": "LX United Girls Elite"
+   "id": "16036700",
+   "name": "LXU Girls Select"
   },
   {
    "club": "Rush Wisconsin",
@@ -231,9 +221,14 @@
    "name": "Madison Girls White"
   },
   {
-   "club": "SC Wave",
-   "id": "15595500",
-   "name": "GA"
+   "club": "MCU",
+   "id": "16040150",
+   "name": "MCU Rentmeester"
+  },
+  {
+   "club": "Rush Union Wisconsin",
+   "id": "300358327",
+   "name": "Rush Union WI Girls Select"
   },
   {
    "club": "FC Green Bay",
@@ -249,11 +244,6 @@
    "club": "Neenah Soccer Club",
    "id": "12249025",
    "name": "Girls Red Premier"
-  },
-  {
-   "club": "RUSH Wisconsin",
-   "id": "12249024",
-   "name": "G Rush (WI)"
   },
   {
    "club": "Guardians - Valley Sport Academy",

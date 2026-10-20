@@ -1,7 +1,7 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-10-13T14:33:38.400931+00:00",
+ "fetched_at": "2026-10-20T12:01:26.448902+00:00",
  "state": "AZ",
  "state_slug": "arizona",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "Blue"
   },
   {
+   "club": "Playmaker Futbol Academy",
+   "id": "300522921",
+   "name": "Playmaker Futbol Academy Black"
+  },
+  {
    "club": "CCV STARS",
    "id": "300522925",
    "name": "CCV STARS Girls Laveen"
-  },
-  {
-   "club": "AZFC",
-   "id": "300536153",
-   "name": "Select Red"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
@@ -26,29 +26,24 @@
    "name": "AZ Arsenal Girls Teal JH"
   },
   {
-   "club": "Playmaker Futbol Academy",
-   "id": "300522921",
-   "name": "Playmaker Futbol Academy Black"
-  },
-  {
-   "club": "North Scottsdale Soccer Club",
-   "id": "300498022",
-   "name": "Scottsdale Sandsharks Select Girls"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "300522923",
-   "name": "CCV Stars Girls Peoria Orange"
-  },
-  {
    "club": "CCV STARS",
    "id": "300522914",
    "name": "CCV Stars Girls East Mesa"
   },
   {
+   "club": "AZFC",
+   "id": "300536153",
+   "name": "Select Red"
+  },
+  {
+   "club": "Yavapai Soccer",
+   "id": "300548107",
+   "name": "Select"
+  },
+  {
    "club": "CCV STARS",
-   "id": "300522924",
-   "name": "CCV Stars Girls Surprise"
+   "id": "300522923",
+   "name": "CCV Stars Girls Peoria Orange"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
@@ -57,13 +52,28 @@
   },
   {
    "club": "North Scottsdale Soccer Club",
+   "id": "300498022",
+   "name": "Scottsdale Sandsharks Select Girls"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "300522924",
+   "name": "CCV Stars Girls Surprise"
+  },
+  {
+   "club": "State 48 FC",
+   "id": "300548105",
+   "name": "Northwest Black"
+  },
+  {
+   "club": "North Scottsdale Soccer Club",
    "id": "300536156",
    "name": "Scottsdale Sandsharks Red Girls"
   },
   {
-   "club": "Pima County Surf Soccer Club",
-   "id": "300536159",
-   "name": "Pima Surf Academy Girls Blue"
+   "club": "FC Tucson Youth Soccer",
+   "id": "300498019",
+   "name": "Mancia"
   },
   {
    "club": "Phoenix Rising Desert Foothills",
@@ -71,9 +81,9 @@
    "name": "PRFC Desert Foothills Predator"
   },
   {
-   "club": "Renegades Soccer Club",
-   "id": "300498013",
-   "name": "Pumas Tucson"
+   "club": "Pima County Surf Soccer Club",
+   "id": "300536159",
+   "name": "Pima Surf Academy Girls Blue"
   },
   {
    "club": "East Valley/NSFC",
@@ -86,9 +96,39 @@
    "name": "FSC United Girls"
   },
   {
+   "club": "Renegades Soccer Club",
+   "id": "300498013",
+   "name": "Pumas Tucson"
+  },
+  {
+   "club": "SC del Sol",
+   "id": "300551044",
+   "name": "Orange"
+  },
+  {
+   "club": "Phoenix Rush",
+   "id": "300559206",
+   "name": "Rush Girls"
+  },
+  {
+   "club": "Arizona Surf Soccer Club",
+   "id": "300555523",
+   "name": "Pima"
+  },
+  {
    "club": "NOS Santos SC",
    "id": "300555256",
    "name": "Girls Blue"
+  },
+  {
+   "club": "Excel Soccer Academy",
+   "id": "300522927",
+   "name": "Excel Soccer Academy"
+  },
+  {
+   "club": "RSL-AZ North",
+   "id": "300522928",
+   "name": "Excel AG"
   },
   {
    "club": "South Bank SC",
@@ -106,9 +146,9 @@
    "name": "Farabee Royals"
   },
   {
-   "club": "Southern Arizona Soccer Club",
-   "id": "300548112",
-   "name": "SASC Cardinals Griffin"
+   "club": "Phoenix Rising Football Club",
+   "id": "300536152",
+   "name": "Scottsdale Predator"
   },
   {
    "club": "Phoenix Rising FC",
@@ -121,34 +161,14 @@
    "name": "Scottsdale Samba"
   },
   {
-   "club": "SC del Sol",
-   "id": "300551044",
-   "name": "Orange"
-  },
-  {
-   "club": "Excel Soccer Academy",
-   "id": "300522927",
-   "name": "Excel Soccer Academy"
-  },
-  {
-   "club": "RSL-AZ North",
-   "id": "300522928",
-   "name": "Excel AG"
-  },
-  {
-   "club": "Phoenix Rising Football Club",
-   "id": "300536152",
+   "club": "Phoenix Rising FC",
+   "id": "300548108",
    "name": "Scottsdale Predator"
   },
   {
-   "club": "Arizona Soccer Club",
-   "id": "11898539",
-   "name": "GRP WINTER GILBERT ARNOLD YELLOW"
-  },
-  {
-   "club": "FC Tucson Youth Soccer",
-   "id": "300548110",
-   "name": "OV Yaney"
+   "club": "Southern Arizona Soccer Club",
+   "id": "300548112",
+   "name": "SASC Cardinals Griffin"
   },
   {
    "club": "Paladin Soccer Club",
@@ -166,6 +186,16 @@
    "name": "Pima Surf Academy Girls"
   },
   {
+   "club": "FC Tucson Youth Soccer",
+   "id": "300548110",
+   "name": "OV Yaney"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "300522917",
+   "name": "CCV Stars Girls Peoria Navy"
+  },
+  {
    "club": "Ascent United Soccer Club",
    "id": "300548103",
    "name": "Ascent United Gold"
@@ -176,9 +206,9 @@
    "name": "Ascent United Black"
   },
   {
-   "club": "State 48 FC",
-   "id": "300548105",
-   "name": "Northwest Black"
+   "club": "Phoenix Rising FC",
+   "id": "300548109",
+   "name": "Scottsdale Copa"
   },
   {
    "club": "Phoenix Rising FC",
@@ -186,24 +216,9 @@
    "name": "Southeast-Central Predator"
   },
   {
-   "club": "Yavapai Soccer",
-   "id": "300548107",
-   "name": "Select"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "300548108",
-   "name": "Scottsdale Predator"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "300548109",
-   "name": "Scottsdale Copa"
-  },
-  {
-   "club": "Freedom SC",
-   "id": "14302600",
-   "name": "Freedom Elite Pumitas"
+   "club": "RSL-AZ South",
+   "id": "12259502",
+   "name": "EXCEL26WinterU7U8G1TFairchild"
   },
   {
    "club": "Arizona Soccer Club",
@@ -261,14 +276,14 @@
    "name": "EXCEL25FallU7U8G1TFairchild"
   },
   {
-   "club": "RSL-AZ South",
-   "id": "12259502",
-   "name": "EXCEL26WinterU7U8G1TFairchild"
-  },
-  {
    "club": "Synergy FC AZ",
    "id": "300522920",
    "name": "Synergy FC Girls"
+  },
+  {
+   "club": "Freedom SC",
+   "id": "14302600",
+   "name": "Freedom Elite Pumitas"
   },
   {
    "club": "Arizona Soccer Club",
@@ -284,11 +299,6 @@
    "club": "OJB FC",
    "id": "15220000",
    "name": "Girls Red"
-  },
-  {
-   "club": "Phoenix Rush",
-   "id": "15220450",
-   "name": "Rush Girls"
   },
   {
    "club": "Phoenix Rising Desert Foothills",
@@ -326,19 +336,14 @@
    "name": "Kingman SC Taylor"
   },
   {
-   "club": "FC Tucson Youth Soccer",
-   "id": "300498019",
-   "name": "Mancia"
-  },
-  {
    "club": "RSL-AZ North",
    "id": "300522912",
    "name": "Brustad Royals"
   },
   {
-   "club": "CCV STARS",
-   "id": "300522917",
-   "name": "CCV Stars Girls Peoria Navy"
+   "club": "Arizona Soccer Club",
+   "id": "11898539",
+   "name": "GRP WINTER GILBERT ARNOLD YELLOW"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-13T15:47:54.838518+00:00",
+ "fetched_at": "2026-10-20T13:15:36.508340+00:00",
  "state": "UT",
  "state_slug": "utah",
  "teams": [
@@ -17,23 +17,23 @@
   },
   {
    "club": "La Roca Futbol Club",
-   "id": "11784566",
-   "name": "FC ECNL RL"
-  },
-  {
-   "club": "La Roca Futbol Club",
    "id": "300404115",
    "name": "FC ECNL"
   },
   {
-   "club": "Cottonwood FC",
-   "id": "300514876",
-   "name": "Cottonwood FC Gold ND"
+   "club": "La Roca Futbol Club",
+   "id": "11784566",
+   "name": "FC ECNL RL"
   },
   {
    "club": "Peak Soccer Club",
    "id": "300404079",
    "name": "Peak SC AV -"
+  },
+  {
+   "club": "Cottonwood FC",
+   "id": "300514876",
+   "name": "Cottonwood FC Gold ND"
   },
   {
    "club": "La Roca FC",
@@ -46,9 +46,9 @@
    "name": "RL (UT)"
   },
   {
-   "club": "Utah Avalanche Soccer Club",
-   "id": "300490479",
-   "name": "NUU Avalanche ECNL RL"
+   "club": "Copper Mountain Soccer Club",
+   "id": "300404093",
+   "name": "Copper Mountain JT"
   },
   {
    "club": "La Roca FC",
@@ -57,33 +57,23 @@
   },
   {
    "club": "Wasatch SC",
-   "id": "300404086",
-   "name": "Wasatch GA Aspire - TM"
+   "id": "300404085",
+   "name": "Aspire"
   },
   {
-   "club": "Copper Mountain Soccer Club",
-   "id": "300404093",
-   "name": "Copper Mountain JT"
+   "club": "Utah Avalanche Soccer Club",
+   "id": "300490479",
+   "name": "NUU Avalanche ECNL RL"
   },
   {
    "club": "Wasatch SC",
-   "id": "300404085",
-   "name": "Aspire"
+   "id": "300404086",
+   "name": "Wasatch GA Aspire - TM"
   },
   {
    "club": "La Roca Futbol Club",
    "id": "300404084",
    "name": "La Roca B Cate"
-  },
-  {
-   "club": "La Roca FC",
-   "id": "300404069",
-   "name": "La Roca K.Reynolds"
-  },
-  {
-   "club": "City SC Utah",
-   "id": "300404067",
-   "name": "City SC UT DPL - JC"
   },
   {
    "club": "Wasatch Soccer Club",
@@ -92,8 +82,23 @@
   },
   {
    "club": "City SC Utah",
+   "id": "300404067",
+   "name": "City SC UT DPL - JC"
+  },
+  {
+   "club": "La Roca FC",
+   "id": "300404069",
+   "name": "La Roca K.Reynolds"
+  },
+  {
+   "club": "City SC Utah",
    "id": "300404126",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Shooters Soccer Club",
+   "id": "12254078",
+   "name": "Shooters SC Hansen"
   },
   {
    "club": "Utah Celtic FC",
@@ -106,14 +111,19 @@
    "name": "CFC Gold ND"
   },
   {
+   "club": "Impact United SC",
+   "id": "300404106",
+   "name": "Aspire"
+  },
+  {
    "club": "Utah Surf Soccer Club",
    "id": "300490476",
    "name": "ECNL RL"
   },
   {
-   "club": "Impact United SC",
-   "id": "300404106",
-   "name": "Aspire"
+   "club": "Cottonwood FC",
+   "id": "300404107",
+   "name": "CFC Red KC"
   },
   {
    "club": "Park City SC",
@@ -129,11 +139,6 @@
    "club": "Rampage Soccer Club",
    "id": "300404109",
    "name": "Rampage RW"
-  },
-  {
-   "club": "Cottonwood FC",
-   "id": "300404107",
-   "name": "CFC Red KC"
   },
   {
    "club": "Park city soccer club",
@@ -311,11 +316,6 @@
    "name": "SCSL En Fuego SC"
   },
   {
-   "club": "Shooters Soccer Club",
-   "id": "12254078",
-   "name": "Shooters SC Hansen"
-  },
-  {
    "club": "Northern Utah United Soccer",
    "id": "12263301",
    "name": "NUU Girls Futures"
@@ -341,16 +341,6 @@
    "name": "Impact MB"
   },
   {
-   "club": "Impact United SC",
-   "id": "12280569",
-   "name": "Aspire"
-  },
-  {
-   "club": "7 Elite Academy",
-   "id": "12284430",
-   "name": "Aspire"
-  },
-  {
    "club": "SWAT",
    "id": "13082550",
    "name": "SWAT MS"
@@ -359,6 +349,11 @@
    "club": "Magic United",
    "id": "13088000",
    "name": "SCSL MAGIC UNITED"
+  },
+  {
+   "club": "Layton Strikers Soccer Club",
+   "id": "14864650",
+   "name": "Strikers RR"
   },
   {
    "club": "CFC",
@@ -544,6 +539,16 @@
    "club": "Sparta United",
    "id": "300551189",
    "name": "Sparta DPL"
+  },
+  {
+   "club": "Impact United SC",
+   "id": "300559043",
+   "name": "Aspire"
+  },
+  {
+   "club": "7 Elite Academy",
+   "id": "300559044",
+   "name": "Aspire"
   }
  ]
 }

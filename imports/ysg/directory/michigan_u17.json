@@ -1,10 +1,15 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-13T15:08:02.886627+00:00",
+ "fetched_at": "2026-10-20T12:35:46.504292+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
+  {
+   "club": "Michigan Hawks",
+   "id": "300540303",
+   "name": "ECNL"
+  },
   {
    "club": "Michigan Hawks",
    "id": "300516947",
@@ -14,6 +19,16 @@
    "club": "Michigan Hawks",
    "id": "300540304",
    "name": "Magic ECNL"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300529586",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Midwest United FC",
+   "id": "12238618",
+   "name": "GA"
   },
   {
    "club": "Nationals",
@@ -26,9 +41,9 @@
    "name": "Nationals Soccer Club - Nationals ECNL"
   },
   {
-   "club": "Midwest United FC",
-   "id": "12238618",
-   "name": "GA"
+   "club": "Nationals",
+   "id": "300540330",
+   "name": "SC ECNL"
   },
   {
    "club": "Michigan Hawks",
@@ -36,29 +51,14 @@
    "name": "Michigan Hawks Magic ECNL"
   },
   {
-   "club": "Michigan Jaguars FC",
-   "id": "300352752",
-   "name": "GA"
-  },
-  {
    "club": "Midwest United FC",
    "id": "300352880",
    "name": "GA"
   },
   {
-   "club": "AC Grand Rapids Academy",
-   "id": "300352780",
-   "name": "Aspire"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300352887",
-   "name": "ECNL"
-  },
-  {
-   "club": "Michigan Rangers FC",
-   "id": "300352854",
-   "name": "ECNL RL"
+   "club": "Michigan Jaguars FC",
+   "id": "300352752",
+   "name": "GA"
   },
   {
    "club": "Royal Oak FC",
@@ -66,9 +66,14 @@
    "name": "Royal Oak FC Girls Green"
   },
   {
-   "club": "Liverpool FC IA Ann Arbor",
-   "id": "11663064",
-   "name": "Liverpool FC IA Michigan ECNL"
+   "club": "AC Grand Rapids Academy",
+   "id": "300352780",
+   "name": "Aspire"
+  },
+  {
+   "club": "Michigan Rangers FC",
+   "id": "300352854",
+   "name": "ECNL RL"
   },
   {
    "club": "Michigan Tigers FC",
@@ -76,9 +81,24 @@
    "name": "GA"
   },
   {
-   "club": "Nationals",
-   "id": "300489479",
-   "name": "Nationals SC Union ECNL RL"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300352887",
+   "name": "ECNL"
+  },
+  {
+   "club": "Liverpool FC IA Ann Arbor",
+   "id": "11663064",
+   "name": "Liverpool FC IA Michigan ECNL"
+  },
+  {
+   "club": "Detroit City FC",
+   "id": "300352796",
+   "name": "Downriver"
+  },
+  {
+   "club": "TKO Premier SC",
+   "id": "300537517",
+   "name": "ECNL RL"
   },
   {
    "club": "Nationals",
@@ -96,13 +116,8 @@
    "name": "Girls Midland Fusion MI"
   },
   {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300540306",
-   "name": "Liverpool FC MI ECNL"
-  },
-  {
-   "club": "Michigan Hawks",
-   "id": "300516946",
+   "club": "Cap City Athletic 1847",
+   "id": "300516950",
    "name": "ECNL RL"
   },
   {
@@ -111,34 +126,9 @@
    "name": "MFA SS Black"
   },
   {
-   "club": "Cap City Athletic 1847",
-   "id": "300516950",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Portage Soccer Club",
-   "id": "300516957",
-   "name": "Portage SC ECNL RL"
-  },
-  {
-   "club": "Midwest United FC",
-   "id": "300512846",
-   "name": "Aspire"
-  },
-  {
-   "club": "Plymouth Soccer Club",
-   "id": "300516939",
-   "name": "Plymouth Reign ECNL RL"
-  },
-  {
-   "club": "Bay Area SA",
-   "id": "300352896",
-   "name": "BASA Girls"
-  },
-  {
    "club": "Nationals",
-   "id": "300352839",
-   "name": "Union Black (MI)"
+   "id": "300540299",
+   "name": "SC ECNL RL"
   },
   {
    "club": "Traverse Bay Area YS",
@@ -146,39 +136,19 @@
    "name": "North Storm White (MI)"
   },
   {
-   "club": "Michigan Jaguars FC",
-   "id": "300352754",
-   "name": "Aspire"
-  },
-  {
-   "club": "Holt Soccer Club",
-   "id": "300487584",
-   "name": "HJR Girls"
-  },
-  {
-   "club": "Saginaw township soccer association",
-   "id": "300352779",
-   "name": "Detroit City FC North Rouge"
-  },
-  {
    "club": "Athletic Soccer Club Michigan",
    "id": "300352776",
    "name": "Athletic SC GEO Premier"
   },
   {
-   "club": "Michigan Stars Elite SC",
-   "id": "300352748",
-   "name": "GA"
-  },
-  {
-   "club": "Michigan Burn",
-   "id": "300516956",
+   "club": "Michigan Hawks",
+   "id": "300516946",
    "name": "ECNL RL"
   },
   {
-   "club": "Legends FC Michigan",
-   "id": "300352804",
-   "name": "ECNL RL"
+   "club": "PASS FC",
+   "id": "300490427",
+   "name": "PASS FC Navy"
   },
   {
    "club": "Michigan Jaguars FC",
@@ -186,14 +156,99 @@
    "name": "Jackson Girls Green"
   },
   {
+   "club": "Portage Soccer Club",
+   "id": "300516957",
+   "name": "Portage SC ECNL RL"
+  },
+  {
+   "club": "Holt Soccer Club",
+   "id": "300487584",
+   "name": "HJR Girls"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300540306",
+   "name": "Liverpool FC MI ECNL"
+  },
+  {
+   "club": "Bay Area SA",
+   "id": "300352896",
+   "name": "BASA Girls"
+  },
+  {
+   "club": "Plymouth Soccer Club",
+   "id": "300516939",
+   "name": "Plymouth Reign ECNL RL"
+  },
+  {
+   "club": "Legends FC Michigan",
+   "id": "300352804",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Michigan Burn",
+   "id": "300516956",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Michigan Jaguars FC",
+   "id": "300352754",
+   "name": "Aspire"
+  },
+  {
+   "club": "Michigan Stars Elite SC",
+   "id": "300352748",
+   "name": "GA"
+  },
+  {
+   "club": "Saginaw township soccer association",
+   "id": "300352779",
+   "name": "Detroit City FC North Rouge"
+  },
+  {
+   "club": "Midwest United FC",
+   "id": "300512846",
+   "name": "Aspire"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300516954",
+   "name": "Liverpool FC MI ECNL RL GMA"
+  },
+  {
+   "club": "Rapids FC",
+   "id": "300352785",
+   "name": "Rapids FC Green"
+  },
+  {
    "club": "Vardar Soccer",
    "id": "300352793",
    "name": "Vardar PH"
   },
   {
+   "club": "Michigan Tigers FC",
+   "id": "300540324",
+   "name": "(MI)"
+  },
+  {
    "club": "TKO Premier Soccer Club",
    "id": "300516952",
    "name": "TKO Premier SC ECNL RL"
+  },
+  {
+   "club": "Nationals",
+   "id": "300352839",
+   "name": "Union Black (MI)"
+  },
+  {
+   "club": "Nationals",
+   "id": "300352824",
+   "name": "Genesee Black (MI)"
+  },
+  {
+   "club": "Michigan Jaguars FC",
+   "id": "300352795",
+   "name": "Lansing G DPL"
   },
   {
    "club": "Detroit City FC West",
@@ -206,24 +261,14 @@
    "name": "Aspire"
   },
   {
-   "club": "Rapids FC",
-   "id": "300352785",
-   "name": "Rapids FC Green"
-  },
-  {
-   "club": "Michigan Tigers FC",
-   "id": "300540324",
-   "name": "(MI)"
+   "club": "TKO Premier SC",
+   "id": "300540325",
+   "name": "TKO Premier SC White"
   },
   {
    "club": "Michigan Jaguars FC",
-   "id": "300352795",
-   "name": "Lansing G DPL"
-  },
-  {
-   "club": "Nationals",
-   "id": "300352824",
-   "name": "Genesee Black (MI)"
+   "id": "300512849",
+   "name": "DPL"
   },
   {
    "club": "Nationals",
@@ -232,23 +277,8 @@
   },
   {
    "club": "Michigan Jaguars FC",
-   "id": "300512849",
-   "name": "DPL"
-  },
-  {
-   "club": "Southwest Michigan Soccer Club Inc",
-   "id": "300352797",
-   "name": "SWM Kickers Blue"
-  },
-  {
-   "club": "TKO Premier SC",
-   "id": "300540325",
-   "name": "TKO Premier SC White"
-  },
-  {
-   "club": "Michigan Stars Elite SC",
-   "id": "300352753",
-   "name": "DPL"
+   "id": "300490426",
+   "name": "Lansing Girls Green"
   },
   {
    "club": "Detroit City FC",
@@ -256,14 +286,24 @@
    "name": "Detroit City FC Genesee Rouge"
   },
   {
-   "club": "Michigan Jaguars FC",
-   "id": "300490426",
-   "name": "Lansing Girls Green"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300540305",
+   "name": "Liverpool FC MI ECNL RL"
+  },
+  {
+   "club": "Michigan Stars Elite SC",
+   "id": "300352753",
+   "name": "DPL"
   },
   {
    "club": "Nationals",
    "id": "300352837",
    "name": "Nationals Genesee Girls Red"
+  },
+  {
+   "club": "Michigan Jaguars FC",
+   "id": "300557166",
+   "name": "Genesee High School Girls Green"
   },
   {
    "club": "Nationals",
@@ -279,16 +319,6 @@
    "club": "Fraser Soccer Club",
    "id": "11665319",
    "name": "FSC United Select Girls"
-  },
-  {
-   "club": "Midwest United FC",
-   "id": "11665481",
-   "name": "FC NMFC"
-  },
-  {
-   "club": "West Michigan Youth Soccer Association",
-   "id": "11678949",
-   "name": "WSW"
   },
   {
    "club": "Flushing Football Club",
@@ -324,11 +354,6 @@
    "club": "Nationals",
    "id": "11811244",
    "name": "Union ECNL RL GMA"
-  },
-  {
-   "club": "Capital Area SL",
-   "id": "11853180",
-   "name": "(PH)"
   },
   {
    "club": "Huron Soccer association",
@@ -561,19 +586,14 @@
    "name": "North Oakland G ECNL RL GMA"
   },
   {
-   "club": "Detroit City FC",
-   "id": "300352796",
-   "name": "Downriver"
+   "club": "Southwest Michigan Soccer Club Inc",
+   "id": "300352797",
+   "name": "SWM Kickers Blue"
   },
   {
    "club": "Freeland Soccer Club",
    "id": "300352798",
    "name": "Freeland Force Girls Green"
-  },
-  {
-   "club": "Plymouth SC Reign",
-   "id": "300352808",
-   "name": "Plymouth Reign White"
   },
   {
    "club": "PASS FC",
@@ -646,9 +666,9 @@
    "name": "Barefoot Bandits"
   },
   {
-   "club": "PASS FC",
-   "id": "300490427",
-   "name": "PASS FC Navy"
+   "club": "Nationals",
+   "id": "300489479",
+   "name": "Nationals SC Union ECNL RL"
   },
   {
    "club": "Rubber Duckies",
@@ -686,11 +706,6 @@
    "name": "Liverpool FC RL"
   },
   {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300516954",
-   "name": "Liverpool FC MI ECNL RL GMA"
-  },
-  {
    "club": "Cap City Athletic 1847",
    "id": "300529582",
    "name": "Cap City Girls Grey"
@@ -701,16 +716,6 @@
    "name": "Nationals SC Capital Area ECNL RL"
   },
   {
-   "club": "Legends FC",
-   "id": "300529586",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "TKO Premier SC",
-   "id": "300537517",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Cap City Athletic 1847",
    "id": "300540297",
    "name": "ECNL RL G"
@@ -719,11 +724,6 @@
    "club": "NATIONALS UNION ACADEMY",
    "id": "300540298",
    "name": "NATIONALS UNION GIRLS RED"
-  },
-  {
-   "club": "Nationals",
-   "id": "300540299",
-   "name": "SC ECNL RL"
   },
   {
    "club": "Liverpool FC-IA Michigan",
@@ -739,16 +739,6 @@
    "club": "NATIONALS GENESEE",
    "id": "300540302",
    "name": "GENESEE RED"
-  },
-  {
-   "club": "Michigan Hawks",
-   "id": "300540303",
-   "name": "ECNL"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300540305",
-   "name": "Liverpool FC MI ECNL RL"
   },
   {
    "club": "Portage Soccer Club",
@@ -846,11 +836,6 @@
    "name": "ACGR Shore Black (MI)"
   },
   {
-   "club": "Nationals",
-   "id": "300540330",
-   "name": "SC ECNL"
-  },
-  {
    "club": "Michigan Jaguars FC",
    "id": "300540331",
    "name": "Michigan Jaguars DPL Girls"
@@ -874,11 +859,6 @@
    "club": "Farmington Soccer Club",
    "id": "300540335",
    "name": "Farmington Soccer Club"
-  },
-  {
-   "club": "Michigan Jaguars FC",
-   "id": "300557166",
-   "name": "Genesee High School Girls Green"
   }
  ]
 }

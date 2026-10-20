@@ -1,29 +1,29 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-13T15:18:03.590673+00:00",
+ "fetched_at": "2026-10-20T12:45:46.471554+00:00",
  "state": "NV",
  "state_slug": "nevada",
  "teams": [
-  {
-   "club": "LV Heat Surf SC",
-   "id": "300450440",
-   "name": "Pre-NP (S)"
-  },
   {
    "club": "Las Vegas Sports Academy",
    "id": "300450433",
    "name": "Girls Red"
   },
   {
-   "club": "Nevada Futbol Club",
-   "id": "300450430",
-   "name": "Nevada FC Elite"
+   "club": "LV Heat Surf SC",
+   "id": "300450440",
+   "name": "Pre-NP (S)"
   },
   {
    "club": "LV Heat Surf SC",
    "id": "300450435",
    "name": "Pre-ECNL"
+  },
+  {
+   "club": "Nevada Futbol Club",
+   "id": "300450430",
+   "name": "Nevada FC Elite"
   },
   {
    "club": "Elite FC (NV)",
@@ -56,19 +56,19 @@
    "name": "ALBION SC Las Vegas Academy GK"
   },
   {
-   "club": "LV Heat Surf SC",
-   "id": "300450421",
-   "name": "Pre-NP (H)"
-  },
-  {
    "club": "Players SC",
    "id": "300450418",
    "name": "Players Girls Juniors Elite"
   },
   {
-   "club": "Sierra Nevada FC",
-   "id": "300538166",
-   "name": "Sierra Nevada FC Ruby"
+   "club": "LV Heat Surf SC",
+   "id": "300450421",
+   "name": "Pre-NP (H)"
+  },
+  {
+   "club": "La Escuelita Bulls Las Vegas",
+   "id": "300450417",
+   "name": "La Escuelita Bulls LV"
   },
   {
    "club": "Las Vegas Sports Academy",
@@ -81,19 +81,9 @@
    "name": "Academy"
   },
   {
-   "club": "La Escuelita Bulls Las Vegas",
-   "id": "300450417",
-   "name": "La Escuelita Bulls LV"
-  },
-  {
    "club": "Las Vegas Sports Academy",
    "id": "300450436",
    "name": "Las Vegas Sports Academy Girls White"
-  },
-  {
-   "club": "Albion SC Las Vegas",
-   "id": "300450427",
-   "name": "ALBION SC Las Vegas Academy DM White"
   },
   {
    "club": "LV Heat Surf SC",
@@ -101,19 +91,29 @@
    "name": "Pre-RP (H)"
   },
   {
+   "club": "Albion SC Las Vegas",
+   "id": "300450427",
+   "name": "ALBION SC Las Vegas Academy DM White"
+  },
+  {
+   "club": "Sierra Nevada FC",
+   "id": "300538166",
+   "name": "Sierra Nevada FC Ruby"
+  },
+  {
    "club": "Carson FC",
    "id": "300480252",
    "name": "CFC Valley Monarchs"
   },
   {
-   "club": "Mighty Mustangs Soccer Club",
-   "id": "300450434",
-   "name": "Mighty Mustangs"
-  },
-  {
    "club": "Reno APEX Soccer Club",
    "id": "300450419",
    "name": "PREMIER"
+  },
+  {
+   "club": "Mighty Mustangs Soccer Club",
+   "id": "300450434",
+   "name": "Mighty Mustangs"
   },
   {
    "club": "Sierra Nevada FC",
@@ -129,6 +129,16 @@
    "club": "Vegas United Soccer Club",
    "id": "300450432",
    "name": "VU Stars Acadmey Black"
+  },
+  {
+   "club": "Reno APEX Soccer Club",
+   "id": "300546534",
+   "name": "SILVER"
+  },
+  {
+   "club": "Great Basin Youth Soccer League",
+   "id": "15634450",
+   "name": "CRAIG"
   },
   {
    "club": "U.S. Futsal",
@@ -171,19 +181,14 @@
    "name": "EMO"
   },
   {
-   "club": "Great Basin Youth Soccer League",
-   "id": "15634450",
-   "name": "CRAIG"
+   "club": "Purple Strikers",
+   "id": "300480251",
+   "name": "Purple Strikers"
   },
   {
    "club": "Athletic Soccer Club - Las Vegas",
    "id": "16573950",
    "name": "Athletic SC Select"
-  },
-  {
-   "club": "Reno APEX Soccer Club",
-   "id": "300546534",
-   "name": "SILVER"
   },
   {
    "club": "Reno APEX Soccer Club",
@@ -194,11 +199,6 @@
    "club": "Nevada Futbol Club",
    "id": "300497513",
    "name": "Nevada FC Select"
-  },
-  {
-   "club": "Purple Strikers",
-   "id": "300480251",
-   "name": "Purple Strikers"
   },
   {
    "club": "Great Basin Youth Soccer League",
@@ -267,28 +267,8 @@
   },
   {
    "club": "Great Basin Youth Soccer League",
-   "id": "11696103",
-   "name": "O'BRIEN"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696102",
-   "name": "AFLAGUE-ROCHA"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
    "id": "11696101",
    "name": "WILLIAMS"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696100",
-   "name": "GOMEZ"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696099",
-   "name": "EMO"
   },
   {
    "club": "Great Basin Youth Soccer League",
@@ -296,29 +276,9 @@
    "name": "BENITEZ"
   },
   {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696097",
-   "name": "WALCZAK"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696096",
-   "name": "STONE"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696095",
-   "name": "BAKER"
-  },
-  {
    "club": "Cookie Crew",
    "id": "12066386",
    "name": "Cookie Crew"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696094",
-   "name": "RODRIGUEZ"
   },
   {
    "club": "Christmas Morning Chaos",

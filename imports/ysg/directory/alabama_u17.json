@@ -1,7 +1,7 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-13T14:31:18.408086+00:00",
+ "fetched_at": "2026-10-20T11:59:06.446156+00:00",
  "state": "AL",
  "state_slug": "alabama",
  "teams": [
@@ -9,6 +9,11 @@
    "club": "Alabama FC",
    "id": "300516593",
    "name": "ECNL"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "300539865",
+   "name": "ECNL RL"
   },
   {
    "club": "Alabama FC",
@@ -31,14 +36,9 @@
    "name": "- ECNL RL"
   },
   {
-   "club": "Vestavia Hills Soccer Club",
-   "id": "300347487",
-   "name": "Attack Black"
-  },
-  {
-   "club": "Tuscaloosa United Soccer Club",
-   "id": "300347451",
-   "name": "TUSC Girls"
+   "club": "Alabama FC",
+   "id": "300539867",
+   "name": "Huntsville ECNL RL"
   },
   {
    "club": "Kidder Fc",
@@ -46,24 +46,24 @@
    "name": "Kangaroos"
   },
   {
-   "club": "Alabama FC",
-   "id": "300539867",
-   "name": "Huntsville ECNL RL"
-  },
-  {
    "club": "Union 10 FC",
    "id": "300539864",
    "name": "Union ECNL RL"
   },
   {
-   "club": "Alabama FC",
-   "id": "300347468",
-   "name": "SCCL"
+   "club": "Vestavia Hills Soccer Club",
+   "id": "300347487",
+   "name": "Attack Black"
   },
   {
    "club": "Gardendale SC (GSC)",
    "id": "300347472",
    "name": "GSC Girls"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "300347468",
+   "name": "SCCL"
   },
   {
    "club": "Union 10 Football Club",
@@ -74,6 +74,11 @@
    "club": "Hoover Soccer Club",
    "id": "300347455",
    "name": "Hoover Lady Phantoms Blue"
+  },
+  {
+   "club": "Tuscaloosa United Soccer Club",
+   "id": "300347451",
+   "name": "TUSC Girls"
   },
   {
    "club": "Union 10 FC",
@@ -101,11 +106,6 @@
    "name": "AFC Premier"
   },
   {
-   "club": "Auburn Soccer Club (AL)",
-   "id": "16238350",
-   "name": "Auburn Soccer Club Girls"
-  },
-  {
    "club": "Tuscaloosa United SC    (TUSC)",
    "id": "16238300",
    "name": "TUSC Girls"
@@ -124,11 +124,6 @@
    "club": "Dothan Shockers FC",
    "id": "300533984",
    "name": "Dothan Shockers FC"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "300539865",
-   "name": "ECNL RL"
   },
   {
    "club": "Alabama FC",
@@ -181,6 +176,11 @@
    "name": "metro fire"
   },
   {
+   "club": "Alabama FC",
+   "id": "12192396",
+   "name": "Alabama FC Girls AL"
+  },
+  {
    "club": "Snohomish United",
    "id": "12187662",
    "name": "Snohomish United ECNL-RL"
@@ -216,9 +216,9 @@
    "name": "Red Ferraris Memorial Day"
   },
   {
-   "club": "Alabama FC",
-   "id": "12192396",
-   "name": "Alabama FC Girls AL"
+   "club": "Coastal Rush",
+   "id": "12192397",
+   "name": "Baldwin Rush Girls Black AL"
   },
   {
    "club": "Clemson Anderson SA",
@@ -246,11 +246,6 @@
    "name": "AFCHSV- USC Girls Premier"
   },
   {
-   "club": "Storm F.C.",
-   "id": "11676164",
-   "name": "Girls"
-  },
-  {
    "club": "Revolution Soccer Club",
    "id": "11676143",
    "name": "Revolution Elite"
@@ -262,8 +257,13 @@
   },
   {
    "club": "Union 10 Football Club",
-   "id": "12314656",
-   "name": "Union Academy Girls PreECNL-RL"
+   "id": "12314657",
+   "name": "Union Academy Girls Silver"
+  },
+  {
+   "club": "Alabama Rush",
+   "id": "11675954",
+   "name": "AL Lady Rush SM Black"
   },
   {
    "club": "Vestavia Hills Soccer Club",
@@ -301,14 +301,14 @@
    "name": "Union Academy Girls Black"
   },
   {
-   "club": "Union 10 Football Club",
-   "id": "12314657",
-   "name": "Union Academy Girls Silver"
+   "club": "Auburn Soccer Club (AL)",
+   "id": "16238350",
+   "name": "Auburn Soccer Club Girls"
   },
   {
-   "club": "Alabama Rush",
-   "id": "11675954",
-   "name": "AL Lady Rush SM Black"
+   "club": "Union 10 Football Club",
+   "id": "12314656",
+   "name": "Union Academy Girls PreECNL-RL"
   },
   {
    "club": "Union 10 Football Club",
@@ -344,11 +344,6 @@
    "club": "Vestavia Hills Soccer Club",
    "id": "12192459",
    "name": "VHSC Attack Girls Black AL"
-  },
-  {
-   "club": "Coastal Rush",
-   "id": "12192397",
-   "name": "Baldwin Rush Girls Black AL"
   }
  ]
 }

@@ -1,39 +1,24 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-13T14:50:23.596402+00:00",
+ "fetched_at": "2026-10-20T12:18:07.897394+00:00",
  "state": "ID",
  "state_slug": "idaho",
  "teams": [
-  {
-   "club": "JYSA Soccer",
-   "id": "12313933",
-   "name": "JYSA Rigby Girls"
-  },
   {
    "club": "North Boise FC",
    "id": "300459635",
    "name": "NBFC Capitol"
   },
   {
-   "club": "IFFC",
-   "id": "300523505",
-   "name": "IFFC Claret - Resendiz"
-  },
-  {
-   "club": "PVSC United",
-   "id": "300547168",
-   "name": "PVSC Girls- Sorrell"
+   "club": "JYSA Soccer",
+   "id": "12313933",
+   "name": "JYSA Rigby Girls"
   },
   {
    "club": "Indie Chicas",
    "id": "300459632",
    "name": "Black Indie Chicas"
-  },
-  {
-   "club": "Idaho Slammers FC",
-   "id": "300538279",
-   "name": "Idaho Slammers FC Black"
   },
   {
    "club": "Boise Timbers | Thorns",
@@ -46,9 +31,14 @@
    "name": "Girls Inferno Copa"
   },
   {
-   "club": "Upper Valley Soccer Foundation",
-   "id": "12313932",
-   "name": "UVSF United Houston"
+   "club": "Idaho Slammers FC",
+   "id": "300459625",
+   "name": "Idaho Slammers FC Maroon"
+  },
+  {
+   "club": "Idaho Slammers FC",
+   "id": "300538279",
+   "name": "Idaho Slammers FC Black"
   },
   {
    "club": "Global Sports Academy",
@@ -56,29 +46,9 @@
    "name": "GSA Academy I Green"
   },
   {
-   "club": "Idaho Slammers FC",
-   "id": "300459625",
-   "name": "Idaho Slammers FC Maroon"
-  },
-  {
-   "club": "CGA Academy SC",
-   "id": "300535143",
-   "name": "CGA Academy"
-  },
-  {
-   "club": "Idaho Rush Soccer Club",
-   "id": "300459626",
-   "name": "Idaho Rush Blue"
-  },
-  {
    "club": "Global Sports Academy",
    "id": "300471401",
    "name": "GSA Green"
-  },
-  {
-   "club": "Idaho Rush Soccer Club",
-   "id": "300459627",
-   "name": "Idaho Rush Black I"
   },
   {
    "club": "Global Sports Academy",
@@ -86,14 +56,24 @@
    "name": "GSA Black"
   },
   {
-   "club": "Boise Timbers | Thorns",
-   "id": "300538285",
-   "name": "Boise Thorns Elite One"
+   "club": "Idaho Rush Soccer Club",
+   "id": "300459626",
+   "name": "Idaho Rush Blue"
   },
   {
-   "club": "City SC",
-   "id": "300538277",
-   "name": "City SC East Idaho - Navy"
+   "club": "Upper Valley Soccer Foundation",
+   "id": "12313932",
+   "name": "UVSF United Houston"
+  },
+  {
+   "club": "Idaho Rush Soccer Club",
+   "id": "300459627",
+   "name": "Idaho Rush Black I"
+  },
+  {
+   "club": "CGA Academy SC",
+   "id": "300535143",
+   "name": "CGA Academy"
   },
   {
    "club": "Global Sports Academy",
@@ -101,19 +81,24 @@
    "name": "GSA Academy II Black"
   },
   {
+   "club": "IFFC",
+   "id": "300523505",
+   "name": "IFFC Claret - Resendiz"
+  },
+  {
+   "club": "Idaho Storm",
+   "id": "300538278",
+   "name": "Idaho Storm"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300538285",
+   "name": "Boise Thorns Elite One"
+  },
+  {
    "club": "PVSC United",
-   "id": "12313892",
-   "name": "PVSC Girls- Pongah"
-  },
-  {
-   "club": "Teton FC",
-   "id": "300550989",
-   "name": "Teton FC Girls \u2022 Stitgen"
-  },
-  {
-   "club": "Idaho Surf SC",
-   "id": "300471192",
-   "name": "ID Boise Surf Academy"
+   "id": "300547168",
+   "name": "PVSC Girls- Sorrell"
   },
   {
    "club": "Global Sports Academy",
@@ -121,14 +106,14 @@
    "name": "GSA Academy I Black"
   },
   {
-   "club": "North Boise FC",
-   "id": "300471405",
-   "name": "NBFC Skyline"
+   "club": "Sting Soccer Club",
+   "id": "300535147",
+   "name": "Sting SC Black"
   },
   {
-   "club": "Global Sports Academy",
-   "id": "300538273",
-   "name": "GSA Green"
+   "club": "Idaho Surf SC",
+   "id": "300471192",
+   "name": "ID Boise Surf Academy"
   },
   {
    "club": "TF Rapids SC",
@@ -136,14 +121,29 @@
    "name": "Rapids SC"
   },
   {
+   "club": "Sugar City Soccer League",
+   "id": "12312502",
+   "name": "Digger Girls"
+  },
+  {
+   "club": "Global Sports Academy",
+   "id": "300538273",
+   "name": "GSA Green"
+  },
+  {
+   "club": "City SC",
+   "id": "300538277",
+   "name": "City SC East Idaho - Navy"
+  },
+  {
+   "club": "PVSC United",
+   "id": "12313892",
+   "name": "PVSC Girls- Pongah"
+  },
+  {
    "club": "Sting Soccer Club",
    "id": "300459628",
    "name": "Sting SC Yellow"
-  },
-  {
-   "club": "ALBION SC Idaho",
-   "id": "300538284",
-   "name": "ALBION SC IDAHO Academy"
   },
   {
    "club": "Indie Chicas",
@@ -156,14 +156,34 @@
    "name": "IFFC Claret - Resendiz"
   },
   {
-   "club": "JYSA Soccer",
-   "id": "300535146",
-   "name": "JYSA Rigby Girls Maroon"
+   "club": "North Boise FC",
+   "id": "300471405",
+   "name": "NBFC Skyline"
+  },
+  {
+   "club": "Teton FC",
+   "id": "300550989",
+   "name": "Teton FC Girls \u2022 Stitgen"
+  },
+  {
+   "club": "ALBION SC Idaho",
+   "id": "300538284",
+   "name": "ALBION SC IDAHO Academy"
   },
   {
    "club": "Palacios Futbol Club (PFC)",
    "id": "12002321",
    "name": "PFC"
+  },
+  {
+   "club": "Project 208",
+   "id": "300459622",
+   "name": "FC G"
+  },
+  {
+   "club": "JYSA Soccer",
+   "id": "300535146",
+   "name": "JYSA Rigby Girls Maroon"
   },
   {
    "club": "FC North Idaho Avalanche",
@@ -176,19 +196,9 @@
    "name": "Girls - Gaub"
   },
   {
-   "club": "Project 208",
-   "id": "300459622",
-   "name": "FC G"
-  },
-  {
    "club": "IFFC",
    "id": "300470067",
    "name": "IFFC Claret - Clarkson"
-  },
-  {
-   "club": "Teton FC",
-   "id": "300535144",
-   "name": "Teton FC Girls - Stitgen"
   },
   {
    "club": "Project 208",
@@ -196,14 +206,29 @@
    "name": "FC"
   },
   {
+   "club": "Nampa Premier Soccer Club",
+   "id": "300538282",
+   "name": "NPSC"
+  },
+  {
+   "club": "Teton FC",
+   "id": "300535144",
+   "name": "Teton FC Girls - Stitgen"
+  },
+  {
+   "club": "Indie Chicas",
+   "id": "300538270",
+   "name": "White Indie Chicas"
+  },
+  {
    "club": "Global Sports Academy",
    "id": "300471404",
    "name": "GSA White"
   },
   {
-   "club": "Nampa Premier Soccer Club",
-   "id": "300538282",
-   "name": "NPSC"
+   "club": "Indie Chicas",
+   "id": "300538271",
+   "name": "Teal Indie Chicas"
   },
   {
    "club": "Global Sports Academy",
@@ -216,19 +241,19 @@
    "name": "JYSA Rigby Girls White"
   },
   {
-   "club": "Boise Timbers | Thorns",
-   "id": "12016075",
-   "name": "BTT Boise Thorns Elite"
-  },
-  {
    "club": "JYSA Soccer",
    "id": "300470066",
    "name": "JYSA Rigby Girls"
   },
   {
-   "club": "PVSC United",
-   "id": "11768542",
-   "name": "Almond/Cheney"
+   "club": "Idaho Surf SC",
+   "id": "300523507",
+   "name": "ID Elko Surf"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "12016075",
+   "name": "BTT Boise Thorns Elite"
   },
   {
    "club": "Idaho Legends",
@@ -259,11 +284,6 @@
    "club": "IFFC",
    "id": "12311283",
    "name": "IFFC Claret - Lima"
-  },
-  {
-   "club": "Sugar City Soccer League",
-   "id": "12312502",
-   "name": "Digger Girls"
   },
   {
    "club": "IFFC",
@@ -436,26 +456,6 @@
    "name": "AYSO Rexburg All-Stars"
   },
   {
-   "club": "Idaho Surf SC",
-   "id": "300523507",
-   "name": "ID Elko Surf"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300535147",
-   "name": "Sting SC Black"
-  },
-  {
-   "club": "Indie Chicas",
-   "id": "300538270",
-   "name": "White Indie Chicas"
-  },
-  {
-   "club": "Indie Chicas",
-   "id": "300538271",
-   "name": "Teal Indie Chicas"
-  },
-  {
    "club": "Indie Chicas",
    "id": "300538272",
    "name": "Black Indie Chicas"
@@ -464,11 +464,6 @@
    "club": "Global Sports Academy",
    "id": "300538274",
    "name": "GSA Black"
-  },
-  {
-   "club": "Idaho Storm",
-   "id": "300538278",
-   "name": "Idaho Storm"
   },
   {
    "club": "Idaho Rush Soccer Club",

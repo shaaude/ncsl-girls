@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-10-13T15:52:14.910826+00:00",
+ "fetched_at": "2026-10-20T13:19:56.536507+00:00",
  "state": "WA",
  "state_slug": "washington",
  "teams": [
@@ -41,14 +41,14 @@
    "name": "GA"
   },
   {
-   "club": "XF",
-   "id": "300347261",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Three Rivers Soccer Club",
    "id": "300487853",
    "name": "ECNL-RL"
+  },
+  {
+   "club": "Seattle Reign Academy",
+   "id": "300347185",
+   "name": "GA"
   },
   {
    "club": "Snohomish United FC",
@@ -61,6 +61,11 @@
    "name": "GA"
   },
   {
+   "club": "Eastside FC",
+   "id": "300516581",
+   "name": "ECNL RL"
+  },
+  {
    "club": "Columbia Premier Soccer Club",
    "id": "300347184",
    "name": "GA"
@@ -71,19 +76,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Seattle Reign Academy",
-   "id": "300347185",
-   "name": "GA"
+   "club": "XF",
+   "id": "300347261",
+   "name": "ECNL RL"
   },
   {
    "club": "Seattle United",
    "id": "300516571",
    "name": "Seattle United ECNL-RL"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300516581",
-   "name": "ECNL RL"
   },
   {
    "club": "Pacific Northwest Soccer Club",
@@ -101,34 +101,9 @@
    "name": "GA"
   },
   {
-   "club": "Valor Soccer",
-   "id": "300474818",
-   "name": "Aspire"
-  },
-  {
    "club": "Crossfire Premier Soccer Club",
    "id": "300529353",
    "name": "XF ECNL RL"
-  },
-  {
-   "club": "Central Washington Sounders",
-   "id": "11680167",
-   "name": "Central Washington ECNL RL"
-  },
-  {
-   "club": "Granite Falls YSC",
-   "id": "300488694",
-   "name": "Granite FC"
-  },
-  {
-   "club": "NPSA",
-   "id": "300347191",
-   "name": "WW SURF GA"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300347178",
-   "name": "Aspire"
   },
   {
    "club": "Emerald City Football Club",
@@ -136,9 +111,24 @@
    "name": "ECFC Green"
   },
   {
+   "club": "Valor Soccer",
+   "id": "300474818",
+   "name": "Aspire"
+  },
+  {
+   "club": "NPSA",
+   "id": "300347191",
+   "name": "WW SURF GA"
+  },
+  {
    "club": "Northwest United FC",
    "id": "11680170",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Granite Falls YSC",
+   "id": "300488694",
+   "name": "Granite FC"
   },
   {
    "club": "Washington Rush",
@@ -146,9 +136,24 @@
    "name": "GA"
   },
   {
+   "club": "Central Washington Sounders",
+   "id": "11680167",
+   "name": "Central Washington ECNL RL"
+  },
+  {
    "club": "Sparta Tacoma",
    "id": "300347157",
    "name": "Red"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "300347178",
+   "name": "Aspire"
+  },
+  {
+   "club": "Washington East Surf Soccer Club",
+   "id": "300476945",
+   "name": "Aspire"
   },
   {
    "club": "Washington Rush",
@@ -156,9 +161,9 @@
    "name": "Washington Rush Rush"
   },
   {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300476945",
-   "name": "Aspire"
+   "club": "Columbia Premier Soccer Club",
+   "id": "300488047",
+   "name": "Columbia Premier SC Black Aspire"
   },
   {
    "club": "Seattle Reign Academy",
@@ -171,19 +176,14 @@
    "name": "Navy"
   },
   {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300488047",
-   "name": "Columbia Premier SC Black Aspire"
-  },
-  {
    "club": "Northwest United FC",
    "id": "300529355",
    "name": "NW United FC ECNL-RL"
   },
   {
-   "club": "Mt Rainier Futbol Club",
-   "id": "300476947",
-   "name": "Aspire"
+   "club": "NPSA",
+   "id": "300476946",
+   "name": "WW SURF ASPIRE"
   },
   {
    "club": "NPSA",
@@ -191,14 +191,9 @@
    "name": "WW SURF SNOHOMISH A"
   },
   {
-   "club": "Sparta Tacoma",
-   "id": "300347162",
-   "name": "White"
-  },
-  {
-   "club": "NPSA",
-   "id": "300476946",
-   "name": "WW SURF ASPIRE"
+   "club": "Mt Rainier Futbol Club",
+   "id": "300476947",
+   "name": "Aspire"
   },
   {
    "club": "Dragons FC",
@@ -211,6 +206,16 @@
    "name": "Valencia CF Academy Seattle"
   },
   {
+   "club": "West Sound Soccer Academy",
+   "id": "300347256",
+   "name": "WSSA"
+  },
+  {
+   "club": "FC Edmonds",
+   "id": "300347194",
+   "name": "G09"
+  },
+  {
    "club": "Eastside FC",
    "id": "300489474",
    "name": "Eastside FC Red"
@@ -221,14 +226,14 @@
    "name": "Aspire"
   },
   {
-   "club": "FC Edmonds",
-   "id": "300347194",
-   "name": "G09"
+   "club": "Sparta Tacoma",
+   "id": "300347162",
+   "name": "White"
   },
   {
-   "club": "West Sound Soccer Academy",
-   "id": "300347256",
-   "name": "WSSA"
+   "club": "Seattle Celtic FC",
+   "id": "300347174",
+   "name": "Green"
   },
   {
    "club": "Washington East Surf Soccer Club",
@@ -246,9 +251,9 @@
    "name": "MIFC Maroon"
   },
   {
-   "club": "Seattle Celtic FC",
-   "id": "300347174",
-   "name": "Green"
+   "club": "Steel United Washington",
+   "id": "300347170",
+   "name": "Steel United WA Elite"
   },
   {
    "club": "NPSA",
@@ -256,9 +261,9 @@
    "name": "WW SURF PREMIER CENTRAL A"
   },
   {
-   "club": "Steel United Washington",
-   "id": "300347170",
-   "name": "Steel United WA Elite"
+   "club": "Seattle Celtic FC",
+   "id": "300347265",
+   "name": "Seattle Celtic White"
   },
   {
    "club": "Seattle United",
@@ -271,19 +276,14 @@
    "name": "B"
   },
   {
-   "club": "Seattle Celtic FC",
-   "id": "300347265",
-   "name": "Seattle Celtic White"
+   "club": "Everett Youth Soccer Club",
+   "id": "300347169",
+   "name": "Everett FC Navy"
   },
   {
    "club": "Northlake Soccer Club",
    "id": "300347179",
    "name": "Northlake Soccer Club Cyclones"
-  },
-  {
-   "club": "Everett Youth Soccer Club",
-   "id": "300347169",
-   "name": "Everett FC Navy"
   },
   {
    "club": "Emerald City Football Club",
@@ -399,11 +399,6 @@
    "club": "Seattle Celtic FC",
    "id": "12238727",
    "name": "GA"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "12265244",
-   "name": "Aspire"
   },
   {
    "club": "Sound Football Club",
@@ -649,6 +644,11 @@
    "club": "PacNW",
    "id": "300539852",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Seattle Celtic FC",
+   "id": "300558937",
+   "name": "Aspire"
   }
  ]
 }

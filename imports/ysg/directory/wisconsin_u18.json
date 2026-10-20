@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-10-13T15:55:54.748602+00:00",
+ "fetched_at": "2026-10-20T13:23:36.511649+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
@@ -9,11 +9,6 @@
    "club": "Elmbrook United",
    "id": "300347333",
    "name": "GA"
-  },
-  {
-   "club": "MC United Soccer Club",
-   "id": "300347308",
-   "name": "Aspire"
   },
   {
    "club": "SC Wave",
@@ -26,8 +21,8 @@
    "name": "Rush WI Girls Rush"
   },
   {
-   "club": "Wisconsin United Football Club",
-   "id": "300347316",
+   "club": "MC United Soccer Club",
+   "id": "300347308",
    "name": "Aspire"
   },
   {
@@ -41,14 +36,14 @@
    "name": "ECNL"
   },
   {
+   "club": "Wisconsin United Football Club",
+   "id": "300347316",
+   "name": "Aspire"
+  },
+  {
    "club": "FC Wisconsin Girls",
    "id": "300539856",
    "name": "FC Wisconsin ECNL"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "300347314",
-   "name": "Aspire"
   },
   {
    "club": "Croatian Eagles Soccer Club",
@@ -61,8 +56,8 @@
    "name": "GA"
   },
   {
-   "club": "SC Wave",
-   "id": "300347307",
+   "club": "Elmbrook United",
+   "id": "300347314",
    "name": "Aspire"
   },
   {
@@ -71,14 +66,19 @@
    "name": "Milwaukee Kickers DPL"
   },
   {
+   "club": "SC Wave",
+   "id": "300347307",
+   "name": "Aspire"
+  },
+  {
    "club": "North Shore United",
    "id": "300347317",
    "name": "Aspire"
   },
   {
-   "club": "FC Wisconsin",
-   "id": "300347342",
-   "name": "ECNL RL"
+   "club": "Milwaukee Kickers Academy",
+   "id": "300347328",
+   "name": "MKSC Union Girls Red"
   },
   {
    "club": "Jackson SC",
@@ -101,6 +101,11 @@
    "name": "Fox Cities United Porto FC Girls"
   },
   {
+   "club": "Madison 56ers",
+   "id": "300347320",
+   "name": "Girls White"
+  },
+  {
    "club": "Oshkosh United Soccer Club",
    "id": "300555779",
    "name": "Oshkosh United Elite Girls"
@@ -111,34 +116,9 @@
    "name": "LKF HS Girls Character"
   },
   {
-   "club": "Madison 56ers",
-   "id": "300347320",
-   "name": "Girls White"
-  },
-  {
    "club": "SC Brownsville United",
    "id": "300555777",
    "name": "SCBro-"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300555155",
-   "name": "WW VSA"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "300550559",
-   "name": "EBU Girls Premier"
-  },
-  {
-   "club": "Milwaukee Kickers Academy",
-   "id": "300347328",
-   "name": "MKSC Union Girls Red"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300539855",
-   "name": "FC Wisconsin ECNL RL"
   },
   {
    "club": "Polonia SC",
@@ -146,44 +126,34 @@
    "name": "Polonia (WI)"
   },
   {
+   "club": "Western Wisconsin Soccer",
+   "id": "300555155",
+   "name": "WW VSA"
+  },
+  {
    "club": "RUSH Wisconsin Soccer Club",
    "id": "300347334",
    "name": "Rush WI G - Blue"
   },
   {
-   "club": "NSU Germantown",
-   "id": "300475090",
-   "name": "NSU Germantown Girls Blue"
-  },
-  {
-   "club": "McFarland Soccer Association",
-   "id": "11800972",
-   "name": "McFarland Blue"
-  },
-  {
-   "club": "Middleton United Soccer Club",
-   "id": "11800975",
-   "name": "Middleton Utd Red"
-  },
-  {
-   "club": "Bavarian United",
-   "id": "11830863",
-   "name": "BUSC Girls Blue"
-  },
-  {
-   "club": "Croatian Eagles Soccer Club",
-   "id": "11830876",
-   "name": "Croatian Eagles High School Girls Osvatic"
-  },
-  {
-   "club": "Forward Madison FC",
-   "id": "11833790",
-   "name": "Select"
-  },
-  {
    "club": "Elmbrook United",
-   "id": "11838467",
+   "id": "300550559",
    "name": "EBU Girls Premier"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "300539855",
+   "name": "FC Wisconsin ECNL RL"
+  },
+  {
+   "club": "FC Wisconsin",
+   "id": "300347342",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Wisconsin United Football Club",
+   "id": "11846965",
+   "name": "Wisconsin United FC"
   },
   {
    "club": "Lakeshore United FC",
@@ -191,9 +161,19 @@
    "name": "LUFC Navy State"
   },
   {
-   "club": "Wisconsin United Football Club",
-   "id": "11846965",
-   "name": "Wisconsin United FC"
+   "club": "Elmbrook United",
+   "id": "11838467",
+   "name": "EBU Girls Premier"
+  },
+  {
+   "club": "Croatian Eagles Soccer Club",
+   "id": "11830876",
+   "name": "Croatian Eagles High School Girls Osvatic"
+  },
+  {
+   "club": "Bavarian United",
+   "id": "11830863",
+   "name": "BUSC Girls Blue"
   },
   {
    "club": "Waunakee Area Soccer Club",
@@ -219,6 +199,11 @@
    "club": "Green Bay Lightning",
    "id": "14554600",
    "name": "Green Bay Lightning"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "16041000",
+   "name": "LXU Girls Elite"
   },
   {
    "club": "Western Wisconsin",

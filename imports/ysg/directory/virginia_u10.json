@@ -1,10 +1,20 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-13T14:24:47.719301+00:00",
+ "fetched_at": "2026-10-20T11:52:36.460892+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
+  {
+   "club": "Chesapeake Soccer Club",
+   "id": "11986743",
+   "name": "Galaxy Gold"
+  },
+  {
+   "club": "Beach FC",
+   "id": "300464000",
+   "name": "Beach Dolphins"
+  },
   {
    "club": "McLean YS",
    "id": "300527397",
@@ -16,14 +26,44 @@
    "name": "GFR Blue"
   },
   {
+   "club": "Beach FC",
+   "id": "300464004",
+   "name": "Beach FC TASL Spirit"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "300466445",
+   "name": "Loudoun Spirit Red"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "300464054",
+   "name": "Gold"
+  },
+  {
    "club": "Virginia Soccer Association",
    "id": "300464031",
    "name": "VSA RODMAN"
   },
   {
+   "club": "Arlington Soccer Association",
+   "id": "300464044",
+   "name": "Arlington SA Dash"
+  },
+  {
    "club": "Springfield SYC Soccer",
    "id": "300464035",
    "name": "SYC Pre-GA"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "300464009",
+   "name": "PW Courage Nike"
+  },
+  {
+   "club": "Great Falls Reston Soccer Club",
+   "id": "300464012",
+   "name": "GFRSC White"
   },
   {
    "club": "Alexandria Soccer Association",
@@ -36,29 +76,9 @@
    "name": "GSC Courage"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "300464044",
-   "name": "Arlington SA Dash"
-  },
-  {
-   "club": "Virginia Valor FC",
-   "id": "300464054",
-   "name": "Gold"
-  },
-  {
-   "club": "Great Falls Reston Soccer Club",
-   "id": "300464012",
-   "name": "GFRSC White"
-  },
-  {
-   "club": "Loudoun Soccer Club",
-   "id": "300466445",
-   "name": "Loudoun Spirit Red"
-  },
-  {
-   "club": "Prince William Soccer Inc",
-   "id": "300464009",
-   "name": "PW Courage Nike"
+   "club": "Braddock Road Youth Club",
+   "id": "300464013",
+   "name": "BRYC Academy Blue"
   },
   {
    "club": "Arlington Soccer Association",
@@ -66,14 +86,19 @@
    "name": "Spirit"
   },
   {
-   "club": "Braddock Road Youth Club",
-   "id": "300464013",
-   "name": "BRYC Academy Blue"
+   "club": "VA Rush Soccer Club",
+   "id": "11986872",
+   "name": "VAR Blue Angels"
   },
   {
    "club": "Richmond United",
-   "id": "300466029",
+   "id": "300536030",
    "name": "RU RED PREMIER RC"
+  },
+  {
+   "club": "FC Richmond",
+   "id": "300464042",
+   "name": "Mystx Futures Navy"
   },
   {
    "club": "Virginia Valor FC",
@@ -82,8 +107,8 @@
   },
   {
    "club": "Richmond United",
-   "id": "300536030",
-   "name": "RU RED PREMIER RC"
+   "id": "300464038",
+   "name": "RU ORANGE ELITE NIKE SP"
   },
   {
    "club": "Virginia Soccer Association",
@@ -96,29 +121,9 @@
    "name": "Alexandria Futsal Girls Red"
   },
   {
-   "club": "FC Richmond",
-   "id": "300464042",
-   "name": "Mystx Futures Navy"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300464038",
-   "name": "RU ORANGE ELITE NIKE SP"
-  },
-  {
    "club": "Vienna Youth Soccer",
    "id": "300464024",
    "name": "VYS NCSL Red"
-  },
-  {
-   "club": "Fredericksburg FC",
-   "id": "300464056",
-   "name": "Fredericksburg FC - PSG"
-  },
-  {
-   "club": "Springfield SYC Soccer",
-   "id": "300464037",
-   "name": "SYC"
   },
   {
    "club": "Beach FC",
@@ -126,9 +131,9 @@
    "name": "TASL Courage"
   },
   {
-   "club": "Gunston Soccer Club",
-   "id": "300467254",
-   "name": "GSC Premier"
+   "club": "Fredericksburg FC",
+   "id": "300464056",
+   "name": "Fredericksburg FC - PSG"
   },
   {
    "club": "Alexandria Soccer Association",
@@ -136,14 +141,14 @@
    "name": "Girls White"
   },
   {
+   "club": "McLean YS",
+   "id": "300464028",
+   "name": "McLean Youth Soccer Girls White"
+  },
+  {
    "club": "Braddock Road Youth Club",
    "id": "300464015",
    "name": "BRYC Academy White"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300536024",
-   "name": "RU RED PREMIER RC"
   },
   {
    "club": "Virginia Revolution SC",
@@ -151,19 +156,24 @@
    "name": "VRSC Black"
   },
   {
-   "club": "McLean YS",
-   "id": "300464028",
-   "name": "McLean Youth Soccer Girls White"
+   "club": "Springfield SYC Soccer",
+   "id": "300464037",
+   "name": "SYC"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "300464050",
-   "name": "Arlington SA Wave"
+   "club": "Loudoun Soccer Club",
+   "id": "300464018",
+   "name": "Loudoun East Dash"
   },
   {
    "club": "Arlington Soccer Association",
    "id": "300464048",
    "name": "Arlington SA Reign"
+  },
+  {
+   "club": "Smithfield Soccer Club",
+   "id": "300527396",
+   "name": "Smithfield PL Heatwave (VA)"
   },
   {
    "club": "Loudoun Soccer Club",
@@ -172,28 +182,13 @@
   },
   {
    "club": "Vienna Youth Soccer",
+   "id": "300464026",
+   "name": "VYS NCSL White"
+  },
+  {
+   "club": "Vienna Youth Soccer",
    "id": "300464025",
    "name": "VYS NCSL Black"
-  },
-  {
-   "club": "Loudoun Soccer Club",
-   "id": "300464018",
-   "name": "Loudoun East Dash"
-  },
-  {
-   "club": "Smithfield Soccer Club",
-   "id": "300527396",
-   "name": "Smithfield PL Heatwave (VA)"
-  },
-  {
-   "club": "Alexandria Soccer Association",
-   "id": "300536029",
-   "name": "Girls Red"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "300464045",
-   "name": "Arlington SA Gotham"
   },
   {
    "club": "NVSC",
@@ -201,24 +196,9 @@
    "name": "Blue"
   },
   {
-   "club": "Braddock Road Youth Club",
-   "id": "300464014",
-   "name": "BRYC Academy Teal"
-  },
-  {
-   "club": "Vienna Youth Soccer",
-   "id": "300464026",
-   "name": "VYS NCSL White"
-  },
-  {
    "club": "Alexandria Soccer Association",
-   "id": "300484377",
-   "name": "Alexandria Futsal Girls White"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300536026",
-   "name": "RU RED PREMIER COL"
+   "id": "300536029",
+   "name": "Girls Red"
   },
   {
    "club": "Northern Piedmont Sports Club",
@@ -226,19 +206,39 @@
    "name": "NPSC United Girls Royal"
   },
   {
-   "club": "Virginia Soccer Association",
-   "id": "300464032",
-   "name": "VSA HATCH"
-  },
-  {
    "club": "Chesapeake United Soccer Club",
    "id": "300464034",
    "name": "CUSC Black"
   },
   {
+   "club": "Smithfield Soccer Club",
+   "id": "300553447",
+   "name": "Smithfield TASL Shock"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "300464014",
+   "name": "BRYC Academy Teal"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "300464032",
+   "name": "VSA HATCH"
+  },
+  {
    "club": "Loudoun Soccer Club",
    "id": "300464019",
    "name": "Loudoun Freedom"
+  },
+  {
+   "club": "Alexandria Soccer Association",
+   "id": "300484377",
+   "name": "Alexandria Futsal Girls White"
+  },
+  {
+   "club": "Chesapeake United SC",
+   "id": "300527399",
+   "name": "CUSC PL ELITE (VA)"
   },
   {
    "club": "McLean Youth Soccer",
@@ -251,29 +251,9 @@
    "name": "VRSC Gold"
   },
   {
-   "club": "NVSC",
-   "id": "300464059",
-   "name": "White"
-  },
-  {
-   "club": "Springfield SYC Soccer",
-   "id": "300464036",
-   "name": "SYC Orange"
-  },
-  {
-   "club": "Chesapeake United SC",
-   "id": "300527399",
-   "name": "CUSC PL ELITE (VA)"
-  },
-  {
    "club": "Virginia Valor FC",
    "id": "300464052",
    "name": "Black"
-  },
-  {
-   "club": "Smithfield Soccer Club",
-   "id": "300553447",
-   "name": "Smithfield TASL Shock"
   },
   {
    "club": "Gunston Soccer Club",
@@ -286,6 +266,16 @@
    "name": "Va Reign FC ADSL Girls Gold Giles"
   },
   {
+   "club": "Springfield SYC Soccer",
+   "id": "300464036",
+   "name": "SYC Orange"
+  },
+  {
+   "club": "Beach FC",
+   "id": "300464002",
+   "name": "TASL Freedom"
+  },
+  {
    "club": "Great Falls Reston Soccer Club",
    "id": "300464011",
    "name": "GFRSC Green"
@@ -296,54 +286,9 @@
    "name": "Arlington SA Gothamm"
   },
   {
-   "club": "Chesapeake Soccer Club",
-   "id": "11986743",
-   "name": "Galaxy Gold"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300536025",
-   "name": "RU RED PREMIER COL"
-  },
-  {
    "club": "Beach FC",
-   "id": "300464002",
-   "name": "TASL Freedom"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300466030",
-   "name": "RU RED PREMIER COL"
-  },
-  {
-   "club": "Alexandria Soccer Association",
-   "id": "300471451",
-   "name": "Girls Blue"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "300464047",
-   "name": "Arlington SA Pride"
-  },
-  {
-   "club": "Virginia Soccer Association",
-   "id": "300464033",
-   "name": "VSA HEAPS"
-  },
-  {
-   "club": "Beach FC",
-   "id": "300464000",
-   "name": "Beach Dolphins"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "300464049",
-   "name": "Arlington SA Thorns"
-  },
-  {
-   "club": "Prince William Soccer Inc",
-   "id": "300464008",
-   "name": "PW Courage Swoosh"
+   "id": "300464003",
+   "name": "Beach FC TASL Power"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -351,29 +296,34 @@
    "name": "VAR Blue"
   },
   {
+   "club": "Virginia Soccer Association",
+   "id": "300464033",
+   "name": "VSA HEAPS"
+  },
+  {
+   "club": "Alexandria Soccer Association",
+   "id": "300471451",
+   "name": "Girls Blue"
+  },
+  {
    "club": "VA Rush Soccer Club",
    "id": "300527394",
    "name": "VA Rush PL Rush (VA)"
   },
   {
-   "club": "AYSO Region 1475",
-   "id": "300468333",
-   "name": "AFCADV2017G01"
+   "club": "Prince William Soccer Inc",
+   "id": "300464008",
+   "name": "PW Courage Swoosh"
   },
   {
-   "club": "Beach FC",
-   "id": "300464003",
-   "name": "Beach FC TASL Power"
+   "club": "Arlington Soccer Association",
+   "id": "300464049",
+   "name": "Arlington SA Thorns"
   },
   {
    "club": "Smithfield Soccer Club",
    "id": "11986832",
    "name": "Smithfield Supernova"
-  },
-  {
-   "club": "Beach FC",
-   "id": "11986637",
-   "name": "-2017G-Peterson-Warriors"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -382,8 +332,8 @@
   },
   {
    "club": "Beach FC",
-   "id": "300464004",
-   "name": "Beach FC TASL Spirit"
+   "id": "11986637",
+   "name": "-2017G-Peterson-Warriors"
   },
   {
    "club": "Western Branch Soccer Club",
@@ -394,11 +344,6 @@
    "club": "Chesapeake United Soccer Club",
    "id": "11986764",
    "name": "Lightning Bolts"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "11986872",
-   "name": "VAR Blue Angels"
   },
   {
    "club": "Richmond United",
@@ -506,59 +451,14 @@
    "name": "Beach FC Nolan VB Waves"
   },
   {
-   "club": "Beach FC",
-   "id": "12210565",
-   "name": "Beach FC Dolphins PL"
-  },
-  {
-   "club": "Beach FC",
-   "id": "12210566",
-   "name": "Beach FC Piranhas PL"
-  },
-  {
-   "club": "Beach FC",
-   "id": "12220248",
-   "name": "Beach FC Marlins PL"
-  },
-  {
-   "club": "Loudoun Ladybugs Red",
-   "id": "12261872",
-   "name": "Loudoun Ladybugs Red"
-  },
-  {
    "club": "Freedom FC",
    "id": "12261873",
    "name": "Freedom FC Girls - White"
   },
   {
-   "club": "Ashland Town Football Club",
-   "id": "12267961",
-   "name": "Ashland Town FC"
-  },
-  {
    "club": "Richmond United",
    "id": "12342382",
    "name": "GUSA (Bumgarner)"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "14161450",
-   "name": "Arlington SA Pre-Academy"
-  },
-  {
-   "club": "The St. James Football Club",
-   "id": "14163350",
-   "name": "TSJFC South Pre-GA"
-  },
-  {
-   "club": "Gunston SC",
-   "id": "14176600",
-   "name": "GSC Girls Premier I"
-  },
-  {
-   "club": "Blue Ridge United",
-   "id": "14182150",
-   "name": "Blue Ridge United Orange"
   },
   {
    "club": "Virginia Independent Soccer Team Association",
@@ -826,11 +726,6 @@
    "name": "SYC Blue"
   },
   {
-   "club": "Freedom FC",
-   "id": "15029550",
-   "name": "Freedom FC Girls"
-  },
-  {
    "club": "Northern Piedmont Sports Club",
    "id": "15032200",
    "name": "NPSC United Girls Black"
@@ -921,6 +816,21 @@
    "name": "RU ORANGE ELITE SWOOSH SP"
   },
   {
+   "club": "Arlington Soccer Association",
+   "id": "300464045",
+   "name": "Arlington SA Gotham"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "300464047",
+   "name": "Arlington SA Pride"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "300464050",
+   "name": "Arlington SA Wave"
+  },
+  {
    "club": "Herndon Youth Soccer",
    "id": "300464051",
    "name": "Herndon Black"
@@ -931,9 +841,34 @@
    "name": "Stafford Revolution Blue"
   },
   {
+   "club": "NVSC",
+   "id": "300464059",
+   "name": "White"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300466029",
+   "name": "RU RED PREMIER RC"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300466030",
+   "name": "RU RED PREMIER COL"
+  },
+  {
+   "club": "Gunston Soccer Club",
+   "id": "300467254",
+   "name": "GSC Premier"
+  },
+  {
    "club": "McLean Youth Soccer",
    "id": "300467255",
    "name": "Green"
+  },
+  {
+   "club": "AYSO Region 1475",
+   "id": "300468333",
+   "name": "AFCADV2017G01"
   },
   {
    "club": "Forest Youth Athletic Association",
@@ -1064,6 +999,21 @@
    "club": "Richmond United",
    "id": "300527401",
    "name": "RU RED PREMIER RC"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300536024",
+   "name": "RU RED PREMIER RC"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300536025",
+   "name": "RU RED PREMIER COL"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300536026",
+   "name": "RU RED PREMIER COL"
   },
   {
    "club": "Herndon Youth Soccer",
@@ -1244,6 +1194,56 @@
    "club": "Richmond United",
    "id": "300557878",
    "name": "RU ORANGE PREMIER NIKE"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "300558436",
+   "name": "Arlington SA Pre-Academy"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "300558437",
+   "name": "TSJFC South Pre-GA"
+  },
+  {
+   "club": "Blue Ridge United",
+   "id": "300558805",
+   "name": "Blue Ridge United Orange"
+  },
+  {
+   "club": "Ashland Town Football Club",
+   "id": "300558806",
+   "name": "Ashland Town FC"
+  },
+  {
+   "club": "Beach FC",
+   "id": "300558807",
+   "name": "Beach FC Marlins PL"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "300558808",
+   "name": "GSC Girls Premier I"
+  },
+  {
+   "club": "Beach FC",
+   "id": "300558809",
+   "name": "Beach FC Dolphins PL"
+  },
+  {
+   "club": "Beach FC",
+   "id": "300558810",
+   "name": "Beach FC Piranhas PL"
+  },
+  {
+   "club": "Freedom FC",
+   "id": "300559201",
+   "name": "Freedom FC Girls"
+  },
+  {
+   "club": "Loudoun Ladybugs",
+   "id": "300559202",
+   "name": "Loudoun Ladybugs"
   }
  ]
 }

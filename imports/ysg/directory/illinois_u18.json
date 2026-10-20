@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-10-13T14:53:32.789209+00:00",
+ "fetched_at": "2026-10-20T12:21:16.518845+00:00",
  "state": "IL",
  "state_slug": "illinois",
  "teams": [
@@ -41,9 +41,9 @@
    "name": "GA"
   },
   {
-   "club": "Rockford Raptors FC",
-   "id": "300516002",
-   "name": "Rockford Raptors ECNL RL"
+   "club": "Greater Libertyville Soccer Association",
+   "id": "300341429",
+   "name": "FC Libertyville ECNL RL"
   },
   {
    "club": "Chicago Inter Soccer",
@@ -61,6 +61,26 @@
    "name": "Rockford Raptors ECNL"
   },
   {
+   "club": "Chicago Inter",
+   "id": "300539347",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Rockford Raptors FC",
+   "id": "300516002",
+   "name": "Rockford Raptors ECNL RL"
+  },
+  {
+   "club": "Lagrange Celtics",
+   "id": "300341447",
+   "name": "CWS First XI Academy"
+  },
+  {
+   "club": "Chicago Rush Soccer Club",
+   "id": "300341432",
+   "name": "Chicago Rush G DPL"
+  },
+  {
    "club": "Central Illinois United",
    "id": "300341437",
    "name": "GA"
@@ -76,14 +96,9 @@
    "name": "Evolution ECNL RL"
   },
   {
-   "club": "Lagrange Celtics",
-   "id": "300341447",
-   "name": "CWS First XI Academy"
-  },
-  {
-   "club": "Chicago Rush Soccer Club",
-   "id": "300341432",
-   "name": "Chicago Rush G DPL"
+   "club": "FC Stars",
+   "id": "300341460",
+   "name": "FC Stars DPL"
   },
   {
    "club": "FC 1974 Libertyville",
@@ -94,16 +109,6 @@
    "club": "Palatine Celtic SC",
    "id": "300341436",
    "name": "Palatine Celtic Black"
-  },
-  {
-   "club": "GlenEd",
-   "id": "300341425",
-   "name": "Glen-Ed SC United"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300341460",
-   "name": "FC Stars DPL"
   },
   {
    "club": "Chicago Fire Youth SC (CFYSC)",
@@ -121,9 +126,9 @@
    "name": "FORCE NL (IL)"
   },
   {
-   "club": "Greater Libertyville Soccer Association",
-   "id": "300341429",
-   "name": "FC Libertyville ECNL RL"
+   "club": "Independent Illinois Team/Clubs",
+   "id": "300512591",
+   "name": "Independence FC Showcase"
   },
   {
    "club": "Eclipse Select Soccer Club",
@@ -131,24 +136,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Sockers FC",
-   "id": "300341444",
-   "name": "NPL"
-  },
-  {
-   "club": "Sockers FC",
-   "id": "300341446",
-   "name": "Aspire"
-  },
-  {
    "club": "Metro Alliance FC",
    "id": "300341445",
    "name": "Metro Alliance Aspire"
-  },
-  {
-   "club": "Wheaton United SC",
-   "id": "300341435",
-   "name": "WHEATON UNITED ASPIRE"
   },
   {
    "club": "Chicago City Soccer Club",
@@ -156,9 +146,9 @@
    "name": "Chicago City DPL"
   },
   {
-   "club": "Pegasus FC",
-   "id": "300512589",
-   "name": "Pegasus FC Girls Red"
+   "club": "Chicago Edge SC",
+   "id": "300512592",
+   "name": "Chicago Edge Premier XI"
   },
   {
    "club": "FC Lake County",
@@ -166,9 +156,44 @@
    "name": "FC LAKE COUNTY ELITE"
   },
   {
+   "club": "Pegasus FC",
+   "id": "300512589",
+   "name": "Pegasus FC Girls Red"
+  },
+  {
+   "club": "Wheaton United SC",
+   "id": "300341435",
+   "name": "WHEATON UNITED ASPIRE"
+  },
+  {
+   "club": "Sockers FC",
+   "id": "300341446",
+   "name": "Aspire"
+  },
+  {
    "club": "Illinois FC",
    "id": "300512588",
    "name": "Illinois FC HS Girls Select"
+  },
+  {
+   "club": "Lagrange Celtics",
+   "id": "300341418",
+   "name": "CWS First XI Select"
+  },
+  {
+   "club": "GlenEd",
+   "id": "300341425",
+   "name": "Glen-Ed SC United"
+  },
+  {
+   "club": "Morton United FC",
+   "id": "300533978",
+   "name": "Morton United FC HS Girls Girls"
+  },
+  {
+   "club": "Windy City Pride SC",
+   "id": "300092676",
+   "name": "Windy City Pride Girls"
   },
   {
    "club": "Metro Alliance FC",
@@ -181,34 +206,14 @@
    "name": "KICS FC ACADEMY DPL"
   },
   {
-   "club": "Windy City Pride SC",
-   "id": "300092676",
-   "name": "Windy City Pride Girls"
-  },
-  {
-   "club": "Chicago Edge SC",
-   "id": "300512592",
-   "name": "Chicago Edge Premier XI"
-  },
-  {
-   "club": "Chicago Edge SC",
-   "id": "300341428",
-   "name": "Chicago Edge Premier XI"
-  },
-  {
    "club": "Greater Libertyville Soccer Association",
    "id": "300341431",
    "name": "FC Libertyville Select"
   },
   {
-   "club": "Morton United FC",
-   "id": "300533978",
-   "name": "Morton United FC HS Girls Girls"
-  },
-  {
-   "club": "United Elite",
-   "id": "11715830",
-   "name": "SC DPL"
+   "club": "Central Illinois United",
+   "id": "300529075",
+   "name": "PFCU HS Girls Select"
   },
   {
    "club": "MidState Soccer Club",
@@ -216,9 +221,9 @@
    "name": "MidState Girls"
   },
   {
-   "club": "Palatine Celtic SC",
-   "id": "300341411",
-   "name": "Palatine Celtic Green"
+   "club": "United Elite",
+   "id": "11715830",
+   "name": "SC DPL"
   },
   {
    "club": "Midland United Soccer Club",
@@ -231,14 +236,14 @@
    "name": "Metro Alliance FC Navy"
   },
   {
-   "club": "Metro Alliance Irish FC",
-   "id": "300341461",
-   "name": "Irish FC Girls Green"
+   "club": "Palatine Celtic SC",
+   "id": "300341411",
+   "name": "Palatine Celtic Green"
   },
   {
    "club": "Metro Alliance Irish FC",
-   "id": "11710879",
-   "name": "Green"
+   "id": "300341461",
+   "name": "Irish FC Girls Green"
   },
   {
    "club": "Campton United SC",
@@ -251,24 +256,9 @@
    "name": "FORCE PREMIERSHIP"
   },
   {
-   "club": "Chicago Soccer Academy",
-   "id": "11819547",
-   "name": "Chicago Soccer Academy Girls Flamengo"
-  },
-  {
-   "club": "DeKalb County United Academy",
-   "id": "11819567",
-   "name": "DKCU Academy Girls Select"
-  },
-  {
-   "club": "HF Soccer Club",
-   "id": "11819589",
-   "name": "HFSC Girls"
-  },
-  {
-   "club": "Illinois Womens Soccer League",
-   "id": "11819595",
-   "name": "girls iProSkills Academy"
+   "club": "Metro Alliance Irish FC",
+   "id": "11710879",
+   "name": "Green"
   },
   {
    "club": "Rockford Raptors FC",
@@ -316,11 +306,6 @@
    "name": "Quincy Rush Girls Hynek/Arnett"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "12253938",
-   "name": "SLSG IL G Elite"
-  },
-  {
    "club": "Fox Valley Bayern",
    "id": "12260410",
    "name": "FVB Premier"
@@ -334,11 +319,6 @@
    "club": "Chicago City Soccer Club",
    "id": "12319304",
    "name": "Chicago City Soccer Club Girls"
-  },
-  {
-   "club": "Central Illinois United",
-   "id": "14253550",
-   "name": "PFCU Girls Showcase"
   },
   {
    "club": "Schaumburg Athletic Association",
@@ -362,6 +342,11 @@
   },
   {
    "club": "Schaumburg Athletic Association",
+   "id": "15719000",
+   "name": "PA1"
+  },
+  {
+   "club": "Schaumburg Athletic Association",
    "id": "15719050",
    "name": "PA2"
   },
@@ -381,14 +366,24 @@
    "name": "RLK"
   },
   {
+   "club": "Force Football Club",
+   "id": "16072400",
+   "name": "FORCE PREMIER"
+  },
+  {
+   "club": "Aurora Eagles SC",
+   "id": "16072500",
+   "name": "Aurora Eagles SC Girls"
+  },
+  {
+   "club": "Chicago Soccer Academy",
+   "id": "16184300",
+   "name": "Chicago Soccer Academy High School Girls"
+  },
+  {
    "club": "FC United Soccer Club",
    "id": "300341416",
    "name": "Chicago FC United Girls White"
-  },
-  {
-   "club": "Lagrange Celtics",
-   "id": "300341418",
-   "name": "CWS First XI Select"
   },
   {
    "club": "Gateway Rush Soccer Club",
@@ -416,6 +411,11 @@
    "name": "Girls Elite"
   },
   {
+   "club": "Chicago Edge SC",
+   "id": "300341428",
+   "name": "Chicago Edge Premier XI"
+  },
+  {
    "club": "Pegasus FC",
    "id": "300341430",
    "name": "Pegasus FC Girls Red"
@@ -429,6 +429,11 @@
    "club": "Heart of The City",
    "id": "300341440",
    "name": "HOTC Elite"
+  },
+  {
+   "club": "Sockers FC",
+   "id": "300341444",
+   "name": "NPL"
   },
   {
    "club": "Wizard F.C.",
@@ -461,11 +466,6 @@
    "name": "Chicago Rush DPL"
   },
   {
-   "club": "Independent Illinois Team/Clubs",
-   "id": "300512591",
-   "name": "Independence FC Showcase"
-  },
-  {
    "club": "Chicago Inter",
    "id": "300515993",
    "name": "Chicago Inter ECNL RL"
@@ -479,11 +479,6 @@
    "club": "Evolution SC",
    "id": "300529073",
    "name": "Evolution PSG"
-  },
-  {
-   "club": "Central Illinois United",
-   "id": "300529075",
-   "name": "PFCU HS Girls Select"
   },
   {
    "club": "Orland Park Sting FC",
@@ -504,11 +499,6 @@
    "club": "UESC NSA",
    "id": "300539346",
    "name": "UESC -NSA Girls Academy"
-  },
-  {
-   "club": "Chicago Inter",
-   "id": "300539347",
-   "name": "ECNL RL"
   },
   {
    "club": "East Moline Silvis Soccer Club",
@@ -549,6 +539,21 @@
    "club": "Quad Cities Rush",
    "id": "300555774",
    "name": "Quad Cities Rush HS"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "300558933",
+   "name": "SLSG IL G Elite"
+  },
+  {
+   "club": "Astra Soccer Academy",
+   "id": "300558934",
+   "name": "Astra Girls"
+  },
+  {
+   "club": "Central Illinois United",
+   "id": "300558935",
+   "name": "PFCU Girls Showcase"
   }
  ]
 }

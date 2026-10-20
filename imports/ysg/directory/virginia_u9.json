@@ -1,10 +1,25 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-10-13T14:24:38.631642+00:00",
+ "fetched_at": "2026-10-20T11:52:26.448122+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
+  {
+   "club": "Richmond United",
+   "id": "300527121",
+   "name": "RU RED PREMIER RC"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "300527125",
+   "name": "Virginia Rush Blue"
+  },
+  {
+   "club": "Gunston Soccer Club",
+   "id": "12247788",
+   "name": "GSC Spirit"
+  },
   {
    "club": "Prince William Soccer Inc",
    "id": "300499740",
@@ -12,13 +27,8 @@
   },
   {
    "club": "Alexandria Soccer Association",
-   "id": "300499741",
-   "name": "Alexandria Futsal Girls Pre-Academy"
-  },
-  {
-   "club": "Gunston Soccer Club",
-   "id": "12247788",
-   "name": "GSC Spirit"
+   "id": "300527126",
+   "name": "JA Futsal Girls Joga Girls"
   },
   {
    "club": "America FC",
@@ -27,8 +37,8 @@
   },
   {
    "club": "Alexandria Soccer Association",
-   "id": "300527126",
-   "name": "JA Futsal Girls Joga Girls"
+   "id": "300499741",
+   "name": "Alexandria Futsal Girls Pre-Academy"
   },
   {
    "club": "Alexandria Soccer Association",
@@ -136,39 +146,9 @@
    "name": "Arlington SA Spirit"
   },
   {
-   "club": "The St. James Football Club",
-   "id": "14163200",
-   "name": "TSJFC North Pre-GA"
-  },
-  {
-   "club": "The St. James Football Club",
-   "id": "14163250",
-   "name": "TSJFC South Pre-GA"
-  },
-  {
    "club": "Loudoun Soccer Club",
    "id": "14170500",
    "name": "Loudoun Freedom"
-  },
-  {
-   "club": "McLean YS",
-   "id": "14172250",
-   "name": "McLean Youth Soccer Girls Gold"
-  },
-  {
-   "club": "Braddock Road Youth Club",
-   "id": "14172650",
-   "name": "BRYC Academy Blue"
-  },
-  {
-   "club": "Braddock Road Youth Club",
-   "id": "14172700",
-   "name": "BRYC Academy White"
-  },
-  {
-   "club": "Gunston SC",
-   "id": "14176550",
-   "name": "GSC Girls Premier"
   },
   {
    "club": "Virginia Independent Soccer Team Association",
@@ -486,16 +466,6 @@
    "name": "Virginia Valor FC Black"
   },
   {
-   "club": "McLean YS",
-   "id": "15190550",
-   "name": "McLean Youth Soccer Girls Silver"
-  },
-  {
-   "club": "Alexandria Soccer Association",
-   "id": "15191200",
-   "name": "Girls White"
-  },
-  {
    "club": "Alexandria Soccer Association",
    "id": "15191250",
    "name": "Girls Silver"
@@ -509,11 +479,6 @@
    "club": "Alexandria Soccer Association",
    "id": "15191400",
    "name": "Girls Black"
-  },
-  {
-   "club": "Alexandria Soccer Association",
-   "id": "15191450",
-   "name": "Girls Red"
   },
   {
    "club": "Braddock Road Youth Club",
@@ -586,11 +551,6 @@
    "name": "VAR Skittles"
   },
   {
-   "club": "Springfield SYC Soccer",
-   "id": "15540800",
-   "name": "SYC Pre-GA II"
-  },
-  {
    "club": "Arlington Soccer Association",
    "id": "15899050",
    "name": "Arlington SA Pride"
@@ -601,24 +561,14 @@
    "name": "Arlington SA Gotham"
   },
   {
-   "club": "Herndon Youth Soccer",
-   "id": "16458850",
-   "name": "Herndon NCSL"
+   "club": "Chesapeake United SC",
+   "id": "16742400",
+   "name": "CUSC ELITE (VA)"
   },
   {
    "club": "In10sity Futsal Club",
    "id": "300499739",
    "name": "Girls Black"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300527121",
-   "name": "RU RED PREMIER RC"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "300527125",
-   "name": "Virginia Rush Blue"
   },
   {
    "club": "McLean YS",
@@ -799,6 +749,61 @@
    "club": "Richmond United",
    "id": "300557916",
    "name": "RU ORANGE PREMIER"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "300558450",
+   "name": "TSJFC North Pre-GA"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "300558451",
+   "name": "TSJFC South Pre-GA"
+  },
+  {
+   "club": "Alexandria Soccer Association",
+   "id": "300558452",
+   "name": "Girls Red"
+  },
+  {
+   "club": "Alexandria Soccer Association",
+   "id": "300558453",
+   "name": "Girls White"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "300558859",
+   "name": "GSC Girls Premier"
+  },
+  {
+   "club": "Herndon Youth Soccer",
+   "id": "300559214",
+   "name": "Herndon NCSL"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "300559215",
+   "name": "BRYC Academy White"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "300559216",
+   "name": "BRYC Academy Blue"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "300559217",
+   "name": "SYC Pre-GA II"
+  },
+  {
+   "club": "McLean YS",
+   "id": "300559218",
+   "name": "McLean Youth Soccer Girls Gold"
+  },
+  {
+   "club": "McLean YS",
+   "id": "300559219",
+   "name": "McLean Youth Soccer Girls Silver"
   }
  ]
 }

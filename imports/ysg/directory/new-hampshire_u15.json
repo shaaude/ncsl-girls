@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-13T15:20:34.200486+00:00",
+ "fetched_at": "2026-10-20T12:48:16.478158+00:00",
  "state": "NH",
  "state_slug": "new-hampshire",
  "teams": [
@@ -31,19 +31,14 @@
    "name": "NH Carolina"
   },
   {
-   "club": "Lightning Soccer Club",
-   "id": "300381058",
-   "name": "Lightning Soccer Club Girls Green"
-  },
-  {
    "club": "Seacoast of Bedford",
    "id": "300381064",
    "name": "Seacoast United Bedford Girls Carolina"
   },
   {
-   "club": "Oyster River United",
-   "id": "300381061",
-   "name": "ORU Girls Gray"
+   "club": "Lightning Soccer Club",
+   "id": "300381058",
+   "name": "Lightning Soccer Club Girls Green"
   },
   {
    "club": "Raymond Soccer Club",
@@ -56,49 +51,14 @@
    "name": "ASC Girls Bobcats"
   },
   {
-   "club": "Become Elite Soccer",
-   "id": "11971464",
-   "name": "Girls"
-  },
-  {
-   "club": "Hudson United SC",
-   "id": "300381059",
-   "name": "Girls Goulet"
-  },
-  {
-   "club": "Pemi-Baker Soccer Club",
-   "id": "300381052",
-   "name": "Rapids Girls"
-  },
-  {
    "club": "Portsmouth City SC",
    "id": "300530645",
    "name": "PCSC Girls"
   },
   {
-   "club": "Revolution United FC",
-   "id": "300381063",
-   "name": "City Girls"
-  },
-  {
-   "club": "Mount Washington Valley Soccer Club",
-   "id": "300479199",
-   "name": "MWVSC West Spring"
-  },
-  {
-   "club": "Garrison City FC",
-   "id": "300381050",
+   "club": "Become Elite Soccer",
+   "id": "11971464",
    "name": "Girls"
-  },
-  {
-   "club": "Timberwolves SC",
-   "id": "300381048",
-   "name": "Timberwolves Girls"
-  },
-  {
-   "club": "Nashua Youth Soccer League",
-   "id": "300381055",
-   "name": "Nashua United SC Girls - Blue"
   },
   {
    "club": "Northern Strikers SC",
@@ -106,14 +66,24 @@
    "name": "Northern Strikers Girls"
   },
   {
-   "club": "Derry Soccer Club",
-   "id": "300473608",
-   "name": "Eagles Girls"
+   "club": "Hudson United SC",
+   "id": "300381059",
+   "name": "Girls Goulet"
   },
   {
-   "club": "Exeter Youth Soccer Association - FC Exeter",
-   "id": "11739213",
-   "name": "FC Exeter Girls Blue"
+   "club": "Mount Washington Valley Soccer Club",
+   "id": "300479199",
+   "name": "MWVSC West Spring"
+  },
+  {
+   "club": "Pemi-Baker Soccer Club",
+   "id": "300381052",
+   "name": "Rapids Girls"
+  },
+  {
+   "club": "Revolution United FC",
+   "id": "300381063",
+   "name": "City Girls"
   },
   {
    "club": "Timberwolves SC",
@@ -121,59 +91,29 @@
    "name": "Timberwolves"
   },
   {
-   "club": "FC Stars",
-   "id": "300381065",
-   "name": "FC Stars New Hampshire Girls Blue"
+   "club": "Nashua Youth Soccer League",
+   "id": "300381055",
+   "name": "Nashua United SC Girls - Blue"
   },
   {
-   "club": "Seacoast United SC",
-   "id": "300467713",
-   "name": "RDP Girls"
-  },
-  {
-   "club": "Maximum Velocity FC",
-   "id": "300513747",
-   "name": "Maximum Velocity FC Girls"
-  },
-  {
-   "club": "Mount Washington Valley Soccer Club",
-   "id": "300381056",
-   "name": "MWVSC Fall"
+   "club": "Timberwolves SC",
+   "id": "300381048",
+   "name": "Timberwolves Girls"
   },
   {
    "club": "Garrison City FC",
-   "id": "12302472",
+   "id": "300381050",
    "name": "Girls"
   },
   {
-   "club": "Pemi-Baker Soccer Club",
-   "id": "12302428",
-   "name": "PBSC Rapids Girls"
+   "club": "Derry Soccer Club",
+   "id": "300473608",
+   "name": "Eagles Girls"
   },
   {
    "club": "Hampstead Hurricanes SC",
-   "id": "12302426",
-   "name": "Grade Girls - Smith, Duncan, Pitts,"
-  },
-  {
-   "club": "Nashua Youth Soccer League",
-   "id": "12302424",
-   "name": "Nashua United Girls Purple"
-  },
-  {
-   "club": "Windham Soccer Association",
-   "id": "12302403",
-   "name": "WSA Girls"
-  },
-  {
-   "club": "SAMBA BLACK",
-   "id": "12154675",
-   "name": "SAMBA BLACK"
-  },
-  {
-   "club": "Merrimack Valley Youth Soccer",
-   "id": "12041483",
-   "name": "MV Thunder Girls \"Thunder Cats\" -"
+   "id": "11739308",
+   "name": "- Girls - Smith/Cucolo"
   },
   {
    "club": "John Stark United SC",
@@ -181,9 +121,69 @@
    "name": "Girls Carter"
   },
   {
+   "club": "Merrimack Valley Youth Soccer",
+   "id": "12041483",
+   "name": "MV Thunder Girls \"Thunder Cats\" -"
+  },
+  {
+   "club": "Maximum Velocity FC",
+   "id": "300513747",
+   "name": "Maximum Velocity FC Girls"
+  },
+  {
+   "club": "Seacoast United SC",
+   "id": "300467713",
+   "name": "RDP Girls"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300381065",
+   "name": "FC Stars New Hampshire Girls Blue"
+  },
+  {
+   "club": "SAMBA BLACK",
+   "id": "12154675",
+   "name": "SAMBA BLACK"
+  },
+  {
+   "club": "Windham Soccer Association",
+   "id": "12302403",
+   "name": "WSA Girls"
+  },
+  {
+   "club": "Oyster River United",
+   "id": "300381061",
+   "name": "ORU Girls Gray"
+  },
+  {
+   "club": "Nashua Youth Soccer League",
+   "id": "12302424",
+   "name": "Nashua United Girls Purple"
+  },
+  {
    "club": "Hampstead Hurricanes SC",
-   "id": "11739308",
-   "name": "- Girls - Smith/Cucolo"
+   "id": "12302426",
+   "name": "Grade Girls - Smith, Duncan, Pitts,"
+  },
+  {
+   "club": "Pemi-Baker Soccer Club",
+   "id": "12302428",
+   "name": "PBSC Rapids Girls"
+  },
+  {
+   "club": "Garrison City FC",
+   "id": "12302472",
+   "name": "Girls"
+  },
+  {
+   "club": "Mount Washington Valley Soccer Club",
+   "id": "300381056",
+   "name": "MWVSC Fall"
+  },
+  {
+   "club": "Exeter Youth Soccer Association - FC Exeter",
+   "id": "11739213",
+   "name": "FC Exeter Girls Blue"
   }
  ]
 }

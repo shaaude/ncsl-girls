@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-13T14:46:24.087413+00:00",
+ "fetched_at": "2026-10-20T12:14:07.721393+00:00",
  "state": "FL",
  "state_slug": "florida",
  "teams": [
@@ -11,24 +11,14 @@
    "name": "JFC ECNL-RL"
   },
   {
-   "club": "Fort Lauderdale United FC",
-   "id": "300527964",
-   "name": "FTLUTD Girls Blue"
-  },
-  {
-   "club": "Plant City FC",
-   "id": "300333884",
-   "name": "Lancers Premier (FL)"
-  },
-  {
    "club": "Montverde Soccer Club",
    "id": "300537458",
    "name": "G MIFC"
   },
   {
-   "club": "W&H America",
-   "id": "300527975",
-   "name": "Adrenalina Ladies"
+   "club": "Fort Lauderdale United FC",
+   "id": "300527964",
+   "name": "FTLUTD Girls Blue"
   },
   {
    "club": "South Florida FA",
@@ -36,9 +26,14 @@
    "name": "SFFA RL"
   },
   {
-   "club": "Palm Beach Kicks",
-   "id": "300527962",
-   "name": "PBG DPL"
+   "club": "Plant City FC",
+   "id": "300333884",
+   "name": "Lancers Premier (FL)"
+  },
+  {
+   "club": "Florida United",
+   "id": "12326986",
+   "name": "GA"
   },
   {
    "club": "Space Coast United",
@@ -46,19 +41,9 @@
    "name": "SCU Girls Academy"
   },
   {
-   "club": "Cooper City Optimist",
-   "id": "300333872",
-   "name": "CCO COBRAS G"
-  },
-  {
-   "club": "FC Sarasota",
-   "id": "300527961",
-   "name": "FCS Girls DPL"
-  },
-  {
-   "club": "Orlando City Soccer School Lake Nona",
-   "id": "300527990",
-   "name": "OPLN DPL"
+   "club": "W&H America",
+   "id": "300527975",
+   "name": "Adrenalina Ladies"
   },
   {
    "club": "North Port Fusion FC",
@@ -66,9 +51,34 @@
    "name": "Union (FL)"
   },
   {
+   "club": "Cooper City Optimist",
+   "id": "300333872",
+   "name": "CCO COBRAS G"
+  },
+  {
+   "club": "Orlando City Soccer School Lake Nona",
+   "id": "300527990",
+   "name": "OPLN DPL"
+  },
+  {
+   "club": "FC Sarasota",
+   "id": "300527961",
+   "name": "FCS Girls DPL"
+  },
+  {
    "club": "Big Sun YSL",
    "id": "300333878",
    "name": "Ocala Premier Ladies Blue"
+  },
+  {
+   "club": "OCSS Windermere & Clermont",
+   "id": "300538849",
+   "name": "OCSSW/C SILVER (FL)"
+  },
+  {
+   "club": "Palm Beach Kicks",
+   "id": "300527962",
+   "name": "PBG DPL"
   },
   {
    "club": "IdeaSport Soccer Academy",
@@ -81,19 +91,9 @@
    "name": "(FL)"
   },
   {
-   "club": "OCSS Windermere & Clermont",
-   "id": "300538849",
-   "name": "OCSSW/C SILVER (FL)"
-  },
-  {
-   "club": "SWFL Surge",
-   "id": "300549060",
-   "name": "SWFL Surge"
-  },
-  {
-   "club": "Shark Coast FC",
-   "id": "300527973",
-   "name": "Shark Coast FC"
+   "club": "IdeaSport Soccer Academy",
+   "id": "11671147",
+   "name": "IdeaSport G Elite"
   },
   {
    "club": "Cape Coral Soccer",
@@ -101,44 +101,19 @@
    "name": "Cape Coral SA - ECNL RL"
   },
   {
-   "club": "Tampa Bay United",
-   "id": "300490678",
-   "name": "TBU Premier (FL)"
-  },
-  {
-   "club": "West Florida Flames SC",
-   "id": "300527984",
-   "name": "ECNL-RL"
-  },
-  {
-   "club": "West Florida Flames SC",
-   "id": "300333898",
-   "name": "WFF DPL"
-  },
-  {
-   "club": "Jacksonville Football Club",
-   "id": "300527974",
-   "name": "JFC NPL"
-  },
-  {
    "club": "Indialantic Youth Soccer Association",
    "id": "300527978",
    "name": "PREMIER (FL)"
   },
   {
-   "club": "West Florida Flames SC",
-   "id": "300527989",
-   "name": "NPL"
+   "club": "Tampa Bay United",
+   "id": "300490678",
+   "name": "TBU Premier (FL)"
   },
   {
-   "club": "IdeaSport Soccer Academy",
-   "id": "11671147",
-   "name": "IdeaSport G Elite"
-  },
-  {
-   "club": "St Pete Raiders",
-   "id": "300333922",
-   "name": "Tampa Raiders Girls Blue"
+   "club": "Shark Coast FC",
+   "id": "300527973",
+   "name": "Shark Coast FC"
   },
   {
    "club": "Florida Premier FC",
@@ -146,14 +121,34 @@
    "name": "LPFC LAKELAND (FL)"
   },
   {
+   "club": "West Florida Flames SC",
+   "id": "300527984",
+   "name": "ECNL-RL"
+  },
+  {
+   "club": "Jacksonville Football Club",
+   "id": "300527974",
+   "name": "JFC NPL"
+  },
+  {
    "club": "Florida Premier FC",
    "id": "300490679",
    "name": "FPFC CP (FL)"
   },
   {
-   "club": "Orlando City Soccer School Lake Nona",
-   "id": "300527971",
-   "name": "OPLN Girls Purple"
+   "club": "St Pete Raiders",
+   "id": "300333922",
+   "name": "Tampa Raiders Girls Blue"
+  },
+  {
+   "club": "West Florida Flames SC",
+   "id": "300527989",
+   "name": "NPL"
+  },
+  {
+   "club": "West Florida Flames SC",
+   "id": "300333898",
+   "name": "WFF DPL"
   },
   {
    "club": "Florida Prime Soccer",
@@ -161,9 +156,9 @@
    "name": "Prime Girls San Marco"
   },
   {
-   "club": "South Miami United FC",
-   "id": "300333909",
-   "name": "Black"
+   "club": "Davie United Soccer Club",
+   "id": "300527982",
+   "name": "Girls NPL"
   },
   {
    "club": "Florida Kraze Krush",
@@ -171,14 +166,24 @@
    "name": "Krush NPL"
   },
   {
-   "club": "Davie United Soccer Club",
-   "id": "300527982",
-   "name": "Girls NPL"
+   "club": "South Miami United FC",
+   "id": "300333909",
+   "name": "Black"
   },
   {
-   "club": "Florida Celtic Soccer Club",
-   "id": "300527993",
-   "name": "DPL"
+   "club": "Orlando City Soccer School Lake Nona",
+   "id": "300527971",
+   "name": "OPLN Girls Purple"
+  },
+  {
+   "club": "Orlando City Soccer School Lake Nona",
+   "id": "300537457",
+   "name": "OPLN (FL)"
+  },
+  {
+   "club": "Space Coast United",
+   "id": "300538850",
+   "name": "SCU White (FL)"
   },
   {
    "club": "Florida Premier FC",
@@ -191,14 +196,14 @@
    "name": "NUFC"
   },
   {
+   "club": "Florida Celtic Soccer Club",
+   "id": "300527993",
+   "name": "DPL"
+  },
+  {
    "club": "Sporting Jax Soccer Academy",
    "id": "300527983",
    "name": "GIRLS NPL NORTH"
-  },
-  {
-   "club": "Space Coast United",
-   "id": "300538850",
-   "name": "SCU White (FL)"
   },
   {
    "club": "Miami Springs Soccer",
@@ -206,19 +211,14 @@
    "name": "MSVG Blitz"
   },
   {
-   "club": "Florida Premier FC",
-   "id": "300527965",
-   "name": "FPFC TRY ELITE"
-  },
-  {
    "club": "FC America",
    "id": "12197464",
    "name": "Purple (FL) - Purple"
   },
   {
-   "club": "Florida Prime Soccer",
-   "id": "300527985",
-   "name": "Prime Girls High School"
+   "club": "Florida Premier FC",
+   "id": "300527965",
+   "name": "FPFC TRY ELITE"
   },
   {
    "club": "Tampa Bay United",
@@ -226,9 +226,9 @@
    "name": "TBU Girls North - REXROAD/CHASE"
   },
   {
-   "club": "Sol SC Florida",
-   "id": "11733353",
-   "name": "Sol SC Lake County Clermont"
+   "club": "Florida Prime Soccer",
+   "id": "300527985",
+   "name": "Prime Girls High School"
   },
   {
    "club": "Jacksonville Football Club",
@@ -318,11 +318,6 @@
   {
    "club": "Pinecrest Premier Soccer",
    "id": "12238671",
-   "name": "GA"
-  },
-  {
-   "club": "Florida United",
-   "id": "12326986",
    "name": "GA"
   },
   {
@@ -416,11 +411,6 @@
    "name": "Black NPL"
   },
   {
-   "club": "East Orlando Knights Futbol Club",
-   "id": "300333925",
-   "name": "East Orlando Knights G Gold"
-  },
-  {
    "club": "St Pete Raiders",
    "id": "300333938",
    "name": "CSNER Northeast Raiders"
@@ -491,11 +481,6 @@
    "name": "SWFL Premier FC ECNL RL"
   },
   {
-   "club": "Orlando City Soccer School Lake Nona",
-   "id": "300537457",
-   "name": "OPLN (FL)"
-  },
-  {
    "club": "Florida Premier FC",
    "id": "300538846",
    "name": "SWFL ECNL RL"
@@ -514,6 +499,11 @@
    "club": "DME Academy, Sarasota",
    "id": "300549059",
    "name": "TIKI-TAKA DME"
+  },
+  {
+   "club": "SWFL Surge",
+   "id": "300549060",
+   "name": "SWFL Surge"
   },
   {
    "club": "Strikers Miami FC",

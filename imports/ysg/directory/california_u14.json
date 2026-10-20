@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-13T14:38:14.709298+00:00",
+ "fetched_at": "2026-10-20T12:05:56.521934+00:00",
  "state": "CA",
  "state_slug": "california",
  "teams": [
@@ -26,24 +26,24 @@
    "name": "GA White"
   },
   {
-   "club": "Legends FC",
-   "id": "300390827",
-   "name": "ECNL"
-  },
-  {
    "club": "Beach Futbol Club",
    "id": "300390835",
    "name": "Beach FC (CA) ECNL"
   },
   {
-   "club": "So Cal Blues SC",
-   "id": "300390716",
-   "name": "So Cal Blues ECNL"
+   "club": "Legends FC",
+   "id": "300390827",
+   "name": "ECNL"
   },
   {
    "club": "Arete Futbol",
    "id": "300486756",
    "name": "AFA-RBG Select"
+  },
+  {
+   "club": "So Cal Blues SC",
+   "id": "300390716",
+   "name": "So Cal Blues ECNL"
   },
   {
    "club": "MVLA",
@@ -56,24 +56,14 @@
    "name": "LA Breakers ECNL"
   },
   {
-   "club": "SDSC Surf Soccer Club",
-   "id": "300390799",
-   "name": "GA"
-  },
-  {
    "club": "Toque Inc.",
    "id": "300482884",
    "name": "TOQUE"
   },
   {
-   "club": "Mustang Soccer",
-   "id": "300542614",
-   "name": "Mustang SC ECNL"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300537612",
-   "name": "Pateadores ECNL"
+   "club": "SDSC Surf Soccer Club",
+   "id": "300390799",
+   "name": "GA"
   },
   {
    "club": "Placer United Soccer Club",
@@ -81,18 +71,28 @@
    "name": "Placer United ECNL"
   },
   {
+   "club": "Pateadores Soccer Club",
+   "id": "300537612",
+   "name": "Pateadores ECNL"
+  },
+  {
+   "club": "SoCal Reds FC",
+   "id": "300514260",
+   "name": "GA"
+  },
+  {
    "club": "Legends FC",
    "id": "300482899",
    "name": "ECNL RL"
   },
   {
-   "club": "Lamorinda SC",
-   "id": "300389135",
-   "name": "GA"
+   "club": "Mustang Soccer",
+   "id": "300542614",
+   "name": "Mustang SC ECNL"
   },
   {
-   "club": "SoCal Reds FC",
-   "id": "300514260",
+   "club": "Lamorinda SC",
+   "id": "300389135",
    "name": "GA"
   },
   {
@@ -106,19 +106,9 @@
    "name": "GA"
   },
   {
-   "club": "Sporting CA USA",
-   "id": "300390727",
-   "name": "ECNL"
-  },
-  {
    "club": "Mustang Soccer",
    "id": "300389333",
    "name": "ECNL"
-  },
-  {
-   "club": "LA Breakers FC",
-   "id": "300390650",
-   "name": "LA Breakers ECNL"
   },
   {
    "club": "Lady Legend",
@@ -126,44 +116,9 @@
    "name": "Lady Thrive"
   },
   {
-   "club": "Slammers FC",
-   "id": "300499945",
-   "name": "SLAMMERS FC ECNL RL"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300482901",
-   "name": "Beach FC (CA) ECNL RL"
-  },
-  {
-   "club": "LASC-SCV",
-   "id": "300390591",
-   "name": "LR"
-  },
-  {
-   "club": "Santa Clara Sporting",
-   "id": "300389172",
-   "name": "GA"
-  },
-  {
-   "club": "Rebels Soccer Club",
-   "id": "300531040",
-   "name": "Rebels SC ECNL"
-  },
-  {
-   "club": "Bay City",
-   "id": "300482855",
-   "name": "Bay City G"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300481067",
+   "club": "Sporting CA USA",
+   "id": "300390727",
    "name": "ECNL"
-  },
-  {
-   "club": "Bay Area Footy",
-   "id": "300482852",
-   "name": "Bay Area Footy Black"
   },
   {
    "club": "MVLA",
@@ -171,14 +126,19 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Slammers FC",
-   "id": "300489529",
-   "name": "SLAMMERS FC ECNL"
+   "club": "Bay City",
+   "id": "300482855",
+   "name": "Bay City G"
   },
   {
-   "club": "City SC Southwest",
-   "id": "300390358",
-   "name": "GA"
+   "club": "Rebels Soccer Club",
+   "id": "300531040",
+   "name": "Rebels SC ECNL"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300482901",
+   "name": "Beach FC (CA) ECNL RL"
   },
   {
    "club": "Rocklin FC",
@@ -186,24 +146,29 @@
    "name": "ECNL-RL"
   },
   {
-   "club": "West Coast F.C.",
-   "id": "300390483",
+   "club": "Bay Area Footy",
+   "id": "300482852",
+   "name": "Bay Area Footy Black"
+  },
+  {
+   "club": "LASC-SCV",
+   "id": "300390591",
+   "name": "LR"
+  },
+  {
+   "club": "Slammers FC",
+   "id": "300499945",
+   "name": "SLAMMERS FC ECNL RL"
+  },
+  {
+   "club": "LA Breakers FC",
+   "id": "300390650",
+   "name": "LA Breakers ECNL"
+  },
+  {
+   "club": "City SC Southwest",
+   "id": "300390358",
    "name": "GA"
-  },
-  {
-   "club": "Santa Rosa United Soccer",
-   "id": "300542659",
-   "name": "Santa Rosa United ECNL"
-  },
-  {
-   "club": "Ventura Surf Soccer Club",
-   "id": "300390338",
-   "name": "(CA)"
-  },
-  {
-   "club": "LAFC So Cal",
-   "id": "300390742",
-   "name": "ECNL"
   },
   {
    "club": "Mustang SC",
@@ -211,39 +176,39 @@
    "name": "ECNL"
   },
   {
-   "club": "Beach Futbol Club",
-   "id": "300482902",
-   "name": "Beach FC (CA) ECNL RL S.Cal"
+   "club": "Santa Rosa United Soccer",
+   "id": "300542659",
+   "name": "Santa Rosa United ECNL"
   },
   {
-   "club": "Eagles Soccer club",
-   "id": "300390690",
-   "name": "Eagles SC - Pre-ECNL"
+   "club": "Santa Clara Sporting",
+   "id": "300389172",
+   "name": "GA"
   },
   {
-   "club": "City SC South Bay",
-   "id": "300484588",
-   "name": "Aspire"
+   "club": "Slammers FC",
+   "id": "300489529",
+   "name": "SLAMMERS FC ECNL"
   },
   {
-   "club": "San Diego Surf Soccer Club",
-   "id": "300390736",
-   "name": "ECNL RL Southwest"
+   "club": "LAFC So Cal",
+   "id": "300390742",
+   "name": "ECNL"
   },
   {
-   "club": "City SC",
-   "id": "300514247",
-   "name": "GA Blue"
+   "club": "PYSL Blast SC",
+   "id": "300390539",
+   "name": "G Forero"
   },
   {
-   "club": "South Valley United Soccer Club",
-   "id": "300389395",
-   "name": "SVU ECNL RL"
+   "club": "Bay Area Surf",
+   "id": "300518724",
+   "name": "ECNL"
   },
   {
-   "club": "So Cal Blues SC",
-   "id": "300390499",
-   "name": "RL Rennie"
+   "club": "West Coast F.C.",
+   "id": "300390483",
+   "name": "GA"
   },
   {
    "club": "Bay Area Surf",
@@ -256,34 +221,19 @@
    "name": "Pride ECNL-RL"
   },
   {
-   "club": "Slammers FC HB Koge",
-   "id": "300390780",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "West Coast F.C.",
-   "id": "300488821",
-   "name": "GA Saldana"
-  },
-  {
-   "club": "Bay Area Surf",
-   "id": "300518724",
+   "club": "Pateadores Soccer Club",
+   "id": "300481067",
    "name": "ECNL"
   },
   {
-   "club": "So Cal Blues SC",
-   "id": "300390714",
-   "name": "ECNL RL"
+   "club": "City SC",
+   "id": "300514247",
+   "name": "GA Blue"
   },
   {
-   "club": "Slammers FC",
-   "id": "300390493",
-   "name": "HB Koge ECNL RL"
-  },
-  {
-   "club": "Ajax United",
-   "id": "300389296",
-   "name": "GA"
+   "club": "City SC South Bay",
+   "id": "300484588",
+   "name": "Aspire"
   },
   {
    "club": "Santa Rosa United",
@@ -291,14 +241,34 @@
    "name": "ECNL"
   },
   {
-   "club": "Beach Futbol Club",
-   "id": "300390497",
-   "name": "Beach FC ECNL RL - Torres"
+   "club": "San Diego Surf Soccer Club",
+   "id": "300390736",
+   "name": "ECNL RL Southwest"
   },
   {
-   "club": "Express Soccer",
-   "id": "300390606",
-   "name": "Elite Henry"
+   "club": "Ventura Surf Soccer Club",
+   "id": "300390338",
+   "name": "(CA)"
+  },
+  {
+   "club": "Eagles Soccer club",
+   "id": "300390690",
+   "name": "Eagles SC - Pre-ECNL"
+  },
+  {
+   "club": "Slammers FC HB Koge",
+   "id": "300390780",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "So Cal Blues SC",
+   "id": "300390499",
+   "name": "RL Rennie"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300482902",
+   "name": "Beach FC (CA) ECNL RL S.Cal"
   },
   {
    "club": "California Futsal North",
@@ -306,34 +276,54 @@
    "name": "NG Galaxy"
   },
   {
-   "club": "Santa Clara Sporting",
-   "id": "300389218",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "South Valley Surf SC",
-   "id": "300389137",
-   "name": "GA"
-  },
-  {
-   "club": "Santa Barbara SC",
-   "id": "300514236",
-   "name": "Aspire"
-  },
-  {
-   "club": "SoCal Reds FC",
-   "id": "300390778",
-   "name": "GA"
-  },
-  {
-   "club": "Express Soccer",
-   "id": "300514270",
-   "name": "Elite Shuttleworth (CA)"
+   "club": "South Valley United Soccer Club",
+   "id": "300389395",
+   "name": "SVU ECNL RL"
   },
   {
    "club": "Santa Rosa United Soccer",
    "id": "300389130",
    "name": "ECNL - Gold"
+  },
+  {
+   "club": "Slammers FC",
+   "id": "300390493",
+   "name": "HB Koge ECNL RL"
+  },
+  {
+   "club": "West Coast F.C.",
+   "id": "300488821",
+   "name": "GA Saldana"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300390497",
+   "name": "Beach FC ECNL RL - Torres"
+  },
+  {
+   "club": "San Juan Soccer Club",
+   "id": "300389097",
+   "name": "San Juan SC ECNL RL"
+  },
+  {
+   "club": "So Cal Blues SC",
+   "id": "300390714",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Santa Clara Sporting",
+   "id": "300389218",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Claremont Stars Soccer Club",
+   "id": "300390566",
+   "name": "De Rada (CA)"
+  },
+  {
+   "club": "Santa Barbara Soccer Club",
+   "id": "300514236",
+   "name": "Aspire"
   },
   {
    "club": "Davis Legacy Soccer Club",
@@ -346,8 +336,8 @@
    "name": "Aspire"
   },
   {
-   "club": "Clovis Crossfire",
-   "id": "300389308",
+   "club": "Ajax United",
+   "id": "300389296",
    "name": "GA"
   },
   {
@@ -356,74 +346,14 @@
    "name": "DPL"
   },
   {
-   "club": "Legends San Diego",
-   "id": "300514215",
-   "name": "Elite I (CA)"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300480097",
-   "name": "LB Gomez (CA)"
-  },
-  {
-   "club": "LAFC So Cal",
-   "id": "12049389",
-   "name": "GOLD"
-  },
-  {
-   "club": "City SC",
-   "id": "300390351",
-   "name": "GA Blue"
-  },
-  {
-   "club": "Claremont Stars Soccer Club",
-   "id": "300390566",
-   "name": "De Rada (CA)"
-  },
-  {
-   "club": "Slammers FC",
-   "id": "300518745",
-   "name": "SLAMMERS FC ECNL RL S.Cal"
-  },
-  {
-   "club": "San Francisco Glens Soccer Club",
-   "id": "300469815",
+   "club": "SoCal Reds FC",
+   "id": "300390778",
    "name": "GA"
   },
   {
-   "club": "San Juan Soccer Club",
-   "id": "300389097",
-   "name": "San Juan SC ECNL RL"
-  },
-  {
-   "club": "PYSL Blast SC",
-   "id": "300390539",
-   "name": "G Forero"
-  },
-  {
-   "club": "Walnut Creek Surf Soccer Club",
-   "id": "300389186",
-   "name": "Walnut Creek Surf ECNL RL"
-  },
-  {
-   "club": "City SC",
-   "id": "300514202",
-   "name": "Aspire"
-  },
-  {
-   "club": "1974 Newark FC",
-   "id": "300389275",
+   "club": "South Valley Surf SC",
+   "id": "300389137",
    "name": "GA"
-  },
-  {
-   "club": "AC Marin",
-   "id": "300389411",
-   "name": "Girls ECNL-RL"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300390344",
-   "name": "ECNL RL S. CAL NB"
   },
   {
    "club": "Alameda Soccer Club",
@@ -431,9 +361,69 @@
    "name": "Islanders ECNL RL"
   },
   {
+   "club": "San Diego Rush Soccer Club",
+   "id": "300551172",
+   "name": "DPL"
+  },
+  {
+   "club": "Express Soccer",
+   "id": "300514270",
+   "name": "Elite Shuttleworth (CA)"
+  },
+  {
+   "club": "San Francisco Glens Soccer Club",
+   "id": "300469815",
+   "name": "GA"
+  },
+  {
+   "club": "Clovis Crossfire",
+   "id": "300389308",
+   "name": "GA"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300480097",
+   "name": "LB Gomez (CA)"
+  },
+  {
+   "club": "Legends San Diego",
+   "id": "300514215",
+   "name": "Elite I (CA)"
+  },
+  {
+   "club": "North Coast Futbol Club",
+   "id": "300542660",
+   "name": "North Coast FC BLUE ECNL RL"
+  },
+  {
+   "club": "Walnut Creek Surf Soccer Club",
+   "id": "300389186",
+   "name": "Walnut Creek Surf ECNL RL"
+  },
+  {
    "club": "Beach Futbol Club",
-   "id": "300514218",
-   "name": "SB I. Lopez (CA)"
+   "id": "300518751",
+   "name": "CA) ECNL RL Gold"
+  },
+  {
+   "club": "Marin Football Club",
+   "id": "300389437",
+   "name": "Marin FC ECNL"
+  },
+  {
+   "club": "City SC",
+   "id": "300514202",
+   "name": "Aspire"
+  },
+  {
+   "club": "City SC",
+   "id": "300390351",
+   "name": "GA Blue"
+  },
+  {
+   "club": "Express Soccer",
+   "id": "300390606",
+   "name": "Elite Henry"
   },
   {
    "club": "Legends FC Santa Clarita",
@@ -441,9 +431,9 @@
    "name": "SCV (CA)"
   },
   {
-   "club": "Team USA Soccer Club",
-   "id": "300390491",
-   "name": "SoCal Team USA"
+   "club": "Slammers FC",
+   "id": "300518745",
+   "name": "SLAMMERS FC ECNL RL S.Cal"
   },
   {
    "club": "Rangers FC",
@@ -451,19 +441,19 @@
    "name": "Rangers GA"
   },
   {
-   "club": "Legends FC",
-   "id": "300390479",
-   "name": "OC Tustin"
+   "club": "Team USA Soccer Club",
+   "id": "300390491",
+   "name": "SoCal Team USA"
   },
   {
-   "club": "Sporting CA USA",
-   "id": "300390726",
-   "name": "ECNL RL"
+   "club": "Beach Futbol Club",
+   "id": "300514218",
+   "name": "SB I. Lopez (CA)"
   },
   {
-   "club": "Pateadores Soccer Club",
-   "id": "300531039",
-   "name": "ECNL RL"
+   "club": "AC Marin",
+   "id": "300389411",
+   "name": "Girls ECNL-RL"
   },
   {
    "club": "FRAM SC",
@@ -471,13 +461,38 @@
    "name": "GA"
   },
   {
-   "club": "Tudela Futbol Club Los Angeles",
-   "id": "300390584",
-   "name": "White (CA)"
+   "club": "LAFC So Cal",
+   "id": "12049389",
+   "name": "GOLD"
   },
   {
    "club": "Silicon Valley SA",
    "id": "300389160",
+   "name": "GA"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300531039",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390479",
+   "name": "OC Tustin"
+  },
+  {
+   "club": "Monterey Surf Soccer Club",
+   "id": "300389159",
+   "name": "Monterey Surf NPL"
+  },
+  {
+   "club": "California Odyssey Soccer Club",
+   "id": "300389506",
+   "name": "COSC ECNL"
+  },
+  {
+   "club": "1974 Newark FC",
+   "id": "300389275",
    "name": "GA"
   },
   {
@@ -486,19 +501,9 @@
    "name": "Red (archived"
   },
   {
-   "club": "California Odyssey Soccer Club",
-   "id": "300389506",
-   "name": "COSC ECNL"
-  },
-  {
-   "club": "Marin Football Club",
-   "id": "300389437",
-   "name": "Marin FC ECNL"
-  },
-  {
-   "club": "Legends FC SD (DMCV)",
-   "id": "300390699",
-   "name": "Legends FC San Diego ECNL"
+   "club": "SDSC Surf Soccer Club",
+   "id": "300390797",
+   "name": "White"
   },
   {
    "club": "Beach Futbol Club",
@@ -506,34 +511,9 @@
    "name": "SB Ortega"
   },
   {
-   "club": "So Cal Blues SC",
-   "id": "300514207",
-   "name": "ECNL RL Blue (Summer)"
-  },
-  {
-   "club": "Rangers FC",
-   "id": "300390546",
-   "name": "South Aspire"
-  },
-  {
-   "club": "Desert Communities Soccer Club",
-   "id": "300390503",
-   "name": "Mason"
-  },
-  {
-   "club": "SDSC Surf Soccer Club",
-   "id": "300390797",
-   "name": "White"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390294",
-   "name": "LB Verdin (CA)"
-  },
-  {
-   "club": "Future FC",
-   "id": "300390786",
-   "name": "(CA)"
+   "club": "Legends FC SD (DMCV)",
+   "id": "300390699",
+   "name": "Legends FC San Diego ECNL"
   },
   {
    "club": "Stanislaus Surf Soccer Club",
@@ -541,14 +521,39 @@
    "name": "Stanislaus Surf - ECNL"
   },
   {
-   "club": "San Diego Rush Soccer Club",
-   "id": "300488154",
-   "name": "NL Premier Johnston"
+   "club": "Rangers FC",
+   "id": "300390546",
+   "name": "South Aspire"
   },
   {
-   "club": "City SC Kings County",
-   "id": "300389101",
-   "name": "DPL"
+   "club": "CDA Slammers",
+   "id": "300390294",
+   "name": "LB Verdin (CA)"
+  },
+  {
+   "club": "Tudela Futbol Club Los Angeles",
+   "id": "300390584",
+   "name": "White (CA)"
+  },
+  {
+   "club": "So Cal Blues SC",
+   "id": "300514207",
+   "name": "ECNL RL Blue (Summer)"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300390344",
+   "name": "ECNL RL S. CAL NB"
+  },
+  {
+   "club": "Desert Communities Soccer Club",
+   "id": "300390503",
+   "name": "Mason"
+  },
+  {
+   "club": "Future FC",
+   "id": "300390786",
+   "name": "(CA)"
   },
   {
    "club": "Legends FC - Del Mar",
@@ -556,89 +561,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Monterey Surf Soccer Club",
-   "id": "300389159",
-   "name": "Monterey Surf NPL"
-  },
-  {
-   "club": "SoCal Reds FC",
-   "id": "300481064",
-   "name": "ASPIRE AS"
-  },
-  {
-   "club": "Legends FC SD (DMCV)",
-   "id": "300390700",
-   "name": "Legends FC San Diego - ECNL-RL"
-  },
-  {
-   "club": "Almaden FC",
-   "id": "300469813",
-   "name": "GA"
-  },
-  {
-   "club": "Livermore Fusion SC",
-   "id": "300389389",
-   "name": "Fusion SC ECNL RL"
-  },
-  {
    "club": "El Camino Futbol Club Salinas",
    "id": "11784606",
    "name": "El Camino FC ECNL RL"
-  },
-  {
-   "club": "Atletico United FC",
-   "id": "300389222",
-   "name": "Atletico FC Red Girls"
-  },
-  {
-   "club": "Rebels Soccer Club",
-   "id": "300390843",
-   "name": "Rebels SC ECNL"
-  },
-  {
-   "club": "So Cal Blues SC",
-   "id": "300390500",
-   "name": "SC Blues DPL"
-  },
-  {
-   "club": "SDSC Surf",
-   "id": "300390798",
-   "name": "Aspire OLD"
-  },
-  {
-   "club": "City SC Southwest",
-   "id": "300390616",
-   "name": "DPL"
-  },
-  {
-   "club": "So Cal Blues SC",
-   "id": "300390713",
-   "name": "RL SoCal"
-  },
-  {
-   "club": "Marin FC",
-   "id": "300389109",
-   "name": "ECNL"
-  },
-  {
-   "club": "Socal Pride Futbol Club",
-   "id": "300531042",
-   "name": "Socal Pride FC Ruvalcaba"
-  },
-  {
-   "club": "Rebels Soccer Club",
-   "id": "300390841",
-   "name": "Rebels SC ECNL RL"
-  },
-  {
-   "club": "Burlingame Soccer Club",
-   "id": "300389282",
-   "name": "Burlingame SC ECNL RL"
-  },
-  {
-   "club": "Sacramento United",
-   "id": "300389140",
-   "name": "GA"
   },
   {
    "club": "Eagles Soccer Club",
@@ -646,19 +571,9 @@
    "name": "Eagles SC ECNL RL"
   },
   {
-   "club": "California Football Academy",
-   "id": "300390369",
-   "name": "Aspire"
-  },
-  {
-   "club": "FRAM Soccer Club",
-   "id": "300390516",
-   "name": "Aspire"
-  },
-  {
-   "club": "Sporting San Diego",
-   "id": "300390709",
-   "name": "Black (CA)"
+   "club": "United SoCal",
+   "id": "300390301",
+   "name": "Los Angeles"
   },
   {
    "club": "Central Coast Surf Soccer Club",
@@ -666,19 +581,14 @@
    "name": "DPL"
   },
   {
-   "club": "San Juan Soccer Club",
-   "id": "300389249",
-   "name": "San Juan SC PreECNL"
+   "club": "San Diego Rush Soccer Club",
+   "id": "300488154",
+   "name": "NL Premier Johnston"
   },
   {
-   "club": "FLYTE SC IE",
-   "id": "300390416",
-   "name": "Aspire"
-  },
-  {
-   "club": "Sporting CA USA",
-   "id": "300466208",
-   "name": "ECNL RL S.Cal"
+   "club": "Atletico United FC",
+   "id": "300389222",
+   "name": "Atletico FC Red Girls"
   },
   {
    "club": "Mustang SC",
@@ -686,24 +596,29 @@
    "name": "ECNL RL"
   },
   {
-   "club": "North Coast Futbol Club",
-   "id": "300389224",
-   "name": "North Coast FC Blue ECNL RL"
-  },
-  {
-   "club": "Davis Legacy Soccer Club",
-   "id": "300489811",
-   "name": "Davis Legacy ECNL RL"
-  },
-  {
    "club": "Santa Barbara Soccer Club",
    "id": "12049490",
    "name": "GU13 (26-27)"
   },
   {
-   "club": "California Magic Soccer Club",
-   "id": "11784597",
-   "name": "California Magic ECNL RL"
+   "club": "Sporting San Diego",
+   "id": "300390709",
+   "name": "Black (CA)"
+  },
+  {
+   "club": "Marin FC",
+   "id": "300389109",
+   "name": "ECNL"
+  },
+  {
+   "club": "Sporting CA USA",
+   "id": "300390726",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Rangers FC",
+   "id": "300491232",
+   "name": "GA-12/13"
   },
   {
    "club": "Stanford Strikers FC",
@@ -711,69 +626,74 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Atletico United FC",
-   "id": "300389105",
-   "name": "Atletico Black"
+   "club": "SDSC Surf",
+   "id": "300390798",
+   "name": "Aspire OLD"
   },
   {
-   "club": "CDA Slammers",
-   "id": "300390622",
-   "name": "NL II"
-  },
-  {
-   "club": "Boca Orange County",
-   "id": "300390432",
-   "name": "BOCA OC DPLO"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390828",
-   "name": "ECRL"
-  },
-  {
-   "club": "Legends San Diego",
-   "id": "300390548",
-   "name": "NL"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390496",
-   "name": "San Bernardino FC"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300485304",
-   "name": "SB Gold"
-  },
-  {
-   "club": "Elk Grove Soccer",
-   "id": "300389321",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "PAMA",
-   "id": "300481068",
-   "name": "PAMA Knights"
-  },
-  {
-   "club": "Fc Man United",
-   "id": "300390436",
-   "name": "G2013 NL2"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "12046088",
-   "name": "Cerritos Cruz"
+   "club": "So Cal Blues SC",
+   "id": "300390500",
+   "name": "SC Blues DPL"
   },
   {
    "club": "West Coast Soccer",
-   "id": "300389276",
-   "name": "West Coast Waves"
+   "id": "11784634",
+   "name": "ECNL RL"
   },
   {
-   "club": "FRAM Soccer Club",
-   "id": "300390357",
-   "name": "GA"
+   "club": "Livermore Fusion SC",
+   "id": "300389389",
+   "name": "Fusion SC ECNL RL"
+  },
+  {
+   "club": "Burlingame Soccer Club",
+   "id": "300389282",
+   "name": "Burlingame SC ECNL RL"
+  },
+  {
+   "club": "City SC Southwest",
+   "id": "300390616",
+   "name": "DPL"
+  },
+  {
+   "club": "Rebels Soccer Club",
+   "id": "300390843",
+   "name": "Rebels SC ECNL"
+  },
+  {
+   "club": "North Coast Futbol Club",
+   "id": "300389224",
+   "name": "North Coast FC Blue ECNL RL"
+  },
+  {
+   "club": "So Cal Blues SC",
+   "id": "300390713",
+   "name": "RL SoCal"
+  },
+  {
+   "club": "City SC Kings County",
+   "id": "300389101",
+   "name": "DPL"
+  },
+  {
+   "club": "California Magic Soccer Club",
+   "id": "11784597",
+   "name": "California Magic ECNL RL"
+  },
+  {
+   "club": "FLYTE SC IE",
+   "id": "300390416",
+   "name": "Aspire"
+  },
+  {
+   "club": "Rocklin FC",
+   "id": "300389340",
+   "name": "Aspire"
+  },
+  {
+   "club": "Rebels Soccer Club",
+   "id": "300390841",
+   "name": "Rebels SC ECNL RL"
   },
   {
    "club": "De Anza Force SC",
@@ -781,8 +701,43 @@
    "name": "ECNL"
   },
   {
-   "club": "Rocklin FC",
-   "id": "300389340",
+   "club": "Davis Legacy Soccer Club",
+   "id": "300489811",
+   "name": "Davis Legacy ECNL RL"
+  },
+  {
+   "club": "Almaden FC",
+   "id": "300469813",
+   "name": "GA"
+  },
+  {
+   "club": "Elk Grove Soccer",
+   "id": "300389321",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Galt Futbol Club",
+   "id": "300389202",
+   "name": "Galt FC Waves-Blue"
+  },
+  {
+   "club": "West Coast Soccer",
+   "id": "300389276",
+   "name": "West Coast Waves"
+  },
+  {
+   "club": "Sporting CA USA",
+   "id": "300466208",
+   "name": "ECNL RL S.Cal"
+  },
+  {
+   "club": "SoCal Reds FC",
+   "id": "300481064",
+   "name": "ASPIRE AS"
+  },
+  {
+   "club": "California Football Academy",
+   "id": "300390369",
    "name": "Aspire"
   },
   {
@@ -791,23 +746,68 @@
    "name": "ECNL RL"
   },
   {
-   "club": "A1 Since Day1 FC",
-   "id": "300390624",
-   "name": "GU14"
+   "club": "Atletico United FC",
+   "id": "300389105",
+   "name": "Atletico Black"
+  },
+  {
+   "club": "El Camino FC Salinas",
+   "id": "300389386",
+   "name": "ECNL RL"
   },
   {
    "club": "Legends FC",
-   "id": "300482900",
-   "name": "GU14"
+   "id": "300485304",
+   "name": "SB Gold"
   },
   {
-   "club": "Lobitos Soccer Club",
-   "id": "300537358",
-   "name": "Lobitos S.C. - Lady Gunners FC"
+   "club": "San Juan South Soccer Club",
+   "id": "300389267",
+   "name": "San Juan South SC Teal (CA)"
   },
   {
-   "club": "West Coast Soccer",
-   "id": "11784634",
+   "club": "PAMA",
+   "id": "300481068",
+   "name": "PAMA Knights"
+  },
+  {
+   "club": "Pleasanton Rage",
+   "id": "300389430",
+   "name": "Pleasanton RAGE ECNL"
+  },
+  {
+   "club": "So Cal Blues SC",
+   "id": "300390531",
+   "name": "NPL"
+  },
+  {
+   "club": "ALBION SC Santa Monica",
+   "id": "300390720",
+   "name": "DPL"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390828",
+   "name": "ECRL"
+  },
+  {
+   "club": "TOTAL FUTBOL ACADEMY",
+   "id": "300514208",
+   "name": "TFA-AV DPLO"
+  },
+  {
+   "club": "LAFC So Cal",
+   "id": "300390743",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "San Juan Soccer Club",
+   "id": "300389249",
+   "name": "San Juan SC PreECNL"
+  },
+  {
+   "club": "San Francisco Elite Academy",
+   "id": "300389356",
    "name": "ECNL RL"
   },
   {
@@ -816,29 +816,14 @@
    "name": "NorCal Futsal"
   },
   {
-   "club": "LAFC So Cal",
-   "id": "300390743",
-   "name": "ECNL RL"
+   "club": "Palo Alto Soccer Club",
+   "id": "300389273",
+   "name": "Girls Academy"
   },
   {
-   "club": "Beach Futbol Club",
-   "id": "300518739",
-   "name": "Beach Futbol Club ECNL RL Black"
-  },
-  {
-   "club": "TOTAL FUTBOL ACADEMY",
-   "id": "300514208",
-   "name": "TFA-AV DPLO"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300518750",
-   "name": "CA) ECNL RL Black"
-  },
-  {
-   "club": "ALBION SC Santa Monica",
-   "id": "300390720",
-   "name": "DPL"
+   "club": "Socal Pride Futbol Club",
+   "id": "300531042",
+   "name": "Socal Pride FC Ruvalcaba"
   },
   {
    "club": "San Diego Surf Soccer Club",
@@ -846,94 +831,44 @@
    "name": "San Diego Surf RL (Gonzalez)"
   },
   {
-   "club": "San Juan South Soccer Club",
-   "id": "300389267",
-   "name": "San Juan South SC Teal (CA)"
-  },
-  {
-   "club": "Palo Alto Soccer Club",
-   "id": "300389273",
-   "name": "Girls Academy"
-  },
-  {
-   "club": "San Francisco Elite Academy",
-   "id": "300389356",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "FC Man United",
-   "id": "300504513",
-   "name": "DPLO"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390326",
-   "name": "HB Perez (CA)"
-  },
-  {
-   "club": "So Cal Blues SC",
-   "id": "300390531",
-   "name": "NPL"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300531036",
-   "name": "HB Gomez"
-  },
-  {
-   "club": "Bay Area Surf",
-   "id": "300389245",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Napa United",
    "id": "300389343",
    "name": "ECNL RL"
   },
   {
-   "club": "Roseville Youth Soccer Club",
-   "id": "300389199",
-   "name": "Roseville SC Pre-Academy (CA)"
+   "club": "Legends FC",
+   "id": "300482900",
+   "name": "GU14"
   },
   {
-   "club": "Albion SC San Diego",
-   "id": "300488501",
+   "club": "FRAM SC",
+   "id": "300390516",
+   "name": "Aspire"
+  },
+  {
+   "club": "Sacramento United",
+   "id": "300389140",
    "name": "GA"
   },
   {
-   "club": "Tudela Futbol Club Los Angeles",
-   "id": "300390572",
-   "name": "LA Blue"
-  },
-  {
-   "club": "El Camino FC Salinas",
-   "id": "300389386",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Sporting Slammers FC",
-   "id": "300390763",
-   "name": "DPL"
-  },
-  {
-   "club": "East County Revolution FC",
-   "id": "11784603",
-   "name": "Revolution FC ECNL RL"
-  },
-  {
-   "club": "Sacramento Alliance SC",
-   "id": "300389216",
-   "name": "Sacramento Alliance SC Thunder (CA)"
+   "club": "Legends FC SD (DMCV)",
+   "id": "300390700",
+   "name": "Legends FC San Diego - ECNL-RL"
   },
   {
    "club": "Boca Orange County",
-   "id": "300551168",
-   "name": "DPLO"
+   "id": "300390432",
+   "name": "BOCA OC DPLO"
   },
   {
-   "club": "Legends FC",
-   "id": "300390569",
-   "name": "ECNL RL S.CAL"
+   "club": "Fc Man United",
+   "id": "300390436",
+   "name": "G2013 NL2"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300518750",
+   "name": "CA) ECNL RL Black"
   },
   {
    "club": "La Academia FC",
@@ -941,8 +876,73 @@
    "name": "Kicks"
   },
   {
+   "club": "SoCal Athletic Soccer Club",
+   "id": "12046346",
+   "name": "So Cal Athletic SC South OC Navy"
+  },
+  {
    "club": "Alameda Soccer Club",
    "id": "11784590",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300390326",
+   "name": "HB Perez (CA)"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "12046088",
+   "name": "Cerritos Cruz"
+  },
+  {
+   "club": "Legends San Diego",
+   "id": "300390548",
+   "name": "NL"
+  },
+  {
+   "club": "FRAM Soccer Club",
+   "id": "300390357",
+   "name": "GA"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300390622",
+   "name": "NL II"
+  },
+  {
+   "club": "Mustang Soccer",
+   "id": "300542609",
+   "name": "Mustang SC ECNL RL"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300531036",
+   "name": "HB Gomez"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390386",
+   "name": "Inland Valley"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300518739",
+   "name": "Beach Futbol Club ECNL RL Black"
+  },
+  {
+   "club": "California Football Academy",
+   "id": "300497132",
+   "name": "Aspire"
+  },
+  {
+   "club": "North Coast Futbol Club",
+   "id": "11784616",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Bay Area Surf",
+   "id": "300389245",
    "name": "ECNL RL"
   },
   {
@@ -951,19 +951,9 @@
    "name": "Pateadores ECNL RL SoCal NB"
   },
   {
-   "club": "North Coast Futbol Club",
-   "id": "11784616",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Chula Vista FC",
-   "id": "300504563",
-   "name": "DPL"
-  },
-  {
-   "club": "Placer United Soccer Club",
-   "id": "300389403",
-   "name": "Placer United Gold (CA)"
+   "club": "Roseville Youth Soccer Club",
+   "id": "300389199",
+   "name": "Roseville SC Pre-Academy (CA)"
   },
   {
    "club": "Apple Valley Storm",
@@ -971,69 +961,19 @@
    "name": "Black"
   },
   {
-   "club": "United SoCal",
-   "id": "300390386",
-   "name": "Inland Valley"
+   "club": "Lobitos Soccer Club",
+   "id": "300537358",
+   "name": "Lobitos S.C. - Lady Gunners FC"
   },
   {
-   "club": "Albion SC Santa Monica",
-   "id": "300485308",
+   "club": "Placer United Soccer Club",
+   "id": "300389403",
+   "name": "Placer United Gold (CA)"
+  },
+  {
+   "club": "Inland Surf",
+   "id": "300514223",
    "name": "DPL"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300481061",
-   "name": "SB Holmes"
-  },
-  {
-   "club": "Galt Futbol Club",
-   "id": "300389202",
-   "name": "Galt FC Waves-Blue"
-  },
-  {
-   "club": "Central Coast United SC",
-   "id": "300389332",
-   "name": "Central Coast United DPL"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390392",
-   "name": "San Bernardino Gold"
-  },
-  {
-   "club": "Oceanside",
-   "id": "300514254",
-   "name": "Breakers Black (CA)"
-  },
-  {
-   "club": "City SC - San Marcos",
-   "id": "300495342",
-   "name": "DPL"
-  },
-  {
-   "club": "California Football Academy",
-   "id": "300497132",
-   "name": "Aspire"
-  },
-  {
-   "club": "Eastshore Alliance FC",
-   "id": "300486749",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Slammers FC",
-   "id": "300485306",
-   "name": "HB Koge ECNL RL S.Cal"
-  },
-  {
-   "club": "California Magic Soccer Club",
-   "id": "300531015",
-   "name": "Cal Magic - East"
-  },
-  {
-   "club": "Empire Soccer Club",
-   "id": "300482893",
-   "name": "Empire"
   },
   {
    "club": "Steel United California",
@@ -1041,39 +981,84 @@
    "name": "Bakersfield Elite"
   },
   {
-   "club": "SDSC Surf Escondido",
-   "id": "300514266",
-   "name": "BLACK-ESC"
+   "club": "Oceanside",
+   "id": "300514254",
+   "name": "Breakers Black (CA)"
   },
   {
-   "club": "California Football Academy",
-   "id": "300390331",
-   "name": "CFA OC Soza"
+   "club": "Chula Vista FC",
+   "id": "300504563",
+   "name": "DPL"
   },
   {
-   "club": "SoCal Athletic Soccer Club",
-   "id": "12046346",
-   "name": "So Cal Athletic SC South OC Navy"
+   "club": "California Magic Soccer Club",
+   "id": "300531015",
+   "name": "Cal Magic - East"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390569",
+   "name": "ECNL RL S.CAL"
+  },
+  {
+   "club": "Boca Orange County",
+   "id": "300551168",
+   "name": "DPLO"
   },
   {
    "club": "Beach Futbol Club",
-   "id": "300514246",
-   "name": "LB Zavala (CA)"
+   "id": "300481061",
+   "name": "SB Holmes"
   },
   {
-   "club": "MANTECA FUTBOL CLUB",
-   "id": "300389309",
-   "name": "Manteca FC Red (CA)"
+   "club": "City SC - San Marcos",
+   "id": "300495342",
+   "name": "DPL"
   },
   {
-   "club": "Stanislaus United Soccer Club",
-   "id": "300389486",
-   "name": "Stanislaus United ECNL RL"
+   "club": "Sacramento Alliance SC",
+   "id": "300389216",
+   "name": "Sacramento Alliance SC Thunder (CA)"
   },
   {
-   "club": "San Francisco Glens Soccer Club",
-   "id": "300389221",
-   "name": "SF Glens Academy II"
+   "club": "Albion SC Santa Monica",
+   "id": "300485308",
+   "name": "DPL"
+  },
+  {
+   "club": "Albion SC San Diego",
+   "id": "300488501",
+   "name": "GA"
+  },
+  {
+   "club": "Sporting Slammers FC",
+   "id": "300390763",
+   "name": "DPL"
+  },
+  {
+   "club": "Santa Rosa Empire Soccer Club",
+   "id": "300549933",
+   "name": "Blitz"
+  },
+  {
+   "club": "Empire Soccer Club",
+   "id": "300482893",
+   "name": "Empire"
+  },
+  {
+   "club": "Slammers FC",
+   "id": "300485306",
+   "name": "HB Koge ECNL RL S.Cal"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390392",
+   "name": "San Bernardino Gold"
+  },
+  {
+   "club": "FC Man United",
+   "id": "300504513",
+   "name": "DPLO"
   },
   {
    "club": "Chelsea OC",
@@ -1081,14 +1066,9 @@
    "name": "EM"
   },
   {
-   "club": "Pleasanton Rage",
-   "id": "300389430",
-   "name": "Pleasanton RAGE ECNL"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "12046098",
-   "name": "FC Long Beach Soler/Petrus NC"
+   "club": "Solano Surf",
+   "id": "300389113",
+   "name": "Blue / ECNL RL"
   },
   {
    "club": "Slammers FC",
@@ -1101,309 +1081,24 @@
    "name": "(CA)"
   },
   {
-   "club": "Downtown LA Soccer Club",
-   "id": "300390473",
-   "name": "Downtown LA Soccer Club"
+   "club": "Palo Alto SC",
+   "id": "300514056",
+   "name": "Blue"
   },
   {
-   "club": "Solano Surf",
-   "id": "300389113",
-   "name": "Blue / ECNL RL"
-  },
-  {
-   "club": "Placer United Soccer Club",
-   "id": "300389392",
-   "name": "Placer United ECNL RL"
-  },
-  {
-   "club": "San Clemente Surf Soccer",
-   "id": "300390378",
-   "name": "Ozuna"
-  },
-  {
-   "club": "Inland Empire Futbol Club",
-   "id": "300390426",
-   "name": "Gold"
-  },
-  {
-   "club": "Albion SC Antelope Valley",
-   "id": "300390397",
-   "name": "DPL"
-  },
-  {
-   "club": "City SC South Bay",
-   "id": "300390792",
-   "name": "DPLO"
-  },
-  {
-   "club": "Bakersfield Alliance",
-   "id": "300482891",
+   "club": "A1 Since Day1 FC",
+   "id": "300390624",
    "name": "GU14"
   },
   {
-   "club": "City SC Kings County",
-   "id": "11784599",
-   "name": "Kings County ECNL RL"
-  },
-  {
-   "club": "LA Surf Soccer Club",
-   "id": "300469818",
-   "name": "GA"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390586",
-   "name": "San Diego"
-  },
-  {
-   "club": "Merced United FC",
-   "id": "300389502",
-   "name": "MUFC White"
-  },
-  {
-   "club": "Chula Vista Futbol Club",
-   "id": "300390391",
-   "name": "DPL"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390341",
-   "name": "Burbank Blue"
-  },
-  {
-   "club": "De Anza Force SC",
-   "id": "300389335",
-   "name": "Force ECNL"
-  },
-  {
-   "club": "Albion SC Riverside",
-   "id": "300390327",
-   "name": "DPL"
-  },
-  {
-   "club": "Foothill Storm Soccer Club",
-   "id": "300390515",
-   "name": "G2013"
-  },
-  {
-   "club": "Legends FC SCV",
-   "id": "300390825",
-   "name": "Black"
-  },
-  {
-   "club": "Oceanside",
-   "id": "300390573",
-   "name": "Breakers Extra"
-  },
-  {
-   "club": "Empire Surf",
-   "id": "300390560",
-   "name": "Empire Surf ECRL (CA)"
-  },
-  {
-   "club": "Empire Soccer Club",
-   "id": "300490881",
-   "name": "Empire SC"
-  },
-  {
-   "club": "LAFC So Cal",
-   "id": "300481063",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300514234",
-   "name": "Los Angeles"
-  },
-  {
-   "club": "Chelsea OC",
-   "id": "300390437",
-   "name": "DS"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390301",
-   "name": "Los Angeles"
-  },
-  {
-   "club": "FC Golden State",
-   "id": "300390376",
-   "name": "Force Woodbury"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390385",
-   "name": "Channel Islands"
-  },
-  {
-   "club": "Girls Unite",
-   "id": "300389352",
-   "name": "Revolution (CA)"
-  },
-  {
-   "club": "Elk Grove Soccer",
-   "id": "300389301",
-   "name": "Elk Grove Soccer Platinum"
-  },
-  {
-   "club": "City SC",
-   "id": "300390634",
-   "name": "Carlsbad Premier - Lennox"
-  },
-  {
-   "club": "CV Futbol Academy",
-   "id": "300504462",
-   "name": "CVFA White"
-  },
-  {
-   "club": "Rebels Soccer Club",
-   "id": "300390844",
-   "name": "ECNL RL S.Cal"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300487654",
-   "name": "DPL"
-  },
-  {
-   "club": "LA Surf Soccer Club",
-   "id": "300504556",
-   "name": "LA Surf DPL"
-  },
-  {
-   "club": "SoCal Reds FC",
-   "id": "300514222",
-   "name": "DPLO"
-  },
-  {
-   "club": "Burlingame Soccer Club",
-   "id": "300389279",
-   "name": "N1 G2012/13"
-  },
-  {
-   "club": "AYSO UNITED",
-   "id": "300390621",
-   "name": "AYSO United DPL"
-  },
-  {
-   "club": "FC Premier",
-   "id": "300390492",
-   "name": "HB - Blue"
-  },
-  {
-   "club": "Los Angeles Football Club",
-   "id": "300390413",
-   "name": "OQ"
-  },
-  {
-   "club": "Mustang Soccer",
-   "id": "300389401",
-   "name": "Elite I"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300390460",
-   "name": "ES Muggleton"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300390595",
-   "name": "LB Gonzalez"
-  },
-  {
-   "club": "South Tahoe FC",
-   "id": "300389143",
-   "name": "South Tahoe FC Girls"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390390",
-   "name": "NL I"
-  },
-  {
-   "club": "Folsom Lake Surf Club",
-   "id": "300389122",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Central Cal Aztecs",
-   "id": "300390555",
-   "name": "DPL"
-  },
-  {
    "club": "Stanislaus United Soccer Club",
-   "id": "300389349",
-   "name": "SC ECNL RL"
+   "id": "300389486",
+   "name": "Stanislaus United ECNL RL"
   },
   {
-   "club": "Walnut Creek Surf Soccer Club",
-   "id": "300389424",
-   "name": "Walnut Creek Surf White (CA)"
-  },
-  {
-   "club": "Revolution SC",
-   "id": "300389238",
-   "name": "East County ECNL RL"
-  },
-  {
-   "club": "City SC - San Marcos",
-   "id": "300390342",
-   "name": "2013DPL"
-  },
-  {
-   "club": "Blues FC",
-   "id": "300469814",
-   "name": "GA"
-  },
-  {
-   "club": "SoCal Reds FC",
-   "id": "300474155",
-   "name": "DPLO KS"
-  },
-  {
-   "club": "Santa Rosa United Soccer",
-   "id": "300518723",
-   "name": "Santa Rosa United ECNL RL"
-  },
-  {
-   "club": "Football Club Alliance",
-   "id": "300389283",
-   "name": "FCA Blue (CA)"
-  },
-  {
-   "club": "Surf San Diego North",
-   "id": "300514216",
-   "name": "Premier (CA)"
-  },
-  {
-   "club": "Pleasanton Rage",
-   "id": "300389201",
-   "name": "Pleasanton RAGE"
-  },
-  {
-   "club": "City SC Southwest",
-   "id": "300514263",
-   "name": "DPL"
-  },
-  {
-   "club": "San Diego FORCE FC",
-   "id": "300390635",
-   "name": "Girls Academy"
-  },
-  {
-   "club": "Desert Empire Surf",
-   "id": "300390538",
-   "name": "DPLO"
-  },
-  {
-   "club": "Lazers SC",
-   "id": "300482882",
-   "name": "White"
-  },
-  {
-   "club": "Empire Soccer Club",
-   "id": "300390589",
-   "name": "Empire SC"
+   "club": "East County Revolution FC",
+   "id": "11784603",
+   "name": "Revolution FC ECNL RL"
   },
   {
    "club": "Lazers Soccer Club",
@@ -1411,24 +1106,194 @@
    "name": "Lazers Red"
   },
   {
+   "club": "Eastshore Alliance FC",
+   "id": "300486749",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Revolution SC",
+   "id": "300389238",
+   "name": "East County ECNL RL"
+  },
+  {
+   "club": "Tudela Futbol Club Los Angeles",
+   "id": "300390572",
+   "name": "LA Blue"
+  },
+  {
+   "club": "Force",
+   "id": "300542640",
+   "name": "CA) ECNL"
+  },
+  {
+   "club": "Albion SC Antelope Valley",
+   "id": "300390397",
+   "name": "DPL"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "12046098",
+   "name": "FC Long Beach Soler/Petrus NC"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300514246",
+   "name": "LB Zavala (CA)"
+  },
+  {
+   "club": "San Clemente Surf Soccer",
+   "id": "300390378",
+   "name": "Ozuna"
+  },
+  {
+   "club": "Foothill Storm Soccer Club",
+   "id": "300390515",
+   "name": "G2013"
+  },
+  {
+   "club": "Placer United Soccer Club",
+   "id": "300389392",
+   "name": "Placer United ECNL RL"
+  },
+  {
+   "club": "De Anza Force SC",
+   "id": "300389335",
+   "name": "Force ECNL"
+  },
+  {
+   "club": "SDSC Surf Escondido",
+   "id": "300514266",
+   "name": "BLACK-ESC"
+  },
+  {
+   "club": "Central Coast United SC",
+   "id": "300389332",
+   "name": "Central Coast United DPL"
+  },
+  {
+   "club": "City SC Kings County",
+   "id": "11784599",
+   "name": "Kings County ECNL RL"
+  },
+  {
+   "club": "City SC",
+   "id": "300390634",
+   "name": "Carlsbad Premier - Lennox"
+  },
+  {
+   "club": "San Francisco Glens Soccer Club",
+   "id": "300389221",
+   "name": "SF Glens Academy II"
+  },
+  {
+   "club": "SoCal Reds FC",
+   "id": "300514222",
+   "name": "DPLO"
+  },
+  {
+   "club": "Empire Soccer Club",
+   "id": "300490881",
+   "name": "Empire SC"
+  },
+  {
+   "club": "Bakersfield Alliance",
+   "id": "300482891",
+   "name": "GU14"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390341",
+   "name": "Burbank Blue"
+  },
+  {
+   "club": "CV Futbol Academy",
+   "id": "300504462",
+   "name": "CVFA White"
+  },
+  {
+   "club": "FC Golden State",
+   "id": "300390376",
+   "name": "Force Woodbury"
+  },
+  {
+   "club": "Athletic Soccer Club",
+   "id": "300514234",
+   "name": "Los Angeles"
+  },
+  {
+   "club": "Legends FC SCV",
+   "id": "300390825",
+   "name": "Black"
+  },
+  {
+   "club": "Chelsea OC",
+   "id": "300390437",
+   "name": "DS"
+  },
+  {
+   "club": "LAFC So Cal",
+   "id": "300481063",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Burlingame Soccer Club",
+   "id": "300389279",
+   "name": "N1 G2012/13"
+  },
+  {
    "club": "Clovis Crossfire",
    "id": "300389191",
    "name": "Aspire"
   },
   {
-   "club": "Legends FC",
-   "id": "300484589",
-   "name": "SGV"
+   "club": "California Football Academy",
+   "id": "300390331",
+   "name": "CFA OC Soza"
   },
   {
-   "club": "Temecula FC",
-   "id": "300504562",
-   "name": "Temecula FC"
+   "club": "Football Club Alliance",
+   "id": "300389283",
+   "name": "FCA Blue (CA)"
   },
   {
-   "club": "Los Gatos United Soccer Club",
-   "id": "300389364",
+   "club": "Downtown LA Soccer Club",
+   "id": "300390473",
+   "name": "Downtown LA Soccer Club"
+  },
+  {
+   "club": "Folsom Lake Surf Club",
+   "id": "300389122",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Merced United FC",
+   "id": "300389502",
+   "name": "MUFC White"
+  },
+  {
+   "club": "Santa Rosa United Soccer",
+   "id": "300518723",
+   "name": "Santa Rosa United ECNL RL"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300487654",
+   "name": "DPL"
+  },
+  {
+   "club": "Albion SC Riverside",
+   "id": "300390327",
+   "name": "DPL"
+  },
+  {
+   "club": "Empire Surf",
+   "id": "300390560",
+   "name": "Empire Surf ECRL (CA)"
+  },
+  {
+   "club": "MANTECA FUTBOL CLUB",
+   "id": "300389309",
+   "name": "Manteca FC Red (CA)"
   },
   {
    "club": "City SC Southwest",
@@ -1436,19 +1301,94 @@
    "name": "CITY SC SW White TEM"
   },
   {
-   "club": "Vacaville United Soccer Club",
-   "id": "300389383",
-   "name": "VUSC Premier(CA)"
+   "club": "Girls Unite",
+   "id": "300389352",
+   "name": "Revolution (CA)"
   },
   {
-   "club": "Granite Bay FC",
-   "id": "300389302",
-   "name": "Sirens"
+   "club": "LA Surf Soccer Club",
+   "id": "300469818",
+   "name": "GA"
   },
   {
-   "club": "Laguna United FC",
-   "id": "300497134",
-   "name": "GU14-Blue"
+   "club": "Inland Empire Futbol Club",
+   "id": "300390426",
+   "name": "Gold"
+  },
+  {
+   "club": "AYSO UNITED",
+   "id": "300390621",
+   "name": "AYSO United DPL"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390385",
+   "name": "Channel Islands"
+  },
+  {
+   "club": "LA Surf Soccer Club",
+   "id": "300504556",
+   "name": "LA Surf DPL"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300390460",
+   "name": "ES Muggleton"
+  },
+  {
+   "club": "Lazers SC",
+   "id": "300482882",
+   "name": "White"
+  },
+  {
+   "club": "Stanislaus United Soccer Club",
+   "id": "300389349",
+   "name": "SC ECNL RL"
+  },
+  {
+   "club": "SoCal Reds FC",
+   "id": "300474155",
+   "name": "DPLO KS"
+  },
+  {
+   "club": "Oceanside",
+   "id": "300390573",
+   "name": "Breakers Extra"
+  },
+  {
+   "club": "Mustang Soccer",
+   "id": "300389401",
+   "name": "Elite I"
+  },
+  {
+   "club": "Walnut Creek Surf Soccer Club",
+   "id": "300389424",
+   "name": "Walnut Creek Surf White (CA)"
+  },
+  {
+   "club": "FC Premier",
+   "id": "300390492",
+   "name": "HB - Blue"
+  },
+  {
+   "club": "Central Cal Aztecs",
+   "id": "300390555",
+   "name": "DPL"
+  },
+  {
+   "club": "Rebels Soccer Club",
+   "id": "300390844",
+   "name": "ECNL RL S.Cal"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300484589",
+   "name": "SGV"
+  },
+  {
+   "club": "Desert Empire Surf",
+   "id": "300390538",
+   "name": "DPLO"
   },
   {
    "club": "Los Angeles Football Club",
@@ -1456,54 +1396,79 @@
    "name": "Black"
   },
   {
-   "club": "Fury FC",
-   "id": "300390504",
-   "name": "(CA)"
+   "club": "Empire Soccer Club",
+   "id": "300390589",
+   "name": "Empire SC"
   },
   {
-   "club": "Ceres Rush",
-   "id": "300389166",
-   "name": "Dynamo DPL (CA)"
+   "club": "CDA Slammers",
+   "id": "300390390",
+   "name": "NL I"
   },
   {
-   "club": "OV Toros FC",
-   "id": "300389475",
-   "name": "Academy (CA)"
+   "club": "Los Angeles Football Club",
+   "id": "300390413",
+   "name": "OQ"
   },
   {
-   "club": "CSFUTSAL",
-   "id": "300482854",
-   "name": "CSFUTSAL"
+   "club": "San Diego Surf Soccer Club",
+   "id": "300514205",
+   "name": "San Diego Surf ECNL RL S.Cal"
   },
   {
-   "club": "Valley United Soccer Club Association",
-   "id": "300389102",
-   "name": "Girls White"
-  },
-  {
-   "club": "Oxnard United Soccer Club",
-   "id": "300389114",
-   "name": "Blue"
-  },
-  {
-   "club": "Anaheim Soccer Association",
-   "id": "300504550",
-   "name": "GU13-Ugarte"
-  },
-  {
-   "club": "Rangers FC",
-   "id": "300514219",
+   "club": "Chula Vista Futbol Club",
+   "id": "300390391",
    "name": "DPL"
   },
   {
-   "club": "Diablo Valley Futbol Club",
-   "id": "300389162",
-   "name": "Diablo Valley FC ECNL RL"
+   "club": "City SC - San Marcos",
+   "id": "300390342",
+   "name": "2013DPL"
   },
   {
-   "club": "Discovery FC",
-   "id": "300486527",
-   "name": "- OC"
+   "club": "City SC Southwest",
+   "id": "300514263",
+   "name": "DPL"
+  },
+  {
+   "club": "Blues FC",
+   "id": "300469814",
+   "name": "GA"
+  },
+  {
+   "club": "Pleasanton Rage",
+   "id": "300389201",
+   "name": "Pleasanton RAGE"
+  },
+  {
+   "club": "Legends FC SD North",
+   "id": "300390407",
+   "name": "NL Premier"
+  },
+  {
+   "club": "Granite Bay FC",
+   "id": "300389302",
+   "name": "Sirens"
+  },
+  {
+   "club": "Surf San Diego North",
+   "id": "300514216",
+   "name": "Premier (CA)"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300390456",
+   "name": "HB NPL"
+  },
+  {
+   "club": "Los Gatos United Soccer Club",
+   "id": "300389364",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300534044",
+   "name": "(CA)"
   },
   {
    "club": "Downey Futbol Club",
@@ -1511,13 +1476,118 @@
    "name": "Blue"
   },
   {
+   "club": "San Diego FORCE FC",
+   "id": "300487963",
+   "name": "Academy"
+  },
+  {
+   "club": "CSFUTSAL",
+   "id": "300482854",
+   "name": "CSFUTSAL"
+  },
+  {
    "club": "North Coast Futbol Club",
    "id": "300491816",
    "name": "North Coast FC Red"
   },
   {
-   "club": "City SC",
-   "id": "300390486",
+   "club": "Beach Futbol Club",
+   "id": "300390595",
+   "name": "LB Gonzalez"
+  },
+  {
+   "club": "OV Toros FC",
+   "id": "300389475",
+   "name": "Academy (CA)"
+  },
+  {
+   "club": "Inland Surf",
+   "id": "300390320",
+   "name": "Inland Surf DPL"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300514203",
+   "name": "Gold (CA)"
+  },
+  {
+   "club": "South Tahoe FC",
+   "id": "300389143",
+   "name": "South Tahoe FC Girls"
+  },
+  {
+   "club": "Diablo Valley Futbol Club",
+   "id": "300389162",
+   "name": "Diablo Valley FC ECNL RL"
+  },
+  {
+   "club": "Oxnard United Soccer Club",
+   "id": "300389114",
+   "name": "Blue"
+  },
+  {
+   "club": "Elk Grove Soccer",
+   "id": "300389300",
+   "name": "Elite"
+  },
+  {
+   "club": "Association Football",
+   "id": "300389213",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Rangers FC",
+   "id": "300514219",
+   "name": "DPL"
+  },
+  {
+   "club": "California Athletic SC",
+   "id": "300390423",
+   "name": "Navy"
+  },
+  {
+   "club": "Monterey County Soccer-ECFC Salinas",
+   "id": "300389410",
+   "name": "ECFC Green"
+  },
+  {
+   "club": "SF United FC",
+   "id": "300389323",
+   "name": "SF United Infinity ECNL RL"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300390466",
+   "name": "Cerritos Trujillo Jr"
+  },
+  {
+   "club": "Los Angeles Football Club",
+   "id": "300514197",
+   "name": "OQ"
+  },
+  {
+   "club": "Fury FC (S-CA)",
+   "id": "300390442",
+   "name": "Fury FC G White"
+  },
+  {
+   "club": "SDSC Surf Soccer Club",
+   "id": "300390793",
+   "name": "Black"
+  },
+  {
+   "club": "Discovery FC",
+   "id": "300486527",
+   "name": "- OC"
+  },
+  {
+   "club": "Empire Surf",
+   "id": "300531045",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Woodland Soccer Club",
+   "id": "300389195",
    "name": "Aspire"
   },
   {
@@ -1526,9 +1596,14 @@
    "name": "Red"
   },
   {
-   "club": "Inland Surf",
-   "id": "300390320",
-   "name": "Inland Surf DPL"
+   "club": "El Dorado Hills Soccer Club",
+   "id": "300389175",
+   "name": "I"
+  },
+  {
+   "club": "Temecula FC",
+   "id": "300504562",
+   "name": "Temecula FC"
   },
   {
    "club": "Juventus Academy Los Angeles",
@@ -1536,18 +1611,88 @@
    "name": "Juventus Academy Los Angeles Black"
   },
   {
-   "club": "Legends FC",
-   "id": "300514203",
-   "name": "Gold (CA)"
+   "club": "Elk Grove Soccer",
+   "id": "300389301",
+   "name": "Elk Grove Soccer Platinum"
   },
   {
-   "club": "Monterey County Soccer-ECFC Salinas",
-   "id": "300389410",
-   "name": "ECFC Green"
+   "club": "Strikers Orange",
+   "id": "300390505",
+   "name": "GU14-AU"
   },
   {
-   "club": "Legends FC",
-   "id": "300534044",
+   "club": "Ceres Rush",
+   "id": "300389166",
+   "name": "Dynamo DPL (CA)"
+  },
+  {
+   "club": "Marin Football Club",
+   "id": "300389438",
+   "name": "Marin FC ECNL RL"
+  },
+  {
+   "club": "Chelsea OC",
+   "id": "300514258",
+   "name": "GU14-EM"
+  },
+  {
+   "club": "Chelsea OC",
+   "id": "300491840",
+   "name": "GU14-RS"
+  },
+  {
+   "club": "Central Valley Premier FC",
+   "id": "300389495",
+   "name": "Elite"
+  },
+  {
+   "club": "Sunnyvale Alliance SC",
+   "id": "300481019",
+   "name": "White"
+  },
+  {
+   "club": "Chelsea OC",
+   "id": "300514267",
+   "name": "GU14-JB"
+  },
+  {
+   "club": "SDSC Surf Escondido",
+   "id": "300390631",
+   "name": "BLUE-ESC"
+  },
+  {
+   "club": "Sporting California USA",
+   "id": "300485298",
+   "name": "Bakersfield Truelson"
+  },
+  {
+   "club": "North Marin United",
+   "id": "300389387",
+   "name": "Girls Green"
+  },
+  {
+   "club": "Valley United Soccer Club Association",
+   "id": "300389102",
+   "name": "Girls White"
+  },
+  {
+   "club": "Stanislaus Surf Soccer Club",
+   "id": "300542632",
+   "name": "Stanislaus Surf ECNL RL"
+  },
+  {
+   "club": "Vacaville United Soccer Club",
+   "id": "300389383",
+   "name": "VUSC Premier(CA)"
+  },
+  {
+   "club": "Culver City Football Club",
+   "id": "300390585",
+   "name": "DPL"
+  },
+  {
+   "club": "Fury FC",
+   "id": "300390504",
    "name": "(CA)"
   },
   {
@@ -1556,209 +1701,19 @@
    "name": "ECNL RL"
   },
   {
+   "club": "California Football Academy",
+   "id": "300390393",
+   "name": "CFA OC SC Carrilo"
+  },
+  {
+   "club": "Laguna United FC",
+   "id": "300497134",
+   "name": "GU14-Blue"
+  },
+  {
    "club": "Antelope Valley Futbol Club",
    "id": "300390525",
    "name": "- Lopez"
-  },
-  {
-   "club": "Central Coast United SC",
-   "id": "300531038",
-   "name": "(CA)"
-  },
-  {
-   "club": "San Diego Surf Soccer Club",
-   "id": "300514205",
-   "name": "San Diego Surf ECNL RL S.Cal"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390456",
-   "name": "HB NPL"
-  },
-  {
-   "club": "FC Premier",
-   "id": "12067455",
-   "name": "FC Premier NL"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390466",
-   "name": "Cerritos Trujillo Jr"
-  },
-  {
-   "club": "Strikers Orange",
-   "id": "300390505",
-   "name": "GU14-AU"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390439",
-   "name": "Conejo Valley"
-  },
-  {
-   "club": "SF United FC",
-   "id": "300389323",
-   "name": "SF United Infinity ECNL RL"
-  },
-  {
-   "club": "LASC-SCV",
-   "id": "300481060",
-   "name": "Black"
-  },
-  {
-   "club": "Chelsea OC",
-   "id": "300514267",
-   "name": "GU14-JB"
-  },
-  {
-   "club": "Woodland Soccer Club",
-   "id": "300389195",
-   "name": "Aspire"
-  },
-  {
-   "club": "El Dorado Hills Soccer Club",
-   "id": "300389175",
-   "name": "I"
-  },
-  {
-   "club": "City SC",
-   "id": "300487653",
-   "name": "Carlsbad Premier - Hansford"
-  },
-  {
-   "club": "Slammers FC HB Koge",
-   "id": "11784699",
-   "name": "ECNL RL S.Cal"
-  },
-  {
-   "club": "North Marin United",
-   "id": "300389387",
-   "name": "Girls Green"
-  },
-  {
-   "club": "Culver City Football Club",
-   "id": "300390585",
-   "name": "DPL"
-  },
-  {
-   "club": "Legends FC SD North",
-   "id": "300390407",
-   "name": "NL Premier"
-  },
-  {
-   "club": "Chelsea OC",
-   "id": "300491840",
-   "name": "GU14-RS"
-  },
-  {
-   "club": "Elk Grove Soccer",
-   "id": "300389300",
-   "name": "Elite"
-  },
-  {
-   "club": "San Juan Soccer Club",
-   "id": "300389331",
-   "name": "Spirits White"
-  },
-  {
-   "club": "Mill Valley Soccer Club",
-   "id": "300389369",
-   "name": "United Girls"
-  },
-  {
-   "club": "Tiffiny's Soccer Club",
-   "id": "300389242",
-   "name": "- Rodriguez"
-  },
-  {
-   "club": "East Bay United",
-   "id": "300491812",
-   "name": "Bay Oaks Premier"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300514250",
-   "name": "DBWV Sandhu/Ramos"
-  },
-  {
-   "club": "San Diego FORCE FC",
-   "id": "300487963",
-   "name": "Academy"
-  },
-  {
-   "club": "Fury FC (S-CA)",
-   "id": "300390442",
-   "name": "Fury FC G White"
-  },
-  {
-   "club": "Sonoma County Premier",
-   "id": "300389337",
-   "name": "Girls"
-  },
-  {
-   "club": "Red Star Soccer Academy",
-   "id": "300389326",
-   "name": "Red Star Red"
-  },
-  {
-   "club": "Stanislaus Surf Soccer Club",
-   "id": "300542632",
-   "name": "Stanislaus Surf ECNL RL"
-  },
-  {
-   "club": "Central Valley Premier FC",
-   "id": "300389495",
-   "name": "Elite"
-  },
-  {
-   "club": "Folsom Lake Surf Club",
-   "id": "300486746",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390457",
-   "name": "Santa Clarita White"
-  },
-  {
-   "club": "ALBION SC Santa Ana",
-   "id": "300390298",
-   "name": "Antelope Valley Academy"
-  },
-  {
-   "club": "Sporting California USA",
-   "id": "300485298",
-   "name": "Bakersfield Truelson"
-  },
-  {
-   "club": "1974 Newark FC",
-   "id": "300389177",
-   "name": "ORANGE"
-  },
-  {
-   "club": "Sunnyvale Alliance SC",
-   "id": "300481019",
-   "name": "White"
-  },
-  {
-   "club": "SDSC Surf Escondido",
-   "id": "300390631",
-   "name": "BLUE-ESC"
-  },
-  {
-   "club": "Zeta Academy",
-   "id": "300390808",
-   "name": "REX (CA)"
-  },
-  {
-   "club": "Eastshore Alliance FC",
-   "id": "300389316",
-   "name": "Pre-APX Orange"
-  },
-  {
-   "club": "Legends FC Santa Clarita",
-   "id": "300514233",
-   "name": "SCV GOLD"
   },
   {
    "club": "City SC Southwest",
@@ -1766,149 +1721,19 @@
    "name": "CITY SC SW Gold MV"
   },
   {
-   "club": "Sporting California USA",
-   "id": "12067454",
-   "name": "Sporting CA USA NL"
+   "club": "CDA Slammers",
+   "id": "300514250",
+   "name": "DBWV Sandhu/Ramos"
   },
   {
-   "club": "Association Football",
-   "id": "300389213",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Los Angeles Football Club",
-   "id": "300514197",
-   "name": "OQ"
-  },
-  {
-   "club": "Oxnard Wave Soccer Club",
-   "id": "300390547",
-   "name": "-"
-  },
-  {
-   "club": "Crusaders Soccer League",
-   "id": "300514253",
-   "name": "Arc (CA)"
-  },
-  {
-   "club": "SDSC Surf Escondido",
-   "id": "300390323",
-   "name": "BLACK-ESC"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390826",
-   "name": "Legends FC"
-  },
-  {
-   "club": "West Coast Soccer",
-   "id": "300389341",
-   "name": "West Coast Kosmos"
-  },
-  {
-   "club": "ALBION SC San Diego",
-   "id": "300504531",
-   "name": "Albion SC San Diego Aspire"
-  },
-  {
-   "club": "Angels FC",
-   "id": "300476546",
-   "name": "Angels FC"
-  },
-  {
-   "club": "San Clemente Surf Soccer",
-   "id": "300514259",
-   "name": "Ozuna"
-  },
-  {
-   "club": "San Diego Rush Soccer Club",
-   "id": "300390353",
-   "name": "(Johnston) RSD"
-  },
-  {
-   "club": "Lodi FC",
-   "id": "300389150",
-   "name": "2013/2014G"
-  },
-  {
-   "club": "Laguna United Football Club",
-   "id": "300390522",
-   "name": "LUFC White"
-  },
-  {
-   "club": "FLYTE SC IE",
-   "id": "300390414",
-   "name": "DPL"
-  },
-  {
-   "club": "Albion SC San Diego",
-   "id": "300514241",
+   "club": "City SC",
+   "id": "300390486",
    "name": "Aspire"
   },
   {
-   "club": "Davis United",
-   "id": "300389269",
-   "name": "Blue"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390507",
-   "name": "Yucaipa FC"
-  },
-  {
-   "club": "Mt. Diablo Mustang Soccer",
-   "id": "300389372",
-   "name": "MDM Red"
-  },
-  {
-   "club": "North State Soccer",
-   "id": "300389141",
-   "name": "MissFits"
-  },
-  {
-   "club": "SDSC Surf Soccer Club",
-   "id": "300390793",
+   "club": "LASC-SCV",
+   "id": "300481060",
    "name": "Black"
-  },
-  {
-   "club": "California Football Academy",
-   "id": "300390393",
-   "name": "CFA OC SC Carrilo"
-  },
-  {
-   "club": "La Jolla Impact",
-   "id": "300485631",
-   "name": "McManus"
-  },
-  {
-   "club": "California Magic Soccer Club",
-   "id": "300389406",
-   "name": "Cal Magic - West"
-  },
-  {
-   "club": "Sporting Slammers FC",
-   "id": "300390481",
-   "name": "DPLO"
-  },
-  {
-   "club": "Joga Bonito FC",
-   "id": "300482889",
-   "name": "JOGA"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390382",
-   "name": "NOC Gomez"
-  },
-  {
-   "club": "Butte United Soccer Club",
-   "id": "300389327",
-   "name": "Black"
-  },
-  {
-   "club": "Express Soccer",
-   "id": "300489818",
-   "name": "Premier Scarfeo"
   },
   {
    "club": "Allstars SC",
@@ -1916,59 +1741,34 @@
    "name": "Red"
   },
   {
-   "club": "Chelsea OC",
-   "id": "300514258",
-   "name": "GU14-EM"
+   "club": "Mill Valley Soccer Club",
+   "id": "300389369",
+   "name": "United Girls"
   },
   {
-   "club": "Almaden FC",
-   "id": "300389254",
-   "name": "Quicksilver Black"
+   "club": "FLYTE SC IE",
+   "id": "300390414",
+   "name": "DPL"
   },
   {
-   "club": "Ventura County United",
-   "id": "300390757",
-   "name": "Ventura County United"
+   "club": "1974 Newark FC",
+   "id": "300389177",
+   "name": "ORANGE"
   },
   {
-   "club": "Rebels Soccer Club",
-   "id": "300390532",
-   "name": "Academy"
+   "club": "San Clemente Surf Soccer",
+   "id": "300514259",
+   "name": "Ozuna"
   },
   {
-   "club": "LA Breakers FC",
-   "id": "300390420",
-   "name": "Long Beach White"
+   "club": "SDSC Surf Escondido",
+   "id": "300390323",
+   "name": "BLACK-ESC"
   },
   {
    "club": "Empire Surf",
-   "id": "300531045",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Folsom Lake Surf Club",
-   "id": "300389110",
-   "name": "Premier I"
-  },
-  {
-   "club": "Downey Futbol Club",
-   "id": "300390623",
-   "name": "Orange"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390506",
-   "name": "North Castillon Maroon"
-  },
-  {
-   "club": "De Anza Force SC",
-   "id": "11964088",
-   "name": "Force Blue"
-  },
-  {
-   "club": "Santa Cruz United Football Club",
-   "id": "300389313",
-   "name": "ECNL RL Girls"
+   "id": "300390512",
+   "name": "G2013 Academy-1"
   },
   {
    "club": "LA Surf Soccer Club",
@@ -1981,109 +1781,24 @@
    "name": "GU14"
   },
   {
-   "club": "San Francisco Elite Academy",
-   "id": "300389127",
-   "name": "SFEA Orange"
+   "club": "Santa Cruz United Football Club",
+   "id": "300389313",
+   "name": "ECNL RL Girls"
   },
   {
-   "club": "Lamorinda SC",
-   "id": "300389167",
-   "name": "Aspire"
+   "club": "Laguna United Football Club",
+   "id": "300390522",
+   "name": "LUFC White"
   },
   {
-   "club": "Valley United Soccer Club",
-   "id": "300390812",
-   "name": "Wilson"
+   "club": "Legends FC Santa Clarita",
+   "id": "300514233",
+   "name": "SCV GOLD"
   },
   {
-   "club": "Marin Football Club",
-   "id": "300389438",
-   "name": "Marin FC ECNL RL"
-  },
-  {
-   "club": "Milpitas YSL",
-   "id": "300389260",
-   "name": "FC Milpitas Tigers"
-  },
-  {
-   "club": "Mustang Soccer",
-   "id": "300389116",
-   "name": "Mustang SC United FC"
-  },
-  {
-   "club": "Dublin United",
-   "id": "300389374",
-   "name": "DPL"
-  },
-  {
-   "club": "City SC Southwest",
-   "id": "300485303",
-   "name": "MV PREMIER"
-  },
-  {
-   "club": "SF Aftershocks FC",
-   "id": "300389147",
-   "name": "Black"
-  },
-  {
-   "club": "Oaks Futbol Club",
-   "id": "300390475",
-   "name": "DPL"
-  },
-  {
-   "club": "Palo Alto Soccer Club",
-   "id": "300389173",
-   "name": "Palo Alto SC"
-  },
-  {
-   "club": "CV Futbol Academy",
-   "id": "300389165",
-   "name": "CVFA"
-  },
-  {
-   "club": "FC Premier",
-   "id": "300514269",
-   "name": "FT Blue"
-  },
-  {
-   "club": "Los Angeles Football Club",
-   "id": "300390579",
-   "name": "Cayatte"
-  },
-  {
-   "club": "Stanford Strikers FC",
-   "id": "300389359",
-   "name": "Red"
-  },
-  {
-   "club": "LA Breakers FC",
-   "id": "300390651",
-   "name": "ECNL-RL"
-  },
-  {
-   "club": "LA Surf Soccer Club",
-   "id": "300481058",
-   "name": "SW - SOCAL"
-  },
-  {
-   "club": "Boca Orange County",
-   "id": "300390628",
-   "name": "BOCA OC"
-  },
-  {
-   "club": "Napa United",
-   "id": "300389207",
-   "name": "Napa United NorCal"
-  },
-  {
-   "club": "Santa Rosa United Soccer",
-   "id": "300389384",
-   "name": "ECNL-RL - Blue"
-  },
-  {
-   "club": "Tulare Force FC",
-   "id": "300389329",
-   "name": "Tulare Force FC Aguilar CA"
+   "club": "Red Star Soccer Academy",
+   "id": "300389326",
+   "name": "Red Star Red"
   },
   {
    "club": "Athletic Soccer Club",
@@ -2091,24 +1806,159 @@
    "name": "South Bay"
   },
   {
+   "club": "Slammers FC HB Koge",
+   "id": "11784699",
+   "name": "ECNL RL S.Cal"
+  },
+  {
+   "club": "Albion SC San Diego",
+   "id": "300514241",
+   "name": "Aspire"
+  },
+  {
+   "club": "Davis United",
+   "id": "300389269",
+   "name": "Blue"
+  },
+  {
+   "club": "Mt. Diablo Mustang Soccer",
+   "id": "300389372",
+   "name": "MDM Red"
+  },
+  {
    "club": "Athletic Soccer Club",
-   "id": "300490880",
-   "name": "Burbank Navy"
+   "id": "300514229",
+   "name": "Inland Valley (CA)"
   },
   {
-   "club": "California Football Academy",
-   "id": "300390349",
-   "name": "CFA OC Fasel"
+   "club": "San Juan Soccer Club",
+   "id": "300389331",
+   "name": "Spirits White"
   },
   {
-   "club": "East Bay Eclipse Soccer Club",
-   "id": "300389457",
-   "name": "Girls Lunar"
+   "club": "City SC",
+   "id": "300487653",
+   "name": "Carlsbad Premier - Hansford"
   },
   {
-   "club": "Mendocino County Sports Academy",
-   "id": "300531014",
-   "name": "MCSA Girls"
+   "club": "Legends FC",
+   "id": "300390507",
+   "name": "Yucaipa FC"
+  },
+  {
+   "club": "Folsom Lake Surf Club",
+   "id": "300486746",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Rebels Soccer Club",
+   "id": "300390532",
+   "name": "Academy"
+  },
+  {
+   "club": "FC Premier",
+   "id": "12067455",
+   "name": "FC Premier NL"
+  },
+  {
+   "club": "Lamorinda SC",
+   "id": "300389167",
+   "name": "Aspire"
+  },
+  {
+   "club": "Dublin United",
+   "id": "300389374",
+   "name": "DPL"
+  },
+  {
+   "club": "Zeta Academy",
+   "id": "300390808",
+   "name": "REX (CA)"
+  },
+  {
+   "club": "Central Coast United SC",
+   "id": "300531038",
+   "name": "(CA)"
+  },
+  {
+   "club": "Almaden FC",
+   "id": "300389254",
+   "name": "Quicksilver Black"
+  },
+  {
+   "club": "CV Futbol Academy",
+   "id": "300389165",
+   "name": "CVFA"
+  },
+  {
+   "club": "Folsom Lake Surf Club",
+   "id": "300389110",
+   "name": "Premier I"
+  },
+  {
+   "club": "Sporting California USA",
+   "id": "12067454",
+   "name": "Sporting CA USA NL"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390457",
+   "name": "Santa Clarita White"
+  },
+  {
+   "club": "Los Angeles Football Club",
+   "id": "300390579",
+   "name": "Cayatte"
+  },
+  {
+   "club": "San Francisco Elite Academy",
+   "id": "300389127",
+   "name": "SFEA Orange"
+  },
+  {
+   "club": "Crusaders Soccer League",
+   "id": "300514253",
+   "name": "Arc (CA)"
+  },
+  {
+   "club": "Santa Rosa United Soccer",
+   "id": "300389384",
+   "name": "ECNL-RL - Blue"
+  },
+  {
+   "club": "Express Soccer",
+   "id": "300489818",
+   "name": "Premier Scarfeo"
+  },
+  {
+   "club": "ALBION SC San Diego",
+   "id": "300504531",
+   "name": "Albion SC San Diego Aspire"
+  },
+  {
+   "club": "Angels FC",
+   "id": "300476546",
+   "name": "Angels FC"
+  },
+  {
+   "club": "Eastshore Alliance FC",
+   "id": "300389316",
+   "name": "Pre-APX Orange"
+  },
+  {
+   "club": "Butte United Soccer Club",
+   "id": "300389327",
+   "name": "Black"
+  },
+  {
+   "club": "Laguna United Football Club",
+   "id": "300497138",
+   "name": "GU13-White"
+  },
+  {
+   "club": "LA Breakers FC",
+   "id": "300390420",
+   "name": "Long Beach White"
   },
   {
    "club": "East Sacramento Youth Soccer Club",
@@ -2116,129 +1966,14 @@
    "name": "Lightning Strikers"
   },
   {
-   "club": "City SC",
-   "id": "300488158",
-   "name": "Carlsbad Gold - Bragg"
+   "club": "Eastshore Alliance FC",
+   "id": "300389119",
+   "name": "ECNL RL"
   },
   {
-   "club": "Central Valley Futbol Academy",
-   "id": "11784598",
-   "name": "CV Futbol Academy ECNL RL"
-  },
-  {
-   "club": "ALBION SC Santa Ana",
-   "id": "300390494",
-   "name": "Academy"
-  },
-  {
-   "club": "Loomis Youth Soccer Club",
-   "id": "300389385",
-   "name": "- Loomis Lightning"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390453",
-   "name": "South Bay White"
-  },
-  {
-   "club": "Empire Surf",
-   "id": "300390512",
-   "name": "G2013 Academy-1"
-  },
-  {
-   "club": "West Valley Soccer Club",
-   "id": "300389144",
-   "name": "WV Owls White"
-  },
-  {
-   "club": "Hollister Tremors",
-   "id": "300389262",
-   "name": "Hollister Tremors Black"
-  },
-  {
-   "club": "Pacifica United Soccer Club",
-   "id": "300389233",
-   "name": "Pacifica United SC Stingrays Blue"
-  },
-  {
-   "club": "Apple Valley Storm",
-   "id": "300474717",
-   "name": "GU13"
-  },
-  {
-   "club": "Ross Valley Breakers FC",
-   "id": "300389307",
-   "name": "Breakers Purple"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390424",
-   "name": "SGV Black"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300514232",
-   "name": "Yucaipa"
-  },
-  {
-   "club": "Association Football",
-   "id": "300486747",
-   "name": "Association FC RL"
-  },
-  {
-   "club": "SoCal Reds FC",
-   "id": "300390388",
-   "name": "Academy DPLO - KS"
-  },
-  {
-   "club": "Los Angeles Football Club",
-   "id": "300488820",
-   "name": "Grey"
-  },
-  {
-   "club": "FRESNO HEAT FC",
-   "id": "300389368",
-   "name": "GIRLS Starlettes"
-  },
-  {
-   "club": "MVLA San Jose",
-   "id": "300389319",
-   "name": "Girls Blue"
-  },
-  {
-   "club": "Allstars SC",
-   "id": "300389297",
-   "name": "Pre-Academy (CA)"
-  },
-  {
-   "club": "Vista Storm Soccer Club",
-   "id": "300390673",
-   "name": "Red"
-  },
-  {
-   "club": "California Football Academy",
-   "id": "300390335",
-   "name": "CFA OC Rutkowski"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390458",
-   "name": "Blue"
-  },
-  {
-   "club": "Peninsula Youth Soccer",
-   "id": "300389200",
-   "name": "Hurricanes White"
-  },
-  {
-   "club": "San Bruno Lowen 83",
-   "id": "300389379",
-   "name": "Tornadoes Black"
-  },
-  {
-   "club": "Atletico Santa Rosa",
-   "id": "300389310",
-   "name": "ASR Rangers"
+   "club": "Athletic Soccer Club",
+   "id": "300490880",
+   "name": "Burbank Navy"
   },
   {
    "club": "SF United FC",
@@ -2246,19 +1981,89 @@
    "name": "ECNL RL"
   },
   {
-   "club": "United SoCal",
-   "id": "300390429",
-   "name": "Santa Clarita Blue"
+   "club": "Sonoma County Premier",
+   "id": "300389337",
+   "name": "Girls"
   },
   {
-   "club": "Empire Surf",
-   "id": "300390377",
-   "name": "North"
+   "club": "California Magic Soccer Club",
+   "id": "300389406",
+   "name": "Cal Magic - West"
   },
   {
-   "club": "Socal Blaze SC",
-   "id": "300481070",
-   "name": "El Segundo"
+   "club": "San Diego Rush Soccer Club",
+   "id": "300390353",
+   "name": "(Johnston) RSD"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390424",
+   "name": "SGV Black"
+  },
+  {
+   "club": "SF Aftershocks FC",
+   "id": "300389147",
+   "name": "Black"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300390382",
+   "name": "NOC Gomez"
+  },
+  {
+   "club": "La Jolla Impact",
+   "id": "300485631",
+   "name": "McManus"
+  },
+  {
+   "club": "Sporting Slammers FC",
+   "id": "300390481",
+   "name": "DPLO"
+  },
+  {
+   "club": "City SC Southwest",
+   "id": "300485303",
+   "name": "MV PREMIER"
+  },
+  {
+   "club": "West Coast Soccer",
+   "id": "300389341",
+   "name": "West Coast Kosmos"
+  },
+  {
+   "club": "Anaheim Soccer Association",
+   "id": "300504550",
+   "name": "GU13-Ugarte"
+  },
+  {
+   "club": "City SC",
+   "id": "300488158",
+   "name": "Carlsbad Gold - Bragg"
+  },
+  {
+   "club": "North State Soccer",
+   "id": "300389141",
+   "name": "MissFits"
+  },
+  {
+   "club": "ALBION SC Santa Ana",
+   "id": "300390298",
+   "name": "Antelope Valley Academy"
+  },
+  {
+   "club": "Girls Unite",
+   "id": "300389183",
+   "name": "Girls Unite Power Black"
+  },
+  {
+   "club": "Oaks Futbol Club",
+   "id": "300390475",
+   "name": "DPL"
+  },
+  {
+   "club": "Downey Futbol Club",
+   "id": "300390623",
+   "name": "Orange"
   },
   {
    "club": "Progressive Soccer Ozzy FD",
@@ -2266,9 +2071,214 @@
    "name": "Yellow"
   },
   {
+   "club": "Ventura County United",
+   "id": "300390757",
+   "name": "Ventura County United"
+  },
+  {
+   "club": "Palo Alto Soccer Club",
+   "id": "300389173",
+   "name": "Palo Alto SC"
+  },
+  {
+   "club": "Bakersfield Alliance",
+   "id": "300390540",
+   "name": "Freedom"
+  },
+  {
+   "club": "City SC South Bay",
+   "id": "300390792",
+   "name": "DPLO"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300390704",
+   "name": "NB Blue"
+  },
+  {
+   "club": "LA Breakers FC",
+   "id": "300390651",
+   "name": "ECNL-RL"
+  },
+  {
+   "club": "Lodi FC",
+   "id": "300389150",
+   "name": "2013/2014G"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390826",
+   "name": "Legends FC"
+  },
+  {
+   "club": "Valley United Soccer Club",
+   "id": "300390812",
+   "name": "Wilson"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390453",
+   "name": "South Bay White"
+  },
+  {
+   "club": "ALBION SC Silicon Valley San Mateo",
+   "id": "300552808",
+   "name": "SM Academy"
+  },
+  {
+   "club": "Stanford Strikers FC",
+   "id": "300389359",
+   "name": "Red"
+  },
+  {
    "club": "Central Valley Premier FC",
    "id": "300389494",
    "name": "Lemoore"
+  },
+  {
+   "club": "Central Coast United SC",
+   "id": "300504539",
+   "name": "CCU DPL"
+  },
+  {
+   "club": "FC Premier",
+   "id": "300514269",
+   "name": "FT Blue"
+  },
+  {
+   "club": "Allstars SC",
+   "id": "300389297",
+   "name": "Pre-Academy (CA)"
+  },
+  {
+   "club": "Joga Bonito FC",
+   "id": "300482889",
+   "name": "JOGA"
+  },
+  {
+   "club": "Association Football",
+   "id": "300486747",
+   "name": "Association FC RL"
+  },
+  {
+   "club": "LA Surf Soccer Club",
+   "id": "300481058",
+   "name": "SW - SOCAL"
+  },
+  {
+   "club": "California Football Academy",
+   "id": "300390349",
+   "name": "CFA OC Fasel"
+  },
+  {
+   "club": "Oxnard Wave Soccer Club",
+   "id": "300390547",
+   "name": "-"
+  },
+  {
+   "club": "Albany Berkeley Soccer Club",
+   "id": "300389320",
+   "name": "ABSC Lightning Flash"
+  },
+  {
+   "club": "West Sacramento Soccer Club",
+   "id": "300389132",
+   "name": "West Sacramento Red (Roots)"
+  },
+  {
+   "club": "California Football Academy",
+   "id": "300390335",
+   "name": "CFA OC Rutkowski"
+  },
+  {
+   "club": "LA City United",
+   "id": "300390434",
+   "name": "Wilmington Black"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300390506",
+   "name": "North Castillon Maroon"
+  },
+  {
+   "club": "Milpitas YSL",
+   "id": "300389260",
+   "name": "FC Milpitas Tigers"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300489813",
+   "name": "SOC Black"
+  },
+  {
+   "club": "ALBION SC Santa Ana",
+   "id": "300390494",
+   "name": "Albionsc Santa Ana Academy"
+  },
+  {
+   "club": "Legends FC Desert Cities",
+   "id": "300390488",
+   "name": "GU14"
+  },
+  {
+   "club": "Oakley Youth Soccer Club",
+   "id": "300389111",
+   "name": "OYSC Crusaders"
+  },
+  {
+   "club": "Mustang Soccer",
+   "id": "300389116",
+   "name": "Mustang SC United FC"
+  },
+  {
+   "club": "Legends FC Santa Clarita",
+   "id": "300390549",
+   "name": "SCV GOLD"
+  },
+  {
+   "club": "San Bruno Lowen 83",
+   "id": "300389379",
+   "name": "Tornadoes Black"
+  },
+  {
+   "club": "Napa United",
+   "id": "300389207",
+   "name": "Napa United NorCal"
+  },
+  {
+   "club": "Vista Storm Soccer Club",
+   "id": "300390673",
+   "name": "Red"
+  },
+  {
+   "club": "West Valley Soccer Club",
+   "id": "300389144",
+   "name": "WV Owls White"
+  },
+  {
+   "club": "Socal Pride Futbol Club",
+   "id": "300390418",
+   "name": "Coach Ben"
+  },
+  {
+   "club": "Elk Grove Surf",
+   "id": "300389334",
+   "name": "Elk Grove Surf Gold (CA)"
+  },
+  {
+   "club": "Ross Valley Breakers FC",
+   "id": "300389307",
+   "name": "Breakers Purple"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300514255",
+   "name": "DPLO"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300504530",
+   "name": "LB Zavala"
   },
   {
    "club": "West Coast F.C.",
@@ -2276,9 +2286,39 @@
    "name": "Aspire"
   },
   {
+   "club": "TOTAL FUTBOL ACADEMY",
+   "id": "300390302",
+   "name": "TFA-SCV"
+  },
+  {
+   "club": "Athletic Soccer Club",
+   "id": "300492537",
+   "name": "Santa Clarita"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300514232",
+   "name": "Yucaipa"
+  },
+  {
+   "club": "Capo FC",
+   "id": "300390724",
+   "name": "-"
+  },
+  {
+   "club": "Empire Surf",
+   "id": "300390377",
+   "name": "North"
+  },
+  {
    "club": "Beach Futbol Club",
    "id": "300481056",
    "name": "SB I. Lopez"
+  },
+  {
+   "club": "Peninsula Youth Soccer",
+   "id": "300389200",
+   "name": "Hurricanes White"
   },
   {
    "club": "Valley Surf | America",
@@ -2291,309 +2331,14 @@
    "name": "LA Breakers ECNL RL"
   },
   {
-   "club": "Los Gatos United Soccer League",
-   "id": "300467380",
-   "name": "ECNL RL"
+   "club": "Los Angeles Football Club",
+   "id": "300488820",
+   "name": "Grey"
   },
   {
-   "club": "West Sacramento Soccer Club",
-   "id": "300389132",
-   "name": "West Sacramento Red (Roots)"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300390704",
-   "name": "NB Blue"
-  },
-  {
-   "club": "Legends FC - Del Mar",
-   "id": "300514273",
-   "name": "ECNL RL S.Cal"
-  },
-  {
-   "club": "Almaden FC",
-   "id": "300389462",
-   "name": "Quicksilver Green (CA)"
-  },
-  {
-   "club": "Capo FC",
-   "id": "300390724",
-   "name": "-"
-  },
-  {
-   "club": "Oakdale Soccer Club",
-   "id": "300389294",
-   "name": "Red"
-  },
-  {
-   "club": "FC Long Beach Blues",
-   "id": "300495344",
-   "name": "LB Red"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300487961",
-   "name": "NB Blue"
-  },
-  {
-   "club": "Legends FC Desert Cities",
-   "id": "300390488",
-   "name": "GU14"
-  },
-  {
-   "club": "Penguins Futbol Club",
-   "id": "300390577",
-   "name": "Penguins FC"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300390703",
-   "name": "SOC White"
-  },
-  {
-   "club": "Girls Unite",
-   "id": "300389183",
-   "name": "Girls Unite Power Black"
-  },
-  {
-   "club": "Legends FC Santa Clarita",
-   "id": "300390549",
-   "name": "SCV GOLD"
-  },
-  {
-   "club": "Turlock Academica Jrs",
-   "id": "300490856",
-   "name": "Academica Jrs Black"
-  },
-  {
-   "club": "Elk Grove Surf",
-   "id": "300389334",
-   "name": "Elk Grove Surf Gold (CA)"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300504530",
-   "name": "LB Zavala"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300489813",
-   "name": "SOC Black"
-  },
-  {
-   "club": "Chelsea OC",
-   "id": "300390501",
-   "name": "RS"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300390705",
-   "name": "South County Blue"
-  },
-  {
-   "club": "Sequoia FC",
-   "id": "300389169",
-   "name": "Girls"
-  },
-  {
-   "club": "Albion SC San Diego",
-   "id": "300514210",
-   "name": "CV Academy"
-  },
-  {
-   "club": "Express Soccer",
-   "id": "300390605",
-   "name": "Premier Scarfeo"
-  },
-  {
-   "club": "Albany Berkeley Soccer Club",
-   "id": "300389320",
-   "name": "ABSC Lightning Flash"
-  },
-  {
-   "club": "Laguna United Football Club",
-   "id": "300497138",
-   "name": "GU13-White"
-  },
-  {
-   "club": "Oakley Youth Soccer Club",
-   "id": "300389111",
-   "name": "OYSC Crusaders"
-  },
-  {
-   "club": "California Athletic SC",
-   "id": "300390423",
-   "name": "Navy"
-  },
-  {
-   "club": "Albion SC Riverside",
-   "id": "300482879",
-   "name": "Academy"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300514229",
-   "name": "Inland Valley (CA)"
-  },
-  {
-   "club": "Bakersfield Alliance",
-   "id": "300390540",
-   "name": "Freedom"
-  },
-  {
-   "club": "TOTAL FUTBOL ACADEMY",
-   "id": "300390302",
-   "name": "TFA-SCV"
-  },
-  {
-   "club": "WSC Crush",
-   "id": "300389142",
-   "name": "WSC Crush Girls Black"
-  },
-  {
-   "club": "San Ramon FC",
-   "id": "300389439",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300492537",
-   "name": "Santa Clarita"
-  },
-  {
-   "club": "JSC Soccer Club",
-   "id": "300389227",
-   "name": "JSC Black"
-  },
-  {
-   "club": "Strikers North FC",
-   "id": "300390590",
-   "name": "Black"
-  },
-  {
-   "club": "FC Premier",
-   "id": "11715373",
-   "name": "FC Premier DPLO"
-  },
-  {
-   "club": "El Camino FC Salinas",
-   "id": "300389156",
-   "name": "(CA)"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300482898",
-   "name": "East Valley (CA)"
-  },
-  {
-   "club": "Empire Surf",
-   "id": "300514211",
-   "name": "Academy North"
-  },
-  {
-   "club": "Valley United Soccer Club Association",
-   "id": "300514256",
-   "name": "DPL"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390333",
-   "name": "NL Premier"
-  },
-  {
-   "club": "SF United FC",
-   "id": "300486748",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Sacramento United",
-   "id": "300389274",
-   "name": "Red"
-  },
-  {
-   "club": "Legends San Diego",
-   "id": "300487960",
-   "name": "Gold NC"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300390509",
-   "name": "North Castillon White"
-  },
-  {
-   "club": "FC Golden State",
-   "id": "300390604",
-   "name": "Force"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300514255",
-   "name": "DPLO"
-  },
-  {
-   "club": "El Barrio FC",
-   "id": "300390482",
-   "name": "Barrio FA"
-  },
-  {
-   "club": "City SC",
-   "id": "300390291",
-   "name": "Carlsbad Gold - Binder"
-  },
-  {
-   "club": "Desert Empire Surf",
-   "id": "300502103",
-   "name": "Academy"
-  },
-  {
-   "club": "Emerald Football Club",
-   "id": "300389206",
-   "name": "EFC"
-  },
-  {
-   "club": "Truckee River United FC",
-   "id": "300389253",
-   "name": "TRUFC Girls -"
-  },
-  {
-   "club": "Santa Barbara Soccer Club",
-   "id": "300390433",
-   "name": "White - Fomin"
-  },
-  {
-   "club": "West Coast F.C.",
-   "id": "300482892",
-   "name": "Navy"
-  },
-  {
-   "club": "Socal Pride Futbol Club",
-   "id": "300390418",
-   "name": "Coach Ben"
-  },
-  {
-   "club": "Rebels Soccer Club",
-   "id": "300390332",
-   "name": "Rebels Carlsbad"
-  },
-  {
-   "club": "FC Corning",
-   "id": "300389348",
-   "name": "Panthers FC"
-  },
-  {
-   "club": "Eastshore Alliance FC",
-   "id": "300389119",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Peninsula Youth Soccer",
-   "id": "300389176",
-   "name": "Hurricanes Blue"
-  },
-  {
-   "club": "Strikers Orange",
-   "id": "300495343",
-   "name": "Red"
+   "club": "East Bay Eclipse Soccer Club",
+   "id": "300389457",
+   "name": "Girls Lunar"
   },
   {
    "club": "Belmont United",
@@ -2601,24 +2346,144 @@
    "name": "Belmont United Wolfsburg"
   },
   {
-   "club": "Pateadores Soccer Club",
-   "id": "300390371",
-   "name": "IRV"
-  },
-  {
-   "club": "Fc Man United",
-   "id": "300390526",
+   "club": "Oakdale Soccer Club",
+   "id": "300389294",
    "name": "Red"
   },
   {
-   "club": "Legends FC Santa Clarita",
-   "id": "300390530",
-   "name": "SCV"
+   "club": "Loomis Youth Soccer Club",
+   "id": "300389385",
+   "name": "- Loomis Lightning"
   },
   {
-   "club": "City SC Southwest",
-   "id": "300390575",
-   "name": "CITY SC SW Premier LE"
+   "club": "United SoCal",
+   "id": "300390429",
+   "name": "Santa Clarita Blue"
+  },
+  {
+   "club": "FC Long Beach Blues",
+   "id": "300495344",
+   "name": "LB Red"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390458",
+   "name": "Blue"
+  },
+  {
+   "club": "Santa Barbara Soccer Club",
+   "id": "300390433",
+   "name": "Santa Barbara Soccer Club White - Fomin"
+  },
+  {
+   "club": "Apple Valley Storm",
+   "id": "300474717",
+   "name": "GU13"
+  },
+  {
+   "club": "De Anza Force SC",
+   "id": "11964088",
+   "name": "Force Blue"
+  },
+  {
+   "club": "Penguins Futbol Club",
+   "id": "300390577",
+   "name": "Penguins FC"
+  },
+  {
+   "club": "Albion SC Riverside",
+   "id": "300482879",
+   "name": "Academy"
+  },
+  {
+   "club": "Almaden FC",
+   "id": "300389462",
+   "name": "Quicksilver Green (CA)"
+  },
+  {
+   "club": "City SC",
+   "id": "300390291",
+   "name": "Carlsbad Gold - Binder"
+  },
+  {
+   "club": "San Ramon FC",
+   "id": "300389439",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300487961",
+   "name": "NB Blue"
+  },
+  {
+   "club": "Tulare Force FC",
+   "id": "300389329",
+   "name": "Tulare Force FC Aguilar CA"
+  },
+  {
+   "club": "Atletico Santa Rosa",
+   "id": "300389310",
+   "name": "ASR Rangers"
+  },
+  {
+   "club": "MVLA San Jose",
+   "id": "300389319",
+   "name": "Girls Blue"
+  },
+  {
+   "club": "Turlock Academica Jrs",
+   "id": "300490856",
+   "name": "Academica Jrs Black"
+  },
+  {
+   "club": "Sacramento United",
+   "id": "300389274",
+   "name": "Red"
+  },
+  {
+   "club": "Socal Blaze SC",
+   "id": "300481070",
+   "name": "El Segundo"
+  },
+  {
+   "club": "Peninsula Youth Soccer",
+   "id": "300389176",
+   "name": "Hurricanes Blue"
+  },
+  {
+   "club": "Valley United Soccer Club Association",
+   "id": "300514256",
+   "name": "DPL"
+  },
+  {
+   "club": "FRESNO HEAT FC",
+   "id": "300389368",
+   "name": "GIRLS Starlettes"
+  },
+  {
+   "club": "Truckee River United FC",
+   "id": "300389253",
+   "name": "TRUFC Girls -"
+  },
+  {
+   "club": "Boca Orange County",
+   "id": "300390628",
+   "name": "BOCA OC"
+  },
+  {
+   "club": "Pacifica United Soccer Club",
+   "id": "300389233",
+   "name": "Pacifica United SC Stingrays Blue"
+  },
+  {
+   "club": "Sequoia FC",
+   "id": "300389169",
+   "name": "Girls"
+  },
+  {
+   "club": "Central Valley Futbol Academy",
+   "id": "11784598",
+   "name": "CV Futbol Academy ECNL RL"
   },
   {
    "club": "Alameda Soccer Club",
@@ -2626,249 +2491,9 @@
    "name": "Islanders Girls White"
   },
   {
-   "club": "LA City United",
-   "id": "300390434",
-   "name": "Wilmington Black"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300514237",
-   "name": "NB Black"
-  },
-  {
-   "club": "LA Surf Soccer Club",
-   "id": "300390600",
-   "name": "ASPIRE"
-  },
-  {
-   "club": "Legends FC SD (DMCV)",
-   "id": "300390599",
-   "name": "DM FC"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300504521",
-   "name": "SGV Black"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390508",
-   "name": "Orange County Black"
-  },
-  {
-   "club": "inland united soccer club",
-   "id": "300488499",
-   "name": "Warriors United FC"
-  },
-  {
-   "club": "Sunnyvale Alliance SC",
-   "id": "300389189",
-   "name": "Sunnyvale Red"
-  },
-  {
-   "club": "Los Angeles Football Club",
-   "id": "300514242",
-   "name": "Red"
-  },
-  {
-   "club": "Central Coast United SC",
-   "id": "300504539",
-   "name": "CCU DPL"
-  },
-  {
-   "club": "ThreeSixty Sala",
-   "id": "300389157",
-   "name": "ThreeSixty FC Orange"
-  },
-  {
-   "club": "Los Futboleros FC",
-   "id": "300390502",
-   "name": "Las Futboleras FC"
-  },
-  {
-   "club": "Chelsea OC",
-   "id": "300490879",
-   "name": "GU14-DS"
-  },
-  {
-   "club": "Almaden Football Club",
-   "id": "300389312",
-   "name": "Quicksilver White"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300390583",
-   "name": "LB I Ayala"
-  },
-  {
-   "club": "FC Fresno Academy",
-   "id": "300389324",
-   "name": "FC Fresno Academy"
-  },
-  {
-   "club": "Steel United California",
-   "id": "300390768",
-   "name": "CV Elite"
-  },
-  {
-   "club": "Burlingame Soccer Club",
-   "id": "300389184",
-   "name": "Burlingame SC Yellow"
-  },
-  {
    "club": "Empire Surf",
-   "id": "300390541",
-   "name": "North"
-  },
-  {
-   "club": "City SC South Bay",
-   "id": "300481059",
-   "name": "Premier"
-  },
-  {
-   "club": "City SC Southwest",
-   "id": "300489817",
-   "name": "MV GOLD"
-  },
-  {
-   "club": "Ajax United",
-   "id": "300514061",
-   "name": "Aspire"
-  },
-  {
-   "club": "Fremont Rush Soccer",
-   "id": "300389192",
-   "name": "Blue Gunners"
-  },
-  {
-   "club": "Express Soccer",
-   "id": "300390602",
-   "name": "Premier Owens"
-  },
-  {
-   "club": "Spartans FC CA",
-   "id": "300531041",
-   "name": "Spartans FC Girls"
-  },
-  {
-   "club": "City SC Kings County",
-   "id": "300389265",
-   "name": "(Blue)"
-  },
-  {
-   "club": "Sporting Football Club",
-   "id": "300390329",
-   "name": "GU14"
-  },
-  {
-   "club": "Long Beach United Extra",
-   "id": "300476548",
-   "name": "Long Beach United Extra"
-  },
-  {
-   "club": "City SC Southwest",
-   "id": "300488159",
-   "name": "MV GOLD II"
-  },
-  {
-   "club": "Santa Rosa Empire Soccer Club",
-   "id": "300389272",
-   "name": "Eclipse"
-  },
-  {
-   "club": "Hollister Tremors",
-   "id": "300389292",
-   "name": "Hollister Tremors Blue"
-  },
-  {
-   "club": "Santa Cruz City Soccer Club",
-   "id": "300389390",
-   "name": "SANTA CRUZ JAWS BLUE"
-  },
-  {
-   "club": "Vaqueros FC",
-   "id": "300390321",
-   "name": "PREMIER"
-  },
-  {
-   "club": "Union Sacramento FC",
-   "id": "300389220",
-   "name": "Union FC"
-  },
-  {
-   "club": "Crusaders Soccer League",
-   "id": "12046557",
-   "name": "- Erdkamp"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390472",
-   "name": "South Bay Blue"
-  },
-  {
-   "club": "Capo FC",
-   "id": "300486757",
-   "name": "GU13"
-  },
-  {
-   "club": "Legends San Diego",
-   "id": "300489815",
-   "name": "Elite II"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300514264",
-   "name": "Burbank White"
-  },
-  {
-   "club": "LA Surf Soccer Club",
-   "id": "300485301",
-   "name": "COV - SOCAL"
-  },
-  {
-   "club": "Livermore Fusion SC",
-   "id": "300389152",
-   "name": "Girls Gold I"
-  },
-  {
-   "club": "Albion SC Central Valley",
-   "id": "300389399",
-   "name": "ALBION SC Central Valley DPL"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300390821",
-   "name": "Legends FC - White"
-  },
-  {
-   "club": "Rocklin FC",
-   "id": "300389354",
-   "name": "Grey"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300490878",
-   "name": "North Cedillo"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390647",
-   "name": "North County White"
-  },
-  {
-   "club": "Elite XIII",
-   "id": "12123303",
-   "name": "Elite XIII"
-  },
-  {
-   "club": "Apple Valley Storm",
-   "id": "300514275",
-   "name": "Teal"
-  },
-  {
-   "club": "AC Los Banos",
-   "id": "300389205",
-   "name": "AC Los Banos"
+   "id": "300514211",
+   "name": "Academy North"
   },
   {
    "club": "Pleasanton Rage",
@@ -2876,19 +2501,439 @@
    "name": "Pleasanton RAGE ECNL-RL"
   },
   {
+   "club": "Pateadores Soccer Club",
+   "id": "300390705",
+   "name": "South County Blue"
+  },
+  {
+   "club": "Hollister Tremors",
+   "id": "300389292",
+   "name": "Hollister Tremors Blue"
+  },
+  {
+   "club": "Los Gatos United Soccer League",
+   "id": "300467380",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Legends San Diego",
+   "id": "300487960",
+   "name": "Gold NC"
+  },
+  {
+   "club": "Emerald Football Club",
+   "id": "300389206",
+   "name": "EFC"
+  },
+  {
+   "club": "Hollister Tremors",
+   "id": "300389262",
+   "name": "Hollister Tremors Black"
+  },
+  {
+   "club": "WSC Crush",
+   "id": "300389142",
+   "name": "WSC Crush Girls Black"
+  },
+  {
+   "club": "Los Angeles Football Club",
+   "id": "300514242",
+   "name": "Red"
+  },
+  {
+   "club": "FC Corning",
+   "id": "300389348",
+   "name": "Panthers FC"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300390371",
+   "name": "IRV"
+  },
+  {
+   "club": "SDSC Surf Soccer Club",
+   "id": "300514271",
+   "name": "White"
+  },
+  {
+   "club": "El Barrio FC",
+   "id": "300390482",
+   "name": "Barrio FA"
+  },
+  {
+   "club": "Fremont Rush Soccer",
+   "id": "300389192",
+   "name": "Blue Gunners"
+  },
+  {
+   "club": "Desert Empire Surf",
+   "id": "300502103",
+   "name": "Academy"
+  },
+  {
+   "club": "Athletic Soccer Club",
+   "id": "300482898",
+   "name": "East Valley (CA)"
+  },
+  {
+   "club": "TOTAL FUTBOL ACADEMY",
+   "id": "300514265",
+   "name": "TFA-Glendale White"
+  },
+  {
+   "club": "El Camino FC Salinas",
+   "id": "300389156",
+   "name": "(CA)"
+  },
+  {
+   "club": "City SC Southwest",
+   "id": "300488159",
+   "name": "MV GOLD II"
+  },
+  {
+   "club": "FC Golden State",
+   "id": "300390604",
+   "name": "Force"
+  },
+  {
+   "club": "West Coast F.C.",
+   "id": "300482892",
+   "name": "Navy"
+  },
+  {
+   "club": "ThreeSixty Sala",
+   "id": "300389157",
+   "name": "ThreeSixty FC Orange"
+  },
+  {
+   "club": "Strikers North FC",
+   "id": "300390590",
+   "name": "Black"
+  },
+  {
+   "club": "SF United FC",
+   "id": "300486748",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Legends FC Santa Clarita",
+   "id": "300390530",
+   "name": "SCV"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300390703",
+   "name": "SOC White"
+  },
+  {
+   "club": "West Hills United FC",
+   "id": "300531013",
+   "name": "West Hills United FC Gold"
+  },
+  {
+   "club": "City SC Kings County",
+   "id": "300389265",
+   "name": "(Blue)"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300390509",
+   "name": "North Castillon White"
+  },
+  {
+   "club": "FC Premier",
+   "id": "11715373",
+   "name": "FC Premier DPLO"
+  },
+  {
+   "club": "East Bay United",
+   "id": "300491812",
+   "name": "Bay Oaks Premier"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390333",
+   "name": "NL Premier"
+  },
+  {
+   "club": "Sunnyvale Alliance SC",
+   "id": "300389189",
+   "name": "Sunnyvale Pink"
+  },
+  {
+   "club": "Legends FC - Del Mar",
+   "id": "300514273",
+   "name": "ECNL RL S.Cal"
+  },
+  {
+   "club": "inland united soccer club",
+   "id": "300488499",
+   "name": "Warriors United FC"
+  },
+  {
+   "club": "Empire Surf",
+   "id": "300514193",
+   "name": "North"
+  },
+  {
+   "club": "Fc Man United",
+   "id": "300390526",
+   "name": "Red"
+  },
+  {
+   "club": "Steel United California",
+   "id": "300390768",
+   "name": "CV Elite"
+  },
+  {
+   "club": "Empire Surf",
+   "id": "300390541",
+   "name": "North"
+  },
+  {
+   "club": "Express Soccer",
+   "id": "300390605",
+   "name": "Premier Scarfeo"
+  },
+  {
+   "club": "City SC Southwest",
+   "id": "300390575",
+   "name": "CITY SC SW Premier LE"
+  },
+  {
+   "club": "Ajax United",
+   "id": "300514061",
+   "name": "Aspire"
+  },
+  {
+   "club": "Chelsea OC",
+   "id": "300490879",
+   "name": "GU14-DS"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390508",
+   "name": "Orange County Black"
+  },
+  {
+   "club": "City SC South Bay",
+   "id": "300481059",
+   "name": "Premier"
+  },
+  {
+   "club": "LA Surf Soccer Club",
+   "id": "300390600",
+   "name": "Aspire"
+  },
+  {
+   "club": "City SC Southwest",
+   "id": "300489817",
+   "name": "MV GOLD"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390821",
+   "name": "Legends FC - White"
+  },
+  {
+   "club": "Albion SC San Diego",
+   "id": "300514210",
+   "name": "CV Academy"
+  },
+  {
    "club": "Claremont Stars Soccer Club",
    "id": "300390652",
    "name": "Red"
   },
   {
-   "club": "Lincoln FC",
-   "id": "300506672",
-   "name": "U14G"
+   "club": "Strikers Orange",
+   "id": "300495343",
+   "name": "Red"
+  },
+  {
+   "club": "SoCal Reds FC",
+   "id": "300390388",
+   "name": "Academy DPLO - KS"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300514237",
+   "name": "NB Black"
+  },
+  {
+   "club": "Los Futboleros FC",
+   "id": "300390502",
+   "name": "Las Futboleras FC"
+  },
+  {
+   "club": "Crusaders Soccer League",
+   "id": "12046557",
+   "name": "- Erdkamp"
+  },
+  {
+   "club": "Albion SC San Diego",
+   "id": "300502096",
+   "name": "CS Academy"
+  },
+  {
+   "club": "American River FC",
+   "id": "300389252",
+   "name": "Freedom Blue"
+  },
+  {
+   "club": "Tiffiny's Soccer Club",
+   "id": "300389242",
+   "name": "- Rodriguez"
+  },
+  {
+   "club": "Rebels San Diego",
+   "id": "300390336",
+   "name": "Premier (Robertson)"
+  },
+  {
+   "club": "FC Fresno Academy",
+   "id": "300389324",
+   "name": "FC Fresno Academy"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300504521",
+   "name": "SGV Black"
+  },
+  {
+   "club": "West Coast F.C.",
+   "id": "300390614",
+   "name": "DPL"
+  },
+  {
+   "club": "Santa Rosa Empire Soccer Club",
+   "id": "300389272",
+   "name": "Eclipse"
+  },
+  {
+   "club": "Mendocino County Sports Academy",
+   "id": "300531014",
+   "name": "MCSA Girls"
+  },
+  {
+   "club": "Mill Valley Soccer Club",
+   "id": "300389367",
+   "name": "United Red Girls"
   },
   {
    "club": "Rangers FC",
    "id": "300531043",
    "name": "South DPL"
+  },
+  {
+   "club": "Almaden Football Club",
+   "id": "300389312",
+   "name": "Quicksilver White"
+  },
+  {
+   "club": "Rocklin FC",
+   "id": "300389354",
+   "name": "Grey"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300390583",
+   "name": "LB I Ayala"
+  },
+  {
+   "club": "Athletic Soccer Club",
+   "id": "300514244",
+   "name": "Corona/Norco White"
+  },
+  {
+   "club": "Elite XIII",
+   "id": "12123303",
+   "name": "Elite XIII"
+  },
+  {
+   "club": "Capo FC",
+   "id": "300486757",
+   "name": "GU13"
+  },
+  {
+   "club": "Union Sacramento FC",
+   "id": "300389220",
+   "name": "Union FC"
+  },
+  {
+   "club": "Burlingame Soccer Club",
+   "id": "300389184",
+   "name": "Burlingame SC Yellow"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390472",
+   "name": "South Bay Blue"
+  },
+  {
+   "club": "AC Los Banos",
+   "id": "300389205",
+   "name": "AC Los Banos"
+  },
+  {
+   "club": "ALBION SC Silicon Valley San Mateo",
+   "id": "300481018",
+   "name": "SM Academy"
+  },
+  {
+   "club": "Vacaville United Soccer Club",
+   "id": "300389131",
+   "name": "VUSC Girls Elite"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300490878",
+   "name": "North Cedillo"
+  },
+  {
+   "club": "JSC Soccer Club",
+   "id": "300389227",
+   "name": "JSC Black"
+  },
+  {
+   "club": "Spartans FC CA",
+   "id": "300531041",
+   "name": "Spartans FC Girls"
+  },
+  {
+   "club": "Mt. Diablo Mustang Soccer",
+   "id": "300389373",
+   "name": "MDM White"
+  },
+  {
+   "club": "San Diego Surf Soccer Club",
+   "id": "300390428",
+   "name": "SD Surf South White (Alesia)"
+  },
+  {
+   "club": "Legends San Diego",
+   "id": "300489815",
+   "name": "Elite II"
+  },
+  {
+   "club": "Sporting Football Club",
+   "id": "300390329",
+   "name": "GU14"
+  },
+  {
+   "club": "California Odyssey Soccer Club",
+   "id": "300389168",
+   "name": "COSC ECNL RL"
+  },
+  {
+   "club": "City SC Southwest",
+   "id": "300502115",
+   "name": "MUR GOLD"
+  },
+  {
+   "club": "FRAM SC",
+   "id": "300514198",
+   "name": "Elite (CA)"
   },
   {
    "club": "Los Angeles Bulls Soccer Club",
@@ -2901,194 +2946,9 @@
    "name": "Girls Blue"
   },
   {
-   "club": "West Coast F.C.",
-   "id": "300390614",
-   "name": "DPL"
-  },
-  {
-   "club": "San Diego Surf Soccer Club",
-   "id": "300390428",
-   "name": "SD Surf South White (Alesia)"
-  },
-  {
-   "club": "Corona Wolves",
-   "id": "300390534",
-   "name": "Corona Wolves"
-  },
-  {
-   "club": "City SC Southwest",
-   "id": "300502115",
-   "name": "MUR GOLD"
-  },
-  {
-   "club": "Allstars SC",
-   "id": "300389415",
-   "name": "White"
-  },
-  {
-   "club": "Vista Storm Soccer Club",
-   "id": "300502121",
-   "name": "Elite"
-  },
-  {
-   "club": "SDSC Surf Escondido",
-   "id": "300514268",
-   "name": "BLUE-ESC"
-  },
-  {
-   "club": "Suisun City Rush",
-   "id": "300514066",
-   "name": "Suisun City Rush Girls"
-  },
-  {
-   "club": "Vacaville United Soccer Club",
-   "id": "300389131",
-   "name": "VUSC Girls Elite"
-  },
-  {
-   "club": "Culver City Football Club",
-   "id": "300482877",
-   "name": "CCFC Blue"
-  },
-  {
-   "club": "Pico United",
-   "id": "300508470",
-   "name": "Pico United"
-  },
-  {
-   "club": "Rebels San Diego",
-   "id": "300390336",
-   "name": "Premier (Robertson)"
-  },
-  {
-   "club": "ALBION SC Silicon Valley San Mateo",
-   "id": "300481018",
-   "name": "SM Academy"
-  },
-  {
-   "club": "Legends FC",
-   "id": "300490285",
-   "name": "Black"
-  },
-  {
-   "club": "Mustang Soccer",
-   "id": "300389299",
-   "name": "Select Heat"
-  },
-  {
-   "club": "Future FC",
-   "id": "300390787",
-   "name": "White"
-  },
-  {
-   "club": "California Football Academy",
-   "id": "300474154",
-   "name": "CFA OC Brown"
-  },
-  {
-   "club": "Inland Surf",
-   "id": "300487962",
-   "name": "Socal"
-  },
-  {
-   "club": "San Diego Rush Soccer Club",
-   "id": "300488155",
-   "name": "Elite Paul"
-  },
-  {
    "club": "Albion SC Santa Monica",
    "id": "300482894",
    "name": "Academy"
-  },
-  {
-   "club": "Elite FC Yuba",
-   "id": "300491810",
-   "name": "U14G"
-  },
-  {
-   "club": "American River FC",
-   "id": "300389252",
-   "name": "Freedom Blue"
-  },
-  {
-   "club": "Sporting San Diego",
-   "id": "300390568",
-   "name": "White"
-  },
-  {
-   "club": "FRAM SC",
-   "id": "300514198",
-   "name": "Elite (CA)"
-  },
-  {
-   "club": "Rising Stars F.C",
-   "id": "300481066",
-   "name": "Rising Stars SC"
-  },
-  {
-   "club": "MVLA",
-   "id": "300389237",
-   "name": "Pride Green"
-  },
-  {
-   "club": "San Ramon FC",
-   "id": "300389314",
-   "name": "San Ramon FC Navy"
-  },
-  {
-   "club": "LA Surf Soccer Club",
-   "id": "300514274",
-   "name": "SO - SOCAL"
-  },
-  {
-   "club": "ALBION SC Silicon Valley SM",
-   "id": "300389228",
-   "name": "Academy"
-  },
-  {
-   "club": "Mill Valley Soccer Club",
-   "id": "300389367",
-   "name": "United Red Girls"
-  },
-  {
-   "club": "Revolution SC",
-   "id": "300488495",
-   "name": "Yellow"
-  },
-  {
-   "club": "South Valley Chivas Academy",
-   "id": "300389355",
-   "name": "South Valley Chivas"
-  },
-  {
-   "club": "Mt. Diablo Mustang Soccer",
-   "id": "300389373",
-   "name": "MDM White"
-  },
-  {
-   "club": "California Odyssey Soccer Club",
-   "id": "300389168",
-   "name": "COSC ECNL RL"
-  },
-  {
-   "club": "Gold Country United",
-   "id": "300389155",
-   "name": "Girls"
-  },
-  {
-   "club": "West Sacramento Futbol Club",
-   "id": "300514043",
-   "name": "Girls Red (Aztecas)"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300390833",
-   "name": "SB R. Sanchez"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300514248",
-   "name": "NOC Adamik"
   },
   {
    "club": "Stockton TLJ FC",
@@ -3096,119 +2956,14 @@
    "name": "Girls Red"
   },
   {
-   "club": "SF United FC",
-   "id": "300531011",
-   "name": "SF United FC Azul"
+   "club": "LA Surf Soccer Club",
+   "id": "300485301",
+   "name": "COV - SOCAL"
   },
   {
-   "club": "Loomis Youth Soccer Club",
-   "id": "300389126",
-   "name": "G - Loomis Legends"
-  },
-  {
-   "club": "TSP FC",
-   "id": "300389215",
-   "name": "Turlock Sports Park FC Girls"
-  },
-  {
-   "club": "CDA Slammers",
-   "id": "300502113",
-   "name": "Cerritos Vazquez"
-  },
-  {
-   "club": "Valley United Soccer Club Association",
-   "id": "300389396",
-   "name": "Valley United SC G Orange- DP"
-  },
-  {
-   "club": "West Coast Soccer",
-   "id": "300389338",
-   "name": "West Coast ECNL-RL"
-  },
-  {
-   "club": "Burlingame Soccer Club",
-   "id": "300389278",
-   "name": "Blue"
-  },
-  {
-   "club": "Mustang Soccer",
-   "id": "300531017",
-   "name": "Elite II"
-  },
-  {
-   "club": "Sporting California USA",
-   "id": "300390454",
-   "name": "North Aleman"
-  },
-  {
-   "club": "Academia de Futbol Tigres",
-   "id": "300390305",
-   "name": "Tigres San Diego"
-  },
-  {
-   "club": "Natomas Rush FC",
-   "id": "300491813",
-   "name": "Blue"
-  },
-  {
-   "club": "Milan International Soccer Academy",
-   "id": "300390529",
-   "name": "Damian"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390550",
-   "name": "Burbank White"
-  },
-  {
-   "club": "Central Valley San Jose SC",
-   "id": "11963937",
-   "name": "CVSJ Broncos"
-  },
-  {
-   "club": "Atletico Heights FC",
-   "id": "300481062",
-   "name": "Atletico Heights FC"
-  },
-  {
-   "club": "WSC Crush",
-   "id": "300389118",
-   "name": "WSC Crush Girls (CA)"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300514251",
-   "name": "DPL"
-  },
-  {
-   "club": "FC Premier",
-   "id": "300514238",
-   "name": "HB Blue"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390570",
-   "name": "North County Blue"
-  },
-  {
-   "club": "San Diego Motion FC",
-   "id": "300502114",
-   "name": "Fernando"
-  },
-  {
-   "club": "City SC Chula Vista",
-   "id": "300390309",
-   "name": "Evans"
-  },
-  {
-   "club": "Tiffiny's Soccer Club",
-   "id": "300490855",
-   "name": "- Solorio"
-  },
-  {
-   "club": "Roseville Youth Soccer Club",
-   "id": "300389198",
-   "name": "Roseville SC Rose"
+   "club": "Culver City Football Club",
+   "id": "300482877",
+   "name": "CCFC Blue"
   },
   {
    "club": "Laguna Beach Football Club",
@@ -3216,94 +2971,149 @@
    "name": "LBFC GIRLS"
   },
   {
-   "club": "1570 FC",
-   "id": "300390495",
-   "name": "G"
+   "club": "San Diego Rush Soccer Club",
+   "id": "300488155",
+   "name": "Elite Paul"
   },
   {
-   "club": "San Carlos United Soccer Club",
-   "id": "300389099",
-   "name": "San Carlos United SC Blue"
+   "club": "United SoCal",
+   "id": "300390550",
+   "name": "Burbank White"
   },
   {
-   "club": "Scripps Ranch SC",
-   "id": "300514225",
-   "name": "GU14"
+   "club": "Albion SC Central Valley",
+   "id": "300389399",
+   "name": "ALBION SC Central Valley DPL"
   },
   {
-   "club": "Sporting California USA",
-   "id": "300390304",
-   "name": "Corona Healey"
+   "club": "Mustang Soccer",
+   "id": "300531017",
+   "name": "Elite II"
   },
   {
-   "club": "Greenhaven Soccer Club",
-   "id": "300389174",
-   "name": "Greenhaven SC Select"
+   "club": "San Ramon FC",
+   "id": "300389314",
+   "name": "San Ramon FC Navy"
   },
   {
-   "club": "SF United FC",
-   "id": "300389382",
-   "name": "SF United Dinamita"
+   "club": "Allstars SC",
+   "id": "300389415",
+   "name": "White"
   },
   {
-   "club": "SoCal Elite FC",
-   "id": "300482886",
-   "name": "SoCal Elite FC DPL"
+   "club": "Corona Wolves",
+   "id": "300390534",
+   "name": "Corona Wolves"
   },
   {
-   "club": "Inland Surf",
-   "id": "12044104",
+   "club": "Long Beach United Extra",
+   "id": "300476548",
+   "name": "Long Beach United Extra"
+  },
+  {
+   "club": "Future FC",
+   "id": "300390787",
+   "name": "White"
+  },
+  {
+   "club": "Livermore Fusion SC",
+   "id": "300389152",
+   "name": "Girls Gold I"
+  },
+  {
+   "club": "Elite FC Yuba",
+   "id": "300491810",
+   "name": "U14G"
+  },
+  {
+   "club": "MVLA",
+   "id": "300389237",
+   "name": "Pride Green"
+  },
+  {
+   "club": "PYSL Blast SC",
+   "id": "300514213",
+   "name": "Schmidt"
+  },
+  {
+   "club": "Vista Storm Soccer Club",
+   "id": "300502121",
    "name": "Elite"
   },
   {
-   "club": "Laguna United Football Club",
-   "id": "300390374",
-   "name": "LUFC Gold"
+   "club": "Athletic Soccer Club",
+   "id": "300514264",
+   "name": "Burbank White"
+  },
+  {
+   "club": "SF United FC",
+   "id": "300531011",
+   "name": "SF United FC Azul"
+  },
+  {
+   "club": "SDSC Surf Escondido",
+   "id": "300514268",
+   "name": "BLUE-ESC"
+  },
+  {
+   "club": "Santa Cruz City Soccer Club",
+   "id": "300389390",
+   "name": "SANTA CRUZ JAWS BLUE"
+  },
+  {
+   "club": "LA Surf Soccer Club",
+   "id": "300514274",
+   "name": "SO - SOCAL"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300490285",
+   "name": "Black"
+  },
+  {
+   "club": "Valley United Soccer Club Association",
+   "id": "300389396",
+   "name": "Valley United SC G Orange- DP"
+  },
+  {
+   "club": "WSC Crush",
+   "id": "300389118",
+   "name": "WSC Crush Girls (CA)"
+  },
+  {
+   "club": "Pico United",
+   "id": "300508470",
+   "name": "Pico United"
+  },
+  {
+   "club": "Inland Surf",
+   "id": "300487962",
+   "name": "Socal"
+  },
+  {
+   "club": "Beach Futbol Club",
+   "id": "300390833",
+   "name": "SB R. Sanchez"
   },
   {
    "club": "California Football Academy",
-   "id": "300497742",
-   "name": "CFA OC SC Corsey"
+   "id": "300474154",
+   "name": "CFA OC Brown"
   },
   {
-   "club": "ALBION SC Santa Monica",
-   "id": "300531046",
-   "name": "Premier"
+   "club": "Mustang Soccer",
+   "id": "300389299",
+   "name": "Select Heat"
   },
   {
-   "club": "Strikers Orange",
-   "id": "300497136",
-   "name": "Black"
-  },
-  {
-   "club": "San Francisco Seals",
-   "id": "300389266",
-   "name": "Black"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300484587",
-   "name": "HB White"
-  },
-  {
-   "club": "FLYTE SC IE",
-   "id": "300495337",
-   "name": "Aspire"
-  },
-  {
-   "club": "Ebbetts Pass FC",
-   "id": "300531023",
-   "name": "Ebbetts Pass FC"
-  },
-  {
-   "club": "ALBION SC Santa Monica",
-   "id": "300390510",
+   "club": "ALBION SC Silicon Valley SM",
+   "id": "300389228",
    "name": "Academy"
   },
   {
-   "club": "Pateadores Soccer Club",
-   "id": "300502122",
-   "name": "NB White"
+   "club": "West Sacramento Futbol Club",
+   "id": "300514043",
+   "name": "Girls Red (Aztecas)"
   },
   {
    "club": "South Bay FC",
@@ -3311,14 +3121,269 @@
    "name": "SD Premier"
   },
   {
+   "club": "Apple Valley Storm",
+   "id": "300514275",
+   "name": "Teal"
+  },
+  {
+   "club": "Tiffiny's Soccer Club",
+   "id": "300490855",
+   "name": "- Solorio"
+  },
+  {
+   "club": "South Valley Chivas Academy",
+   "id": "300389355",
+   "name": "South Valley Chivas"
+  },
+  {
+   "club": "Roseville Youth Soccer Club",
+   "id": "300389198",
+   "name": "Roseville SC Rose"
+  },
+  {
+   "club": "North Coast Futbol Club",
+   "id": "300389178",
+   "name": "North Coast FC G Red"
+  },
+  {
+   "club": "Sporting California USA",
+   "id": "300390454",
+   "name": "North Aleman"
+  },
+  {
+   "club": "FC Premier",
+   "id": "300514238",
+   "name": "HB Blue"
+  },
+  {
+   "club": "San Carlos United Soccer Club",
+   "id": "300389099",
+   "name": "San Carlos United SC Blue"
+  },
+  {
+   "club": "FLYTE SC IE",
+   "id": "300495337",
+   "name": "Aspire"
+  },
+  {
+   "club": "Rising Stars F.C",
+   "id": "300481066",
+   "name": "Rising Stars SC"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300514248",
+   "name": "NOC Adamik"
+  },
+  {
+   "club": "Natomas Rush FC",
+   "id": "300491813",
+   "name": "Blue"
+  },
+  {
+   "club": "SoCal Elite FC",
+   "id": "300390395",
+   "name": "SoCal Elite FC DPLOPEN"
+  },
+  {
+   "club": "Atletico Heights FC",
+   "id": "300481062",
+   "name": "Atletico Heights FC"
+  },
+  {
+   "club": "East San Jose FC",
+   "id": "12204359",
+   "name": "ESJFC Elite"
+  },
+  {
+   "club": "CDA Slammers",
+   "id": "300502113",
+   "name": "Cerritos Vazquez"
+  },
+  {
+   "club": "Sporting California USA",
+   "id": "300390304",
+   "name": "Corona Healey"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390570",
+   "name": "North County Blue"
+  },
+  {
+   "club": "Burlingame Soccer Club",
+   "id": "300389278",
+   "name": "Blue"
+  },
+  {
+   "club": "Strikers FC",
+   "id": "300514194",
+   "name": "Tustin"
+  },
+  {
+   "club": "TSP FC",
+   "id": "300389215",
+   "name": "Turlock Sports Park FC Girls"
+  },
+  {
+   "club": "Lincoln FC",
+   "id": "300506672",
+   "name": "U14G"
+  },
+  {
+   "club": "Milan International Soccer Academy",
+   "id": "300390529",
+   "name": "Damian"
+  },
+  {
+   "club": "Gold Country United",
+   "id": "300389155",
+   "name": "Girls"
+  },
+  {
+   "club": "LASC-SCV",
+   "id": "300504558",
+   "name": "Red"
+  },
+  {
+   "club": "SoCal Elite FC",
+   "id": "300482886",
+   "name": "SoCal Elite FC DPL"
+  },
+  {
+   "club": "Athletic Soccer Club",
+   "id": "300493035",
+   "name": "San Diego Navy"
+  },
+  {
+   "club": "Central Valley San Jose SC",
+   "id": "11963937",
+   "name": "CVSJ Broncos"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390518",
+   "name": "East County (SD) White"
+  },
+  {
+   "club": "Ebbetts Pass FC",
+   "id": "300531023",
+   "name": "Ebbetts Pass FC"
+  },
+  {
+   "club": "Revolution SC",
+   "id": "300488495",
+   "name": "Yellow"
+  },
+  {
+   "club": "San Diego Motion FC",
+   "id": "300502114",
+   "name": "Fernando"
+  },
+  {
+   "club": "Sporting San Diego",
+   "id": "300390568",
+   "name": "White"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300514251",
+   "name": "DPL"
+  },
+  {
+   "club": "California Football Academy",
+   "id": "300497742",
+   "name": "CFA OC SC Corsey"
+  },
+  {
+   "club": "Pleasanton Rage",
+   "id": "300389435",
+   "name": "Pleasanton RAGE ECNL-RL (futsal II)"
+  },
+  {
+   "club": "Oaks Futbol Club",
+   "id": "300514212",
+   "name": "Red"
+  },
+  {
+   "club": "SF United FC",
+   "id": "300389382",
+   "name": "SF United Dinamita"
+  },
+  {
+   "club": "Simi Valley Soccer Club",
+   "id": "300390361",
+   "name": "GU14"
+  },
+  {
+   "club": "Titans FC Inland Empire",
+   "id": "300504560",
+   "name": "GU14"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300502122",
+   "name": "NB White"
+  },
+  {
    "club": "Fruitridge Soccer Club",
    "id": "300389377",
    "name": "FSC Aguilas"
   },
   {
+   "club": "1570 FC",
+   "id": "300390495",
+   "name": "G"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300484587",
+   "name": "HB White"
+  },
+  {
+   "club": "Greenhaven Soccer Club",
+   "id": "300389174",
+   "name": "Greenhaven SC Select"
+  },
+  {
+   "club": "San Francisco Seals",
+   "id": "300389266",
+   "name": "Black"
+  },
+  {
+   "club": "Valley Center Hurricanes",
+   "id": "300514023",
+   "name": "GU14"
+  },
+  {
+   "club": "Loomis Youth Soccer Club",
+   "id": "300389126",
+   "name": "G - Loomis Legends"
+  },
+  {
+   "club": "American River FC",
+   "id": "300389357",
+   "name": "Freedom Red"
+  },
+  {
+   "club": "Athletic Soccer Club",
+   "id": "300514243",
+   "name": "Corona/Norco Navy"
+  },
+  {
    "club": "Impact FC",
    "id": "300390464",
    "name": "Fontana Impact SC"
+  },
+  {
+   "club": "Academia de Futbol Tigres",
+   "id": "300390305",
+   "name": "Tigres San Diego"
+  },
+  {
+   "club": "Valley United Soccer Club",
+   "id": "300389179",
+   "name": "VALUSC Girls"
   },
   {
    "club": "Whittier Area Youth Soccer",
@@ -3331,119 +3396,9 @@
    "name": "Black"
   },
   {
-   "club": "North Coast Futbol Club",
-   "id": "300389178",
-   "name": "North Coast FC G Red"
-  },
-  {
-   "club": "Los Angeles Football Club",
-   "id": "300390580",
-   "name": "PC"
-  },
-  {
-   "club": "American River FC",
-   "id": "300389357",
-   "name": "Freedom Red"
-  },
-  {
-   "club": "SoCal Elite FC",
-   "id": "300390395",
-   "name": "SoCal Elite FC DPLOPEN"
-  },
-  {
-   "club": "Valley United Soccer Club",
-   "id": "300389179",
-   "name": "VALUSC Girls"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300493035",
-   "name": "San Diego Navy"
-  },
-  {
-   "club": "Pleasanton Rage",
-   "id": "300389435",
-   "name": "Pleasanton RAGE ECNL-RL (futsal II)"
-  },
-  {
-   "club": "Capital Valley Futbol Club",
-   "id": "300389391",
-   "name": "Crossfire"
-  },
-  {
-   "club": "Simi Valley Soccer Club",
-   "id": "300390361",
-   "name": "GU14"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390518",
-   "name": "East County (SD) White"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300481069",
-   "name": "ES Iontchev"
-  },
-  {
-   "club": "LA Surf Soccer Club",
-   "id": "300390626",
-   "name": "SW Black - SOCAL"
-  },
-  {
-   "club": "Titans FC Inland Empire",
-   "id": "300504560",
-   "name": "GU14"
-  },
-  {
-   "club": "Half Moon Bay Soccer Club",
-   "id": "300389346",
-   "name": "HMBSC"
-  },
-  {
-   "club": "Fellowship Of Christian Athletes",
-   "id": "300390308",
-   "name": "Veritas - Quintana"
-  },
-  {
-   "club": "Marin FC",
-   "id": "300389257",
-   "name": "G13Steel"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300482881",
-   "name": "AV"
-  },
-  {
-   "club": "Central Cal Aztecs",
-   "id": "300390618",
-   "name": "Academy"
-  },
-  {
-   "club": "Galt Futbol Club",
-   "id": "300389193",
-   "name": "Galt FC Girls - Diablos"
-  },
-  {
-   "club": "Central Valley San Jose SC",
-   "id": "300389366",
-   "name": "Crushers"
-  },
-  {
-   "club": "ALBION SC San Diego",
-   "id": "300390307",
-   "name": "Academy"
-  },
-  {
-   "club": "Santa Cruz City Soccer Club",
-   "id": "300472210",
-   "name": "JAWS BLUE"
-  },
-  {
-   "club": "El Dorado Hills Soccer Club",
-   "id": "300495323",
-   "name": "II"
+   "club": "Laguna United Football Club",
+   "id": "300390374",
+   "name": "LUFC Gold"
   },
   {
    "club": "Los Gatos United Soccer Club",
@@ -3451,19 +3406,29 @@
    "name": "Comp I"
   },
   {
-   "club": "Los Angeles Bulls Soccer Club",
-   "id": "300390556",
-   "name": "LA Bulls DPLO"
+   "club": "ALBION SC Santa Monica",
+   "id": "300390510",
+   "name": "Academy"
   },
   {
-   "club": "Solano Surf",
-   "id": "300389209",
-   "name": "White / White"
+   "club": "Central Cal Aztecs",
+   "id": "300390618",
+   "name": "Academy"
   },
   {
-   "club": "ELI7E FC",
-   "id": "300390761",
-   "name": "SELECT Corona"
+   "club": "Inland Surf",
+   "id": "12044104",
+   "name": "Elite"
+  },
+  {
+   "club": "North Marin United",
+   "id": "300549931",
+   "name": "Girls Black"
+  },
+  {
+   "club": "City SC Chula Vista",
+   "id": "300390309",
+   "name": "Evans"
   },
   {
    "club": "Inland Surf",
@@ -3471,34 +3436,59 @@
    "name": "HS"
   },
   {
+   "club": "LA Surf Soccer Club",
+   "id": "300390626",
+   "name": "SW Black - SOCAL"
+  },
+  {
+   "club": "Solano Surf",
+   "id": "300389209",
+   "name": "White / White"
+  },
+  {
+   "club": "Nomads",
+   "id": "300504559",
+   "name": "North"
+  },
+  {
+   "club": "Central Valley San Jose SC",
+   "id": "300389366",
+   "name": "Crushers"
+  },
+  {
    "club": "City SC Santa Clarita",
    "id": "300486984",
    "name": "Premier DPL"
   },
   {
-   "club": "LASC-SCV",
-   "id": "300504558",
-   "name": "Red"
+   "club": "Athletic Soccer Club",
+   "id": "300482881",
+   "name": "AV"
   },
   {
-   "club": "SoCal Reds FC",
-   "id": "300390554",
-   "name": "WHITE - BR*"
+   "club": "California Rush Soccer Club",
+   "id": "300390637",
+   "name": "California Rush Cinza - Moval"
   },
   {
-   "club": "South Valley United Soccer Club",
-   "id": "300389271",
-   "name": "South Valley United White"
+   "club": "WESCO United",
+   "id": "12207680",
+   "name": "WESCO Blue"
   },
   {
-   "club": "SF United FC",
-   "id": "300389381",
-   "name": "SF United Impact"
+   "club": "Strikers Orange",
+   "id": "300497136",
+   "name": "Black"
   },
   {
-   "club": "Legends San Diego",
-   "id": "300390658",
-   "name": "FC"
+   "club": "Galt Futbol Club",
+   "id": "300389193",
+   "name": "Galt FC Girls - Diablos"
+  },
+  {
+   "club": "El Dorado Hills Soccer Club",
+   "id": "300495323",
+   "name": "II"
   },
   {
    "club": "Elk Grove Surf",
@@ -3506,14 +3496,74 @@
    "name": "Elk Grove Surf Blue"
   },
   {
-   "club": "United SoCal",
-   "id": "300390537",
-   "name": "East County (SD) Blue"
+   "club": "Fellowship Of Christian Athletes",
+   "id": "300390308",
+   "name": "Veritas - Quintana"
   },
   {
-   "club": "La Academia FC",
-   "id": "300509388",
-   "name": "Kicks MV Espinoza"
+   "club": "West Coast Soccer",
+   "id": "300389338",
+   "name": "West Coast ECNL-RL"
+  },
+  {
+   "club": "SoCal Reds FC",
+   "id": "300390554",
+   "name": "WHITE - BR*"
+  },
+  {
+   "club": "Pateadores Soccer Club",
+   "id": "300485307",
+   "name": "SOC"
+  },
+  {
+   "club": "South Valley United Soccer Club",
+   "id": "300389271",
+   "name": "South Valley United White"
+  },
+  {
+   "club": "Allstars SC",
+   "id": "300514048",
+   "name": "White"
+  },
+  {
+   "club": "Athletic Soccer Club",
+   "id": "300514200",
+   "name": "San Diego White"
+  },
+  {
+   "club": "South Bay FC",
+   "id": "300514201",
+   "name": "GU14-Olivares-Select"
+  },
+  {
+   "club": "Legends FC - Del Mar",
+   "id": "300514272",
+   "name": "GU14"
+  },
+  {
+   "club": "Scripps Ranch SC",
+   "id": "300514225",
+   "name": "GU14"
+  },
+  {
+   "club": "Santa Cruz City Soccer Club",
+   "id": "300472210",
+   "name": "JAWS BLUE"
+  },
+  {
+   "club": "Boca Orange County",
+   "id": "12045978",
+   "name": "Boca OC Black"
+  },
+  {
+   "club": "Half Moon Bay Soccer Club",
+   "id": "300389346",
+   "name": "HMBSC"
+  },
+  {
+   "club": "1974 Newark FC",
+   "id": "300549106",
+   "name": "BLACK"
   },
   {
    "club": "Tulare Force FC",
@@ -3521,24 +3571,19 @@
    "name": "Girls White"
   },
   {
-   "club": "City SC Chula Vista",
-   "id": "12046527",
-   "name": "Santana"
+   "club": "SF United FC",
+   "id": "300389381",
+   "name": "SF United Impact"
   },
   {
-   "club": "Milpitas YSL",
-   "id": "300389115",
-   "name": "FC Milpitas Breeze"
+   "club": "Loomis Youth Soccer Club",
+   "id": "300504453",
+   "name": "Loomis SC - Gold"
   },
   {
-   "club": "MANTECA FUTBOL CLUB",
-   "id": "300389350",
-   "name": "Manteca Futbol Club White"
-  },
-  {
-   "club": "Torrance Soccer Club",
-   "id": "300390355",
-   "name": "GU14"
+   "club": "Vaqueros FC",
+   "id": "300502118",
+   "name": "Premier"
   },
   {
    "club": "North Valley Youth Soccer League",
@@ -3556,24 +3601,24 @@
    "name": "OMSD - Cal Velocity"
   },
   {
-   "club": "Allstars SC",
-   "id": "300514048",
-   "name": "White"
+   "club": "City SC Chula Vista",
+   "id": "12046527",
+   "name": "Santana"
   },
   {
-   "club": "California Rush Soccer Club",
-   "id": "300390637",
-   "name": "California Rush Cinza - Moval"
+   "club": "Torrance Soccer Club",
+   "id": "300390355",
+   "name": "GU14"
   },
   {
-   "club": "Boca Orange County",
-   "id": "12045978",
-   "name": "Boca OC Black"
+   "club": "La Academia FC",
+   "id": "300509388",
+   "name": "Kicks MV Espinoza"
   },
   {
-   "club": "Strikers FC",
-   "id": "300514194",
-   "name": "Tustin"
+   "club": "San Diego Rush Soccer Club",
+   "id": "300497741",
+   "name": "Premier Tillett"
   },
   {
    "club": "SoCal Reds FC",
@@ -3581,39 +3626,9 @@
    "name": "BR*"
   },
   {
-   "club": "Stockton Storm Futbol Club",
-   "id": "300514044",
-   "name": "Girls Blue"
-  },
-  {
-   "club": "United SoCal",
-   "id": "300390592",
-   "name": "AV"
-  },
-  {
-   "club": "Legends FC SD (DMCV)",
-   "id": "11784693",
-   "name": "Legends FC San Diego ECNL RL S.Cal"
-  },
-  {
-   "club": "Loomis Youth Soccer Club",
-   "id": "300504453",
-   "name": "Loomis SC - Gold"
-  },
-  {
-   "club": "Red Star Soccer Academy",
-   "id": "300389325",
-   "name": "Red Star White"
-  },
-  {
-   "club": "Butte United Soccer Club",
-   "id": "300389388",
-   "name": "Red"
-  },
-  {
-   "club": "San Carlos United Soccer Club",
-   "id": "300389125",
-   "name": "San Carlos United SC Black"
+   "club": "Los Angeles Bulls Soccer Club",
+   "id": "300390556",
+   "name": "LA Bulls DPLO"
   },
   {
    "club": "Santa Clara Youth Soccer League",
@@ -3621,29 +3636,14 @@
    "name": "SC LIONS RED"
   },
   {
-   "club": "Palo Alto Soccer Club",
-   "id": "300389204",
-   "name": "Palo Alto SC Blue"
+   "club": "Athletic Soccer Club",
+   "id": "300514204",
+   "name": "Menifee"
   },
   {
-   "club": "Davis Legacy Soccer Club",
-   "id": "300514017",
-   "name": "Davis Legacy Fusion"
-  },
-  {
-   "club": "Sierra Gold Soccer Club",
-   "id": "300389151",
-   "name": "SGSC Diamondbacks"
-  },
-  {
-   "club": "Pateadores Soccer Club",
-   "id": "300485307",
-   "name": "SOC"
-  },
-  {
-   "club": "Mt. Diablo Mustang Soccer",
-   "id": "300389322",
-   "name": "MDM White II"
+   "club": "ELI7E FC",
+   "id": "300390761",
+   "name": "SELECT Corona"
   },
   {
    "club": "Athletic Soccer Club",
@@ -3651,49 +3651,49 @@
    "name": "San Marcos"
   },
   {
-   "club": "Girls Unite",
-   "id": "300389330",
-   "name": "Girls Unite Fire Gray"
+   "club": "Santa Cruz United Football Club",
+   "id": "300389305",
+   "name": "Gray"
   },
   {
-   "club": "Elk Grove Soccer",
-   "id": "300389121",
-   "name": "Elk Grove Soccer Platinum"
+   "club": "Visalia United FC",
+   "id": "300551173",
+   "name": "DPL"
   },
   {
-   "club": "OV Toros FC",
-   "id": "300549763",
-   "name": "Black"
+   "club": "Capital Valley Futbol Club",
+   "id": "300389391",
+   "name": "Crossfire"
   },
   {
-   "club": "San Francisco Seals",
-   "id": "300389259",
-   "name": "Tarimoro"
+   "club": "Beach Futbol Club",
+   "id": "300481069",
+   "name": "ES Iontchev"
   },
   {
-   "club": "Rayados Academy San Diego",
-   "id": "300495338",
-   "name": "G.Ascuitto"
+   "club": "Legends FC SD (DMCV)",
+   "id": "11784693",
+   "name": "Legends FC San Diego ECNL RL S.Cal"
   },
   {
-   "club": "United SoCal",
-   "id": "300390450",
-   "name": "South OC"
+   "club": "Marin FC",
+   "id": "300389257",
+   "name": "G13Steel"
   },
   {
-   "club": "Albany Berkeley Soccer Club",
-   "id": "300389149",
-   "name": "ABSC Lightning Storm"
+   "club": "Stockton Storm Futbol Club",
+   "id": "300514044",
+   "name": "Girls Blue"
   },
   {
-   "club": "Great Basin Youth Soccer League",
-   "id": "300472209",
-   "name": "SCREAMING EAGLES"
+   "club": "Central California Soccer Alliance",
+   "id": "300549928",
+   "name": "CCSA Blk"
   },
   {
-   "club": "Pleasanton Rage",
-   "id": "300389336",
-   "name": "Pleasanton RAGE Orange"
+   "club": "MANTECA FUTBOL CLUB",
+   "id": "300389350",
+   "name": "Manteca Futbol Club White"
   },
   {
    "club": "Livermore Fusion SC",
@@ -3701,14 +3701,34 @@
    "name": "Girls Gold II"
   },
   {
-   "club": "LA Breakers FC",
-   "id": "300390452",
-   "name": "Long Beach Blue"
+   "club": "Milpitas YSL",
+   "id": "300389115",
+   "name": "FC Milpitas Breeze"
   },
   {
-   "club": "Walnut Creek Surf Soccer Club",
-   "id": "300491820",
-   "name": "Fall Select - Stankus"
+   "club": "Pleasanton Rage",
+   "id": "300389336",
+   "name": "Pleasanton RAGE Orange"
+  },
+  {
+   "club": "Elk Grove Soccer",
+   "id": "300389121",
+   "name": "Elk Grove Soccer Platinum"
+  },
+  {
+   "club": "Butte United Soccer Club",
+   "id": "300389388",
+   "name": "Red"
+  },
+  {
+   "club": "Red Star Soccer Academy",
+   "id": "300389325",
+   "name": "Red Star White"
+  },
+  {
+   "club": "FRESNO HEAT FC",
+   "id": "300466203",
+   "name": "GIRLS"
   },
   {
    "club": "Sanger FC",
@@ -3716,24 +3736,24 @@
    "name": "Sanger FC Girls- Daniel"
   },
   {
+   "club": "California Rush Soccer Club",
+   "id": "300514214",
+   "name": "Cinza - Moreno Valley"
+  },
+  {
    "club": "Palo Alto Soccer Club",
-   "id": "300389164",
-   "name": "Blue"
+   "id": "300389204",
+   "name": "Palo Alto SC Blue"
   },
   {
-   "club": "Alum Rock Futbol Club",
-   "id": "300497115",
-   "name": "AR - Lions"
+   "club": "Girls Unite",
+   "id": "300389330",
+   "name": "Girls Unite Fire Gray"
   },
   {
-   "club": "Santa Cruz United Football Club",
-   "id": "300389305",
-   "name": "Gray"
-  },
-  {
-   "club": "Benicia Soccer",
-   "id": "300514062",
-   "name": "BAFC Girls"
+   "club": "Sierra Gold Soccer Club",
+   "id": "300389151",
+   "name": "SGSC Diamondbacks"
   },
   {
    "club": "Natives FA",
@@ -3746,34 +3766,49 @@
    "name": "Vipers"
   },
   {
-   "club": "Los Gatos United Soccer Club",
-   "id": "300389182",
-   "name": "Comp II"
+   "club": "Mt. Diablo Mustang Soccer",
+   "id": "300389322",
+   "name": "MDM White II"
   },
   {
-   "club": "San Francisco Vikings Soccer Club",
-   "id": "300531019",
-   "name": "SFVSC White Leopards"
+   "club": "Rayados Academy San Diego",
+   "id": "300495338",
+   "name": "G.Ascuitto"
   },
   {
-   "club": "Fc Man United",
-   "id": "300514199",
-   "name": "GU14"
+   "club": "Alum Rock Futbol Club",
+   "id": "300497115",
+   "name": "AR - Lions"
   },
   {
-   "club": "Prospector Soccer Club",
-   "id": "300514065",
-   "name": "Adrenaline"
+   "club": "San Francisco Seals",
+   "id": "300389259",
+   "name": "Tarimoro"
   },
   {
-   "club": "NHB Futbol Club",
-   "id": "300390578",
-   "name": "NHB Black"
+   "club": "Southwest Soccer Club",
+   "id": "300514231",
+   "name": "ELITE"
   },
   {
-   "club": "Inland Empire Futbol Club",
-   "id": "300390451",
+   "club": "San Carlos United Soccer Club",
+   "id": "300389125",
+   "name": "San Carlos United SC Black"
+  },
+  {
+   "club": "OV Toros FC",
+   "id": "300549763",
    "name": "Black"
+  },
+  {
+   "club": "Albany Berkeley Soccer Club",
+   "id": "300389149",
+   "name": "ABSC Lightning Storm"
+  },
+  {
+   "club": "Benicia Soccer",
+   "id": "300514062",
+   "name": "BAFC Girls"
   },
   {
    "club": "North Fresno Youth Soccer League",
@@ -3781,79 +3816,19 @@
    "name": "NFYSL LADY MAMBAS"
   },
   {
-   "club": "FRESNO HEAT FC",
-   "id": "300466203",
-   "name": "GIRLS"
+   "club": "Los Gatos United Soccer Club",
+   "id": "300389182",
+   "name": "Comp II"
   },
   {
-   "club": "Prospector Soccer Club",
-   "id": "300389146",
-   "name": "Havoc"
+   "club": "ALBION SC Santa Monica",
+   "id": "300531046",
+   "name": "Premier"
   },
   {
-   "club": "49er United Soccer Club",
-   "id": "300514027",
-   "name": "Cyclones"
-  },
-  {
-   "club": "AC Brea",
-   "id": "300504511",
-   "name": "Red"
-  },
-  {
-   "club": "LA Breakers FC",
-   "id": "12046176",
-   "name": "LA Breakers Long Beach Red"
-  },
-  {
-   "club": "Alameda Soccer Club",
-   "id": "300531022",
-   "name": "Islanders Girls Blue"
-  },
-  {
-   "club": "Strikers Orange",
-   "id": "300490873",
-   "name": "GU14-AM"
-  },
-  {
-   "club": "Diablo Valley Futbol Club",
-   "id": "300549929",
-   "name": "DVFC Black"
-  },
-  {
-   "club": "Pleasanton Rage",
-   "id": "300389436",
-   "name": "Pleasanton RAGE Orange (futsal II)"
-  },
-  {
-   "club": "East Bay Eclipse Soccer Club",
-   "id": "300389394",
-   "name": "Girls Solar"
-  },
-  {
-   "club": "ALBION SC Silicon Valley San Mateo",
-   "id": "11963468",
-   "name": "SM Premier"
-  },
-  {
-   "club": "Legends FC SD (DMCV)",
-   "id": "300390601",
-   "name": "DM Gold"
-  },
-  {
-   "club": "Mustang Soccer",
-   "id": "300389231",
-   "name": "Mustang SC Thunder"
-  },
-  {
-   "club": "Atwater Kaos Futbol Club",
-   "id": "300389124",
-   "name": "Blue Flores"
-  },
-  {
-   "club": "Allstars SC",
-   "id": "300389103",
-   "name": "Black"
+   "club": "Great Basin Youth Soccer League",
+   "id": "300472209",
+   "name": "SCREAMING EAGLES"
   },
   {
    "club": "Laguna United Football Club",
@@ -3861,14 +3836,34 @@
    "name": "GU13-Gold"
   },
   {
+   "club": "Fc Man United",
+   "id": "300514199",
+   "name": "GU14"
+  },
+  {
+   "club": "Palo Alto Soccer Club",
+   "id": "300389164",
+   "name": "Blue"
+  },
+  {
+   "club": "Walnut Creek Surf Soccer Club",
+   "id": "300491820",
+   "name": "Fall Select - Stankus"
+  },
+  {
    "club": "WESCO United",
    "id": "300389473",
    "name": "WESCO Blue Wolves"
   },
   {
-   "club": "Ross Valley Breakers FC",
-   "id": "300389400",
-   "name": "Breakers White"
+   "club": "49er United Soccer Club",
+   "id": "300514027",
+   "name": "Cyclones"
+  },
+  {
+   "club": "Mustang Soccer",
+   "id": "300389231",
+   "name": "Mustang SC Thunder"
   },
   {
    "club": "Richmond Sol Cobras",
@@ -3876,34 +3871,44 @@
    "name": "RSOLFC Blue CA"
   },
   {
+   "club": "East Bay Eclipse Soccer Club",
+   "id": "300389394",
+   "name": "Girls Solar"
+  },
+  {
+   "club": "San Francisco Vikings Soccer Club",
+   "id": "300531019",
+   "name": "SFVSC White Leopards"
+  },
+  {
+   "club": "Alameda Soccer Club",
+   "id": "300531022",
+   "name": "Islanders Girls Blue"
+  },
+  {
+   "club": "Prospector Soccer Club",
+   "id": "300514065",
+   "name": "Adrenaline"
+  },
+  {
+   "club": "Suisun City Rush",
+   "id": "300514066",
+   "name": "Suisun City Rush Girls"
+  },
+  {
    "club": "Mustang Soccer",
    "id": "300531010",
    "name": "Select Spirit"
   },
   {
-   "club": "FC Balboa",
-   "id": "300295057",
-   "name": "FCB"
+   "club": "Pleasanton Rage",
+   "id": "300389436",
+   "name": "Pleasanton RAGE Orange (futsal II)"
   },
   {
-   "club": "Richmond United SC",
-   "id": "300389219",
-   "name": "Richmond United Storm"
-  },
-  {
-   "club": "Four Elements FC",
-   "id": "300486526",
-   "name": "Four Elements FC"
-  },
-  {
-   "club": "Rush",
-   "id": "12116830",
-   "name": "Rush"
-  },
-  {
-   "club": "Necaxa USA Futbol Club",
-   "id": "300390470",
-   "name": "Necaxa USA Blue -"
+   "club": "Strikers Orange",
+   "id": "300490873",
+   "name": "GU14-AM"
   },
   {
    "club": "Oceanside",
@@ -3911,24 +3916,59 @@
    "name": "Breakers Blue"
   },
   {
-   "club": "Association Football",
-   "id": "300389211",
-   "name": "Girls Black"
+   "club": "Atwater Kaos Futbol Club",
+   "id": "300389124",
+   "name": "Blue Flores"
   },
   {
-   "club": "Albany Berkeley Soccer Club",
-   "id": "300389248",
-   "name": "Atchison Village Lightning"
+   "club": "Diablo Valley Futbol Club",
+   "id": "300549929",
+   "name": "DVFC Black"
   },
   {
-   "club": "GLG SOL Club",
-   "id": "300389181",
-   "name": "GLG SF SOL Thrive"
+   "club": "Inland Empire Futbol Club",
+   "id": "300390451",
+   "name": "Black"
   },
   {
-   "club": "JSC Soccer Club",
-   "id": "300389380",
-   "name": "JSC White"
+   "club": "LA Breakers FC",
+   "id": "12046176",
+   "name": "LA Breakers Long Beach Red"
+  },
+  {
+   "club": "Allstars SC",
+   "id": "300389103",
+   "name": "Black"
+  },
+  {
+   "club": "Ross Valley Breakers FC",
+   "id": "300389400",
+   "name": "Breakers White"
+  },
+  {
+   "club": "ALBION SC Silicon Valley San Mateo",
+   "id": "11963468",
+   "name": "SM Premier"
+  },
+  {
+   "club": "Richmond United SC",
+   "id": "300389219",
+   "name": "Richmond United Storm"
+  },
+  {
+   "club": "AC Brea",
+   "id": "300504511",
+   "name": "Red"
+  },
+  {
+   "club": "Four Elements FC",
+   "id": "300486526",
+   "name": "Four Elements FC"
+  },
+  {
+   "club": "Necaxa USA Futbol Club",
+   "id": "300390470",
+   "name": "Necaxa USA Blue -"
   },
   {
    "club": "Woodland Alianza FC",
@@ -3936,14 +3976,34 @@
    "name": "WAFC Girls Black"
   },
   {
-   "club": "Pleasanton Rage",
-   "id": "300389134",
-   "name": "Pleasanton RAGE Select"
+   "club": "Rush",
+   "id": "12116830",
+   "name": "Rush"
   },
   {
-   "club": "Great Basin Youth Soccer League",
-   "id": "300472208",
-   "name": "Westside Select"
+   "club": "Rosemont Soccer Club",
+   "id": "300514020",
+   "name": "RSC Fury"
+  },
+  {
+   "club": "Association Football",
+   "id": "300389211",
+   "name": "Girls Black"
+  },
+  {
+   "club": "JSC Soccer Club",
+   "id": "300389380",
+   "name": "JSC White"
+  },
+  {
+   "club": "North Highlands Antelope Youth Soccer Club",
+   "id": "300514028",
+   "name": "Lionesses"
+  },
+  {
+   "club": "GLG SOL Club",
+   "id": "300389181",
+   "name": "GLG SF SOL Thrive"
   },
   {
    "club": "Woodland Alianza FC",
@@ -3951,9 +4011,54 @@
    "name": "United"
   },
   {
-   "club": "Dublin United",
-   "id": "300389247",
-   "name": "Black"
+   "club": "Pleasanton Rage",
+   "id": "300389134",
+   "name": "Pleasanton RAGE Select"
+  },
+  {
+   "club": "Albany Berkeley Soccer Club",
+   "id": "300389248",
+   "name": "Atchison Village Lightning"
+  },
+  {
+   "club": "Rosemont Soccer Club",
+   "id": "300514018",
+   "name": "RSC Lady Leopards"
+  },
+  {
+   "club": "East Sacramento Youth Soccer Club",
+   "id": "300514024",
+   "name": "East Sac G Bees"
+  },
+  {
+   "club": "Rosemont Soccer Club",
+   "id": "300514019",
+   "name": "RSC United"
+  },
+  {
+   "club": "Solano Surf",
+   "id": "300514042",
+   "name": "Turtles -"
+  },
+  {
+   "club": "Dixon",
+   "id": "300514053",
+   "name": "Dx Darts"
+  },
+  {
+   "club": "Great Basin Youth Soccer League",
+   "id": "300472208",
+   "name": "Westside Select"
+  },
+  {
+   "club": "Folsom Lake Surf Club",
+   "id": "300514032",
+   "name": "Roaring Riptide"
+  },
+  {
+   "club": "Folsom Lake Surf Club",
+   "id": "300514036",
+   "name": "Fire Hawks"
   },
   {
    "club": "Roseville Youth Soccer Club",
@@ -3961,14 +4066,29 @@
    "name": "Roseville SC Black"
   },
   {
-   "club": "Livermore Fusion SC",
-   "id": "300389363",
-   "name": "Girls Evo"
+   "club": "Dublin United",
+   "id": "12205992",
+   "name": "Girls Green"
   },
   {
-   "club": "Chowchilla Community Soccer League",
-   "id": "300485620",
-   "name": "Chowchilla FC"
+   "club": "Dublin United",
+   "id": "300389247",
+   "name": "Black"
+  },
+  {
+   "club": "West Sacramento Futbol Club",
+   "id": "300514022",
+   "name": "Girls SR (Titans)"
+  },
+  {
+   "club": "Solano Surf",
+   "id": "300514039",
+   "name": "AMETHYST -"
+  },
+  {
+   "club": "Davis Legacy Soccer Club",
+   "id": "300514017",
+   "name": "Davis Legacy Fusion"
   },
   {
    "club": "Prospector Soccer Club",
@@ -3976,9 +4096,59 @@
    "name": "Liberty Belles FC"
   },
   {
+   "club": "Del Dayo Soccer Club",
+   "id": "300514021",
+   "name": "DD Heat"
+  },
+  {
+   "club": "Folsom Lake Surf Club",
+   "id": "300514031",
+   "name": "Wild Cheetahs"
+  },
+  {
+   "club": "Chowchilla Community Soccer League",
+   "id": "300485620",
+   "name": "Chowchilla FC"
+  },
+  {
+   "club": "British American",
+   "id": "300514064",
+   "name": "BAC Sun Rays"
+  },
+  {
+   "club": "Solano Surf",
+   "id": "300514041",
+   "name": "Stingrays -"
+  },
+  {
+   "club": "Livermore Fusion SC",
+   "id": "300389363",
+   "name": "Girls Evo"
+  },
+  {
+   "club": "East Sacramento Youth Soccer Club",
+   "id": "300514026",
+   "name": "East Sac G Fireants"
+  },
+  {
    "club": "Fresno Metropolitan Youth Soccer League",
    "id": "300389514",
    "name": "metro fire"
+  },
+  {
+   "club": "Natomas United Youth Soccer",
+   "id": "300504454",
+   "name": "Girls - Earthquakes"
+  },
+  {
+   "club": "Greenhaven Soccer Club",
+   "id": "300514060",
+   "name": "GH Dolphins"
+  },
+  {
+   "club": "West Sacramento Futbol Club",
+   "id": "300514063",
+   "name": "Girls SR (Lady Legends FC)"
   },
   {
    "club": "Stanford Strikers FC",
@@ -4771,11 +4941,6 @@
    "name": "Red"
   },
   {
-   "club": "East San Jose FC",
-   "id": "12204359",
-   "name": "ESJFC Elite"
-  },
-  {
    "club": "Pleasanton Rage",
    "id": "12204964",
    "name": "Pleasanton RAGE Orange"
@@ -4799,16 +4964,6 @@
    "club": "Terra Bella Futbol Club",
    "id": "12205754",
    "name": "TBFC girls Elite"
-  },
-  {
-   "club": "Dublin United",
-   "id": "12205992",
-   "name": "Girls Green"
-  },
-  {
-   "club": "WESCO United",
-   "id": "12207680",
-   "name": "WESCO Blue"
   },
   {
    "club": "ALBION SC Silicon Valley San Mateo",
@@ -5046,11 +5201,6 @@
    "name": "Black"
   },
   {
-   "club": "SDSC Surf",
-   "id": "12281928",
-   "name": "Aspire"
-  },
-  {
    "club": "N",
    "id": "12285340",
    "name": "White (CA)"
@@ -5132,18 +5282,8 @@
   },
   {
    "club": "Land Park Soccer",
-   "id": "12317538",
-   "name": "Tsunami - Girls"
-  },
-  {
-   "club": "Land Park Soccer",
    "id": "12317720",
    "name": "Queens - Girls"
-  },
-  {
-   "club": "Palo Alto SC",
-   "id": "12321829",
-   "name": "Aspire"
   },
   {
    "club": "Central Coast Surf Soccer Club",
@@ -5427,11 +5567,6 @@
   },
   {
    "club": "Walnut Creek Surf Soccer Club",
-   "id": "15552150",
-   "name": "WCSC - Powell"
-  },
-  {
-   "club": "Walnut Creek Surf Soccer Club",
    "id": "15552200",
    "name": "WCSC - Wilson"
   },
@@ -5467,18 +5602,8 @@
   },
   {
    "club": "Castro Valley Soccer Club",
-   "id": "15553000",
-   "name": "U14Girls01"
-  },
-  {
-   "club": "Castro Valley Soccer Club",
    "id": "15553050",
    "name": "U14Girls02"
-  },
-  {
-   "club": "Castro Valley Soccer Club",
-   "id": "15553100",
-   "name": "U14Girls03"
   },
   {
    "club": "Mustang Soccer",
@@ -5492,11 +5617,6 @@
   },
   {
    "club": "Mustang Soccer",
-   "id": "15553300",
-   "name": "Super Rec - Mann"
-  },
-  {
-   "club": "Mustang Soccer",
    "id": "15553350",
    "name": "Mustang Super Rec - Luu"
   },
@@ -5504,16 +5624,6 @@
    "club": "Mustang Soccer",
    "id": "15553400",
    "name": "Super Rec - Burns"
-  },
-  {
-   "club": "Livermore Fusion SC",
-   "id": "15554250",
-   "name": "Fusion SC Girls Team"
-  },
-  {
-   "club": "Livermore Fusion SC",
-   "id": "15554300",
-   "name": "Fusion SC Girls Team"
   },
   {
    "club": "Livermore Fusion SC",
@@ -5586,6 +5696,11 @@
    "name": "RC Fearless Flames"
   },
   {
+   "club": "Rancho Cordova Soccer Club",
+   "id": "15687450",
+   "name": "RC Redhawks"
+  },
+  {
    "club": "Clippers FC",
    "id": "15694300",
    "name": "Girls Powell"
@@ -5641,6 +5756,11 @@
    "name": "- Ortega"
   },
   {
+   "club": "Ripon FC",
+   "id": "16389300",
+   "name": "2012/13G Red2"
+  },
+  {
    "club": "Legends FC",
    "id": "16482350",
    "name": "SGV (CA)"
@@ -5681,9 +5801,19 @@
    "name": "Eagles Crew"
   },
   {
+   "club": "FC Balboa",
+   "id": "300295057",
+   "name": "FCB"
+  },
+  {
    "club": "Blue Panthers Soccer Club",
    "id": "300389120",
    "name": "Blue Panthers Soccer Club"
+  },
+  {
+   "club": "Prospector Soccer Club",
+   "id": "300389146",
+   "name": "Havoc"
   },
   {
    "club": "Arden Park Soccer Club",
@@ -5734,11 +5864,6 @@
    "club": "GLG SOL Club",
    "id": "300389328",
    "name": "GLG SF SOL Courage"
-  },
-  {
-   "club": "Sierra Surf SC",
-   "id": "300389371",
-   "name": "Sierra Surf White"
   },
   {
    "club": "South East Fresno Youth Soccer League",
@@ -5946,6 +6071,11 @@
    "name": "Universal Sc Chaos"
   },
   {
+   "club": "ALBION SC San Diego",
+   "id": "300390307",
+   "name": "Academy"
+  },
+  {
    "club": "Nomads Soccer Club",
    "id": "300390310",
    "name": "North"
@@ -5956,9 +6086,19 @@
    "name": "Desert Empire Surf"
   },
   {
+   "club": "Vaqueros FC",
+   "id": "300390321",
+   "name": "PREMIER"
+  },
+  {
    "club": "Sporting San Diego",
    "id": "300390328",
    "name": "Green"
+  },
+  {
+   "club": "Rebels Soccer Club",
+   "id": "300390332",
+   "name": "Rebels Carlsbad"
   },
   {
    "club": "PYSL Blast SC",
@@ -6006,6 +6146,21 @@
    "name": "California United FC"
   },
   {
+   "club": "United SoCal",
+   "id": "300390439",
+   "name": "Conejo Valley"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390450",
+   "name": "South OC"
+  },
+  {
+   "club": "LA Breakers FC",
+   "id": "300390452",
+   "name": "Long Beach Blue"
+  },
+  {
    "club": "AYSO United Channel Islands",
    "id": "300390462",
    "name": "United Channel Islands"
@@ -6024,6 +6179,16 @@
    "club": "Titans FC Inland Empire",
    "id": "300390474",
    "name": "Girls"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300390496",
+   "name": "San Bernardino FC"
+  },
+  {
+   "club": "Chelsea OC",
+   "id": "300390501",
+   "name": "RS"
   },
   {
    "club": "Cardiff Sockers",
@@ -6051,6 +6216,11 @@
    "name": "White"
   },
   {
+   "club": "United SoCal",
+   "id": "300390537",
+   "name": "East County (SD) Blue"
+  },
+  {
    "club": "So Cal Blues SC",
    "id": "300390544",
    "name": "Rennie"
@@ -6074,6 +6244,41 @@
    "club": "Legends FC SD (DMCV)",
    "id": "300390576",
    "name": "ECNL-RL"
+  },
+  {
+   "club": "NHB Futbol Club",
+   "id": "300390578",
+   "name": "NHB Black"
+  },
+  {
+   "club": "Los Angeles Football Club",
+   "id": "300390580",
+   "name": "PC"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390586",
+   "name": "San Diego"
+  },
+  {
+   "club": "United SoCal",
+   "id": "300390592",
+   "name": "AV"
+  },
+  {
+   "club": "Legends FC SD (DMCV)",
+   "id": "300390599",
+   "name": "DM FC"
+  },
+  {
+   "club": "Legends FC SD (DMCV)",
+   "id": "300390601",
+   "name": "DM Gold"
+  },
+  {
+   "club": "Express Soccer",
+   "id": "300390602",
+   "name": "Premier Owens"
   },
   {
    "club": "Sporting California USA",
@@ -6101,6 +6306,11 @@
    "name": "Girls Extra"
   },
   {
+   "club": "San Diego FORCE FC",
+   "id": "300390635",
+   "name": "Girls Academy"
+  },
+  {
    "club": "San Diego Force FC",
    "id": "300390638",
    "name": "Academy I"
@@ -6116,9 +6326,19 @@
    "name": "NL Arc"
   },
   {
+   "club": "United SoCal",
+   "id": "300390647",
+   "name": "North County White"
+  },
+  {
    "club": "Oceanside Breakers",
    "id": "300390648",
    "name": "Blue"
+  },
+  {
+   "club": "Legends San Diego",
+   "id": "300390658",
+   "name": "FC"
   },
   {
    "club": "Legends San Diego",
@@ -6391,11 +6611,6 @@
    "name": "JH (CA)"
   },
   {
-   "club": "Rangers FC",
-   "id": "300491232",
-   "name": "GA-12/13"
-  },
-  {
    "club": "Atwater Kaos Futbol Club",
    "id": "300491814",
    "name": "G Blue Gutierrez"
@@ -6446,11 +6661,6 @@
    "name": "Union FC"
   },
   {
-   "club": "San Diego Rush Soccer Club",
-   "id": "300497741",
-   "name": "Premier Tillett"
-  },
-  {
    "club": "Rangers FC",
    "id": "300502089",
    "name": "South Blue (Pineda)"
@@ -6459,11 +6669,6 @@
    "club": "Legends FC",
    "id": "300502095",
    "name": "OC Black"
-  },
-  {
-   "club": "Albion SC San Diego",
-   "id": "300502096",
-   "name": "CS Academy"
   },
   {
    "club": "Legends FC",
@@ -6479,16 +6684,6 @@
    "club": "La Familia",
    "id": "300502116",
    "name": "La Familia"
-  },
-  {
-   "club": "Vaqueros FC",
-   "id": "300502118",
-   "name": "Premier"
-  },
-  {
-   "club": "Natomas United Youth Soccer",
-   "id": "300504454",
-   "name": "Girls - Earthquakes"
   },
   {
    "club": "SAN MATEO COUNTY FOOTBALL CLUB",
@@ -6526,11 +6721,6 @@
    "name": "ES/AW"
   },
   {
-   "club": "Nomads",
-   "id": "300504559",
-   "name": "North"
-  },
-  {
    "club": "North Valley Youth Soccer League",
    "id": "300509375",
    "name": "NV/SJ United Green"
@@ -6561,69 +6751,14 @@
    "name": "Fall"
   },
   {
-   "club": "Rosemont Soccer Club",
-   "id": "300514018",
-   "name": "RSC Lady Leopards"
-  },
-  {
-   "club": "Rosemont Soccer Club",
-   "id": "300514019",
-   "name": "RSC United"
-  },
-  {
-   "club": "Rosemont Soccer Club",
-   "id": "300514020",
-   "name": "RSC Fury"
-  },
-  {
-   "club": "Del Dayo Soccer Club",
-   "id": "300514021",
-   "name": "DD Heat"
-  },
-  {
-   "club": "West Sacramento Futbol Club",
-   "id": "300514022",
-   "name": "Girls SR (Titans)"
-  },
-  {
-   "club": "Valley Center Hurricanes",
-   "id": "300514023",
-   "name": "GU14"
-  },
-  {
-   "club": "East Sacramento Youth Soccer Club",
-   "id": "300514024",
-   "name": "East Sac G Bees"
-  },
-  {
    "club": "East Sacramento Youth Soccer Club",
    "id": "300514025",
    "name": "East Sac G Flying Cheetahs"
   },
   {
-   "club": "East Sacramento Youth Soccer Club",
-   "id": "300514026",
-   "name": "East Sac G Fireants"
-  },
-  {
-   "club": "North Highlands Antelope Youth Soccer Club",
-   "id": "300514028",
-   "name": "Lionesses"
-  },
-  {
    "club": "North Highlands Antelope Youth Soccer Club",
    "id": "300514029",
    "name": "Pink Dragons"
-  },
-  {
-   "club": "Folsom Lake Surf Club",
-   "id": "300514031",
-   "name": "Wild Cheetahs"
-  },
-  {
-   "club": "Folsom Lake Surf Club",
-   "id": "300514032",
-   "name": "Roaring Riptide"
   },
   {
    "club": "Gold Nugget Soccer Club",
@@ -6636,29 +6771,9 @@
    "name": "Skittles"
   },
   {
-   "club": "Folsom Lake Surf Club",
-   "id": "300514036",
-   "name": "Fire Hawks"
-  },
-  {
-   "club": "Solano Surf",
-   "id": "300514039",
-   "name": "AMETHYST -"
-  },
-  {
    "club": "Solano Surf",
    "id": "300514040",
    "name": "Tidal Waves -"
-  },
-  {
-   "club": "Solano Surf",
-   "id": "300514041",
-   "name": "Stingrays -"
-  },
-  {
-   "club": "Solano Surf",
-   "id": "300514042",
-   "name": "Turtles -"
   },
   {
    "club": "Albany Berkeley Soccer Club",
@@ -6676,19 +6791,9 @@
    "name": "Eagles"
   },
   {
-   "club": "Dixon",
-   "id": "300514053",
-   "name": "Dx Darts"
-  },
-  {
    "club": "Sierra Gold Soccer Club",
    "id": "300514054",
    "name": "SGSC Panthers"
-  },
-  {
-   "club": "Palo Alto SC",
-   "id": "300514056",
-   "name": "Blue"
   },
   {
    "club": "Greenhaven Soccer Club",
@@ -6701,59 +6806,9 @@
    "name": "GH Rockstars"
   },
   {
-   "club": "Greenhaven Soccer Club",
-   "id": "300514060",
-   "name": "GH Dolphins"
-  },
-  {
-   "club": "West Sacramento Futbol Club",
-   "id": "300514063",
-   "name": "Girls SR (Lady Legends FC)"
-  },
-  {
-   "club": "British American",
-   "id": "300514064",
-   "name": "BAC Sun Rays"
-  },
-  {
-   "club": "Empire Surf",
-   "id": "300514193",
-   "name": "North"
-  },
-  {
    "club": "City SC - San Marcos",
    "id": "300514196",
    "name": "Premier C Hernandez"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300514200",
-   "name": "San Diego White"
-  },
-  {
-   "club": "South Bay FC",
-   "id": "300514201",
-   "name": "GU14-Olivares-Select"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300514204",
-   "name": "Menifee"
-  },
-  {
-   "club": "Oaks Futbol Club",
-   "id": "300514212",
-   "name": "Red"
-  },
-  {
-   "club": "PYSL Blast SC",
-   "id": "300514213",
-   "name": "Schmidt"
-  },
-  {
-   "club": "California Rush Soccer Club",
-   "id": "300514214",
-   "name": "Cinza - Moreno Valley"
   },
   {
    "club": "Coyotes FC",
@@ -6764,11 +6819,6 @@
    "club": "LA City United",
    "id": "300514221",
    "name": "Obama Elite"
-  },
-  {
-   "club": "Inland Surf",
-   "id": "300514223",
-   "name": "DPL"
   },
   {
    "club": "Foothill Storm Soccer Club",
@@ -6791,11 +6841,6 @@
    "name": "Crusaders FC"
   },
   {
-   "club": "Southwest Soccer Club",
-   "id": "300514231",
-   "name": "ELITE"
-  },
-  {
    "club": "Whittier Area Youth Soccer",
    "id": "300514235",
    "name": "GU14"
@@ -6804,16 +6849,6 @@
    "club": "AYSO REGION",
    "id": "300514240",
    "name": "AYSO REGION EXTRA \"ARSENAL\""
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300514243",
-   "name": "Corona/Norco Navy"
-  },
-  {
-   "club": "Athletic Soccer Club",
-   "id": "300514244",
-   "name": "Corona/Norco White"
   },
   {
    "club": "Legends FC",
@@ -6831,29 +6866,9 @@
    "name": "JOGA Bonito Valor"
   },
   {
-   "club": "TOTAL FUTBOL ACADEMY",
-   "id": "300514265",
-   "name": "TFA-Glendale White"
-  },
-  {
-   "club": "SDSC Surf Soccer Club",
-   "id": "300514271",
-   "name": "White"
-  },
-  {
-   "club": "Legends FC - Del Mar",
-   "id": "300514272",
-   "name": "GU14"
-  },
-  {
    "club": "Legends FC",
    "id": "300518749",
    "name": "Legends FC - Legends FC Gold"
-  },
-  {
-   "club": "Beach Futbol Club",
-   "id": "300518751",
-   "name": "CA) ECNL RL Gold"
   },
   {
    "club": "Ventura Surf Soccer Club",
@@ -6864,11 +6879,6 @@
    "club": "Union Sacramento FC",
    "id": "300531012",
    "name": "ADP"
-  },
-  {
-   "club": "West Hills United FC",
-   "id": "300531013",
-   "name": "West Hills United FC Gold"
   },
   {
    "club": "Oakdale Soccer Club",
@@ -6894,11 +6904,6 @@
    "club": "Legends FC",
    "id": "300542608",
    "name": "ECNL"
-  },
-  {
-   "club": "Mustang Soccer",
-   "id": "300542609",
-   "name": "Mustang SC ECNL RL"
   },
   {
    "club": "Legends FC",
@@ -7037,11 +7042,6 @@
   },
   {
    "club": "Force",
-   "id": "300542640",
-   "name": "CA) ECNL"
-  },
-  {
-   "club": "Force",
    "id": "300542641",
    "name": "CA) ECNL RL"
   },
@@ -7131,19 +7131,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "North Coast Futbol Club",
-   "id": "300542660",
-   "name": "North Coast FC BLUE ECNL RL"
-  },
-  {
    "club": "Emerald Football Club",
    "id": "300548951",
    "name": "EFC"
-  },
-  {
-   "club": "1974 Newark FC",
-   "id": "300549106",
-   "name": "BLACK"
   },
   {
    "club": "Diablo Valley Futbol Club",
@@ -7151,29 +7141,14 @@
    "name": "DVFC Delta"
   },
   {
-   "club": "Central California Soccer Alliance",
-   "id": "300549928",
-   "name": "CCSA Blk"
-  },
-  {
    "club": "Visalia United FC",
    "id": "300549930",
    "name": "United FC DPL"
   },
   {
-   "club": "North Marin United",
-   "id": "300549931",
-   "name": "Girls Black"
-  },
-  {
    "club": "Bay Area Surf",
    "id": "300549932",
    "name": "Bay Area Surf -"
-  },
-  {
-   "club": "Santa Rosa Empire Soccer Club",
-   "id": "300549933",
-   "name": "Blitz"
   },
   {
    "club": "Allstars SC",
@@ -7194,16 +7169,6 @@
    "club": "FLYTE SC IE",
    "id": "300551171",
    "name": "DPLO"
-  },
-  {
-   "club": "San Diego Rush Soccer Club",
-   "id": "300551172",
-   "name": "DPL"
-  },
-  {
-   "club": "Visalia United FC",
-   "id": "300551173",
-   "name": "DPL"
   },
   {
    "club": "Stockton Youth Soccer Association",
@@ -7231,11 +7196,6 @@
    "name": "PV United"
   },
   {
-   "club": "ALBION SC Silicon Valley San Mateo",
-   "id": "300552808",
-   "name": "SM Academy"
-  },
-  {
    "club": "San Francisco Elite Academy",
    "id": "300552809",
    "name": "SFEA Orange"
@@ -7254,6 +7214,56 @@
    "club": "Ravenswood Juniors Soccer Club",
    "id": "300558101",
    "name": "Madrid"
+  },
+  {
+   "club": "SDSC Surf",
+   "id": "300559010",
+   "name": "Aspire"
+  },
+  {
+   "club": "Livermore Fusion SC",
+   "id": "300559011",
+   "name": "Fusion SC Girls Team"
+  },
+  {
+   "club": "Castro Valley Soccer Club",
+   "id": "300559012",
+   "name": "U14Girls01"
+  },
+  {
+   "club": "Palo Alto SC",
+   "id": "300559013",
+   "name": "Aspire"
+  },
+  {
+   "club": "Livermore Fusion SC",
+   "id": "300559014",
+   "name": "Fusion SC Girls Team"
+  },
+  {
+   "club": "Land Park Soccer",
+   "id": "300559558",
+   "name": "Tsunami - Girls"
+  },
+  {
+   "club": "Mustang Soccer",
+   "id": "300559559",
+   "name": "Super Rec - Mann"
+  },
+  {
+   "club": "Walnut Creek Surf Soccer Club",
+   "id": "300559560",
+   "name": "WCSC - Powell"
+  },
+  {
+   "club": "Castro Valley Soccer Club",
+   "id": "300559561",
+   "name": "U14Girls03"
+  },
+  {
+   "club": "Fair Oaks SC",
+   "id": "300559562",
+   "name": "FOSC Valkyries"
   }
  ]
 }

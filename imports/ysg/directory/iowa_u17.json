@@ -1,7 +1,7 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-13T14:57:02.737821+00:00",
+ "fetched_at": "2026-10-20T12:24:46.450554+00:00",
  "state": "IA",
  "state_slug": "iowa",
  "teams": [
@@ -26,14 +26,14 @@
    "name": "GA"
   },
   {
-   "club": "WIN Surf",
-   "id": "300351478",
-   "name": "WIN Surf (IA)"
-  },
-  {
    "club": "FC United",
    "id": "300540215",
    "name": "FC United Iowa ECNL RL"
+  },
+  {
+   "club": "WIN Surf",
+   "id": "300351478",
+   "name": "WIN Surf (IA)"
   },
   {
    "club": "VSA Rush",
@@ -51,19 +51,14 @@
    "name": "FC America Girls"
   },
   {
+   "club": "TNT Soccer Elite",
+   "id": "300351451",
+   "name": "2010/11G"
+  },
+  {
    "club": "Cedar River Soccer Association",
    "id": "300351453",
    "name": "CRSA Girls"
-  },
-  {
-   "club": "FC United",
-   "id": "300351475",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Iowa Soccer Club",
-   "id": "300351469",
-   "name": "Iowa ODP -"
   },
   {
    "club": "Sporting Iowa",
@@ -71,14 +66,19 @@
    "name": "RL"
   },
   {
-   "club": "TNT Soccer Elite",
-   "id": "300351451",
-   "name": "2010/11G"
-  },
-  {
    "club": "FC America",
    "id": "300351450",
    "name": "FC America Girls White"
+  },
+  {
+   "club": "Iowa Soccer Club",
+   "id": "300351469",
+   "name": "Iowa ODP -"
+  },
+  {
+   "club": "FC United",
+   "id": "300351475",
+   "name": "ECNL RL"
   },
   {
    "club": "AYSO United Cedar Rapids",
@@ -87,8 +87,18 @@
   },
   {
    "club": "Iowa Storm Soccer Club",
+   "id": "300351442",
+   "name": "U14/U15G"
+  },
+  {
+   "club": "Iowa Storm Soccer Club",
    "id": "300351479",
    "name": "Iowa Storm"
+  },
+  {
+   "club": "Western Iowa Surf",
+   "id": "300351440",
+   "name": "Western Iowa SURF"
   },
   {
    "club": "FC United",
@@ -136,9 +146,14 @@
    "name": "Ames Girls Navy"
   },
   {
-   "club": "Decorah United",
-   "id": "11818457",
-   "name": "Decorah United Girls"
+   "club": "Ames Soccer Club",
+   "id": "300558945",
+   "name": "Ames Girls Navy"
+  },
+  {
+   "club": "JUSC",
+   "id": "12038428",
+   "name": "JUSC Argentina"
   },
   {
    "club": "Dubuque Soccer Club",
@@ -156,11 +171,6 @@
    "name": "NP United"
   },
   {
-   "club": "Ames Soccer Club",
-   "id": "11866608",
-   "name": "Ames Girls Navy"
-  },
-  {
    "club": "VSSC",
    "id": "11872844",
    "name": "16UG"
@@ -169,16 +179,6 @@
    "club": "Top notch talent",
    "id": "11912165",
    "name": "TNT Soccer Elite"
-  },
-  {
-   "club": "Iowa Storm Soccer Club",
-   "id": "300351442",
-   "name": "U14/U15G"
-  },
-  {
-   "club": "JUSC",
-   "id": "12038428",
-   "name": "JUSC Argentina"
   },
   {
    "club": "JUSC",
@@ -224,11 +224,6 @@
    "club": "TNT Soccer Elite",
    "id": "12184145",
    "name": "TNT Soccer"
-  },
-  {
-   "club": "Western Iowa Surf",
-   "id": "300351440",
-   "name": "Western Iowa SURF"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-13T15:44:14.201141+00:00",
+ "fetched_at": "2026-10-20T13:11:56.548321+00:00",
  "state": "TN",
  "state_slug": "tennessee",
  "teams": [
@@ -16,29 +16,14 @@
    "name": "Tennessee SC ECNL"
   },
   {
-   "club": "Purple Rain SC",
-   "id": "300402003",
-   "name": "Purple Rain Purple"
-  },
-  {
-   "club": "Lobos Rush",
-   "id": "300402022",
-   "name": "Lady Lobos Rush ECNL RL"
-  },
-  {
-   "club": "Germantown Legends Soccer Club",
-   "id": "300402016",
-   "name": "Germantown Legends White"
-  },
-  {
    "club": "Tennessee Soccer Club",
    "id": "300486315",
    "name": "Murfreesboro ECNL RL"
   },
   {
-   "club": "One Knoxville Youth Club",
-   "id": "300402019",
-   "name": "GA"
+   "club": "Purple Rain SC",
+   "id": "300402003",
+   "name": "Purple Rain Purple"
   },
   {
    "club": "Chattanooga Red Wolves SC",
@@ -46,9 +31,19 @@
    "name": "Chattanooga Red Wolves ECNL RL"
   },
   {
-   "club": "Tennessee Soccer Academy",
-   "id": "300402013",
-   "name": "TSA Navy"
+   "club": "One Knoxville Youth Club",
+   "id": "300402019",
+   "name": "GA"
+  },
+  {
+   "club": "Lobos Rush",
+   "id": "300531530",
+   "name": "Lobos Rush ECNL RL"
+  },
+  {
+   "club": "Tennessee United Soccer Club",
+   "id": "300402040",
+   "name": "ECNL RL"
   },
   {
    "club": "FC Alliance",
@@ -61,19 +56,14 @@
    "name": "GA"
   },
   {
-   "club": "Tennessee United Soccer Club",
-   "id": "300402040",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Germantown Legends Soccer Club",
    "id": "300402047",
    "name": "ECNL RL"
   },
   {
-   "club": "Tennessee Soccer Club",
-   "id": "300402038",
-   "name": "Tennessee SC ECNL RL"
+   "club": "Germantown Legends Soccer Club",
+   "id": "300402016",
+   "name": "Germantown Legends White"
   },
   {
    "club": "OLE FC",
@@ -81,9 +71,19 @@
    "name": "Ole FC Premier (TN)"
   },
   {
+   "club": "Tennessee Soccer Club",
+   "id": "300402038",
+   "name": "Tennessee SC ECNL RL"
+  },
+  {
    "club": "Chattanooga Football Club Academy",
    "id": "300477049",
    "name": "Chattanooga FC Elite - DPL"
+  },
+  {
+   "club": "Tennessee Soccer Academy",
+   "id": "300402013",
+   "name": "TSA Navy"
   },
   {
    "club": "FC Alliance",
@@ -96,69 +96,9 @@
    "name": "TUSC Girls NPL"
   },
   {
-   "club": "Lobos Rush",
-   "id": "300402035",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Tennessee Soccer Club",
    "id": "300402026",
    "name": "TSC Williamson Girls NPL"
-  },
-  {
-   "club": "OLE FC",
-   "id": "300468089",
-   "name": "OLE FC G Elite"
-  },
-  {
-   "club": "Midsouth Bartlett",
-   "id": "300402027",
-   "name": "Midsouth Bartlett Girls"
-  },
-  {
-   "club": "Tennessee Soccer Club",
-   "id": "300402002",
-   "name": "TSC Sumner Girls NPL"
-  },
-  {
-   "club": "Lobos Rush",
-   "id": "300402024",
-   "name": "Lady Lobos Rush Elite"
-  },
-  {
-   "club": "Purple Rain Soccer Club",
-   "id": "300402043",
-   "name": "Purple Rain WHITE"
-  },
-  {
-   "club": "Kings Hammer Soccer Club",
-   "id": "300402006",
-   "name": "KH ELITE MURFREESBORO"
-  },
-  {
-   "club": "Tennessee Soccer Academy",
-   "id": "300537699",
-   "name": "TSA Girls Red"
-  },
-  {
-   "club": "One Knoxville Youth Club",
-   "id": "300488185",
-   "name": "One Knox (TN)"
-  },
-  {
-   "club": "Stones River Futbol Club",
-   "id": "300549518",
-   "name": "Stones River FC Girls"
-  },
-  {
-   "club": "Nashville United Soccer Academy",
-   "id": "300552387",
-   "name": "NUSA Maroon (TN)"
-  },
-  {
-   "club": "Music City Football Club",
-   "id": "300555962",
-   "name": "MCFC Girls Navy"
   },
   {
    "club": "Tennessee United SC",
@@ -166,14 +106,74 @@
    "name": "TUSC Red (TN)"
   },
   {
-   "club": "Tennessee Soccer Club",
-   "id": "300555959",
-   "name": "TSC Williamson Select"
+   "club": "Lobos Rush",
+   "id": "300402035",
+   "name": "ECNL RL"
   },
   {
-   "club": "Nashville United Soccer Acd (NUSA)",
-   "id": "300555960",
-   "name": "NUSA GA"
+   "club": "OLE FC",
+   "id": "300468089",
+   "name": "OLE FC G Elite"
+  },
+  {
+   "club": "Tennessee Soccer Club",
+   "id": "300402002",
+   "name": "TSC Sumner Girls NPL"
+  },
+  {
+   "club": "Midsouth Bartlett",
+   "id": "300402027",
+   "name": "Midsouth Bartlett Girls"
+  },
+  {
+   "club": "Purple Rain Soccer Club",
+   "id": "300402043",
+   "name": "Purple Rain WHITE"
+  },
+  {
+   "club": "Lobos Rush",
+   "id": "300402024",
+   "name": "Lady Lobos Rush Elite"
+  },
+  {
+   "club": "Kings Hammer Soccer Club",
+   "id": "300402006",
+   "name": "KH ELITE MURFREESBORO"
+  },
+  {
+   "club": "One Knoxville Youth Club",
+   "id": "300488185",
+   "name": "One Knox (TN)"
+  },
+  {
+   "club": "Tennessee Soccer Academy",
+   "id": "300537699",
+   "name": "TSA Girls Red"
+  },
+  {
+   "club": "Purple Rain SC",
+   "id": "300543287",
+   "name": "Purple Rain - Glaser"
+  },
+  {
+   "club": "Lobos Rush",
+   "id": "300402014",
+   "name": "Lady DeSoto Blue"
+  },
+  {
+   "club": "Nashville United Soccer Academy",
+   "id": "300558581",
+   "name": "GA"
+  },
+  {
+   "club": "GO SC",
+   "id": "300555963",
+   "name": "GO SC DN"
+  },
+  {
+   "club": "Music City Football Club",
+   "id": "300555962",
+   "name": "MCFC Girls Navy"
   },
   {
    "club": "Chattanooga Red Wolves Academy",
@@ -181,9 +181,24 @@
    "name": "Chattanooga Red Wolves Red"
   },
   {
-   "club": "Germantown Legends",
-   "id": "300543282",
-   "name": "ECNL RL"
+   "club": "Nashville United Soccer Acd (NUSA)",
+   "id": "300555960",
+   "name": "NUSA GA"
+  },
+  {
+   "club": "Tennessee Soccer Club",
+   "id": "300555959",
+   "name": "TSC Williamson Select"
+  },
+  {
+   "club": "Nashville United Soccer Academy",
+   "id": "300552387",
+   "name": "NUSA Maroon (TN)"
+  },
+  {
+   "club": "Stones River Futbol Club",
+   "id": "300549518",
+   "name": "Stones River FC Girls"
   },
   {
    "club": "Tennessee United Soccer Club",
@@ -196,24 +211,9 @@
    "name": "Murfreesboro ECNL RL"
   },
   {
-   "club": "Purple Rain SC",
-   "id": "300543287",
-   "name": "Purple Rain - Glaser"
-  },
-  {
    "club": "Germantown Legends",
    "id": "300543286",
    "name": "Germantown Lady Legends White"
-  },
-  {
-   "club": "Jackson SC(TN)",
-   "id": "300474388",
-   "name": "JSC Girls"
-  },
-  {
-   "club": "GO SC",
-   "id": "300555963",
-   "name": "GO SC DN"
   },
   {
    "club": "FC Alliance TN",
@@ -226,19 +226,19 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Jackson SC(TN)",
-   "id": "300514736",
-   "name": "JSC Girls"
-  },
-  {
-   "club": "Lobos Rush",
-   "id": "300531530",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Chattanooga Red Wolves SC",
    "id": "300543283",
    "name": "Chattanooga Red Wolves ECNL RL"
+  },
+  {
+   "club": "Germantown Legends",
+   "id": "300543282",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "FC Alliance TN",
+   "id": "300543281",
+   "name": "ECNL"
   },
   {
    "club": "Tennessee SC",
@@ -246,9 +246,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "FC Alliance TN",
-   "id": "300543281",
-   "name": "ECNL"
+   "club": "Jackson SC(TN)",
+   "id": "300474388",
+   "name": "JSC Girls"
+  },
+  {
+   "club": "Jackson SC(TN)",
+   "id": "300514736",
+   "name": "JSC Girls"
   },
   {
    "club": "FC Alliance TN",
@@ -264,11 +269,6 @@
    "club": "Chattanooga Football Club Academy",
    "id": "12284362",
    "name": "Aspire"
-  },
-  {
-   "club": "Nashville United Soccer Academy",
-   "id": "12281903",
-   "name": "GA"
   },
   {
    "club": "Tennessee Soccer Club",
@@ -316,14 +316,9 @@
    "name": "Girls"
   },
   {
-   "club": "Tennessee Soccer Club",
-   "id": "16348550",
-   "name": "TSC Williamson Girls Elite"
-  },
-  {
-   "club": "Lobos Rush",
-   "id": "300402014",
-   "name": "Lady DeSoto Blue"
+   "club": "One Knoxville YC",
+   "id": "16348450",
+   "name": "One Knox GA"
   },
   {
    "club": "Signal Mountain Soccer League",
@@ -361,9 +356,9 @@
    "name": "TSC Nashville Girls Premier"
   },
   {
-   "club": "One Knoxville YC",
-   "id": "16348450",
-   "name": "One Knox GA"
+   "club": "Tennessee Soccer Club",
+   "id": "16348550",
+   "name": "TSC Williamson Girls Elite"
   },
   {
    "club": "Chattanooga Red Wolves Academy",
