@@ -2926,7 +2926,7 @@
    "candidates": [],
    "canonical_id": "T015fd8a2c7",
    "club": "McLean Youth Soccer",
-   "name": "McLean Youth Soccer Girls White",
+   "name": "McLean Youth Soccer McLean Youth Soccer Girls White",
    "state": "VA",
    "status": "confirmed"
   },
@@ -5020,19 +5020,19 @@
   },
   "ysg:14350550": {
    "age": "GU10",
-   "at": "2026-10-10T18:21:23Z",
-   "by": "auto",
+   "at": "2026-10-20T15:39:45Z",
+   "by": "auto-label",
    "candidates": [
     {
      "canonical_id": "Tc8ca40fc38",
      "similarity": 0.793
     }
    ],
-   "canonical_id": null,
+   "canonical_id": "Tc8ca40fc38",
    "club": "Loudoun Soccer Club",
    "name": "LOUD Spirit Red",
    "state": "VA",
-   "status": "pending"
+   "status": "confirmed"
   },
   "ysg:14350750": {
    "age": "GU15",
@@ -9080,7 +9080,7 @@
   },
   "ysg:300441534": {
    "age": "GU12",
-   "at": "2026-10-19T21:16:01Z",
+   "at": "2026-10-20T15:39:43Z",
    "by": "manual",
    "candidates": [],
    "canonical_id": "T8dd1c4c086",
@@ -9146,12 +9146,13 @@
   },
   "ysg:300441572": {
    "age": "GU12",
-   "at": "2026-10-10T16:59:16Z",
-   "by": "auto-new",
+   "at": "2026-10-20T15:39:43Z",
+   "by": "auto-evidence",
    "candidates": [],
-   "canonical_id": "Tf0352a30b6",
+   "canonical_id": "T56cdb2f197",
    "club": "Virginia Revolution SC",
-   "name": "VRSC",
+   "evidence_dates": 1,
+   "name": "U12G Pre-GA2",
    "state": "VA",
    "status": "confirmed"
   },
@@ -9278,7 +9279,7 @@
   },
   "ysg:300441635": {
    "age": "GU12",
-   "at": "2026-10-19T21:16:01Z",
+   "at": "2026-10-20T15:39:43Z",
    "by": "manual",
    "candidates": [
     {
@@ -9294,8 +9295,8 @@
   },
   "ysg:300441638": {
    "age": "GU12",
-   "at": "2026-10-10T16:59:16Z",
-   "by": "auto",
+   "at": "2026-10-20T15:39:45Z",
+   "by": "auto-label",
    "candidates": [
     {
      "canonical_id": "T4a54a3b4af",
@@ -9304,9 +9305,9 @@
    ],
    "canonical_id": "T4a54a3b4af",
    "club": "Virginia Revolution SC",
-   "name": "VRSC Black",
+   "name": "Black",
    "state": "VA",
-   "status": "probable"
+   "status": "confirmed"
   },
   "ysg:300442011": {
    "age": "GU12",
@@ -9527,12 +9528,12 @@
   },
   "ysg:300456792": {
    "age": "GU11",
-   "at": "2026-10-10T18:21:23Z",
-   "by": "auto-new",
+   "at": "2026-10-20T15:39:45Z",
+   "by": "auto-label",
    "candidates": [],
-   "canonical_id": "T1c7a9bc836",
+   "canonical_id": "Tb4d6144687",
    "club": "Virginia Revolution SC",
-   "name": "VRSC",
+   "name": "U11G Pre-GA2",
    "state": "VA",
    "status": "confirmed"
   },
@@ -9980,10 +9981,10 @@
   },
   "ysg:300466445": {
    "age": "GU10",
-   "at": "2026-10-10T18:21:23Z",
-   "by": "auto-new",
+   "at": "2026-10-20T15:39:45Z",
+   "by": "auto-label",
    "candidates": [],
-   "canonical_id": "Tb785555b3c",
+   "canonical_id": "Tc8ca40fc38",
    "club": "Loudoun Soccer Club",
    "name": "Loudoun Spirit Red",
    "state": "VA",
@@ -10193,7 +10194,7 @@
    "candidates": [],
    "canonical_id": "T5caabb69a1",
    "club": "Hickory Soccer Club",
-   "name": "Girls HSC Team Pulaski",
+   "name": "Girls HSC",
    "state": "MD",
    "status": "confirmed"
   },
@@ -12193,17 +12194,6 @@
    "region": null,
    "state": "VA"
   },
-  "T1c7a9bc836": {
-   "age": "GU11",
-   "club": "Virginia Revolution SC",
-   "created": "2026-10-10T18:21:23Z",
-   "gender": "G",
-   "id": "T1c7a9bc836",
-   "name": "VRSC",
-   "ncsl_key": null,
-   "region": null,
-   "state": "VA"
-  },
   "T1d1a085f3f": {
    "age": "GU9",
    "club": "Alexandria Soccer Association - Travel",
@@ -13194,7 +13184,7 @@
   },
   "T4a54a3b4af": {
    "age": "GU12",
-   "club": null,
+   "club": "Virginia Revolution SC",
    "created": "2026-10-10T16:06:08Z",
    "gender": "G",
    "id": "T4a54a3b4af",
@@ -13204,7 +13194,7 @@
    "ncsl_division": "116702967",
    "ncsl_key": "113535009",
    "region": null,
-   "state": null
+   "state": "VA"
   },
   "T4a79805777": {
    "age": "GU14",
@@ -13540,7 +13530,7 @@
   },
   "T56cdb2f197": {
    "age": "GU12",
-   "club": null,
+   "club": "Virginia Revolution SC",
    "created": "2026-10-10T16:06:08Z",
    "gender": "G",
    "id": "T56cdb2f197",
@@ -13550,7 +13540,7 @@
    "ncsl_division": "116702968",
    "ncsl_key": "113531497",
    "region": null,
-   "state": null
+   "state": "VA"
   },
   "T573d09b030": {
    "age": "GU10",
@@ -16000,7 +15990,7 @@
   },
   "Tb4d6144687": {
    "age": "GU11",
-   "club": null,
+   "club": "Virginia Revolution SC",
    "created": "2026-10-10T16:06:08Z",
    "gender": "G",
    "id": "Tb4d6144687",
@@ -16010,7 +16000,7 @@
    "ncsl_division": "116702991",
    "ncsl_key": "115312684",
    "region": null,
-   "state": null
+   "state": "VA"
   },
   "Tb573f016b1": {
    "age": "GU10",
@@ -16075,17 +16065,6 @@
    "ncsl_key": "116805929",
    "region": null,
    "state": null
-  },
-  "Tb785555b3c": {
-   "age": "GU10",
-   "club": "Loudoun Soccer Club",
-   "created": "2026-10-10T18:21:23Z",
-   "gender": "G",
-   "id": "Tb785555b3c",
-   "name": "Loudoun Spirit Red",
-   "ncsl_key": null,
-   "region": null,
-   "state": "VA"
   },
   "Tb7920fa548": {
    "age": "GU14",
@@ -16606,7 +16585,7 @@
   },
   "Tc8ca40fc38": {
    "age": "GU10",
-   "club": null,
+   "club": "Loudoun Soccer Club",
    "created": "2026-10-10T16:06:08Z",
    "gender": "G",
    "id": "Tc8ca40fc38",
@@ -16616,7 +16595,7 @@
    "ncsl_division": "116702979",
    "ncsl_key": "114582246",
    "region": null,
-   "state": null
+   "state": "VA"
   },
   "Tc9023daadc": {
    "age": "GU14",
@@ -17668,17 +17647,6 @@
    "ncsl_code": "NG1194",
    "ncsl_division": "116702960",
    "ncsl_key": "114608078",
-   "region": null,
-   "state": "VA"
-  },
-  "Tf0352a30b6": {
-   "age": "GU12",
-   "club": "Virginia Revolution SC",
-   "created": "2026-10-10T16:59:16Z",
-   "gender": "G",
-   "id": "Tf0352a30b6",
-   "name": "VRSC",
-   "ncsl_key": null,
    "region": null,
    "state": "VA"
   },
