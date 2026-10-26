@@ -35,14 +35,35 @@ def ncsl_game(div_name):
     return [g for g in games.values() if reg[g["division_id"]]["name"] == div_name and g["status"] == "final"]
 
 
+def _unique_fingerprint_games(div_name, age_prefix):
+    """Two games of one home team whose (date, score) fingerprint no other same-age game shares.
+
+    The linker matches a renamed team only on games nobody else could explain. Real results can
+    coincide (another team winning by the same score on the same day), which makes a link
+    correctly ambiguous - so the test picks examples the real data leaves unambiguous."""
+    reg = {d["id"]: d for d in json.loads((ROOT / "data" / "registry.json").read_text())["divisions"]}
+    games = json.loads((ROOT / "data" / "games.json").read_text())
+    same_age = [g for g in games.values() if g["status"] == "final" and reg[g["division_id"]]["name"].startswith(age_prefix)]
+    def fp_count(g):
+        return sum(1 for x in same_age if x["date"] == g["date"]
+                   and {x["home_score"], x["away_score"]} == {g["home_score"], g["away_score"]})
+    unique = [g for g in ncsl_game(div_name) if fp_count(g) == 1]
+    for g1 in unique:
+        t1 = g1["home"]
+        other = [g for g in unique if g["gamekey"] != g1["gamekey"] and t1["key"] in (g["home"]["key"], g["away"]["key"])]
+        if other:
+            return g1, other[0]
+    pytest.skip(f"no team in {div_name} has two games with unique date/score fingerprints yet")
+
+
 def test_pipeline_dedupes_and_links_divisions(sandbox):
     import build_national
-    d1, d2 = ncsl_game("GU13 Division 1"), ncsl_game("GU13 Division 2")
-    g1, g2 = d1[0], d2[0]
+    d2 = ncsl_game("GU13 Division 2")
+    g1, other1 = _unique_fingerprint_games("GU13 Division 1", "GU13 ")
+    g2 = d2[0]
     # SYNTHETIC export: re-reports one real NCSL league game (must dedupe) under different team
     # names and IDs, plus invented tournament games between a Div 1 and a Div 2 team.
     t1, t2 = g1["home"], g1["away"]
-    other1 = next(g for g in d1 if t1["key"] in (g["home"]["key"], g["away"]["key"]) and g["gamekey"] != g1["gamekey"])
     o1_home = other1["home"]["key"] == t1["key"]
     rows = ["date,team_a,team_a_id,team_b,team_b_id,score_a,score_b,age_group,gender,competition,competition_type,source",
             f"{g1['date']},Ext {t1['name']},EXT1,Ext {t2['name']},EXT2,{g1['home_score']},{g1['away_score']},U13,girls,NCSL,league,event",
