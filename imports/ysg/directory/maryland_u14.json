@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-20T11:54:56.439791+00:00",
+ "fetched_at": "2026-10-27T12:30:34.183609+00:00",
  "state": "MD",
  "state_slug": "maryland",
  "teams": [
@@ -36,14 +36,19 @@
    "name": "Hereford Soccer Club Maroon (MD)"
   },
   {
+   "club": "Baltimore Bays Soccer Club",
+   "id": "300395017",
+   "name": "Baltimore Bays Spirit Girls"
+  },
+  {
    "club": "Pipeline SC",
    "id": "300395075",
    "name": "Pipeline SC ECNL"
   },
   {
-   "club": "Baltimore Bays Soccer Club",
-   "id": "300395017",
-   "name": "Baltimore Bays Spirit Girls"
+   "club": "Central Carroll Soccer Club",
+   "id": "300395031",
+   "name": "CCSC Dynamite (MD)"
   },
   {
    "club": "Baltimore Armour",
@@ -54,11 +59,6 @@
    "club": "Baltimore Celtic Soccer Club",
    "id": "300395063",
    "name": "SOMD (MD)"
-  },
-  {
-   "club": "Central Carroll Soccer Club",
-   "id": "300395031",
-   "name": "CCSC Dynamite (MD)"
   },
   {
    "club": "Old Line Football Club",
@@ -81,14 +81,19 @@
    "name": "Strikers (MD)"
   },
   {
+   "club": "Lutherville Timonium Soccer Club",
+   "id": "300395003",
+   "name": "LTSC Girls Elite-Fahey (MD)"
+  },
+  {
    "club": "Maryland Rush",
    "id": "300395036",
    "name": "Predators (MD)"
   },
   {
-   "club": "Lutherville Timonium Soccer Club",
-   "id": "300395003",
-   "name": "LTSC Girls Elite-Fahey (MD)"
+   "club": "The Player Progression Academy",
+   "id": "300394971",
+   "name": "Aspire"
   },
   {
    "club": "Maryland United Football Club",
@@ -96,14 +101,14 @@
    "name": "Maryland United FC ECNL RL"
   },
   {
+   "club": "Lutherville Timonium Soccer Club",
+   "id": "300514479",
+   "name": "LTSC Girls Elite-Guest (MD)"
+  },
+  {
    "club": "Tri-State Soccer Academy",
    "id": "300395060",
    "name": "Revolution"
-  },
-  {
-   "club": "The Player Progression Academy",
-   "id": "300394971",
-   "name": "Aspire"
   },
   {
    "club": "FC Frederick",
@@ -114,11 +119,6 @@
    "club": "Pasadena Soccer Club",
    "id": "300395016",
    "name": "Pasadena SC F Elite Blue (MD)"
-  },
-  {
-   "club": "Lutherville Timonium Soccer Club",
-   "id": "300514479",
-   "name": "LTSC Girls Elite-Guest (MD)"
   },
   {
    "club": "Baltimore Armour",
@@ -146,6 +146,11 @@
    "name": "Elite (MD)"
   },
   {
+   "club": "Pipeline SC",
+   "id": "300490106",
+   "name": "ECNL RL"
+  },
+  {
    "club": "Maryland Rush",
    "id": "12067683",
    "name": "Futsal Rush Rizz City FC"
@@ -161,6 +166,11 @@
    "name": "Old Line FC Red (MD)"
   },
   {
+   "club": "Lutherville Timonium Soccer Club",
+   "id": "300514480",
+   "name": "LTSC Girls Premier"
+  },
+  {
    "club": "AC Salisbury",
    "id": "300395044",
    "name": "AC Salisbury Blue (MD)"
@@ -171,19 +181,14 @@
    "name": "Bethesda Blue"
   },
   {
+   "club": "Olney Boys and Girls Community Sports Association",
+   "id": "300394976",
+   "name": "Strikers Blue"
+  },
+  {
    "club": "North Carroll Soccer Club",
    "id": "300395019",
    "name": "NCSC Lightning Premier (MD)"
-  },
-  {
-   "club": "Pipeline SC",
-   "id": "300490106",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "FC Charles 1658",
-   "id": "300395084",
-   "name": "FCCH Girls - Red"
   },
   {
    "club": "Calvert Soccer Association",
@@ -196,54 +201,9 @@
    "name": "Soccer By Rachel Female Fierce MD"
   },
   {
-   "club": "Shore FC",
-   "id": "300394957",
-   "name": "Shore FC Girls Black"
-  },
-  {
-   "club": "Towson United",
-   "id": "300394978",
-   "name": "Towson United Maroon"
-  },
-  {
-   "club": "Susquehanna Football Club",
-   "id": "300394989",
-   "name": "SFC Girls Krakens"
-  },
-  {
-   "club": "SAC/BA",
-   "id": "300394997",
-   "name": "SAC Girls Premier Blue (MD)"
-  },
-  {
-   "club": "Lutherville Timonium Soccer Club",
-   "id": "300514480",
-   "name": "LTSC Girls Premier"
-  },
-  {
-   "club": "FC Frederick",
-   "id": "300395065",
-   "name": "13G"
-  },
-  {
-   "club": "The Player Progression Academy",
-   "id": "300394975",
-   "name": "PPA EDP Academy I Girls"
-  },
-  {
-   "club": "Laurel United Soccer Club",
-   "id": "300395083",
-   "name": "Laurel United"
-  },
-  {
-   "club": "Maryland Futsal",
-   "id": "300482931",
-   "name": "Girls Black"
-  },
-  {
-   "club": "Montgomery Soccer",
-   "id": "300395035",
-   "name": "MSI Girls Gold"
+   "club": "FC Charles 1658",
+   "id": "300395084",
+   "name": "FCCH Girls - Red"
   },
   {
    "club": "Cockeysville FC",
@@ -251,19 +211,39 @@
    "name": "Cockeysville FC Crush"
   },
   {
-   "club": "Calvert Soccer Association",
-   "id": "300387841",
-   "name": "CSA Premier Black"
+   "club": "Susquehanna Football Club",
+   "id": "300394989",
+   "name": "SFC Girls Krakens"
   },
   {
-   "club": "Liverpool FC International Academy Maryland",
-   "id": "300395053",
-   "name": "Girls NAL"
+   "club": "Towson United",
+   "id": "300394978",
+   "name": "Towson United Maroon"
   },
   {
-   "club": "Brausa United Futebol Club",
-   "id": "300395043",
-   "name": "BRAUSA Girls Blue"
+   "club": "SAC/BA",
+   "id": "300394997",
+   "name": "SAC Girls Premier Blue (MD)"
+  },
+  {
+   "club": "Shore FC",
+   "id": "300394957",
+   "name": "Shore FC Girls Black"
+  },
+  {
+   "club": "The Player Progression Academy",
+   "id": "300394975",
+   "name": "PPA EDP Academy I Girls"
+  },
+  {
+   "club": "Montgomery Soccer",
+   "id": "300395035",
+   "name": "MSI Girls Gold"
+  },
+  {
+   "club": "Maryland Futsal",
+   "id": "300482931",
+   "name": "Girls Black"
   },
   {
    "club": "FCGB Center of Excellence",
@@ -271,14 +251,14 @@
    "name": "FCGB CoE Girls Academy"
   },
   {
-   "club": "Olney Boys and Girls Community Sports Association",
-   "id": "300394976",
-   "name": "Strikers Blue"
+   "club": "FC Frederick",
+   "id": "300395065",
+   "name": "13G"
   },
   {
-   "club": "SAC/BA",
-   "id": "300394999",
-   "name": "SAC Girls - United Blue"
+   "club": "Liverpool FC International Academy Maryland",
+   "id": "300395053",
+   "name": "Girls NAL"
   },
   {
    "club": "Coppermine Soccer Club",
@@ -286,29 +266,29 @@
    "name": "Aspire"
   },
   {
-   "club": "Baltimore Bays Soccer Club",
-   "id": "300395006",
-   "name": "Baltimore Bays Bombers Girls"
-  },
-  {
-   "club": "St Marys Soccer",
-   "id": "300395082",
-   "name": "SMS Girls White"
-  },
-  {
    "club": "Calvert Soccer Assn",
    "id": "300514477",
    "name": "CSA Premier"
   },
   {
-   "club": "Davidsonville Football Club",
-   "id": "300395026",
-   "name": "DFC G GREEN"
+   "club": "Calvert Soccer Association",
+   "id": "300387841",
+   "name": "CSA Premier Black"
   },
   {
-   "club": "DC Way Academy",
-   "id": "12118327",
-   "name": "DCWA G Team"
+   "club": "SAC/BA",
+   "id": "300394999",
+   "name": "SAC Girls - United Blue"
+  },
+  {
+   "club": "Brausa United Futebol Club",
+   "id": "300395043",
+   "name": "BRAUSA Girls Blue"
+  },
+  {
+   "club": "City SC Frederick",
+   "id": "300531256",
+   "name": "City SC Frederick Red"
   },
   {
    "club": "Northern Elite Soccer Club",
@@ -321,19 +301,24 @@
    "name": "DCWA - Elite"
   },
   {
-   "club": "Potomac Soccer Association",
-   "id": "300395051",
-   "name": "Aspire"
+   "club": "Davidsonville Football Club",
+   "id": "300395026",
+   "name": "DFC G GREEN"
   },
   {
-   "club": "City SC Frederick",
-   "id": "300531256",
-   "name": "City SC Frederick Red"
+   "club": "St Marys Soccer",
+   "id": "300395082",
+   "name": "SMS Girls White"
   },
   {
-   "club": "The Player Progression Academy",
-   "id": "300395013",
-   "name": "PPA EDP Academy II Girls"
+   "club": "Laurel United Soccer Club",
+   "id": "300395083",
+   "name": "Laurel United"
+  },
+  {
+   "club": "DC Way Academy",
+   "id": "12118327",
+   "name": "DCWA G Team"
   },
   {
    "club": "Lutherville Timonium Soccer Club",
@@ -341,19 +326,14 @@
    "name": "LTSC Premier"
   },
   {
-   "club": "DC Soccer Club",
-   "id": "300467735",
-   "name": "DCSC Blue"
+   "club": "Baltimore Bays Soccer Club",
+   "id": "300395006",
+   "name": "Baltimore Bays Bombers Girls"
   },
   {
    "club": "Maryland Rush",
    "id": "300514474",
    "name": "Rush Rise"
-  },
-  {
-   "club": "Pipeline SC",
-   "id": "300514487",
-   "name": "Girls South"
   },
   {
    "club": "Fallston Soccer",
@@ -366,14 +346,9 @@
    "name": "Baltimore Bays Thunder Girls"
   },
   {
-   "club": "The Player Progression Academy",
-   "id": "300394961",
-   "name": "PPA Yellow Girls"
-  },
-  {
-   "club": "SAC/BA",
-   "id": "300394998",
-   "name": "SAC Girls - United White"
+   "club": "Towson United",
+   "id": "300550109",
+   "name": "Towson United Maroon"
   },
   {
    "club": "Soccer By Rachel",
@@ -381,19 +356,39 @@
    "name": "SBR Fury G"
   },
   {
-   "club": "World Class Premier",
-   "id": "300395058",
-   "name": "WCP Girls"
+   "club": "DC Soccer Club",
+   "id": "300467735",
+   "name": "DCSC Blue"
+  },
+  {
+   "club": "Harford FC United",
+   "id": "300514473",
+   "name": "HFC United Girls Gold"
+  },
+  {
+   "club": "Pipeline SC",
+   "id": "300514487",
+   "name": "Girls South"
+  },
+  {
+   "club": "The Player Progression Academy",
+   "id": "300395013",
+   "name": "PPA EDP Academy II Girls"
+  },
+  {
+   "club": "Brazilian United Soccer Academy",
+   "id": "300550110",
+   "name": "BUSA"
+  },
+  {
+   "club": "Potomac Soccer Association",
+   "id": "300395051",
+   "name": "Aspire"
   },
   {
    "club": "Greater Severna Park Athletic Association",
    "id": "300395004",
    "name": "SEVERNA PARK - GREEN"
-  },
-  {
-   "club": "Brazilian United Soccer Academy",
-   "id": "300395032",
-   "name": "BUSA GREEN"
   },
   {
    "club": "Founders FC",
@@ -406,19 +401,24 @@
    "name": "Cecil FC Girls"
   },
   {
-   "club": "Harford FC United",
-   "id": "300514473",
-   "name": "HFC United Girls Gold"
+   "club": "Brazilian United Soccer Academy",
+   "id": "300395032",
+   "name": "BUSA GREEN"
   },
   {
-   "club": "Baltimore Bays Soccer Club",
-   "id": "300514481",
-   "name": "Baltimore Bays Fury"
+   "club": "World Class Premier",
+   "id": "300395058",
+   "name": "WCP Girls"
   },
   {
-   "club": "Maryland Rush",
-   "id": "12067682",
-   "name": "Futsal Rush Slaymakers"
+   "club": "The Player Progression Academy",
+   "id": "300394961",
+   "name": "PPA Yellow Girls"
+  },
+  {
+   "club": "SAC/BA",
+   "id": "300394998",
+   "name": "SAC Girls - United White"
   },
   {
    "club": "Elkridge Youth Organization Soccer",
@@ -426,59 +426,24 @@
    "name": "Elkridge United Girls"
   },
   {
-   "club": "Freedom Soccer Club",
-   "id": "300395010",
-   "name": "FSC Girls Blue"
-  },
-  {
    "club": "Annapolis Select Futbol Club",
    "id": "300395012",
    "name": "Annapolis Select FC Girls"
   },
   {
-   "club": "Phoenix Football Club",
-   "id": "300395001",
-   "name": "Phoenix FC Girls"
+   "club": "Baltimore Bays Soccer Club",
+   "id": "300514481",
+   "name": "Baltimore Bays Fury"
   },
   {
-   "club": "Bethesda SC",
-   "id": "300552825",
-   "name": "Roadrunners FC - Bethesda Red"
-  },
-  {
-   "club": "A3 Soccer",
-   "id": "300395020",
-   "name": "Preston North End"
-  },
-  {
-   "club": "Juventus Academy DC Metro",
-   "id": "300395041",
-   "name": "Girls Academy I"
-  },
-  {
-   "club": "FC Ellicott City",
-   "id": "300550111",
-   "name": "FC Ellicott City Girls Elite"
-  },
-  {
-   "club": "Alliance Soccer Club",
-   "id": "300531260",
-   "name": "Girls Premier"
-  },
-  {
-   "club": "Liverpool FC International Academy Maryland",
-   "id": "300531262",
-   "name": "Western MD Girls"
+   "club": "Freedom Soccer Club",
+   "id": "300395010",
+   "name": "FSC Girls Blue"
   },
   {
    "club": "Maryland Rush",
-   "id": "300395024",
-   "name": "Rush Reign"
-  },
-  {
-   "club": "Baltimore Celtic Soccer Club",
-   "id": "300394987",
-   "name": "Green"
+   "id": "12067682",
+   "name": "Futsal Rush Slaymakers"
   },
   {
    "club": "WSA",
@@ -486,14 +451,69 @@
    "name": "Westminster United Wolves"
   },
   {
-   "club": "Baltimore Bays Soccer Club",
-   "id": "300514476",
-   "name": "Baltimore Bays Blaze"
+   "club": "Alliance Soccer Club",
+   "id": "300531260",
+   "name": "Girls Premier"
+  },
+  {
+   "club": "Baltimore Celtic Soccer Club",
+   "id": "300394987",
+   "name": "Green"
+  },
+  {
+   "club": "FC Ellicott City",
+   "id": "300550111",
+   "name": "FC Ellicott City Girls Elite"
+  },
+  {
+   "club": "City SC Frederick",
+   "id": "300514482",
+   "name": "City SC Frederick Red"
+  },
+  {
+   "club": "Liverpool FC International Academy Maryland",
+   "id": "300531262",
+   "name": "Western MD Girls"
+  },
+  {
+   "club": "Juventus Academy DC Metro",
+   "id": "300395041",
+   "name": "Girls Academy I"
+  },
+  {
+   "club": "A3 Soccer",
+   "id": "300395020",
+   "name": "Preston North End"
+  },
+  {
+   "club": "Bethesda SC",
+   "id": "300552825",
+   "name": "Roadrunners FC - Bethesda Red"
   },
   {
    "club": "City SC Frederick",
    "id": "300531258",
    "name": "City SC Frederick Orange"
+  },
+  {
+   "club": "Baltimore Bays Soccer Club",
+   "id": "300514476",
+   "name": "Baltimore Bays Blaze"
+  },
+  {
+   "club": "Pasadena Soccer Club",
+   "id": "300395040",
+   "name": "Pasadena SC Elite White"
+  },
+  {
+   "club": "Maryland Rush",
+   "id": "300395024",
+   "name": "Rush Reign"
+  },
+  {
+   "club": "Phoenix Football Club",
+   "id": "11938700",
+   "name": "Phoenix FC Girls Black"
   },
   {
    "club": "DC Soccer Club",
@@ -507,23 +527,13 @@
   },
   {
    "club": "Phoenix Football Club",
-   "id": "11938700",
-   "name": "Phoenix FC Girls Black"
-  },
-  {
-   "club": "Pasadena Soccer Club",
-   "id": "300395040",
-   "name": "Pasadena SC Elite White"
+   "id": "300395001",
+   "name": "Phoenix FC Girls"
   },
   {
    "club": "District Elite FC",
    "id": "300394960",
    "name": "District Elite FC Dinamo"
-  },
-  {
-   "club": "Fallston Soccer",
-   "id": "300514485",
-   "name": "Fallston Blue Tornadoes"
   },
   {
    "club": "Greater Severna Park Athletic Assoc",
@@ -536,9 +546,9 @@
    "name": "SEVERNA PARK - WHITE"
   },
   {
-   "club": "Ellicott City Soccer Club",
-   "id": "300394980",
-   "name": "CiTY Girls Elite"
+   "club": "Fallston Soccer",
+   "id": "300514485",
+   "name": "Fallston Blue Tornadoes"
   },
   {
    "club": "District of Columbia Football Club",
@@ -554,6 +564,11 @@
    "club": "Bowie Boys and Girls Club",
    "id": "300394991",
    "name": "Bowie FC"
+  },
+  {
+   "club": "Ellicott City Soccer Club",
+   "id": "300394980",
+   "name": "CiTY Girls Elite"
   },
   {
    "club": "Baltimore Union Soccer Club",
@@ -756,11 +771,6 @@
    "name": "HES Phoenix Strikers"
   },
   {
-   "club": "City SC Frederick",
-   "id": "300514482",
-   "name": "City SC Frederick Red"
-  },
-  {
    "club": "Academia de Glen Burnie Soccer Club",
    "id": "300514486",
    "name": "Academia De Glen Burnie G Queens"
@@ -804,16 +814,6 @@
    "club": "Takoma Park Soccer Club",
    "id": "300542876",
    "name": "Takoma Red Devils"
-  },
-  {
-   "club": "Towson United",
-   "id": "300550109",
-   "name": "Towson United Maroon"
-  },
-  {
-   "club": "Brazilian United Soccer Academy",
-   "id": "300550110",
-   "name": "BUSA"
   },
   {
    "club": "Annapolis Elite SC",

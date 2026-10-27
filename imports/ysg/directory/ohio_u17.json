@@ -1,7 +1,7 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-20T12:59:36.496306+00:00",
+ "fetched_at": "2026-10-27T13:35:14.172675+00:00",
  "state": "OH",
  "state_slug": "ohio",
  "teams": [
@@ -16,14 +16,19 @@
    "name": "ECNL"
   },
   {
+   "club": "Elite FC",
+   "id": "300517112",
+   "name": "ECNL RL"
+  },
+  {
    "club": "Columbus United SC",
    "id": "300355352",
    "name": "GA"
   },
   {
-   "club": "Elite FC",
-   "id": "300517112",
-   "name": "ECNL RL"
+   "club": "Cleveland Force SC",
+   "id": "300517120",
+   "name": "ECNL"
   },
   {
    "club": "Ambassadors Football Club",
@@ -41,11 +46,6 @@
    "name": "GA"
   },
   {
-   "club": "Elite FC",
-   "id": "11667401",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Internationals Soccer Club",
    "id": "300355337",
    "name": "ECNL"
@@ -56,9 +56,9 @@
    "name": "ECNL RL OV"
   },
   {
-   "club": "Cleveland Force SC",
-   "id": "300517120",
-   "name": "ECNL"
+   "club": "Elite FC",
+   "id": "11667401",
+   "name": "ECNL RL"
   },
   {
    "club": "Pride Soccer Club",
@@ -71,24 +71,14 @@
    "name": "FOSC Elite (OH)"
   },
   {
-   "club": "Club Ohio",
-   "id": "300355209",
-   "name": "GA"
-  },
-  {
-   "club": "Ohio Galaxies FC",
-   "id": "300517110",
-   "name": "Elite"
-  },
-  {
    "club": "FC Dayton",
    "id": "300491543",
    "name": "FC Dayton ECNL RL"
   },
   {
-   "club": "North FC",
-   "id": "300355287",
-   "name": "ECNL RL"
+   "club": "Club Ohio",
+   "id": "300355209",
+   "name": "GA"
   },
   {
    "club": "Cincinnati West Soccer Club",
@@ -101,24 +91,14 @@
    "name": "ECNL RL"
   },
   {
+   "club": "North FC",
+   "id": "300355287",
+   "name": "ECNL RL"
+  },
+  {
    "club": "Cincinnati United Soccer Club",
    "id": "300355149",
    "name": "Aspire"
-  },
-  {
-   "club": "Cincinnati Elite FC",
-   "id": "300540512",
-   "name": "Cincinnati Elite FC ECNL RL"
-  },
-  {
-   "club": "Cuyahoga Valley Soccer Academy",
-   "id": "300355207",
-   "name": "CVSA Blue"
-  },
-  {
-   "club": "Club Ohio",
-   "id": "300355148",
-   "name": "Club Ohio Dayton Green (OH)"
   },
   {
    "club": "Pacesetter Soccer Club",
@@ -126,39 +106,14 @@
    "name": "Pacesetter SC Red ECNL RL"
   },
   {
-   "club": "Ohio Galaxies FC",
-   "id": "300355195",
-   "name": "United Red"
-  },
-  {
-   "club": "Confluence SC",
-   "id": "300355150",
-   "name": "Confluence SC Girls NPL"
-  },
-  {
-   "club": "Canton Force",
-   "id": "300355259",
-   "name": "CAU Force ECNL RL"
-  },
-  {
    "club": "Club Ohio",
-   "id": "300355197",
-   "name": "Aspire"
+   "id": "300355148",
+   "name": "Club Ohio Dayton Green (OH)"
   },
   {
-   "club": "Manta United Soccer Club",
-   "id": "300517108",
-   "name": "Manta ECNL RL"
-  },
-  {
-   "club": "Columbus Force SC",
-   "id": "300355311",
-   "name": "Columbus Force ECNL RL"
-  },
-  {
-   "club": "Cincinnati United Soccer Club",
-   "id": "300355168",
-   "name": "CUP Silver"
+   "club": "Cuyahoga Valley Soccer Academy",
+   "id": "300355207",
+   "name": "CVSA Blue"
   },
   {
    "club": "Tempest FC",
@@ -167,8 +122,18 @@
   },
   {
    "club": "Ohio Galaxies FC",
-   "id": "300517129",
-   "name": "ECNL RL"
+   "id": "300517110",
+   "name": "Elite"
+  },
+  {
+   "club": "Cincinnati Elite FC",
+   "id": "300540512",
+   "name": "Cincinnati Elite FC ECNL RL"
+  },
+  {
+   "club": "Ohio Galaxies FC",
+   "id": "300355195",
+   "name": "United Red"
   },
   {
    "club": "Pacesetter Soccer Club",
@@ -176,9 +141,29 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Northwest FC",
-   "id": "300355243",
-   "name": "Northwest FC Orange"
+   "club": "Confluence SC",
+   "id": "300355150",
+   "name": "Confluence SC Girls NPL"
+  },
+  {
+   "club": "Ohio Galaxies FC",
+   "id": "300517129",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Club Ohio",
+   "id": "300355197",
+   "name": "Aspire"
+  },
+  {
+   "club": "Columbus Force SC",
+   "id": "300355311",
+   "name": "Columbus Force ECNL RL"
+  },
+  {
+   "club": "Manta United Soccer Club",
+   "id": "300517108",
+   "name": "Manta ECNL RL"
   },
   {
    "club": "Mercury Soccer Club",
@@ -186,14 +171,24 @@
    "name": "Mercury ECNL RL"
   },
   {
+   "club": "Northwest FC",
+   "id": "300355243",
+   "name": "Northwest FC Orange"
+  },
+  {
    "club": "Canton Akron United Force Soccer Club",
    "id": "300355151",
    "name": "CAU Force ECNL RL"
   },
   {
-   "club": "Canton Akron United Force Soccer Club",
-   "id": "300472182",
-   "name": "CAU Force White"
+   "club": "Canton Force",
+   "id": "300355259",
+   "name": "CAU Force ECNL RL"
+  },
+  {
+   "club": "Cleveland Force SC",
+   "id": "300517117",
+   "name": "Cleveland Force ECNL RL"
   },
   {
    "club": "Butler United Soccer Club",
@@ -206,29 +201,9 @@
    "name": "Club Ohio Dayton Black"
   },
   {
-   "club": "Columbus Force SC",
-   "id": "300355176",
-   "name": "Columbus Force ECNL-R"
-  },
-  {
-   "club": "Cleveland Cobras",
-   "id": "300355178",
-   "name": "Cleveland Cobras Blue"
-  },
-  {
-   "club": "Fairfield Optimist Soccer Club",
-   "id": "300355261",
-   "name": "FOSC Premier (OH)"
-  },
-  {
-   "club": "Cleveland Force SC",
-   "id": "300517117",
-   "name": "Cleveland Force ECNL RL"
-  },
-  {
-   "club": "Zanesville Arsenal SC",
-   "id": "300355304",
-   "name": "Arsenal SC"
+   "club": "Cincinnati United Soccer Club",
+   "id": "300355168",
+   "name": "CUP Silver"
   },
   {
    "club": "GTFC Impact",
@@ -236,14 +211,19 @@
    "name": "ECNL"
   },
   {
-   "club": "Central Ohio Elite SC",
-   "id": "300355353",
-   "name": "Blue"
+   "club": "Canton Akron United Force Soccer Club",
+   "id": "300472182",
+   "name": "CAU Force White"
   },
   {
-   "club": "Alliance Cincinnati Soccer Club",
-   "id": "300355171",
-   "name": "ACSC Gold"
+   "club": "Fairfield Optimist Soccer Club",
+   "id": "300355261",
+   "name": "FOSC Premier (OH)"
+  },
+  {
+   "club": "Zanesville Arsenal SC",
+   "id": "300355304",
+   "name": "Arsenal SC"
   },
   {
    "club": "Internationals Soccer Club",
@@ -256,14 +236,34 @@
    "name": "PCFC Girls Navy"
   },
   {
+   "club": "Columbus Force SC",
+   "id": "300355176",
+   "name": "Columbus Force ECNL-R"
+  },
+  {
+   "club": "Cleveland Cobras",
+   "id": "300355178",
+   "name": "Cleveland Cobras Blue"
+  },
+  {
+   "club": "Alliance Cincinnati Soccer Club",
+   "id": "300355171",
+   "name": "ACSC Gold"
+  },
+  {
+   "club": "Central Ohio Elite SC",
+   "id": "300355353",
+   "name": "Blue"
+  },
+  {
    "club": "Soccer Vision Academy Girls",
    "id": "300529630",
    "name": "09/10"
   },
   {
-   "club": "Sporting Columbus",
-   "id": "300355284",
-   "name": "ECNL RL"
+   "club": "Sporting Queen City",
+   "id": "300529633",
+   "name": "G09/G10"
   },
   {
    "club": "Appleseed Premier SC",
@@ -276,39 +276,14 @@
    "name": "OSUG10Black"
   },
   {
-   "club": "Kolping Soccer Club",
-   "id": "300355190",
-   "name": "NLA"
-  },
-  {
-   "club": "Dayton Players Academy",
-   "id": "300355225",
-   "name": "DPA Cobras Girls Showcase"
-  },
-  {
    "club": "Cincinnati United Soccer Club",
    "id": "300355279",
    "name": "CU North Elite"
   },
   {
-   "club": "Pride Soccer Club",
-   "id": "300355246",
-   "name": "PRIDE SC Copa Black"
-  },
-  {
-   "club": "Tempest FC",
-   "id": "300355215",
-   "name": "Legacy White"
-  },
-  {
-   "club": "Cincy SC",
-   "id": "300355177",
-   "name": "Cincy SC Premier"
-  },
-  {
-   "club": "Ohio Premier Soccer Club",
-   "id": "300355309",
-   "name": "Ohio Premier GLA"
+   "club": "Sporting Columbus",
+   "id": "300355284",
+   "name": "ECNL RL"
   },
   {
    "club": "Elite FC",
@@ -321,9 +296,29 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Toledo Celtics Soccer Club",
-   "id": "300355186",
-   "name": "Toledo Celtics Girls Black"
+   "club": "Pride Soccer Club",
+   "id": "300355246",
+   "name": "PRIDE SC Copa Black"
+  },
+  {
+   "club": "Kolping Soccer Club",
+   "id": "300355190",
+   "name": "NLA"
+  },
+  {
+   "club": "Tempest FC",
+   "id": "300355215",
+   "name": "Legacy White"
+  },
+  {
+   "club": "Dayton Players Academy",
+   "id": "300355225",
+   "name": "DPA Cobras Girls Showcase"
+  },
+  {
+   "club": "Cincy SC",
+   "id": "300355177",
+   "name": "Cincy SC Premier"
   },
   {
    "club": "Elite FC",
@@ -331,19 +326,14 @@
    "name": "Elite FC Girls"
   },
   {
-   "club": "Sporting Queen City",
-   "id": "300529633",
-   "name": "G09/G10"
-  },
-  {
    "club": "Club X Soccer",
    "id": "300355221",
    "name": "Club X Academy"
   },
   {
-   "club": "Cincinnati United Soccer Club",
-   "id": "300355281",
-   "name": "CUSE Elite"
+   "club": "Ohio Premier Soccer Club",
+   "id": "300355309",
+   "name": "Ohio Premier GLA"
   },
   {
    "club": "Storm FC",
@@ -351,14 +341,19 @@
    "name": "FC Storm Premier"
   },
   {
-   "club": "Ohio Galaxies FC",
-   "id": "300355355",
-   "name": "Ohio Galaxies FC Black"
-  },
-  {
    "club": "Butler United Soccer Club",
    "id": "300355318",
    "name": "BUSC Purple Lightning"
+  },
+  {
+   "club": "Toledo Celtics Soccer Club",
+   "id": "300355186",
+   "name": "Toledo Celtics Girls Black"
+  },
+  {
+   "club": "Ohio Galaxies FC",
+   "id": "300355355",
+   "name": "Ohio Galaxies FC Black"
   },
   {
    "club": "Ohio Galaxies FC",
@@ -366,9 +361,14 @@
    "name": "Ohio Galaxies FC Black"
   },
   {
-   "club": "Cleveland Force SC",
-   "id": "300355163",
-   "name": "Cleveland Force Yellow"
+   "club": "Cincinnati United Soccer Club",
+   "id": "300355281",
+   "name": "CUSE Elite"
+  },
+  {
+   "club": "GTFC Impact",
+   "id": "300517122",
+   "name": "ECNL RL"
   },
   {
    "club": "NASA Xtabi",
@@ -376,14 +376,14 @@
    "name": "NASA Xtabi Girls"
   },
   {
+   "club": "Cleveland Force SC",
+   "id": "300355163",
+   "name": "Cleveland Force Yellow"
+  },
+  {
    "club": "Cincy SC",
    "id": "300355193",
    "name": "Cincy SC Elite"
-  },
-  {
-   "club": "GTFC Impact",
-   "id": "300517122",
-   "name": "ECNL RL"
   },
   {
    "club": "Caps FC",
@@ -396,24 +396,14 @@
    "name": "Cleveland Kickers Girls"
   },
   {
-   "club": "Club Ohio",
-   "id": "300355200",
-   "name": "Club Ohio North Green"
-  },
-  {
-   "club": "Fairfield Optimist Soccer Club",
-   "id": "300355262",
-   "name": "FOSC Black"
-  },
-  {
    "club": "Valentis Athletica SC",
    "id": "300529631",
    "name": "Valentis Athletica"
   },
   {
-   "club": "Oxford United",
-   "id": "300355255",
-   "name": "Oxford United"
+   "club": "Club Ohio",
+   "id": "300355200",
+   "name": "Club Ohio North Green"
   },
   {
    "club": "North FC",
@@ -421,9 +411,29 @@
    "name": "North FC Girls NPL"
   },
   {
+   "club": "Mercury Soccer Club",
+   "id": "300355342",
+   "name": "Red"
+  },
+  {
    "club": "Kolping Soccer Club",
    "id": "300355365",
    "name": "Kolping SC Orange"
+  },
+  {
+   "club": "Oxford United",
+   "id": "300355255",
+   "name": "Oxford United"
+  },
+  {
+   "club": "Fairfield Optimist Soccer Club",
+   "id": "300355262",
+   "name": "FOSC Black"
+  },
+  {
+   "club": "Dayton Players Academy",
+   "id": "300355201",
+   "name": "DPA Cobras Girls Elite"
   },
   {
    "club": "Cincinnati United Soccer Club",
@@ -431,9 +441,19 @@
    "name": "CUP Red"
   },
   {
-   "club": "Mercury Soccer Club",
-   "id": "300355342",
-   "name": "Red"
+   "club": "ISC Storm",
+   "id": "11944169",
+   "name": "G2010"
+  },
+  {
+   "club": "Columbus Force SC",
+   "id": "300355175",
+   "name": "Columbus Force Blue"
+  },
+  {
+   "club": "Polaris Soccer Club",
+   "id": "300355169",
+   "name": "Polaris SC Navy"
   },
   {
    "club": "Team Challenger South",
@@ -442,33 +462,8 @@
   },
   {
    "club": "Columbus Force SC",
-   "id": "300355175",
-   "name": "Columbus Force Blue"
-  },
-  {
-   "club": "Dayton Players Academy",
-   "id": "300355201",
-   "name": "DPA Cobras Girls Elite"
-  },
-  {
-   "club": "ISC Storm",
-   "id": "11944169",
-   "name": "G2010"
-  },
-  {
-   "club": "Polaris Soccer Club",
-   "id": "300355169",
-   "name": "Polaris SC Navy"
-  },
-  {
-   "club": "Columbus Force SC",
    "id": "300355139",
    "name": "CE Falcons"
-  },
-  {
-   "club": "Cincinnati West Soccer Club",
-   "id": "300529634",
-   "name": "CWSC Academy Red"
   },
   {
    "club": "Cincinnati Elite FC",
@@ -481,14 +476,14 @@
    "name": "Total Futbol Academy TFA Premier"
   },
   {
+   "club": "Cincinnati West Soccer Club",
+   "id": "300529634",
+   "name": "CWSC Academy Red"
+  },
+  {
    "club": "Stark United Premier SC",
    "id": "300529635",
    "name": "Stark United Premier"
-  },
-  {
-   "club": "Club Ohio",
-   "id": "300355223",
-   "name": "Club Ohio East Green"
   },
   {
    "club": "Greene County Cosmos",
@@ -496,9 +491,9 @@
    "name": "GC Cosmos"
   },
   {
-   "club": "First Capital FC",
-   "id": "300479090",
-   "name": "First Capital FC AL"
+   "club": "Club Ohio",
+   "id": "300355223",
+   "name": "Club Ohio East Green"
   },
   {
    "club": "On Goal Passion FC",
@@ -511,14 +506,19 @@
    "name": "Pennine FC Blue"
   },
   {
-   "club": "Elite FC",
-   "id": "300355349",
-   "name": "Elite FC Girls OCL"
+   "club": "First Capital FC",
+   "id": "300479090",
+   "name": "First Capital FC AL"
   },
   {
    "club": "Fairfield Optimist Soccer Club",
    "id": "300355147",
    "name": "FOSC Lebanons Warrior Premier"
+  },
+  {
+   "club": "Elite FC",
+   "id": "300355349",
+   "name": "Elite FC Girls OCL"
   },
   {
    "club": "Pride Soccer Club",

@@ -1,14 +1,19 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-20T13:23:46.532245+00:00",
+ "fetched_at": "2026-10-27T13:59:24.117191+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
   {
-   "club": "Elmbrook United",
-   "id": "12238569",
-   "name": "GA"
+   "club": "Green Bay Lightning Soccer Club",
+   "id": "16219350",
+   "name": "GBL Lightning Premier Girls"
+  },
+  {
+   "club": "Green Bay Lightning Soccer Club",
+   "id": "16316650",
+   "name": "Green Bay Lightning HS Girls"
   },
   {
    "club": "SC Wave",
@@ -16,14 +21,14 @@
    "name": "GA"
   },
   {
-   "club": "Wisconsin United FC",
-   "id": "300554354",
+   "club": "SC Wave",
+   "id": "16467650",
    "name": "Aspire"
   },
   {
-   "club": "Madison 56ers",
-   "id": "300539082",
-   "name": "GA"
+   "club": "AC Toros",
+   "id": "300123502",
+   "name": "AC Toros Girls Red"
   },
   {
    "club": "Croatian Eagles Soccer Club",
@@ -31,14 +36,9 @@
    "name": "Croatian Eagles DPL"
   },
   {
-   "club": "Lakeshore United FC",
-   "id": "300528887",
-   "name": "LUFC Navy"
-  },
-  {
-   "club": "Croatian Eagles SC",
-   "id": "300558930",
-   "name": "Aspire"
+   "club": "Madison 56ers",
+   "id": "16219300",
+   "name": "Madison Girls White"
   },
   {
    "club": "Bavarian United",
@@ -47,38 +47,28 @@
   },
   {
    "club": "Madison 56ers",
+   "id": "300528886",
+   "name": "Girls White"
+  },
+  {
+   "club": "Lakeshore United FC",
+   "id": "300528887",
+   "name": "LUFC Navy"
+  },
+  {
+   "club": "Madison 56ers",
    "id": "300539081",
    "name": "Aspire"
   },
   {
-   "club": "Green Bay Lightning Soccer Club",
-   "id": "16316650",
-   "name": "Green Bay Lightning HS Girls"
+   "club": "Madison 56ers",
+   "id": "300539082",
+   "name": "GA"
   },
   {
-   "club": "Green Bay Lightning Soccer Club",
-   "id": "16219350",
-   "name": "GBL Lightning Premier Girls"
-  },
-  {
-   "club": "SC Wave",
-   "id": "16467650",
+   "club": "Wisconsin United FC",
+   "id": "300554354",
    "name": "Aspire"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "16219300",
-   "name": "Madison Girls White"
-  },
-  {
-   "club": "AC Toros",
-   "id": "300123502",
-   "name": "AC Toros Girls Red"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300528886",
-   "name": "Girls White"
   },
   {
    "club": "Lakeshore United FC",
@@ -88,6 +78,11 @@
   {
    "club": "Elmbrook United",
    "id": "300558929",
+   "name": "Aspire"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "300558930",
    "name": "Aspire"
   },
   {
@@ -114,6 +109,11 @@
    "club": "Croatian Eagles Soccer Club",
    "id": "12197485",
    "name": "Croatian Eagles MWC"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "12238569",
+   "name": "GA"
   },
   {
    "club": "RUSH Wisconsin",

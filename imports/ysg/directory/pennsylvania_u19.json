@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-20T13:05:26.510263+00:00",
+ "fetched_at": "2026-10-27T13:41:04.100828+00:00",
  "state": "PA",
  "state_slug": "pennsylvania",
  "teams": [
@@ -26,11 +26,6 @@
    "name": "Dominion ECNL RL"
   },
   {
-   "club": "Philadelphia Soccer Club",
-   "id": "300337011",
-   "name": "Philadelphia SC Surf Coppa Express"
-  },
-  {
    "club": "Capital Area SC",
    "id": "300337013",
    "name": "CASA Elite NL"
@@ -44,6 +39,11 @@
    "club": "Mifflin County United Soccer Club",
    "id": "300337006",
    "name": "MCUSC Adrenaline"
+  },
+  {
+   "club": "Philadelphia Soccer Club",
+   "id": "300337011",
+   "name": "Philadelphia SC Surf Coppa Express"
   },
   {
    "club": "Lionville SC",
@@ -61,19 +61,14 @@
    "name": "Beadling Girls West"
   },
   {
-   "club": "Carlisle Area Youth Soccer",
-   "id": "300528613",
-   "name": "Carlisle Cannons"
-  },
-  {
    "club": "Beadling Soccer Club",
    "id": "300528628",
    "name": "Beadling South Girls RL NPL"
   },
   {
-   "club": "Pittsburgh Independence FC",
-   "id": "300473231",
-   "name": "Pittsburgh Independence Premier"
+   "club": "Carlisle Area Youth Soccer",
+   "id": "300528613",
+   "name": "Carlisle Cannons"
   },
   {
    "club": "PA Classics",
@@ -86,24 +81,29 @@
    "name": "Girls Elite"
   },
   {
-   "club": "STN NorthPenn",
-   "id": "300337028",
-   "name": "G08"
-  },
-  {
-   "club": "Northeast Cantolao FC",
-   "id": "300337005",
-   "name": "Northeast Cantolao FC Girls - Flame"
-  },
-  {
    "club": "Erie FC",
    "id": "300528629",
    "name": "Erie FC Girls"
   },
   {
+   "club": "Pittsburgh Independence FC",
+   "id": "300473231",
+   "name": "Pittsburgh Independence Premier"
+  },
+  {
+   "club": "STN NorthPenn",
+   "id": "300337028",
+   "name": "G08"
+  },
+  {
    "club": "Western Lehigh United Soccer Club",
    "id": "300337008",
    "name": "WLUSC Girls - Crampton"
+  },
+  {
+   "club": "Northeast Cantolao FC",
+   "id": "300337005",
+   "name": "Northeast Cantolao FC Girls - Flame"
   },
   {
    "club": "Allegheny Force Football Club",
@@ -121,14 +121,9 @@
    "name": "MCUSC Penn United Soccer Academy Kicks"
   },
   {
-   "club": "Steel United PA",
-   "id": "300337002",
-   "name": "Elite"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "300336967",
-   "name": "Black Conshy (G)"
+   "club": "AC United",
+   "id": "300336969",
+   "name": "Chaos"
   },
   {
    "club": "Pennsylvania Soccer Academy",
@@ -136,14 +131,19 @@
    "name": "PSA Premier"
   },
   {
+   "club": "FC DELCO",
+   "id": "300336967",
+   "name": "Black Conshy (G)"
+  },
+  {
    "club": "Penn United Soccer Academy",
    "id": "300528627",
    "name": "Kicks"
   },
   {
-   "club": "Steel City FC",
-   "id": "300472171",
-   "name": "BC United"
+   "club": "Steel United PA",
+   "id": "300337002",
+   "name": "Elite"
   },
   {
    "club": "Pittsburgh Football Club",
@@ -152,13 +152,13 @@
   },
   {
    "club": "Steel City FC",
-   "id": "300337094",
-   "name": "Steel City FC Classic"
+   "id": "300472171",
+   "name": "BC United"
   },
   {
-   "club": "AC United",
-   "id": "300336969",
-   "name": "Chaos"
+   "club": "Steel City FC",
+   "id": "300337094",
+   "name": "Steel City FC Classic"
   },
   {
    "club": "Radnor Soccer Club",
@@ -181,9 +181,9 @@
    "name": "Coastal Kickers"
   },
   {
-   "club": "FC Europa",
-   "id": "11823594",
-   "name": "ECNL RL"
+   "club": "Pittsburgh Riverhounds",
+   "id": "300528630",
+   "name": "ECNL"
   },
   {
    "club": "LVU Rush",
@@ -211,24 +211,19 @@
    "name": "Elite"
   },
   {
-   "club": "SJEB FC",
-   "id": "300337019",
-   "name": "GA"
-  },
-  {
    "club": "Conshy FC",
    "id": "300489128",
    "name": "Conshy FC"
   },
   {
+   "club": "SJEB FC",
+   "id": "300337019",
+   "name": "GA"
+  },
+  {
    "club": "Octorara Soccer Club",
    "id": "300488019",
    "name": "OSC Hotshots (Buohl) active"
-  },
-  {
-   "club": "Pittsburgh Riverhounds",
-   "id": "300528630",
-   "name": "ECNL"
   },
   {
    "club": "Sea Gals",
@@ -254,6 +249,11 @@
    "club": "FC 814",
    "id": "300337099",
    "name": "FC Energy (PA West)"
+  },
+  {
+   "club": "PA Classics",
+   "id": "12235502",
+   "name": "GA"
   },
   {
    "club": "FC DELCO",
@@ -286,8 +286,8 @@
    "name": "STN NorthPenn"
   },
   {
-   "club": "PA Classics",
-   "id": "12235502",
+   "club": "Penn Rising XI",
+   "id": "12235503",
    "name": "GA"
   },
   {
@@ -324,6 +324,11 @@
    "club": "Pittsburgh Riverhounds",
    "id": "11845991",
    "name": "ECNL RL Girls"
+  },
+  {
+   "club": "FC Europa",
+   "id": "11823594",
+   "name": "ECNL RL"
   },
   {
    "club": "Springfield Futbol Club",
@@ -363,11 +368,6 @@
   {
    "club": "Beadling SC",
    "id": "12238578",
-   "name": "GA"
-  },
-  {
-   "club": "Penn Rising XI",
-   "id": "12235503",
    "name": "GA"
   }
  ]

@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-10-20T12:46:06.483015+00:00",
+ "fetched_at": "2026-10-27T13:21:44.092642+00:00",
  "state": "NV",
  "state_slug": "nevada",
  "teams": [
@@ -26,6 +26,11 @@
    "name": "LV Heat Surf Pre NP Henderson"
   },
   {
+   "club": "LV Heat Surf SC",
+   "id": "300415518",
+   "name": "ECNL RL"
+  },
+  {
    "club": "Northern Nevada Soccer Club",
    "id": "300415534",
    "name": "Northern Nevada SC Wave (NV)"
@@ -36,14 +41,14 @@
    "name": "Nevada FC"
   },
   {
-   "club": "LV Heat Surf SC",
-   "id": "300415518",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Las Vegas Sports Academy",
    "id": "300415537",
    "name": "Las Vegas Sports Academy Girls Silver"
+  },
+  {
+   "club": "Las Vegas Storm",
+   "id": "300534155",
+   "name": "Las Vegas Storm FC"
   },
   {
    "club": "Northern Nevada Soccer Club",
@@ -61,6 +66,11 @@
    "name": "Fiera"
   },
   {
+   "club": "LV Heat Surf SC",
+   "id": "300415528",
+   "name": "ECNL RL SoCal"
+  },
+  {
    "club": "Sierra Nevada FC",
    "id": "300415539",
    "name": "Sierra Nevada FC Vipers"
@@ -69,11 +79,6 @@
    "club": "Players Soccer Club",
    "id": "300532167",
    "name": "Players Girls Academy"
-  },
-  {
-   "club": "LV Heat Surf SC",
-   "id": "300415528",
-   "name": "ECNL RL SoCal"
   },
   {
    "club": "Sierra Surf SC",
@@ -91,14 +96,14 @@
    "name": "Las Vegas Sports Academy Girls White"
   },
   {
-   "club": "AYSO United - Las Vegas",
-   "id": "300415519",
-   "name": "AYSO UNITED Girls Blue"
-  },
-  {
    "club": "LV Heat Surf SC",
    "id": "300415529",
    "name": "LV Heat Surf Pre SP Henderson"
+  },
+  {
+   "club": "AYSO United - Las Vegas",
+   "id": "300415519",
+   "name": "AYSO UNITED Girls Blue"
   },
   {
    "club": "PRIME Soccer Club",
@@ -116,14 +121,19 @@
    "name": "CFC Rising"
   },
   {
+   "club": "Las Vegas Sports Academy",
+   "id": "11776508",
+   "name": "Girls Silver"
+  },
+  {
    "club": "Carson FC",
    "id": "300415530",
    "name": "CFC Valley Rebels"
   },
   {
-   "club": "Las Vegas Sports Academy",
-   "id": "11776508",
-   "name": "Girls Silver"
+   "club": "Great Basin Youth Soccer League",
+   "id": "12276139",
+   "name": "Bishop FC"
   },
   {
    "club": "Albion SC Las Vegas",
@@ -134,6 +144,11 @@
    "club": "Nevada Futbol Club",
    "id": "300415513",
    "name": "Nevada FC Select I"
+  },
+  {
+   "club": "Sporting Nevada USA Magnifico",
+   "id": "300534156",
+   "name": "Magnifico S.Highlands"
   },
   {
    "club": "AYSO United - Las Vegas",
@@ -156,29 +171,54 @@
    "name": "SPARTANS"
   },
   {
+   "club": "Juventus Academy Las Vegas",
+   "id": "300470298",
+   "name": "Del Pierro"
+  },
+  {
+   "club": "Great Basin Youth Soccer League",
+   "id": "300474405",
+   "name": "ABURTO"
+  },
+  {
+   "club": "Candy Cane Crushers",
+   "id": "300475809",
+   "name": "Candy Cane Crushers"
+  },
+  {
+   "club": "Elite FC (NV)",
+   "id": "300415524",
+   "name": "Elite FC"
+  },
+  {
+   "club": "Reno APEX Soccer Club",
+   "id": "300497292",
+   "name": "SILVER"
+  },
+  {
+   "club": "Northern Nevada Soccer Club",
+   "id": "300502482",
+   "name": "Spartans"
+  },
+  {
+   "club": "Las Vegas Sports Academy",
+   "id": "300532170",
+   "name": "GA"
+  },
+  {
    "club": "Vegas United Soccer Club",
    "id": "300537783",
    "name": "VU - Everton Girls"
   },
   {
-   "club": "LV Heat Surf SC",
-   "id": "300544116",
-   "name": "LV Heat Surf ECNL RL SoCal"
-  },
-  {
-   "club": "Reno APEX Soccer Club",
-   "id": "300544115",
-   "name": "ENCL RL"
-  },
-  {
-   "club": "Phoenix FC",
-   "id": "300544114",
-   "name": "PHOENIX FC"
+   "club": "Las Vegas Diversity FC",
+   "id": "300544110",
+   "name": "Las Vegas Diversity Elite Girls"
   },
   {
    "club": "LV Heat Surf SC",
-   "id": "300544113",
-   "name": "LV Heat Surf ECNL RL"
+   "id": "300544111",
+   "name": "ECNL"
   },
   {
    "club": "LV Heat Surf SC",
@@ -187,58 +227,23 @@
   },
   {
    "club": "LV Heat Surf SC",
-   "id": "300544111",
-   "name": "ECNL"
+   "id": "300544113",
+   "name": "LV Heat Surf ECNL RL"
   },
   {
-   "club": "Las Vegas Diversity FC",
-   "id": "300544110",
-   "name": "Las Vegas Diversity Elite Girls"
-  },
-  {
-   "club": "Juventus Academy Las Vegas",
-   "id": "300470298",
-   "name": "Del Pierro"
-  },
-  {
-   "club": "Sporting Nevada USA Magnifico",
-   "id": "300534156",
-   "name": "Magnifico S.Highlands"
-  },
-  {
-   "club": "Las Vegas Storm",
-   "id": "300534155",
-   "name": "Las Vegas Storm FC"
-  },
-  {
-   "club": "Elite FC (NV)",
-   "id": "300415524",
-   "name": "Elite FC"
-  },
-  {
-   "club": "Las Vegas Sports Academy",
-   "id": "300532170",
-   "name": "GA"
-  },
-  {
-   "club": "Northern Nevada Soccer Club",
-   "id": "300502482",
-   "name": "Spartans"
+   "club": "Phoenix FC",
+   "id": "300544114",
+   "name": "PHOENIX FC"
   },
   {
    "club": "Reno APEX Soccer Club",
-   "id": "300497292",
-   "name": "SILVER"
+   "id": "300544115",
+   "name": "ENCL RL"
   },
   {
-   "club": "Candy Cane Crushers",
-   "id": "300475809",
-   "name": "Candy Cane Crushers"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "300474405",
-   "name": "ABURTO"
+   "club": "LV Heat Surf SC",
+   "id": "300544116",
+   "name": "LV Heat Surf ECNL RL SoCal"
   },
   {
    "club": "LV Heat Surf SC",
@@ -336,6 +341,11 @@
    "name": "Athletic SC Select"
   },
   {
+   "club": "Albion SC Las Vegas",
+   "id": "16570100",
+   "name": "ALBION SC Las Vegas Academy RH"
+  },
+  {
    "club": "Nevada Futbol Club",
    "id": "14770350",
    "name": "Nevada FC DPL"
@@ -344,11 +354,6 @@
    "club": "Phoenix FC",
    "id": "12276140",
    "name": "Fire Birds FC"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "12276139",
-   "name": "Bishop FC"
   },
   {
    "club": "Great Basin Youth Soccer League",

@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-20T13:23:17.301408+00:00",
+ "fetched_at": "2026-10-27T13:58:54.112345+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
@@ -36,13 +36,13 @@
    "name": "Aspire"
   },
   {
-   "club": "Wisconsin United FC",
-   "id": "300371895",
+   "club": "Elmbrook United",
+   "id": "300371891",
    "name": "Aspire"
   },
   {
-   "club": "Elmbrook United",
-   "id": "300371891",
+   "club": "Wisconsin United FC",
+   "id": "300371895",
    "name": "Aspire"
   },
   {
@@ -51,13 +51,23 @@
    "name": "ECNL"
   },
   {
+   "club": "SC Wave",
+   "id": "300371892",
+   "name": "Aspire"
+  },
+  {
    "club": "Lakeshore United FC",
    "id": "300557456",
    "name": "LUFC Navy"
   },
   {
    "club": "SC Wave",
-   "id": "300371892",
+   "id": "15595450",
+   "name": "GA"
+  },
+  {
+   "club": "MC United Soccer Club",
+   "id": "300371874",
    "name": "Aspire"
   },
   {
@@ -66,19 +76,9 @@
    "name": "BUSC Girls Blue"
   },
   {
-   "club": "MC United Soccer Club",
-   "id": "300371874",
-   "name": "Aspire"
-  },
-  {
    "club": "River Surge FC",
    "id": "300513346",
    "name": "River Surge FC Girls Blue WI"
-  },
-  {
-   "club": "SC Wave",
-   "id": "15595450",
-   "name": "GA"
   },
   {
    "club": "Croatian Eagles Soccer Club",
@@ -91,14 +91,14 @@
    "name": "Aspire"
   },
   {
-   "club": "Milwaukee Kickers Academy",
-   "id": "300371884",
-   "name": "Milwaukee Kickers DPL"
-  },
-  {
    "club": "North Shore United",
    "id": "300371886",
    "name": "Aspire"
+  },
+  {
+   "club": "Milwaukee Kickers Academy",
+   "id": "300371884",
+   "name": "Milwaukee Kickers DPL"
   },
   {
    "club": "RUSH WI Southeast",
@@ -219,11 +219,6 @@
    "club": "Niagara Northern Stars",
    "id": "12170248",
    "name": "Northern Stars Girls"
-  },
-  {
-   "club": "Forward Madison FC",
-   "id": "12248562",
-   "name": "Rally Madison FC"
   },
   {
    "club": "Croatian Eagles SC",
@@ -439,6 +434,11 @@
    "club": "RUSH Wisconsin",
    "id": "300558977",
    "name": "G Rush (WI)"
+  },
+  {
+   "club": "Forward Madison FC",
+   "id": "300559974",
+   "name": "Rally Madison FC"
   }
  ]
 }

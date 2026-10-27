@@ -1,7 +1,7 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-10-20T12:27:06.455559+00:00",
+ "fetched_at": "2026-10-27T13:02:44.073781+00:00",
  "state": "KY",
  "state_slug": "kentucky",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "Javanon Girls Black"
   },
   {
-   "club": "Campbell Soccer Club (CSC)",
-   "id": "300524760",
-   "name": "Campbell SC Chaos"
-  },
-  {
    "club": "Kentucky Elite LF",
    "id": "300524758",
    "name": "KY Elite Girls"
+  },
+  {
+   "club": "Campbell Soccer Club (CSC)",
+   "id": "300524760",
+   "name": "Campbell SC Chaos"
   },
   {
    "club": "Mockingbird Valley Premier",
@@ -29,6 +29,11 @@
    "club": "Nelson Elite",
    "id": "300536494",
    "name": "Academy Girls"
+  },
+  {
+   "club": "LouCity / Racing Youth Academy",
+   "id": "300552656",
+   "name": "Racing South Purple"
   },
   {
    "club": "LouCity / Racing Youth Academy",
@@ -46,9 +51,9 @@
    "name": "Racing South Black"
   },
   {
-   "club": "Kings Hammer Cincinnati",
-   "id": "300524755",
-   "name": "KHA NKY Black"
+   "club": "Winchester Soccer Club",
+   "id": "300500933",
+   "name": "WinCity United Girls"
   },
   {
    "club": "Kings Hammer Cincinnati",
@@ -56,9 +61,14 @@
    "name": "KHA NKY Red"
   },
   {
-   "club": "Winchester Soccer Club",
-   "id": "300500933",
-   "name": "WinCity United Girls"
+   "club": "Kings Hammer Cincinnati",
+   "id": "300524755",
+   "name": "KHA NKY Black"
+  },
+  {
+   "club": "Madison United Soccer Association",
+   "id": "300524753",
+   "name": "MUSA Flyers Girls"
   },
   {
    "club": "I AM 3RD SOCCER",
@@ -71,6 +81,11 @@
    "name": "Racing Academy Black"
   },
   {
+   "club": "Independence SC",
+   "id": "300552074",
+   "name": "ISC Shamrocks"
+  },
+  {
    "club": "Mockingbird Valley Premier",
    "id": "300536493",
    "name": "MVP White"
@@ -79,16 +94,6 @@
    "club": "LouCity / Racing Youth Academy",
    "id": "300549372",
    "name": "Racing Oldham Purple"
-  },
-  {
-   "club": "Independence SC",
-   "id": "300552074",
-   "name": "ISC Shamrocks"
-  },
-  {
-   "club": "Madison United Soccer Association",
-   "id": "300524753",
-   "name": "MUSA Flyers Girls"
   },
   {
    "club": "Cynthiana-Harrison County YS",
@@ -101,59 +106,19 @@
    "name": "Nedo SC Gold"
   },
   {
-   "club": "Mockingbird Valley Premier",
-   "id": "300524751",
-   "name": "MVP Black"
-  },
-  {
-   "club": "Mockingbird Valley Premier",
-   "id": "12220335",
-   "name": "MVP Academy"
-  },
-  {
-   "club": "Lexington Sporting",
-   "id": "300536498",
-   "name": "Lexington Sporting - Academy Pre ECNL"
-  },
-  {
-   "club": "I AM 3RD SOCCER",
-   "id": "300557030",
-   "name": "PDA Girls Black"
-  },
-  {
    "club": "Lexington Sporting",
    "id": "300524750",
    "name": "Lex Sporting Black"
   },
   {
-   "club": "Valor United FC",
-   "id": "300556487",
-   "name": "Lady Valor"
+   "club": "Central Kentucky Storm SC",
+   "id": "12338414",
+   "name": "CKY Storm Girls Jessamine Black"
   },
   {
-   "club": "Madison United Soccer Association",
-   "id": "300553482",
-   "name": "MUSA Flyers Jr Academy Girls"
-  },
-  {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "300552656",
-   "name": "Racing South Purple"
-  },
-  {
-   "club": "IAM3RD PDA",
-   "id": "300548308",
-   "name": "PDA GIRLS BLACK"
-  },
-  {
-   "club": "Paducah Futbal Academy",
-   "id": "300536499",
-   "name": "PFA Girls"
-  },
-  {
-   "club": "Winchester Soccer Club",
-   "id": "300557031",
-   "name": "WSC Girls"
+   "club": "Mockingbird Valley Premier",
+   "id": "300524751",
+   "name": "MVP Black"
   },
   {
    "club": "Lexington Sporting",
@@ -161,9 +126,49 @@
    "name": "Lexington Sporting -Pre ECNL Green"
   },
   {
+   "club": "Lexington Sporting",
+   "id": "300536498",
+   "name": "Lexington Sporting - Academy Pre ECNL"
+  },
+  {
+   "club": "Paducah Futbal Academy",
+   "id": "300536499",
+   "name": "PFA Girls"
+  },
+  {
+   "club": "IAM3RD PDA",
+   "id": "300548308",
+   "name": "PDA GIRLS BLACK"
+  },
+  {
+   "club": "Madison United Soccer Association",
+   "id": "300553482",
+   "name": "MUSA Flyers Jr Academy Girls"
+  },
+  {
+   "club": "Valor United FC",
+   "id": "300556487",
+   "name": "Lady Valor"
+  },
+  {
+   "club": "I AM 3RD SOCCER",
+   "id": "300557030",
+   "name": "PDA Girls Black"
+  },
+  {
+   "club": "Mockingbird Valley Premier",
+   "id": "12220335",
+   "name": "MVP Academy"
+  },
+  {
+   "club": "Winchester Soccer Club",
+   "id": "300557031",
+   "name": "WSC Girls"
+  },
+  {
    "club": "Central Kentucky Storm SC",
-   "id": "12338414",
-   "name": "CKY Storm Girls Jessamine Black"
+   "id": "12338411",
+   "name": "CKY Storm Girls Boyle Black"
   },
   {
    "club": "The CR",
@@ -229,11 +234,6 @@
    "club": "Paris-Bourbon County Youth SA",
    "id": "12275774",
    "name": "Paris Springboks Girls"
-  },
-  {
-   "club": "Central Kentucky Storm SC",
-   "id": "12338411",
-   "name": "CKY Storm Girls Boyle Black"
   },
   {
    "club": "LouCity / Racing Youth Academy",

@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-20T13:04:56.523405+00:00",
+ "fetched_at": "2026-10-27T13:40:34.147846+00:00",
  "state": "PA",
  "state_slug": "pennsylvania",
  "teams": [
@@ -9,11 +9,6 @@
    "club": "Penn Fusion Soccer Academy",
    "id": "300518057",
    "name": "Penn Fusion SA - ECNL"
-  },
-  {
-   "club": "Northern Steel",
-   "id": "300369094",
-   "name": "Blue Girls"
   },
   {
    "club": "Philadelphia Ukrainian Nationals",
@@ -32,18 +27,23 @@
   },
   {
    "club": "FC DELCO",
-   "id": "300368946",
-   "name": "ECNL (G)"
-  },
-  {
-   "club": "FC DELCO",
    "id": "300369018",
    "name": "ECNL"
   },
   {
    "club": "Northern Steel",
-   "id": "300486268",
-   "name": "Select - Blue"
+   "id": "300369094",
+   "name": "Blue Girls"
+  },
+  {
+   "club": "FC DELCO",
+   "id": "300368946",
+   "name": "ECNL (G)"
+  },
+  {
+   "club": "LVU Rush",
+   "id": "300368893",
+   "name": "GA"
   },
   {
    "club": "HEX FC",
@@ -51,14 +51,14 @@
    "name": "Bucks ECNL"
   },
   {
+   "club": "Northern Steel",
+   "id": "300486268",
+   "name": "Select - Blue"
+  },
+  {
    "club": "Pittsburgh Riverhounds",
    "id": "300518069",
    "name": "ECNL"
-  },
-  {
-   "club": "LVU Rush",
-   "id": "300368893",
-   "name": "GA"
   },
   {
    "club": "Beadling SC",
@@ -71,14 +71,14 @@
    "name": "YMS ECNL RL"
   },
   {
-   "club": "HEX FC",
-   "id": "300368919",
-   "name": "Dominion ECNL RL"
-  },
-  {
    "club": "Penn Fusion Soccer Academy",
    "id": "300518055",
    "name": "ECNL RL"
+  },
+  {
+   "club": "HEX FC",
+   "id": "300368919",
+   "name": "Dominion ECNL RL"
   },
   {
    "club": "Erie FC",
@@ -96,14 +96,9 @@
    "name": "GA"
   },
   {
-   "club": "Steel City FC",
-   "id": "300369093",
-   "name": "Academy ECNL-RL"
-  },
-  {
-   "club": "Northeast Cantolao FC",
-   "id": "300368889",
-   "name": "Northeast Cantolao FC Nova"
+   "club": "Fairfield Youth Soccer Club",
+   "id": "300368949",
+   "name": "FYSC Lady Knights"
   },
   {
    "club": "Philadelphia Soccer Club",
@@ -111,24 +106,14 @@
    "name": "Philadelphia SC Surf Coppa Storm Black"
   },
   {
-   "club": "Pittsburgh Riverhounds",
-   "id": "300518068",
-   "name": "RL"
+   "club": "Century United Soccer",
+   "id": "300369098",
+   "name": "GA"
   },
   {
-   "club": "PA Classics Harrisburg (LDSA)",
-   "id": "300368962",
-   "name": "PA Classics Hbg Girls NAL"
-  },
-  {
-   "club": "Fairfield Youth Soccer Club",
-   "id": "300368949",
-   "name": "FYSC Lady Knights"
-  },
-  {
-   "club": "YMS",
-   "id": "12085680",
-   "name": "ECNL RL"
+   "club": "Northeast Cantolao FC",
+   "id": "300368889",
+   "name": "Northeast Cantolao FC Nova"
   },
   {
    "club": "Penn Fusion Soccer Academy",
@@ -136,9 +121,9 @@
    "name": "Reds"
   },
   {
-   "club": "PA Classics",
-   "id": "300368894",
-   "name": "PA Classics NAL Reading F"
+   "club": "YMS",
+   "id": "12085680",
+   "name": "ECNL RL"
   },
   {
    "club": "LVU Rush",
@@ -146,19 +131,9 @@
    "name": "Aspire"
   },
   {
-   "club": "Century United Soccer",
-   "id": "300369098",
-   "name": "GA"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "300368943",
-   "name": "ECNL Regional (G)"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "300518043",
-   "name": "ECNL RL"
+   "club": "Reading Rage Surf",
+   "id": "300369020",
+   "name": "Reading Rage ECNL RL"
   },
   {
    "club": "Penn Alliance Select",
@@ -166,43 +141,28 @@
    "name": "Elite"
   },
   {
-   "club": "FC Europa",
-   "id": "300368976",
-   "name": "FCE Girls ECNL RL"
+   "club": "PA Classics Harrisburg (LDSA)",
+   "id": "300368962",
+   "name": "PA Classics Hbg Girls NAL"
   },
   {
-   "club": "Reading Rage Surf",
-   "id": "300369020",
-   "name": "Reading Rage ECNL RL"
+   "club": "FC DELCO",
+   "id": "300368943",
+   "name": "ECNL Regional (G)"
   },
   {
-   "club": "HEX FC",
-   "id": "300369051",
-   "name": "Keystone ECNL-RL"
+   "club": "PA Classics",
+   "id": "300368894",
+   "name": "PA Classics NAL Reading F"
   },
   {
-   "club": "Huntingdon Valley AA",
-   "id": "300368989",
-   "name": "Aspire"
+   "club": "Pittsburgh Riverhounds",
+   "id": "300518068",
+   "name": "RL"
   },
   {
-   "club": "Iron Valley United SC",
-   "id": "300368922",
-   "name": "Iron Valley United Raptors (PA)"
-  },
-  {
-   "club": "Philadelphia Ukrainian Nationals",
-   "id": "300369029",
-   "name": "Philadelphia Ukrainian ECNL-RL"
-  },
-  {
-   "club": "North Union United SC",
-   "id": "300368952",
-   "name": "NUU Charge"
-  },
-  {
-   "club": "West-Mont United S.A",
-   "id": "300368895",
+   "club": "FC DELCO",
+   "id": "300518043",
    "name": "ECNL RL"
   },
   {
@@ -211,9 +171,29 @@
    "name": "Steel City FC Premier"
   },
   {
-   "club": "Falls SC",
-   "id": "300369006",
-   "name": "FSC Lady Lions Premier"
+   "club": "Steel City FC",
+   "id": "300369093",
+   "name": "Academy ECNL-RL"
+  },
+  {
+   "club": "HEX FC",
+   "id": "300369051",
+   "name": "Keystone ECNL-RL"
+  },
+  {
+   "club": "Iron Valley United SC",
+   "id": "300368922",
+   "name": "Iron Valley United Raptors (PA)"
+  },
+  {
+   "club": "FC Europa",
+   "id": "300368976",
+   "name": "FCE Girls ECNL RL"
+  },
+  {
+   "club": "Philadelphia Ukrainian Nationals",
+   "id": "300369029",
+   "name": "Philadelphia Ukrainian ECNL-RL"
   },
   {
    "club": "Lancaster FC",
@@ -221,9 +201,14 @@
    "name": "Lancaster FC ECNL RL"
   },
   {
-   "club": "Westmont United",
-   "id": "11686171",
-   "name": "ECNL RL"
+   "club": "Falls SC",
+   "id": "300369006",
+   "name": "FSC Lady Lions Premier"
+  },
+  {
+   "club": "North Union United SC",
+   "id": "300368952",
+   "name": "NUU Charge"
   },
   {
    "club": "FC DELCO",
@@ -231,74 +216,19 @@
    "name": "Black Dtown (G)"
   },
   {
-   "club": "Steel United PA",
-   "id": "300368996",
-   "name": "Steel United PA NAL"
-  },
-  {
-   "club": "Beadling SC",
-   "id": "300369097",
-   "name": "Beadling South Girls RL NPL"
-  },
-  {
-   "club": "FC Europa",
-   "id": "300369003",
-   "name": "FCE Girls Elite"
-  },
-  {
-   "club": "Coventry Soccer Association",
-   "id": "300368903",
-   "name": "Storm"
-  },
-  {
-   "club": "Philadelphia Ukrainian Nationals",
-   "id": "300368955",
-   "name": "USYS"
-  },
-  {
-   "club": "Victory SC",
-   "id": "300369099",
-   "name": "Victory SC girls GLA"
-  },
-  {
-   "club": "Patriot FC Soccer Club",
-   "id": "300369000",
-   "name": "Girls Red"
-  },
-  {
-   "club": "BVB International Academy - Pittsburgh",
-   "id": "300235574",
-   "name": "BVB IA Pittsburgh Girls Premier"
-  },
-  {
-   "club": "Lancaster Inferno",
-   "id": "300368891",
-   "name": "Lancaster Inferno FC"
-  },
-  {
-   "club": "Keystone FC",
-   "id": "300368899",
+   "club": "Huntingdon Valley AA",
+   "id": "300368989",
    "name": "Aspire"
   },
   {
-   "club": "FC Chesco",
-   "id": "300368911",
-   "name": "FC Chesco Girls"
+   "club": "Westmont United",
+   "id": "11686171",
+   "name": "ECNL RL"
   },
   {
-   "club": "PA Classics Harrisburg (LDSA)",
-   "id": "300368937",
-   "name": "PA Classics Hbg Girls Elite Blue"
-  },
-  {
-   "club": "Black Diamond Soccer Club",
-   "id": "300368884",
-   "name": "BDSC Storm"
-  },
-  {
-   "club": "Allegheny Force Football Club",
-   "id": "300369100",
-   "name": "AFFC Girls Black"
+   "club": "Steel United PA",
+   "id": "300368996",
+   "name": "Steel United PA NAL"
   },
   {
    "club": "Warminster SC",
@@ -306,9 +236,74 @@
    "name": "Flame"
   },
   {
-   "club": "Western Lehigh United SC",
-   "id": "300368918",
-   "name": "WLUSC Girls - Hain"
+   "club": "Beadling SC",
+   "id": "300369097",
+   "name": "Beadling South Girls RL NPL"
+  },
+  {
+   "club": "Keystone FC",
+   "id": "300368899",
+   "name": "Aspire"
+  },
+  {
+   "club": "West-Mont United S.A",
+   "id": "300541502",
+   "name": "West-Mont United ECNL RL"
+  },
+  {
+   "club": "Coventry Soccer Association",
+   "id": "300368903",
+   "name": "Storm"
+  },
+  {
+   "club": "FC Europa",
+   "id": "300369003",
+   "name": "FCE Girls Elite"
+  },
+  {
+   "club": "Philadelphia Ukrainian Nationals",
+   "id": "300368955",
+   "name": "USYS"
+  },
+  {
+   "club": "BVB International Academy - Pittsburgh",
+   "id": "300235574",
+   "name": "BVB IA Pittsburgh Girls Premier"
+  },
+  {
+   "club": "PA Classics Harrisburg (LDSA)",
+   "id": "300368937",
+   "name": "PA Classics Hbg Girls Elite Blue"
+  },
+  {
+   "club": "Victory SC",
+   "id": "300369099",
+   "name": "Victory SC girls GLA"
+  },
+  {
+   "club": "Lancaster Inferno",
+   "id": "300368891",
+   "name": "Lancaster Inferno Academy (PA)"
+  },
+  {
+   "club": "Black Diamond Soccer Club",
+   "id": "300368884",
+   "name": "BDSC Storm"
+  },
+  {
+   "club": "Patriot FC Soccer Club",
+   "id": "300369000",
+   "name": "Girls Red"
+  },
+  {
+   "club": "FC Chesco",
+   "id": "300368911",
+   "name": "FC Chesco Girls"
+  },
+  {
+   "club": "Allegheny Force Football Club",
+   "id": "300369100",
+   "name": "AFFC Girls Black"
   },
   {
    "club": "Montgomery United SC",
@@ -316,9 +311,9 @@
    "name": "Girls APEX"
   },
   {
-   "club": "West-Mont United S.A",
-   "id": "300368990",
-   "name": "Gold"
+   "club": "Lionville SC",
+   "id": "300369007",
+   "name": "Lionville Pride"
   },
   {
    "club": "Pittsburgh Riverhounds",
@@ -326,9 +321,19 @@
    "name": "Pittsburgh Riverhounds Connellsville Girls"
   },
   {
+   "club": "Western Lehigh United SC",
+   "id": "300368918",
+   "name": "WLUSC Girls - Hain"
+  },
+  {
    "club": "Northern Steel",
    "id": "300369102",
    "name": "Northern Steel Grey GLA"
+  },
+  {
+   "club": "Century United Soccer",
+   "id": "300369118",
+   "name": "Century Girls Red"
   },
   {
    "club": "FC DELCO",
@@ -336,19 +341,29 @@
    "name": "Black Conshy (G)"
   },
   {
+   "club": "Penn Fusion Soccer Academy",
+   "id": "300368975",
+   "name": "United"
+  },
+  {
+   "club": "Lighthouse SC",
+   "id": "300368971",
+   "name": "Blue Thunder"
+  },
+  {
+   "club": "PA Classics",
+   "id": "300368885",
+   "name": "PA Classics Reading Elite"
+  },
+  {
+   "club": "West-Mont United S.A",
+   "id": "300368990",
+   "name": "Gold"
+  },
+  {
    "club": "Chestnut Hill Youth Sports Club",
    "id": "300368928",
    "name": "Blue Lightning"
-  },
-  {
-   "club": "Lionville SC",
-   "id": "300369007",
-   "name": "Lionville Pride"
-  },
-  {
-   "club": "Century United Soccer",
-   "id": "300369118",
-   "name": "Century Girls Red"
   },
   {
    "club": "Tournament Team",
@@ -361,9 +376,9 @@
    "name": "Steel City FC Classic GLA Thorns"
   },
   {
-   "club": "PA Classics",
-   "id": "300368885",
-   "name": "PA Classics Reading Elite"
+   "club": "Penn Alliance Select",
+   "id": "300368944",
+   "name": "Premier"
   },
   {
    "club": "Upper Dublin Soccer Club",
@@ -371,39 +386,9 @@
    "name": "Fire Red"
   },
   {
-   "club": "Penn Fusion Soccer Academy",
-   "id": "300368975",
-   "name": "United"
-  },
-  {
-   "club": "Penn Alliance Select",
-   "id": "300368944",
-   "name": "Premier"
-  },
-  {
-   "club": "Lighthouse SC",
-   "id": "300368971",
-   "name": "Blue Thunder"
-  },
-  {
-   "club": "Lampeter Strasburg Youth Soccer Club",
-   "id": "300368887",
-   "name": "Penn United Force FC"
-  },
-  {
-   "club": "Unity Football Club",
-   "id": "300368995",
-   "name": "Unity FC Girls"
-  },
-  {
-   "club": "PA Classics",
-   "id": "300368969",
-   "name": "Aspire"
-  },
-  {
-   "club": "FC Montco",
-   "id": "300368977",
-   "name": "Blaze"
+   "club": "Towamencin Youth Assn",
+   "id": "300368986",
+   "name": "Towamencin Girls United"
   },
   {
    "club": "Rebels Futbol Club",
@@ -411,14 +396,29 @@
    "name": "Girls - Orange"
   },
   {
-   "club": "HEX FC",
-   "id": "300368980",
-   "name": "Keystone USYS Black"
+   "club": "Lampeter Strasburg Youth Soccer Club",
+   "id": "300368887",
+   "name": "Penn United Force FC"
   },
   {
-   "club": "Towamencin Youth Assn",
-   "id": "300368986",
-   "name": "Towamencin Girls United"
+   "club": "FC Montco",
+   "id": "300368977",
+   "name": "Blaze"
+  },
+  {
+   "club": "PA Classics",
+   "id": "300368969",
+   "name": "Aspire"
+  },
+  {
+   "club": "Unity Football Club",
+   "id": "300368995",
+   "name": "Unity FC Girls"
+  },
+  {
+   "club": "Keystone FC",
+   "id": "300368945",
+   "name": "South Elite"
   },
   {
    "club": "Lower Merion Soccer Club",
@@ -426,9 +426,24 @@
    "name": "LMSC Navy"
   },
   {
-   "club": "Keystone FC",
-   "id": "300368945",
-   "name": "South Elite"
+   "club": "Warrington Soccer Club",
+   "id": "300368947",
+   "name": "Warrington Strikers"
+  },
+  {
+   "club": "Huntingdon Valley AA",
+   "id": "300368934",
+   "name": "HVAA Navy"
+  },
+  {
+   "club": "Vereinigung Erzgebirge SC",
+   "id": "300368963",
+   "name": "VE Venom"
+  },
+  {
+   "club": "Warrington SC",
+   "id": "300043115",
+   "name": "Warrington Wildcats"
   },
   {
    "club": "AC United",
@@ -441,21 +456,6 @@
    "name": "Rush Girls"
   },
   {
-   "club": "Huntingdon Valley AA",
-   "id": "300368934",
-   "name": "HVAA Navy"
-  },
-  {
-   "club": "Warrington SC",
-   "id": "300043115",
-   "name": "Warrington Wildcats"
-  },
-  {
-   "club": "Vereinigung Erzgebirge SC",
-   "id": "300368963",
-   "name": "VE Venom"
-  },
-  {
    "club": "Quakertown Soccer Club",
    "id": "300368979",
    "name": "QSC Attack Blue"
@@ -466,14 +466,14 @@
    "name": "Blue"
   },
   {
-   "club": "North Union United SC",
-   "id": "300368901",
-   "name": "NUU Strikers"
+   "club": "Hunter SC",
+   "id": "300369002",
+   "name": "Blue"
   },
   {
-   "club": "Steel City FC",
-   "id": "300369103",
-   "name": "Steel City FC Classic GLA Spirit"
+   "club": "HEX FC",
+   "id": "300368980",
+   "name": "Keystone USYS Black"
   },
   {
    "club": "Keystone FC",
@@ -481,9 +481,9 @@
    "name": "Elite"
   },
   {
-   "club": "Hunter SC",
-   "id": "300369002",
-   "name": "Blue"
+   "club": "Steel City FC",
+   "id": "300369103",
+   "name": "Steel City FC Classic GLA Spirit"
   },
   {
    "club": "Steel United PA",
@@ -491,34 +491,14 @@
    "name": "Premier"
   },
   {
-   "club": "Warrington Soccer Club",
-   "id": "300368947",
-   "name": "Warrington Strikers"
+   "club": "Haverford Soccer Club",
+   "id": "300369008",
+   "name": "Storm"
   },
   {
-   "club": "Steel City FC",
-   "id": "300476501",
-   "name": "BC United"
-  },
-  {
-   "club": "East Penn SC",
-   "id": "300368985",
-   "name": "Rush G"
-  },
-  {
-   "club": "Philadelphia International FC",
-   "id": "300368913",
-   "name": "Girls Elite"
-  },
-  {
-   "club": "Yardley Makefield Soccer",
-   "id": "300368999",
-   "name": "Yardley Makefield Soccer Girls Dynamite"
-  },
-  {
-   "club": "Erie Junior Commodores",
-   "id": "300369107",
-   "name": "Erie Commodores girls blue"
+   "club": "North Union United SC",
+   "id": "300368901",
+   "name": "NUU Strikers"
   },
   {
    "club": "1776 United (Nether FC)",
@@ -526,9 +506,29 @@
    "name": "United FC Girls"
   },
   {
+   "club": "East Penn SC",
+   "id": "300368985",
+   "name": "Rush G"
+  },
+  {
+   "club": "Steel City FC",
+   "id": "300476501",
+   "name": "BC United"
+  },
+  {
+   "club": "Philadelphia International FC",
+   "id": "300368913",
+   "name": "Girls Elite"
+  },
+  {
    "club": "GSYSC Spartans",
    "id": "300368997",
    "name": "GSYSC Spartans"
+  },
+  {
+   "club": "Erie Junior Commodores",
+   "id": "300369107",
+   "name": "Erie Commodores girls blue"
   },
   {
    "club": "Pittsburgh Football Club",
@@ -536,24 +536,24 @@
    "name": "Pittsburgh Football Club Girls"
   },
   {
-   "club": "Eagle F.C.",
-   "id": "300530153",
-   "name": "Eagle FC Red"
-  },
-  {
-   "club": "Haverford Soccer Club",
-   "id": "300369008",
-   "name": "Storm"
-  },
-  {
    "club": "Roxborough United Soccer Club",
    "id": "300368994",
    "name": "Storm"
   },
   {
-   "club": "PA Classics",
-   "id": "300368904",
-   "name": "PA Classics United F"
+   "club": "Eagle F.C.",
+   "id": "300530153",
+   "name": "Eagle FC Red"
+  },
+  {
+   "club": "Yardley Makefield Soccer",
+   "id": "300368999",
+   "name": "Yardley Makefield Soccer Girls Dynamite"
+  },
+  {
+   "club": "Fox Chase SC",
+   "id": "300368988",
+   "name": "Fox Chase Force"
   },
   {
    "club": "Lancaster FC",
@@ -561,9 +561,14 @@
    "name": "Lancaster FC Elite"
   },
   {
-   "club": "Whitpain Recreation Assoc",
-   "id": "300368992",
-   "name": "Whitpain Girls Hurricanes"
+   "club": "PA Classics",
+   "id": "300368904",
+   "name": "PA Classics United F"
+  },
+  {
+   "club": "PA Classics Harrisburg (LDSA)",
+   "id": "300368925",
+   "name": "PA Classics Hbg Girls Elite Green"
   },
   {
    "club": "Deep Run Valley",
@@ -576,16 +581,6 @@
    "name": "Flames"
   },
   {
-   "club": "PA Classics Harrisburg (LDSA)",
-   "id": "300368925",
-   "name": "PA Classics Hbg Girls Elite Green"
-  },
-  {
-   "club": "Fox Chase SC",
-   "id": "300368988",
-   "name": "Fox Chase Force"
-  },
-  {
    "club": "FC Europa",
    "id": "300368967",
    "name": "FCE Girls Premier"
@@ -596,14 +591,14 @@
    "name": "2011G"
   },
   {
-   "club": "King of Prussia Soccer Club",
-   "id": "300530154",
-   "name": "Prussians Girls Blue"
+   "club": "Whitpain Recreation Assoc",
+   "id": "300368992",
+   "name": "Whitpain Girls Hurricanes"
   },
   {
-   "club": "AC Inspire",
-   "id": "300369023",
-   "name": "Premier - Turquoise"
+   "club": "Rose Tree SC",
+   "id": "300471278",
+   "name": "Rose Tree Elite"
   },
   {
    "club": "Glenside Celtic SC",
@@ -611,9 +606,9 @@
    "name": "Glenside Celtic Girls- Kilkenny"
   },
   {
-   "club": "Rose Tree SC",
-   "id": "300471278",
-   "name": "Rose Tree Elite"
+   "club": "AC Inspire",
+   "id": "300369023",
+   "name": "Premier - Turquoise"
   },
   {
    "club": "Wyomissing",
@@ -651,16 +646,6 @@
    "name": "MAA"
   },
   {
-   "club": "Montgomery United SC",
-   "id": "11772924",
-   "name": "Girls Fall Kristopeit"
-  },
-  {
-   "club": "Penn Athletics Club of Bucks County",
-   "id": "11772946",
-   "name": "PENN NYC"
-  },
-  {
    "club": "Penn Athletics Club of Bucks County",
    "id": "11772947",
    "name": "PENN Union"
@@ -669,16 +654,6 @@
    "club": "Warrington Soccer Club",
    "id": "11772961",
    "name": "Girls Red Team (McGrath)"
-  },
-  {
-   "club": "Pittsburgh Riverhounds",
-   "id": "11796172",
-   "name": "Academy Connellsville Girls"
-  },
-  {
-   "club": "FC Pittsburgh",
-   "id": "11803928",
-   "name": "Gold"
   },
   {
    "club": "Sporting Club Premier (NJ)",
@@ -1031,6 +1006,11 @@
    "name": "Bucks ECNL RL"
   },
   {
+   "club": "King of Prussia Soccer Club",
+   "id": "300530154",
+   "name": "Prussians Girls Blue"
+  },
+  {
    "club": "Pittsburgh Riverhounds",
    "id": "300530156",
    "name": "ECNL"
@@ -1069,11 +1049,6 @@
    "club": "Pittsburgh Riverhounds",
    "id": "300541501",
    "name": "ECNL RL"
-  },
-  {
-   "club": "West-Mont United S.A",
-   "id": "300541502",
-   "name": "West-Mont United ECNL RL"
   },
   {
    "club": "Lansing Knights Youth Org",

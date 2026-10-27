@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-20T12:07:46.502067+00:00",
+ "fetched_at": "2026-10-27T12:43:24.134286+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
@@ -21,9 +21,9 @@
    "name": "ECNL"
   },
   {
-   "club": "Colorado Rush",
-   "id": "300391080",
-   "name": "Academy Blue ECNL"
+   "club": "Arsenal Colorado",
+   "id": "300486300",
+   "name": "ECNL RL"
   },
   {
    "club": "Colorado Storm",
@@ -31,19 +31,14 @@
    "name": "ECNL"
   },
   {
-   "club": "Arsenal Colorado",
-   "id": "300486300",
-   "name": "ECNL RL"
+   "club": "Colorado Rush",
+   "id": "300391080",
+   "name": "Academy Blue ECNL"
   },
   {
-   "club": "Real Colorado",
-   "id": "300391110",
-   "name": "Athletico ECNL"
-  },
-  {
-   "club": "Colorado EDGE SC",
-   "id": "300391034",
-   "name": "Colorado EDGE ECNL RL"
+   "club": "Albion SC Denver",
+   "id": "300514289",
+   "name": "Aspire"
   },
   {
    "club": "Grand Junction SC",
@@ -51,9 +46,19 @@
    "name": "Aspire"
   },
   {
+   "club": "Real Colorado",
+   "id": "300391110",
+   "name": "Athletico ECNL"
+  },
+  {
    "club": "Colorado Futsal",
    "id": "300481076",
    "name": "Futsal"
+  },
+  {
+   "club": "Colorado EDGE SC",
+   "id": "300391034",
+   "name": "Colorado EDGE ECNL RL"
   },
   {
    "club": "ALBION SC Colorado",
@@ -66,6 +71,11 @@
    "name": "Central ECNL RL"
   },
   {
+   "club": "SIQ",
+   "id": "300481075",
+   "name": "SIQ Marta"
+  },
+  {
    "club": "Pride Soccer Club",
    "id": "300391019",
    "name": "Pride SC ECNL RL"
@@ -76,24 +86,9 @@
    "name": "Colorado EDGE United"
   },
   {
-   "club": "Pride SC",
-   "id": "300491844",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Colorado Storm",
    "id": "300518761",
    "name": "South ECNL RL"
-  },
-  {
-   "club": "Colorado EDGE SC",
-   "id": "300391078",
-   "name": "Colorado EDGE ECNL RL"
-  },
-  {
-   "club": "Albion SC Colorado",
-   "id": "300391070",
-   "name": "Boulder County Aspire"
   },
   {
    "club": "Colorado United",
@@ -101,9 +96,19 @@
    "name": "GA"
   },
   {
-   "club": "SIQ",
-   "id": "300481075",
-   "name": "SIQ Marta"
+   "club": "ALBION SC Boulder County",
+   "id": "300391070",
+   "name": "Boulder County Aspire"
+  },
+  {
+   "club": "Pride SC",
+   "id": "300491844",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Colorado EDGE SC",
+   "id": "300391078",
+   "name": "Colorado EDGE ECNL RL"
   },
   {
    "club": "Real Colorado",
@@ -111,14 +116,19 @@
    "name": "Olympico ECNL RL"
   },
   {
-   "club": "Colorado Storm",
-   "id": "300514284",
-   "name": "CR DPL"
+   "club": "Colorado Rapids FC",
+   "id": "11784561",
+   "name": "Central ECNL RL"
   },
   {
    "club": "Westy Soccer Club",
    "id": "300391048",
    "name": "Westy SC Elite (CO)"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "300514284",
+   "name": "CR DPL"
   },
   {
    "club": "Colorado Rush",
@@ -131,9 +141,14 @@
    "name": "GA"
   },
   {
-   "club": "Colorado Rapids FC",
-   "id": "11784561",
-   "name": "Central ECNL RL"
+   "club": "Albion SC Denver",
+   "id": "300551174",
+   "name": "DPL"
+  },
+  {
+   "club": "Real Colorado",
+   "id": "11784568",
+   "name": "ECNL RL"
   },
   {
    "club": "Colorado Rush",
@@ -141,19 +156,9 @@
    "name": "Colorado Rush East DPL"
   },
   {
-   "club": "CO Elevation FC",
-   "id": "300514287",
-   "name": "Aspire"
-  },
-  {
    "club": "Colorado Rush",
    "id": "300391081",
    "name": "Colorado Rush Academy White ECNL RL"
-  },
-  {
-   "club": "Real Colorado",
-   "id": "11784568",
-   "name": "ECNL RL"
   },
   {
    "club": "Colorado Rush",
@@ -176,6 +181,16 @@
    "name": "DPL"
   },
   {
+   "club": "CO Elevation FC",
+   "id": "300514287",
+   "name": "Aspire"
+  },
+  {
+   "club": "Colorado United",
+   "id": "300391052",
+   "name": "Colorado United DPLO"
+  },
+  {
    "club": "Broomfield Soccer Club",
    "id": "300391074",
    "name": "Broomfield Soccer Club Prestige DPL"
@@ -186,19 +201,14 @@
    "name": "Grand Junction SC Premier"
   },
   {
-   "club": "Colorado United",
-   "id": "300391052",
-   "name": "Colorado United DPLO"
-  },
-  {
-   "club": "Pride Soccer Club",
-   "id": "300391025",
-   "name": "Pride SC United"
-  },
-  {
    "club": "City SC NOCO",
    "id": "300391027",
    "name": "Aspire"
+  },
+  {
+   "club": "Colorado Rapids FC",
+   "id": "300391087",
+   "name": "North ECNL RL"
   },
   {
    "club": "Colorado Storm",
@@ -212,8 +222,18 @@
   },
   {
    "club": "Pride Soccer Club",
+   "id": "300391025",
+   "name": "Pride SC United"
+  },
+  {
+   "club": "Pride Soccer Club",
    "id": "300391093",
    "name": "Pride SC Copa"
+  },
+  {
+   "club": "Colorado Rapids FC",
+   "id": "11784563",
+   "name": "South ECNL RL"
   },
   {
    "club": "Real Colorado",
@@ -224,16 +244,6 @@
    "club": "Colorado Rapids Youth Soccer Club",
    "id": "300391000",
    "name": "Castle Rock DPL"
-  },
-  {
-   "club": "Colorado Rapids FC",
-   "id": "300391087",
-   "name": "North ECNL RL"
-  },
-  {
-   "club": "Colorado Rapids FC",
-   "id": "11784563",
-   "name": "South ECNL RL"
   },
   {
    "club": "FC Premier",
@@ -261,11 +271,6 @@
    "name": "South Select"
   },
   {
-   "club": "ALBION SC Denver",
-   "id": "300391054",
-   "name": "DPLO"
-  },
-  {
    "club": "Colorado United",
    "id": "300531054",
    "name": "Colorado United SC Gold"
@@ -279,6 +284,11 @@
    "club": "CO Elevation FC",
    "id": "300514281",
    "name": "DPL"
+  },
+  {
+   "club": "ALBION SC Denver",
+   "id": "300391054",
+   "name": "DPLO"
   },
   {
    "club": "Kick2Build Soccer Club",
@@ -876,11 +886,6 @@
    "name": "Gold (CO)"
   },
   {
-   "club": "Albion SC Denver",
-   "id": "300514289",
-   "name": "Aspire"
-  },
-  {
    "club": "Colorado Rush",
    "id": "300514290",
    "name": "Colorado Rush (CO)"
@@ -894,11 +899,6 @@
    "club": "Chaffee County United SC",
    "id": "300531055",
    "name": "Chaffee County United Girls"
-  },
-  {
-   "club": "Albion SC Denver",
-   "id": "300551174",
-   "name": "DPL"
   },
   {
    "club": "Skyline Soccer Association",

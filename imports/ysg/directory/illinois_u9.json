@@ -1,7 +1,7 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-10-20T12:19:46.453998+00:00",
+ "fetched_at": "2026-10-27T12:55:24.076823+00:00",
  "state": "IL",
  "state_slug": "illinois",
  "teams": [
@@ -11,19 +11,9 @@
    "name": "GSC Girls"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "300498496",
-   "name": "SLSG IL G Liverpool"
-  },
-  {
    "club": "Sockers FC",
    "id": "300498501",
    "name": "Sockers FC Girls"
-  },
-  {
-   "club": "Illinois Womens Soccer League",
-   "id": "300536440",
-   "name": "iProSkills Academy Girls"
   },
   {
    "club": "Gladiators FC",
@@ -31,14 +21,9 @@
    "name": "Gladiators FC Girls"
   },
   {
-   "club": "SASA Spirits SC",
-   "id": "300538514",
-   "name": "SASA Spirits"
-  },
-  {
-   "club": "Gateway Rush Soccer Club",
-   "id": "300536446",
-   "name": "Gateway Rush Girls United"
+   "club": "Illinois Womens Soccer League",
+   "id": "300536440",
+   "name": "iProSkills Academy Girls"
   },
   {
    "club": "Chicago Soccer Academy",
@@ -46,9 +31,9 @@
    "name": "Girls Blue"
   },
   {
-   "club": "Metro Alliance FC",
-   "id": "300524540",
-   "name": "Metro Alliance YA Blue II"
+   "club": "SASA Spirits SC",
+   "id": "300538514",
+   "name": "SASA Spirits"
   },
   {
    "club": "Elmhurst City Surf",
@@ -56,19 +41,34 @@
    "name": "ECS G Elite"
   },
   {
+   "club": "Morton United FC",
+   "id": "300498504",
+   "name": "Morton United FC Girls Red"
+  },
+  {
+   "club": "Metro Alliance FC",
+   "id": "300524540",
+   "name": "Metro Alliance YA Blue II"
+  },
+  {
+   "club": "Gateway Rush Soccer Club",
+   "id": "300536446",
+   "name": "Gateway Rush Girls United"
+  },
+  {
    "club": "Metro Alliance FC",
    "id": "300524539",
    "name": "Metro Alliance YA Blue I"
   },
   {
+   "club": "St. Louis Scott Gallagher",
+   "id": "300498496",
+   "name": "SLSG IL G Liverpool"
+  },
+  {
    "club": "Greater Libertyville Soccer Association",
    "id": "300524532",
    "name": "FC Libertyville Orange"
-  },
-  {
-   "club": "FC Central Illinois",
-   "id": "300550468",
-   "name": "FCCI Girls Select"
   },
   {
    "club": "Germantown Hills Athletic Association",
@@ -77,13 +77,8 @@
   },
   {
    "club": "FC Central Illinois",
-   "id": "300498500",
-   "name": "FC Central Illinois Girls"
-  },
-  {
-   "club": "Morton United FC",
-   "id": "300498504",
-   "name": "Morton United FC Girls Red"
+   "id": "300550468",
+   "name": "FCCI Girls Select"
   },
   {
    "club": "Quad Cities Rush",
@@ -91,24 +86,29 @@
    "name": "Quad Cities Rush Girls"
   },
   {
-   "club": "Pegasus FC",
-   "id": "300524543",
-   "name": "Pegasus FC Girls Red"
-  },
-  {
-   "club": "GlenEd",
-   "id": "300551754",
-   "name": "Glen-Ed SC United"
-  },
-  {
    "club": "Morton United FC",
    "id": "300524526",
    "name": "Morton United FC Girls RED"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "300498499",
-   "name": "SLSG MO G Arsenal"
+   "club": "FC Central Illinois",
+   "id": "300498500",
+   "name": "FC Central Illinois Girls"
+  },
+  {
+   "club": "Pegasus FC",
+   "id": "300524543",
+   "name": "Pegasus FC Girls Red"
+  },
+  {
+   "club": "Ela Soccer Club",
+   "id": "300550700",
+   "name": "ELA GIRLS ELITE"
+  },
+  {
+   "club": "GlenEd",
+   "id": "300551754",
+   "name": "Glen-Ed SC United"
   },
   {
    "club": "Peoria FC United",
@@ -121,9 +121,19 @@
    "name": "Irish FC"
   },
   {
+   "club": "Metro Alliance FC",
+   "id": "300552282",
+   "name": "Metro Alliance Southern IL Navy"
+  },
+  {
    "club": "Impact FC",
    "id": "300524544",
    "name": "Girls"
+  },
+  {
+   "club": "Junior Warriors SC",
+   "id": "300498503",
+   "name": "JUNIOR WARRIORS SC GIRLS"
   },
   {
    "club": "GlenEd",
@@ -131,9 +141,9 @@
    "name": "Glen-Ed SC Elite"
   },
   {
-   "club": "Junior Warriors SC",
-   "id": "300498503",
-   "name": "JUNIOR WARRIORS SC GIRLS"
+   "club": "St. Louis Scott Gallagher",
+   "id": "300498499",
+   "name": "SLSG MO G Arsenal"
   },
   {
    "club": "Morton United FC",
@@ -151,11 +161,6 @@
    "name": "Sangamon United FC Honey Bees"
   },
   {
-   "club": "Quad Cities Rush",
-   "id": "300498505",
-   "name": "Quad Cities Rush Girls"
-  },
-  {
    "club": "SASA Spirits SC",
    "id": "300536438",
    "name": "SASA Spirits"
@@ -169,6 +174,16 @@
    "club": "East Moline Silvis Soccer Club",
    "id": "300524530",
    "name": "EMSSC"
+  },
+  {
+   "club": "GlenEd",
+   "id": "300551753",
+   "name": "Glen-Ed SC Elite"
+  },
+  {
+   "club": "Germantown Hills Athletic Association",
+   "id": "300552072",
+   "name": "GHAA Fire SC"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -244,11 +259,6 @@
    "club": "St. Louis Scott Gallagher",
    "id": "12264679",
    "name": "SLSG MO G France"
-  },
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "12266452",
-   "name": "SLSG IL G Angel City"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -391,6 +401,11 @@
    "name": "Eclipse Solar Naperville Girls"
   },
   {
+   "club": "Quad Cities Rush",
+   "id": "300498505",
+   "name": "Quad Cities Rush Girls"
+  },
+  {
    "club": "MidState Soccer Club",
    "id": "300498506",
    "name": "MidState Girls"
@@ -516,26 +531,6 @@
    "name": "Rockets"
   },
   {
-   "club": "Ela Soccer Club",
-   "id": "300550700",
-   "name": "ELA GIRLS ELITE"
-  },
-  {
-   "club": "GlenEd",
-   "id": "300551753",
-   "name": "Glen-Ed SC Elite"
-  },
-  {
-   "club": "Germantown Hills Athletic Association",
-   "id": "300552072",
-   "name": "GHAA Fire SC"
-  },
-  {
-   "club": "Metro Alliance FC",
-   "id": "300552282",
-   "name": "Metro Alliance Southern IL Navy"
-  },
-  {
    "club": "FC Barrington",
    "id": "300552283",
    "name": "FCB Girls Black"
@@ -554,6 +549,11 @@
    "club": "Quad Cities Rush",
    "id": "300553475",
    "name": "Quad Cities Rush Girls Nero"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "300560614",
+   "name": "SLSG IL G Angel City"
   }
  ]
 }

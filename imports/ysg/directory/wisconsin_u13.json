@@ -1,100 +1,10 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-10-20T13:22:46.518284+00:00",
+ "fetched_at": "2026-10-27T13:58:24.153720+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
-  {
-   "club": "Elmbrook United",
-   "id": "300423701",
-   "name": "GA"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300519567",
-   "name": "FC Wisconsin ECNL"
-  },
-  {
-   "club": "Croatian Eagles SC",
-   "id": "300559099",
-   "name": "Aspire"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300519566",
-   "name": "GA"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300519564",
-   "name": "Aspire"
-  },
-  {
-   "club": "Polonia SC",
-   "id": "300423698",
-   "name": "Polonia (WI)"
-  },
-  {
-   "club": "North Shore United",
-   "id": "300551532",
-   "name": "Aspire"
-  },
-  {
-   "club": "ACE SOCCER CLUB",
-   "id": "300423697",
-   "name": "ACE Yellow"
-  },
-  {
-   "club": "River Surge FC",
-   "id": "300519563",
-   "name": "River Surge Girls Blue"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300423708",
-   "name": "WW VSA"
-  },
-  {
-   "club": "RUSH WI Southeast",
-   "id": "300519565",
-   "name": "Girls National"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300423707",
-   "name": "WWFC"
-  },
-  {
-   "club": "Let Kids Fly",
-   "id": "300423723",
-   "name": "LKF CHARACTER"
-  },
-  {
-   "club": "RUSH Wisconsin",
-   "id": "300557568",
-   "name": "G Rush (WI)"
-  },
-  {
-   "club": "Hartford Soccer Club",
-   "id": "300423705",
-   "name": "HSC Girls Orange"
-  },
-  {
-   "club": "FC Wisconsin",
-   "id": "300423727",
-   "name": "Pre-ECNL"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300423690",
-   "name": "2014G WWFC2"
-  },
-  {
-   "club": "Rice Lake Soccer Association",
-   "id": "300478206",
-   "name": "RLSA Stars"
-  },
   {
    "club": "Legacy Soccer",
    "id": "12085071",
@@ -476,6 +386,11 @@
    "name": "Regent Soccer Club Azzurre"
   },
   {
+   "club": "Western Wisconsin Soccer",
+   "id": "300423690",
+   "name": "2014G WWFC2"
+  },
+  {
    "club": "Rush Union Wisconsin",
    "id": "300423693",
    "name": "Girls Select Blue"
@@ -486,9 +401,39 @@
    "name": "Girls Red Pre GA"
   },
   {
+   "club": "ACE SOCCER CLUB",
+   "id": "300423697",
+   "name": "ACE Yellow"
+  },
+  {
+   "club": "Polonia SC",
+   "id": "300423698",
+   "name": "Polonia (WI)"
+  },
+  {
    "club": "Middleton United",
    "id": "300423700",
    "name": "Middleton United White"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "300423701",
+   "name": "GA"
+  },
+  {
+   "club": "Hartford Soccer Club",
+   "id": "300423705",
+   "name": "HSC Girls Orange"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "300423707",
+   "name": "WWFC"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "300423708",
+   "name": "WW VSA"
   },
   {
    "club": "Middleton United Soccer Club",
@@ -506,9 +451,19 @@
    "name": "Polonia Girls White Eagles"
   },
   {
+   "club": "Let Kids Fly",
+   "id": "300423723",
+   "name": "LKF CHARACTER"
+  },
+  {
    "club": "Red Star Soccer Club",
    "id": "300423724",
    "name": "Red Star Soccer Club"
+  },
+  {
+   "club": "FC Wisconsin",
+   "id": "300423727",
+   "name": "Pre-ECNL"
   },
   {
    "club": "Elmbrook United",
@@ -534,6 +489,11 @@
    "club": "Bavarian United",
    "id": "300477996",
    "name": "BUSC Girls White"
+  },
+  {
+   "club": "Rice Lake Soccer Association",
+   "id": "300478206",
+   "name": "RLSA Stars"
   },
   {
    "club": "Madison Magic",
@@ -586,6 +546,31 @@
    "name": "Legacy Girls Red"
   },
   {
+   "club": "River Surge FC",
+   "id": "300519563",
+   "name": "River Surge Girls Blue"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "300519564",
+   "name": "Aspire"
+  },
+  {
+   "club": "RUSH WI Southeast",
+   "id": "300519565",
+   "name": "Girls National"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "300519566",
+   "name": "GA"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "300519567",
+   "name": "FC Wisconsin ECNL"
+  },
+  {
    "club": "FC Wisconsin Girls",
    "id": "300532564",
    "name": "FC Wisconsin ECNL RL"
@@ -599,6 +584,11 @@
    "club": "North Shore United",
    "id": "300550600",
    "name": "NSU Germantown Blue"
+  },
+  {
+   "club": "North Shore United",
+   "id": "300551532",
+   "name": "Aspire"
   },
   {
    "club": "Let Kids Fly (LKF - Hawk Soccer)",
@@ -641,6 +631,11 @@
    "name": "Aspire"
   },
   {
+   "club": "RUSH Wisconsin",
+   "id": "300557568",
+   "name": "G Rush (WI)"
+  },
+  {
    "club": "North Shore United",
    "id": "300558639",
    "name": "GA"
@@ -653,6 +648,11 @@
   {
    "club": "Elmbrook United",
    "id": "300559098",
+   "name": "Aspire"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "300559099",
    "name": "Aspire"
   }
  ]

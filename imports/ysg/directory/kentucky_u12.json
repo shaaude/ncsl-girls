@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-10-20T12:27:36.464747+00:00",
+ "fetched_at": "2026-10-27T13:03:14.099468+00:00",
  "state": "KY",
  "state_slug": "kentucky",
  "teams": [
@@ -21,16 +21,6 @@
    "name": "Inspire"
   },
   {
-   "club": "Kings Hammer Soccer Club",
-   "id": "300430510",
-   "name": "Pre-Elite NKY"
-  },
-  {
-   "club": "Lexington Sporting",
-   "id": "300430473",
-   "name": "Lex Sporting Club Black"
-  },
-  {
    "club": "Racing Louisville Academy",
    "id": "300430502",
    "name": "Pre-ECNL"
@@ -39,6 +29,16 @@
    "club": "MCC Revolution",
    "id": "300430488",
    "name": "MCC Lady Revolution"
+  },
+  {
+   "club": "Lexington Sporting",
+   "id": "300430473",
+   "name": "Lex Sporting Club Black"
+  },
+  {
+   "club": "Kings Hammer Soccer Club",
+   "id": "300430510",
+   "name": "Pre-Elite NKY"
   },
   {
    "club": "Mockingbird Valley Premier",
@@ -56,11 +56,6 @@
    "name": "Racing South Purple"
   },
   {
-   "club": "Falls City Soccer Club",
-   "id": "300430460",
-   "name": "FCSC GOLD"
-  },
-  {
    "club": "Javanon FC",
    "id": "300430487",
    "name": "Inspire"
@@ -76,14 +71,19 @@
    "name": "Fusion FC Black"
   },
   {
+   "club": "Winchester Soccer Club",
+   "id": "300544992",
+   "name": "WSC Girls Navy"
+  },
+  {
+   "club": "Falls City Soccer Club",
+   "id": "300430460",
+   "name": "FCSC GOLD"
+  },
+  {
    "club": "Fusion NKY FC",
    "id": "300430491",
    "name": "Fusion FC Green"
-  },
-  {
-   "club": "Madison United Soccer Association",
-   "id": "300520559",
-   "name": "MUSA Flyers Girls"
   },
   {
    "club": "Marshall County SA",
@@ -91,19 +91,24 @@
    "name": "MC Dynamo Girls"
   },
   {
-   "club": "Falls City Soccer Club",
-   "id": "300520568",
-   "name": "FCSC GOLD"
-  },
-  {
-   "club": "Mockingbird Valley Premier",
-   "id": "300430452",
-   "name": "MVP Gold"
+   "club": "Nelson Elite",
+   "id": "300520555",
+   "name": "Nelson Elite Girls Bodkin"
   },
   {
    "club": "Campbell Soccer Club (CSC)",
    "id": "300544989",
    "name": "CampbellSC Barnes"
+  },
+  {
+   "club": "Falls City Soccer Club",
+   "id": "300520568",
+   "name": "FCSC GOLD"
+  },
+  {
+   "club": "Madison United Soccer Association",
+   "id": "300520559",
+   "name": "MUSA Flyers Girls"
   },
   {
    "club": "I AM 3RD SOCCER",
@@ -116,9 +121,9 @@
    "name": "PDA Girls Black"
   },
   {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "300430494",
-   "name": "Racing Oldham Purple"
+   "club": "Mockingbird Valley Premier",
+   "id": "300430452",
+   "name": "MVP Gold"
   },
   {
    "club": "FC Kentucky",
@@ -126,19 +131,9 @@
    "name": "FC Kentucky Girls Blue"
   },
   {
-   "club": "Nelson Elite",
-   "id": "300520555",
-   "name": "Nelson Elite Girls Bodkin"
-  },
-  {
-   "club": "Javanon FC",
-   "id": "300430458",
-   "name": "Javanon Girls Red"
-  },
-  {
-   "club": "Campbell Soccer Club (CSC)",
-   "id": "300430477",
-   "name": "CSC Barnes"
+   "club": "LouCity / Racing Youth Academy",
+   "id": "300430494",
+   "name": "Racing Oldham Purple"
   },
   {
    "club": "Nelson Elite",
@@ -151,9 +146,19 @@
    "name": "NKY Gunners Athletic Club"
   },
   {
+   "club": "Campbell Soccer Club (CSC)",
+   "id": "300430477",
+   "name": "CSC Barnes"
+  },
+  {
    "club": "Independence SC",
    "id": "300430461",
    "name": "ISC Birds"
+  },
+  {
+   "club": "Javanon FC",
+   "id": "300430458",
+   "name": "Javanon Girls Red"
   },
   {
    "club": "Kings Hammer Soccer Club",
@@ -169,11 +174,6 @@
    "club": "SKY Soccer Club",
    "id": "300430468",
    "name": "SKY Academy Select Girls"
-  },
-  {
-   "club": "Racing Louisville Academy",
-   "id": "300430501",
-   "name": "Racing Louisville South Pre-ECNL"
   },
   {
    "club": "Kings Hammer Cincinnati",
@@ -196,44 +196,14 @@
    "name": "CKY Storm Girls Black"
   },
   {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "300430457",
-   "name": "Racing Academy Black"
-  },
-  {
-   "club": "I AM 3RD SOCCER",
-   "id": "300551958",
-   "name": "PDA Girls Blue"
-  },
-  {
-   "club": "Mockingbird Valley Premier",
-   "id": "300520556",
-   "name": "MVP White"
-  },
-  {
    "club": "Nelson Elite",
    "id": "300430480",
    "name": "Girls - Blue"
   },
   {
-   "club": "Fusion NKY FC",
-   "id": "300430490",
-   "name": "Fusion FC Black"
-  },
-  {
-   "club": "Cynthiana-Harrison County YS",
-   "id": "300469921",
-   "name": "HCSC Girls"
-  },
-  {
-   "club": "Madison United Soccer Association",
-   "id": "300430496",
-   "name": "MUSA Flyers Girls"
-  },
-  {
-   "club": "Owensboro United Soccer Club",
-   "id": "300430489",
-   "name": "Owensboro United Girls"
+   "club": "LouCity / Racing Youth Academy",
+   "id": "300430457",
+   "name": "Racing Academy Black"
   },
   {
    "club": "Bluegrass Soccer Club",
@@ -241,9 +211,14 @@
    "name": "BSC Evans"
   },
   {
-   "club": "Independence SC",
-   "id": "300430478",
-   "name": "ISC Green Dragons"
+   "club": "I AM 3RD SOCCER",
+   "id": "300551958",
+   "name": "PDA Girls Blue"
+  },
+  {
+   "club": "Owensboro United Soccer Club",
+   "id": "300430489",
+   "name": "Owensboro United Girls"
   },
   {
    "club": "Mockingbird Valley Premier",
@@ -251,9 +226,39 @@
    "name": "MVP White"
   },
   {
-   "club": "Falls City Soccer Club",
-   "id": "300520567",
-   "name": "FCSC GREEN"
+   "club": "Mockingbird Valley Premier",
+   "id": "300520556",
+   "name": "MVP White"
+  },
+  {
+   "club": "Fusion NKY FC",
+   "id": "300430490",
+   "name": "Fusion FC Black"
+  },
+  {
+   "club": "Independence SC",
+   "id": "300430478",
+   "name": "ISC Green Dragons"
+  },
+  {
+   "club": "Madison United Soccer Association",
+   "id": "300430496",
+   "name": "MUSA Flyers Girls"
+  },
+  {
+   "club": "Cynthiana-Harrison County YS",
+   "id": "300469921",
+   "name": "HCSC Girls"
+  },
+  {
+   "club": "Independence SC",
+   "id": "300430469",
+   "name": "ISC Gold"
+  },
+  {
+   "club": "Racing Louisville Academy",
+   "id": "300430501",
+   "name": "Racing Louisville South Pre-ECNL"
   },
   {
    "club": "Independence SC",
@@ -261,9 +266,9 @@
    "name": "ISC Gators"
   },
   {
-   "club": "Independence SC",
-   "id": "300430469",
-   "name": "ISC Gold"
+   "club": "Falls City Soccer Club",
+   "id": "300520567",
+   "name": "FCSC GREEN"
   },
   {
    "club": "Nedo SC",
@@ -276,6 +281,21 @@
    "name": "WSC Girls White"
   },
   {
+   "club": "Fusion NKY FC",
+   "id": "300552475",
+   "name": "Fusion FC White"
+  },
+  {
+   "club": "Georgetown FC",
+   "id": "300430481",
+   "name": "GFC Gtown G"
+  },
+  {
+   "club": "FC Kentucky",
+   "id": "300430484",
+   "name": "FC Kentucky Girls White"
+  },
+  {
    "club": "Lexington Sporting",
    "id": "300430465",
    "name": "Lex Sporting Club Gray"
@@ -286,29 +306,14 @@
    "name": "CampbellSC Kessinger"
   },
   {
-   "club": "Georgetown FC",
-   "id": "300430481",
-   "name": "GFC Gtown G"
-  },
-  {
-   "club": "Central Kentucky Storm Soccer Club",
-   "id": "300430471",
-   "name": "CKY Storm Girls White"
-  },
-  {
    "club": "Campbell Soccer Club (CSC)",
    "id": "300430475",
    "name": "CSC Fort United"
   },
   {
-   "club": "FC Kentucky",
-   "id": "300430484",
-   "name": "FC Kentucky Girls White"
-  },
-  {
-   "club": "Fusion NKY FC",
-   "id": "300552475",
-   "name": "Fusion FC White"
+   "club": "Central Kentucky Storm Soccer Club",
+   "id": "300430471",
+   "name": "CKY Storm Girls White"
   },
   {
    "club": "LouCity / Racing Youth Academy",
@@ -321,11 +326,6 @@
    "name": "Racing Oldham Black"
   },
   {
-   "club": "Kings Hammer Soccer Club",
-   "id": "11680610",
-   "name": "Cincinnati Pre-Elite"
-  },
-  {
    "club": "Owensboro United Soccer Club",
    "id": "11895760",
    "name": "Spartak Girls"
@@ -334,11 +334,6 @@
    "club": "Racing Louisville Academy",
    "id": "12084513",
    "name": "Racing South Black"
-  },
-  {
-   "club": "MSC",
-   "id": "12124206",
-   "name": "MSC"
   },
   {
    "club": "Kings Hammer Cincinnati",
@@ -431,11 +426,6 @@
    "name": "MC Dynamo Girls"
   },
   {
-   "club": "Winchester Soccer Club",
-   "id": "300544992",
-   "name": "WSC Girls Navy"
-  },
-  {
    "club": "Campbell Soccer Club (CSC)",
    "id": "300549195",
    "name": "CampbellSC Ripberger"
@@ -443,7 +433,7 @@
   {
    "club": "Lexington Sporting",
    "id": "300549978",
-   "name": "Club -Academy Pre ECNL"
+   "name": "Club Academy Pre-ECNL"
   },
   {
    "club": "SKY Soccer Club",

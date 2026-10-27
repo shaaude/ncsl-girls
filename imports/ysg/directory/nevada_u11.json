@@ -1,15 +1,10 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-20T12:45:46.471554+00:00",
+ "fetched_at": "2026-10-27T13:21:24.146037+00:00",
  "state": "NV",
  "state_slug": "nevada",
  "teams": [
-  {
-   "club": "Las Vegas Sports Academy",
-   "id": "300450433",
-   "name": "Girls Red"
-  },
   {
    "club": "LV Heat Surf SC",
    "id": "300450440",
@@ -19,6 +14,11 @@
    "club": "LV Heat Surf SC",
    "id": "300450435",
    "name": "Pre-ECNL"
+  },
+  {
+   "club": "Las Vegas Sports Academy",
+   "id": "300450433",
+   "name": "Girls Red"
   },
   {
    "club": "Nevada Futbol Club",
@@ -51,19 +51,14 @@
    "name": "Pre-RP (S)"
   },
   {
-   "club": "Albion SC Las Vegas",
-   "id": "300450423",
-   "name": "ALBION SC Las Vegas Academy GK"
-  },
-  {
    "club": "Players SC",
    "id": "300450418",
    "name": "Players Girls Juniors Elite"
   },
   {
-   "club": "LV Heat Surf SC",
-   "id": "300450421",
-   "name": "Pre-NP (H)"
+   "club": "Albion SC Las Vegas",
+   "id": "300450423",
+   "name": "ALBION SC Las Vegas Academy GK"
   },
   {
    "club": "La Escuelita Bulls Las Vegas",
@@ -71,24 +66,29 @@
    "name": "La Escuelita Bulls LV"
   },
   {
-   "club": "Las Vegas Sports Academy",
-   "id": "300450428",
-   "name": "Las Vegas Sports Academy Girls Red"
-  },
-  {
    "club": "Reno APEX Soccer Club",
    "id": "300450438",
    "name": "Academy"
   },
   {
+   "club": "LV Heat Surf SC",
+   "id": "300450421",
+   "name": "Pre-NP (H)"
+  },
+  {
    "club": "Las Vegas Sports Academy",
-   "id": "300450436",
-   "name": "Las Vegas Sports Academy Girls White"
+   "id": "300450428",
+   "name": "Las Vegas Sports Academy Girls Red"
   },
   {
    "club": "LV Heat Surf SC",
    "id": "300450424",
    "name": "Pre-RP (H)"
+  },
+  {
+   "club": "Las Vegas Sports Academy",
+   "id": "300450436",
+   "name": "Las Vegas Sports Academy Girls White"
   },
   {
    "club": "Albion SC Las Vegas",
@@ -101,14 +101,19 @@
    "name": "Sierra Nevada FC Ruby"
   },
   {
-   "club": "Carson FC",
-   "id": "300480252",
-   "name": "CFC Valley Monarchs"
+   "club": "Nevada Futbol Club",
+   "id": "300497513",
+   "name": "Nevada FC Select"
   },
   {
    "club": "Reno APEX Soccer Club",
    "id": "300450419",
    "name": "PREMIER"
+  },
+  {
+   "club": "Carson FC",
+   "id": "300480252",
+   "name": "CFC Valley Monarchs"
   },
   {
    "club": "Mighty Mustangs Soccer Club",
@@ -196,11 +201,6 @@
    "name": "GOLD"
   },
   {
-   "club": "Nevada Futbol Club",
-   "id": "300497513",
-   "name": "Nevada FC Select"
-  },
-  {
    "club": "Great Basin Youth Soccer League",
    "id": "300474499",
    "name": "MARKEE"
@@ -264,16 +264,6 @@
    "club": "Great Basin Youth Soccer League",
    "id": "12048983",
    "name": "TRUCKEE AYSO"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696101",
-   "name": "WILLIAMS"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "11696098",
-   "name": "BENITEZ"
   },
   {
    "club": "Cookie Crew",

@@ -1,89 +1,14 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-20T13:20:06.553397+00:00",
+ "fetched_at": "2026-10-27T13:55:44.122919+00:00",
  "state": "WA",
  "state_slug": "washington",
  "teams": [
   {
-   "club": "FC Edmonds",
-   "id": "300338284",
-   "name": "- Ambush"
-  },
-  {
-   "club": "Washington Youth Soccer",
-   "id": "300469179",
-   "name": "Wenatchee FC Chandler"
-  },
-  {
-   "club": "Dragons FC",
-   "id": "300528866",
-   "name": "Dragons FC"
-  },
-  {
-   "club": "Washington Rush",
-   "id": "300528864",
-   "name": "Rush"
-  },
-  {
-   "club": "Pacific FC",
-   "id": "300253142",
-   "name": "PFC Blue"
-  },
-  {
-   "club": "Lake Washington Premier Football Club",
-   "id": "300338294",
-   "name": "LWPFC White Piranhas"
-  },
-  {
-   "club": "Eagleclaw Football Club",
-   "id": "300338277",
-   "name": "Valencia CF Academy (Seattle) -"
-  },
-  {
-   "club": "WPL Academy",
-   "id": "300528863",
-   "name": "WPL Academy"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300338268",
-   "name": "Seattle Celtic Green"
-  },
-  {
-   "club": "Bainbridge Island FC",
-   "id": "300338342",
-   "name": "Blue"
-  },
-  {
    "club": "Rainier Soccer Alliance",
    "id": "11885820",
    "name": "Elite"
-  },
-  {
-   "club": "Deception FC",
-   "id": "300489466",
-   "name": "Deception FC"
-  },
-  {
-   "club": "CYSA Timber Barons",
-   "id": "300338291",
-   "name": "Merchant"
-  },
-  {
-   "club": "NPSA",
-   "id": "300338266",
-   "name": "WW SURF PREMIER CENTRAL A"
-  },
-  {
-   "club": "NPSA",
-   "id": "300528865",
-   "name": "WW SURF PREMIER SOUTH A"
-  },
-  {
-   "club": "Northshore Select Club",
-   "id": "11890253",
-   "name": "Storm King FC OP Flash"
   },
   {
    "club": "Mercer Island Football Club",
@@ -91,29 +16,9 @@
    "name": "NSC"
   },
   {
-   "club": "Mt Rainier Futbol Club",
-   "id": "300528860",
-   "name": "MRFC Academy"
-  },
-  {
-   "club": "Tracyton Soccer Club",
-   "id": "11903003",
-   "name": "Grays Harbor FC Gulls"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300166987",
-   "name": "Seattle United NW Blue"
-  },
-  {
-   "club": "Grays Harbor FC Gulls",
-   "id": "11902984",
-   "name": "Tracyton SC Orange"
-  },
-  {
-   "club": "Storm King FC",
-   "id": "11906774",
-   "name": "Washington Rush Select Rush"
+   "club": "Northshore Select Club",
+   "id": "11890253",
+   "name": "Storm King FC OP Flash"
   },
   {
    "club": "Bainbridge Island FC",
@@ -124,6 +29,21 @@
    "club": "CPSC",
    "id": "11896170",
    "name": "White"
+  },
+  {
+   "club": "Grays Harbor FC Gulls",
+   "id": "11902984",
+   "name": "Tracyton SC Orange"
+  },
+  {
+   "club": "Tracyton Soccer Club",
+   "id": "11903003",
+   "name": "Grays Harbor FC Gulls"
+  },
+  {
+   "club": "Storm King FC",
+   "id": "11906774",
+   "name": "Washington Rush Select Rush"
   },
   {
    "club": "Washington East Surf Soccer Club",
@@ -246,14 +166,54 @@
    "name": "Aspire"
   },
   {
+   "club": "Seattle United",
+   "id": "300166987",
+   "name": "Seattle United NW Blue"
+  },
+  {
+   "club": "Pacific FC",
+   "id": "300253142",
+   "name": "PFC Blue"
+  },
+  {
+   "club": "NPSA",
+   "id": "300338266",
+   "name": "WW SURF PREMIER CENTRAL A"
+  },
+  {
+   "club": "Seattle Celtic FC",
+   "id": "300338268",
+   "name": "Seattle Celtic Green"
+  },
+  {
    "club": "Kitsap Alliance FC",
    "id": "300338274",
    "name": "Blue (WA)"
   },
   {
+   "club": "Eagleclaw Football Club",
+   "id": "300338277",
+   "name": "Valencia CF Academy (Seattle) -"
+  },
+  {
+   "club": "FC Edmonds",
+   "id": "300338284",
+   "name": "- Ambush"
+  },
+  {
    "club": "Cascade FC",
    "id": "300338289",
    "name": "Green"
+  },
+  {
+   "club": "CYSA Timber Barons",
+   "id": "300338291",
+   "name": "Merchant"
+  },
+  {
+   "club": "Lake Washington Premier Football Club",
+   "id": "300338294",
+   "name": "LWPFC White Piranhas"
   },
   {
    "club": "Seattle United",
@@ -266,9 +226,19 @@
    "name": "Eastside FC ECNL"
   },
   {
+   "club": "Bainbridge Island FC",
+   "id": "300338342",
+   "name": "Blue"
+  },
+  {
    "club": "Northshore Select Club",
    "id": "300467979",
    "name": "NSC"
+  },
+  {
+   "club": "Washington Youth Soccer",
+   "id": "300469179",
+   "name": "Wenatchee FC Chandler"
   },
   {
    "club": "Okanogan soccer",
@@ -286,9 +256,19 @@
    "name": "RSA Elite"
   },
   {
+   "club": "Deception FC",
+   "id": "300489466",
+   "name": "Deception FC"
+  },
+  {
    "club": "Spokane Shadow",
    "id": "300515701",
    "name": "Aspire"
+  },
+  {
+   "club": "Mt Rainier Futbol Club",
+   "id": "300528860",
+   "name": "MRFC Academy"
   },
   {
    "club": "Kitsap Alliance Football Club",
@@ -299,6 +279,26 @@
    "club": "Crossfire Premier Soccer Club",
    "id": "300528862",
    "name": "XF RCL"
+  },
+  {
+   "club": "WPL Academy",
+   "id": "300528863",
+   "name": "WPL Academy"
+  },
+  {
+   "club": "Washington Rush",
+   "id": "300528864",
+   "name": "Rush"
+  },
+  {
+   "club": "NPSA",
+   "id": "300528865",
+   "name": "WW SURF PREMIER SOUTH A"
+  },
+  {
+   "club": "Dragons FC",
+   "id": "300528866",
+   "name": "Dragons FC"
   },
   {
    "club": "Seattle United",

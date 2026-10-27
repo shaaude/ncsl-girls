@@ -1,54 +1,19 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-20T13:16:56.497046+00:00",
+ "fetched_at": "2026-10-27T13:52:34.085739+00:00",
  "state": "VT",
  "state_slug": "vermont",
  "teams": [
   {
+   "club": "Essex United Soccer Club",
+   "id": "300477364",
+   "name": "EUSC Girls Morgan"
+  },
+  {
    "club": "Queen City FC",
    "id": "300473106",
    "name": "Queen City FC Girls Premier"
-  },
-  {
-   "club": "Caledonia Flood",
-   "id": "300486413",
-   "name": "Rapids"
-  },
-  {
-   "club": "VT Fusion Soccer",
-   "id": "300476207",
-   "name": "Vermont Fusion"
-  },
-  {
-   "club": "Far Post SC",
-   "id": "300456521",
-   "name": "Far Post Girls Premier"
-  },
-  {
-   "club": "Far Post Soccer Club",
-   "id": "300478016",
-   "name": "Far Post Girls Spirit"
-  },
-  {
-   "club": "Milton Youth Soccer Club",
-   "id": "300456528",
-   "name": "Girls Blue"
-  },
-  {
-   "club": "Soccer Roots",
-   "id": "300481935",
-   "name": "Soccer Roots CF"
-  },
-  {
-   "club": "Summit FC",
-   "id": "300485785",
-   "name": "Summit FC"
-  },
-  {
-   "club": "Stowe Soccer Club",
-   "id": "300477355",
-   "name": "Stowe Soccer Club Girls"
   },
   {
    "club": "Burlington FC",
@@ -56,64 +21,14 @@
    "name": "Girls Blue"
   },
   {
-   "club": "Stowe Soccer Club",
-   "id": "300477354",
-   "name": "Girls Gold"
+   "club": "Burlington FC",
+   "id": "300473108",
+   "name": "Girls White"
   },
   {
-   "club": "Addison United SC",
-   "id": "300477357",
-   "name": "AU Girls"
-  },
-  {
-   "club": "Capital SC",
-   "id": "300478017",
-   "name": "Capital Girls"
-  },
-  {
-   "club": "Northfield SC",
-   "id": "300477362",
-   "name": "Girls - Northfield SC -"
-  },
-  {
-   "club": "Central Vermont FC",
-   "id": "300477356",
-   "name": "Girls Blue"
-  },
-  {
-   "club": "Essex United Soccer Club",
-   "id": "300477364",
-   "name": "EUSC Girls Morgan"
-  },
-  {
-   "club": "Onion River YS",
-   "id": "300477358",
-   "name": "Onion River SC Yellow"
-  },
-  {
-   "club": "Far Post Soccer Club",
-   "id": "300479661",
-   "name": "Far Post Girls Pride"
-  },
-  {
-   "club": "Northeast FC Wildcats",
-   "id": "300456520",
-   "name": "Moccia/Wood girls"
-  },
-  {
-   "club": "Mansfield United SC",
-   "id": "300456529",
-   "name": "MUSC GIRLS Hellbrook"
-  },
-  {
-   "club": "Atletico Middlebury",
-   "id": "300456530",
-   "name": "Lunas"
-  },
-  {
-   "club": "Essex United Soccer Club",
-   "id": "300477363",
-   "name": "EUSC Girls Sunderland"
+   "club": "VT Fusion Soccer",
+   "id": "300476207",
+   "name": "Vermont Fusion"
   },
   {
    "club": "Mansfield United SC",
@@ -121,44 +36,39 @@
    "name": "MUSC GIRLS Hasselton"
   },
   {
-   "club": "Queen City FC",
-   "id": "300554529",
-   "name": "Queen City FC Adirondack Girls (Drown)"
+   "club": "Stowe Soccer Club",
+   "id": "300477354",
+   "name": "Girls Gold"
   },
   {
-   "club": "Burlington FC",
-   "id": "300486827",
-   "name": "Burlington FC Girls"
-  },
-  {
-   "club": "Burlington FC",
-   "id": "300473108",
-   "name": "Girls White"
-  },
-  {
-   "club": "Queen City FC",
-   "id": "300486826",
-   "name": "Queen City FC Girls Silver"
-  },
-  {
-   "club": "Arlington Youth Soccer",
-   "id": "300486412",
-   "name": "Arlington Soccer Girls Spring"
+   "club": "Stowe Soccer Club",
+   "id": "300477355",
+   "name": "Stowe Soccer Club Girls"
   },
   {
    "club": "Central Vermont FC",
-   "id": "300486411",
-   "name": "Girls Sky"
+   "id": "300477356",
+   "name": "Girls Blue"
   },
   {
-   "club": "Mad River Valley Soccer Association",
-   "id": "300483806",
-   "name": "MRVSA Travel Girls Blaze"
+   "club": "Addison United SC",
+   "id": "300477357",
+   "name": "AU Girls"
   },
   {
-   "club": "Queen City FC",
-   "id": "300478018",
-   "name": "Queen City FC Girls White"
+   "club": "Onion River YS",
+   "id": "300477358",
+   "name": "Onion River SC Yellow"
+  },
+  {
+   "club": "Northfield SC",
+   "id": "300477362",
+   "name": "Girls - Northfield SC -"
+  },
+  {
+   "club": "Essex United Soccer Club",
+   "id": "300477363",
+   "name": "EUSC Girls Sunderland"
   },
   {
    "club": "Mad River Valley Soccer Association",
@@ -166,9 +76,69 @@
    "name": "MRVSA Travel Girls Vibe"
   },
   {
-   "club": "Morrisville SC",
-   "id": "12079820",
-   "name": "MSC Gold Girls"
+   "club": "Far Post Soccer Club",
+   "id": "300478016",
+   "name": "Far Post Girls Spirit"
+  },
+  {
+   "club": "Capital SC",
+   "id": "300478017",
+   "name": "Capital Girls"
+  },
+  {
+   "club": "Queen City FC",
+   "id": "300478018",
+   "name": "Queen City FC Girls White"
+  },
+  {
+   "club": "Far Post Soccer Club",
+   "id": "300479661",
+   "name": "Far Post Girls Pride"
+  },
+  {
+   "club": "Soccer Roots",
+   "id": "300481935",
+   "name": "Soccer Roots CF"
+  },
+  {
+   "club": "Mad River Valley Soccer Association",
+   "id": "300483806",
+   "name": "MRVSA Travel Girls Blaze"
+  },
+  {
+   "club": "Summit FC",
+   "id": "300485785",
+   "name": "Summit FC"
+  },
+  {
+   "club": "Central Vermont FC",
+   "id": "300486411",
+   "name": "Girls Sky"
+  },
+  {
+   "club": "Arlington Youth Soccer",
+   "id": "300486412",
+   "name": "Arlington Soccer Girls Spring"
+  },
+  {
+   "club": "Caledonia Flood",
+   "id": "300486413",
+   "name": "Rapids"
+  },
+  {
+   "club": "Queen City FC",
+   "id": "300486826",
+   "name": "Queen City FC Girls Silver"
+  },
+  {
+   "club": "Burlington FC",
+   "id": "300486827",
+   "name": "Burlington FC Girls"
+  },
+  {
+   "club": "Queen City FC",
+   "id": "300554529",
+   "name": "Queen City FC Adirondack Girls (Drown)"
   },
   {
    "club": "Vermont Soccer Association",
@@ -212,8 +182,28 @@
   },
   {
    "club": "Morrisville SC",
+   "id": "12079820",
+   "name": "MSC Gold Girls"
+  },
+  {
+   "club": "Morrisville SC",
    "id": "12079821",
    "name": "MSC Green Girls"
+  },
+  {
+   "club": "Nordic SC",
+   "id": "11682561",
+   "name": "Nordic Thorns"
+  },
+  {
+   "club": "Northeast FC Wildcats",
+   "id": "300456520",
+   "name": "Moccia/Wood girls"
+  },
+  {
+   "club": "Far Post SC",
+   "id": "300456521",
+   "name": "Far Post Girls Premier"
   },
   {
    "club": "Colchester SC",
@@ -226,9 +216,19 @@
    "name": "FFSC Girls Spring"
   },
   {
-   "club": "Nordic SC",
-   "id": "11682561",
-   "name": "Nordic Thorns"
+   "club": "Milton Youth Soccer Club",
+   "id": "300456528",
+   "name": "Girls Blue"
+  },
+  {
+   "club": "Mansfield United SC",
+   "id": "300456529",
+   "name": "MUSC GIRLS Hellbrook"
+  },
+  {
+   "club": "Atletico Middlebury",
+   "id": "300456530",
+   "name": "Lunas"
   }
  ]
 }

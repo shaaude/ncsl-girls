@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-20T12:18:46.449159+00:00",
+ "fetched_at": "2026-10-27T12:54:24.107368+00:00",
  "state": "ID",
  "state_slug": "idaho",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "Boise Thorns ECNL"
   },
   {
-   "club": "Boise Timbers | Thorns",
-   "id": "300392571",
-   "name": "Boise Thorns FC ECNL"
-  },
-  {
    "club": "Sting Soccer Club",
    "id": "300392528",
    "name": "Aspire"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300392571",
+   "name": "Boise Thorns FC ECNL"
   },
   {
    "club": "Sting Soccer Club",
@@ -26,14 +26,19 @@
    "name": "Academy"
   },
   {
+   "club": "Idaho Rush Soccer Club",
+   "id": "300392535",
+   "name": "Idaho Rush ECNL-RL"
+  },
+  {
    "club": "Boise Timbers | Thorns",
    "id": "300392556",
    "name": "Thorns ECNL"
   },
   {
-   "club": "Idaho Rush Soccer Club",
-   "id": "300392535",
-   "name": "Idaho Rush ECNL-RL"
+   "club": "PVSC United",
+   "id": "300392560",
+   "name": "PVSC Girls- Vaughan"
   },
   {
    "club": "Teton FC",
@@ -41,9 +46,9 @@
    "name": "Teton FC Girls- Kunz"
   },
   {
-   "club": "PVSC United",
-   "id": "300392560",
-   "name": "PVSC Girls- Vaughan"
+   "club": "IFFC",
+   "id": "300392525",
+   "name": "IFFC Claret"
   },
   {
    "club": "Idaho Slammers FC",
@@ -56,11 +61,6 @@
    "name": "Sandpoint Strikers FC (ID)"
   },
   {
-   "club": "IFFC",
-   "id": "300392525",
-   "name": "IFFC Claret"
-  },
-  {
    "club": "Idaho Inferno Soccer Club",
    "id": "300392541",
    "name": "Girls Inferno Copa"
@@ -71,14 +71,19 @@
    "name": "Idaho Storm"
   },
   {
+   "club": "Indie Chicas",
+   "id": "300514340",
+   "name": "DPL"
+  },
+  {
    "club": "Idaho Youth Soccer Association",
    "id": "300392529",
    "name": "Idaho ODP Girls"
   },
   {
-   "club": "Indie Chicas",
-   "id": "300514340",
-   "name": "DPL"
+   "club": "Idaho Rush Soccer Club",
+   "id": "300392534",
+   "name": "Idaho Rush Nero"
   },
   {
    "club": "City SC",
@@ -91,19 +96,9 @@
    "name": "Sandpoint Strikers FC"
   },
   {
-   "club": "Idaho Rush Soccer Club",
-   "id": "300392534",
-   "name": "Idaho Rush Nero"
-  },
-  {
    "club": "Global Sports Academy",
    "id": "300497144",
    "name": "GSA Elite"
-  },
-  {
-   "club": "Boise Timbers | Thorns",
-   "id": "300392555",
-   "name": "Thorns ECNL RL"
   },
   {
    "club": "Idaho Magic Futbol Club",
@@ -111,24 +106,14 @@
    "name": "Idaho Magic Payne"
   },
   {
-   "club": "Idaho Storm",
-   "id": "300392558",
-   "name": "Thunder"
-  },
-  {
-   "club": "Boise Timbers | Thorns",
-   "id": "300518781",
-   "name": "Boise Thorns ECNL RL"
-  },
-  {
    "club": "Nampa Premier Soccer Club",
    "id": "300542713",
    "name": "NPSC Grey"
   },
   {
-   "club": "North Boise FC",
-   "id": "300392553",
-   "name": "NBFC Capitol"
+   "club": "Boise Timbers | Thorns",
+   "id": "300518781",
+   "name": "Boise Thorns ECNL RL"
   },
   {
    "club": "Boise Timbers | Thorns",
@@ -141,6 +126,11 @@
    "name": "ID ELKO Surf"
   },
   {
+   "club": "Idaho Storm",
+   "id": "300392558",
+   "name": "Thunder"
+  },
+  {
    "club": "TF Rapids SC",
    "id": "300392565",
    "name": "Rapids SC"
@@ -151,19 +141,9 @@
    "name": "Teton FC Girls \u2022 Lopez"
   },
   {
-   "club": "Indie Chicas",
-   "id": "300392545",
-   "name": "Black Indie Chicas"
-  },
-  {
-   "club": "Idaho Surf SC",
-   "id": "300392532",
-   "name": "ID Surf DPL"
-  },
-  {
-   "club": "Ambush FC",
-   "id": "12313338",
-   "name": "Ambush FC Warriors"
+   "club": "North Boise FC",
+   "id": "300392553",
+   "name": "NBFC Capitol"
   },
   {
    "club": "Global Sports Academy",
@@ -176,19 +156,29 @@
    "name": "UVSF United Ricks"
   },
   {
+   "club": "IFFC",
+   "id": "300392527",
+   "name": "IFFC Cobalt - Solis"
+  },
+  {
    "club": "Idaho Legends",
    "id": "300514342",
    "name": "Idaho Legends - Newell"
   },
   {
-   "club": "JYSA Soccer",
-   "id": "300531153",
-   "name": "JYSA Rigby Girls"
+   "club": "Idaho Surf SC",
+   "id": "300392532",
+   "name": "ID Surf DPL"
   },
   {
-   "club": "IFFC",
-   "id": "300392527",
-   "name": "IFFC Cobalt - Solis"
+   "club": "Ambush FC",
+   "id": "12313338",
+   "name": "Ambush FC Warriors"
+  },
+  {
+   "club": "Indie Chicas",
+   "id": "300392545",
+   "name": "Black Indie Chicas"
   },
   {
    "club": "Hells Canyon FC",
@@ -199,6 +189,11 @@
    "club": "Idaho Rush Soccer Club",
    "id": "300471292",
    "name": "Idaho Rush Azul"
+  },
+  {
+   "club": "JYSA Soccer",
+   "id": "300531153",
+   "name": "JYSA Rigby Girls"
   },
   {
    "club": "Idaho Legends",
@@ -221,14 +216,14 @@
    "name": "LSC"
   },
   {
-   "club": "Idaho Inferno Soccer Club",
-   "id": "300537620",
-   "name": "Girls Inferno Liga"
-  },
-  {
    "club": "Indie Chicas",
    "id": "300392538",
    "name": "WHITE Indie Chicas"
+  },
+  {
+   "club": "Idaho Inferno Soccer Club",
+   "id": "300537620",
+   "name": "Girls Inferno Liga"
   },
   {
    "club": "Sun Valley Soccer Club",
@@ -271,6 +266,11 @@
    "name": "JYSA Rigby Girls White"
   },
   {
+   "club": "Real Soccer Club",
+   "id": "300560009",
+   "name": "Real Eagle CF - Utah Royals"
+  },
+  {
    "club": "Idaho Inferno Soccer Club",
    "id": "300534058",
    "name": "G Inferno Team Kimball"
@@ -301,14 +301,9 @@
    "name": "G Inferno Herrera"
   },
   {
-   "club": "South Fremont YSA",
-   "id": "12313339",
-   "name": "South Fremont Girls"
-  },
-  {
-   "club": "Nampa Premier Soccer Club",
-   "id": "11827724",
-   "name": "Parma- Kaylor"
+   "club": "Shelly Soccer",
+   "id": "12313342",
+   "name": "Fall Girls"
   },
   {
    "club": "Idaho Magic Futbol Club",
@@ -321,19 +316,14 @@
    "name": "SSC Premier"
   },
   {
-   "club": "Real Soccer Club",
-   "id": "12304881",
-   "name": "Real Eagle CF - Utah Royals"
+   "club": "South Fremont YSA",
+   "id": "12313339",
+   "name": "South Fremont Girls"
   },
   {
    "club": "Rush Azul",
    "id": "300481083",
    "name": "Rush Azul"
-  },
-  {
-   "club": "Shelly Soccer",
-   "id": "12313342",
-   "name": "Fall Girls"
   },
   {
    "club": "Idaho Inferno Soccer Club",
@@ -359,6 +349,11 @@
    "club": "Sting Soccer Club",
    "id": "300392530",
    "name": "SSC Premier"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300392555",
+   "name": "Thorns ECNL RL"
   }
  ]
 }

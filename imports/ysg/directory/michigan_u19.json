@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-20T12:36:06.472530+00:00",
+ "fetched_at": "2026-10-27T13:11:44.132887+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
@@ -28,7 +28,7 @@
   {
    "club": "Traverse Bay Area YS",
    "id": "300490408",
-   "name": "North Storm White"
+   "name": "North Storm"
   },
   {
    "club": "Royal Oak FC",
@@ -36,9 +36,9 @@
    "name": "Green(MI)"
   },
   {
-   "club": "Detroit City FC",
-   "id": "300528271",
-   "name": "Downriver Rouge"
+   "club": "AC Grand Rapids Academy",
+   "id": "300558918",
+   "name": "Aspire"
   },
   {
    "club": "Athletic Soccer Club Michigan",
@@ -51,6 +51,11 @@
    "name": "Detroit City FC Genesee Rouge"
   },
   {
+   "club": "Midwest United FC",
+   "id": "12328492",
+   "name": "Aspire"
+  },
+  {
    "club": "Michigan Jaguars FC",
    "id": "300490405",
    "name": "Dearborn Girls Green"
@@ -61,24 +66,14 @@
    "name": "Aspire"
   },
   {
-   "club": "Nationals",
-   "id": "300335240",
-   "name": "Anchor Bay Girls Black DPL*"
+   "club": "Detroit City FC",
+   "id": "300528271",
+   "name": "Downriver Rouge"
   },
   {
    "club": "Nationals",
    "id": "300528275",
    "name": "Genesee Black (MI)"
-  },
-  {
-   "club": "AC Grand Rapids Academy",
-   "id": "300558918",
-   "name": "Aspire"
-  },
-  {
-   "club": "Flint Area United Soccer Club",
-   "id": "300490684",
-   "name": "FAU Girls Premier"
   },
   {
    "club": "AC Grand Rapids Academy",
@@ -91,14 +86,9 @@
    "name": "MPSC Girls"
   },
   {
-   "club": "Southwest Michigan Soccer Club Inc",
-   "id": "300335247",
-   "name": "SWM Kickers Blue"
-  },
-  {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "300538916",
-   "name": "NO G ECNL RL GMA"
+   "club": "Flint Area United Soccer Club",
+   "id": "300490684",
+   "name": "FAU Girls Premier"
   },
   {
    "club": "Midwest United FC",
@@ -106,19 +96,19 @@
    "name": "Midwest United FC Girls Royal"
   },
   {
+   "club": "Southwest Michigan Soccer Club Inc",
+   "id": "300335247",
+   "name": "SWM Kickers Blue"
+  },
+  {
+   "club": "Michigan Tigers FC",
+   "id": "300538923",
+   "name": "(MI)"
+  },
+  {
    "club": "Michigan Jaguars FC",
    "id": "300537463",
    "name": "Dearborn Girls White"
-  },
-  {
-   "club": "Saginaw township soccer association",
-   "id": "300335253",
-   "name": "Detroit City FC North Rouge"
-  },
-  {
-   "club": "Michigan Stars Elite SC",
-   "id": "300335241",
-   "name": "MI Stars Macomb White"
   },
   {
    "club": "United Soccer Athletes",
@@ -126,19 +116,34 @@
    "name": "USA Premier Gold Girls"
   },
   {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "300538916",
+   "name": "NO G ECNL RL GMA"
+  },
+  {
+   "club": "Saginaw township soccer association",
+   "id": "300335253",
+   "name": "Detroit City FC North Rouge"
+  },
+  {
    "club": "Portage Soccer Club",
    "id": "300528277",
    "name": "Portage SC White"
   },
   {
-   "club": "Legends FC",
-   "id": "300538929",
-   "name": "Legends FC"
+   "club": "Nationals",
+   "id": "300335272",
+   "name": "Union Girls Red"
   },
   {
    "club": "Harbor Soccer, Inc.",
    "id": "300538920",
    "name": "Sailors"
+  },
+  {
+   "club": "Legends FC",
+   "id": "300538929",
+   "name": "Legends FC"
   },
   {
    "club": "DBSS",
@@ -149,11 +154,6 @@
    "club": "Vardar Soccer",
    "id": "300335250",
    "name": "Vardar PH"
-  },
-  {
-   "club": "Nationals",
-   "id": "300335272",
-   "name": "Union Girls Red"
   },
   {
    "club": "Nationals",
@@ -169,11 +169,6 @@
    "club": "Saline FC",
    "id": "11665627",
    "name": "Girls Black"
-  },
-  {
-   "club": "Michigan Jaguars FC",
-   "id": "11678869",
-   "name": "Marshall Green"
   },
   {
    "club": "Cap City Athletic 1847",
@@ -362,11 +357,6 @@
   },
   {
    "club": "Midwest United FC",
-   "id": "12328492",
-   "name": "Aspire"
-  },
-  {
-   "club": "Midwest United FC",
    "id": "12328558",
    "name": "Midwest United Girls Riverside"
   },
@@ -426,6 +416,16 @@
    "name": "Plymouth Reign Girls White"
   },
   {
+   "club": "Nationals",
+   "id": "300335240",
+   "name": "Anchor Bay Girls Black DPL*"
+  },
+  {
+   "club": "Michigan Stars Elite SC",
+   "id": "300335241",
+   "name": "MI Stars Macomb White"
+  },
+  {
    "club": "PASS FC",
    "id": "300335243",
    "name": "08G"
@@ -444,11 +444,6 @@
    "club": "Plymouth Soccer Club",
    "id": "300335251",
    "name": "Plymouth Reign Girls ECNL-RL"
-  },
-  {
-   "club": "Red Arrow Soccer Club",
-   "id": "300335256",
-   "name": "RASC Red"
   },
   {
    "club": "Liverpool FC-IA Michigan",
@@ -504,11 +499,6 @@
    "club": "Detroit City FC",
    "id": "300528269",
    "name": "West Rouge"
-  },
-  {
-   "club": "Midland SC",
-   "id": "300528270",
-   "name": "Midland Fusion Green"
   },
   {
    "club": "AC Grand Rapids Academy",
@@ -594,11 +584,6 @@
    "club": "Thunder Bay Soccer Association",
    "id": "300538922",
    "name": "Alpena Girls FC"
-  },
-  {
-   "club": "Michigan Tigers FC",
-   "id": "300538923",
-   "name": "(MI)"
   },
   {
    "club": "West Michigan Galaxy",

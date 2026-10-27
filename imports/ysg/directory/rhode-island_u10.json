@@ -1,13 +1,18 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-20T13:05:46.569097+00:00",
+ "fetched_at": "2026-10-27T13:41:24.128515+00:00",
  "state": "RI",
  "state_slug": "rhode-island",
  "teams": [
   {
    "club": "Rhode Island Surf",
    "id": "300462882",
+   "name": "Black"
+  },
+  {
+   "club": "Bayside FC",
+   "id": "300554234",
    "name": "Black"
   },
   {
@@ -26,29 +31,9 @@
    "name": "RI Girls Black"
   },
   {
-   "club": "MACH 1 FC",
-   "id": "300480468",
-   "name": "Girls HyperSonic"
-  },
-  {
    "club": "Scorpions Soccer Club",
    "id": "300467107",
    "name": "RI Girls Black"
-  },
-  {
-   "club": "East Providence Youth Soccer Association",
-   "id": "300485894",
-   "name": "M"
-  },
-  {
-   "club": "East Providence Youth Soccer Association",
-   "id": "300480465",
-   "name": "M"
-  },
-  {
-   "club": "Rhode Island Surf",
-   "id": "300480467",
-   "name": "Gold"
   },
   {
    "club": "Bayside FC",
@@ -56,9 +41,34 @@
    "name": "Red"
   },
   {
+   "club": "MACH 1 FC",
+   "id": "300480468",
+   "name": "Girls HyperSonic"
+  },
+  {
+   "club": "East Providence Youth Soccer Association",
+   "id": "300480465",
+   "name": "M"
+  },
+  {
+   "club": "East Providence Youth Soccer Association",
+   "id": "300485894",
+   "name": "M"
+  },
+  {
    "club": "RI Strikers FC",
    "id": "300535765",
    "name": "RI Strikers FC Girls Team"
+  },
+  {
+   "club": "Rhode Island Surf",
+   "id": "300480467",
+   "name": "Gold"
+  },
+  {
+   "club": "Rhode Island Surf",
+   "id": "300494270",
+   "name": "White"
   },
   {
    "club": "OSNK United",
@@ -76,14 +86,14 @@
    "name": "- Blue Tigers"
   },
   {
-   "club": "Bristol Youth Soccer Association",
-   "id": "300486860",
-   "name": "Bristol, Sirois"
+   "club": "Warwick Fire Fighters SC",
+   "id": "300480466",
+   "name": "WFFSC Enright"
   },
   {
-   "club": "Bristol Youth Soccer Association",
-   "id": "300485893",
-   "name": "Bristol, Cabral"
+   "club": "Barrington Soccer",
+   "id": "300486862",
+   "name": "Barr CG Higginbotham"
   },
   {
    "club": "East Providence Youth Soccer Association",
@@ -91,19 +101,14 @@
    "name": "EPYSA Lady Dragons"
   },
   {
-   "club": "Barrington Soccer",
-   "id": "300486863",
-   "name": "Barr R Bella"
-  },
-  {
-   "club": "Warwick Fire Fighters SC",
-   "id": "300480466",
-   "name": "WFFSC Enright"
-  },
-  {
    "club": "OSNK United",
    "id": "300479785",
    "name": "9UGC,OSNK,520,Catalozzi"
+  },
+  {
+   "club": "Bristol Youth Soccer Association",
+   "id": "300485893",
+   "name": "Bristol, Cabral"
   },
   {
    "club": "Portsmouth YSA",
@@ -111,14 +116,9 @@
    "name": "Portsmouth Singleton"
   },
   {
-   "club": "Scorpions Soccer Club",
-   "id": "300547776",
-   "name": "RI Girls Black"
-  },
-  {
-   "club": "South County YSC",
-   "id": "300558802",
-   "name": "Orange Tigers"
+   "club": "OSNK United",
+   "id": "300535766",
+   "name": "7UGO,OSNK,517,Hutson"
   },
   {
    "club": "South County YSC",
@@ -141,9 +141,9 @@
    "name": "WFFSC Levesque"
   },
   {
-   "club": "Bayside FC",
-   "id": "300554234",
-   "name": "Black"
+   "club": "Portsmouth YSA",
+   "id": "300558803",
+   "name": "Portsmouth Cherevaty"
   },
   {
    "club": "Bayside FC",
@@ -156,14 +156,14 @@
    "name": "CLCF - Academy #"
   },
   {
-   "club": "Barrington Soccer",
-   "id": "300486861",
-   "name": "R Barr/Bysa Japan Meadow"
+   "club": "Scorpions Soccer Club",
+   "id": "300547776",
+   "name": "RI Girls Black"
   },
   {
-   "club": "OSNK United",
-   "id": "300535766",
-   "name": "7UGO,OSNK,517,Hutson"
+   "club": "Bristol Youth Soccer Association",
+   "id": "300486860",
+   "name": "Bristol, Sirois"
   },
   {
    "club": "CYSA - Cumberland Youth Soccer Association",
@@ -176,11 +176,6 @@
    "name": "RI Girls White"
   },
   {
-   "club": "Rhode Island Surf",
-   "id": "300494270",
-   "name": "White"
-  },
-  {
    "club": "Bristol Youth Soccer Association",
    "id": "300494267",
    "name": "- Bristol Huskies"
@@ -191,14 +186,19 @@
    "name": "EGYSA Cammans"
   },
   {
-   "club": "Portsmouth YSA",
-   "id": "300558803",
-   "name": "Portsmouth Cherevaty"
+   "club": "Barrington Soccer",
+   "id": "300486863",
+   "name": "Barr R Bella"
+  },
+  {
+   "club": "South County YSC",
+   "id": "300558802",
+   "name": "Orange Tigers"
   },
   {
    "club": "Barrington Soccer",
-   "id": "300486862",
-   "name": "Barr CG Higginbotham"
+   "id": "300486861",
+   "name": "R Barr/Bysa Japan Meadow"
   },
   {
    "club": "Scituate Youth Soccer Association",

@@ -1,17 +1,22 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-20T13:11:26.511509+00:00",
+ "fetched_at": "2026-10-27T13:47:04.114456+00:00",
  "state": "TN",
  "state_slug": "tennessee",
  "teams": [
+  {
+   "club": "Tennessee SC",
+   "id": "300554093",
+   "name": "Tennessee SC Williamson Girls Premier"
+  },
   {
    "club": "Tennessee Soccer Club",
    "id": "300486681",
    "name": "Tennessee Soccer Club Girls Premier Blue"
   },
   {
-   "club": "Germantown Legends Soccer Club",
+   "club": "Germantown Legends",
    "id": "300454384",
    "name": "Germantown Lady Legends Black"
   },
@@ -24,11 +29,6 @@
    "club": "Lobos Rush",
    "id": "300454395",
    "name": "Lady Lobos Rush White"
-  },
-  {
-   "club": "Purple Rain SC",
-   "id": "300454393",
-   "name": "Purple Rain Purple- Laney"
   },
   {
    "club": "OLE FC",
@@ -69,11 +69,6 @@
    "club": "Ole Football Club",
    "id": "11694404",
    "name": "CFC Ole EDP"
-  },
-  {
-   "club": "Nashville United Soccer Acd (NUSA)",
-   "id": "11825193",
-   "name": "NUSA Brentwood Gold"
   },
   {
    "club": "FC Alliance North",
@@ -144,11 +139,6 @@
    "club": "MTFC Quest",
    "id": "12084092",
    "name": "MTFC Quest (Chauvin)"
-  },
-  {
-   "club": "Germantown Legends",
-   "id": "12205271",
-   "name": "Germantown Lady Legends Green"
   },
   {
    "club": "TENNESSEE SOCCER ACADEMY",
@@ -336,11 +326,6 @@
    "name": "NUSA Navy"
   },
   {
-   "club": "GSC Lady Rangers",
-   "id": "300454383",
-   "name": "16"
-  },
-  {
    "club": "Nashville United Soccer Acd (NUSA)",
    "id": "300454385",
    "name": "NUSA Brentwood Navy"
@@ -356,11 +341,6 @@
    "name": "CFC Ole Academy"
   },
   {
-   "club": "Tennessee United Soccer Club",
-   "id": "300454389",
-   "name": "TUSC Girls Academy Red"
-  },
-  {
    "club": "Tennessee Soccer Club",
    "id": "300454391",
    "name": "TSC Elite Blue"
@@ -369,6 +349,11 @@
    "club": "Tennessee Soccer Club",
    "id": "300454392",
    "name": "TSC Elite White"
+  },
+  {
+   "club": "Purple Rain SC",
+   "id": "300454393",
+   "name": "Purple Rain Purple- Laney"
   },
   {
    "club": "Lobos Rush",
@@ -384,11 +369,6 @@
    "club": "Middle Tennessee FC",
    "id": "300534537",
    "name": "MTFC Quest Girls Gibson"
-  },
-  {
-   "club": "White House SC - Select",
-   "id": "300534538",
-   "name": "White House Soccer Club Girls"
   },
   {
    "club": "Tennessee United Soccer Club",
@@ -426,11 +406,6 @@
    "name": "Germantown Lady Legends White"
   },
   {
-   "club": "Tennessee SC",
-   "id": "300554093",
-   "name": "Tennessee SC Williamson Girls Premier"
-  },
-  {
    "club": "Germantown Legends",
    "id": "300554094",
    "name": "Germantown Lady Legends Black"
@@ -439,11 +414,6 @@
    "club": "Soccer Club of Oak Ridge (TN)",
    "id": "300554751",
    "name": "SCOR Girls"
-  },
-  {
-   "club": "rampage",
-   "id": "300554967",
-   "name": "Rampage Girls"
   },
   {
    "club": "Nashville United Soccer Acd (NUSA)",

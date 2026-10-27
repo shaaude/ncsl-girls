@@ -1,14 +1,14 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-20T12:50:46.490872+00:00",
+ "fetched_at": "2026-10-27T13:26:24.086094+00:00",
  "state": "NJ",
  "state_slug": "new-jersey",
  "teams": [
   {
-   "club": "New Jersey Surf",
-   "id": "300335930",
-   "name": "NJ Surf South Shore Girls"
+   "club": "STA Mount Olive Soccer Club",
+   "id": "300335920",
+   "name": "STA MOSC (NJ)"
   },
   {
    "club": "SJEB FC",
@@ -16,14 +16,14 @@
    "name": "GA"
   },
   {
-   "club": "STA Mount Olive Soccer Club",
-   "id": "300335920",
-   "name": "STA MOSC DPL"
-  },
-  {
    "club": "TSF Academy - NJ",
    "id": "300335911",
    "name": "Aspire"
+  },
+  {
+   "club": "New Jersey Surf",
+   "id": "300335930",
+   "name": "NJ Surf South Shore Girls"
   },
   {
    "club": "NJ Crush FC",
@@ -31,13 +31,13 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Next Level Soccer Academy",
-   "id": "300528418",
-   "name": "NLSA Surf Girls ECNL-RL"
-  },
-  {
    "club": "Cedar Stars Academy - Monmouth",
    "id": "300335883",
+   "name": "NAL"
+  },
+  {
+   "club": "SJEB FC",
+   "id": "300335891",
    "name": "NAL"
   },
   {
@@ -46,14 +46,9 @@
    "name": "RFA NAL"
   },
   {
-   "club": "SJEB FC",
-   "id": "300335891",
-   "name": "NAL"
-  },
-  {
-   "club": "Steel United NJ",
-   "id": "300335935",
-   "name": "NL"
+   "club": "Next Level Soccer Academy",
+   "id": "300528418",
+   "name": "NLSA Surf Girls ECNL-RL"
   },
   {
    "club": "Princeton SA",
@@ -61,24 +56,24 @@
    "name": "PSA North Girls ECNL RL"
   },
   {
+   "club": "Steel United NJ",
+   "id": "300335935",
+   "name": "NL"
+  },
+  {
+   "club": "Cohansey SC",
+   "id": "300528417",
+   "name": "Cohansey Premier G RAL"
+  },
+  {
    "club": "Lacey Soccer Club",
    "id": "300335898",
    "name": "Cedar Stars Academy Ocean"
   },
   {
-   "club": "Princeton SA",
-   "id": "300335897",
-   "name": "PSA Princeton Orange"
-  },
-  {
-   "club": "Match Fit Surf",
-   "id": "300335896",
-   "name": "Girls Middlesex EDP"
-  },
-  {
-   "club": "Monmouth United Soccer",
-   "id": "300335922",
-   "name": "MUSC Girls Blue"
+   "club": "NJ Stallions",
+   "id": "300335888",
+   "name": "NJ Stallions Phoenix RAL"
   },
   {
    "club": "Northern Burlington SA",
@@ -86,9 +81,14 @@
    "name": "Northern Burlington Premier Flame"
   },
   {
-   "club": "NJ Stallions",
-   "id": "300335888",
-   "name": "NJ Stallions Phoenix RAL"
+   "club": "Princeton SA",
+   "id": "300335897",
+   "name": "PSA Princeton Orange"
+  },
+  {
+   "club": "Monmouth United Soccer",
+   "id": "300335922",
+   "name": "MUSC Girls Blue"
   },
   {
    "club": "NJ Crush FC",
@@ -101,11 +101,6 @@
    "name": "DPL"
   },
   {
-   "club": "Jersey South FC",
-   "id": "300335901",
-   "name": "Jersey South FC Galaxy"
-  },
-  {
    "club": "Cheshire Soccer Academy",
    "id": "300335893",
    "name": "Cheshire Girls DPL"
@@ -116,19 +111,19 @@
    "name": "NJMYSA HS"
   },
   {
+   "club": "Match Fit Surf",
+   "id": "300335896",
+   "name": "Girls Middlesex EDP"
+  },
+  {
    "club": "NJ Crush FC",
    "id": "300335931",
    "name": "NPL"
   },
   {
-   "club": "Cohansey SC",
-   "id": "300528417",
-   "name": "Cohansey Premier G RAL"
-  },
-  {
-   "club": "WSA",
-   "id": "300528414",
-   "name": "Union County FC Benevento - DPL"
+   "club": "NJ Bulldogs",
+   "id": "12073991",
+   "name": "New Jersey Lady Bulldogs"
   },
   {
    "club": "Sporting Club Premier",
@@ -136,14 +131,19 @@
    "name": "PDA SCP NPL"
   },
   {
+   "club": "WSA",
+   "id": "300528414",
+   "name": "Union County FC Benevento - DPL"
+  },
+  {
+   "club": "Jersey South FC",
+   "id": "300335901",
+   "name": "Jersey South FC Galaxy"
+  },
+  {
    "club": "Jersey Knights SC",
    "id": "300335889",
    "name": "Jersey Knights SC Valkyries"
-  },
-  {
-   "club": "NJ Bulldogs",
-   "id": "12073991",
-   "name": "New Jersey Lady Bulldogs"
   },
   {
    "club": "Cherry Hill SC",
@@ -231,6 +231,11 @@
    "name": "PDA SCP EDP"
   },
   {
+   "club": "NJ Premier F.C.",
+   "id": "12095383",
+   "name": "2008Girls"
+  },
+  {
    "club": "The Football Academy NJ",
    "id": "12075394",
    "name": "The Football Academy NJ Girls Black"
@@ -239,11 +244,6 @@
    "club": "PSA Monmouth",
    "id": "12073161",
    "name": "ECNL RL G"
-  },
-  {
-   "club": "NJ Premier F.C.",
-   "id": "12095383",
-   "name": "2008Girls"
   },
   {
    "club": "NJ14 Soccer Club",
@@ -271,11 +271,6 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Logan Soccer Club",
-   "id": "12326752",
-   "name": "Logan Soccer Club"
-  },
-  {
    "club": "Torpedoes SC",
    "id": "300335899",
    "name": "Torpedoes Red"
@@ -289,6 +284,11 @@
    "club": "Freehold Soccer League",
    "id": "300335917",
    "name": "Elite Force"
+  },
+  {
+   "club": "Logan Soccer Club",
+   "id": "12326752",
+   "name": "Logan Soccer Club"
   },
   {
    "club": "Cedar Stars Academy Bergen",

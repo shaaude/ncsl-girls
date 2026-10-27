@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-20T13:02:46.516085+00:00",
+ "fetched_at": "2026-10-27T13:38:24.188451+00:00",
  "state": "OR",
  "state_slug": "oregon",
  "teams": [
@@ -26,14 +26,14 @@
    "name": "GA"
   },
   {
-   "club": "Oregon Premier Football Club",
-   "id": "300531475",
-   "name": "Oregon Premier FC G ECNL-RL"
-  },
-  {
    "club": "Soccer Chance Academy",
    "id": "300487395",
    "name": "GA12/13"
+  },
+  {
+   "club": "Oregon Premier Football Club",
+   "id": "300531475",
+   "name": "Oregon Premier FC G ECNL-RL"
   },
   {
    "club": "Oregon Surf SC",
@@ -66,14 +66,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Oregon Premier Football Club",
-   "id": "300504691",
-   "name": "OPFC"
-  },
-  {
    "club": "Westside Metros FC",
    "id": "300401076",
    "name": "GA"
+  },
+  {
+   "club": "Oregon Premier Football Club",
+   "id": "300504691",
+   "name": "OPFC"
   },
   {
    "club": "Rogue Valley Timbers",
@@ -86,6 +86,11 @@
    "name": "Silverton FC Storm"
   },
   {
+   "club": "Columbia Premier Soccer Club",
+   "id": "300401061",
+   "name": "Aspire"
+  },
+  {
    "club": "Oregon Surf SC",
    "id": "300531477",
    "name": "Oregon Surf ECNL RL"
@@ -93,6 +98,11 @@
   {
    "club": "EastSide Timbers FC",
    "id": "300490296",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Eugene Metro FC",
+   "id": "300518869",
    "name": "ECNL RL"
   },
   {
@@ -106,19 +116,9 @@
    "name": "FC Portland"
   },
   {
-   "club": "Eugene Metro FC",
-   "id": "300518869",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Capital FC",
    "id": "300490294",
    "name": "Black"
-  },
-  {
-   "club": "Bend FC",
-   "id": "300401045",
-   "name": "Bend FC Gold"
   },
   {
    "club": "Portland City United Soccer Club",
@@ -126,14 +126,14 @@
    "name": "PCU Red"
   },
   {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300401061",
-   "name": "Aspire"
-  },
-  {
    "club": "Pelada Football Academy",
    "id": "300401048",
    "name": "PFA Deportiva (OR)"
+  },
+  {
+   "club": "Bend FC",
+   "id": "300401045",
+   "name": "Bend FC Gold"
   },
   {
    "club": "Clackamas United Soccer Club",
@@ -156,14 +156,19 @@
    "name": "ECNL RL"
   },
   {
+   "club": "Soccer Chance Academy",
+   "id": "300489844",
+   "name": "SCA White (OR)"
+  },
+  {
    "club": "Chehalem Valley Soccer Club",
    "id": "300490295",
    "name": "Chehalem Valley Soccer Club - Soccer Stars"
   },
   {
-   "club": "Soccer Chance Academy",
-   "id": "300489844",
-   "name": "SCA White (OR)"
+   "club": "Westside Metros FC",
+   "id": "300543236",
+   "name": "Westside Metros (OR)"
   },
   {
    "club": "Hillsboro Rush",
@@ -176,21 +181,6 @@
    "name": "WSM Copa"
   },
   {
-   "club": "Westside Metros FC",
-   "id": "300543236",
-   "name": "Westside Metros (OR)"
-  },
-  {
-   "club": "North Clackamas SC",
-   "id": "300488859",
-   "name": "North Clackamas SC"
-  },
-  {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300488861",
-   "name": "Columbia Premier SC Black"
-  },
-  {
    "club": "Willamette United Football Club",
    "id": "300488858",
    "name": "OPFC WUFC White"
@@ -199,6 +189,21 @@
    "club": "Oregon Futbol Academy",
    "id": "300401081",
    "name": "OFA Black"
+  },
+  {
+   "club": "Columbia Premier Soccer Club",
+   "id": "300488861",
+   "name": "Columbia Premier SC Black"
+  },
+  {
+   "club": "North Clackamas SC",
+   "id": "300488859",
+   "name": "North Clackamas SC"
+  },
+  {
+   "club": "Portland City United Soccer Club",
+   "id": "300401058",
+   "name": "Aspire"
   },
   {
    "club": "Apex FC",
@@ -211,14 +216,14 @@
    "name": "LOSC G Royal"
   },
   {
-   "club": "Portland City United Soccer Club",
-   "id": "300401058",
-   "name": "Aspire"
-  },
-  {
    "club": "Apex FC",
    "id": "300488864",
    "name": "Apex FC G Steel"
+  },
+  {
+   "club": "Eugene Metro FC",
+   "id": "300401083",
+   "name": "Aspire"
   },
   {
    "club": "Bridge City Soccer Academy",
@@ -244,11 +249,6 @@
    "club": "Oregon Surf SC",
    "id": "300514673",
    "name": "Oregon Surf (OR)"
-  },
-  {
-   "club": "Eugene Metro FC",
-   "id": "300401083",
-   "name": "Aspire"
   },
   {
    "club": "Hillsboro Rush",

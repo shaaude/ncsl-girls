@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-20T12:09:56.446306+00:00",
+ "fetched_at": "2026-10-27T12:45:34.057657+00:00",
  "state": "CT",
  "state_slug": "connecticut",
  "teams": [
@@ -22,13 +22,8 @@
   },
   {
    "club": "FSA FC",
-   "id": "300517663",
-   "name": "ECNL"
-  },
-  {
-   "club": "Connecticut Football Club",
-   "id": "300517666",
-   "name": "United ECNL RL"
+   "id": "300540972",
+   "name": "FSA FC ECNL"
   },
   {
    "club": "A.C. Connecticut",
@@ -36,14 +31,19 @@
    "name": "NAL"
   },
   {
-   "club": "CT Rush Soccer Club",
-   "id": "300361286",
-   "name": "CT Rush Select Girls ECNL RL"
+   "club": "CT Rush",
+   "id": "300361259",
+   "name": "Vale Rush United"
   },
   {
-   "club": "Vale SC",
-   "id": "300361259",
-   "name": "Vale Newells Girls"
+   "club": "Connecticut Football Club",
+   "id": "300517666",
+   "name": "United ECNL RL"
+  },
+  {
+   "club": "CT Rush",
+   "id": "300361286",
+   "name": "Vale Rush United ECNL RL"
   },
   {
    "club": "Ole FC",
@@ -51,14 +51,14 @@
    "name": "CFC Ole NAL"
   },
   {
-   "club": "Connecticut Football Club",
-   "id": "300361273",
-   "name": "CFC Legacy Girls"
-  },
-  {
    "club": "CFC North",
    "id": "300361287",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Connecticut Football Club",
+   "id": "300361273",
+   "name": "CFC Legacy Girls"
   },
   {
    "club": "Inter Connecticut FC",
@@ -67,8 +67,8 @@
   },
   {
    "club": "FSA FC",
-   "id": "300517664",
-   "name": "ECNL RL"
+   "id": "300540967",
+   "name": "FSA FC ECNL RL"
   },
   {
    "club": "Northeast United Premier Soccer",
@@ -79,6 +79,11 @@
    "club": "Chelsea Piers Soccer Club",
    "id": "300361271",
    "name": "Lyon"
+  },
+  {
+   "club": "Connecticut Football Club",
+   "id": "300477551",
+   "name": "Legacy ECNL RL"
   },
   {
    "club": "OGRCC",
@@ -96,9 +101,9 @@
    "name": "Inter Connecticut Girls Litchfield"
   },
   {
-   "club": "Connecticut Football Club",
-   "id": "300477551",
-   "name": "Legacy ECNL RL"
+   "club": "Inter Connecticut FC",
+   "id": "300361248",
+   "name": "Inter Connecticut FC - Girls Union"
   },
   {
    "club": "CFC North",
@@ -106,9 +111,9 @@
    "name": "CFC North DPL"
   },
   {
-   "club": "Inter Connecticut FC",
-   "id": "300361248",
-   "name": "Inter Connecticut FC - Girls Union"
+   "club": "Oakwood Soccer Club",
+   "id": "300361272",
+   "name": "Oakwood SC EDP"
   },
   {
    "club": "JA Elite FC",
@@ -121,14 +126,9 @@
    "name": "Vale East Girls"
   },
   {
-   "club": "Oakwood Soccer Club",
-   "id": "300361272",
-   "name": "Oakwood SC EDP"
-  },
-  {
-   "club": "Southeast Soccer Club",
-   "id": "300361285",
-   "name": "Southeast SC"
+   "club": "Valley Soccer Club",
+   "id": "300361270",
+   "name": "Valley FC National Academy League"
   },
   {
    "club": "Revolution United FC",
@@ -136,9 +136,9 @@
    "name": "Revolution"
   },
   {
-   "club": "Valley Soccer Club",
-   "id": "300361270",
-   "name": "Valley FC National Academy League"
+   "club": "Southeast Soccer Club",
+   "id": "300361285",
+   "name": "Southeast SC"
   },
   {
    "club": "Ginga FC",
@@ -156,14 +156,14 @@
    "name": "Inter CT FC Girls SL"
   },
   {
-   "club": "Sporting CT",
-   "id": "300361265",
-   "name": "Sporting CT Girls DPL"
-  },
-  {
    "club": "PSC Dynamo CT",
    "id": "300361241",
    "name": "PSC DYNAMO CT"
+  },
+  {
+   "club": "MYS Sporting CT",
+   "id": "300361265",
+   "name": "Sporting CT (CT)"
   },
   {
    "club": "Fairfield United Soccer Association",
@@ -186,19 +186,14 @@
    "name": "CFC North EDP"
   },
   {
-   "club": "FSA FC",
-   "id": "300540967",
-   "name": "ECNL RL"
+   "club": "Connecticut FC",
+   "id": "300540971",
+   "name": "Legacy ECNL RL"
   },
   {
    "club": "Connecticut FC",
-   "id": "300540968",
-   "name": "United ECNL RL"
-  },
-  {
-   "club": "Vale Rush United",
-   "id": "300540966",
-   "name": "ECNL RL"
+   "id": "300540970",
+   "name": "United ECNL"
   },
   {
    "club": "A.C. Connecticut",
@@ -207,13 +202,8 @@
   },
   {
    "club": "Connecticut FC",
-   "id": "300540970",
-   "name": "United ECNL"
-  },
-  {
-   "club": "Connecticut FC",
-   "id": "300540971",
-   "name": "Legacy ECNL RL"
+   "id": "300540968",
+   "name": "United ECNL RL"
   },
   {
    "club": "Hurricanes",
@@ -231,14 +221,19 @@
    "name": "Inter CT FC DPL"
   },
   {
-   "club": "FSA FC",
-   "id": "300540972",
-   "name": "ECNL"
+   "club": "Vale Rush United",
+   "id": "300540966",
+   "name": "ECNL RL"
   },
   {
-   "club": "West Hartford",
-   "id": "12096061",
-   "name": "West Hartford"
+   "club": "CFC North",
+   "id": "300560150",
+   "name": "Aspire"
+  },
+  {
+   "club": "Connecticut Football Club",
+   "id": "12080834",
+   "name": "CFC Ole NAL"
   },
   {
    "club": "Chelsea Piers Soccer Club",
@@ -251,9 +246,9 @@
    "name": "Hat City Futsal Girls"
   },
   {
-   "club": "Connecticut Football Club",
-   "id": "12080834",
-   "name": "CFC Ole NAL"
+   "club": "West Hartford",
+   "id": "12096061",
+   "name": "West Hartford"
   },
   {
    "club": "Granby Rovers",
@@ -289,11 +284,6 @@
    "club": "CKS",
    "id": "12209127",
    "name": "CKS"
-  },
-  {
-   "club": "CFC North",
-   "id": "12290951",
-   "name": "Aspire"
   },
   {
    "club": "Fairfield United Soccer Association",

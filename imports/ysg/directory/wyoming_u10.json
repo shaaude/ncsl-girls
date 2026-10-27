@@ -1,74 +1,14 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-20T13:24:06.505087+00:00",
+ "fetched_at": "2026-10-27T13:59:44.068907+00:00",
  "state": "WY",
  "state_slug": "wyoming",
  "teams": [
   {
-   "club": "Lander Valley Youth Soccer",
-   "id": "300496836",
-   "name": "LANDER STRIKERS GIRLS GREEN"
-  },
-  {
-   "club": "RS Avengers",
-   "id": "300496835",
-   "name": "Rock Springs Avengers Webb"
-  },
-  {
-   "club": "Gillette Edge SC",
-   "id": "300548058",
-   "name": "GSC Girls Purple"
-  },
-  {
-   "club": "Casper SC",
-   "id": "300548060",
-   "name": "Blades RED"
-  },
-  {
-   "club": "Western Nebraska FC",
-   "id": "300538474",
-   "name": "WNFC Girls Select White"
-  },
-  {
-   "club": "Western Nebraska FC",
-   "id": "300538473",
-   "name": "WNFC Girls Select Black"
-  },
-  {
-   "club": "Sheridan County Soccer Association",
-   "id": "300536105",
-   "name": "SC Storm Girls Yellow"
-  },
-  {
    "club": "Casper SC",
    "id": "300548063",
    "name": "BLADES BLACK"
-  },
-  {
-   "club": "Yellowstone Fire Soccer Assoc",
-   "id": "300536106",
-   "name": "YFSA Girls"
-  },
-  {
-   "club": "Douglas Youth Soccer Club",
-   "id": "300548062",
-   "name": "Douglas Thunder Girls"
-  },
-  {
-   "club": "Casper SC",
-   "id": "300548061",
-   "name": "BLADES BLACK"
-  },
-  {
-   "club": "Sheridan County Soccer Association",
-   "id": "300536107",
-   "name": "SC Storm Girls Blue"
-  },
-  {
-   "club": "Jackson Hole Youth Soccer",
-   "id": "300538476",
-   "name": "JHYS United Girls Blue"
   },
   {
    "club": "Jackson Hole Youth Soccer",
@@ -77,8 +17,18 @@
   },
   {
    "club": "Jackson Hole Youth Soccer",
-   "id": "300478378",
-   "name": "JHYS United Girls Black"
+   "id": "300538476",
+   "name": "JHYS United Girls Blue"
+  },
+  {
+   "club": "Riverton Youth SA",
+   "id": "300538477",
+   "name": "Riverton Rampage girls"
+  },
+  {
+   "club": "Gillette Edge SC",
+   "id": "300548058",
+   "name": "GSC Girls Purple"
   },
   {
    "club": "Casper SC",
@@ -86,19 +36,24 @@
    "name": "BLADES WHITE"
   },
   {
-   "club": "Laramie Soccer Club",
-   "id": "300464214",
-   "name": "LSC Girls"
+   "club": "Casper SC",
+   "id": "300548060",
+   "name": "Blades RED"
+  },
+  {
+   "club": "Casper SC",
+   "id": "300548061",
+   "name": "BLADES BLACK"
+  },
+  {
+   "club": "Douglas Youth Soccer Club",
+   "id": "300548062",
+   "name": "Douglas Thunder Girls"
   },
   {
    "club": "Western Nebraska FC",
-   "id": "300556471",
-   "name": "DC Power"
-  },
-  {
-   "club": "Western Nebraska FC",
-   "id": "300556470",
-   "name": "Carolina Ascent"
+   "id": "300538474",
+   "name": "WNFC Girls Select White"
   },
   {
    "club": "Western Nebraska FC",
@@ -107,18 +62,8 @@
   },
   {
    "club": "Western Nebraska FC",
-   "id": "300556472",
-   "name": "Bay FC"
-  },
-  {
-   "club": "Western Nebraska FC",
-   "id": "300556474",
-   "name": "Bigfoot FC"
-  },
-  {
-   "club": "Western Nebraska FC",
-   "id": "300556473",
-   "name": "Dayton Dutch Lions"
+   "id": "300556468",
+   "name": "Fort Lauderdale United"
   },
   {
    "club": "Western Nebraska FC",
@@ -127,23 +72,38 @@
   },
   {
    "club": "Western Nebraska FC",
-   "id": "300556468",
-   "name": "Fort Lauderdale United"
+   "id": "300556470",
+   "name": "Carolina Ascent"
   },
   {
-   "club": "Riverton Youth SA",
-   "id": "300538477",
-   "name": "Riverton Rampage girls"
+   "club": "Western Nebraska FC",
+   "id": "300556471",
+   "name": "DC Power"
   },
   {
-   "club": "RS Avengers",
-   "id": "300464211",
-   "name": "Rock Springs Avengers Girls Fink"
+   "club": "Western Nebraska FC",
+   "id": "300556472",
+   "name": "Bay FC"
   },
   {
-   "club": "Gillette Edge Soccer Club",
-   "id": "14096500",
-   "name": "Gillette Girls Purple"
+   "club": "Western Nebraska FC",
+   "id": "300556473",
+   "name": "Dayton Dutch Lions"
+  },
+  {
+   "club": "Western Nebraska FC",
+   "id": "300556474",
+   "name": "Bigfoot FC"
+  },
+  {
+   "club": "Jackson Hole Youth Soccer",
+   "id": "300478378",
+   "name": "JHYS United Girls Black"
+  },
+  {
+   "club": "Cheyenne Soccer Club",
+   "id": "11889895",
+   "name": "Cheyenne Hornets"
   },
   {
    "club": "Cheyenne Soccer Club",
@@ -151,9 +111,54 @@
    "name": "Cheyenne Wasps"
   },
   {
-   "club": "Cheyenne Soccer Club",
-   "id": "11889895",
-   "name": "Cheyenne Hornets"
+   "club": "Gillette Edge Soccer Club",
+   "id": "14096500",
+   "name": "Gillette Girls Purple"
+  },
+  {
+   "club": "Nicholas County YS",
+   "id": "17363700",
+   "name": "Garrett"
+  },
+  {
+   "club": "RS Avengers",
+   "id": "300464211",
+   "name": "Rock Springs Avengers Girls Fink"
+  },
+  {
+   "club": "Laramie Soccer Club",
+   "id": "300464214",
+   "name": "LSC Girls"
+  },
+  {
+   "club": "RS Avengers",
+   "id": "300496835",
+   "name": "Rock Springs Avengers Webb"
+  },
+  {
+   "club": "Lander Valley Youth Soccer",
+   "id": "300496836",
+   "name": "LANDER STRIKERS GIRLS GREEN"
+  },
+  {
+   "club": "Sheridan County Soccer Association",
+   "id": "300536105",
+   "name": "SC Storm Girls Yellow"
+  },
+  {
+   "club": "Yellowstone Fire Soccer Assoc",
+   "id": "300536106",
+   "name": "YFSA Girls"
+  },
+  {
+   "club": "Sheridan County Soccer Association",
+   "id": "300536107",
+   "name": "SC Storm Girls Blue"
+  },
+  {
+   "club": "Western Nebraska FC",
+   "id": "300538473",
+   "name": "WNFC Girls Select Black"
   }
  ]
 }

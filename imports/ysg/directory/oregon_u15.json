@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-20T13:02:56.562943+00:00",
+ "fetched_at": "2026-10-27T13:38:34.141283+00:00",
  "state": "OR",
  "state_slug": "oregon",
  "teams": [
@@ -41,14 +41,19 @@
    "name": "GA"
   },
   {
+   "club": "Capital FC",
+   "id": "300518659",
+   "name": "ECNL-RL"
+  },
+  {
    "club": "Columbia Premier Soccer Club",
    "id": "11740493",
    "name": "Aspire"
   },
   {
-   "club": "Capital FC",
-   "id": "300518659",
-   "name": "ECNL-RL"
+   "club": "Eugene Metro FC",
+   "id": "300490271",
+   "name": "ECNL RL"
   },
   {
    "club": "Columbia Premier Soccer Club",
@@ -59,11 +64,6 @@
    "club": "Bend FC",
    "id": "300383932",
    "name": "Bend FC Gold"
-  },
-  {
-   "club": "Eugene Metro FC",
-   "id": "300490271",
-   "name": "ECNL RL"
   },
   {
    "club": "Portland City United Soccer Club",
@@ -96,11 +96,6 @@
    "name": "Hillsboro Rush Blue"
   },
   {
-   "club": "Oregon Surf SC",
-   "id": "300383977",
-   "name": "Oregon Surf ECNL RL"
-  },
-  {
    "club": "Clackamas United Soccer Club",
    "id": "300491748",
    "name": "CUSC Rangers Red"
@@ -114,6 +109,11 @@
    "club": "FC Portland Academy",
    "id": "300383937",
    "name": "FC Portland Navy"
+  },
+  {
+   "club": "Oregon Surf SC",
+   "id": "300383977",
+   "name": "Oregon Surf ECNL RL"
   },
   {
    "club": "Westside Metros FC",
@@ -136,19 +136,24 @@
    "name": "Black"
   },
   {
-   "club": "Portland Thorns Academy",
-   "id": "300383982",
-   "name": "Portland Thorns ECNL RL"
-  },
-  {
    "club": "Bend FC",
    "id": "300488804",
    "name": "Bend FC Black"
   },
   {
+   "club": "Portland Thorns Academy",
+   "id": "300383982",
+   "name": "Portland Thorns ECNL RL"
+  },
+  {
    "club": "Apex FC",
    "id": "300489795",
    "name": "Apex FC G White"
+  },
+  {
+   "club": "Eugene Metro FC",
+   "id": "300383954",
+   "name": "Aspire"
   },
   {
    "club": "Eugene Metro FC",
@@ -159,11 +164,6 @@
    "club": "United PDX Soccer Club",
    "id": "300492524",
    "name": "United PDX Premier"
-  },
-  {
-   "club": "Eugene Metro FC",
-   "id": "300383954",
-   "name": "Aspire"
   },
   {
    "club": "Bridge City Soccer Academy",

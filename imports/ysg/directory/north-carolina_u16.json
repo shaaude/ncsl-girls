@@ -1,10 +1,20 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-20T12:55:46.506343+00:00",
+ "fetched_at": "2026-10-27T13:31:24.097757+00:00",
  "state": "NC",
  "state_slug": "north-carolina",
  "teams": [
+  {
+   "club": "NCFC Youth",
+   "id": "300517922",
+   "name": "NC Courage ECNL"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "300517935",
+   "name": "Charlotte SA ECNL"
+  },
   {
    "club": "Charlotte Soccer Club",
    "id": "300367519",
@@ -16,23 +26,13 @@
    "name": "NC Courage ECNL"
   },
   {
-   "club": "Charlotte Independence SC",
-   "id": "300559752",
-   "name": "GA"
+   "club": "Triangle United Soccer Association",
+   "id": "300559956",
+   "name": "Triangle United GA"
   },
   {
-   "club": "Charlotte Soccer Academy",
-   "id": "300482603",
-   "name": "Charlotte SA Blue ECNL RL"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "300517922",
-   "name": "NC Courage ECNL"
-  },
-  {
-   "club": "Charlotte Independence Soccer Club",
-   "id": "300367470",
+   "club": "Wake FC",
+   "id": "12242080",
    "name": "GA"
   },
   {
@@ -41,9 +41,19 @@
    "name": "Charlotte SA Gold ECNL RL"
   },
   {
+   "club": "Charlotte Independence Soccer Club",
+   "id": "300367470",
+   "name": "GA"
+  },
+  {
+   "club": "Charlotte Independence SC",
+   "id": "300559752",
+   "name": "GA"
+  },
+  {
    "club": "Charlotte Soccer Academy",
-   "id": "300517935",
-   "name": "Charlotte SA ECNL"
+   "id": "300482603",
+   "name": "Charlotte SA Blue ECNL RL"
   },
   {
    "club": "Triangle United Soccer Association",
@@ -57,18 +67,23 @@
   },
   {
    "club": "NCFC Youth",
-   "id": "300517919",
-   "name": "ECNL"
+   "id": "300517913",
+   "name": "NCFC Youth Elite ECNL RL"
   },
   {
-   "club": "NCFC Youth",
-   "id": "300517920",
-   "name": "NCFC Youth Elite ECNL RL"
+   "club": "Charlotte Soccer Academy",
+   "id": "300367473",
+   "name": "Charlotte SA Black NC"
   },
   {
    "club": "Charlotte Soccer Club",
    "id": "300367517",
    "name": "Blue ECNL RL"
+  },
+  {
+   "club": "Carolina Core FC Youth",
+   "id": "300559952",
+   "name": "GA"
   },
   {
    "club": "Carolina Velocity FC",
@@ -81,14 +96,19 @@
    "name": "NCFCY G United North (NC)"
   },
   {
-   "club": "Charlotte Soccer Academy",
-   "id": "300367473",
-   "name": "Charlotte SA Black NC"
-  },
-  {
    "club": "Charlotte Development Academy",
    "id": "300367521",
    "name": "GA"
+  },
+  {
+   "club": "NC Fusion",
+   "id": "300517929",
+   "name": "NC Fusion ECNL"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "300517921",
+   "name": "NCFC Youth ECNL"
   },
   {
    "club": "Carolina Core FC Youth",
@@ -96,9 +116,14 @@
    "name": "Aspire"
   },
   {
+   "club": "Charlotte Development Academy",
+   "id": "300559948",
+   "name": "GA"
+  },
+  {
    "club": "NCFC Youth",
-   "id": "300517913",
-   "name": "Elite ECNL RL"
+   "id": "300517920",
+   "name": "NCFC Youth Elite ECNL RL"
   },
   {
    "club": "Highland Football Club",
@@ -106,9 +131,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "NCFC Youth",
-   "id": "300517917",
-   "name": "Premier ECNL RL"
+   "club": "Neuse River Futbol Alliance",
+   "id": "300367485",
+   "name": "NPL Rise G"
   },
   {
    "club": "NC Fusion",
@@ -116,9 +141,9 @@
    "name": "ECNL"
   },
   {
-   "club": "Neuse River Futbol Alliance",
-   "id": "300367485",
-   "name": "NPL Rise G"
+   "club": "Charlotte Independence Soccer Club",
+   "id": "300367477",
+   "name": "Aspire North"
   },
   {
    "club": "Mavericks Football Club",
@@ -126,14 +151,19 @@
    "name": "Mavericks FC G Tangerine (NC)"
   },
   {
-   "club": "Fox Soccer Academy of the Carolinas",
-   "id": "300474837",
+   "club": "Wake FC",
+   "id": "300549085",
    "name": "Aspire"
   },
   {
-   "club": "Charlotte Independence Soccer Club",
-   "id": "300367477",
-   "name": "Aspire North"
+   "club": "NC Fusion",
+   "id": "300541417",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "Highland FC",
+   "id": "300541415",
+   "name": "Highland FC ECNL RL"
   },
   {
    "club": "Wilmington Hammerheads FC",
@@ -141,14 +171,9 @@
    "name": "Wilmington Hammerheads ECNL"
   },
   {
-   "club": "Charlotte Independence Soccer Club",
-   "id": "300367467",
-   "name": "Aspire South"
-  },
-  {
-   "club": "NC Fusion",
-   "id": "300517929",
-   "name": "ECNL"
+   "club": "NCFC Youth",
+   "id": "300541419",
+   "name": "NCFC Youth Premier ECNL RL"
   },
   {
    "club": "Wake Futbol Club",
@@ -156,24 +181,24 @@
    "name": "WFC DPL"
   },
   {
-   "club": "Wake Futbol Club",
-   "id": "300367488",
-   "name": "WFC South NPL G"
-  },
-  {
-   "club": "Charlotte Development Academy",
-   "id": "12283816",
-   "name": "DPL"
-  },
-  {
    "club": "FC ATHLETICO",
    "id": "300367465",
    "name": "FC ATHLETICO Surf RL"
   },
   {
-   "club": "Charlotte Soccer Club",
-   "id": "300367518",
-   "name": "White ECNL RL"
+   "club": "Charlotte Independence Soccer Club",
+   "id": "300367467",
+   "name": "Aspire South"
+  },
+  {
+   "club": "Wake Futbol Club",
+   "id": "300367488",
+   "name": "WFC South NPL G"
+  },
+  {
+   "club": "Fox Soccer Academy of the Carolinas",
+   "id": "300474837",
+   "name": "Fox Soccer Academy Aspire"
   },
   {
    "club": "Wake FC",
@@ -181,9 +206,14 @@
    "name": "Aspire"
   },
   {
-   "club": "NCFC Youth",
-   "id": "300517921",
-   "name": "ECNL"
+   "club": "Charlotte Development Academy",
+   "id": "300559950",
+   "name": "DPL"
+  },
+  {
+   "club": "Charlotte Soccer Club",
+   "id": "300367518",
+   "name": "White ECNL RL"
   },
   {
    "club": "Fox Soccer Academy of the Carolinas",
@@ -229,11 +259,6 @@
    "club": "NCFC Youth",
    "id": "300549454",
    "name": "NCFCY G Gold North (NC)"
-  },
-  {
-   "club": "Wilmington Hammerheads FC",
-   "id": "300517923",
-   "name": "Wilmington Hammerheads ECNL RL"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -311,16 +336,6 @@
    "name": "NRFA G Rise FC Black (NC)"
   },
   {
-   "club": "Charlotte Soccer Academy",
-   "id": "12177192",
-   "name": "Charlotte SA White NC"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "12177197",
-   "name": "NCFCY G United South (NC)"
-  },
-  {
    "club": "Mebane Youth Soccer Association",
    "id": "12181082",
    "name": "MYSA Mayhem G"
@@ -336,39 +351,9 @@
    "name": "CESA WNC Summit"
   },
   {
-   "club": "Bogue Banks Futbol Club (BBFC)",
-   "id": "12181085",
-   "name": "Bogue Banks FC the Graveyard"
-  },
-  {
    "club": "Wilmington Hammerheads FC",
    "id": "12181088",
    "name": "Jacksonville Hammerheads Girls"
-  },
-  {
-   "club": "Pitt Greenville Soccer Association",
-   "id": "12181089",
-   "name": "Pitt Greenville SA G Green (NC)"
-  },
-  {
-   "club": "Carolina Core FC Youth",
-   "id": "12242075",
-   "name": "GA"
-  },
-  {
-   "club": "Wake FC",
-   "id": "12242080",
-   "name": "GA"
-  },
-  {
-   "club": "Triangle United Soccer Association",
-   "id": "12242081",
-   "name": "GA"
-  },
-  {
-   "club": "Charlotte Development Academy",
-   "id": "12242082",
-   "name": "GA"
   },
   {
    "club": "DCYSA Twisters",
@@ -476,11 +461,6 @@
    "name": "OCSA Coastal Crew"
   },
   {
-   "club": "Pleasure Island Soccer Association",
-   "id": "15036100",
-   "name": "Hurricanes White"
-  },
-  {
    "club": "Porter Ridge Athletic Assn (PRAA)",
    "id": "15937800",
    "name": "PRAA Sirens G"
@@ -513,7 +493,7 @@
   {
    "club": "Pleasure Island Soccer Association",
    "id": "300367474",
-   "name": "Hurricanes"
+   "name": "Hurricanes Red"
   },
   {
    "club": "Carolina Velocity FC",
@@ -524,11 +504,6 @@
    "club": "Charlotte Soccer Academy",
    "id": "300367486",
    "name": "Charlotte SA White RL White"
-  },
-  {
-   "club": "Highland Football Club",
-   "id": "300367487",
-   "name": "HFC ECNL RL G"
   },
   {
    "club": "Wilmington Hammerheads FC",
@@ -549,6 +524,11 @@
    "club": "Charlotte Independence Soccer Club",
    "id": "300492923",
    "name": "CISC North State Blue G"
+  },
+  {
+   "club": "Wilmington Hammerheads FC",
+   "id": "300517923",
+   "name": "Wilmington Hammerheads ECNL RL"
   },
   {
    "club": "Wilmington Hammerheads FC",
@@ -576,29 +556,14 @@
    "name": "MYSA Elite Girls"
   },
   {
-   "club": "Highland FC",
-   "id": "300541415",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Catawba Valley Youth Soccer Association",
    "id": "300541416",
    "name": "Catawba Valley YSA ECNL RL"
   },
   {
-   "club": "NC Fusion",
-   "id": "300541417",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Charlotte Soccer Academy",
    "id": "300541418",
    "name": "Charlotte SA White ECNL RL"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "300541419",
-   "name": "Premier ECNL RL"
   },
   {
    "club": "Wilmington Hammerheads FC",
@@ -616,11 +581,6 @@
    "name": "Aspire"
   },
   {
-   "club": "Wake FC",
-   "id": "300549085",
-   "name": "Aspire"
-  },
-  {
    "club": "Charlotte Soccer Academy",
    "id": "300549455",
    "name": "CSA UM King G"
@@ -629,6 +589,31 @@
    "club": "Pleasure Island Soccer Assn (PISA)",
    "id": "300555455",
    "name": "PISA Hurricanes White"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "300559949",
+   "name": "Charlotte SA White NC"
+  },
+  {
+   "club": "Pleasure Island Soccer Association",
+   "id": "300559951",
+   "name": "Hurricanes White"
+  },
+  {
+   "club": "Pitt Greenville Soccer Association",
+   "id": "300559953",
+   "name": "Pitt Greenville SA G Green (NC)"
+  },
+  {
+   "club": "Bogue Banks Futbol Club",
+   "id": "300559954",
+   "name": "Bogue Banks FC the Graveyard"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "300559955",
+   "name": "NCFCY G United South (NC)"
   }
  ]
 }

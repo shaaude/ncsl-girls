@@ -1,24 +1,19 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-10-20T12:18:36.464455+00:00",
+ "fetched_at": "2026-10-27T12:54:14.098113+00:00",
  "state": "ID",
  "state_slug": "idaho",
  "teams": [
-  {
-   "club": "Idaho Youth Soccer Association",
-   "id": "300410352",
-   "name": "Idaho ODP Girls"
-  },
   {
    "club": "Idaho Rush Soccer Club",
    "id": "300410374",
    "name": "Idaho Rush ECNL-RL"
   },
   {
-   "club": "Indie Chicas",
-   "id": "300515385",
-   "name": "DPL"
+   "club": "Idaho Youth Soccer Association",
+   "id": "300410352",
+   "name": "Idaho ODP Girls"
   },
   {
    "club": "IFFC",
@@ -26,9 +21,24 @@
    "name": "IFFC Claret - Nelson"
   },
   {
+   "club": "Indie Chicas",
+   "id": "300515385",
+   "name": "DPL"
+  },
+  {
+   "club": "PVSC United",
+   "id": "300410362",
+   "name": "PVSC Girls- Stucki"
+  },
+  {
    "club": "Idaho Inferno Soccer Club",
    "id": "300410367",
    "name": "Girls Inferno Copa"
+  },
+  {
+   "club": "CGA Academy SC",
+   "id": "300515388",
+   "name": "CGA Academy Girls"
   },
   {
    "club": "Boise Timbers | Thorns",
@@ -41,29 +51,9 @@
    "name": "zSSC Black"
   },
   {
-   "club": "PVSC United",
-   "id": "300410362",
-   "name": "PVSC Girls- Stucki"
-  },
-  {
    "club": "Idaho Surf SC",
    "id": "300410345",
    "name": "ID Surf BOISE DPL"
-  },
-  {
-   "club": "Global Sports Academy",
-   "id": "300410385",
-   "name": "GSA Elite"
-  },
-  {
-   "club": "CGA Academy SC",
-   "id": "300515388",
-   "name": "CGA Academy Girls"
-  },
-  {
-   "club": "Sandpoint Strikers FC",
-   "id": "300515387",
-   "name": "Sandpoint Strikers FC Piehl"
   },
   {
    "club": "City SC",
@@ -76,9 +66,9 @@
    "name": "2014G"
   },
   {
-   "club": "Idaho Storm",
-   "id": "300515386",
-   "name": "Idaho Storm"
+   "club": "Sandpoint Strikers FC",
+   "id": "300515387",
+   "name": "Sandpoint Strikers FC Piehl"
   },
   {
    "club": "Ambush FC",
@@ -86,9 +76,14 @@
    "name": "Ambush FC Phoenix"
   },
   {
-   "club": "Idaho Rush Soccer Club",
-   "id": "300410384",
-   "name": "Idaho Rush Nero"
+   "club": "Idaho Storm",
+   "id": "300515386",
+   "name": "Idaho Storm"
+  },
+  {
+   "club": "Global Sports Academy",
+   "id": "300410385",
+   "name": "GSA Elite"
   },
   {
    "club": "Idaho Thunder FC",
@@ -96,14 +91,9 @@
    "name": "Thunder Girls"
   },
   {
-   "club": "TF Rapids SC",
-   "id": "300410375",
-   "name": "Rapids SC"
-  },
-  {
-   "club": "Boise Wolves Soccer Club",
-   "id": "300537736",
-   "name": "Boise Wolves SC -"
+   "club": "Idaho Rush Soccer Club",
+   "id": "300410384",
+   "name": "Idaho Rush Nero"
   },
   {
    "club": "Indie Chicas",
@@ -111,24 +101,19 @@
    "name": "Black Indie Chicas"
   },
   {
-   "club": "Boise Timbers | Thorns",
-   "id": "300410392",
-   "name": "BTT Boise Thorns Elite"
-  },
-  {
-   "club": "North Boise FC",
-   "id": "300410383",
-   "name": "NBFC Capitol"
-  },
-  {
-   "club": "Hells Canyon FC",
-   "id": "300410346",
-   "name": "HCFC Rapids Girls"
+   "club": "Boise Wolves Soccer Club",
+   "id": "300537736",
+   "name": "Boise Wolves SC -"
   },
   {
    "club": "Palacios Futbol Club (PFC)",
-   "id": "12313379",
+   "id": "300560221",
    "name": "PFC"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300410392",
+   "name": "BTT Boise Thorns Elite"
   },
   {
    "club": "Global Sports Academy",
@@ -136,24 +121,19 @@
    "name": "GSA Elite"
   },
   {
-   "club": "Global Sports Academy",
-   "id": "300410379",
-   "name": "GSA Pre Elite Black"
-  },
-  {
-   "club": "Boise Timbers | Thorns",
-   "id": "300519020",
-   "name": "Boise Thorns ECNL RL"
-  },
-  {
    "club": "Palacios Futbol Club (PFC)",
    "id": "300410381",
    "name": "PFC"
   },
   {
-   "club": "Boise Timbers | Thorns",
-   "id": "300410371",
-   "name": "Thorns Elite"
+   "club": "North Boise FC",
+   "id": "300410383",
+   "name": "NBFC Capitol"
+  },
+  {
+   "club": "Global Sports Academy",
+   "id": "300410379",
+   "name": "GSA Pre Elite Black"
   },
   {
    "club": "Legacy SC",
@@ -161,9 +141,39 @@
    "name": "LSC"
   },
   {
+   "club": "TF Rapids SC",
+   "id": "300410375",
+   "name": "Rapids SC"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300519020",
+   "name": "Boise Thorns ECNL RL"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "300410371",
+   "name": "Thorns Elite"
+  },
+  {
+   "club": "Hells Canyon FC",
+   "id": "300410346",
+   "name": "HCFC Rapids Girls"
+  },
+  {
    "club": "Ambush FC",
    "id": "300469860",
    "name": "Ambush FC Warriors"
+  },
+  {
+   "club": "Timberwolves Futbol Club",
+   "id": "300469859",
+   "name": "Timberwolves FC G"
+  },
+  {
+   "club": "JYSA Soccer",
+   "id": "300410396",
+   "name": "JYSA Rigby Girls"
   },
   {
    "club": "Idaho Rush Soccer Club",
@@ -176,21 +186,6 @@
    "name": "zSSC Yellow"
   },
   {
-   "club": "JYSA Soccer",
-   "id": "300410396",
-   "name": "JYSA Rigby Girls"
-  },
-  {
-   "club": "Timberwolves Futbol Club",
-   "id": "300469859",
-   "name": "Timberwolves FC G"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "300470281",
-   "name": "Academy"
-  },
-  {
    "club": "Idaho Legends",
    "id": "300537739",
    "name": "Idaho Legends - Jorgensen"
@@ -201,14 +196,19 @@
    "name": "ALBION SC IDAHO Academy"
   },
   {
+   "club": "Idaho Legends",
+   "id": "300410376",
+   "name": "Idaho Legends Girls - Green"
+  },
+  {
    "club": "Idaho Storm",
    "id": "300410372",
    "name": "Girls Blue"
   },
   {
-   "club": "Idaho Legends",
-   "id": "300410376",
-   "name": "Idaho Legends Girls - Green"
+   "club": "Sting Soccer Club",
+   "id": "300470281",
+   "name": "Academy"
   },
   {
    "club": "Idaho Surf SC",
@@ -226,19 +226,19 @@
    "name": "Girls Inferno Liga"
   },
   {
+   "club": "Upper Valley Soccer Foundation",
+   "id": "300410364",
+   "name": "UVSF United T. Anderson"
+  },
+  {
    "club": "IFFC",
    "id": "300410350",
    "name": "IFFC Cobalt"
   },
   {
-   "club": "Indie Chicas",
-   "id": "300410358",
-   "name": "WHITE Indie Chicas"
-  },
-  {
-   "club": "Upper Valley Soccer Foundation",
-   "id": "300410364",
-   "name": "UVSF United T. Anderson"
+   "club": "PVSC United",
+   "id": "300410363",
+   "name": "PVSC Girls- Darby"
   },
   {
    "club": "PVSC United",
@@ -246,9 +246,9 @@
    "name": "PVSC Girls- Benjamin"
   },
   {
-   "club": "PVSC United",
-   "id": "300410363",
-   "name": "PVSC Girls- Darby"
+   "club": "Indie Chicas",
+   "id": "300410358",
+   "name": "WHITE Indie Chicas"
   },
   {
    "club": "Indie Chicas",
@@ -259,6 +259,11 @@
    "club": "Idaho Slammers FC",
    "id": "300537740",
    "name": "Idaho Slammers FC Maroon"
+  },
+  {
+   "club": "IFFC",
+   "id": "300410349",
+   "name": "IFFC Copper - Phillips"
   },
   {
    "club": "Kuna PAL",
@@ -274,11 +279,6 @@
    "club": "Ida-Ore Soccer Club",
    "id": "300410356",
    "name": "Ida - Ore FC Tigers"
-  },
-  {
-   "club": "IFFC",
-   "id": "300410349",
-   "name": "IFFC Copper - Phillips"
   },
   {
    "club": "Valley Soccer Club",
@@ -319,11 +319,6 @@
    "club": "Idaho Rush Soccer Club",
    "id": "11765783",
    "name": "Girls RDL Central Boise"
-  },
-  {
-   "club": "Nampa Premier Soccer Club",
-   "id": "11827723",
-   "name": "Parma- Blaylock"
   },
   {
    "club": "Idaho Rush Soccer Club",
@@ -426,11 +421,6 @@
    "name": "JYSA Rigby Girls"
   },
   {
-   "club": "Nampa Premier Soccer Club",
-   "id": "12337333",
-   "name": "BYE WEEK"
-  },
-  {
    "club": "Western Elite Soccer Club",
    "id": "12338474",
    "name": "Western Elite Girls"
@@ -449,26 +439,6 @@
    "club": "Boise Timbers | Thorns",
    "id": "300410370",
    "name": "Thorns Elite"
-  },
-  {
-   "club": "Nampa Premier Soccer Club",
-   "id": "300410388",
-   "name": "- Ostler"
-  },
-  {
-   "club": "Nampa Premier Soccer Club",
-   "id": "300410389",
-   "name": "- Cahan"
-  },
-  {
-   "club": "Nampa Premier Soccer Club",
-   "id": "300410390",
-   "name": "- Sargenti"
-  },
-  {
-   "club": "Nampa Premier Soccer Club",
-   "id": "300410391",
-   "name": "- Barta/Wells Case"
   },
   {
    "club": "Idaho Rush Soccer Club",

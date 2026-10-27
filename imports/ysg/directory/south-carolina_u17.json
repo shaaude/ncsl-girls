@@ -1,7 +1,7 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-20T13:08:46.493845+00:00",
+ "fetched_at": "2026-10-27T13:44:24.062466+00:00",
  "state": "SC",
  "state_slug": "south-carolina",
  "teams": [
@@ -41,14 +41,14 @@
    "name": "CESA Liberty ECNL"
   },
   {
+   "club": "Furman United SC",
+   "id": "12330765",
+   "name": "DPL"
+  },
+  {
    "club": "South Carolina United FC",
    "id": "300517246",
    "name": "South Carolina United ECNL RL"
-  },
-  {
-   "club": "Lowcountry United Soccer Academy",
-   "id": "300549073",
-   "name": "Aspire"
   },
   {
    "club": "Bulls Soccer Club",
@@ -59,6 +59,16 @@
    "club": "South Carolina United FC",
    "id": "300540582",
    "name": "South Carolina United ECNL RL"
+  },
+  {
+   "club": "Clemson Anderson SA",
+   "id": "300356135",
+   "name": "CASA Pride Girls Premier (SC)"
+  },
+  {
+   "club": "Lowcountry United Soccer Academy",
+   "id": "300549073",
+   "name": "Aspire"
   },
   {
    "club": "Carolina Elite Soccer Academy",
@@ -76,19 +86,9 @@
    "name": "CSC Girls DPL"
   },
   {
-   "club": "Clemson Anderson SA",
-   "id": "300356135",
-   "name": "CASA Pride Girls Premier (SC)"
-  },
-  {
    "club": "Lowcountry United Soccer Academy",
    "id": "300356144",
    "name": "DPL"
-  },
-  {
-   "club": "Charlotte Independence SC",
-   "id": "11715235",
-   "name": "CISC MAT DPL"
   },
   {
    "club": "Carolina Football Club",
@@ -101,9 +101,49 @@
    "name": "NPL"
   },
   {
+   "club": "Charlotte Independence SC",
+   "id": "11715235",
+   "name": "CISC MAT DPL"
+  },
+  {
    "club": "Tormenta FC",
    "id": "300356143",
    "name": "DPL"
+  },
+  {
+   "club": "South Carolina Surf SC",
+   "id": "300517248",
+   "name": "South Carolina Surf ECNL"
+  },
+  {
+   "club": "South Carolina Surf SC",
+   "id": "300540583",
+   "name": "South Carolina Surf ECNL RL"
+  },
+  {
+   "club": "Coast FA",
+   "id": "300559926",
+   "name": "Coast Red"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "300559927",
+   "name": "Charlotte SA Gold ECNL RL"
+  },
+  {
+   "club": "Charlotte Independence SC",
+   "id": "300503793",
+   "name": "Aspire South"
+  },
+  {
+   "club": "Charlotte Independence SC",
+   "id": "300559928",
+   "name": "Aspire South"
+  },
+  {
+   "club": "Congaree Rapid FC",
+   "id": "300495114",
+   "name": "Congaree Rapid FC Sky (SC)"
   },
   {
    "club": "Furman United Soccer Club",
@@ -111,14 +151,9 @@
    "name": "United FC Elite Piedmont (Club Based)"
   },
   {
-   "club": "Coast FA",
-   "id": "11848522",
+   "club": "Coast Futbol Alliance",
+   "id": "16273900",
    "name": "Coast Red"
-  },
-  {
-   "club": "South Carolina Surf SC",
-   "id": "300540583",
-   "name": "South Carolina Surf ECNL RL"
   },
   {
    "club": "Technical Soccer Club",
@@ -151,56 +186,6 @@
    "name": "SCUFC Girls Challenge Red"
   },
   {
-   "club": "South Carolina Surf SC",
-   "id": "300517248",
-   "name": "South Carolina Surf ECNL"
-  },
-  {
-   "club": "Charlotte Independence SC",
-   "id": "12284382",
-   "name": "Aspire South"
-  },
-  {
-   "club": "Furman United SC",
-   "id": "12330765",
-   "name": "DPL"
-  },
-  {
-   "club": "Charlotte Independence SC",
-   "id": "300503793",
-   "name": "Aspire South"
-  },
-  {
-   "club": "Congaree Rapid FC",
-   "id": "300495114",
-   "name": "Congaree Rapid FC Sky (SC)"
-  },
-  {
-   "club": "Alpha Soccer Academy",
-   "id": "300356158",
-   "name": "Alpha SA Girls"
-  },
-  {
-   "club": "Fort Mill United",
-   "id": "300356157",
-   "name": "FMU Girls EPL"
-  },
-  {
-   "club": "Coast Futbol Alliance",
-   "id": "300356156",
-   "name": "Coast Red"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "14186100",
-   "name": "Charlotte SA Gold ECNL RL"
-  },
-  {
-   "club": "Lakeland Toros",
-   "id": "300356146",
-   "name": "Lakeland Toros Girls"
-  },
-  {
    "club": "Carolina Rush FC",
    "id": "16146700",
    "name": "Carolina Rush FC Girls Blue"
@@ -211,9 +196,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Coast Futbol Alliance",
-   "id": "16273900",
-   "name": "Coast Red"
+   "club": "Alpha Soccer Academy",
+   "id": "300356158",
+   "name": "Alpha SA Girls"
   },
   {
    "club": "Ashley River Soccer Club",
@@ -229,6 +214,21 @@
    "club": "Carolina Elite SA",
    "id": "16276100",
    "name": "CESA Pre ECNL-RL"
+  },
+  {
+   "club": "Lakeland Toros",
+   "id": "300356146",
+   "name": "Lakeland Toros Girls"
+  },
+  {
+   "club": "Coast Futbol Alliance",
+   "id": "300356156",
+   "name": "Coast Red"
+  },
+  {
+   "club": "Fort Mill United",
+   "id": "300356157",
+   "name": "FMU Girls EPL"
   }
  ]
 }

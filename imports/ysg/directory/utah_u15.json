@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-20T13:15:46.533145+00:00",
+ "fetched_at": "2026-10-27T13:51:24.106156+00:00",
  "state": "UT",
  "state_slug": "utah",
  "teams": [
@@ -9,6 +9,11 @@
    "club": "Utah Avalanche Soccer Club",
    "id": "300386623",
    "name": "ECNL"
+  },
+  {
+   "club": "Utah Celtic FC",
+   "id": "300386584",
+   "name": "GA"
   },
   {
    "club": "La Roca Futbol Club",
@@ -19,11 +24,6 @@
    "club": "La Roca Futbol Club",
    "id": "300386616",
    "name": "FC ECNL"
-  },
-  {
-   "club": "Utah Celtic FC",
-   "id": "300386584",
-   "name": "GA"
   },
   {
    "club": "City SC Utah",
@@ -51,14 +51,14 @@
    "name": "ECNL RL"
   },
   {
-   "club": "City SC Utah",
-   "id": "300386566",
-   "name": "City SC UT DPL"
-  },
-  {
    "club": "Wasatch SC",
    "id": "300386579",
    "name": "Aspire"
+  },
+  {
+   "club": "Utah Avalanche Soccer Club",
+   "id": "300386621",
+   "name": "Utah Avalanche ECNL-RL"
   },
   {
    "club": "Utah Celtic FC",
@@ -66,9 +66,9 @@
    "name": "Aspire"
   },
   {
-   "club": "Utah Avalanche Soccer Club",
-   "id": "300386621",
-   "name": "Utah Avalanche ECNL-RL"
+   "club": "City SC Utah",
+   "id": "300386566",
+   "name": "City SC UT DPL"
   },
   {
    "club": "La Roca FC",
@@ -83,7 +83,7 @@
   {
    "club": "Impact United SC",
    "id": "300386604",
-   "name": "KM Aspire"
+   "name": "Aspire"
   },
   {
    "club": "Wasatch Soccer Club",

@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-10-20T13:05:56.492861+00:00",
+ "fetched_at": "2026-10-27T13:41:34.132502+00:00",
  "state": "RI",
  "state_slug": "rhode-island",
  "teams": [
@@ -31,14 +31,14 @@
    "name": "Inspire"
   },
   {
-   "club": "CYSA - Cumberland Youth Soccer Association",
-   "id": "300466358",
-   "name": "CLP United Girls- Silva"
+   "club": "MACH 1 FC",
+   "id": "300521978",
+   "name": "Girls Elite"
   },
   {
    "club": "Bayside FC",
-   "id": "300454171",
-   "name": "Black"
+   "id": "300521976",
+   "name": "Inspire"
   },
   {
    "club": "MACH 1 FC",
@@ -46,9 +46,24 @@
    "name": "Girls Elite"
   },
   {
+   "club": "Bayside FC",
+   "id": "300454171",
+   "name": "Black"
+  },
+  {
+   "club": "RAMS FC",
+   "id": "300454162",
+   "name": "Rams FC Bournemouth"
+  },
+  {
    "club": "Coventry Soccer Association",
    "id": "300466926",
    "name": "Coventry Chaos"
+  },
+  {
+   "club": "CYSA - Cumberland Youth Soccer Association",
+   "id": "300466358",
+   "name": "CLP United Girls- Silva"
   },
   {
    "club": "Rhode Island Surf",
@@ -66,11 +81,6 @@
    "name": "Premier"
   },
   {
-   "club": "RAMS FC",
-   "id": "300454162",
-   "name": "Rams FC Bournemouth"
-  },
-  {
    "club": "Select RI Strikers",
    "id": "300480272",
    "name": "Select RI Strikers Girls"
@@ -79,6 +89,16 @@
    "club": "MACH 1 FC",
    "id": "300454167",
    "name": "Girls HyperSonic"
+  },
+  {
+   "club": "OSNK United",
+   "id": "300485488",
+   "name": "OSNK United Girls - Buckley"
+  },
+  {
+   "club": "RAMS FC",
+   "id": "300553242",
+   "name": "Rams FC - Girls Espanyol"
   },
   {
    "club": "CLCF Soccer",
@@ -91,79 +111,19 @@
    "name": "EGYSA Fornal"
   },
   {
-   "club": "BGYSA",
-   "id": "300481904",
-   "name": "BGYSA - Brown"
-  },
-  {
-   "club": "Narragansett",
-   "id": "300486823",
-   "name": "10UGR,Narragansett,427,Borsay"
-  },
-  {
-   "club": "RAMS FC",
-   "id": "300553242",
-   "name": "Rams FC - Girls Espanyol"
-  },
-  {
-   "club": "MACH 1 FC",
-   "id": "300521978",
-   "name": "Girls Elite"
-  },
-  {
-   "club": "CYSA - Cumberland Youth Soccer Association",
-   "id": "300521977",
-   "name": "CLP United Girls- Ferland"
-  },
-  {
-   "club": "Bayside FC",
-   "id": "300521976",
-   "name": "Inspire"
-  },
-  {
-   "club": "Scorpions Soccer Club",
-   "id": "300521975",
-   "name": "RI Girls Black"
-  },
-  {
-   "club": "Portsmouth YSA",
-   "id": "300487100",
-   "name": "10UGCPYSA-604-Kahle"
-  },
-  {
-   "club": "Middletown Youth Soccer Club",
-   "id": "300486825",
-   "name": "10UGMYSC-Rhody-Teeters"
-  },
-  {
-   "club": "Middletown Youth Soccer Club",
-   "id": "300486824",
-   "name": "10UGMYSC-Classic-Teeters"
-  },
-  {
    "club": "Smithfield YSA",
    "id": "15546100",
    "name": "Smithfield Strikers Pacheco"
   },
   {
-   "club": "Barrington Soccer",
-   "id": "300486822",
-   "name": "R Barr/BYSA Bella Spirit"
+   "club": "BGYSA",
+   "id": "300481904",
+   "name": "BGYSA - Brown"
   },
   {
-   "club": "OSNK United",
-   "id": "300485488",
-   "name": "OSNK United Girls - Buckley"
-  },
-  {
-   "club": "Warwick Fire Fighters SC",
-   "id": "300484903",
-   "name": "10UGAWFF814-Enright"
-  },
-  {
-   "club": "CLCF Soccer",
-   "id": "300484902",
-   "name": "CLCF - Academy #"
+   "club": "Pawtucket YSA",
+   "id": "300483737",
+   "name": "561,PawtYSA,U11GA,Luis"
   },
   {
    "club": "BGYSA",
@@ -171,9 +131,49 @@
    "name": "10UGC-BGYSA-DEGRANDPRE-67"
   },
   {
-   "club": "Pawtucket YSA",
-   "id": "300483737",
-   "name": "561,PawtYSA,U11GA,Luis"
+   "club": "CLCF Soccer",
+   "id": "300484902",
+   "name": "CLCF - Academy #"
+  },
+  {
+   "club": "Warwick Fire Fighters SC",
+   "id": "300484903",
+   "name": "10UGAWFF814-Enright"
+  },
+  {
+   "club": "Barrington Soccer",
+   "id": "300486822",
+   "name": "R Barr/BYSA Bella Spirit"
+  },
+  {
+   "club": "Narragansett",
+   "id": "300486823",
+   "name": "10UGR,Narragansett,427,Borsay"
+  },
+  {
+   "club": "Middletown Youth Soccer Club",
+   "id": "300486824",
+   "name": "10UGMYSC-Classic-Teeters"
+  },
+  {
+   "club": "Middletown Youth Soccer Club",
+   "id": "300486825",
+   "name": "10UGMYSC-Rhody-Teeters"
+  },
+  {
+   "club": "Portsmouth YSA",
+   "id": "300487100",
+   "name": "10UGCPYSA-604-Kahle"
+  },
+  {
+   "club": "Scorpions Soccer Club",
+   "id": "300521975",
+   "name": "RI Girls Black"
+  },
+  {
+   "club": "CYSA - Cumberland Youth Soccer Association",
+   "id": "300521977",
+   "name": "CLP United Girls- Ferland"
   },
   {
    "club": "Middletown Youth Soccer Club",

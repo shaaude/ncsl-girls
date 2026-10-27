@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-10-20T11:53:46.477815+00:00",
+ "fetched_at": "2026-10-27T12:29:24.056976+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
@@ -9,6 +9,11 @@
    "club": "Virginia Development Academy",
    "id": "300347005",
    "name": "VDA ECNL"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300529333",
+   "name": "ECNL"
   },
   {
    "club": "Richmond United",
@@ -26,6 +31,11 @@
    "name": "ECNL"
   },
   {
+   "club": "Virginia Revolution SC",
+   "id": "300346975",
+   "name": "Girls Academy"
+  },
+  {
    "club": "Fairfax Virginia Union",
    "id": "300346992",
    "name": "Fairfax VA Union ECNL"
@@ -36,19 +46,9 @@
    "name": "Beach FC (VA) ECNL"
   },
   {
-   "club": "Virginia Revolution SC",
-   "id": "300346975",
-   "name": "Girls Academy"
-  },
-  {
    "club": "Alexandria Soccer Association",
    "id": "300482375",
    "name": "Alexandria Futsal Girls GA Griffins"
-  },
-  {
-   "club": "Virginia United FC",
-   "id": "300346980",
-   "name": "Virginia United ECNL RL"
   },
   {
    "club": "Beach FC",
@@ -56,9 +56,9 @@
    "name": "VA) ECNL"
   },
   {
-   "club": "Virginia Soccer Association",
-   "id": "300539810",
-   "name": "VSA ECNL RL"
+   "club": "Virginia United FC",
+   "id": "300346980",
+   "name": "Virginia United ECNL RL"
   },
   {
    "club": "Skyline Elite SC",
@@ -66,14 +66,14 @@
    "name": "GA"
   },
   {
+   "club": "Virginia Soccer Association",
+   "id": "300539810",
+   "name": "VSA ECNL RL"
+  },
+  {
    "club": "Northern Virginia Alliance",
    "id": "300346947",
    "name": "GA"
-  },
-  {
-   "club": "Great Falls Reston Soccer Club",
-   "id": "300346923",
-   "name": "GFRSC Blue"
   },
   {
    "club": "Springfield SYC Soccer",
@@ -91,14 +91,19 @@
    "name": "GA"
   },
   {
-   "club": "Vienna Youth Soccer",
-   "id": "300346919",
-   "name": "VYS ECNL RL Phoenix"
+   "club": "Great Falls Reston Soccer Club",
+   "id": "300346923",
+   "name": "GFRSC Blue"
   },
   {
    "club": "Loudoun Soccer Club",
    "id": "300346935",
    "name": "GA"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "300346919",
+   "name": "VYS ECNL RL Phoenix"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -116,29 +121,29 @@
    "name": "GA"
   },
   {
-   "club": "Richmond United",
-   "id": "300346889",
-   "name": "RU ORANGE ECNL RL"
-  },
-  {
    "club": "Lee-Mt. Vernon Sports Club",
    "id": "300539812",
    "name": "LMVSC ECNL RL"
   },
   {
-   "club": "Virginia Beach City FC",
-   "id": "300346937",
-   "name": "VB City FC Girls Academy I"
+   "club": "Richmond United",
+   "id": "300346889",
+   "name": "RU ORANGE ECNL RL"
   },
   {
-   "club": "Beach FC",
-   "id": "300346933",
-   "name": "NPL Mystic"
+   "club": "Virginia Revolution SC",
+   "id": "300346885",
+   "name": "Aspire"
   },
   {
    "club": "The St. James Football Club",
    "id": "300346895",
    "name": "GA"
+  },
+  {
+   "club": "Virginia Beach City FC",
+   "id": "300346937",
+   "name": "VB City FC Girls Academy I"
   },
   {
    "club": "FC Richmond",
@@ -151,34 +156,9 @@
    "name": "Arlington Soccer Association ECNL RL"
   },
   {
-   "club": "Virginia Revolution SC",
-   "id": "300346885",
-   "name": "Aspire"
-  },
-  {
-   "club": "Fredericksburg FC",
-   "id": "300346914",
-   "name": "- EDP"
-  },
-  {
-   "club": "Herndon Youth Soccer",
-   "id": "300346930",
-   "name": "Herndon (VA)"
-  },
-  {
    "club": "Grove United",
    "id": "300347006",
    "name": "Gold"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300346907",
-   "name": "RU RED ECNL RL"
-  },
-  {
-   "club": "Virginia Soccer Association",
-   "id": "300346997",
-   "name": "VSA PREMIER RED (VA)"
   },
   {
    "club": "Northern Piedmont Sports Club",
@@ -186,9 +166,24 @@
    "name": "NPSC United Girls Premier Black"
   },
   {
+   "club": "McLean Youth Soccer",
+   "id": "300346917",
+   "name": "Aspire"
+  },
+  {
+   "club": "Herndon Youth Soccer",
+   "id": "300346930",
+   "name": "Herndon (VA)"
+  },
+  {
    "club": "Beach FC",
    "id": "300516526",
    "name": "VA) ECNL RL"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "300346997",
+   "name": "VSA PREMIER RED (VA)"
   },
   {
    "club": "Richmond United",
@@ -201,38 +196,18 @@
    "name": "RU RED NPL ELITE"
   },
   {
+   "club": "Fredericksburg FC",
+   "id": "300346914",
+   "name": "- EDP"
+  },
+  {
    "club": "Arlington Soccer Association",
    "id": "300347010",
    "name": "Arlington SA Blue"
   },
   {
-   "club": "Piedmont Youth Soccer League",
-   "id": "300512632",
-   "name": "PYSL Hurricanes Girls"
-  },
-  {
    "club": "Alexandria Soccer Association",
    "id": "300346905",
-   "name": "Aspire"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300346888",
-   "name": "RU ORANGE NPL ELITE"
-  },
-  {
-   "club": "McLean Youth Soccer",
-   "id": "300346917",
-   "name": "Aspire"
-  },
-  {
-   "club": "Virginia Valor FC",
-   "id": "300347020",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Springfield SYC Soccer",
-   "id": "300346886",
    "name": "Aspire"
   },
   {
@@ -241,14 +216,24 @@
    "name": "SVU. Girls Navy"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "300347011",
-   "name": "Arlington SA White"
+   "club": "Virginia Valor FC",
+   "id": "300347020",
+   "name": "ECNL RL"
   },
   {
-   "club": "Stafford Soccer",
-   "id": "300516546",
-   "name": "Stafford Revolution ECNL RL"
+   "club": "Richmond United",
+   "id": "300346888",
+   "name": "RU ORANGE NPL ELITE"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "300346886",
+   "name": "Aspire"
+  },
+  {
+   "club": "Piedmont Youth Soccer League",
+   "id": "300512632",
+   "name": "PYSL Hurricanes Girls"
   },
   {
    "club": "Virginia Valor FC",
@@ -261,24 +246,29 @@
    "name": "VRSC Black"
   },
   {
-   "club": "Loudoun Soccer Club",
-   "id": "300346902",
-   "name": "Aspire"
-  },
-  {
    "club": "Stafford Soccer",
    "id": "300346898",
    "name": "Stafford Revolution White"
   },
   {
+   "club": "Loudoun Soccer Club",
+   "id": "300346902",
+   "name": "Aspire"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "300347011",
+   "name": "Arlington SA White"
+  },
+  {
+   "club": "Colonial Heights Soccer Association",
+   "id": "300529330",
+   "name": "Tri Cities United - CHSA PL Premier (VA)"
+  },
+  {
    "club": "Nelson Express Travel Soccer",
    "id": "300346927",
    "name": "NETS VCSL HS Girls Travel"
-  },
-  {
-   "club": "Augusta United SC",
-   "id": "300346903",
-   "name": "Girls"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -342,11 +332,6 @@
   },
   {
    "club": "Northern Virginia Soccer Club - Rec",
-   "id": "11643694",
-   "name": "NVSC-R HW - Rivers"
-  },
-  {
-   "club": "Northern Virginia Soccer Club - Rec",
    "id": "11643695",
    "name": "NVSC-R HW - Romo"
   },
@@ -359,11 +344,6 @@
    "club": "Prince William Courage - Rec",
    "id": "11643724",
    "name": "PW-R"
-  },
-  {
-   "club": "BRYC Academy",
-   "id": "11680346",
-   "name": "BRYC Elite Academy ECNL RL"
   },
   {
    "club": "Greene Futbol Club",
@@ -551,9 +531,14 @@
    "name": "VB City FC Girls Academy II"
   },
   {
-   "club": "BRYC Elite Academy",
-   "id": "300346904",
-   "name": "BRYC Academy ECRL"
+   "club": "Augusta United SC",
+   "id": "300346903",
+   "name": "Girls"
+  },
+  {
+   "club": "Richmond United",
+   "id": "300346907",
+   "name": "RU RED ECNL RL"
   },
   {
    "club": "Lee Mount Vernon Soccer Club",
@@ -569,6 +554,11 @@
    "club": "Prince William Soccer Inc",
    "id": "300346926",
    "name": "PW Courage RL"
+  },
+  {
+   "club": "Beach FC",
+   "id": "300346933",
+   "name": "NPL Mystic"
   },
   {
    "club": "Richmond United",
@@ -621,11 +611,6 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Inter Virginia FC",
-   "id": "300479071",
-   "name": "INTER Virginia FC: Girls NPL"
-  },
-  {
    "club": "Alexandria Soccer Association",
    "id": "300482517",
    "name": "Alexandria Futsal Girls GA Aspire"
@@ -671,19 +656,14 @@
    "name": "ECNL RL"
   },
   {
+   "club": "Stafford Soccer",
+   "id": "300516546",
+   "name": "Stafford Revolution ECNL RL"
+  },
+  {
    "club": "Loudoun Soccer Club",
    "id": "300529327",
    "name": "Loudoun Black"
-  },
-  {
-   "club": "Colonial Heights Soccer Association",
-   "id": "300529330",
-   "name": "Tri Cities United - CHSA PL Premier (VA)"
-  },
-  {
-   "club": "Richmond United",
-   "id": "300529333",
-   "name": "ECNL"
   },
   {
    "club": "Richmond United",

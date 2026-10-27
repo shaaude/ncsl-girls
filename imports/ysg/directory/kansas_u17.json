@@ -1,14 +1,24 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-20T12:26:36.442081+00:00",
+ "fetched_at": "2026-10-27T13:02:14.082662+00:00",
  "state": "KS",
  "state_slug": "kansas",
  "teams": [
   {
+   "club": "Kansas City Athletics",
+   "id": "300351813",
+   "name": "ECNL"
+  },
+  {
    "club": "Kansas Rush",
    "id": "300540235",
    "name": "Gold ECNL RL"
+  },
+  {
+   "club": "FC Wichita",
+   "id": "300540237",
+   "name": "Red ECNL RL"
   },
   {
    "club": "Kansas Rush",
@@ -16,19 +26,9 @@
    "name": "GA"
   },
   {
-   "club": "Kansas City Athletics",
-   "id": "300351813",
-   "name": "ECNL"
-  },
-  {
    "club": "Toca Fusion Athletic Club",
    "id": "300540233",
    "name": "Toca Fusion Elite ECNL RL"
-  },
-  {
-   "club": "FC Wichita",
-   "id": "300540237",
-   "name": "Red ECNL RL"
   },
   {
    "club": "KC Athletics",
@@ -46,9 +46,19 @@
    "name": "ECNL"
   },
   {
+   "club": "Sporting Blue Valley Soccer Club",
+   "id": "300516873",
+   "name": "ECNL"
+  },
+  {
    "club": "FC Wichita",
    "id": "300351764",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "300540242",
+   "name": "BLUE ECNL RL"
   },
   {
    "club": "Kansas City Surf",
@@ -56,19 +66,9 @@
    "name": "ECNL-RL"
   },
   {
-   "club": "Sporting Blue Valley Soccer Club",
-   "id": "300516873",
-   "name": "ECNL"
-  },
-  {
    "club": "Toca FC",
    "id": "300351685",
    "name": "Aspire"
-  },
-  {
-   "club": "Kansas City Surf",
-   "id": "300540242",
-   "name": "BLUE ECNL RL"
   },
   {
    "club": "KC Athletics",
@@ -86,19 +86,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "KC Atletico",
-   "id": "300351888",
-   "name": "KC Atletico"
-  },
-  {
    "club": "Union KC Soccer Club",
    "id": "300351681",
    "name": "GA"
-  },
-  {
-   "club": "Kansas City Athletics",
-   "id": "300351812",
-   "name": "ECNL RL"
   },
   {
    "club": "Toca Fusion Athletic Club",
@@ -106,19 +96,34 @@
    "name": "Toca Fusion Premier ECNL RL"
   },
   {
+   "club": "KC Atletico",
+   "id": "300351888",
+   "name": "KC Atletico"
+  },
+  {
+   "club": "Kansas City Athletics",
+   "id": "300351812",
+   "name": "ECNL RL"
+  },
+  {
    "club": "Sporting Wichita",
    "id": "300351678",
    "name": "Sporting Wichita Academy"
   },
   {
-   "club": "KC Fusion",
-   "id": "300351804",
-   "name": "ECNL RL"
+   "club": "Sporting City Soccer Club",
+   "id": "300558946",
+   "name": "Aspire"
   },
   {
    "club": "Kansas Rush",
    "id": "300540239",
    "name": "Blue ECNL RL"
+  },
+  {
+   "club": "KC Fusion",
+   "id": "300351804",
+   "name": "ECNL RL"
   },
   {
    "club": "Kansas Rush",
@@ -129,11 +134,6 @@
    "club": "Toca FC",
    "id": "300351783",
    "name": "Premier"
-  },
-  {
-   "club": "Kansas City Surf",
-   "id": "11662306",
-   "name": "KC SURF NPL"
   },
   {
    "club": "KC Athletics",
@@ -201,6 +201,16 @@
    "name": "KC Athletics Bayern"
   },
   {
+   "club": "FC Wichita",
+   "id": "16852450",
+   "name": "FCW ECNL-RL Navy"
+  },
+  {
+   "club": "McPherson City FC",
+   "id": "16853150",
+   "name": "Mid Kansas United HSG"
+  },
+  {
    "club": "Kansas Rush",
    "id": "16862000",
    "name": "Topeka Rush HS Girls"
@@ -219,6 +229,21 @@
    "club": "Leavenworth United Soccer Club",
    "id": "16862200",
    "name": "LUSC HS Girls"
+  },
+  {
+   "club": "FC Wichita",
+   "id": "17329350",
+   "name": "FC Wichita HSG White"
+  },
+  {
+   "club": "Raptors SC",
+   "id": "17329400",
+   "name": "Lady Raptors HSG"
+  },
+  {
+   "club": "VC Fusion",
+   "id": "17329500",
+   "name": "VC Fusion"
   },
   {
    "club": "Union KC Soccer Club",
@@ -364,11 +389,6 @@
    "club": "Sporting Wichita",
    "id": "300551457",
    "name": "Sporting Wichita Pre-Academy"
-  },
-  {
-   "club": "Sporting City Soccer Club",
-   "id": "300558946",
-   "name": "Aspire"
   }
  ]
 }

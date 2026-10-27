@@ -1,10 +1,15 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-20T13:16:46.496908+00:00",
+ "fetched_at": "2026-10-27T13:52:24.109113+00:00",
  "state": "VT",
  "state_slug": "vermont",
  "teams": [
+  {
+   "club": "Colchester SC",
+   "id": "300554591",
+   "name": "Colchester Black"
+  },
   {
    "club": "Nordic SC",
    "id": "300536004",
@@ -16,21 +21,6 @@
    "name": "Williston SC Girls Reign"
   },
   {
-   "club": "Williston Soccer Club",
-   "id": "300536003",
-   "name": "Williston SC Girls Dash"
-  },
-  {
-   "club": "Nordic SC",
-   "id": "300536002",
-   "name": "Nordic Girls"
-  },
-  {
-   "club": "Williston SC",
-   "id": "300527352",
-   "name": "Williston SC Wolves"
-  },
-  {
    "club": "Barre Soccer Club",
    "id": "300536006",
    "name": "Barre SC Girls"
@@ -39,16 +29,6 @@
    "club": "Barre Soccer Club",
    "id": "300536007",
    "name": "Barre SC Girls"
-  },
-  {
-   "club": "Williston SC",
-   "id": "300527353",
-   "name": "Williston SC Wave"
-  },
-  {
-   "club": "Georgia United SC",
-   "id": "300554589",
-   "name": "Georgia United Girls Blue"
   },
   {
    "club": "Soccer Roots",
@@ -66,9 +46,9 @@
    "name": "Queen City FC Girls White"
   },
   {
-   "club": "Colchester SC",
-   "id": "300554600",
-   "name": "Colchester Green"
+   "club": "Georgia United SC",
+   "id": "300554589",
+   "name": "Georgia United Girls Blue"
   },
   {
    "club": "Plattsburgh FC",
@@ -76,9 +56,9 @@
    "name": "Storm Chasers"
   },
   {
-   "club": "Colchester SC",
-   "id": "300554591",
-   "name": "Colchester Black"
+   "club": "Williston Soccer Club",
+   "id": "300536003",
+   "name": "Williston SC Girls Dash"
   },
   {
    "club": "Plattsburgh FC",
@@ -121,24 +101,14 @@
    "name": "Lunas"
   },
   {
-   "club": "Northeast FC Wildcats",
-   "id": "300536001",
-   "name": "girls Wood"
+   "club": "Colchester SC",
+   "id": "300554600",
+   "name": "Colchester Green"
   },
   {
-   "club": "Far Post SC",
-   "id": "300496787",
-   "name": "FPSC Courage"
-  },
-  {
-   "club": "Far Post SC",
-   "id": "14879150",
-   "name": "Far Post Girls Spirit"
-  },
-  {
-   "club": "Far Post SC",
-   "id": "14879100",
-   "name": "Far Post Girls Pride"
+   "club": "Burlington FC",
+   "id": "12163955",
+   "name": "Burlington FC Girls"
   },
   {
    "club": "Burlington FC",
@@ -146,9 +116,44 @@
    "name": "Burlington FC Girls Blue"
   },
   {
+   "club": "Far Post SC",
+   "id": "14879100",
+   "name": "Far Post Girls Pride"
+  },
+  {
+   "club": "Far Post SC",
+   "id": "14879150",
+   "name": "Far Post Girls Spirit"
+  },
+  {
    "club": "Burlington FC",
-   "id": "12163955",
+   "id": "15843200",
    "name": "Burlington FC Girls"
+  },
+  {
+   "club": "Far Post SC",
+   "id": "300496787",
+   "name": "FPSC Courage"
+  },
+  {
+   "club": "Williston SC",
+   "id": "300527352",
+   "name": "Williston SC Wolves"
+  },
+  {
+   "club": "Williston SC",
+   "id": "300527353",
+   "name": "Williston SC Wave"
+  },
+  {
+   "club": "Northeast FC Wildcats",
+   "id": "300536001",
+   "name": "girls Wood"
+  },
+  {
+   "club": "Nordic SC",
+   "id": "300536002",
+   "name": "Nordic Girls"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-10-20T11:55:26.456258+00:00",
+ "fetched_at": "2026-10-27T12:31:04.050036+00:00",
  "state": "MD",
  "state_slug": "maryland",
  "teams": [
@@ -11,9 +11,9 @@
    "name": "GA"
   },
   {
-   "club": "Bethesda Soccer Club",
-   "id": "300516911",
-   "name": "ECNL"
+   "club": "Bethesda SC",
+   "id": "300516912",
+   "name": "Bethesda SC ECNL"
   },
   {
    "club": "Baltimore Celtic Soccer Club",
@@ -22,8 +22,8 @@
   },
   {
    "club": "Maryland United Football Club",
-   "id": "300516905",
-   "name": "ECNL"
+   "id": "300516906",
+   "name": "Maryland United FC ECNL"
   },
   {
    "club": "Coppermine Soccer Club",
@@ -36,11 +36,6 @@
    "name": "ECNL"
   },
   {
-   "club": "Bethesda Soccer Club",
-   "id": "300352284",
-   "name": "Bethesda E RL"
-  },
-  {
    "club": "Baltimore Armour",
    "id": "300352226",
    "name": "Aspire"
@@ -51,24 +46,9 @@
    "name": "Girls NAL"
   },
   {
-   "club": "Maryland Rush",
-   "id": "300352258",
-   "name": "Aspire"
-  },
-  {
-   "club": "Old Line Football Club",
-   "id": "300352237",
-   "name": "Old Line FC Girls Black"
-  },
-  {
-   "club": "Maryland United Football Club",
-   "id": "300516904",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "FC Frederick",
-   "id": "300352248",
-   "name": "10G"
+   "club": "Bethesda SC",
+   "id": "300516913",
+   "name": "Bethesda SC ECNL RL"
   },
   {
    "club": "Elevate Soccer Academy",
@@ -76,14 +56,34 @@
    "name": "ESA Girls"
   },
   {
-   "club": "Baltimore Bays Soccer Club",
-   "id": "300352239",
-   "name": "Pride USYS NL"
+   "club": "Maryland Rush",
+   "id": "300352258",
+   "name": "Aspire"
+  },
+  {
+   "club": "Maryland United Football Club",
+   "id": "300516907",
+   "name": "Maryland United FC ECNL RL"
   },
   {
    "club": "Baltimore Union Soccer Club",
    "id": "300352223",
-   "name": "Elite"
+   "name": "Elite (MD)"
+  },
+  {
+   "club": "FC Frederick",
+   "id": "300352248",
+   "name": "10G"
+  },
+  {
+   "club": "Old Line Football Club",
+   "id": "300352237",
+   "name": "Old Line FC Girls Black"
+  },
+  {
+   "club": "Baltimore Bays Soccer Club",
+   "id": "300352239",
+   "name": "Baltimore Bays Pride (MD)"
   },
   {
    "club": "Coppermine Soccer Club",
@@ -116,14 +116,19 @@
    "name": "MSI Girls Gold"
   },
   {
+   "club": "Potomac Soccer Association",
+   "id": "300352188",
+   "name": "Potomac Premier II"
+  },
+  {
    "club": "FCGB Center of Excellence",
    "id": "300352222",
    "name": "FCGB CoE Girls Academy"
   },
   {
-   "club": "Liverpool FC International Academy Maryland",
-   "id": "300529569",
-   "name": "DC Metro Girls Red"
+   "club": "Maryland Rush",
+   "id": "300352202",
+   "name": "Rush (MD)"
   },
   {
    "club": "District of Columbia Football Club",
@@ -131,14 +136,14 @@
    "name": "District of Columbia Football Club Girls"
   },
   {
-   "club": "Potomac Soccer Association",
-   "id": "300352188",
-   "name": "Potomac Premier II South"
-  },
-  {
    "club": "Davidsonville Football Club",
    "id": "300352196",
    "name": "Davidsonville FC EDP RAL"
+  },
+  {
+   "club": "Liverpool FC International Academy Maryland",
+   "id": "300529569",
+   "name": "DC Metro Girls Red"
   },
   {
    "club": "Rockville Olney Soccer Academy Legends",
@@ -146,19 +151,14 @@
    "name": "Girls ROSA Legends White"
   },
   {
-   "club": "Potomac Soccer Association",
-   "id": "300352228",
-   "name": "Aspire"
-  },
-  {
    "club": "Baltimore Bays Soccer Club",
    "id": "300352241",
    "name": "Baltimore Bays Rampage Girls"
   },
   {
-   "club": "Maryland Rush",
-   "id": "300352202",
-   "name": "Rush"
+   "club": "Potomac Soccer Association",
+   "id": "300352228",
+   "name": "Aspire"
   },
   {
    "club": "Thunder SC of Howard County",
@@ -171,14 +171,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Maryland Elite Soccer Club",
-   "id": "300352205",
-   "name": "MESC Maryland-Elite"
-  },
-  {
-   "club": "Coppermine Soccer Club",
-   "id": "300352235",
-   "name": "Coppermine SC Girls Blue West"
+   "club": "Baltimore Celtic Soccer Club",
+   "id": "300352227",
+   "name": "Green"
   },
   {
    "club": "Old Line Football Club",
@@ -186,19 +181,24 @@
    "name": "Old Line FC Girls Red"
   },
   {
-   "club": "DC Way Academy",
-   "id": "300352204",
-   "name": "DCWA G - Elite"
-  },
-  {
-   "club": "Baltimore Celtic Soccer Club",
-   "id": "300352227",
-   "name": "Green"
+   "club": "Coppermine Soccer Club",
+   "id": "300352235",
+   "name": "Coppermine SC West"
   },
   {
    "club": "Baltimore Union Soccer Club",
    "id": "300352221",
    "name": "Select"
+  },
+  {
+   "club": "Maryland Elite Soccer Club",
+   "id": "300352205",
+   "name": "MESC Maryland-Elite"
+  },
+  {
+   "club": "DC Way Academy",
+   "id": "300352204",
+   "name": "DCWA G - Elite"
   },
   {
    "club": "City SC Frederick",
@@ -211,9 +211,19 @@
    "name": "CSA Premier"
   },
   {
-   "club": "Susquehanna Football Club",
-   "id": "300352260",
-   "name": "SFC Girls Express"
+   "club": "Northern Baltimore United",
+   "id": "300529567",
+   "name": "Northern Baltimore United Girls Blue"
+  },
+  {
+   "club": "Bowie Boys and Girls Club",
+   "id": "300352209",
+   "name": "Bowie FC Red"
+  },
+  {
+   "club": "Maryland Fusion Soccer",
+   "id": "300352192",
+   "name": "MDFusion Select Girls White"
   },
   {
    "club": "Broadneck Soccer Club",
@@ -221,14 +231,19 @@
    "name": "BSC Bandits"
   },
   {
-   "club": "Northern Baltimore United",
-   "id": "300529567",
-   "name": "Northern Baltimore United Girls Blue"
+   "club": "Harford FC United",
+   "id": "300529570",
+   "name": "HFC United Girls DPL"
   },
   {
-   "club": "Maryland Fusion Soccer",
-   "id": "300352192",
-   "name": "MDFusion Select Girls White"
+   "club": "Susquehanna Football Club",
+   "id": "300352260",
+   "name": "SFC Girls Express"
+  },
+  {
+   "club": "DC Soccer Club",
+   "id": "300352208",
+   "name": "Aspire"
   },
   {
    "club": "Soccer Association of Columbia",
@@ -241,24 +256,9 @@
    "name": "CCSC Girls Rage"
   },
   {
-   "club": "Harford FC United",
-   "id": "300529570",
-   "name": "HFC United Girls DPL"
-  },
-  {
-   "club": "DC Soccer Club",
-   "id": "300352208",
-   "name": "Aspire"
-  },
-  {
    "club": "FC Frederick",
    "id": "300352261",
    "name": "FC Frederick Royal"
-  },
-  {
-   "club": "Bowie Boys and Girls Club",
-   "id": "300352209",
-   "name": "Bowie FC Red"
   },
   {
    "club": "FCGB Center of Excellence",
@@ -271,19 +271,24 @@
    "name": "MSI Girls Silver"
   },
   {
-   "club": "Capital City United Soccer Academy",
-   "id": "300467667",
-   "name": "Capital City United"
-  },
-  {
    "club": "HERO Soccer Club Academy LLC",
    "id": "300512844",
    "name": "Hero Girls"
   },
   {
+   "club": "Capital City United Soccer Academy",
+   "id": "300467667",
+   "name": "Capital City United"
+  },
+  {
    "club": "Mount Washington Soccer Club, Inc.",
    "id": "300512843",
    "name": "Mount Washington SC Girls Sky"
+  },
+  {
+   "club": "Baltimore Armour/SAC",
+   "id": "300472942",
+   "name": "GA"
   },
   {
    "club": "Pipeline SC",
@@ -293,26 +298,6 @@
   {
    "club": "Pipeline SC",
    "id": "300516900",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Maryland United Football Club",
-   "id": "300516906",
-   "name": "Maryland United FC ECNL"
-  },
-  {
-   "club": "Maryland United Football Club",
-   "id": "300516907",
-   "name": "Maryland United FC ECNL RL"
-  },
-  {
-   "club": "Bethesda SC",
-   "id": "300516912",
-   "name": "ECNL"
-  },
-  {
-   "club": "Bethesda SC",
-   "id": "300516913",
    "name": "ECNL RL"
   },
   {
@@ -351,9 +336,9 @@
    "name": "Mousquetaires"
   },
   {
-   "club": "Baltimore Armour/SAC",
-   "id": "300472942",
-   "name": "GA"
+   "club": "Cecil Soccer League",
+   "id": "300352253",
+   "name": "Cecil FC Girls"
   },
   {
    "club": "Harundale Youth Sports League",
@@ -374,11 +359,6 @@
    "club": "Takoma Park Soccer Club",
    "id": "300352200",
    "name": "Takoma United"
-  },
-  {
-   "club": "Cecil Soccer League",
-   "id": "300352253",
-   "name": "Cecil FC Girls"
   }
  ]
 }

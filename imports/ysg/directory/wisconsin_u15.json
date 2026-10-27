@@ -1,139 +1,19 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-20T13:23:06.523635+00:00",
+ "fetched_at": "2026-10-27T13:58:44.134911+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
-  {
-   "club": "Elmbrook United",
-   "id": "300387544",
-   "name": "GA"
-  },
-  {
-   "club": "North Shore United",
-   "id": "300387534",
-   "name": "GA"
-  },
-  {
-   "club": "SC Wave",
-   "id": "15595550",
-   "name": "GA"
-  },
-  {
-   "club": "FC Wisconsin",
-   "id": "300387555",
-   "name": "ECNL"
-  },
-  {
-   "club": "Rush Union Wisconsin",
-   "id": "300387516",
-   "name": "Girls Premier"
-  },
-  {
-   "club": "Wisconsin United FC",
-   "id": "300387524",
-   "name": "Aspire"
-  },
   {
    "club": "MC United Soccer Club",
    "id": "11740535",
    "name": "Aspire"
   },
   {
-   "club": "Elmbrook United",
-   "id": "300387520",
-   "name": "Aspire"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300387504",
-   "name": "GA"
-  },
-  {
-   "club": "Polonia SC",
-   "id": "300387511",
-   "name": "Polonia (WI)"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300387503",
-   "name": "FC Wisconsin ECNL"
-  },
-  {
-   "club": "Port Washington Soccer Club",
-   "id": "300387508",
-   "name": "PWSC"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300513912",
-   "name": "Aspire"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300387550",
-   "name": "Madison Girls White"
-  },
-  {
-   "club": "SC Wave",
-   "id": "300387535",
-   "name": "GA"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300387522",
-   "name": "WWFC"
-  },
-  {
    "club": "Wisconsin United Football Club",
    "id": "11949060",
    "name": "WIUFC Girls Elite I"
-  },
-  {
-   "club": "FC Wisconsin",
-   "id": "300387553",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Croatian Eagles SC",
-   "id": "300464664",
-   "name": "Aspire"
-  },
-  {
-   "club": "North Shore United",
-   "id": "300477023",
-   "name": "Aspire"
-  },
-  {
-   "club": "Milwaukee Kickers Academy",
-   "id": "300387509",
-   "name": "Milwaukee Kickers DPL"
-  },
-  {
-   "club": "Fond du Lac Soccer Association",
-   "id": "300488815",
-   "name": "Fondy Phoenix Girls Red"
-  },
-  {
-   "club": "RUSH Wisconsin Soccer Club",
-   "id": "300387506",
-   "name": "Rush WI Girls Rush"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300387529",
-   "name": "FC Wisconsin ECNL RL"
-  },
-  {
-   "club": "SC Wave",
-   "id": "300477024",
-   "name": "Aspire"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300387514",
-   "name": "WW VSA"
   },
   {
    "club": "Polonia Soccer Club",
@@ -271,6 +151,11 @@
    "name": "NSU Germantown Girls Blue"
   },
   {
+   "club": "SC Wave",
+   "id": "15595550",
+   "name": "GA"
+  },
+  {
    "club": "RUSH Wisconsin West",
    "id": "16036500",
    "name": "LXU Girls Elite"
@@ -316,9 +201,44 @@
    "name": "WR Kicker Girls Bickelhaupt/Barker"
   },
   {
+   "club": "FC Wisconsin Girls",
+   "id": "300387503",
+   "name": "FC Wisconsin ECNL"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "300387504",
+   "name": "GA"
+  },
+  {
+   "club": "RUSH Wisconsin Soccer Club",
+   "id": "300387506",
+   "name": "Rush WI Girls Rush"
+  },
+  {
    "club": "AC Toros",
    "id": "300387507",
    "name": "AC Toros Girls Red"
+  },
+  {
+   "club": "Port Washington Soccer Club",
+   "id": "300387508",
+   "name": "PWSC"
+  },
+  {
+   "club": "Milwaukee Kickers Academy",
+   "id": "300387509",
+   "name": "Milwaukee Kickers DPL"
+  },
+  {
+   "club": "Polonia SC",
+   "id": "300387511",
+   "name": "Polonia (WI)"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "300387514",
+   "name": "WW VSA"
   },
   {
    "club": "Platteville Power Soccer Club",
@@ -326,9 +246,24 @@
    "name": "Platteville Power Soccer Club"
   },
   {
+   "club": "Rush Union Wisconsin",
+   "id": "300387516",
+   "name": "Girls Premier"
+  },
+  {
    "club": "Polonia SC",
    "id": "300387519",
    "name": "Polonia Girls Red - State"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "300387520",
+   "name": "Aspire"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "300387522",
+   "name": "WWFC"
   },
   {
    "club": "Croatian Eagles Soccer Club",
@@ -336,9 +271,64 @@
    "name": "Croatian Eagles MWC"
   },
   {
+   "club": "Wisconsin United FC",
+   "id": "300387524",
+   "name": "Aspire"
+  },
+  {
    "club": "Rush Union Wisconsin",
    "id": "300387525",
    "name": "Rush Union WI Girls Select"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "300387529",
+   "name": "FC Wisconsin ECNL RL"
+  },
+  {
+   "club": "North Shore United",
+   "id": "300387534",
+   "name": "GA"
+  },
+  {
+   "club": "SC Wave",
+   "id": "300387535",
+   "name": "GA"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "300387544",
+   "name": "GA"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "300387550",
+   "name": "Madison Girls White"
+  },
+  {
+   "club": "FC Wisconsin",
+   "id": "300387553",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "FC Wisconsin",
+   "id": "300387555",
+   "name": "ECNL"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "300464664",
+   "name": "Aspire"
+  },
+  {
+   "club": "North Shore United",
+   "id": "300477023",
+   "name": "Aspire"
+  },
+  {
+   "club": "SC Wave",
+   "id": "300477024",
+   "name": "Aspire"
   },
   {
    "club": "Lake Country FC",
@@ -396,9 +386,19 @@
    "name": "NSU Germantown Girls Blue"
   },
   {
+   "club": "Fond du Lac Soccer Association",
+   "id": "300488815",
+   "name": "Fondy Phoenix Girls Red"
+  },
+  {
    "club": "AFC Union",
    "id": "300495308",
    "name": "AFC Union Premier"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "300513912",
+   "name": "Aspire"
   },
   {
    "club": "Western Wisconsin Soccer",

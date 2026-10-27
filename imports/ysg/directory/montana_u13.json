@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-10-20T12:42:26.493355+00:00",
+ "fetched_at": "2026-10-27T13:18:04.075382+00:00",
  "state": "MT",
  "state_slug": "montana",
  "teams": [
@@ -31,19 +31,9 @@
    "name": "HYSA Blue"
   },
   {
-   "club": "Montana Surf",
-   "id": "300415291",
-   "name": "MT SURF White"
-  },
-  {
    "club": "Real Billings FC",
    "id": "300415286",
    "name": "REAL Black"
-  },
-  {
-   "club": "Helena Youth Soccer Association",
-   "id": "300551211",
-   "name": "HYSA"
   },
   {
    "club": "Montana Rush Soccer Club",
@@ -51,9 +41,19 @@
    "name": "MT Rush"
   },
   {
+   "club": "Helena Youth Soccer Association",
+   "id": "300551211",
+   "name": "HYSA"
+  },
+  {
    "club": "Flathead Valley United SC",
    "id": "300415290",
    "name": "FVU Green-AC"
+  },
+  {
+   "club": "Montana Surf",
+   "id": "300415291",
+   "name": "MT SURF White"
   },
   {
    "club": "Glacier Surf Soccer Club",
@@ -66,19 +66,14 @@
    "name": "GESC black"
   },
   {
-   "club": "Strikers FC",
-   "id": "300415274",
-   "name": "SFC"
-  },
-  {
    "club": "Real Billings Football Club",
    "id": "300415293",
    "name": "REAL Silver"
   },
   {
-   "club": "Flathead Valley United SC",
-   "id": "300415276",
-   "name": "FVU White-AC"
+   "club": "Strikers FC",
+   "id": "300415274",
+   "name": "SFC"
   },
   {
    "club": "Strikers FC",
@@ -89,6 +84,11 @@
    "club": "Polson FC",
    "id": "300476566",
    "name": "PFC"
+  },
+  {
+   "club": "Flathead Valley United SC",
+   "id": "300415276",
+   "name": "FVU White-AC"
   },
   {
    "club": "Helena Youth Soccer Association",
@@ -119,11 +119,6 @@
    "club": "Montana Youth Soccer",
    "id": "300465181",
    "name": "ODP Red"
-  },
-  {
-   "club": "Laurel Storm",
-   "id": "300415282",
-   "name": "LST G"
   },
   {
    "club": "Missoula Surf",

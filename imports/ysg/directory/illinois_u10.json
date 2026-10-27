@@ -1,7 +1,7 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-20T12:19:56.473585+00:00",
+ "fetched_at": "2026-10-27T12:55:34.115575+00:00",
  "state": "IL",
  "state_slug": "illinois",
  "teams": [
@@ -16,19 +16,24 @@
    "name": "Chicago Empire FC Gold"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "300494710",
-   "name": "SLSG IL G Liverpool"
-  },
-  {
    "club": "Northwind Soccer Club",
    "id": "300459761",
    "name": "Premier I"
   },
   {
+   "club": "St. Louis Scott Gallagher",
+   "id": "300494710",
+   "name": "SLSG IL G Liverpool"
+  },
+  {
    "club": "Pink Cheetahs SC",
    "id": "300549678",
    "name": "Pink Cheetahs SC"
+  },
+  {
+   "club": "Geneseo Soccer Club",
+   "id": "300476697",
+   "name": "GSC Girls"
   },
   {
    "club": "GlenEd",
@@ -51,11 +56,6 @@
    "name": "Metro Alliance YA Blue"
   },
   {
-   "club": "Geneseo Soccer Club",
-   "id": "300476697",
-   "name": "GSC Girls"
-  },
-  {
    "club": "SASA Spirits SC",
    "id": "300459741",
    "name": "SASA Spirits West"
@@ -66,19 +66,14 @@
    "name": "FCCI Girls Select"
   },
   {
-   "club": "BLFC",
-   "id": "300523859",
-   "name": "BLFC Girls (Black)"
-  },
-  {
    "club": "SASA Spirits SC",
    "id": "300538303",
    "name": "SASA Spirits"
   },
   {
-   "club": "Pegasus FC",
-   "id": "300459778",
-   "name": "Pegasus FC Girls Red"
+   "club": "BLFC",
+   "id": "300523859",
+   "name": "BLFC Girls (Black)"
   },
   {
    "club": "Park Ridge SC",
@@ -86,9 +81,9 @@
    "name": "PRSC G Orange"
   },
   {
-   "club": "Metro Alliance FC",
-   "id": "300459771",
-   "name": "Southern IL Navy"
+   "club": "Roadrunners SC",
+   "id": "300523851",
+   "name": "Roadrunners SC Select"
   },
   {
    "club": "Geneseo Soccer Club",
@@ -106,19 +101,9 @@
    "name": "LASC Premier Girls"
   },
   {
-   "club": "Ela Soccer Club",
-   "id": "300535182",
-   "name": "ELA GIRLS ELITE"
-  },
-  {
    "club": "Chicago City Soccer Club",
    "id": "300489054",
    "name": "Chicago City Girls I"
-  },
-  {
-   "club": "Roadrunners SC",
-   "id": "300523851",
-   "name": "Roadrunners SC Select"
   },
   {
    "club": "Illinois FC",
@@ -126,9 +111,9 @@
    "name": "Illinois FC Girls Orange"
   },
   {
-   "club": "Northwest Indiana Surf",
-   "id": "300523863",
-   "name": "Northwest Indiana Surf Girls Blue"
+   "club": "Calcio Hawks Rush",
+   "id": "300552593",
+   "name": "Calcio Hawks Rush Lady Hawks"
   },
   {
    "club": "FC Mayas",
@@ -141,9 +126,9 @@
    "name": "Sangamo United FC Queen Bees"
   },
   {
-   "club": "Calcio Hawks Rush",
-   "id": "300552593",
-   "name": "Calcio Hawks Rush Lady Hawks"
+   "club": "Metro Alliance FC",
+   "id": "300459771",
+   "name": "Southern IL Navy"
   },
   {
    "club": "Quad Cities Rush",
@@ -151,14 +136,14 @@
    "name": "Quad Cities Rush Girls"
   },
   {
+   "club": "GlenEd",
+   "id": "300459760",
+   "name": "United"
+  },
+  {
    "club": "Metro Alliance FC",
    "id": "300459772",
    "name": "Elite"
-  },
-  {
-   "club": "Morton United FC",
-   "id": "300476347",
-   "name": "Morton United FC GIRLS RED"
   },
   {
    "club": "Germantown Hills Athletic Association",
@@ -166,14 +151,14 @@
    "name": "GHAA Fire SC"
   },
   {
-   "club": "Impact FC",
-   "id": "300535184",
-   "name": "Girls"
+   "club": "Quad Cities Rush",
+   "id": "300459759",
+   "name": "Quad Cities Rush Girls"
   },
   {
-   "club": "SASA Spirits SC",
-   "id": "300459756",
-   "name": "SASA Spirits East"
+   "club": "Morton United FC",
+   "id": "300476347",
+   "name": "Morton United FC GIRLS RED"
   },
   {
    "club": "WC Lions Academy SC",
@@ -181,9 +166,24 @@
    "name": "WC LIONS ACADEMY"
   },
   {
-   "club": "GlenEd",
-   "id": "300459760",
-   "name": "United"
+   "club": "Metro Alliance FC",
+   "id": "300553298",
+   "name": "Metro Alliance YA Red"
+  },
+  {
+   "club": "Pegasus FC",
+   "id": "300459778",
+   "name": "Pegasus FC Girls Red"
+  },
+  {
+   "club": "Ela Soccer Club",
+   "id": "300535182",
+   "name": "ELA GIRLS ELITE"
+  },
+  {
+   "club": "SASA Spirits SC",
+   "id": "300459756",
+   "name": "SASA Spirits East"
   },
   {
    "club": "MidState Soccer Club",
@@ -201,14 +201,29 @@
    "name": "FC Libertyville Orange"
   },
   {
-   "club": "Metro Alliance FC",
-   "id": "300553298",
-   "name": "Metro Alliance YA Red"
+   "club": "Impact FC",
+   "id": "300535184",
+   "name": "Girls"
+  },
+  {
+   "club": "Sockers FC",
+   "id": "300523852",
+   "name": "Sockers FC Girls White"
   },
   {
    "club": "SAA United",
    "id": "300489619",
    "name": "SAA United SC - Girls Black"
+  },
+  {
+   "club": "Germantown Hills Athletic Association",
+   "id": "300459757",
+   "name": "Fire Soccer Club"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "300474544",
+   "name": "SLSG IL G Nottingham Forest Red"
   },
   {
    "club": "Chicago Inter",
@@ -221,24 +236,14 @@
    "name": "FC Central Illinois Girls"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "300474544",
-   "name": "SLSG IL G Nottingham Forest Red"
-  },
-  {
-   "club": "MidState Soccer Club",
-   "id": "300459780",
-   "name": "MidState Girls"
-  },
-  {
    "club": "Inter South Soccer Club",
    "id": "300547225",
    "name": "Inter South Girls Blue"
   },
   {
-   "club": "Quad Cities Rush",
-   "id": "300459759",
-   "name": "Quad Cities Rush Girls"
+   "club": "Northwest Indiana Surf",
+   "id": "300523863",
+   "name": "Northwest Indiana Surf Girls Blue"
   },
   {
    "club": "Peoria FC United",
@@ -246,19 +251,9 @@
    "name": "PFCU Racing"
   },
   {
-   "club": "Germantown Hills Athletic Association",
-   "id": "300459757",
-   "name": "Fire Soccer Club"
-  },
-  {
-   "club": "SCFC",
-   "id": "300549316",
-   "name": "Bulldogs SCFC"
-  },
-  {
-   "club": "Greater Libertyville Soccer Association",
-   "id": "300459768",
-   "name": "FC Libertyville Black"
+   "club": "MidState Soccer Club",
+   "id": "300459780",
+   "name": "MidState Girls"
   },
   {
    "club": "FC Central Illinois",
@@ -271,9 +266,14 @@
    "name": "LASC Girls Select"
   },
   {
-   "club": "Sockers FC",
-   "id": "300523852",
-   "name": "Sockers FC Girls White"
+   "club": "Greater Libertyville Soccer Association",
+   "id": "300459768",
+   "name": "FC Libertyville Black"
+  },
+  {
+   "club": "SCFC",
+   "id": "300549316",
+   "name": "Bulldogs SCFC"
   },
   {
    "club": "QC Elite",
@@ -291,19 +291,19 @@
    "name": "Metro Alliance YA White"
   },
   {
-   "club": "Soy City Soccer Club",
-   "id": "300535187",
-   "name": "Soy City SC"
-  },
-  {
    "club": "Lincoln FC",
    "id": "300547221",
    "name": "Lincoln FC"
   },
   {
-   "club": "Sangamo United FC",
-   "id": "300459753",
-   "name": "Sangamon United FC Honey Bees"
+   "club": "Soy City Soccer Club",
+   "id": "300535187",
+   "name": "Soy City SC"
+  },
+  {
+   "club": "MVSC",
+   "id": "300553297",
+   "name": "MV Lightning"
   },
   {
    "club": "Morton United FC",
@@ -311,14 +311,14 @@
    "name": "Morton United FC Girls GREY"
   },
   {
+   "club": "Sangamo United FC",
+   "id": "300459753",
+   "name": "Sangamon United FC Honey Bees"
+  },
+  {
    "club": "Mahomet-Seymour Soccer Club",
    "id": "300459754",
    "name": "MSSC"
-  },
-  {
-   "club": "MVSC",
-   "id": "300553297",
-   "name": "MV Lightning"
   },
   {
    "club": "East Moline Silvis Soccer Club",

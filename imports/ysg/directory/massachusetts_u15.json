@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-20T12:33:36.492892+00:00",
+ "fetched_at": "2026-10-27T13:09:14.155060+00:00",
  "state": "MA",
  "state_slug": "massachusetts",
  "teams": [
@@ -16,14 +16,14 @@
    "name": "ECNL"
   },
   {
-   "club": "FC Stars",
-   "id": "300379151",
-   "name": "White ECNL"
-  },
-  {
    "club": "NEFC",
    "id": "300379072",
    "name": "GA Red"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300379151",
+   "name": "White ECNL"
   },
   {
    "club": "Scorpions SC",
@@ -31,19 +31,24 @@
    "name": "ECNL"
   },
   {
-   "club": "Select",
-   "id": "300379102",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Seacoast United Massachusetts",
-   "id": "300379071",
-   "name": "Aspire"
-  },
-  {
    "club": "New England Surf",
    "id": "300379146",
-   "name": "ECNL RL"
+   "name": "New England Surf ECNL RL"
+  },
+  {
+   "club": "Select",
+   "id": "300542136",
+   "name": "South ECNL RL"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300542133",
+   "name": "FC Stars New Hampshire ECNL RL"
+  },
+  {
+   "club": "FC Boston Bolts",
+   "id": "300379088",
+   "name": "Aspire"
   },
   {
    "club": "SFC New England",
@@ -51,14 +56,9 @@
    "name": "SFC NAL Elite"
   },
   {
-   "club": "FC Stars",
-   "id": "300379154",
-   "name": "FC Stars ECNL Skyblue RL Girls"
-  },
-  {
-   "club": "FC Boston Bolts",
-   "id": "300379088",
-   "name": "Aspire"
+   "club": "NEFC",
+   "id": "300379034",
+   "name": "NEFC South DPL"
   },
   {
    "club": "FC Stars",
@@ -67,18 +67,18 @@
   },
   {
    "club": "NEFC",
-   "id": "300379034",
-   "name": "NEFC South DPL"
+   "id": "300379093",
+   "name": "Aspire"
   },
   {
-   "club": "NEFC",
-   "id": "300379093",
+   "club": "Seacoast United Massachusetts",
+   "id": "300379071",
    "name": "Aspire"
   },
   {
    "club": "IFA",
    "id": "300379062",
-   "name": "IFA New England DPL"
+   "name": "West Blue (MA)"
   },
   {
    "club": "Scorpions SC",
@@ -87,8 +87,13 @@
   },
   {
    "club": "Scorpions SC",
-   "id": "300379157",
-   "name": "ECNL Regional"
+   "id": "300379075",
+   "name": "MetroWest Girls Black"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "300542138",
+   "name": "ECNL RL"
   },
   {
    "club": "NEFC",
@@ -101,19 +106,14 @@
    "name": "New England Surf State Sky"
   },
   {
-   "club": "Scorpions SC",
-   "id": "300379075",
-   "name": "MetroWest Girls Black"
+   "club": "Western United Pioneers FC",
+   "id": "300379130",
+   "name": "Aspire"
   },
   {
    "club": "New England Force",
    "id": "300379060",
    "name": "New England Force South Shore DPL"
-  },
-  {
-   "club": "Western United Pioneers FC",
-   "id": "300379130",
-   "name": "Aspire"
   },
   {
    "club": "NEFC",
@@ -136,14 +136,19 @@
    "name": "Aspire"
   },
   {
-   "club": "FC Boston Bolts",
-   "id": "300379131",
-   "name": "Boston Bolts West NAL"
-  },
-  {
    "club": "FC Stars",
    "id": "300518584",
    "name": "Blue ECNL RL"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300379037",
+   "name": "FC Stars New Hampshire Granite (Mon.)"
+  },
+  {
+   "club": "FC Boston Bolts",
+   "id": "300379131",
+   "name": "Boston Bolts West NAL"
   },
   {
    "club": "America FC United",
@@ -152,23 +157,8 @@
   },
   {
    "club": "Select",
-   "id": "300379099",
-   "name": "NAL Navy"
-  },
-  {
-   "club": "NEFC",
-   "id": "300379127",
-   "name": "NEFC Blackstone Valley Girls Pre-RAL"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300379037",
-   "name": "FC Stars New Hampshire Granite (Mon.)"
-  },
-  {
-   "club": "New England Force",
-   "id": "300379063",
-   "name": "New England Force Southeast DPL"
+   "id": "11686035",
+   "name": "South ECNL RL"
   },
   {
    "club": "Seacoast United Massachusetts",
@@ -177,13 +167,8 @@
   },
   {
    "club": "Select",
-   "id": "11686035",
-   "name": "South ECNL RL"
-  },
-  {
-   "club": "NEFC",
-   "id": "300379036",
-   "name": "NEFC Central DPL"
+   "id": "300379099",
+   "name": "NAL Navy"
   },
   {
    "club": "Vipers FC",
@@ -191,14 +176,29 @@
    "name": "Vipers DPL"
   },
   {
+   "club": "New England Force",
+   "id": "300379063",
+   "name": "New England Force Southeast DPL"
+  },
+  {
    "club": "Scorpions SC",
    "id": "300379039",
    "name": "Scorpions SC East Black"
   },
   {
+   "club": "NEFC",
+   "id": "300379127",
+   "name": "NEFC Blackstone Valley Girls Pre-RAL"
+  },
+  {
    "club": "Select",
-   "id": "300379050",
-   "name": "North ECNL RL"
+   "id": "300542132",
+   "name": "Northeast ECNL RL"
+  },
+  {
+   "club": "NEFC",
+   "id": "300379036",
+   "name": "NEFC Central DPL"
   },
   {
    "club": "AC Independence",
@@ -212,43 +212,13 @@
   },
   {
    "club": "FC Stars",
+   "id": "300379030",
+   "name": "FC Stars Acton Blue"
+  },
+  {
+   "club": "FC Stars",
    "id": "300379111",
    "name": "East Wilmington Girls Blue"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300379030",
-   "name": "FC Stars Acton Girls Blue"
-  },
-  {
-   "club": "Select",
-   "id": "300379058",
-   "name": "NAL Sky Blue"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300379043",
-   "name": "FC Stars Worcester Girls Blue"
-  },
-  {
-   "club": "IFA",
-   "id": "300379108",
-   "name": "NAL Girls"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "300379138",
-   "name": "State Select Girls"
-  },
-  {
-   "club": "New England Force",
-   "id": "300379085",
-   "name": "New England Force Girls RAL"
-  },
-  {
-   "club": "New England Surf",
-   "id": "300379065",
-   "name": "State Royal"
   },
   {
    "club": "MA Rush",
@@ -256,19 +226,19 @@
    "name": "MA RUSH - NORTH Girls"
   },
   {
-   "club": "NEFC",
-   "id": "300379045",
-   "name": "NEFC Boston Azzurri RAL"
+   "club": "Scorpions SC",
+   "id": "300379138",
+   "name": "State Select Girls"
   },
   {
-   "club": "Lexington United Soccer Club",
-   "id": "300466641",
-   "name": "LPDA"
+   "club": "Select",
+   "id": "300379058",
+   "name": "NAL Sky Blue"
   },
   {
-   "club": "FC Stars",
-   "id": "300379087",
-   "name": "FC Stars Northboro Girls Blue"
+   "club": "IFA",
+   "id": "300379108",
+   "name": "NAL Girls"
   },
   {
    "club": "Harvest Soccer Club",
@@ -276,29 +246,19 @@
    "name": "Harvest SC Girls"
   },
   {
-   "club": "United Soccer Group",
-   "id": "300379095",
-   "name": "USG Girls Black"
+   "club": "FC Stars",
+   "id": "300379043",
+   "name": "FC Stars Worcester Girls Blue"
   },
   {
-   "club": "FC Boston Bolts",
-   "id": "300379101",
-   "name": "FC Boston Bolts DPL"
-  },
-  {
-   "club": "Wellesley Premier Club",
-   "id": "300379057",
-   "name": "Wellesley Premier Club Girls FC"
+   "club": "FC Stars",
+   "id": "300379087",
+   "name": "FC Stars Northboro Girls Blue"
   },
   {
    "club": "New England Force",
-   "id": "300379083",
-   "name": "New England Force Girls Pre DPL Teal"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "300379073",
-   "name": "Metrowest Girls White"
+   "id": "300379085",
+   "name": "New England Force Girls RAL"
   },
   {
    "club": "NEFC",
@@ -306,24 +266,74 @@
    "name": "NEFC Newton Girls Academy"
   },
   {
+   "club": "New England Surf",
+   "id": "300379065",
+   "name": "New England Surf State Royal"
+  },
+  {
+   "club": "NEFC",
+   "id": "300379045",
+   "name": "NEFC Boston Azzurri RAL"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "300379073",
+   "name": "Metrowest Girls White"
+  },
+  {
+   "club": "United Soccer Group",
+   "id": "300379095",
+   "name": "USG Girls Black"
+  },
+  {
+   "club": "Lexington United Soccer Club",
+   "id": "300466641",
+   "name": "LPDA"
+  },
+  {
+   "club": "New England Force",
+   "id": "300379083",
+   "name": "New England Force Girls Pre DPL Teal"
+  },
+  {
+   "club": "America FC United",
+   "id": "300379126",
+   "name": "AFC Premier"
+  },
+  {
    "club": "AC Independence",
    "id": "300379055",
    "name": "ACI Lighthouse Girls"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "300379069",
-   "name": "Girls Mass Elite Teal"
+   "club": "Valeo Futbol Club",
+   "id": "300379038",
+   "name": "ROYALS"
   },
   {
-   "club": "NEFC",
-   "id": "300379124",
-   "name": "North Shore Girls Red"
+   "club": "FC Boston Bolts",
+   "id": "300379101",
+   "name": "FC Boston Bolts DPL"
   },
   {
-   "club": "Sudbury Academy",
-   "id": "300379125",
-   "name": "Sudbury Academy - Gunners"
+   "club": "Sphinx Soccer Academy",
+   "id": "300530580",
+   "name": "Sphinx Soccer Academy Girls Elite"
+  },
+  {
+   "club": "Select",
+   "id": "300379128",
+   "name": "South Shore Impact Sky Blue"
+  },
+  {
+   "club": "Select",
+   "id": "300495249",
+   "name": "North Shore Pink"
+  },
+  {
+   "club": "Wellesley Premier Club",
+   "id": "300379057",
+   "name": "Wellesley Premier Club Girls FC"
   },
   {
    "club": "Best FC",
@@ -336,24 +346,19 @@
    "name": "West Girls NAL"
   },
   {
-   "club": "America FC United",
-   "id": "300379126",
-   "name": "AFC Premier"
+   "club": "Seacoast United Massachusetts",
+   "id": "300379069",
+   "name": "Girls Mass Elite Teal"
   },
   {
-   "club": "Select",
-   "id": "300379128",
-   "name": "South Shore Impact Sky Blue"
+   "club": "Sudbury Academy",
+   "id": "300379125",
+   "name": "Sudbury Academy - Gunners"
   },
   {
-   "club": "Valeo Futbol Club",
-   "id": "300379038",
-   "name": "ROYALS"
-  },
-  {
-   "club": "Green Lions SA",
-   "id": "300466190",
-   "name": "GL White"
+   "club": "NEFC",
+   "id": "300379124",
+   "name": "North Shore Girls Red"
   },
   {
    "club": "NEFC",
@@ -366,24 +371,14 @@
    "name": "Girls"
   },
   {
-   "club": "IFA",
-   "id": "300379119",
-   "name": "Greater Lowell Girls Blue"
-  },
-  {
-   "club": "Green Lions SA",
-   "id": "300379092",
-   "name": "Green Lions FC"
-  },
-  {
-   "club": "Sphinx Soccer Academy",
-   "id": "300530580",
-   "name": "Sphinx Soccer Academy Girls Elite"
-  },
-  {
    "club": "IFA South Shore",
    "id": "300379035",
    "name": "IFA South Shore Girls Blue"
+  },
+  {
+   "club": "IFA",
+   "id": "300379119",
+   "name": "Greater Lowell Girls Blue"
   },
   {
    "club": "IFA",
@@ -396,39 +391,14 @@
    "name": "Magellan"
   },
   {
+   "club": "Green Lions SA",
+   "id": "300379092",
+   "name": "Green Lions FC"
+  },
+  {
    "club": "FC Stars",
    "id": "300379082",
    "name": "New Hampshire Girls Blue"
-  },
-  {
-   "club": "Select",
-   "id": "300495249",
-   "name": "North Shore Girls"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300379103",
-   "name": "FC Stars East Girls Blue"
-  },
-  {
-   "club": "NEFC",
-   "id": "300379137",
-   "name": "NEFC North Shore Girls Navy"
-  },
-  {
-   "club": "NEFC",
-   "id": "300530577",
-   "name": "Blazers Girls"
-  },
-  {
-   "club": "Western United Pioneers FC",
-   "id": "300379109",
-   "name": "Girls Elite White"
-  },
-  {
-   "club": "SFC New England",
-   "id": "300379115",
-   "name": "SFC White"
   },
   {
    "club": "Boston Vigor FC",
@@ -437,8 +407,28 @@
   },
   {
    "club": "NEFC",
-   "id": "300379070",
-   "name": "Metro North Girls Red"
+   "id": "300379137",
+   "name": "NEFC North Shore Girls Navy"
+  },
+  {
+   "club": "FC Stars",
+   "id": "300379103",
+   "name": "FC Stars East Girls Blue"
+  },
+  {
+   "club": "SFC New England",
+   "id": "300379115",
+   "name": "SFC White"
+  },
+  {
+   "club": "Western United Pioneers FC",
+   "id": "300379109",
+   "name": "Girls Elite White"
+  },
+  {
+   "club": "New England Force",
+   "id": "300379091",
+   "name": "New England Force Girls Surge"
   },
   {
    "club": "FC Stars",
@@ -447,13 +437,8 @@
   },
   {
    "club": "NEFC",
-   "id": "300379081",
-   "name": "NEFC Metro West Girls Red"
-  },
-  {
-   "club": "Cambridge City Football Club",
-   "id": "300379049",
-   "name": "Dragons Girls"
+   "id": "300379070",
+   "name": "Metro North Girls Red"
   },
   {
    "club": "NEFC",
@@ -466,9 +451,24 @@
    "name": "South Girls Navy"
   },
   {
-   "club": "New England Force",
-   "id": "300379091",
-   "name": "New England Force Girls Surge"
+   "club": "NEFC",
+   "id": "300530577",
+   "name": "Blazers Girls"
+  },
+  {
+   "club": "NEFC",
+   "id": "300379081",
+   "name": "NEFC Metro West Girls Red"
+  },
+  {
+   "club": "Spirit of Liverpool USA",
+   "id": "300379142",
+   "name": "Girls CELTIC JC"
+  },
+  {
+   "club": "Cambridge City Football Club",
+   "id": "300379049",
+   "name": "Dragons Girls"
   },
   {
    "club": "Wachusett United FC",
@@ -484,11 +484,6 @@
    "club": "FC Boston Bolts",
    "id": "300379061",
    "name": "Boston Bolts Boston Elite"
-  },
-  {
-   "club": "Spirit of Liverpool USA",
-   "id": "300379142",
-   "name": "Girls CELTIC JC"
   },
   {
    "club": "Become Elite Soccer",
@@ -591,14 +586,14 @@
    "name": "Framingham Strikers"
   },
   {
-   "club": "FC Stars",
-   "id": "300379098",
-   "name": "FC Stars ECNL Blue RL Girls"
-  },
-  {
    "club": "Become Elite Soccer",
    "id": "300379106",
    "name": "Girls Team"
+  },
+  {
+   "club": "Green Lions SA",
+   "id": "300466190",
+   "name": "GL White"
   },
   {
    "club": "Sudbury Academy",
@@ -636,34 +631,14 @@
    "name": "Burlington Bayhawks"
   },
   {
-   "club": "Select",
-   "id": "300542132",
-   "name": "Northeast ECNL RL"
-  },
-  {
-   "club": "FC Stars",
-   "id": "300542133",
-   "name": "New Hampshire ECNL RL"
-  },
-  {
    "club": "FC Stars",
    "id": "300542134",
-   "name": "Blue ECNL RL"
+   "name": "FC Stars Blue ECNL RL"
   },
   {
    "club": "FC Stars",
    "id": "300542135",
    "name": "White ECNL RL"
-  },
-  {
-   "club": "Select",
-   "id": "300542136",
-   "name": "South ECNL RL"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "300542138",
-   "name": "ECNL RL"
   },
   {
    "club": "Wachusett United FC",

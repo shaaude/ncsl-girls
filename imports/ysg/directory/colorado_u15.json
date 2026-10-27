@@ -1,19 +1,19 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-20T12:07:56.442260+00:00",
+ "fetched_at": "2026-10-27T12:43:34.029389+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
   {
-   "club": "Colorado Futsal",
-   "id": "300375320",
-   "name": "Futsal"
-  },
-  {
    "club": "Real Colorado",
    "id": "300518450",
    "name": "National ECNL"
+  },
+  {
+   "club": "Colorado Futsal",
+   "id": "300375320",
+   "name": "Futsal"
   },
   {
    "club": "Real Colorado",
@@ -48,7 +48,7 @@
   {
    "club": "Colorado Storm",
    "id": "300518445",
-   "name": "South ECNL RL"
+   "name": "Colorado Storm South ECNL RL"
   },
   {
    "club": "Broomfield Soccer Club",
@@ -76,14 +76,14 @@
    "name": "Central ECNL RL"
   },
   {
-   "club": "Colorado Rapids FC",
-   "id": "300375274",
-   "name": "ECNL RL North"
-  },
-  {
    "club": "Arsenal Colorado",
    "id": "300541887",
    "name": "ECNL RL"
+  },
+  {
+   "club": "Colorado Rapids FC",
+   "id": "300375274",
+   "name": "ECNL RL North"
   },
   {
    "club": "Colorado EDGE SC",
@@ -91,7 +91,12 @@
    "name": "ECNL RL"
   },
   {
-   "club": "Albion SC Colorado",
+   "club": "Real Colorado",
+   "id": "11784553",
+   "name": "ECNL RL"
+  },
+  {
+   "club": "ALBION SC Boulder County",
    "id": "300375256",
    "name": "Boulder County Aspire"
   },
@@ -106,24 +111,19 @@
    "name": "Academy White ECNL RL"
   },
   {
-   "club": "Real Colorado",
-   "id": "11784553",
-   "name": "ECNL RL"
-  },
-  {
    "club": "Colorado EDGE SC",
    "id": "300375268",
    "name": "Colorado EDGE ECNL RL"
   },
   {
-   "club": "Colorado Rush",
-   "id": "300375240",
-   "name": "North DPL"
-  },
-  {
    "club": "ALBION SC Colorado",
    "id": "300375213",
    "name": "ALBION SC Colorado GA"
+  },
+  {
+   "club": "Colorado United",
+   "id": "300375302",
+   "name": "GA"
   },
   {
    "club": "Colorado Rapids Youth Soccer Club",
@@ -136,14 +136,9 @@
    "name": "CO Rush Academy White"
   },
   {
-   "club": "Colorado Rapids FC",
-   "id": "300375278",
-   "name": "ECNL-RL South"
-  },
-  {
-   "club": "Colorado United",
-   "id": "300375302",
-   "name": "GA"
+   "club": "Colorado Rush",
+   "id": "300530408",
+   "name": "ECNL RL"
   },
   {
    "club": "Colorado Rush",
@@ -151,14 +146,19 @@
    "name": "CO Rush - PSD"
   },
   {
-   "club": "Colorado Rush",
-   "id": "300530408",
-   "name": "ECNL RL"
+   "club": "Colorado Rapids FC",
+   "id": "300375278",
+   "name": "ECNL-RL South"
   },
   {
    "club": "Colorado Rapids FC",
    "id": "300375279",
    "name": "Central ECNL RL"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "300375240",
+   "name": "North DPL"
   },
   {
    "club": "Grand Junction Soccer Club",
@@ -171,14 +171,14 @@
    "name": "Olympico ECNL RL"
   },
   {
-   "club": "Premier Soccer Development Academy",
-   "id": "300513681",
-   "name": "PSD Academy Youth Select -"
-  },
-  {
    "club": "Colorado Storm",
    "id": "300513677",
    "name": "CR DPL"
+  },
+  {
+   "club": "Premier Soccer Development Academy",
+   "id": "300513681",
+   "name": "PSD Academy Youth Select -"
   },
   {
    "club": "Colorado Storm",
@@ -186,19 +186,14 @@
    "name": "CR DPL"
   },
   {
-   "club": "Pride Soccer Club",
-   "id": "300375216",
-   "name": "Pride SC Copa"
-  },
-  {
-   "club": "Skyline Soccer Association",
-   "id": "300375264",
-   "name": "Academy"
-  },
-  {
    "club": "Colorado United",
    "id": "300375210",
    "name": "Colorado United DPLO"
+  },
+  {
+   "club": "Pride Soccer Club",
+   "id": "300375216",
+   "name": "Pride SC Copa"
   },
   {
    "club": "Colorado United",
@@ -206,29 +201,24 @@
    "name": "Gold"
   },
   {
+   "club": "Skyline Soccer Association",
+   "id": "300375264",
+   "name": "Academy"
+  },
+  {
    "club": "Northern Colorado Lightning Academy",
    "id": "300375235",
    "name": "Windsor Athletic FC- Black Team"
   },
   {
-   "club": "Broomfield Soccer Club",
-   "id": "300375283",
-   "name": "Prestige DPL"
-  },
-  {
-   "club": "Denver Kickers Sport Club",
-   "id": "300375245",
-   "name": "DPL"
-  },
-  {
-   "club": "ALBION SC Boulder County",
-   "id": "300375254",
-   "name": "Boulder County DPL"
-  },
-  {
    "club": "Grand Junction SC",
    "id": "300558984",
    "name": "Aspire"
+  },
+  {
+   "club": "Broomfield Soccer Club",
+   "id": "300375283",
+   "name": "Prestige DPL"
   },
   {
    "club": "Real Colorado",
@@ -251,14 +241,24 @@
    "name": "Red"
   },
   {
+   "club": "Denver Kickers Sport Club",
+   "id": "300375245",
+   "name": "DPL"
+  },
+  {
    "club": "CO Elevation FC",
    "id": "300513680",
    "name": "Aspire"
   },
   {
-   "club": "Colorado Rush",
-   "id": "300375241",
-   "name": "Colorado Rush East DPL"
+   "club": "CO Elevation FC",
+   "id": "300375214",
+   "name": "Summit"
+  },
+  {
+   "club": "ALBION SC Boulder County",
+   "id": "300375254",
+   "name": "Boulder County DPL"
   },
   {
    "club": "Chivas Denver Soccer Academy",
@@ -271,14 +271,14 @@
    "name": "Colorado EDGE United"
   },
   {
+   "club": "Colorado Rush",
+   "id": "300375241",
+   "name": "Colorado Rush East DPL"
+  },
+  {
    "club": "City SC NOCO",
    "id": "300480872",
    "name": "Aspire"
-  },
-  {
-   "club": "CO Elevation FC",
-   "id": "300375214",
-   "name": "Summit"
   },
   {
    "club": "Durango United",

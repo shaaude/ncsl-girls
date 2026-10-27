@@ -1,10 +1,15 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-10-20T12:02:26.471298+00:00",
+ "fetched_at": "2026-10-27T12:38:04.025345+00:00",
  "state": "AZ",
  "state_slug": "arizona",
  "teams": [
+  {
+   "club": "Utah Royals FC - AZ",
+   "id": "300541723",
+   "name": "Utah Royals FC-AZ ECNL"
+  },
   {
    "club": "AZ Arsenal",
    "id": "300372550",
@@ -21,14 +26,14 @@
    "name": "Arizona Arsenal ECNL"
   },
   {
-   "club": "Utah Royals FC",
-   "id": "300372575",
-   "name": "AZ ECNL"
-  },
-  {
    "club": "Phoenix Rising FC",
    "id": "300372521",
    "name": "ECNL"
+  },
+  {
+   "club": "Utah Royals FC",
+   "id": "300372575",
+   "name": "AZ ECNL"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
@@ -36,14 +41,14 @@
    "name": "AZ Arsenal ECNL"
   },
   {
-   "club": "Utah Royals FC - AZ",
-   "id": "300372586",
-   "name": "Utah Royals FC-AZ ECNL"
-  },
-  {
    "club": "Utah Royals FC",
    "id": "300372574",
    "name": "AZ ECNL RL"
+  },
+  {
+   "club": "Utah Royals FC - AZ",
+   "id": "300372586",
+   "name": "Utah Royals FC-AZ ECNL"
   },
   {
    "club": "East Valley/NSFC",
@@ -56,19 +61,14 @@
    "name": "CCV Stars ECNL RL"
   },
   {
-   "club": "Utah Royals FC - AZ",
-   "id": "300518313",
-   "name": "Utah Royals FC-AZ ECNL RL"
-  },
-  {
    "club": "Next Level Soccer",
    "id": "300372577",
    "name": "Southeast Girls Black"
   },
   {
-   "club": "Phoenix Rising Football Club",
-   "id": "11703094",
-   "name": "Phoenix Rising ECNL RL"
+   "club": "Utah Royals FC - AZ",
+   "id": "300518313",
+   "name": "Utah Royals FC-AZ ECNL RL"
   },
   {
    "club": "SC del Sol",
@@ -81,9 +81,9 @@
    "name": "ECNL RL"
   },
   {
-   "club": "AZ Arsenal",
-   "id": "300372549",
-   "name": "Arizona Arsenal ECNL RL"
+   "club": "Phoenix Rising Football Club",
+   "id": "11703094",
+   "name": "Phoenix Rising ECNL RL"
   },
   {
    "club": "Arizona Soccer Club",
@@ -91,19 +91,19 @@
    "name": "ECNL RL"
   },
   {
+   "club": "AZ Arsenal",
+   "id": "300372549",
+   "name": "Arizona Arsenal ECNL RL"
+  },
+  {
    "club": "Phoenix Premier FC",
    "id": "300372466",
    "name": "Aspire"
   },
   {
-   "club": "Excel Soccer Academy",
-   "id": "300372539",
-   "name": "DPL"
-  },
-  {
-   "club": "Arizona Surf Soccer Club",
-   "id": "300537563",
-   "name": "East Valley G DPL"
+   "club": "FC Elite Arizona",
+   "id": "300372561",
+   "name": "FC Elite Arizona Girls"
   },
   {
    "club": "Synergy FC AZ",
@@ -111,9 +111,14 @@
    "name": "Synergy FC"
   },
   {
-   "club": "FC Elite Arizona",
-   "id": "300372561",
-   "name": "FC Elite Arizona Girls"
+   "club": "Arizona Surf Soccer Club",
+   "id": "300537563",
+   "name": "East Valley G DPL"
+  },
+  {
+   "club": "Excel Soccer Academy",
+   "id": "300372539",
+   "name": "DPL"
   },
   {
    "club": "FC Tucson Youth Soccer",
@@ -126,11 +131,6 @@
    "name": "NOS Santos Girls Blue"
   },
   {
-   "club": "Phoenix Rising FC",
-   "id": "300372499",
-   "name": "Scottsdale AZ"
-  },
-  {
    "club": "SC del Sol",
    "id": "300537562",
    "name": "Aspire"
@@ -141,9 +141,39 @@
    "name": "Ascent United Black"
   },
   {
+   "club": "Phoenix Rising FC",
+   "id": "300372499",
+   "name": "Scottsdale AZ"
+  },
+  {
    "club": "Next Level Soccer",
    "id": "300530314",
    "name": "Southeast Girls"
+  },
+  {
+   "club": "RSL-AZ Southern AZ",
+   "id": "300372486",
+   "name": "DPL"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "300372507",
+   "name": "CCV Stars Girls Laveen"
+  },
+  {
+   "club": "Phoenix Premier FC",
+   "id": "300372533",
+   "name": "DPL"
+  },
+  {
+   "club": "Kingman SC",
+   "id": "300372471",
+   "name": "Bedke"
+  },
+  {
+   "club": "Yavapai Soccer",
+   "id": "300372538",
+   "name": "Select"
   },
   {
    "club": "Canyon Del Oro Soccer Club",
@@ -156,24 +186,9 @@
    "name": "CCV Stars Girls Peoria"
   },
   {
-   "club": "CCV STARS",
-   "id": "300372507",
-   "name": "CCV Stars Girls Laveen"
-  },
-  {
-   "club": "Kingman SC",
-   "id": "300372471",
-   "name": "Bedke"
-  },
-  {
-   "club": "RSL-AZ Southern AZ",
-   "id": "300372486",
-   "name": "DPL"
-  },
-  {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "300372556",
-   "name": "AZ Arsenal ECNL RL"
+   "club": "Paris Saint-Germain Academy Phoenix",
+   "id": "300372564",
+   "name": "PSG Blue Ladies"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
@@ -181,19 +196,24 @@
    "name": "AZ Arsenal Girls Verde Valley"
   },
   {
-   "club": "Paris Saint-Germain Academy Phoenix",
-   "id": "300372564",
-   "name": "PSG Blue Ladies"
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "300372556",
+   "name": "AZ Arsenal ECNL RL"
   },
   {
-   "club": "Yavapai Soccer",
-   "id": "300372538",
-   "name": "Select"
+   "club": "North Valley FC Arizona",
+   "id": "300530310",
+   "name": "NVFCA"
   },
   {
-   "club": "Phoenix Premier FC",
-   "id": "300372533",
-   "name": "DPL"
+   "club": "East Valley/NSFC",
+   "id": "300497018",
+   "name": "East Valley NSFC Girls Gallegos"
+  },
+  {
+   "club": "AYSO United",
+   "id": "300372511",
+   "name": "AZEV (NAVY)"
   },
   {
    "club": "RSL-AZ North",
@@ -206,16 +226,6 @@
    "name": "Northwest Girls"
   },
   {
-   "club": "East Valley/NSFC",
-   "id": "300497018",
-   "name": "East Valley NSFC Girls Gallegos"
-  },
-  {
-   "club": "Phoenix Rush",
-   "id": "300372467",
-   "name": "Phoenix Rush (AZ)"
-  },
-  {
    "club": "CCV STARS",
    "id": "300372558",
    "name": "CCV Stars Girls East Mesa"
@@ -226,14 +236,19 @@
    "name": "Black"
   },
   {
+   "club": "Phoenix Rush",
+   "id": "300372467",
+   "name": "Phoenix Rush (AZ)"
+  },
+  {
    "club": "Vail SC",
    "id": "300372530",
    "name": "VSC Girls Green"
   },
   {
-   "club": "CCV STARS",
-   "id": "300372460",
-   "name": "CCV Stars Girls Surprise"
+   "club": "Phoenix Rising North Valley",
+   "id": "300372498",
+   "name": "PRFC North Valley DPLO"
   },
   {
    "club": "RSL-AZ West Valley",
@@ -241,14 +256,9 @@
    "name": "RSL WV GIRLS"
   },
   {
-   "club": "AYSO United",
-   "id": "300372511",
-   "name": "AZEV (NAVY)"
-  },
-  {
-   "club": "FBSL",
-   "id": "300372525",
-   "name": "Desert Spirit FC G"
+   "club": "CCV STARS",
+   "id": "300372460",
+   "name": "CCV Stars Girls Surprise"
   },
   {
    "club": "North Scottsdale Soccer Club",
@@ -271,18 +281,13 @@
    "name": "North Predator"
   },
   {
+   "club": "FBSL",
+   "id": "300372525",
+   "name": "Desert Spirit FC G"
+  },
+  {
    "club": "Arizona Soccer Club",
    "id": "300372526",
-   "name": "DPL"
-  },
-  {
-   "club": "Phoenix Rising North Valley",
-   "id": "300372498",
-   "name": "PRFC North Valley DPLO"
-  },
-  {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "300372527",
    "name": "DPL"
   },
   {
@@ -301,34 +306,9 @@
    "name": "East Valley Surf Peacock"
   },
   {
-   "club": "RSL-AZ South",
-   "id": "300372503",
-   "name": "HMolina Royals DPLO"
-  },
-  {
-   "club": "SC del Sol",
-   "id": "300372509",
-   "name": "Aspire"
-  },
-  {
-   "club": "RSL-AZ North",
-   "id": "300372461",
-   "name": "Barrett Royals"
-  },
-  {
    "club": "Arizona Arsenal Soccer Club",
-   "id": "300372477",
-   "name": "AZ Arsenal Girls Teal RR"
-  },
-  {
-   "club": "Arizona Storm F.C.",
-   "id": "300372583",
-   "name": "Girls Blue"
-  },
-  {
-   "club": "Phoenix Rising North Valley",
-   "id": "300530307",
-   "name": "PRFC North Valley Predator"
+   "id": "300372527",
+   "name": "DPL"
   },
   {
    "club": "Roadrunners YSC",
@@ -336,14 +316,44 @@
    "name": "Girls Seigel"
   },
   {
-   "club": "Phoenix Rush",
-   "id": "300372562",
-   "name": "Rush Nero Girls"
+   "club": "SC del Sol",
+   "id": "300372509",
+   "name": "Aspire"
+  },
+  {
+   "club": "RSL-AZ South",
+   "id": "300372503",
+   "name": "HMolina Royals DPLO"
+  },
+  {
+   "club": "Arizona Storm F.C.",
+   "id": "300372583",
+   "name": "Girls Blue"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "300372477",
+   "name": "AZ Arsenal Girls Teal RR"
+  },
+  {
+   "club": "RSL-AZ North",
+   "id": "300372461",
+   "name": "Barrett Royals"
+  },
+  {
+   "club": "Phoenix Rising North Valley",
+   "id": "300530307",
+   "name": "PRFC North Valley Predator"
   },
   {
    "club": "Arizona Surf Soccer Club",
    "id": "300372487",
    "name": "Pima G"
+  },
+  {
+   "club": "Phoenix Rush",
+   "id": "300372562",
+   "name": "Rush Nero Girls"
   },
   {
    "club": "Phoenix Rising FC",
@@ -361,14 +371,14 @@
    "name": "Dragons"
   },
   {
-   "club": "NOS Santos SC",
-   "id": "300372585",
-   "name": "NOS Santos Girls White"
-  },
-  {
    "club": "Renegades Soccer Club",
    "id": "300372567",
    "name": "PC Legacy"
+  },
+  {
+   "club": "NOS Santos SC",
+   "id": "300372585",
+   "name": "NOS Santos Girls White"
   },
   {
    "club": "Phoenix Rising FC",
@@ -391,14 +401,14 @@
    "name": "Abbasy Royals"
   },
   {
-   "club": "RSL-AZ Southern AZ",
-   "id": "300372515",
-   "name": "Kayla Royals"
-  },
-  {
    "club": "FC Sonora",
    "id": "300541721",
    "name": "FC Sonora Dragons"
+  },
+  {
+   "club": "RSL-AZ Southern AZ",
+   "id": "300372515",
+   "name": "Kayla Royals"
   },
   {
    "club": "CCV STARS",
@@ -421,19 +431,14 @@
    "name": "Phoenix Premier FC SW"
   },
   {
-   "club": "State 48 FC",
-   "id": "300372495",
-   "name": "Avondale Black"
-  },
-  {
    "club": "FC Arizona",
    "id": "300372569",
    "name": "FC ARIZONA UNITED"
   },
   {
-   "club": "Renegades Soccer Club",
-   "id": "300372519",
-   "name": "Lady Pumas"
+   "club": "State 48 FC",
+   "id": "300372495",
+   "name": "Avondale Black"
   },
   {
    "club": "AYSO United",
@@ -441,19 +446,24 @@
    "name": "AZEV (WHITE)"
   },
   {
+   "club": "Renegades Soccer Club",
+   "id": "300372519",
+   "name": "Lady Pumas"
+  },
+  {
    "club": "RSL-AZ South",
    "id": "300372502",
    "name": "Hector Royals"
   },
   {
-   "club": "Phoenix Rising FC",
-   "id": "300530312",
-   "name": "West Predator"
-  },
-  {
    "club": "Canyon Del Oro Soccer Club",
    "id": "300372475",
    "name": "CDO Lopez"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "300530312",
+   "name": "West Predator"
   },
   {
    "club": "White Mountain FC",
@@ -576,11 +586,6 @@
    "name": "Ascent United Gold"
   },
   {
-   "club": "North Valley FC Arizona",
-   "id": "300530310",
-   "name": "NVFCA"
-  },
-  {
    "club": "AZFC",
    "id": "300530311",
    "name": "Select Red"
@@ -589,11 +594,6 @@
    "club": "East Valley Surf",
    "id": "300537564",
    "name": "East Valley Surf Peacock"
-  },
-  {
-   "club": "Utah Royals FC - AZ",
-   "id": "300541723",
-   "name": "Utah Royals FC-AZ ECNL"
   },
   {
    "club": "CCV STARS",

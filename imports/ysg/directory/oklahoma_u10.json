@@ -1,7 +1,7 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-10-20T13:00:16.502951+00:00",
+ "fetched_at": "2026-10-27T13:35:54.160374+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
@@ -32,8 +32,8 @@
   },
   {
    "club": "Oklahoma Celtic",
-   "id": "300472126",
-   "name": "NYSA - HERricanes"
+   "id": "12025556",
+   "name": "NYSA - Mavericks"
   },
   {
    "club": "Oklahoma Celtic",
@@ -42,18 +42,13 @@
   },
   {
    "club": "Oklahoma Celtic",
-   "id": "12025556",
-   "name": "NYSA - Mavericks"
-  },
-  {
-   "club": "Oklahoma Celtic",
    "id": "300472125",
    "name": "NYSA - Animals"
   },
   {
-   "club": "Tulsa Soccer Club",
-   "id": "300496528",
-   "name": "Tulsa SC Gold"
+   "club": "Oklahoma Celtic",
+   "id": "300472126",
+   "name": "NYSA - HERricanes"
   },
   {
    "club": "NE Oklahoma FC",
@@ -61,9 +56,9 @@
    "name": "NEOFC - Blue"
   },
   {
-   "club": "Oklahoma Celtic",
-   "id": "300472129",
-   "name": "NYSA - Pink Penguins"
+   "club": "Tulsa Soccer Club",
+   "id": "300496528",
+   "name": "Tulsa SC Gold"
   },
   {
    "club": "Claremore SC",
@@ -72,13 +67,18 @@
   },
   {
    "club": "Oklahoma Celtic",
-   "id": "12025554",
-   "name": "NYSA"
+   "id": "300472129",
+   "name": "NYSA - Pink Penguins"
   },
   {
    "club": "Oklahoma Celtic",
    "id": "300462562",
    "name": "Oklahoma Celtic North"
+  },
+  {
+   "club": "Oklahoma Celtic",
+   "id": "12025554",
+   "name": "NYSA"
   },
   {
    "club": "FC Tulsa Academy",
@@ -89,6 +89,11 @@
    "club": "Edmond Soccer Club",
    "id": "300462561",
    "name": "ESC ACADEMY GIRLS GOLD"
+  },
+  {
+   "club": "Oklahoma Celtic",
+   "id": "300535652",
+   "name": "Oklahoma Celtic Green"
   },
   {
    "club": "Metro Tulsa Soccer Club",
@@ -131,14 +136,14 @@
    "name": "WSA OKC Girls White"
   },
   {
-   "club": "FC Tulsa Academy",
-   "id": "300462595",
-   "name": "FC Tulsa Academy Girls Black"
-  },
-  {
    "club": "Mustang YSA",
    "id": "300467887",
    "name": "Cheetahs-David"
+  },
+  {
+   "club": "FC Tulsa Academy",
+   "id": "300462595",
+   "name": "FC Tulsa Academy Girls Black"
   },
   {
    "club": "Chisholm Trail SA",
@@ -146,19 +151,9 @@
    "name": "Phoenix FC"
   },
   {
-   "club": "Edmond Soccer Club",
-   "id": "300467563",
-   "name": "ESC ACADEMY GIRLS BLACK"
-  },
-  {
    "club": "Ponca City SA",
    "id": "300552620",
    "name": "PC United"
-  },
-  {
-   "club": "Oologah-Talala SC",
-   "id": "12339005",
-   "name": "OTSC - Girls"
   },
   {
    "club": "Enid SC",
@@ -166,34 +161,19 @@
    "name": "Enid Flight"
   },
   {
-   "club": "Mustang YSA",
-   "id": "300467888",
-   "name": "Golden Queens"
+   "club": "Edmond Soccer Club",
+   "id": "300467563",
+   "name": "ESC ACADEMY GIRLS BLACK"
+  },
+  {
+   "club": "Oologah-Talala SC",
+   "id": "300560067",
+   "name": "OTSC - Girls"
   },
   {
    "club": "West Side Alliance SC",
    "id": "300462563",
    "name": "WSA OKC Girls Blue"
-  },
-  {
-   "club": "Broken Arrow Express Soccer Club",
-   "id": "300462577",
-   "name": "BA Express Classic"
-  },
-  {
-   "club": "Yukon SC",
-   "id": "300467885",
-   "name": "Pink Thunder-Kennedy"
-  },
-  {
-   "club": "Mustang YSA",
-   "id": "300467891",
-   "name": "Twisters"
-  },
-  {
-   "club": "Mustang YSA",
-   "id": "300467890",
-   "name": "Sparkly Pink Panthers"
   },
   {
    "club": "Enid SC",
@@ -202,13 +182,23 @@
   },
   {
    "club": "Mustang YSA",
-   "id": "300467889",
-   "name": "Lil' Pixies"
+   "id": "300467888",
+   "name": "Golden Queens"
   },
   {
    "club": "Yukon SC",
-   "id": "300467886",
-   "name": "Goal Getters-Heilaman"
+   "id": "300467885",
+   "name": "Pink Thunder-Kennedy"
+  },
+  {
+   "club": "Mustang YSA",
+   "id": "300467890",
+   "name": "Sparkly Pink Panthers"
+  },
+  {
+   "club": "Mustang YSA",
+   "id": "300467891",
+   "name": "Twisters"
   },
   {
    "club": "South lakes soccer club",
@@ -216,9 +206,19 @@
    "name": "Oklahoma Cosmos Rainbow Divas"
   },
   {
+   "club": "Yukon SC",
+   "id": "300467886",
+   "name": "Goal Getters-Heilaman"
+  },
+  {
    "club": "South Lakes SC",
    "id": "300467103",
    "name": "Oklahoma Cosmos Stars"
+  },
+  {
+   "club": "Mustang YSA",
+   "id": "300467889",
+   "name": "Lil' Pixies"
   },
   {
    "club": "Skiatook SC",
@@ -246,16 +246,6 @@
    "name": "Enid Lady Strikers Chavez"
   },
   {
-   "club": "Oklahoma Celtic",
-   "id": "11766280",
-   "name": "NYSA - Fire Feet"
-  },
-  {
-   "club": "Oklahoma Celtic",
-   "id": "11766281",
-   "name": "NYSA - TV Owls"
-  },
-  {
    "club": "midwest city soccer club",
    "id": "11768623",
    "name": "Girls Maroon"
@@ -264,21 +254,6 @@
    "club": "South lakes soccer club",
    "id": "11774819",
    "name": "Oklahoma Cosmos Defenders"
-  },
-  {
-   "club": "Broken Arrow Express Soccer Club",
-   "id": "11832212",
-   "name": "BA Express Premier"
-  },
-  {
-   "club": "Enid Soccer Club",
-   "id": "11832243",
-   "name": "Enid Flight Prado"
-  },
-  {
-   "club": "ESC",
-   "id": "11837190",
-   "name": "ESC Academy White"
   },
   {
    "club": "Edmond Soccer Club",
@@ -451,29 +426,14 @@
    "name": "CHARGERS"
   },
   {
-   "club": "Claremore SC",
-   "id": "12318428",
-   "name": "RIPTIDE"
-  },
-  {
    "club": "Sporting Oklahoma",
    "id": "12318810",
    "name": "Sporting Oklahoma Red"
   },
   {
-   "club": "Coweta SC",
-   "id": "12337496",
-   "name": "Sabres"
-  },
-  {
    "club": "Stilwell SC",
    "id": "12337498",
    "name": "Stilwell SC"
-  },
-  {
-   "club": "Skiatook SC",
-   "id": "12339000",
-   "name": "Valkyries"
   },
   {
    "club": "Collinsville SC",
@@ -484,11 +444,6 @@
    "club": "Northeast Oklahoma Soccer Association",
    "id": "12339003",
    "name": "NEOSA PinkWave"
-  },
-  {
-   "club": "Owasso SC",
-   "id": "12339026",
-   "name": "Dolphins"
   },
   {
    "club": "Choctaw SA (CNP)",
@@ -587,11 +542,6 @@
   },
   {
    "club": "Bixby SC",
-   "id": "15594150",
-   "name": "Bixby Cherry Bombs"
-  },
-  {
-   "club": "Bixby SC",
    "id": "15594200",
    "name": "Bixby Fearless Fire Cleats"
   },
@@ -609,11 +559,6 @@
    "club": "Durant SC",
    "id": "15652200",
    "name": "Luna"
-  },
-  {
-   "club": "Owasso SC",
-   "id": "15736550",
-   "name": "Sharp Shooters"
   },
   {
    "club": "Owasso SC",
@@ -736,6 +681,11 @@
    "name": "Girls KC Currents"
   },
   {
+   "club": "OEFC",
+   "id": "17328650",
+   "name": "OEFC Academy Castelhone"
+  },
+  {
    "club": "midwest city soccer club",
    "id": "300462560",
    "name": "Vision Crowell"
@@ -756,6 +706,11 @@
    "name": "Greenwood SC Girls"
   },
   {
+   "club": "Broken Arrow Express Soccer Club",
+   "id": "300462577",
+   "name": "BA Express Classic"
+  },
+  {
    "club": "North OKC SC",
    "id": "300462581",
    "name": "NOKC Red"
@@ -764,11 +719,6 @@
    "club": "Edmond Soccer Club",
    "id": "300462590",
    "name": "ESC Black"
-  },
-  {
-   "club": "West Side Alliance Soccer Club",
-   "id": "300462596",
-   "name": "WSA Girls (Dobbs)"
   },
   {
    "club": "West Side Alliance Soccer Club",
@@ -902,11 +852,6 @@
   },
   {
    "club": "Oklahoma Celtic",
-   "id": "300535652",
-   "name": "Oklahoma Celtic Green"
-  },
-  {
-   "club": "Oklahoma Celtic",
    "id": "300535653",
    "name": "Oklahoma Celtic White"
   },
@@ -999,6 +944,36 @@
    "club": "Tulsa Soccer Club",
    "id": "300559689",
    "name": "Tulsa SC White"
+  },
+  {
+   "club": "Claremore SC",
+   "id": "300560063",
+   "name": "RIPTIDE"
+  },
+  {
+   "club": "Skiatook SC",
+   "id": "300560064",
+   "name": "Valkyries"
+  },
+  {
+   "club": "Owasso SC",
+   "id": "300560065",
+   "name": "Dolphins"
+  },
+  {
+   "club": "Bixby SC",
+   "id": "300560066",
+   "name": "Bixby Cherry Bombs"
+  },
+  {
+   "club": "Owasso SC",
+   "id": "300560068",
+   "name": "Sharp Shooters"
+  },
+  {
+   "club": "Coweta SC",
+   "id": "300560069",
+   "name": "Sabres"
   }
  ]
 }

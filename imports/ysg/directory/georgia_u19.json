@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-10-20T12:15:56.468381+00:00",
+ "fetched_at": "2026-10-27T12:51:34.071787+00:00",
  "state": "GA",
  "state_slug": "georgia",
  "teams": [
@@ -16,9 +16,9 @@
    "name": "UFA South Georgia Elite"
   },
   {
-   "club": "BVB IA Georgia",
-   "id": "300528020",
-   "name": "BVB IA Georgia (GA)"
+   "club": "AFC Lightning",
+   "id": "12330764",
+   "name": "Aspire"
   },
   {
    "club": "Roswell Santos Soccer Club",
@@ -26,24 +26,9 @@
    "name": "Roswell Santos DPL"
   },
   {
-   "club": "Gwinnett Soccer Academy",
-   "id": "300528013",
-   "name": "GSA South Premier"
-  },
-  {
-   "club": "Georgia Storm Soccer Academy",
-   "id": "300528015",
-   "name": "Georgia Storm Premier"
-  },
-  {
-   "club": "TopHat",
-   "id": "12238673",
-   "name": "GA Navy"
-  },
-  {
-   "club": "Atlanta Fire United SA",
-   "id": "300528019",
-   "name": "Atlanta Fire Elite NL"
+   "club": "BVB IA Georgia",
+   "id": "300528020",
+   "name": "BVB IA Georgia (GA)"
   },
   {
    "club": "Albion SC Atlanta",
@@ -51,9 +36,19 @@
    "name": "ALBION SC Atlanta DPL"
   },
   {
+   "club": "TopHat",
+   "id": "12238673",
+   "name": "GA Navy"
+  },
+  {
+   "club": "Georgia Storm Soccer Academy",
+   "id": "300528015",
+   "name": "Georgia Storm Premier"
+  },
+  {
    "club": "Southern Soccer Academy",
-   "id": "300334076",
-   "name": "SSA Swarm DPL"
+   "id": "16441700",
+   "name": "GA"
   },
   {
    "club": "Lanier Soccer Academy",
@@ -61,9 +56,9 @@
    "name": "LSA Gold (DPL)"
   },
   {
-   "club": "Northwest Soccer Academy",
-   "id": "300553652",
-   "name": "NSA BELLES SCCL BELLES (GA)"
+   "club": "Southern Soccer Academy",
+   "id": "300334076",
+   "name": "SSA Swarm DPL"
   },
   {
    "club": "Augusta Arsenal SC (GA)",
@@ -76,6 +71,11 @@
    "name": "UFA Red"
   },
   {
+   "club": "NASA Tophat",
+   "id": "300528016",
+   "name": "NTH Tophat SCCL White Milton"
+  },
+  {
    "club": "TopHat",
    "id": "300528014",
    "name": "Tophat DPL"
@@ -86,24 +86,9 @@
    "name": "SSA Swarm NPL Central"
   },
   {
-   "club": "NASA Tophat",
-   "id": "300528016",
-   "name": "NTH Tophat SCCL White Milton"
-  },
-  {
    "club": "Inter Atlanta FC",
    "id": "300528011",
    "name": "DPL"
-  },
-  {
-   "club": "Southern Soccer Academy",
-   "id": "11685135",
-   "name": "SSA Swarm NPL South"
-  },
-  {
-   "club": "United Futbol Academy",
-   "id": "11685197",
-   "name": "UFA Mountains Red"
   },
   {
    "club": "North Georgia Soccer Academy",
@@ -111,14 +96,34 @@
    "name": "NGSA Dalton Elite"
   },
   {
+   "club": "Alliance SC",
+   "id": "12331957",
+   "name": "DPL"
+  },
+  {
+   "club": "Concorde Fire",
+   "id": "12250895",
+   "name": "CFA Elite (GA)"
+  },
+  {
    "club": "Concorde Fire Soccer Club",
    "id": "300528021",
    "name": "CF Central Club"
   },
   {
-   "club": "Albion SC Atlanta",
-   "id": "12330261",
-   "name": "ALBION SC Atlanta"
+   "club": "Inter Atlanta FC",
+   "id": "12331962",
+   "name": "DPL"
+  },
+  {
+   "club": "Southern Soccer Academy",
+   "id": "12331961",
+   "name": "SSA Swarm DPL"
+  },
+  {
+   "club": "Rush Union Soccer",
+   "id": "12331963",
+   "name": "DPL"
   },
   {
    "club": "AFC Lightning",
@@ -241,6 +246,16 @@
    "name": "UFA Mountains White"
   },
   {
+   "club": "Southern Soccer Academy",
+   "id": "11685135",
+   "name": "SSA Swarm NPL South"
+  },
+  {
+   "club": "United Futbol Academy",
+   "id": "11685197",
+   "name": "UFA Mountains Red"
+  },
+  {
    "club": "Rush Union Soccer",
    "id": "11715715",
    "name": "Rush Union DPL"
@@ -326,16 +341,6 @@
    "name": "UFA Gold-North (GA)"
   },
   {
-   "club": "United Futbol Academy",
-   "id": "12250894",
-   "name": "UFA Red (GA)"
-  },
-  {
-   "club": "Concorde Fire",
-   "id": "12250895",
-   "name": "CFA Elite (GA)"
-  },
-  {
    "club": "Savannah United Select",
    "id": "12250896",
    "name": "Savannah United Premier (GA)"
@@ -396,6 +401,11 @@
    "name": "Georgia Storm Premier"
   },
   {
+   "club": "Albion SC Atlanta",
+   "id": "12330261",
+   "name": "ALBION SC Atlanta"
+  },
+  {
    "club": "Concorde Fire",
    "id": "12330262",
    "name": "CF West Elite"
@@ -406,19 +416,9 @@
    "name": "Aspire"
   },
   {
-   "club": "AFC Lightning",
-   "id": "12330764",
-   "name": "Aspire"
-  },
-  {
    "club": "Lanier Soccer Academy",
    "id": "12331956",
    "name": "LSA Gainesville DPL"
-  },
-  {
-   "club": "Alliance SC",
-   "id": "12331957",
-   "name": "DPL"
   },
   {
    "club": "TopHat",
@@ -428,21 +428,6 @@
   {
    "club": "Athens United SA",
    "id": "12331960",
-   "name": "DPL"
-  },
-  {
-   "club": "Southern Soccer Academy",
-   "id": "12331961",
-   "name": "SSA Swarm DPL"
-  },
-  {
-   "club": "Inter Atlanta FC",
-   "id": "12331962",
-   "name": "DPL"
-  },
-  {
-   "club": "Rush Union Soccer",
-   "id": "12331963",
    "name": "DPL"
   },
   {
@@ -586,11 +571,6 @@
    "name": "GSA North GSL- Long"
   },
   {
-   "club": "Southern Soccer Academy",
-   "id": "16441700",
-   "name": "GA"
-  },
-  {
    "club": "United Futbol Academy",
    "id": "300528008",
    "name": "UFA Loganville Red"
@@ -601,9 +581,19 @@
    "name": "Tophat GA Aspire"
   },
   {
+   "club": "Gwinnett Soccer Academy",
+   "id": "300528013",
+   "name": "GSA South Premier"
+  },
+  {
+   "club": "Atlanta Fire United SA",
+   "id": "300528019",
+   "name": "Atlanta Fire Elite NL"
+  },
+  {
    "club": "United Futbol Academy",
    "id": "300528022",
-   "name": "RL"
+   "name": "United Futbol Academy ECNL RL"
   },
   {
    "club": "AFC Lightning",
@@ -614,6 +604,11 @@
    "club": "Legion Futbol Club",
    "id": "300549404",
    "name": "LEGION FC Girls Elite"
+  },
+  {
+   "club": "Northwest Soccer Academy",
+   "id": "300553652",
+   "name": "NSA BELLES SCCL BELLES (GA)"
   },
   {
    "club": "TASA FC/Thomas Area Soccer Assn",
@@ -629,6 +624,11 @@
    "club": "Georgia Impact SC",
    "id": "300558913",
    "name": "Aspire"
+  },
+  {
+   "club": "United Futbol Academy",
+   "id": "300559855",
+   "name": "UFA Red (GA)"
   }
  ]
 }
