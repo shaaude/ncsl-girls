@@ -1,499 +1,209 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-10-27T12:33:54.031739+00:00",
+ "fetched_at": "2026-11-03T14:34:51.820919+00:00",
  "state": "AL",
  "state_slug": "alabama",
  "teams": [
   {
-   "club": "Pearland Soccer Club",
-   "id": "300532576",
-   "name": "PSC Inspire NextUp"
-  },
-  {
    "club": "Alabama FC",
-   "id": "300424008",
-   "name": "Huntsville SCCL"
-  },
-  {
-   "club": "DME Academy, Sarasota",
-   "id": "300519602",
-   "name": "DME WFPL Black"
-  },
-  {
-   "club": "FC Montgomery",
-   "id": "300532577",
-   "name": "Girls"
-  },
-  {
-   "club": "Auburn Soccer Club (AL)",
-   "id": "300423979",
-   "name": "Auburn Soccer Club Girls"
-  },
-  {
-   "club": "Hoover Vestavia Soccer",
-   "id": "300423957",
-   "name": "Hoover Vestavia Yellow Pre GA"
-  },
-  {
-   "club": "VERO FC",
-   "id": "300556840",
-   "name": "Athletic SC Alabama Girls Premier"
-  },
-  {
-   "club": "VERO FC",
-   "id": "300532575",
-   "name": "Shoals SC Girls"
-  },
-  {
-   "club": "Auburn Soccer Club (AL)",
-   "id": "300532572",
-   "name": "Girls"
-  },
-  {
-   "club": "Oak Mountain Soccer Club",
-   "id": "300532573",
-   "name": "OMSC Cubs Girls"
-  },
-  {
-   "club": "Hoover Vestavia Soccer",
-   "id": "300423958",
-   "name": "Hoover Vestavia Grey Pre GA"
-  },
-  {
-   "club": "United Soccer Club",
-   "id": "300423998",
-   "name": "AFCHSV- USC Girls Premier"
-  },
-  {
-   "club": "VERO FC",
-   "id": "300423963",
-   "name": "NASC Courage"
-  },
-  {
-   "club": "AYSO United",
-   "id": "300424015",
-   "name": "AYSO United Premier"
-  },
-  {
-   "club": "Marshall United FC",
-   "id": "300423984",
-   "name": "MU Girls Classic"
-  },
-  {
-   "club": "Alabama Rush",
-   "id": "11923832",
-   "name": "AL Lady Rush FP RBC"
-  },
-  {
-   "club": "VERO FC",
-   "id": "300423960",
-   "name": "NASC Flash"
-  },
-  {
-   "club": "Lonestar SC",
-   "id": "11689973",
-   "name": "Lonestar STXCL WC Red NTH (Garnett)"
-  },
-  {
-   "club": "Lonestar SC",
-   "id": "11689974",
-   "name": "Lonestar STXCL WC Silver (Garnett)"
-  },
-  {
-   "club": "Alabama Rush",
-   "id": "11731701",
-   "name": "AL Lady Rush DC"
-  },
-  {
-   "club": "Storm FC (AL)",
-   "id": "11733778",
-   "name": "Lightning"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "11738920",
-   "name": "Central Academy North Navy"
-  },
-  {
-   "club": "Snohomish United",
-   "id": "11743602",
-   "name": "SN Fyall"
-  },
-  {
-   "club": "Snohomish United",
-   "id": "11743603",
-   "name": "SN Pearson"
-  },
-  {
-   "club": "Snohomish United",
-   "id": "11743604",
-   "name": "SN Russell"
-  },
-  {
-   "club": "AYSO United",
-   "id": "11849316",
-   "name": "AYSO United Navy"
-  },
-  {
-   "club": "Rocket City United Development Academy",
-   "id": "11849352",
-   "name": "Cottontown United Girls"
-  },
-  {
-   "club": "Germantown Legends",
-   "id": "11855194",
-   "name": "Lady Legends Black"
-  },
-  {
-   "club": "Germantown Legends",
-   "id": "11855195",
-   "name": "Germantown Lady Legends Green"
-  },
-  {
-   "club": "Germantown Legends",
-   "id": "11855196",
-   "name": "Germantown Lady Legends White"
-  },
-  {
-   "club": "Germantown Legends",
-   "id": "11855198",
-   "name": "Arkansas Lady Legends"
-  },
-  {
-   "club": "Lonestar SC",
-   "id": "11866543",
-   "name": "Lonestar San Antonio Tapatios"
-  },
-  {
-   "club": "Arlington SA",
-   "id": "11869784",
-   "name": "Arl Danner/Wildcats"
-  },
-  {
-   "club": "FC United (Iowa)",
-   "id": "12033388",
-   "name": "FC United"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "12076259",
-   "name": "Alabama FC Central Academy"
-  },
-  {
-   "club": "Indy Eleven Spirit",
-   "id": "12078585",
-   "name": "Indy Eleven Spirit Blue"
-  },
-  {
-   "club": "FC Charles 1658",
-   "id": "12119243",
-   "name": "FC Charles Girls - Grey"
-  },
-  {
-   "club": "SDSC Surf",
-   "id": "12178495",
-   "name": "Pre-GA Aspire"
-  },
-  {
-   "club": "SDSC Surf",
-   "id": "12179642",
-   "name": "Black"
-  },
-  {
-   "club": "SDSC Surf",
-   "id": "12182553",
-   "name": "Pre-GA"
-  },
-  {
-   "club": "Auburn Soccer Club (AL)",
-   "id": "12185156",
-   "name": "Auburn Soccer Club Girls"
-  },
-  {
-   "club": "VERO FC",
-   "id": "12185158",
-   "name": "NASC Girls Select"
-  },
-  {
-   "club": "VERO FC",
-   "id": "12185159",
-   "name": "Cullman United Girls"
-  },
-  {
-   "club": "VERO FC",
-   "id": "12185160",
-   "name": "Athletic SC Alabama Girls Premier"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "12185162",
-   "name": "Alabama FC Select Girls"
-  },
-  {
-   "club": "VERO FC",
-   "id": "12185163",
-   "name": "NASC Girls Select"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "12188344",
-   "name": "Alabama FC Alabaster Premier Girls"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "12188345",
-   "name": "Alabama FC Red Girls"
-  },
-  {
-   "club": "Alabama Rush",
-   "id": "12188346",
-   "name": "Alabama Rush AL Rush RBC ASA Girls Elite Dobbins"
-  },
-  {
-   "club": "Alabama Rush",
-   "id": "12188348",
-   "name": "Alabama Rush AL Rush SM ASA Girls Elite Franco"
+   "id": "40055897",
+   "name": "Alabama FC U11 Red 1 Girls"
   },
   {
    "club": "Revolution Soccer Club",
-   "id": "12188349",
-   "name": "Revolution Navy"
+   "id": "40055787",
+   "name": "Revolution U12G Navy"
   },
   {
-   "club": "FC Montgomery",
-   "id": "12188350",
-   "name": "FC Montgomery SL Girls"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "12188395",
-   "name": "Alabama FC Premier Girls"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "12278904",
-   "name": "South Volt II"
-  },
-  {
-   "club": "Gulf Coast SC",
-   "id": "12308717",
-   "name": "GC REC BENTON"
-  },
-  {
-   "club": "Edmond SC",
-   "id": "12338261",
-   "name": "ESC GIRLS LISLE"
-  },
-  {
-   "club": "North Alabama Soccer Coalition",
-   "id": "14238700",
-   "name": "NASC SCCL Premier"
-  },
-  {
-   "club": "VERO FC",
-   "id": "14238750",
-   "name": "VERO FC NASC SCCL PREMIER (AL)"
-  },
-  {
-   "club": "South Belt YSC",
-   "id": "14756350",
-   "name": "SBYSC SB Atletico Morelia Girls"
-  },
-  {
-   "club": "PDA White (Shore)",
-   "id": "15234650",
-   "name": "PDA White PRE-ECNL Mon"
-  },
-  {
-   "club": "VERO FC",
-   "id": "15576150",
-   "name": "NASC SCCL Premier (AL)"
-  },
-  {
-   "club": "Briarwood SC",
-   "id": "16240000",
-   "name": "Briarwood Girls Gold"
-  },
-  {
-   "club": "Revolution Soccer Club",
-   "id": "16240150",
-   "name": "RSC Navy"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "16240250",
-   "name": "AFC Premier"
-  },
-  {
-   "club": "Alabama FC South",
-   "id": "16240300",
-   "name": "AFC Alabaster Premier"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "16240350",
-   "name": "AFC Pre-ECNL"
-  },
-  {
-   "club": "Smiths Station United SA / SUFC",
-   "id": "16240400",
-   "name": "SUFC Blazers G AL"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "16240450",
-   "name": "AFC Pre-ECNL"
+   "club": "Auburn Soccer Club",
+   "id": "40055776",
+   "name": "Auburn Soccer Club 2014-2015 Girls"
   },
   {
    "club": "Oak Mountain SC (OMSC)",
-   "id": "16240500",
-   "name": "OMSC Cubs Girls"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "16240550",
-   "name": "AFC Pre-ECNL"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "16240600",
-   "name": "AFC Select"
-  },
-  {
-   "club": "Birmingham United Soccer Association",
-   "id": "16240700",
-   "name": "BUSA North Courage"
-  },
-  {
-   "club": "Revolution Soccer Club",
-   "id": "16241100",
-   "name": "RSC Wave"
-  },
-  {
-   "club": "Hoover Vestavia Soccer",
-   "id": "16302050",
-   "name": "Hoover Vestavia Yellow Pre GA"
-  },
-  {
-   "club": "Fairhope Soccer Club",
-   "id": "16332250",
-   "name": "Fairhope Academy Girls Blue"
-  },
-  {
-   "club": "Central Baldwin Futbol Club",
-   "id": "16332300",
-   "name": "Central Baldwin FC G"
-  },
-  {
-   "club": "Baldwin Rush",
-   "id": "16332400",
-   "name": "Baldwin Rush White"
-  },
-  {
-   "club": "Mobile United Rush FC",
-   "id": "16332450",
-   "name": "MURFC Girls Black"
-  },
-  {
-   "club": "Mobile United Rush FC",
-   "id": "16332500",
-   "name": "MURFC Girls Blue"
-  },
-  {
-   "club": "VERO FC",
-   "id": "16345550",
-   "name": "VERO FC NASC Select"
-  },
-  {
-   "club": "AFCHSV/United SC",
-   "id": "16345650",
-   "name": "AFC Huntsville Elite"
-  },
-  {
-   "club": "Smithtown Kickers SC (LIJSL)",
-   "id": "300423961",
-   "name": "Flames"
-  },
-  {
-   "club": "Fairhope Soccer Club",
-   "id": "300423987",
-   "name": "Fairhope Academy Girls Blue"
-  },
-  {
-   "club": "Madison Blaze Soccer Club",
-   "id": "300423989",
-   "name": "Madison Blaze"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "300424020",
-   "name": "Central Academy South Navy"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "300424022",
-   "name": "Central Academy South Red"
-  },
-  {
-   "club": "Great Kills",
-   "id": "300424041",
-   "name": "Tigers"
-  },
-  {
-   "club": "Tuscaloosa United Soccer Club",
-   "id": "300532574",
-   "name": "TUSC Girls"
-  },
-  {
-   "club": "Long Island SC",
-   "id": "300544547",
-   "name": "Girls Premier East"
-  },
-  {
-   "club": "Green SA",
-   "id": "300552988",
-   "name": "GSA Orange"
-  },
-  {
-   "club": "Alabama Rush Soccer",
-   "id": "300556087",
-   "name": "AL Rush FP Academy Girls"
-  },
-  {
-   "club": "Homewood Soccer Club",
-   "id": "300556088",
-   "name": "Homewood Patriots Girls"
-  },
-  {
-   "club": "Cottontown United Soccer Club",
-   "id": "300556089",
-   "name": "Cottontown United Girls Development"
-  },
-  {
-   "club": "Homewood Soccer Club",
-   "id": "300556090",
-   "name": "Homewood Red Girls"
-  },
-  {
-   "club": "Oak Mountain SC (OMSC)",
-   "id": "300556091",
+   "id": "50019845",
    "name": "Lightning Lions"
   },
   {
-   "club": "Hoover Vestavia Soccer",
-   "id": "300556092",
-   "name": "Hoover Vestavia Grey Pre GA"
+   "club": "Alabama FC",
+   "id": "40055883",
+   "name": "Alabama FC Alabaster U12 Premier Girls"
+  },
+  {
+   "club": "Tuscaloosa United Soccer Club",
+   "id": "40055798",
+   "name": "TUSC Girls 2014/15"
+  },
+  {
+   "club": "VERO FC",
+   "id": "40055863",
+   "name": "Cullman United 2014/16 Girls"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "40055906",
+   "name": "Alabama FC U12 Select Girls"
+  },
+  {
+   "club": "VERO FC",
+   "id": "40055818",
+   "name": "Shoals SC U12 Girls"
+  },
+  {
+   "club": "VERO FC",
+   "id": "40055856",
+   "name": "NASC 2014/2015 Girls Select"
+  },
+  {
+   "club": "Oak Mountain Soccer Club",
+   "id": "40055957",
+   "name": "OMSC Cubs U12/U11 Girls"
+  },
+  {
+   "club": "VERO FC",
+   "id": "40055857",
+   "name": "NASC 2015/2016 Girls Select"
+  },
+  {
+   "club": "Alabama Rush",
+   "id": "40055937",
+   "name": "Alabama Rush AL Rush RBC ASA Girls 14-15 Elite Dobbins"
+  },
+  {
+   "club": "South Belt YSC",
+   "id": "40082454",
+   "name": "SBYSC SB Atletico Morelia Girls"
+  },
+  {
+   "club": "VERO FC",
+   "id": "50000021",
+   "name": "Athletic SC Alabama 2014/15 Girls Premier"
+  },
+  {
+   "club": "FC Montgomery",
+   "id": "50019846",
+   "name": "FC Montgomery SL Girls 2014-2016"
+  },
+  {
+   "club": "VERO FC",
+   "id": "40055849",
+   "name": "Athletic SC Alabama 2015/16 Girls Premier"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "40055905",
+   "name": "Alabama FC U12 Premier Girls"
+  },
+  {
+   "club": "Alabama Rush",
+   "id": "40055933",
+   "name": "Alabama Rush AL Rush SM ASA Girls 14-15 Elite Franco"
+  },
+  {
+   "club": "VERO FC",
+   "id": "40058575",
+   "name": "NASC SCCL G2014/15 Premier (AL)"
+  },
+  {
+   "club": "Mississippi Surf",
+   "id": "40074802",
+   "name": "Tupelo FC Surf G2014/15 Blue"
+  },
+  {
+   "club": "Hoover-Vestavia Soccer",
+   "id": "40105240",
+   "name": "Hoover Vestavia U12 Grey Pre GA"
+  },
+  {
+   "club": "Briarwood SC",
+   "id": "40105525",
+   "name": "Briarwood U12 Girls Gold"
+  },
+  {
+   "club": "Barca Academy - Hoover",
+   "id": "40105527",
+   "name": "Bah U11/12g Blau"
+  },
+  {
+   "club": "Revolution Soccer Club",
+   "id": "40105528",
+   "name": "RSC U12G Navy"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "40105530",
+   "name": "AFC U12G Premier"
+  },
+  {
+   "club": "Alabama FC South",
+   "id": "40105531",
+   "name": "AFC Alabaster U12G Premier"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "40105532",
+   "name": "AFC U12G Pre-ECNL 3"
+  },
+  {
+   "club": "Smiths Station United SA / SUFC",
+   "id": "40105533",
+   "name": "SUFC Blazers 14/15 G AL"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "40105534",
+   "name": "AFC U12G Pre-ECNL 2"
+  },
+  {
+   "club": "Oak Mountain SC (OMSC)",
+   "id": "40105535",
+   "name": "OMSC Cubs U12/U11 Girls"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "40105536",
+   "name": "AFC GU12 Pre-ECNL 1"
+  },
+  {
+   "club": "Alabama FC",
+   "id": "40105537",
+   "name": "AFC U12G Select"
+  },
+  {
+   "club": "Cottontown United Soccer Club",
+   "id": "40105538",
+   "name": "Cottontown United Girls Development"
+  },
+  {
+   "club": "Birmingham United SA (BUSA)",
+   "id": "40105539",
+   "name": "BUSA North Courage"
+  },
+  {
+   "club": "Alabama Rush Soccer",
+   "id": "40105540",
+   "name": "AL Rush SM Academy Girls 16-17"
+  },
+  {
+   "club": "Homewood Soccer Club (AL)",
+   "id": "40105541",
+   "name": "Homewood Patriots 2014-2015 Girls"
+  },
+  {
+   "club": "Homewood Soccer Club (AL)",
+   "id": "40105542",
+   "name": "Homewood Red 2014-2015 Girls"
   },
   {
    "club": "Phoenix FC - AL",
-   "id": "300556093",
-   "name": "Phoenix FC Anniston"
+   "id": "40105543",
+   "name": "Phoenix FC 2015-16G Anniston"
   },
   {
-   "club": "Auburn Soccer Club (AL)",
-   "id": "300556094",
-   "name": "Auburn Soccer Club Girls"
+   "club": "Alabama Rush Soccer",
+   "id": "40105544",
+   "name": "AL Rush RBC ASA Girls 14-15 Elite"
   }
  ]
 }

@@ -1,1464 +1,524 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-10-27T13:54:44.155454+00:00",
+ "fetched_at": "2026-11-03T15:55:42.014426+00:00",
  "state": "WA",
  "state_slug": "washington",
  "teams": [
   {
-   "club": "South Whidbey",
-   "id": "11649587",
-   "name": "South Whidbey Riptide"
+   "club": "Washington Premier FC",
+   "id": "50019599",
+   "name": "Washington Premier ECNL G2013/14"
   },
   {
-   "club": "United Sports Soccer Club",
-   "id": "11695228",
-   "name": "Navy"
-  },
-  {
-   "club": "Granite Falls YSC",
-   "id": "11743567",
-   "name": "Granite"
-  },
-  {
-   "club": "Mukilteo Youth SC",
-   "id": "11743578",
-   "name": "Louthan"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "11743639",
-   "name": "- Jensen"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "11743640",
-   "name": "- Lindenstein"
-  },
-  {
-   "club": "Stanwood Camano Youth Soccer Club",
-   "id": "11743662",
-   "name": "NEED COACH"
-  },
-  {
-   "club": "Terrace Brier SC",
-   "id": "11743683",
-   "name": "Barron"
-  },
-  {
-   "club": "Bellevue United FC",
-   "id": "11773486",
-   "name": "Washington United Mighty Dragons (Nelson)"
-  },
-  {
-   "club": "Crossfire Select Soccer Club",
-   "id": "11773529",
-   "name": "Rainier Soccer Alliance Elite"
-  },
-  {
-   "club": "FifeMiltonEdgewood Soccer Club",
-   "id": "11773558",
-   "name": "FME SC WHITE"
-  },
-  {
-   "club": "FifeMiltonEdgewood Soccer Club",
-   "id": "11773559",
-   "name": "Tracyton SC SC Orange"
-  },
-  {
-   "club": "Grays Harbor FC Gulls",
-   "id": "11773568",
-   "name": "Stanwood Spartan FC"
-  },
-  {
-   "club": "Grays Harbor FC Gulls",
-   "id": "11773569",
-   "name": "Girls Blue"
-  },
-  {
-   "club": "ISSAQUAH FOOTBALL CLUB",
-   "id": "11773591",
-   "name": "IFC Select/Jarpa"
-  },
-  {
-   "club": "ISSAQUAH FOOTBALL CLUB",
-   "id": "11773592",
-   "name": "Whatcom County Select Lindsey"
-  },
-  {
-   "club": "North Whidbey Soccer Club",
-   "id": "11773616",
-   "name": "NWSC Deception FC"
-  },
-  {
-   "club": "Northshore Select Club",
-   "id": "11773622",
-   "name": "Valor Select - Maurer"
-  },
-  {
-   "club": "Northshore Select Club",
-   "id": "11773623",
-   "name": "NSC D"
-  },
-  {
-   "club": "Northshore Select Club",
-   "id": "11773630",
-   "name": "PSA Force Black"
-  },
-  {
-   "club": "Snohomish United FC",
-   "id": "11868247",
-   "name": "SN Dear"
-  },
-  {
-   "club": "Stanwood Camano Youth Soccer Club",
-   "id": "11868266",
-   "name": "GREATHOUSE"
-  },
-  {
-   "club": "Washington Youth Soccer",
-   "id": "11877412",
-   "name": "WA Green"
-  },
-  {
-   "club": "Washington Youth Soccer",
-   "id": "11877413",
-   "name": "WA White"
-  },
-  {
-   "club": "FifeMiltonEdgewood Soccer Club",
-   "id": "11983269",
-   "name": "WPFC Mighty Dragons (Nelson)"
-  },
-  {
-   "club": "North Whidbey Soccer Club",
-   "id": "11993016",
-   "name": "Valor Select Sas"
-  },
-  {
-   "club": "North Whidbey Soccer Club",
-   "id": "11993017",
-   "name": "PSA Force Black"
-  },
-  {
-   "club": "Tracyton Soccer Club",
-   "id": "11993042",
-   "name": "Wolfhounds"
-  },
-  {
-   "club": "Tracyton Soccer Club",
-   "id": "11993043",
-   "name": "Valor Select Maurer"
-  },
-  {
-   "club": "Southlake FC",
-   "id": "11996564",
-   "name": "Tracyton SC Orange"
-  },
-  {
-   "club": "FifeMiltonEdgewood Soccer Club",
-   "id": "12007592",
-   "name": "Storm King FC Monsoon"
-  },
-  {
-   "club": "Grays Harbor Rush",
-   "id": "12007593",
-   "name": "G13/14"
-  },
-  {
-   "club": "Seattle United",
-   "id": "12007612",
-   "name": "South Whidbey Riptide"
-  },
-  {
-   "club": "Everett Youth Soccer Club",
-   "id": "12025492",
-   "name": "EYSC - Barker"
-  },
-  {
-   "club": "Mukilteo Youth SC",
-   "id": "12025502",
-   "name": "Louthan/Hultkrantz"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "12025517",
-   "name": "Spring - Blessing"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "12025518",
-   "name": "Spring - Jensen"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "12025519",
-   "name": "Spring - Lindenstein"
-  },
-  {
-   "club": "XF",
-   "id": "12080615",
-   "name": "Pre-ECNL"
-  },
-  {
-   "club": "Pacific Northwest Soccer Club",
-   "id": "12084496",
-   "name": "PacNW SC Pre-ECNL"
-  },
-  {
-   "club": "Washington Premier Football Club",
-   "id": "12109044",
-   "name": "Washington Premier - Black"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "12146890",
-   "name": "GA Aspire"
-  },
-  {
-   "club": "SeaGals",
-   "id": "12167365",
-   "name": "SeaGals"
-  },
-  {
-   "club": "She Shell Shark Shooters",
-   "id": "12167517",
-   "name": "She Shell Shark Shooters"
-  },
-  {
-   "club": "Yakima pink ladies",
-   "id": "12169702",
-   "name": "Yakima pink ladies"
-  },
-  {
-   "club": "Crossfire Select Soccer Club",
-   "id": "12170619",
-   "name": "Crossfire Select B Northup"
-  },
-  {
-   "club": "Seattle United",
-   "id": "12171005",
-   "name": "Seattle United"
-  },
-  {
-   "club": "Harbor Premier",
-   "id": "12172946",
-   "name": "RCL"
-  },
-  {
-   "club": "PacNW Soccer club",
-   "id": "12172947",
-   "name": "Pre-ECNL"
-  },
-  {
-   "club": "Harbor Premier",
-   "id": "12172948",
-   "name": "GA"
-  },
-  {
-   "club": "Reign Academy",
-   "id": "12172950",
-   "name": "GU12-1"
-  },
-  {
-   "club": "Washington Premier Football Club",
-   "id": "12173051",
-   "name": "PreECNL"
-  },
-  {
-   "club": "Washington Premier Football Club",
-   "id": "12173052",
-   "name": "GU12"
-  },
-  {
-   "club": "Kitsap Alliance Football Club",
-   "id": "12173053",
-   "name": "Blue"
-  },
-  {
-   "club": "Northshore Select Club",
-   "id": "12180546",
-   "name": "NSC"
-  },
-  {
-   "club": "Crossfire Select",
-   "id": "12180547",
-   "name": "Crossfire Select C"
-  },
-  {
-   "club": "Harbor Soccer Club",
-   "id": "12181128",
-   "name": "Harbor Premier RCL"
-  },
-  {
-   "club": "Crossfire Select Soccer Club",
-   "id": "12182063",
-   "name": "Crossfire Select A Osman"
-  },
-  {
-   "club": "Tracyton Soccer Club",
-   "id": "12192674",
-   "name": "Tracyton Orange"
-  },
-  {
-   "club": "Snohomish United FC",
-   "id": "12194523",
-   "name": "Snohomish United Black"
-  },
-  {
-   "club": "Basin Sounders",
-   "id": "12210982",
-   "name": "Carlile"
-  },
-  {
-   "club": "Wenatchee FA",
-   "id": "12210986",
-   "name": "Black Rodriguez"
-  },
-  {
-   "club": "G A Hill Thunder",
-   "id": "12213293",
-   "name": "Hill - Thunder"
-  },
-  {
-   "club": "CYSA Timber Barons",
-   "id": "12248675",
-   "name": "CYSA Timber Barons Contreras"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "12249152",
-   "name": "GA"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "12249154",
-   "name": "GA"
-  },
-  {
-   "club": "Seattle Reign Academy",
-   "id": "12249155",
-   "name": "GA"
-  },
-  {
-   "club": "NPSA",
-   "id": "12249156",
-   "name": "WW SURF GA"
+   "club": "Eastside FC (WA)",
+   "id": "50019603",
+   "name": "Eastside FC ECNL G2013/14"
   },
   {
    "club": "PacNW",
-   "id": "12249440",
-   "name": "PacNW SC Maroon (WA)"
+   "id": "50019601",
+   "name": "SC ECNL G2013/14"
   },
   {
-   "club": "Blackhills FC",
-   "id": "12249441",
-   "name": "Blackhills FC Black"
-  },
-  {
-   "club": "Cascade FC",
-   "id": "12249442",
-   "name": "Cascade FC Green (Shane)"
-  },
-  {
-   "club": "Wenatchee FA",
-   "id": "12249443",
-   "name": "Wenatchee FA Black (WA)"
-  },
-  {
-   "club": "Sozo FC",
-   "id": "12249445",
-   "name": "Sozo FC Gold"
+   "club": "Crossfire Premier",
+   "id": "50019602",
+   "name": "XF ECNL G2013/14"
   },
   {
    "club": "Seattle United",
-   "id": "12249446",
-   "name": "Seattle United Copa (WA)"
+   "id": "50019600",
+   "name": "ECNL G2013/14"
+  },
+  {
+   "club": "Seattle Reign Academy",
+   "id": "40070994",
+   "name": "GA 13/14"
+  },
+  {
+   "club": "Seattle Celtic",
+   "id": "40070694",
+   "name": "GA 13/14"
+  },
+  {
+   "club": "Kittitas Valley Junior Soccer Association",
+   "id": "40047604",
+   "name": "G13-14 Pumas Ellensburg O\u2019Brion"
+  },
+  {
+   "club": "Terrace Brier SC",
+   "id": "40047983",
+   "name": "G2013/14 Larsen"
   },
   {
    "club": "Columbia Premier Soccer Club",
-   "id": "12250319",
-   "name": "Columbia Premier Inspire Blue"
+   "id": "40070739",
+   "name": "GA 13/14"
   },
   {
-   "club": "NPSA",
-   "id": "12257190",
-   "name": "WW SURF PREMIER CENTRAL A"
-  },
-  {
-   "club": "Chuckanut Tide FC",
-   "id": "12257191",
-   "name": "Chuckanut Tide Green"
-  },
-  {
-   "club": "NPSA",
-   "id": "12257192",
-   "name": "WW SURF PREMIER NORTH A"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "12257193",
-   "name": "Seattle Celtic Green"
-  },
-  {
-   "club": "Albion SC Washington",
-   "id": "12257195",
-   "name": "Albion SC WA Premier"
-  },
-  {
-   "club": "Emerald City FC",
-   "id": "12257196",
-   "name": "ECFC White"
+   "club": "Crossfire Premier",
+   "id": "40092869",
+   "name": "XF ECNL RL G2013/14"
   },
   {
    "club": "TC United",
-   "id": "12258010",
-   "name": "TC United Navy (WA)"
+   "id": "40047632",
+   "name": "TC G2013-14 White (U13)"
   },
   {
-   "club": "Club America Wenatchee",
-   "id": "12258013",
-   "name": "Club America-Wenatchee Wolves WA"
+   "club": "TC United",
+   "id": "40021271",
+   "name": "TC United N1 G2013-14 Navy (WA)"
   },
   {
-   "club": "West Sound Soccer Academy",
-   "id": "12268120",
-   "name": "WSSA"
+   "club": "Seattle Celtic",
+   "id": "40047785",
+   "name": "Seattle Celtic G13 Green"
   },
   {
-   "club": "Mt Rainier Futbol Club",
-   "id": "12268121",
-   "name": "MRFC Academy"
-  },
-  {
-   "club": "Emerald City FC",
-   "id": "12268123",
-   "name": "ECFC Green"
-  },
-  {
-   "club": "Sparta Tacoma",
-   "id": "12268125",
-   "name": "Red"
-  },
-  {
-   "club": "Nido Aguila Seattle",
-   "id": "12268131",
-   "name": "CA Nido Aguila Tukwila Cortes"
-  },
-  {
-   "club": "NPSA",
-   "id": "12268191",
-   "name": "WW SURF ACADEMY A"
-  },
-  {
-   "club": "Club America Nido Aguila",
-   "id": "12273906",
-   "name": "Tri-Cities"
-  },
-  {
-   "club": "NCW United FC",
-   "id": "12273907",
-   "name": "Balauro"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "12273910",
-   "name": "Basin Sounders Carlile"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "12273911",
-   "name": "Basin Sounders Deras"
+   "club": "Sozo FC",
+   "id": "40019860",
+   "name": "Sozo FC Gold GU13"
   },
   {
    "club": "Lake Chelan FC",
-   "id": "12274602",
-   "name": "Lake Chelan FC"
+   "id": "40047690",
+   "name": "Lake Chelan FC G2013/14"
   },
   {
-   "club": "NPSA",
-   "id": "12280296",
-   "name": "WW SURF ASPIRE"
+   "club": "Club America Nido Aguila",
+   "id": "40047805",
+   "name": "Tri-Cities G13/14"
   },
   {
-   "club": "South Kitsap Soccer Club",
-   "id": "12280508",
-   "name": "SK United"
-  },
-  {
-   "club": "Northshore Select Club",
-   "id": "12310816",
-   "name": "NSC"
+   "club": "Columbia Premier Soccer Club",
+   "id": "50019590",
+   "name": "Aspire 13/14"
   },
   {
    "club": "Albion SC Washington",
-   "id": "12311599",
-   "name": "Albion SC WA Elite (WA)"
+   "id": "40021274",
+   "name": "Albion SC WA N1 G13/14 Elite (WA)"
   },
   {
-   "club": "90+ Project SC",
-   "id": "12314214",
-   "name": "Dunbar"
-  },
-  {
-   "club": "Sozo FC",
-   "id": "12318843",
-   "name": "SOZO FC"
-  },
-  {
-   "club": "Pacific FC Washington",
-   "id": "12319695",
-   "name": "Pacific FC Cyclones (OR)"
-  },
-  {
-   "club": "Albion SC Washington",
-   "id": "12327237",
-   "name": "Albion SC Washington GA Aspire"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "12341766",
-   "name": "COLUMBIA BASIN BLACK"
-  },
-  {
-   "club": "Seattle United",
-   "id": "14159650",
-   "name": "Seattle United ECNL"
-  },
-  {
-   "club": "Seattle United",
-   "id": "14168050",
-   "name": "Seattle United ECNL RL"
-  },
-  {
-   "club": "North Puget Sound League",
-   "id": "14996750",
-   "name": "NPSL Player Development Academy"
-  },
-  {
-   "club": "Terrace Brier SC",
-   "id": "15269850",
-   "name": "Larsen"
-  },
-  {
-   "club": "Stanwood Camano Youth Soccer Club",
-   "id": "15272900",
-   "name": "SCYSC"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "15273450",
-   "name": "- Blessing"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "15805250",
-   "name": "- Jensen"
-  },
-  {
-   "club": "Washington Premier FC",
-   "id": "15867900",
-   "name": "Black"
-  },
-  {
-   "club": "Washington Premier FC",
-   "id": "15868100",
-   "name": "Washington Premier Pre-ECNL"
-  },
-  {
-   "club": "Three Rivers Soccer Club",
-   "id": "15868750",
-   "name": "Shintaffer"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "15869000",
-   "name": "Pre GA"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300161054",
-   "name": "Seattle United SH Blue"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300161055",
-   "name": "Seattle United South Blue"
-  },
-  {
-   "club": "HSA Select",
-   "id": "300298309",
-   "name": "Bonaci"
-  },
-  {
-   "club": "Kitsap Alliance FC",
-   "id": "300423426",
-   "name": "Blue (WA)"
-  },
-  {
-   "club": "Highline Premier Football Club",
-   "id": "300423427",
-   "name": "HPFC Eagles Blue"
-  },
-  {
-   "club": "Northwest United FC",
-   "id": "300423428",
-   "name": "NW United Black"
-  },
-  {
-   "club": "FC Edmonds",
-   "id": "300423429",
-   "name": "- Havoc"
-  },
-  {
-   "club": "Mukilteo Youth SC",
-   "id": "300423430",
-   "name": "Mukilteo FC Navy - ReignStorm"
-  },
-  {
-   "club": "Puget Sound Soccer Club",
-   "id": "300423431",
-   "name": "PSSC Comets"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300423432",
-   "name": "GA"
-  },
-  {
-   "club": "Central Washington Sounders",
-   "id": "300423433",
-   "name": "CWS Grey Arias"
-  },
-  {
-   "club": "TC United",
-   "id": "300423435",
-   "name": "Navy"
-  },
-  {
-   "club": "TC United",
-   "id": "300423437",
-   "name": "White"
-  },
-  {
-   "club": "Sparta Tacoma",
-   "id": "300423440",
-   "name": "White"
+   "club": "Snohomish United",
+   "id": "40048008",
+   "name": "SN G13-14 Dear"
   },
   {
    "club": "Chuckanut Tide FC",
-   "id": "300423441",
-   "name": "Chuckanut Tide Green"
+   "id": "40047547",
+   "name": "Chuckanut Tide G13-14 Green"
   },
   {
-   "club": "Spokane Shadow",
-   "id": "300423442",
-   "name": "Pre-GA"
-  },
-  {
-   "club": "Sparta Tacoma",
-   "id": "300423444",
-   "name": "Red"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300423446",
-   "name": "BLACK VALLEY"
-  },
-  {
-   "club": "NPSA",
-   "id": "300423447",
-   "name": "WW SURF PUYALLUP A"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300423450",
-   "name": "COLUMBIA BASIN BLACK"
-  },
-  {
-   "club": "North Kitsap Soccer Club",
-   "id": "300423452",
-   "name": "NK Shield Maidens WA"
-  },
-  {
-   "club": "Wenatchee FC",
-   "id": "300423454",
-   "name": "Gonzalez"
-  },
-  {
-   "club": "Pacific FC Washington",
-   "id": "300423456",
-   "name": "Pacific FC Lightning"
-  },
-  {
-   "club": "Washington Rush",
-   "id": "300423457",
-   "name": "GA"
-  },
-  {
-   "club": "Wenatchee FC",
-   "id": "300423459",
-   "name": "Ouellet"
-  },
-  {
-   "club": "Steel United Washington",
-   "id": "300423460",
-   "name": "Steel United WA Elite"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300423461",
-   "name": "Spokane Shadow Navy"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300423462",
-   "name": "Navy South"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300423463",
-   "name": "COLUMBIA BASIN Pre-Aspire"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300423467",
-   "name": "Orange"
-  },
-  {
-   "club": "Kittitas Valley Junior Soccer Association",
-   "id": "300423469",
-   "name": "Pumas Ellensburg O\u2019Brion"
-  },
-  {
-   "club": "Lake Washington Premier Football Club",
-   "id": "300423470",
-   "name": "LWPFC White Viperfish"
-  },
-  {
-   "club": "90+ Project SC",
-   "id": "300423471",
-   "name": "Pribilovics"
-  },
-  {
-   "club": "NPSA",
-   "id": "300423474",
-   "name": "WW SURF MEDINA A"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300423475",
-   "name": "White"
-  },
-  {
-   "club": "XL",
-   "id": "300423479",
-   "name": "MIFC Maroon"
-  },
-  {
-   "club": "Sound FC",
-   "id": "300423480",
-   "name": "Aspire"
-  },
-  {
-   "club": "Seattle Reign Academy",
-   "id": "300423481",
-   "name": "G2014-2"
-  },
-  {
-   "club": "Emerald City Football Club",
-   "id": "300423482",
-   "name": "ECFC Green"
-  },
-  {
-   "club": "NPSA",
-   "id": "300423484",
-   "name": "WW SURF ELITE CENTRAL PRE-GA ASPIRE"
-  },
-  {
-   "club": "Central Washington Sounders",
-   "id": "300423485",
-   "name": "CWS White Strom"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300423486",
-   "name": "Seattle Celtic Gold"
-  },
-  {
-   "club": "SW Riptide",
-   "id": "300423487",
-   "name": "SW Girls Riptide"
-  },
-  {
-   "club": "NPSA",
-   "id": "300423489",
-   "name": "WW SURF ELITE CENTRAL PRE-GA"
-  },
-  {
-   "club": "Whatcom Rangers",
-   "id": "300423493",
-   "name": "WFC Rangers Blue"
-  },
-  {
-   "club": "Walla Walla United Soccer Club",
-   "id": "300423494",
-   "name": "WWUSC"
-  },
-  {
-   "club": "Little Warriors Sports Academy",
-   "id": "300423495",
-   "name": "Little Warriors Attack"
-  },
-  {
-   "club": "Mt Rainier Futbol Club",
-   "id": "300423496",
-   "name": "MRFC Academy"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300423499",
-   "name": "BLACK"
-  },
-  {
-   "club": "Seattle Reign Academy",
-   "id": "300423501",
-   "name": "G2014-1"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300423504",
-   "name": "Spokane Shadow Pre Aspire"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300423505",
-   "name": "NW Blue"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300423509",
-   "name": "Tango"
-  },
-  {
-   "club": "Pilchuck Soccer Alliance",
-   "id": "300423517",
-   "name": "Pilchuck Force"
-  },
-  {
-   "club": "Cascade FC",
-   "id": "300423519",
-   "name": "Cascade FC Green"
-  },
-  {
-   "club": "FifeMiltonEdgewood Soccer Club",
-   "id": "300423520",
-   "name": "FME SC BLUE"
-  },
-  {
-   "club": "Washington Premier FC",
-   "id": "300423523",
-   "name": "Washington Premier - White"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300423526",
-   "name": "White"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300423527",
-   "name": "Red"
+   "club": "Kitsap Alliance FC",
+   "id": "40019893",
+   "name": "N1 G2013/14 Blue (WA)"
   },
   {
    "club": "West Sound Soccer Academy",
-   "id": "300423531",
-   "name": "WSSA"
-  },
-  {
-   "club": "Sno-King Youth Club",
-   "id": "300423532",
-   "name": "- Blessing"
-  },
-  {
-   "club": "Terrace Brier SC",
-   "id": "300423536",
-   "name": "Larsen"
-  },
-  {
-   "club": "Crossfire Select Soccer Club",
-   "id": "300423538",
-   "name": "B"
-  },
-  {
-   "club": "Crossfire Select Soccer Club",
-   "id": "300423539",
-   "name": "Crossfire Select A"
-  },
-  {
-   "club": "Crossfire Select Soccer Club",
-   "id": "300423540",
-   "name": "Valor Select Sas"
-  },
-  {
-   "club": "Bellevue United FC",
-   "id": "300423546",
-   "name": "BUFC Blue"
-  },
-  {
-   "club": "Mukilteo Youth SC",
-   "id": "300423549",
-   "name": "Hultkrantz"
-  },
-  {
-   "club": "XF",
-   "id": "300423552",
-   "name": "RCL"
-  },
-  {
-   "club": "XL",
-   "id": "300423553",
-   "name": "Onyx"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300423554",
-   "name": "Green"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300423555",
-   "name": "Black"
-  },
-  {
-   "club": "Crossfire Select Soccer Club",
-   "id": "300468135",
-   "name": "NWSC Deception FC"
-  },
-  {
-   "club": "Sozo FC",
-   "id": "300470320",
-   "name": "Gold Fernandez"
+   "id": "40047696",
+   "name": "WSSA G2013-2014"
   },
   {
    "club": "Three Rivers Soccer Club",
-   "id": "300470321",
-   "name": "Copa Wright"
-  },
-  {
-   "club": "Wenatchee United SC",
-   "id": "300470322",
-   "name": "Wenatchee United Wolves"
-  },
-  {
-   "club": "Three Rivers Soccer Club",
-   "id": "300470323",
-   "name": "Copa Lee"
-  },
-  {
-   "club": "Three Rivers Soccer Club",
-   "id": "300470324",
-   "name": "PRE-ECNL RL Cortes"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300471805",
-   "name": "BLACK SOUTH"
-  },
-  {
-   "club": "90+ Project SC",
-   "id": "300471806",
-   "name": "Tucker"
-  },
-  {
-   "club": "BVB IA Coeur D'Alene",
-   "id": "300478204",
-   "name": "BVBIA Coeur D'Alene"
-  },
-  {
-   "club": "Washington Premier Football Club",
-   "id": "300478616",
-   "name": "Pre-ECNL"
-  },
-  {
-   "club": "CYSA Timber Barons",
-   "id": "300483237",
-   "name": "Timber Barons"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300484712",
-   "name": "Copa"
-  },
-  {
-   "club": "Blue Crush",
-   "id": "300487038",
-   "name": "Blue Crush"
-  },
-  {
-   "club": "Coastal Clash",
-   "id": "300487039",
-   "name": "Coastal Clash"
-  },
-  {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300487411",
-   "name": "Columbia Premier Black"
-  },
-  {
-   "club": "Northwest United FC",
-   "id": "300489561",
-   "name": "NW United FC ENCL-RL"
-  },
-  {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300489892",
-   "name": "Columbia Premier SC Black"
-  },
-  {
-   "club": "TC United",
-   "id": "300489893",
-   "name": "TC White"
-  },
-  {
-   "club": "Mukilteo Youth SC",
-   "id": "300489894",
-   "name": "Mukilteo FC Green - Rose Point FC"
-  },
-  {
-   "club": "WPL Academy",
-   "id": "300489895",
-   "name": "WPL Academy Puget"
-  },
-  {
-   "club": "PacNW Soccer club",
-   "id": "300490506",
-   "name": "PACNW Blue"
-  },
-  {
-   "club": "Pacific FC Washington",
-   "id": "300490507",
-   "name": "Pacific FC Fury White"
-  },
-  {
-   "club": "The Champion",
-   "id": "300490508",
-   "name": "The Champion"
-  },
-  {
-   "club": "Pacific FC Washington",
-   "id": "300490509",
-   "name": "Pacific FC Gold Tsunami"
-  },
-  {
-   "club": "Deception FC",
-   "id": "300490510",
-   "name": "Deception FC"
-  },
-  {
-   "club": "Sound Football Club",
-   "id": "300490511",
-   "name": "Sound FC"
-  },
-  {
-   "club": "Pacific FC",
-   "id": "300490512",
-   "name": "Pacific FC Hurricanes Gold"
-  },
-  {
-   "club": "KVJSA Pumas",
-   "id": "300492047",
-   "name": "O'Brion"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300492610",
-   "name": "Eastside FC - Red"
-  },
-  {
-   "club": "Columbia Premier SC",
-   "id": "300492611",
-   "name": "Columbia Premier SC"
-  },
-  {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300493154",
-   "name": "Columbia Premier Inspire Purple"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300494375",
-   "name": "Pre-ECNL"
-  },
-  {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300497339",
-   "name": "Columbia Premier Inspire Pink"
-  },
-  {
-   "club": "Columbia Premier SC",
-   "id": "300497340",
-   "name": "Columbia Premier SC"
-  },
-  {
-   "club": "Granite Falls YSC",
-   "id": "300500071",
-   "name": "Granite FC"
-  },
-  {
-   "club": "United Sports Soccer Club",
-   "id": "300500072",
-   "name": "Navy"
-  },
-  {
-   "club": "Kittitas Valley Junior Soccer Association",
-   "id": "300502530",
-   "name": "Pumas Ellensburg Redwine"
-  },
-  {
-   "club": "Blackhills FC",
-   "id": "300511639",
-   "name": "Blackhills FC Black"
-  },
-  {
-   "club": "Washington Premier FC",
-   "id": "300519535",
-   "name": "Washington Premier Black"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300519537",
-   "name": "GA"
-  },
-  {
-   "club": "Granite Falls YSC",
-   "id": "300519540",
-   "name": "Granite FC"
-  },
-  {
-   "club": "Storm FC",
-   "id": "300519541",
-   "name": "Storm FC"
-  },
-  {
-   "club": "FC Edmonds",
-   "id": "300519542",
-   "name": "FC Edmonds - Havoc (WA)"
-  },
-  {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300519543",
-   "name": "GA"
-  },
-  {
-   "club": "Everett Youth Soccer Club",
-   "id": "300519544",
-   "name": "Everett FC - WA"
-  },
-  {
-   "club": "Columbia Premier Soccer Club",
-   "id": "300519545",
-   "name": "Aspire"
-  },
-  {
-   "club": "Northshore Select Club",
-   "id": "300519547",
-   "name": "Elite (WA)"
+   "id": "40092845",
+   "name": "3RSC ECNL RL G2013/14"
   },
   {
    "club": "Spokane Shadow",
-   "id": "300519548",
-   "name": "Aspire"
-  },
-  {
-   "club": "Whatcom Rangers",
-   "id": "300519550",
-   "name": "WFC Rangers ECNL RL"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300519551",
-   "name": "ECNL"
-  },
-  {
-   "club": "Snohomish United FC",
-   "id": "300519553",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Washington Premier FC",
-   "id": "300519554",
-   "name": "Washington Premier ECNL"
-  },
-  {
-   "club": "Washington Premier FC",
-   "id": "300519555",
-   "name": "Washington Premier ECNL RL"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300519556",
-   "name": "Eastside FC ECNL"
-  },
-  {
-   "club": "PacNW",
-   "id": "300519557",
-   "name": "SC ECNL"
-  },
-  {
-   "club": "Crossfire Premier",
-   "id": "300519558",
-   "name": "XF ECNL"
-  },
-  {
-   "club": "Valor Soccer",
-   "id": "300519559",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300532544",
-   "name": "PRE-ASPIRE"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300532545",
-   "name": "PRE-GA"
-  },
-  {
-   "club": "Dragons FC",
-   "id": "300532546",
-   "name": "DragonsFC"
-  },
-  {
-   "club": "Central Washington Sounders",
-   "id": "300532547",
-   "name": "CWS Navy"
-  },
-  {
-   "club": "TC United",
-   "id": "300532549",
-   "name": "TC Navy"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300532550",
-   "name": "PALOUSE BLACK"
-  },
-  {
-   "club": "North County Alliance Football Club",
-   "id": "300532551",
-   "name": "NCA"
-  },
-  {
-   "club": "South Kitsap Soccer Club",
-   "id": "300532552",
-   "name": "SK United Girls Maroon"
-  },
-  {
-   "club": "South Kitsap Soccer Club",
-   "id": "300532554",
-   "name": "SK United White"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300532555",
-   "name": "Spokane Shadow Copa"
-  },
-  {
-   "club": "Wenatchee United SC",
-   "id": "300532556",
-   "name": "Wenatchee United - Grey"
-  },
-  {
-   "club": "Cascade Premier Soccer Club",
-   "id": "300532557",
-   "name": "Cascade Premier White"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300532558",
-   "name": "RIVER VALLEY BLACK"
-  },
-  {
-   "club": "Central Washington Sounders",
-   "id": "300532559",
-   "name": "CWS ECNL RL"
-  },
-  {
-   "club": "HSA Select",
-   "id": "300532560",
-   "name": "Storm King FC Monsoon"
-  },
-  {
-   "club": "Basin Sounders",
-   "id": "300532561",
-   "name": "Quiroz"
-  },
-  {
-   "club": "Three Rivers Soccer Club",
-   "id": "300537818",
-   "name": "RCL Lee"
-  },
-  {
-   "club": "Washington Rush",
-   "id": "300544516",
-   "name": "GA"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300544517",
-   "name": "PREMIER"
-  },
-  {
-   "club": "Washington East Surf Soccer Club",
-   "id": "300544518",
-   "name": "WHITE"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300544519",
-   "name": "GA"
-  },
-  {
-   "club": "Northwest United FC",
-   "id": "300544520",
-   "name": "Northwest United ECNL RL"
-  },
-  {
-   "club": "90+ Project SC",
-   "id": "300544521",
-   "name": "Porter/Charbonneau"
-  },
-  {
-   "club": "Central Washington Sounders",
-   "id": "300544522",
-   "name": "U13-ECNL-RL"
-  },
-  {
-   "club": "PacNW",
-   "id": "300544523",
-   "name": "SC ECNL RL"
-  },
-  {
-   "club": "Cascade Foothills Soccer Club",
-   "id": "300544524",
-   "name": "Myers"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300544525",
-   "name": "ECNL"
-  },
-  {
-   "club": "Mount Rainier FC",
-   "id": "300544526",
-   "name": "Academy"
-  },
-  {
-   "club": "Seattle United",
-   "id": "300544527",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300544528",
-   "name": "Navy"
-  },
-  {
-   "club": "Central Washington Sounders",
-   "id": "300544529",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Whatcom Rangers",
-   "id": "300544530",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Basin Sounders",
-   "id": "300544531",
-   "name": "Deras"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300544532",
-   "name": "Eastside FC ECNL RL"
-  },
-  {
-   "club": "Spokane Shadow",
-   "id": "300544533",
-   "name": "Aspire"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300544534",
-   "name": "Eastside FC - Red"
-  },
-  {
-   "club": "Three Rivers Soccer Club",
-   "id": "300544535",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Crossfire Premier",
-   "id": "300544536",
-   "name": "XF ECNL RL"
-  },
-  {
-   "club": "Reign Academy",
-   "id": "300544537",
-   "name": "GA"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300544538",
-   "name": "ECNL RL - Deighton"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300554434",
-   "name": "Eastside FC - Pre-ECNL"
-  },
-  {
-   "club": "Eastside FC",
-   "id": "300554435",
-   "name": "Pre-ECNL"
+   "id": "40071071",
+   "name": "GA 13/14"
   },
   {
    "club": "Albion SC Washington",
-   "id": "300557205",
-   "name": "Aspire"
+   "id": "50019598",
+   "name": "Aspire 13/14"
   },
   {
-   "club": "Mt Rainier Futbol Club",
-   "id": "300559092",
-   "name": "Aspire"
-  },
-  {
-   "club": "Seattle Celtic FC",
-   "id": "300559093",
-   "name": "Aspire"
+   "club": "Seattle Celtic",
+   "id": "50019594",
+   "name": "Aspire 13/14"
   },
   {
    "club": "Washington East Surf Soccer Club",
-   "id": "300559094",
-   "name": "ASPIRE"
+   "id": "40070785",
+   "name": "GA 13/14"
+  },
+  {
+   "club": "NPSA",
+   "id": "40070579",
+   "name": "WW SURF GA 13/14"
+  },
+  {
+   "club": "Sparta Tacoma",
+   "id": "40047802",
+   "name": "G13/14 Red"
+  },
+  {
+   "club": "Washington Premier FC",
+   "id": "50019604",
+   "name": "Washington Premier ECNL RL G2013/14"
   },
   {
    "club": "Harbor FC",
-   "id": "300559095",
-   "name": "Aspire"
+   "id": "50019597",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Seattle United",
+   "id": "40092837",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "Albion SC Washington",
+   "id": "40047963",
+   "name": "Albion SC WA G13-14 Premier (U13)"
   },
   {
    "club": "Washington East Surf Soccer Club",
-   "id": "300559096",
-   "name": "ASPIRE CB"
+   "id": "50019592",
+   "name": "ASPIRE 13/14 CB"
   },
   {
    "club": "Seattle Reign Academy",
-   "id": "300559097",
-   "name": "Aspire"
+   "id": "50019595",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Central Washington Sounders",
+   "id": "40092880",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "Northshore Select Club",
+   "id": "40019857",
+   "name": "N1 G2013/14 Elite (WA)"
+  },
+  {
+   "club": "Washington Rush",
+   "id": "40070723",
+   "name": "GA 13/14"
+  },
+  {
+   "club": "South Kitsap Soccer Club",
+   "id": "40047971",
+   "name": "SK United G13-14-15 (GU13)"
+  },
+  {
+   "club": "FC Edmonds",
+   "id": "40047669",
+   "name": "FC Edmonds G2013/14 - Havoc (WA)"
+  },
+  {
+   "club": "North Kitsap Soccer Club",
+   "id": "40021270",
+   "name": "NK Shield Maidens N1 G13-14 WA"
+  },
+  {
+   "club": "Lake Washington Premier Football Club",
+   "id": "40047942",
+   "name": "LWPFC White Viperfish G13/14"
+  },
+  {
+   "club": "Wenatchee FA",
+   "id": "40019851",
+   "name": "Wenatchee FA N1 G13/14 Black (WA)"
+  },
+  {
+   "club": "PacNW",
+   "id": "40092847",
+   "name": "SC ECNL RL G2013/14"
+  },
+  {
+   "club": "Mt. Rainier Futbol Club",
+   "id": "50019589",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Washington East Surf Soccer Club",
+   "id": "40047883",
+   "name": "COLUMBIA BASIN G13-14 BLACK"
+  },
+  {
+   "club": "Sound FC",
+   "id": "50019593",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Snohomish United",
+   "id": "50019606",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "Everett Youth Soccer Club",
+   "id": "40021246",
+   "name": "Everett FC N1 G13/14 - WA"
+  },
+  {
+   "club": "Pacific FC Washington",
+   "id": "40019978",
+   "name": "Pacific FC N1 G2013/14 Cyclones (OR)"
+  },
+  {
+   "club": "Cascade FC",
+   "id": "40019891",
+   "name": "Cascade FC N1 G2013/14 Green (Shane)"
+  },
+  {
+   "club": "NPSA",
+   "id": "40047658",
+   "name": "WW SURF G13-15 PREMIER NORTH A"
+  },
+  {
+   "club": "Whatcom FC Rangers",
+   "id": "40092859",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "NCW United FC",
+   "id": "40047665",
+   "name": "G13-14 Balauro"
+  },
+  {
+   "club": "Blackhills FC",
+   "id": "40019855",
+   "name": "Blackhills FC GU13 Black"
+  },
+  {
+   "club": "Sno-King Youth Club",
+   "id": "40110108",
+   "name": "G2013-14 - Jensen"
+  },
+  {
+   "club": "Washington East Surf Soccer Club",
+   "id": "40047961",
+   "name": "RIVER VALLEY G13-14 BLACK"
+  },
+  {
+   "club": "Dragons FC",
+   "id": "40021273",
+   "name": "DragonsFC N1 G13-14"
+  },
+  {
+   "club": "Sno-King Youth Club",
+   "id": "40048027",
+   "name": "G2013-14 - Blessing"
+  },
+  {
+   "club": "Emerald City FC",
+   "id": "40047817",
+   "name": "ECFC F13/14 Green (GU13G)"
+  },
+  {
+   "club": "Central Washington Sounders",
+   "id": "40047702",
+   "name": "CWS Navy G2013/14"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "50019596",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Mt. Rainier Futbol Club",
+   "id": "40047845",
+   "name": "MRFC G13/14 Academy 2"
+  },
+  {
+   "club": "Mukilteo Youth SC",
+   "id": "40047919",
+   "name": "Mukilteo FC G13/14 Green - Rose Point FC"
+  },
+  {
+   "club": "Mukilteo Youth SC",
+   "id": "40047913",
+   "name": "Mukilteo FC G13/14 Navy - ReignStorm"
+  },
+  {
+   "club": "Granite Falls YSC",
+   "id": "40047593",
+   "name": "Granite FC G13/14"
+  },
+  {
+   "club": "Washington East Surf Soccer Club",
+   "id": "40047461",
+   "name": "G13-14 PREMIER"
+  },
+  {
+   "club": "Eastside FC (WA)",
+   "id": "40092873",
+   "name": "Eastside FC ECNL RL G2013/14"
+  },
+  {
+   "club": "Washington Premier FC",
+   "id": "40019870",
+   "name": "Washington Premier G13/14 Black"
+  },
+  {
+   "club": "Nido Aguila Seattle",
+   "id": "40047956",
+   "name": "CA Nido Aguila Tukwila G2014/G2015 Cortes"
+  },
+  {
+   "club": "PacNW",
+   "id": "40019833",
+   "name": "PacNW SC N1 G2013/14 Maroon (WA)"
+  },
+  {
+   "club": "Emerald City FC",
+   "id": "40047818",
+   "name": "ECFC F13/14 White (GU13W)"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "40047868",
+   "name": "Basin Sounders G2013/14 Deras 26-27"
+  },
+  {
+   "club": "90+ Project SC",
+   "id": "40047381",
+   "name": "90+ G13-14 Porter/Charbonneau"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "40047325",
+   "name": "Spokane Shadow G13/14 Navy"
+  },
+  {
+   "club": "Valor Soccer",
+   "id": "50019605",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "Washington East Surf Soccer Club",
+   "id": "50019591",
+   "name": "ASPIRE 13/14"
+  },
+  {
+   "club": "NPSA",
+   "id": "40047657",
+   "name": "WW SURF G13-15 PREMIER CENTRAL A"
+  },
+  {
+   "club": "Washington East Surf Soccer Club",
+   "id": "40047459",
+   "name": "G13-14 WHITE"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "40047866",
+   "name": "Basin Sounders G2013/14 Carlile 26-27"
+  },
+  {
+   "club": "Northwest United FC",
+   "id": "40092885",
+   "name": "Northwest United ECNL RL G2013/14"
+  },
+  {
+   "club": "Stanwood Camano Youth Soccer Club",
+   "id": "40048021",
+   "name": "SCYSC G13-15-GREATHOUSE"
+  },
+  {
+   "club": "Club America Wenatchee",
+   "id": "40021269",
+   "name": "Club America-Wenatchee N1 G13/16 Wolves WA"
+  },
+  {
+   "club": "90+ Project SC",
+   "id": "40047387",
+   "name": "90+ G13-14 Dunbar"
+  },
+  {
+   "club": "NPSA",
+   "id": "40071294",
+   "name": "WW SURF ASPIRE 13/14"
+  },
+  {
+   "club": "Washington Premier FC",
+   "id": "40089641",
+   "name": "WU South G13 (Nelson)-U13"
+  },
+  {
+   "club": "Cascade Foothills Soccer Club",
+   "id": "40089712",
+   "name": "U13 Myers"
+  },
+  {
+   "club": "Seattle United",
+   "id": "40091714",
+   "name": "G13 ECNL RL - Sam"
+  },
+  {
+   "club": "Seattle United",
+   "id": "40091723",
+   "name": "G13 Copa"
+  },
+  {
+   "club": "Reign Academy",
+   "id": "40091729",
+   "name": "GU13 GA"
+  },
+  {
+   "club": "Seattle Celtic",
+   "id": "40091738",
+   "name": "G13 GA Aspire"
+  },
+  {
+   "club": "Seattle Celtic",
+   "id": "40091747",
+   "name": "SC - G13 GA"
+  },
+  {
+   "club": "Washington Rush",
+   "id": "40091757",
+   "name": "GU13 GA"
+  },
+  {
+   "club": "Eastside FC (WA)",
+   "id": "40091786",
+   "name": "Eastside FC - GU13 Red"
+  },
+  {
+   "club": "Eastside FC (WA)",
+   "id": "40091790",
+   "name": "GU13 ECNL RL - Deighton"
+  },
+  {
+   "club": "Eastside FC (WA)",
+   "id": "40091793",
+   "name": "GU13 ECNL"
+  },
+  {
+   "club": "Mount Rainier FC",
+   "id": "40091848",
+   "name": "GU13 Academy 1"
+  },
+  {
+   "club": "Three Rivers Soccer Club",
+   "id": "40093556",
+   "name": "3RSC GU13 RCL Lee"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "40093606",
+   "name": "GU13 Aspire"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "40093615",
+   "name": "GU13 Navy"
+  },
+  {
+   "club": "Spokane Shadow",
+   "id": "40093623",
+   "name": "GU13 GA"
+  },
+  {
+   "club": "Basin Sounders",
+   "id": "40093647",
+   "name": "G2013/14 Deras"
   }
  ]
 }

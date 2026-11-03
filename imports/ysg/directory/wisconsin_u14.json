@@ -1,554 +1,214 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-10-27T13:58:34.126347+00:00",
+ "fetched_at": "2026-11-03T15:59:31.969461+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
   {
-   "club": "MC United Soccer Club",
-   "id": "11740534",
-   "name": "Aspire"
-  },
-  {
-   "club": "Hartford Soccer Club",
-   "id": "11830913",
-   "name": "HSC Girls Orange"
-  },
-  {
    "club": "FC Wisconsin Girls",
-   "id": "11834768",
-   "name": "FC Wisconsin GIrls - ECNL RL"
+   "id": "50019745",
+   "name": "FC Wisconsin ECNL G2012/13"
   },
   {
-   "club": "Croatian Eagles Soccer Club",
-   "id": "11948950",
-   "name": "Croatian Eagles MWC"
-  },
-  {
-   "club": "Wisconsin United Football Club",
-   "id": "11949059",
-   "name": "WIUFC Girls Elite I"
-  },
-  {
-   "club": "Milwaukee Kickers - Tosa",
-   "id": "12085079",
-   "name": "Tosa Girls Kicks Red"
-  },
-  {
-   "club": "North Disctrict Flyway",
-   "id": "12085084",
-   "name": "Brownsville Blue Heron"
-  },
-  {
-   "club": "Polonia Soccer Club",
-   "id": "12085085",
-   "name": "Polonia Girls Red II"
-  },
-  {
-   "club": "Let Kids Fly (LKF - Hawk Soccer)",
-   "id": "12085087",
-   "name": "LKF Character"
-  },
-  {
-   "club": "North Shore United Soccer Club",
-   "id": "12085091",
-   "name": "NSU Germantown Girls White"
-  },
-  {
-   "club": "SC Wave New Berlin",
-   "id": "12085093",
-   "name": "SCW Elite NB Sky Blue"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "12085387",
-   "name": "EBU GIRLS ACADEMY ASPIRE"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "12085391",
-   "name": "EBU GIRLS ACADEMY (GA)"
-  },
-  {
-   "club": "Milton Soccer Club",
-   "id": "12104205",
-   "name": "milton girls white"
-  },
-  {
-   "club": "Crimson",
-   "id": "12104264",
-   "name": "Girls Crimson"
-  },
-  {
-   "club": "Wisconsin Heights/Barneveld Van Eagles",
-   "id": "12104265",
-   "name": "Wisconsin Heights/Barneveld Van Eagles"
-  },
-  {
-   "club": "Mt Horeb Soccer Club",
-   "id": "12104267",
-   "name": "Mount Horeb Soccer Club Red"
-  },
-  {
-   "club": "Dells",
-   "id": "12104269",
-   "name": "Dells Girls"
-  },
-  {
-   "club": "Beaver Dam United Soccer Club",
-   "id": "12125276",
-   "name": "Beaver Dam United Soccer Club"
-  },
-  {
-   "club": "WSC Hydra",
-   "id": "12125277",
-   "name": "WSC Hydra"
-  },
-  {
-   "club": "Mt Horeb Soccer Club",
-   "id": "12125305",
-   "name": "Mount Horeb Girls"
-  },
-  {
-   "club": "FC Milwaukee Torrent Wales Soccer",
-   "id": "12125329",
-   "name": "Wales Thunder Strikers"
-  },
-  {
-   "club": "East Troy SC 43",
-   "id": "12153252",
-   "name": "East Troy Girls"
-  },
-  {
-   "club": "Cicchini Asphalt",
-   "id": "12160279",
-   "name": "Cicchini Asphalt"
-  },
-  {
-   "club": "Hodag Soccer Club",
-   "id": "12168791",
-   "name": "HSC MacFarland"
-  },
-  {
-   "club": "Portage County Youth Soccer",
-   "id": "12168800",
-   "name": "PCYS G O'Donnell"
-  },
-  {
-   "club": "Portage County Youth Soccer",
-   "id": "12170243",
-   "name": "PCYS O'Donnell"
-  },
-  {
-   "club": "Croatian Eagles SC",
-   "id": "12246266",
-   "name": "Croatian Eagles"
+   "club": "Wisconsin United FC",
+   "id": "50019744",
+   "name": "Aspire 12/13"
   },
   {
    "club": "AFC Union",
-   "id": "12248551",
-   "name": "AFC Union"
-  },
-  {
-   "club": "Forward Madison FC",
-   "id": "12248553",
-   "name": "Rally Madison FC"
+   "id": "40018754",
+   "name": "AFC Union U14G N1"
   },
   {
    "club": "River Surge FC",
-   "id": "12251724",
-   "name": "River Surge FC Girls Blue WI"
-  },
-  {
-   "club": "Wisconsin United FC",
-   "id": "12251725",
-   "name": "WIUFC Girls Elite"
-  },
-  {
-   "club": "SC Wave",
-   "id": "12283915",
-   "name": "Aspire"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "12302280",
-   "name": "TCSL State WW"
-  },
-  {
-   "club": "EBU",
-   "id": "14552000",
-   "name": "EBU Premier"
-  },
-  {
-   "club": "EBU",
-   "id": "14552050",
-   "name": "EBU Premier"
-  },
-  {
-   "club": "RUSH Wisconsin West",
-   "id": "16036300",
-   "name": "LXU Girls Elite"
-  },
-  {
-   "club": "/  WR Kickers Kandler/Hellner",
-   "id": "16038850",
-   "name": "WR Kickers Kandler/Hellner"
-  },
-  {
-   "club": "LX United (Rush)",
-   "id": "16220150",
-   "name": "Girls Select"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "16220200",
-   "name": "Madison Girls White"
-  },
-  {
-   "club": "Hartford United Soccer Club",
-   "id": "16220300",
-   "name": "HUSC Girls"
-  },
-  {
-   "club": "Lake Country FC",
-   "id": "16220350",
-   "name": "Lake Country FC Blue"
-  },
-  {
-   "club": "Forward Madison FC",
-   "id": "16220400",
-   "name": "Rally Madison Select"
-  },
-  {
-   "club": "Waunakee Area Soccer Club",
-   "id": "16220450",
-   "name": "Purple"
-  },
-  {
-   "club": "Rush Wisconsin",
-   "id": "16278400",
-   "name": "Rush WI Girls Rush"
-  },
-  {
-   "club": "River Surge FC",
-   "id": "16316850",
-   "name": "River Surge"
-  },
-  {
-   "club": "ACE SOCCER CLUB",
-   "id": "300188692",
-   "name": "ACE"
-  },
-  {
-   "club": "RUSH Wisconsin Soccer Club",
-   "id": "300405090",
-   "name": "Rush WI Girls Rush"
-  },
-  {
-   "club": "ACE SOCCER CLUB",
-   "id": "300405093",
-   "name": "ACE GIRLS Black"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club - Tosa",
-   "id": "300405095",
-   "name": "Tosa Kickers Kicks Blue"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300405096",
-   "name": "GA"
-  },
-  {
-   "club": "River Surge FC",
-   "id": "300405102",
-   "name": "River Surge Girls Blue"
-  },
-  {
-   "club": "North Shore United",
-   "id": "300405103",
-   "name": "GA"
-  },
-  {
-   "club": "Regent Soccer Club",
-   "id": "300405104",
-   "name": "Azzurre"
-  },
-  {
-   "club": "Middleton United Soccer Club",
-   "id": "300405106",
-   "name": "Middleton United SC Red"
+   "id": "40018789",
+   "name": "River Surge FC N1 Girls 14U Blue WI"
   },
   {
    "club": "Elmbrook United",
-   "id": "300405107",
-   "name": "Aspire"
-  },
-  {
-   "club": "RUSH Wisconsin West",
-   "id": "300405108",
-   "name": "RWW Girls"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300405109",
-   "name": "Madison Girls Silver"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300405111",
-   "name": "WWFC"
-  },
-  {
-   "club": "AC Toros",
-   "id": "300405113",
-   "name": "AC Toros Girls Red"
-  },
-  {
-   "club": "SC Wave",
-   "id": "300405117",
-   "name": "GA"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "300405120",
-   "name": "GA"
-  },
-  {
-   "club": "Polonia SC",
-   "id": "300405125",
-   "name": "Polonia (WI)"
-  },
-  {
-   "club": "Let Kids Fly",
-   "id": "300405128",
-   "name": "LKF CHARACTER"
-  },
-  {
-   "club": "FC Wisconsin",
-   "id": "300405131",
-   "name": "ECNL"
-  },
-  {
-   "club": "FC Wisconsin",
-   "id": "300405132",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "Wisconsin United Football Club",
-   "id": "300477052",
-   "name": "WI United FC Aspire"
-  },
-  {
-   "club": "North Shore United",
-   "id": "300477053",
-   "name": "Aspire"
+   "id": "50019741",
+   "name": "GA 12/13"
   },
   {
    "club": "Croatian Eagles SC",
-   "id": "300477615",
-   "name": "Aspire"
+   "id": "50019742",
+   "name": "Aspire 12/13"
   },
   {
-   "club": "Milwaukee Kickers Academy",
-   "id": "300477616",
-   "name": "Milwaukee Kickers DPL"
-  },
-  {
-   "club": "Fox Cities United Soccer Club",
-   "id": "300477976",
-   "name": "Fox Cities United Top Tekkers Girls"
-  },
-  {
-   "club": "Bavarian United",
-   "id": "300477977",
-   "name": "BUSC Girls White"
-  },
-  {
-   "club": "Chequamegon Bay SC (CBSC)",
-   "id": "300478163",
-   "name": "Chequamegon Bay SC (CBSC) -"
-  },
-  {
-   "club": "UG Royal",
-   "id": "300479312",
-   "name": "Royal"
-  },
-  {
-   "club": "RUSH Wisconsin West",
-   "id": "300479313",
-   "name": "RWW Girls"
-  },
-  {
-   "club": "Verona Soccer Club",
-   "id": "300481184",
-   "name": "Verona Black"
-  },
-  {
-   "club": "Sonic Soccer Club Strikers",
-   "id": "300481185",
-   "name": "Sonic Soccer Club Strikers"
-  },
-  {
-   "club": "Polonia SC",
-   "id": "300481186",
-   "name": "Polonia Girls White Eagles"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Club - Tosa",
-   "id": "300481187",
-   "name": "MK TO G KICKS RED"
-  },
-  {
-   "club": "NSU Germantown",
-   "id": "300481188",
-   "name": "NSU Germantown Girls Blue"
-  },
-  {
-   "club": "Croatian Eagles Soccer Club",
-   "id": "300485334",
-   "name": "Croatian Eagles White-"
-  },
-  {
-   "club": "Bavarian United",
-   "id": "300485335",
-   "name": "BUSC Girls Blue"
-  },
-  {
-   "club": "Superior FC",
-   "id": "300488877",
-   "name": "Superior FC Girls"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300488878",
-   "name": "FC Wisconsin ECNL"
+   "club": "Lakeshore United FC",
+   "id": "50019746",
+   "name": "LUFC U14G Navy N1"
   },
   {
    "club": "SC Wave",
-   "id": "300504787",
-   "name": "Aspire"
+   "id": "50019740",
+   "name": "GA 12/13"
   },
   {
-   "club": "Madison 56ers",
-   "id": "300514933",
-   "name": "Aspire"
+   "club": "North Shore United",
+   "id": "40070759",
+   "name": "GA 12/13"
   },
   {
-   "club": "FC Wisconsin Girls",
-   "id": "300518951",
-   "name": "FC Wisconsin ECNL"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300531713",
-   "name": "FC Wisconsin ECNL RL"
-  },
-  {
-   "club": "River Surge FC",
-   "id": "300534108",
-   "name": "River Surge FC"
+   "club": "Forward Madison FC",
+   "id": "40018671",
+   "name": "Rally Madison FC U14G N1"
   },
   {
    "club": "Polonia SC",
-   "id": "300543481",
-   "name": "Polonia Girls Red - State"
+   "id": "40018700",
+   "name": "N1 G2012/13 Polonia (WI)"
   },
   {
-   "club": "Wisconsin United FC",
-   "id": "300548868",
-   "name": "Aspire"
-  },
-  {
-   "club": "Rice Lake Soccer Association",
-   "id": "300555184",
-   "name": "RLSA Stars"
-  },
-  {
-   "club": "Reedsburg SC",
-   "id": "300555185",
-   "name": "Reedsburg SC Girls"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300555974",
-   "name": "TCSL Regional WWFC"
-  },
-  {
-   "club": "AC Toros",
-   "id": "300555975",
-   "name": "AC Toros Girls Red"
-  },
-  {
-   "club": "Eau Claire United  (ECU)",
-   "id": "300555976",
-   "name": "Eau Claire United"
-  },
-  {
-   "club": "Elmbrook United-Brookfield/Elm Grov",
-   "id": "300555977",
-   "name": "EBU Premier"
-  },
-  {
-   "club": "Elmbrook United-Brookfield/Elm Grov",
-   "id": "300555978",
-   "name": "EBU Girls Premier"
-  },
-  {
-   "club": "Milwaukee Kickers - Tosa",
-   "id": "300555979",
-   "name": "Tosa Kickers Blue"
-  },
-  {
-   "club": "Lakeshore United FC",
-   "id": "300555980",
-   "name": "LUFC green"
-  },
-  {
-   "club": "North Shore United Soccer Club",
-   "id": "300555981",
-   "name": "NSU Girls State Level"
-  },
-  {
-   "club": "North Shore United Soccer Club",
-   "id": "300555982",
-   "name": "NSU Germantown Girls Blue"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300555983",
-   "name": "Madison Girls Silver"
-  },
-  {
-   "club": "Port Washington Soccer Club",
-   "id": "300555984",
-   "name": "PWSC Girls"
-  },
-  {
-   "club": "Milwaukee Kickers Soccer Association",
-   "id": "300555985",
-   "name": "MKSC Union Red"
-  },
-  {
-   "club": "Lakeshore United FC",
-   "id": "300557521",
-   "name": "LUFC Navy"
-  },
-  {
-   "club": "RUSH Wisconsin",
-   "id": "300557522",
-   "name": "G Rush (WI)"
+   "club": "North Shore United",
+   "id": "40071514",
+   "name": "Aspire 12/13"
   },
   {
    "club": "Elmbrook United",
-   "id": "300558585",
-   "name": "GA"
+   "id": "50019743",
+   "name": "Aspire 12/13"
+  },
+  {
+   "club": "Wisconsin United FC",
+   "id": "40018794",
+   "name": "WIUFC U14 Girls Elite 1"
+  },
+  {
+   "club": "RUSH Wisconsin",
+   "id": "50019738",
+   "name": "N1 G 2012/13 Rush (WI)"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "50019739",
+   "name": "GA 12/13"
   },
   {
    "club": "SC Wave",
-   "id": "300558586",
-   "name": "GA"
+   "id": "40071378",
+   "name": "Aspire 12/13"
+  },
+  {
+   "club": "Bavarian United SC",
+   "id": "40018826",
+   "name": "BUSC U14 Girls Blue"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "40071226",
+   "name": "Aspire 12/13"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "40018805",
+   "name": "Croatian Eagles 14uG N1"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "40096164",
+   "name": "FC Wisconsin ECNL RL G2012/13"
+  },
+  {
+   "club": "ACE SC",
+   "id": "40018840",
+   "name": "ACE Girls"
+  },
+  {
+   "club": "LX United (Rush)",
+   "id": "40105127",
+   "name": "U14 Girls Select"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "40105128",
+   "name": "Madison 56ers U14 Girls White"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "40105129",
+   "name": "Madison 56ers U14 Girls Silver"
+  },
+  {
+   "club": "Hartford United Soccer Club",
+   "id": "40105130",
+   "name": "HUSC U14 Girls"
+  },
+  {
+   "club": "Lake Country FC",
+   "id": "40105131",
+   "name": "Lake Country FC U14G Blue"
+  },
+  {
+   "club": "Forward Madison FC",
+   "id": "40105132",
+   "name": "Rally Madison U14G Select"
+  },
+  {
+   "club": "Waunakee Area Soccer Club",
+   "id": "40105133",
+   "name": "U14G Purple"
+  },
+  {
+   "club": "North Shore United Soccer Club",
+   "id": "40106320",
+   "name": "NSU Germantown U14 Girls Blue"
+  },
+  {
+   "club": "Port Washington Soccer Club",
+   "id": "40106321",
+   "name": "PWSC U14 Girls"
+  },
+  {
+   "club": "Rush Wisconsin",
+   "id": "40106322",
+   "name": "Rush WI U14 Girls Rush"
+  },
+  {
+   "club": "North Shore United Soccer Club",
+   "id": "40106323",
+   "name": "NSU U14 Girls State Level"
+  },
+  {
+   "club": "Eau Claire United  (ECU)",
+   "id": "40106324",
+   "name": "Eau Claire United 13/14UG"
+  },
+  {
+   "club": "River Surge FC",
+   "id": "40106325",
+   "name": "River Surge FC"
+  },
+  {
+   "club": "Elmbrook United-Brookfield/Elm Grov",
+   "id": "40106326",
+   "name": "EBU 14U Girls Premier 2"
+  },
+  {
+   "club": "Elmbrook United-Brookfield/Elm Grov",
+   "id": "40106327",
+   "name": "EBU U14G Premier 1"
+  },
+  {
+   "club": "Milwaukee Kickers - Tosa",
+   "id": "40106328",
+   "name": "Tosa Kickers U14G Blue"
+  },
+  {
+   "club": "Lakeshore United FC",
+   "id": "40106329",
+   "name": "LUFC U14G green"
+  },
+  {
+   "club": "AC Toros",
+   "id": "40106330",
+   "name": "AC Toros U14 Girls Red"
+  },
+  {
+   "club": "Milwaukee Kickers SC (MKSC)",
+   "id": "40106331",
+   "name": "MKSC Union 2013G Red"
   }
  ]
 }

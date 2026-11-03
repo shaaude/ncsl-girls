@@ -1,444 +1,179 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-10-27T13:58:54.112345+00:00",
+ "fetched_at": "2026-11-03T15:59:52.074948+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
   {
-   "club": "Madison 56ers",
-   "id": "300371903",
-   "name": "GA"
+   "club": "Wisconsin United FC",
+   "id": "50019763",
+   "name": "Aspire 10/11"
   },
   {
    "club": "Elmbrook United",
-   "id": "300371875",
-   "name": "GA"
-  },
-  {
-   "club": "North Shore United",
-   "id": "300371878",
-   "name": "GA"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300541699",
-   "name": "FC Wisconsin ECNL"
-  },
-  {
-   "club": "SC Wave",
-   "id": "300371901",
-   "name": "GA"
+   "id": "40070648",
+   "name": "GA 10/11"
   },
   {
    "club": "Croatian Eagles SC",
-   "id": "300558976",
-   "name": "Aspire"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "300371891",
-   "name": "Aspire"
-  },
-  {
-   "club": "Wisconsin United FC",
-   "id": "300371895",
-   "name": "Aspire"
-  },
-  {
-   "club": "FC Wisconsin",
-   "id": "300371935",
-   "name": "ECNL"
-  },
-  {
-   "club": "SC Wave",
-   "id": "300371892",
-   "name": "Aspire"
-  },
-  {
-   "club": "Lakeshore United FC",
-   "id": "300557456",
-   "name": "LUFC Navy"
-  },
-  {
-   "club": "SC Wave",
-   "id": "15595450",
-   "name": "GA"
-  },
-  {
-   "club": "MC United Soccer Club",
-   "id": "300371874",
-   "name": "Aspire"
-  },
-  {
-   "club": "Bavarian United",
-   "id": "300513344",
-   "name": "BUSC Girls Blue"
-  },
-  {
-   "club": "River Surge FC",
-   "id": "300513346",
-   "name": "River Surge FC Girls Blue WI"
-  },
-  {
-   "club": "Croatian Eagles Soccer Club",
-   "id": "300371909",
-   "name": "Croatian Eagles DPL"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300513347",
-   "name": "Aspire"
-  },
-  {
-   "club": "North Shore United",
-   "id": "300371886",
-   "name": "Aspire"
-  },
-  {
-   "club": "Milwaukee Kickers Academy",
-   "id": "300371884",
-   "name": "Milwaukee Kickers DPL"
-  },
-  {
-   "club": "RUSH WI Southeast",
-   "id": "300513345",
-   "name": "Girls National"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300371897",
-   "name": "WWFC"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300472972",
-   "name": "WW"
-  },
-  {
-   "club": "Milwaukee Kickers - Mukwonago",
-   "id": "11072918",
-   "name": "MK MUK White"
-  },
-  {
-   "club": "NO CLUB (WI)",
-   "id": "11364790",
-   "name": "Rebels"
-  },
-  {
-   "club": "Polonia SC",
-   "id": "11830979",
-   "name": "Polonia Girls Grey Eagles"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "11838540",
-   "name": "Girls White"
-  },
-  {
-   "club": "WIUFC Elite I",
-   "id": "11846962",
-   "name": "WIUFC Girls Elite I"
-  },
-  {
-   "club": "EBU",
-   "id": "11846964",
-   "name": "Girls Premier"
-  },
-  {
-   "club": "Western Wisconsin",
-   "id": "11996409",
-   "name": "WWFC"
-  },
-  {
-   "club": "Polonia Soccer Club",
-   "id": "12085097",
-   "name": "Polonia SC Girls Red Eagles"
-  },
-  {
-   "club": "Bavarian United",
-   "id": "12085098",
-   "name": "BUSC Girls Blue"
-  },
-  {
-   "club": "SC Wave New Berlin",
-   "id": "12085099",
-   "name": "SC Wave NB Elite Girls"
-  },
-  {
-   "club": "Delavan Soccer Club (DYSC)",
-   "id": "12085102",
-   "name": "Delavan Girls"
-  },
-  {
-   "club": "Let Kids Fly (LKF - Hawk Soccer)",
-   "id": "12085103",
-   "name": "LKF"
-  },
-  {
-   "club": "Milwaukee Kickers - Tosa",
-   "id": "12085104",
-   "name": "Tosa Kicks Girls"
-  },
-  {
-   "club": "Wild Rebels",
-   "id": "12122700",
-   "name": "Wild Rebels"
-  },
-  {
-   "club": "Stoughton",
-   "id": "12125334",
-   "name": "Stoughton Vikings"
-  },
-  {
-   "club": "Hartford Soccer Club",
-   "id": "12125340",
-   "name": "HSC Girls Orange"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "12125341",
-   "name": "Madison Grade Girls"
-  },
-  {
-   "club": "Let Kids Fly",
-   "id": "12125342",
-   "name": "LKF Character"
-  },
-  {
-   "club": "Waupaca Kickers Soccer Club",
-   "id": "12168812",
-   "name": "WKSC Ross"
-  },
-  {
-   "club": "Waupaca Kickers Soccer Club",
-   "id": "12170246",
-   "name": "WKSC Ross"
-  },
-  {
-   "club": "Niagara Northern Stars",
-   "id": "12170248",
-   "name": "Northern Stars Girls"
-  },
-  {
-   "club": "Croatian Eagles SC",
-   "id": "12257855",
-   "name": "Croatian Eagles"
-  },
-  {
-   "club": "Oregon Soccer Club",
-   "id": "12261758",
-   "name": "Oregon SC Orange (WI)"
-  },
-  {
-   "club": "Wisconsin United FC",
-   "id": "12261759",
-   "name": "WIUFC Girls Elite"
-  },
-  {
-   "club": "Fond du Lac Soccer Association",
-   "id": "12261760",
-   "name": "Fond Du Lac Phoenix Premier"
-  },
-  {
-   "club": "SC Wave",
-   "id": "12285088",
-   "name": "Aspire"
-  },
-  {
-   "club": "PCYS",
-   "id": "14081200",
-   "name": "PCYS Girls"
-  },
-  {
-   "club": "RUSH Wisconsin West",
-   "id": "16036650",
-   "name": "LXU Girls Elite"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "16041150",
-   "name": "EBU Girls Premier"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "16219650",
-   "name": "Madison Girls White"
-  },
-  {
-   "club": "Western Wisconsin",
-   "id": "16219700",
-   "name": "WWFC"
-  },
-  {
-   "club": "Elmbrook United-Brookfield/Elm Grov",
-   "id": "16219750",
-   "name": "EBU GIRLS' PREMIER"
-  },
-  {
-   "club": "Jefferson County United SC",
-   "id": "16219800",
-   "name": "JC United Girls Black"
-  },
-  {
-   "club": "FCMT Wales Soccer Club",
-   "id": "16219850",
-   "name": "United"
-  },
-  {
-   "club": "North Shore United Soccer Club",
-   "id": "16277800",
-   "name": "NSU State Level"
-  },
-  {
-   "club": "Rush Wisconsin",
-   "id": "16277950",
-   "name": "Rush WI Girls Rush"
-  },
-  {
-   "club": "HYSA United Northwood",
-   "id": "16316900",
-   "name": "HYSA United Northwood Girls"
-  },
-  {
-   "club": "Portage County Youth Soccer",
-   "id": "16316950",
-   "name": "PCYS Roberts"
-  },
-  {
-   "club": "Fond du Lac Soccer Association",
-   "id": "300197696",
-   "name": "Fondy Phoenix Select Girls"
-  },
-  {
-   "club": "Milwaukee Kickers - Mukwonago",
-   "id": "300197697",
-   "name": "MK MUK Blue"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "300371893",
-   "name": "EBU Girls Premier"
-  },
-  {
-   "club": "RUSH Wisconsin Soccer Club",
-   "id": "300371894",
-   "name": "Rush WI Girls Blue"
-  },
-  {
-   "club": "Croatian Eagles Soccer Club",
-   "id": "300371896",
-   "name": "Croatian Eagles Red-"
-  },
-  {
-   "club": "River Surge FC",
-   "id": "300371902",
-   "name": "BLUE"
-  },
-  {
-   "club": "RUSH Wisconsin Soccer Club",
-   "id": "300371921",
-   "name": "Rush WI G - Rush"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "300371930",
-   "name": "Girls Silver"
-  },
-  {
-   "club": "FC Wisconsin",
-   "id": "300371933",
-   "name": "ECNL RL"
-  },
-  {
-   "club": "SCW Elite NB",
-   "id": "300480816",
-   "name": "SCW Elite NB"
+   "id": "50019761",
+   "name": "Aspire 10/11"
   },
   {
    "club": "Forward Madison FC",
-   "id": "300480817",
-   "name": "Forward Madison FC"
+   "id": "50019759",
+   "name": "Rally Madison FC U16G N1"
   },
   {
-   "club": "Ace Gotham",
-   "id": "300485255",
-   "name": "Ace Gotham"
+   "club": "North Shore United",
+   "id": "40070758",
+   "name": "GA 10/11"
   },
   {
-   "club": "Rice Lake Soccer Association",
-   "id": "300486271",
-   "name": "RLSA Extreme"
+   "club": "Madison 56ers",
+   "id": "40070530",
+   "name": "GA 10/11"
   },
   {
-   "club": "Portage County Youth Soccer",
-   "id": "300487501",
-   "name": "PCYS G Roberts"
-  },
-  {
-   "club": "AFC Union",
-   "id": "300507368",
-   "name": "AFC Union"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300518304",
-   "name": "FC Wisconsin ECNL RL"
-  },
-  {
-   "club": "Hartford United SC",
-   "id": "300541698",
-   "name": "HUSC Girls"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "300541700",
-   "name": "FC Wisconsin ECNL RL"
-  },
-  {
-   "club": "Lakeshore United FC",
-   "id": "300541701",
-   "name": "LUFC Navy"
-  },
-  {
-   "club": "New Richmond",
-   "id": "300555162",
-   "name": "New Richmond"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "300555163",
-   "name": "WW VSA"
-  },
-  {
-   "club": "New Richmond Area Youth Soccer Association",
-   "id": "300555164",
-   "name": "NRSC Girls"
-  },
-  {
-   "club": "Rice Lake Soccer Association",
-   "id": "300555165",
-   "name": "RLSA Fire"
-  },
-  {
-   "club": "Eau Claire United  (ECU)",
-   "id": "300555853",
-   "name": "Eau Claire United"
+   "club": "SC Wave",
+   "id": "40070629",
+   "name": "GA 10/11"
   },
   {
    "club": "River Surge FC",
-   "id": "300555854",
-   "name": "River Surge FC Blue"
+   "id": "40018788",
+   "name": "River Surge FC N1 Girls 16U Blue WI"
   },
   {
    "club": "RUSH Wisconsin",
-   "id": "300558977",
-   "name": "G Rush (WI)"
+   "id": "50019758",
+   "name": "N1 G 2010/11 Rush (WI)"
   },
   {
-   "club": "Forward Madison FC",
-   "id": "300559974",
-   "name": "Rally Madison FC"
+   "club": "Lakeshore United FC",
+   "id": "40018750",
+   "name": "LUFC U16G Navy N1"
+  },
+  {
+   "club": "Wisconsin United FC",
+   "id": "40018795",
+   "name": "WIUFC U16 Girls Elite 1"
+  },
+  {
+   "club": "RUSH WI Southeast",
+   "id": "40018756",
+   "name": "U16 Girls National 1"
+  },
+  {
+   "club": "Oregon Soccer Club",
+   "id": "40018810",
+   "name": "Oregon SC N1 G2010/11/12 Orange (WI)"
+  },
+  {
+   "club": "Bavarian United SC",
+   "id": "50019760",
+   "name": "BUSC U16 Girls Blue"
+  },
+  {
+   "club": "Fond Du Lac SA",
+   "id": "40018831",
+   "name": "Fond Du Lac U16G Phoenix Premier"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "50019765",
+   "name": "FC Wisconsin ECNL G2010/11"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "40018804",
+   "name": "Croatian Eagles 16uG N1"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "40071227",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "50019762",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "North Shore United",
+   "id": "50019764",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "50019766",
+   "name": "FC Wisconsin ECNL RL G2010/11"
+  },
+  {
+   "club": "SC Wave",
+   "id": "40071377",
+   "name": "SC Wave Aspire 10/11"
+  },
+  {
+   "club": "Oregon SC",
+   "id": "40004568",
+   "name": "Oregon SC U16 Girls Orange"
+  },
+  {
+   "club": "RUSH Wisconsin",
+   "id": "40004584",
+   "name": "Rush WI U16 Girls Blue"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "40004686",
+   "name": "EBU 16U Girls Premier 1"
+  },
+  {
+   "club": "Hartford United SC",
+   "id": "40039460",
+   "name": "HUSC U16 Girls"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "40105117",
+   "name": "Madison 56ers U16 Girls White"
+  },
+  {
+   "club": "Western Wisconsin",
+   "id": "40105118",
+   "name": "G2010/11 WWFC"
+  },
+  {
+   "club": "Elmbrook United-Brookfield/Elm Grov",
+   "id": "40105119",
+   "name": "EBU 16U GIRLS' PREMIER 1"
+  },
+  {
+   "club": "Jefferson County United SC",
+   "id": "40105120",
+   "name": "JC United U16 Girls Black"
+  },
+  {
+   "club": "FCMT Wales Soccer Club",
+   "id": "40105121",
+   "name": "United"
+  },
+  {
+   "club": "Rush Wisconsin",
+   "id": "40106313",
+   "name": "Rush WI U16 Girls Rush"
+  },
+  {
+   "club": "North Shore United Soccer Club",
+   "id": "40106314",
+   "name": "NSU Germantown U15/U16G Blue"
+  },
+  {
+   "club": "River Surge FC",
+   "id": "40106315",
+   "name": "River Surge FC U16 Blue"
   }
  ]
 }
