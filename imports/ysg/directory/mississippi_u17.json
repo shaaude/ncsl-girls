@@ -1,10 +1,15 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-11-03T15:16:01.995097+00:00",
+ "fetched_at": "2026-11-10T15:50:39.070416+00:00",
  "state": "MS",
  "state_slug": "mississippi",
  "teams": [
+  {
+   "club": "Lobos Rush",
+   "id": "50028553",
+   "name": "2010 Lady Lobos Rush DESOTO Blue"
+  },
   {
    "club": "Hattiesburg Futbol Club",
    "id": "40092203",
@@ -12,7 +17,7 @@
   },
   {
    "club": "Mississippi Rush",
-   "id": "40023668",
+   "id": "50041188",
    "name": "MS Rush United N1 Girls 2009-2010 Premier MS"
   },
   {
@@ -22,13 +27,8 @@
   },
   {
    "club": "NWRAA",
-   "id": "40023730",
+   "id": "50041189",
    "name": "IFC N1 Girls 2009-2010 Premier MS"
-  },
-  {
-   "club": "Lobos Rush",
-   "id": "40074623",
-   "name": "2010 Lady Lobos Rush DESOTO Blue"
   },
   {
    "club": "Mississippi Rush",
@@ -54,6 +54,11 @@
    "club": "Meridian Surf Soccer Club",
    "id": "40105855",
    "name": "Meridian Surf SC"
+  },
+  {
+   "club": "Columbus Park & Recreation",
+   "id": "40179833",
+   "name": "GTE U16 High School Girls"
   }
  ]
 }

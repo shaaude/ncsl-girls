@@ -1,89 +1,24 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-03T15:35:52.806372+00:00",
+ "fetched_at": "2026-11-10T16:10:29.200259+00:00",
  "state": "OH",
  "state_slug": "ohio",
  "teams": [
+  {
+   "club": "Ambassadors FC",
+   "id": "50015883",
+   "name": "Ambassadors FC 2012 Girls Blue"
+  },
   {
    "club": "Clinton Massie SAY Premier",
    "id": "50015887",
    "name": "Clinton Massie Premier G12"
   },
   {
-   "club": "Riverdale SC",
-   "id": "40063311",
-   "name": "RSC Elite 14G"
-  },
-  {
-   "club": "PC United",
-   "id": "40042056",
-   "name": "PC United SC G12/13"
-  },
-  {
-   "club": "Canfield Soccer Club",
-   "id": "50015889",
-   "name": "Canfield- U14 Girls"
-  },
-  {
-   "club": "Dayton Futbol Academy",
-   "id": "40042100",
-   "name": "DFA 2012/2013G Premier"
-  },
-  {
-   "club": "Liberty Benton SA",
-   "id": "40068669",
-   "name": "LB Lady Eagles 2011/2012"
-  },
-  {
-   "club": "Elite FC",
-   "id": "50015898",
-   "name": "Elite FC GU15 Trapped"
-  },
-  {
-   "club": "Cuyahoga Valley Soccer Academy",
-   "id": "50015888",
-   "name": "Cuyahoga Valley Soccer Academy G2012/13 Red"
-  },
-  {
-   "club": "Archbold Bluestreaks",
-   "id": "40068778",
-   "name": "Archbold Bluestreaks G2011/2012"
-  },
-  {
-   "club": "Niles Youth Soccer League",
-   "id": "50015892",
-   "name": "Niles U14 G"
-  },
-  {
-   "club": "Delta FC",
-   "id": "40068782",
-   "name": "Delta FC Girls U15"
-  },
-  {
-   "club": "Sebring West Branch Soccer League",
-   "id": "50015893",
-   "name": "SWBSL U14G 2026"
-  },
-  {
-   "club": "Akron Metro Futbol Club",
-   "id": "40072900",
-   "name": "AMFC-GAFC U14/15 Girls Gold"
-  },
-  {
-   "club": "Cincy SC",
-   "id": "40055063",
-   "name": "Cincy SC G12-13 Orange"
-  },
-  {
-   "club": "Eclipse FC",
-   "id": "40042230",
-   "name": "Eclipse FC Thunder"
-  },
-  {
-   "club": "Boardman SA",
-   "id": "50015891",
-   "name": "Boardman 2012/13 Girls"
+   "club": "Ashland United Soccer",
+   "id": "50044260",
+   "name": "Ashland United"
   },
   {
    "club": "Dayton Futbol Academy",
@@ -91,9 +26,39 @@
    "name": "DFA 2012/2013G Elite"
   },
   {
-   "club": "Poland Youth SA",
-   "id": "50015890",
-   "name": "Poland Bulldogs Girls 2012-2013"
+   "club": "Eclipse FC",
+   "id": "50029440",
+   "name": "Eclipse FC Thunder"
+  },
+  {
+   "club": "Riverdale SC",
+   "id": "50052985",
+   "name": "RSC Elite 14G"
+  },
+  {
+   "club": "Elite FC",
+   "id": "50015898",
+   "name": "Elite FC U15 Girls Trapped"
+  },
+  {
+   "club": "Cuyahoga Valley Soccer Academy",
+   "id": "50015888",
+   "name": "Cuyahoga Valley Soccer Academy G2012/13 Red"
+  },
+  {
+   "club": "Canfield Soccer Club",
+   "id": "50015889",
+   "name": "Canfield- U14 Girls"
+  },
+  {
+   "club": "Legend SC",
+   "id": "50044261",
+   "name": "Legend SC U14/15 Girls"
+  },
+  {
+   "club": "Dayton Futbol Academy",
+   "id": "40042100",
+   "name": "DFA 2012/2013G Premier"
   },
   {
    "club": "Lawrenceburg Greendale Soccer Club",
@@ -101,19 +66,74 @@
    "name": "LGSC Ambush"
   },
   {
+   "club": "PC United SC",
+   "id": "40042056",
+   "name": "PC United SC G12/13"
+  },
+  {
+   "club": "Liberty Benton SA",
+   "id": "40068669",
+   "name": "LB Lady Eagles 2011/2012"
+  },
+  {
+   "club": "GFSC Geauga Federation Soccer Club",
+   "id": "50044259",
+   "name": "GFSC U14/U15G D3 East"
+  },
+  {
+   "club": "Akron Metro Futbol Club",
+   "id": "40072900",
+   "name": "AMFC-GAFC U14/15 Girls Gold"
+  },
+  {
+   "club": "Sebring West Branch Soccer League",
+   "id": "50015893",
+   "name": "SWBSL U14G 2026"
+  },
+  {
+   "club": "Cincy SC",
+   "id": "40055063",
+   "name": "Cincy SC G12-13 Orange"
+  },
+  {
+   "club": "Niles Youth Soccer League",
+   "id": "50015892",
+   "name": "Niles U14 G"
+  },
+  {
+   "club": "Archbold Bluestreaks",
+   "id": "40068778",
+   "name": "Archbold Bluestreaks G2011/2012"
+  },
+  {
+   "club": "Delta FC",
+   "id": "40068782",
+   "name": "Delta FC Girls U15"
+  },
+  {
+   "club": "Boardman SA",
+   "id": "50015891",
+   "name": "Boardman 2012/13 Girls"
+  },
+  {
    "club": "Freedom Soccer Club",
    "id": "50022181",
    "name": "FREEDOM U15 Girls"
   },
   {
-   "club": "Glass City SC",
-   "id": "40068712",
-   "name": "Glass City Girls U15"
+   "club": "Poland Youth SA",
+   "id": "50015890",
+   "name": "Poland Bulldogs Girls 2012-2013"
   },
   {
    "club": "Johnstown FC",
-   "id": "40062833",
+   "id": "50052984",
    "name": "Johnstown FC U14 Girls"
+  },
+  {
+   "club": "Glass City SC",
+   "id": "40068712",
+   "name": "Glass City Girls U15"
   },
   {
    "club": "Club Ohio",
@@ -146,19 +166,9 @@
    "name": "ECNL RL G2011/12"
   },
   {
-   "club": "Ambassadors FC",
-   "id": "50015883",
-   "name": "Ambassadors FC 2012 Girls Blue"
-  },
-  {
    "club": "Riverside Youth Soccer Club",
    "id": "40024340",
    "name": "U14/15 GIRLS NEMEC DIV 4 EAST"
-  },
-  {
-   "club": "GFSC Geauga Federation Soccer Club",
-   "id": "40024358",
-   "name": "GFSC U14/U15G D3 East"
   },
   {
    "club": "Orange Soccer Club",
@@ -181,24 +191,34 @@
    "name": "GU14-Black"
   },
   {
-   "club": "Ashland United Soccer",
-   "id": "40081077",
-   "name": "Ashland United"
+   "club": "Northwest FC",
+   "id": "40076156",
+   "name": "Northwest FC U15G Orange"
+  },
+  {
+   "club": "Central Ohio Elite",
+   "id": "40076177",
+   "name": "COE 2012G Blue"
+  },
+  {
+   "club": "Ohio Galaxies FC",
+   "id": "40076191",
+   "name": "Ohio Galaxies FC u15 Girls Black"
   },
   {
    "club": "Cleveland Force SC",
-   "id": "40090469",
-   "name": "ECNL G2011/12"
+   "id": "50052986",
+   "name": "Cleveland Force SC ECNL G2011/12"
   },
   {
    "club": "GTFC Impact",
-   "id": "40090475",
-   "name": "ECNL G2011/12"
+   "id": "50052987",
+   "name": "GTFC Impact ECNL G2011/12"
   },
   {
    "club": "Ohio Premier",
-   "id": "40090485",
-   "name": "ECNL G2011/12"
+   "id": "50052988",
+   "name": "Ohio Premier ECNL G2011/12"
   },
   {
    "club": "Internationals SC",
@@ -207,7 +227,7 @@
   },
   {
    "club": "Ohio Elite Soccer Academy",
-   "id": "40090499",
+   "id": "50052989",
    "name": "Ohio Elite SA ECNL G2011/12"
   },
   {
@@ -259,6 +279,91 @@
    "club": "Ohio Elite Soccer Academy",
    "id": "50020115",
    "name": "Ohio Elite SA ECNL RL G2011/12"
+  },
+  {
+   "club": "Bad Beaches",
+   "id": "40132074",
+   "name": "Bad Beaches"
+  },
+  {
+   "club": "PCFC",
+   "id": "40137421",
+   "name": "PCFC 2012 Girls Navy"
+  },
+  {
+   "club": "Wapakoneta Soccer Club",
+   "id": "40149909",
+   "name": "WSC G2012"
+  },
+  {
+   "club": "Soccer Vision Academy Girls",
+   "id": "40157191",
+   "name": "Soccer Vision Academy 2012 Girls"
+  },
+  {
+   "club": "OSA Independent Teams",
+   "id": "40158340",
+   "name": "Sycamore Jr High Girls Aviators"
+  },
+  {
+   "club": "Twinsburg AC Soccer",
+   "id": "40189464",
+   "name": "Twinsburg 6th Grade Girls Blue"
+  },
+  {
+   "club": "Stow Soccer Club",
+   "id": "40189528",
+   "name": "Girls U14/15 (Maroon)-Div 1"
+  },
+  {
+   "club": "LUFC",
+   "id": "40189540",
+   "name": "G11G-4W (U15) - Weaver - 26F"
+  },
+  {
+   "club": "Solon United",
+   "id": "40189568",
+   "name": "G-12/13 GOLD (U14/15 D2)"
+  },
+  {
+   "club": "Solon United g",
+   "id": "40189626",
+   "name": "Solon United g 12/13 Blue"
+  },
+  {
+   "club": "Green SA",
+   "id": "40189664",
+   "name": "GSA Black 2012"
+  },
+  {
+   "club": "Mayfield Soccer Club",
+   "id": "40189666",
+   "name": "2012/13 Girls U14/15 TB 3E"
+  },
+  {
+   "club": "Medina Soccer Association",
+   "id": "40189668",
+   "name": "Medina Classics U14/U15 white D4 South"
+  },
+  {
+   "club": "Highland Youth Soccer",
+   "id": "40189768",
+   "name": "Highland Tornadoes U14/15 3"
+  },
+  {
+   "club": "Shaker Youth Soccer Assn - Premier Football Club",
+   "id": "40189776",
+   "name": "Girls 2012/2013 Black - 2"
+  },
+  {
+   "club": "North Royalton Soccer Club",
+   "id": "40189809",
+   "name": "Girls U14/15 3 East"
+  },
+  {
+   "club": "Eastside Kickers Soccer Club",
+   "id": "40189831",
+   "name": "ESK Girls GU14"
   }
  ]
 }

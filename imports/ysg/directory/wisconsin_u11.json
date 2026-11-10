@@ -1,24 +1,44 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-11-03T15:59:01.944557+00:00",
+ "fetched_at": "2026-11-10T16:33:39.062220+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
+  {
+   "club": "Elmbrook United",
+   "id": "50049722",
+   "name": "Inspire 15/16"
+  },
+  {
+   "club": "St. Croix",
+   "id": "50053774",
+   "name": "TCSL State G2015/16 - ECU"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "50049723",
+   "name": "Madison 56ers U11 Girls Red"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "40182552",
+   "name": "TCSL Regional G2015/16 WWFC"
+  },
+  {
+   "club": "Lakeshore United FC",
+   "id": "50049721",
+   "name": "LUFC U11G Navy"
+  },
   {
    "club": "FC Wisconsin Girls",
    "id": "50019723",
    "name": "FC Wisconsin Pre-ECNL G2015/16"
   },
   {
-   "club": "Lakeshore United FC",
-   "id": "40004685",
-   "name": "LUFC U11G Navy"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "40073789",
-   "name": "Inspire 15/16"
+   "club": "Western Wisconsin Soccer",
+   "id": "40182557",
+   "name": "TCSL State G2015/16 WW"
   },
   {
    "club": "Croatian Eagles SC",
@@ -47,27 +67,22 @@
   },
   {
    "club": "Madison 56ers",
-   "id": "40105154",
+   "id": "50053778",
    "name": "Madison 56ers U11 Girls Gold"
   },
   {
    "club": "Madison 56ers",
-   "id": "40105155",
+   "id": "50053779",
    "name": "Madison 56ers U11 Girls Black"
   },
   {
    "club": "Madison 56ers",
-   "id": "40105156",
+   "id": "50053780",
    "name": "Madison 56ers U11 Girls Grey"
   },
   {
    "club": "Madison 56ers",
-   "id": "40105157",
-   "name": "Madison 56ers U11 Girls Red"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "40105158",
+   "id": "50053781",
    "name": "Madison 56ers U11 Girls White"
   },
   {
@@ -81,7 +96,7 @@
    "name": "EBU U11G Elite"
   },
   {
-   "club": "Capital East SC   (CESC)",
+   "club": "Capital East SC",
    "id": "40105161",
    "name": "Capital East 11UG Maroon"
   },
@@ -91,7 +106,7 @@
    "name": "Rock Rush girls u11-Blue"
   },
   {
-   "club": "Green Bay Lightning Soccer Club",
+   "club": "Green Bay Lightning",
    "id": "40105163",
    "name": "GBL Lightning U11 Girls"
   },
@@ -101,12 +116,12 @@
    "name": "LKF 15-16G Character"
   },
   {
-   "club": "North Shore United Soccer Club",
+   "club": "North Shore United",
    "id": "40106355",
    "name": "NSU Germantown U11 Girls Blue"
   },
   {
-   "club": "Oshkosh United Soccer Club",
+   "club": "Oshkosh United",
    "id": "40106356",
    "name": "Oshkosh United Select U11 Girls White"
   },
@@ -121,7 +136,7 @@
    "name": "BUSC U11 Girls Yellow"
   },
   {
-   "club": "Lake Country FC",
+   "club": "Lake Country Football Club",
    "id": "40106359",
    "name": "Lake Country FC U11G Blue"
   },
@@ -132,7 +147,7 @@
   },
   {
    "club": "Lakeshore United FC",
-   "id": "40106361",
+   "id": "50053782",
    "name": "LUFC U11G Gray"
   },
   {
@@ -152,8 +167,78 @@
   },
   {
    "club": "Port Washington Soccer Club",
-   "id": "40106365",
+   "id": "50053783",
    "name": "PWSC 2016 Girls"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "40127663",
+   "name": "LXU 2017 Girls Blue"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "50053771",
+   "name": "LXU U11 Girls Select Blue"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "50053772",
+   "name": "LXU U11 Girls Select Grey"
+  },
+  {
+   "club": "Soccer Club Of Reedsburg",
+   "id": "40127758",
+   "name": "Reedsburg SC U11 Girls"
+  },
+  {
+   "club": "Wisconsin United FC",
+   "id": "40145968",
+   "name": "WIUFC U11G Elite II Black"
+  },
+  {
+   "club": "WIUFC",
+   "id": "40145986",
+   "name": "WIUFC 9/10U Girls Palmas"
+  },
+  {
+   "club": "WIUFC",
+   "id": "40145996",
+   "name": "WIUFC U11G Select North"
+  },
+  {
+   "club": "RUSH WI Southeast",
+   "id": "40157581",
+   "name": "U11 Girls Premier 2"
+  },
+  {
+   "club": "AFC Union",
+   "id": "40158272",
+   "name": "AFC Union G 2016 Premier"
+  },
+  {
+   "club": "AC Toros",
+   "id": "40177016",
+   "name": "AC-TOROS 2016 GIRLS RED"
+  },
+  {
+   "club": "EBU",
+   "id": "40177056",
+   "name": "EBU 11U G Elite"
+  },
+  {
+   "club": "EBU",
+   "id": "50053773",
+   "name": "EBU U11G Premier 1"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "40177219",
+   "name": "EBU U10G Black"
+  },
+  {
+   "club": "WIUFC",
+   "id": "40177260",
+   "name": "WIUFC U11 Girls Elite 1"
   }
  ]
 }

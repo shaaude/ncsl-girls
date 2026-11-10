@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-03T15:04:22.027982+00:00",
+ "fetched_at": "2026-11-10T15:38:59.105038+00:00",
  "state": "KY",
  "state_slug": "kentucky",
  "teams": [
@@ -16,9 +16,29 @@
    "name": "GA 13/14 Cincinnati"
   },
   {
+   "club": "Lexington Sporting",
+   "id": "50027698",
+   "name": "Lexington Sporting Club - Academy ECNL RL G2013/14"
+  },
+  {
+   "club": "Kings Hammer Cincinnati",
+   "id": "50027696",
+   "name": "Aspire 13/14"
+  },
+  {
    "club": "Independence SC",
    "id": "50021363",
    "name": "ISC U13G United Blue"
+  },
+  {
+   "club": "LouCity / Racing Youth Academy",
+   "id": "50038972",
+   "name": "Racing Louisville Academy ECNL RL G2013/14"
+  },
+  {
+   "club": "Mockingbird Valley Premier",
+   "id": "50027691",
+   "name": "MVP N1 G2013/14 Gold (KY)"
   },
   {
    "club": "I AM 3RD SOCCER",
@@ -26,14 +46,14 @@
    "name": "IAM3rd PDA 2013/2014 Girls Black"
   },
   {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "50009402",
-   "name": "Racing South 2013/14 Purple"
+   "club": "Javanon FC",
+   "id": "50038969",
+   "name": "Aspire 13/14"
   },
   {
-   "club": "Mockingbird Valley Premier",
-   "id": "40023635",
-   "name": "MVP N1 G2013/14 Gold (KY)"
+   "club": "Marshall County SA",
+   "id": "50038970",
+   "name": "MC Dynamo U13 Girls"
   },
   {
    "club": "Eastern Elite Soccer Academy",
@@ -41,9 +61,9 @@
    "name": "Eastern Elite Soccer Academy U13 Girls Blue"
   },
   {
-   "club": "SKY Soccer Club (KY)",
-   "id": "50009404",
-   "name": "SKY Academy Select U13 Girls"
+   "club": "LouCity / Racing Youth Academy",
+   "id": "50009402",
+   "name": "Racing South 2013/14 Purple"
   },
   {
    "club": "LouCity / Racing Youth Academy",
@@ -51,39 +71,19 @@
    "name": "Racing Academy 2013/14 Grey"
   },
   {
+   "club": "SKY Soccer Club (KY)",
+   "id": "50009404",
+   "name": "SKY Academy Select U13 Girls"
+  },
+  {
    "club": "I AM 3RD SOCCER",
    "id": "50009399",
    "name": "IAM3rd PDA 2013/2014 Girls Blue"
   },
   {
-   "club": "Javanon FC",
-   "id": "40071768",
-   "name": "Aspire 13/14"
-  },
-  {
    "club": "Lexington Sporting",
-   "id": "40092952",
-   "name": "Club Academy ECNL RL G2013/14"
-  },
-  {
-   "club": "Lexington Sporting",
-   "id": "40069545",
+   "id": "50027694",
    "name": "Lex Sporting 13/14G Green"
-  },
-  {
-   "club": "Mockingbird Valley Premier",
-   "id": "40046329",
-   "name": "MVP G13/14 White"
-  },
-  {
-   "club": "Nelson Elite",
-   "id": "50009401",
-   "name": "Nelson Elite 2013-2014 Girls"
-  },
-  {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "40046333",
-   "name": "Racing Oldham 2013/14 Purple"
   },
   {
    "club": "Independence SC",
@@ -91,29 +91,9 @@
    "name": "ISC U13G United Green Rising Fury"
   },
   {
-   "club": "Independence SC",
-   "id": "50021364",
-   "name": "ISC U13G Rebels"
-  },
-  {
-   "club": "Kings Hammer Cincinnati",
-   "id": "40071289",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "50009395",
-   "name": "Racing Shelby 2013/14 Purple"
-  },
-  {
-   "club": "LouCity / Racing Youth Academy",
-   "id": "40092911",
-   "name": "Racing Louisville Academy ECNL RL G2013/14"
-  },
-  {
-   "club": "Campbell Soccer Club (CSC)",
-   "id": "50009400",
-   "name": "CampbellSC U13G Kremer"
+   "club": "Fusion FC NKY",
+   "id": "50038968",
+   "name": "Fusion FC GU13 Green"
   },
   {
    "club": "Kings Hammer Cincinnati",
@@ -121,9 +101,29 @@
    "name": "KHA NKY GU13 Red"
   },
   {
-   "club": "Fusion FC NKY",
-   "id": "40055009",
-   "name": "Fusion FC GU13 Black"
+   "club": "Nelson Elite",
+   "id": "50009401",
+   "name": "Nelson Elite 2013-2014 Girls"
+  },
+  {
+   "club": "Independence SC",
+   "id": "50021364",
+   "name": "ISC U13G Rebels"
+  },
+  {
+   "club": "LouCity / Racing Youth Academy",
+   "id": "50009395",
+   "name": "Racing Shelby 2013/14 Purple"
+  },
+  {
+   "club": "Mockingbird Valley Premier",
+   "id": "50038966",
+   "name": "MVP G13/14 White"
+  },
+  {
+   "club": "Campbell Soccer Club (CSC)",
+   "id": "50009400",
+   "name": "CampbellSC U13G Kremer"
   },
   {
    "club": "Nedo SC",
@@ -131,19 +131,29 @@
    "name": "Nedo SC GU13 Gold"
   },
   {
-   "club": "Georgetown FC",
-   "id": "50009394",
-   "name": "GFC Gtown U13G (2013/14)"
-  },
-  {
    "club": "Falls City Soccer Club",
-   "id": "40069606",
+   "id": "50027695",
    "name": "FCSC 13/14G GOLD"
   },
   {
+   "club": "LouCity / Racing Youth Academy",
+   "id": "50027692",
+   "name": "Racing Oldham 2013/14 Purple"
+  },
+  {
+   "club": "Fusion FC NKY",
+   "id": "50038967",
+   "name": "Fusion FC GU13 Black"
+  },
+  {
    "club": "Independence SC",
-   "id": "40055043",
-   "name": "ISC U13G Green Geckos"
+   "id": "50027697",
+   "name": "ISC GU13 Green Geckos"
+  },
+  {
+   "club": "Georgetown FC",
+   "id": "50009394",
+   "name": "GFC Gtown U13G (2013/14)"
   },
   {
    "club": "Central Kentucky Storm SC",
@@ -152,18 +162,13 @@
   },
   {
    "club": "Fusion FC NKY",
-   "id": "40055010",
+   "id": "50027693",
    "name": "Fusion FC GU13 White"
   },
   {
-   "club": "Fusion FC NKY",
-   "id": "40069383",
-   "name": "Fusion FC GU13 Green"
-  },
-  {
-   "club": "Marshall County SA",
-   "id": "40076807",
-   "name": "MC Dynamo U13 Girls"
+   "club": "Invictus F.C.",
+   "id": "50038971",
+   "name": "Invictus '13/14 Girls"
   },
   {
    "club": "Valor United FC",

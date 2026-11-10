@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-03T15:23:11.991289+00:00",
+ "fetched_at": "2026-11-10T15:57:49.064069+00:00",
  "state": "NV",
  "state_slug": "nevada",
  "teams": [
@@ -11,9 +11,19 @@
    "name": "GA 10/11"
   },
   {
+   "club": "LV Heat Surf SC",
+   "id": "50014287",
+   "name": "LV Heat Surf ECNL G2010/11"
+  },
+  {
    "club": "Las Vegas Sports Academy",
    "id": "50014286",
    "name": "GA 10/11"
+  },
+  {
+   "club": "LV Heat Surf SC",
+   "id": "50042687",
+   "name": "ECNL G2010/11"
   },
   {
    "club": "Reno APEX Soccer Club",
@@ -21,39 +31,54 @@
    "name": "ECNL RL G2010/11"
   },
   {
-   "club": "Albion SC Las Vegas",
-   "id": "50014285",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "LV Heat Surf SC",
-   "id": "50014287",
-   "name": "LV Heat Surf ECNL G2010/11"
-  },
-  {
    "club": "Las Vegas Storm FC",
    "id": "50014283",
    "name": "Las Vegas Storm FC GU16 Elite"
   },
   {
-   "club": "Players SC",
-   "id": "40025810",
-   "name": "Players 11 Girls Elite"
-  },
-  {
-   "club": "Las Vegas Sports Academy",
-   "id": "40026056",
-   "name": "Las Vegas Sports Academy U16 Girls Red"
+   "club": "LV Heat Surf SC",
+   "id": "50028856",
+   "name": "ECNL RL G2010/11"
   },
   {
    "club": "Sierra Surf SC",
-   "id": "40032932",
+   "id": "50042686",
    "name": "Sierra Surf U16G Blue"
+  },
+  {
+   "club": "Albion SC Las Vegas",
+   "id": "50014285",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Players SC",
+   "id": "50028855",
+   "name": "Players 11 Girls Elite"
+  },
+  {
+   "club": "LV Rowdies Elite",
+   "id": "50021978",
+   "name": "LV Rowdies Elite"
+  },
+  {
+   "club": "Vegas United Soccer Club",
+   "id": "50042685",
+   "name": "VU - Everton U16 Girls"
+  },
+  {
+   "club": "Las Vegas Sports Academy",
+   "id": "50052420",
+   "name": "Las Vegas Sports Academy U16 Girls Red"
   },
   {
    "club": "LV Heat Surf SC",
    "id": "40093127",
    "name": "LV Heat Surf ECNL RL G2010/11"
+  },
+  {
+   "club": "Players SC",
+   "id": "50052421",
+   "name": "Players U16 Girls Academy"
   }
  ]
 }

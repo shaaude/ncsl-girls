@@ -1,39 +1,14 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-03T15:03:01.867821+00:00",
+ "fetched_at": "2026-11-10T15:37:39.170569+00:00",
  "state": "KS",
  "state_slug": "kansas",
  "teams": [
   {
-   "club": "KC Athletics",
-   "id": "50009146",
-   "name": "Kansas City Athletics ECNL G2010/11"
-  },
-  {
-   "club": "Wichita Surf Soccer Club",
-   "id": "40019621",
-   "name": "Wichita Surf U16G Elite"
-  },
-  {
    "club": "FC Wichita",
    "id": "40091942",
    "name": "Red ECNL RL G2010/11"
-  },
-  {
-   "club": "Sporting City Soccer Club",
-   "id": "50009143",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Sporting Kaw Valley",
-   "id": "50009140",
-   "name": "SKV U16G Elite N1L"
-  },
-  {
-   "club": "KC Legends",
-   "id": "40071446",
-   "name": "Aspire 10/11"
   },
   {
    "club": "Kansas City Surf",
@@ -41,44 +16,9 @@
    "name": "BLUE ECNL RL G2010/11"
   },
   {
-   "club": "Kansas City Surf",
-   "id": "40019554",
-   "name": "KANSAS CITY SURF N1 G2010/11 (KS)"
-  },
-  {
-   "club": "Kansas Rush",
-   "id": "40092259",
-   "name": "Gold ECNL RL G2010/11"
-  },
-  {
-   "club": "Sporting Blue Valley",
-   "id": "50009145",
-   "name": "ECNL G2010/11"
-  },
-  {
-   "club": "Union KC",
-   "id": "50009154",
-   "name": "Union KC 10/11G Aspire Red"
-  },
-  {
-   "club": "KC Athletics",
-   "id": "50009141",
-   "name": "KC Athletics Academy Select u16G Navy N1"
-  },
-  {
-   "club": "WICHITA WARRIORS SOCCER CLUB",
-   "id": "40076406",
-   "name": "Wichita Warriors 11G"
-  },
-  {
-   "club": "Wichita Surf Soccer Club",
-   "id": "50009144",
-   "name": "WICHITA SURF ELITE 10/11G"
-  },
-  {
-   "club": "RAPTORS SC",
-   "id": "40076530",
-   "name": "LADY RAPTORS U16"
+   "club": "Sporting Wichita",
+   "id": "50009142",
+   "name": "Sporting Wichita U16G N1L Academy"
   },
   {
    "club": "Kansas Rush",
@@ -86,29 +26,24 @@
    "name": "Blue ECNL RL G2010/11"
   },
   {
-   "club": "Sporting Wichita",
-   "id": "50009142",
-   "name": "Sporting Wichita U16G N1L Academy"
-  },
-  {
    "club": "Kansas City Surf",
    "id": "50009148",
    "name": "ECNL RL G2010/11"
   },
   {
-   "club": "Sporting Blue Valley",
-   "id": "50009149",
-   "name": "ECNL RL G2010/11"
+   "club": "Wichita Surf Soccer Club",
+   "id": "50009144",
+   "name": "WICHITA SURF ELITE 10/11G"
   },
   {
-   "club": "Sporting Wichita",
-   "id": "40076263",
-   "name": "SPORTING WICHITA U16G PRE-ACADEMY"
+   "club": "Wichita Surf Soccer Club",
+   "id": "40019621",
+   "name": "Wichita Surf U16G Elite"
   },
   {
-   "club": "FC Wichita",
-   "id": "40091947",
-   "name": "Navy ECNL RL G2010/11"
+   "club": "WICHITA WARRIORS SOCCER CLUB",
+   "id": "40076406",
+   "name": "Wichita Warriors 11G"
   },
   {
    "club": "Toca Fusion Athletic Club",
@@ -116,14 +51,74 @@
    "name": "Toca Fusion Premier ECNL RL G2010/11"
   },
   {
-   "club": "KC Athletics",
-   "id": "50009150",
-   "name": "Kansas City Athletics ECNL RL G2010/11"
+   "club": "Union KC Soccer Club",
+   "id": "50009154",
+   "name": "Union KC 10/11G Aspire Red"
   },
   {
-   "club": "Azteca",
+   "club": "KC Athletics",
+   "id": "50009146",
+   "name": "Kansas City Athletics ECNL G2010/11"
+  },
+  {
+   "club": "FC Wichita",
+   "id": "40091947",
+   "name": "Navy ECNL RL G2010/11"
+  },
+  {
+   "club": "RAPTORS SC",
+   "id": "40076530",
+   "name": "LADY RAPTORS U16"
+  },
+  {
+   "club": "Sporting Kaw Valley",
+   "id": "50009140",
+   "name": "SKV U16G Elite N1L"
+  },
+  {
+   "club": "Sporting City",
+   "id": "50009143",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "KC Legends",
+   "id": "40071446",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "50009141",
+   "name": "KC Athletics Academy Select u16G Navy N1"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "40019554",
+   "name": "KANSAS CITY SURF N1 G2010/11 (KS)"
+  },
+  {
+   "club": "Sporting Blue Valley",
+   "id": "50009145",
+   "name": "ECNL G2010/11"
+  },
+  {
+   "club": "Kansas Rush",
+   "id": "50051324",
+   "name": "Gold ECNL RL G2010/11"
+  },
+  {
+   "club": "AZTECA",
    "id": "50009151",
-   "name": "Azteca u16g"
+   "name": "AZTECA U16G"
+  },
+  {
+   "club": "Southwest Kansas Soccer Association",
+   "id": "40076572",
+   "name": "SWKS UNITED FC 11/12G"
+  },
+  {
+   "club": "Sporting Wichita",
+   "id": "40076263",
+   "name": "SPORTING WICHITA U16G PRE-ACADEMY"
   },
   {
    "club": "KC Fire FC",
@@ -132,13 +127,18 @@
   },
   {
    "club": "KC Athletics",
-   "id": "50009156",
-   "name": "KC Athletics Swindon U16G"
+   "id": "50051320",
+   "name": "KC Athletics Swindon u16G"
   },
   {
-   "club": "Southwest Kansas Soccer Association",
-   "id": "40076572",
-   "name": "SWKS UNITED FC 11/12G"
+   "club": "Sporting Blue Valley",
+   "id": "50009149",
+   "name": "ECNL RL G2010/11"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "50009150",
+   "name": "Kansas City Athletics ECNL RL G2010/11"
   },
   {
    "club": "Toca Fusion Athletic Club",
@@ -162,17 +162,17 @@
   },
   {
    "club": "KC Athletics",
-   "id": "50009153",
-   "name": "KC Athletics Valarosa U16G"
+   "id": "50051318",
+   "name": "KC Athletics Valarosa u16G"
   },
   {
    "club": "Sporting Kaw Valley",
-   "id": "40101352",
+   "id": "50051325",
    "name": "SKV U15/16G"
   },
   {
    "club": "Sporting City",
-   "id": "40101356",
+   "id": "50051321",
    "name": "Sporting City U16G Blue - North"
   },
   {
@@ -197,7 +197,7 @@
   },
   {
    "club": "OP Soccer Club",
-   "id": "40102526",
+   "id": "50051326",
    "name": "OP Pre-Academy U16G"
   },
   {

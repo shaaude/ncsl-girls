@@ -1,10 +1,15 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-11-03T14:36:01.876452+00:00",
+ "fetched_at": "2026-11-10T15:10:38.891947+00:00",
  "state": "AL",
  "state_slug": "alabama",
  "teams": [
+  {
+   "club": "Hoover-Vestavia Soccer",
+   "id": "40070946",
+   "name": "GA 08/09"
+  },
   {
    "club": "Alabama Rush",
    "id": "40020234",
@@ -16,19 +21,14 @@
    "name": "DCFC PDP Girls 09"
   },
   {
-   "club": "Vestavia Hills Soccer Club",
-   "id": "50000079",
-   "name": "Attack U19 Black"
-  },
-  {
-   "club": "Hoover-Vestavia Soccer",
-   "id": "40070946",
-   "name": "GA 08/09"
-  },
-  {
    "club": "Alabama FC",
    "id": "40055913",
    "name": "Alabama FC U18/19 Premier Girls"
+  },
+  {
+   "club": "Vestavia Hills Soccer Club",
+   "id": "50000079",
+   "name": "Attack U19 Black"
   },
   {
    "club": "FC Montgomery",
@@ -41,19 +41,24 @@
    "name": "Revolution U19G Navy"
   },
   {
-   "club": "Alabama FC",
-   "id": "40020166",
-   "name": "Alabama FC Alabaster N1 Girls 2008-09 Premier AL"
-  },
-  {
    "club": "VERO FC",
    "id": "40055821",
    "name": "Shoals SC U18 Girls"
   },
   {
    "club": "Alabama FC",
-   "id": "40020158",
-   "name": "Alabama FC Huntsville N1 Girls Elite 2009-2008 AL"
+   "id": "40020166",
+   "name": "Alabama FC Alabaster N1 Girls 2008-09 Premier AL"
+  },
+  {
+   "club": "Opelika Soccer Asso",
+   "id": "40055955",
+   "name": "Opelika Crush '07/08/09 Girls"
+  },
+  {
+   "club": "VERO FC",
+   "id": "50020160",
+   "name": "U19G DPL"
   },
   {
    "club": "Alabama Rush",
@@ -62,28 +67,23 @@
   },
   {
    "club": "Prattville United SC",
-   "id": "40055808",
+   "id": "50030731",
    "name": "PUFC U18 Girls"
   },
   {
    "club": "Homewood Soccer Club (AL)",
    "id": "50019873",
-   "name": "N1 Girls 2007-2008 Freedom"
+   "name": "Homewood Soccer Club N1 Girls 2007-2008 Freedom AL"
   },
   {
    "club": "VERO FC",
-   "id": "50020160",
-   "name": "U19G DPL"
+   "id": "40020200",
+   "name": "NASC N1 Girls 2007-2008 AL"
   },
   {
-   "club": "Opelika Soccer Asso",
-   "id": "40055955",
-   "name": "Opelika Crush '07/08/09 Girls"
-  },
-  {
-   "club": "Decatur City F\u00fatbol Club",
-   "id": "40055925",
-   "name": "DCFC 2008 Girls U19"
+   "club": "Alabama FC",
+   "id": "40020158",
+   "name": "Alabama FC Huntsville N1 Girls Elite 2009-2008 AL"
   },
   {
    "club": "FC Birmingham",
@@ -92,13 +92,13 @@
   },
   {
    "club": "VERO FC",
-   "id": "40020200",
-   "name": "NASC N1 Girls 2007-2008 AL"
-  },
-  {
-   "club": "VERO FC",
    "id": "40055822",
    "name": "Shoals SC HS Prep Girls"
+  },
+  {
+   "club": "Decatur City F\u00fatbol Club",
+   "id": "40055925",
+   "name": "DCFC 2008 Girls U19"
   },
   {
    "club": "Vestavia Hills Soccer Club",
@@ -106,8 +106,8 @@
    "name": "VHSC U19 Attack Black"
   },
   {
-   "club": "Tuscaloosa United SC    (TUSC)",
-   "id": "40105481",
+   "club": "Tuscaloosa United Soccer Club",
+   "id": "50030733",
    "name": "Tuscaloosa United U18/U19 Girls"
   },
   {

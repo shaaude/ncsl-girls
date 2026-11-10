@@ -1,14 +1,39 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-11-03T14:29:11.849722+00:00",
+ "fetched_at": "2026-11-10T15:03:49.022443+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
   {
+   "club": "Beach FC",
+   "id": "40068254",
+   "name": "Beach FC G2016/17 Hickman Warriors"
+  },
+  {
+   "club": "Virginia Atlantic FC",
+   "id": "40068232",
+   "name": "U10 Girls Academy I"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50018863",
+   "name": "RU ORANGE U10G ELITE 1"
+  },
+  {
    "club": "Smithfield Soccer Club",
-   "id": "50018865",
-   "name": "Smithfield PL G2016/17 Heatwave (VA)"
+   "id": "40068211",
+   "name": "Smithfield TASL G2015/16 Shock"
+  },
+  {
+   "club": "Smithfield Soccer Club",
+   "id": "50030055",
+   "name": "Smithfield TASL G2016/17 Blaze"
+  },
+  {
+   "club": "Western Branch Soccer Club",
+   "id": "40068373",
+   "name": "WBSC U10 Stars"
   },
   {
    "club": "Beach FC",
@@ -21,54 +46,29 @@
    "name": "CSC TASL G2016/2017 Galaxy Gold (VA)"
   },
   {
-   "club": "Virginia Atlantic FC",
-   "id": "40068232",
-   "name": "U10 Girls Academy I"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068254",
-   "name": "Beach FC G2016/17 Hickman Warriors"
-  },
-  {
-   "club": "Smithfield Soccer Club",
-   "id": "40068212",
-   "name": "Smithfield TASL G2016/17 Blaze"
-  },
-  {
-   "club": "Smithfield Soccer Club",
-   "id": "40068211",
-   "name": "Smithfield TASL G2015/16 Shock"
-  },
-  {
-   "club": "Western Branch Soccer Club",
-   "id": "40068373",
-   "name": "WBSC U10 Stars"
-  },
-  {
    "club": "Springfield SYC Soccer",
    "id": "50018864",
    "name": "SYC U10G Pre-GA"
   },
   {
-   "club": "Chesapeake United SC",
-   "id": "40040309",
-   "name": "CUSC PL G2016/17 ELITE (VA)"
+   "club": "Virginia Soccer Association",
+   "id": "50048706",
+   "name": "VSA U10G RODMAN"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50048719",
+   "name": "Arlington SA 2016/17G Pre-Academy 2 (U10)"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "50030044",
+   "name": "PW Courage Nike G2016/17"
   },
   {
    "club": "Baystars",
-   "id": "40068420",
+   "id": "50030056",
    "name": "Baystars FC TASL G2016/17 Mahi"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "40040358",
-   "name": "VA Rush PL G2016/17 Rush (VA)"
-  },
-  {
-   "club": "Beach FC",
-   "id": "50018868",
-   "name": "Beach FC G2016/17 Piranhas PL"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -76,29 +76,24 @@
    "name": "VAR U10G Blue Angels"
   },
   {
-   "club": "Beach FC",
-   "id": "50018867",
-   "name": "Beach FC G2016/17 Marlins PL"
+   "club": "McLean YS",
+   "id": "50030025",
+   "name": "McLean Youth Soccer U10 Girls Green"
   },
   {
-   "club": "Chesapeake United SC",
-   "id": "40068325",
-   "name": "CUSC 2016/2017G Sparks"
-  },
-  {
-   "club": "VIP United FC",
-   "id": "40040447",
-   "name": "VIP PL G2016/17 Red (VA)"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068255",
-   "name": "Beach FC G2016/17 Nolan VB Waves"
+   "club": "Loudoun Soccer Club",
+   "id": "50030030",
+   "name": "Loudoun U10G Spirit Red"
   },
   {
    "club": "Beach FC",
    "id": "40068233",
    "name": "Beach FC G2016/17 Graham Seawolves"
+  },
+  {
+   "club": "Chesapeake United SC",
+   "id": "40068325",
+   "name": "CUSC 2016/2017G Sparks"
   },
   {
    "club": "Beach FC",
@@ -107,8 +102,43 @@
   },
   {
    "club": "Beach FC",
+   "id": "40068255",
+   "name": "Beach FC G2016/17 Nolan VB Waves"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50030054",
+   "name": "Arlington SA 2016/17G Pre-Academy 1 (U10)"
+  },
+  {
+   "club": "Beach FC",
    "id": "40068238",
    "name": "Beach FC G2016/17 Carroll Striking Dolphin"
+  },
+  {
+   "club": "FC Richmond",
+   "id": "50030037",
+   "name": "FC Richmond U10 Mystx Futures Navy"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "50030058",
+   "name": "VYS NCSL G2016/17 Red"
+  },
+  {
+   "club": "Beach FC",
+   "id": "50018868",
+   "name": "Beach FC G2016/17 Piranhas PL"
+  },
+  {
+   "club": "Smithfield Soccer Club",
+   "id": "50018865",
+   "name": "Smithfield PL G2016/17 Heatwave (VA)"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "50030057",
+   "name": "Virginia Valor FC G2016/17 Gold"
   },
   {
    "club": "Suffolk FC",
@@ -116,9 +146,114 @@
    "name": "U10G Suffolk FC Valkyries"
   },
   {
+   "club": "Virginia Revolution SC",
+   "id": "50048721",
+   "name": "U10G Black"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50030031",
+   "name": "Loudoun U10G Spirit Black"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50030028",
+   "name": "BRYC Academy G2016/17 Blue"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50030026",
+   "name": "McLean Youth Soccer U10 Girls White"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50048725",
+   "name": "Arlington SA 2016/17G Blue (U10)"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "50030052",
+   "name": "TSJFC U10G North Pre-GA"
+  },
+  {
+   "club": "Chesapeake United SC",
+   "id": "50030047",
+   "name": "CUSC PL G2016/17 ELITE (VA)"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "50048724",
+   "name": "VSA U10G FOX"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50030027",
+   "name": "BRYC Academy G2016/17 White"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "50048705",
+   "name": "PW Courage Swoosh G2016/17"
+  },
+  {
    "club": "VA Rush Soccer Club",
-   "id": "40040355",
+   "id": "50030049",
+   "name": "VA Rush PL G2016/17 Rush (VA)"
+  },
+  {
+   "club": "Beach FC",
+   "id": "50018867",
+   "name": "Beach FC G2016/17 Marlins PL"
+  },
+  {
+   "club": "Herndon Youth Soccer",
+   "id": "50048697",
+   "name": "Herndon NCSL G2016/17"
+  },
+  {
+   "club": "Stafford Soccer",
+   "id": "50048720",
+   "name": "Stafford Revolution U10G Blue"
+  },
+  {
+   "club": "VIP United FC",
+   "id": "50030050",
+   "name": "VIP PL G2016/17 Red (VA)"
+  },
+  {
+   "club": "Fairfax Police Youth Club",
+   "id": "50048723",
+   "name": "FPYC Thunder 16/17"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50048727",
+   "name": "Loudoun U10G Thorns"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50048695",
+   "name": "Loudoun East U10G Dash"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50048726",
+   "name": "BRYC Academy G2016/17 Teal"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "50030048",
    "name": "VA Rush PL G2016/17 Nero (VA)"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "50048722",
+   "name": "U10G Gold"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "50048694",
+   "name": "SYC U10G Blue"
   },
   {
    "club": "Vienna Youth Soccer",
@@ -131,13 +266,158 @@
    "name": "VYS NCSL G2016/17 White"
   },
   {
+   "club": "McLean YS",
+   "id": "50048696",
+   "name": "McLean Youth Soccer U10 Girls Gold"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50048698",
+   "name": "Loudoun U10G Freedom"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "50030029",
+   "name": "GSC Girls 16/17 Red"
+  },
+  {
    "club": "Richmond United",
-   "id": "40086119",
+   "id": "50030032",
+   "name": "RU RED U10G PREMIER RC 1"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048699",
+   "name": "RU RED U10G PREMIER COL 1"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50030033",
+   "name": "RU RED U10G ELITE 2"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048700",
+   "name": "RU RED U10G PREMIER RC 2"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50030034",
+   "name": "RU RED U10G ELITE 1"
+  },
+  {
+   "club": "Virginia Reign",
+   "id": "50030035",
+   "name": "Va Reign FC ADSL 2016-2017 Girls Gold Giles"
+  },
+  {
+   "club": "Virginia Reign",
+   "id": "50030036",
+   "name": "VA Reign FC ADSL 2016-2017 Girls Gold Quinlan"
+  },
+  {
+   "club": "FC Richmond",
+   "id": "50030038",
+   "name": "FC Richmond U10 Mystx Futures Sky"
+  },
+  {
+   "club": "FC Richmond",
+   "id": "50030039",
+   "name": "FC Richmond U9 Mystx Futures Navy"
+  },
+  {
+   "club": "FC Richmond",
+   "id": "50030040",
+   "name": "FC Richmond U9 Mystx Futures Sky"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "50030041",
+   "name": "GSC Girls 16/17 Premier I"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "50048701",
+   "name": "GSC Girls 16/17 Premier II"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048702",
+   "name": "RU ORANGE U10G PREMIER SWOOSH"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50030042",
+   "name": "RU ORANGE U10G ELITE 2"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048703",
+   "name": "RU ORANGE U10G PREMIER NIKE"
+  },
+  {
+   "club": "Blue Ridge United",
+   "id": "50030043",
+   "name": "Blue Ridge United U10G Orange"
+  },
+  {
+   "club": "Ashland Town Football Club",
+   "id": "50048704",
+   "name": "Ashland Town FC U9/U10G"
+  },
+  {
+   "club": "Dynamo Soccer Club",
+   "id": "50030045",
+   "name": "NXT Soccer Club U10G"
+  },
+  {
+   "club": "Freedom FC",
+   "id": "50030046",
+   "name": "Freedom FC 2016-17 Girls"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "50030051",
+   "name": "TSJFC U10G South Pre-GA"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "50030053",
+   "name": "SYC U10G Pre-GA2"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50048707",
+   "name": "Arlington SA 2016/17G Red (U10)"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50048708",
+   "name": "Arlington SA 2016/17G White (U10)"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50048709",
+   "name": "2016-17 Girls White"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50048710",
+   "name": "2016-17 Girls Red"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048711",
+   "name": "RU Rec U10G Asteroids Orange (Bradshaw)"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048712",
    "name": "RU Rec U10G Lightning Orange (Barrar)"
   },
   {
    "club": "Fury FC (Powhatan SA)",
-   "id": "40086141",
+   "id": "50048713",
    "name": "Fury FC U10G Red"
   },
   {
@@ -191,7 +471,7 @@
    "name": "GSC Girls 16/17 Red"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104377",
    "name": "LOUD U10G Spirit Red"
   },
@@ -231,11 +511,6 @@
    "name": "VRSC U10G Gold"
   },
   {
-   "club": "Vienna Youth Soccer",
-   "id": "40104413",
-   "name": "VYS NCSL G2016/17 Red"
-  },
-  {
    "club": "Blue Ridge United",
    "id": "40104441",
    "name": "BRU U10G Orange"
@@ -271,27 +546,27 @@
    "name": "ALEX 2016-17 Girls Black"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104463",
    "name": "LOUD U10G Spirit Black"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104464",
    "name": "LOUD U10G Wave"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104465",
    "name": "LOUD U10G Freedom"
   },
   {
-   "club": "Stafford Soccer",
+   "club": "Stafford Soccer Club",
    "id": "40104477",
    "name": "STAF Revolution U10G Blue"
   },
   {
-   "club": "Stafford Soccer",
+   "club": "Stafford Soccer Club",
    "id": "40104478",
    "name": "STAF Revolution U10G White"
   },
@@ -331,7 +606,7 @@
    "name": "VALR G2016/17 White"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104552",
    "name": "LOUD U10G Dash"
   },
@@ -381,7 +656,7 @@
    "name": "NPSC United 2016 Girls"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104691",
    "name": "LOUD U10G Thorns"
   },
@@ -409,6 +684,101 @@
    "club": "Springfield South County Youth  - Travel",
    "id": "40104910",
    "name": "SYC U10G Blue"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50048714",
+   "name": "2016-17 Girls Black"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50048715",
+   "name": "2016-17 Girls Blue"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "50048716",
+   "name": "VSA U10G HEAPS"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048717",
+   "name": "RU RED U10G PREMIER COL 2"
+  },
+  {
+   "club": "Fredericksburg FC",
+   "id": "40129769",
+   "name": "Fredericksburg FC - G10 PSG"
+  },
+  {
+   "club": "Northern Piedmont Sports Club",
+   "id": "40129990",
+   "name": "NPSC United 2016 Girls Black"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "50048718",
+   "name": "Virginia Valor FC G2016/17 White"
+  },
+  {
+   "club": "Players Soccer Academy",
+   "id": "40130877",
+   "name": "Villarreal VA PSA TigersG2016/17"
+  },
+  {
+   "club": "Virginia Independent Soccer Team Association",
+   "id": "40133920",
+   "name": "VISTA Warriors FC U10G"
+  },
+  {
+   "club": "Lee-Mt. Vernon Sports Club",
+   "id": "40134691",
+   "name": "LMVSC G2016/17 Red"
+  },
+  {
+   "club": "BREATHE FIRST",
+   "id": "40134702",
+   "name": "BREATHE FIRST"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "40139401",
+   "name": "Arlington SA 2016/17G Black (U10)"
+  },
+  {
+   "club": "Great Falls Reston Soccer Club",
+   "id": "40139527",
+   "name": "GFR U10G Blue"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "40166419",
+   "name": "Loudoun U10G Wave"
+  },
+  {
+   "club": "Blue Ridge United",
+   "id": "40166498",
+   "name": "Blue Ridge United U10G Blue"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "40166520",
+   "name": "VSA U10G HATCH"
+  },
+  {
+   "club": "NVSC",
+   "id": "40166568",
+   "name": "NVSC 2016/17G Blue"
+  },
+  {
+   "club": "Shenandoah Valley United Inc",
+   "id": "40201663",
+   "name": "SVU U10 Girls Academy"
+  },
+  {
+   "club": "Culpeper Soccer Club",
+   "id": "40201672",
+   "name": "Culpeper SC 2016 Girls - U10G Challenge"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-11-03T15:36:52.322846+00:00",
+ "fetched_at": "2026-11-10T16:11:29.023860+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
@@ -9,6 +9,11 @@
    "club": "Claremore SC",
    "id": "50016113",
    "name": "RIPTIDE"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "40062246",
+   "name": "BlueJays - Adams"
   },
   {
    "club": "Chandler SC",
@@ -21,19 +26,24 @@
    "name": "Cheetahs"
   },
   {
+   "club": "Mustang YSA",
+   "id": "40113167",
+   "name": "Golden Queens"
+  },
+  {
    "club": "West Side Alliance SC",
    "id": "50016102",
    "name": "West Side Alliance Pre ECNL G2016/17 Tulsa Select"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40062246",
-   "name": "BlueJays - Adams"
+   "club": "Owasso SC",
+   "id": "50016114",
+   "name": "Dolphins"
   },
   {
-   "club": "Choctaw SA (CNP)",
-   "id": "40085569",
-   "name": "CNP Supernovas U10G"
+   "club": "Harrah SC",
+   "id": "40085564",
+   "name": "Harrah FC"
   },
   {
    "club": "Mustang YSA",
@@ -41,19 +51,29 @@
    "name": "Cherry Bombs"
   },
   {
+   "club": "Mustang YSA",
+   "id": "40113160",
+   "name": "Lady Thunder"
+  },
+  {
+   "club": "Weatherford SC",
+   "id": "40115462",
+   "name": "U10G Bearcats"
+  },
+  {
    "club": "Chandler SC",
    "id": "40085567",
    "name": "CSC Bumble Bees"
   },
   {
-   "club": "Mustang YSA",
-   "id": "40113167",
-   "name": "Golden Queens"
+   "club": "Choctaw SA (CNP)",
+   "id": "40085569",
+   "name": "CNP Supernovas U10G"
   },
   {
-   "club": "Mustang YSA",
-   "id": "40113160",
-   "name": "Lady Thunder"
+   "club": "Owasso SC",
+   "id": "50022305",
+   "name": "Sharp Shooters"
   },
   {
    "club": "Mustang YSA",
@@ -71,29 +91,34 @@
    "name": "Wildfire"
   },
   {
-   "club": "Owasso SC",
-   "id": "50016114",
-   "name": "Dolphins"
+   "club": "Weatherford SC",
+   "id": "40115463",
+   "name": "U10G Cheetahs"
   },
   {
-   "club": "Owasso SC",
-   "id": "50022305",
-   "name": "Sharp Shooters"
+   "club": "Clinton SC",
+   "id": "40088700",
+   "name": "Clinton Mustangs"
   },
   {
-   "club": "Oklahoma Celtic",
-   "id": "50016104",
-   "name": "Oklahoma Celtic G2017 North"
-  },
-  {
-   "club": "Midwest City SC",
-   "id": "40085576",
-   "name": "MWC Chaos"
+   "club": "Tulsa Soccer Club",
+   "id": "50022289",
+   "name": "Tulsa SC 16/17G Gold"
   },
   {
    "club": "Shawnee SA",
    "id": "40085575",
    "name": "SSA Fire 2016"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "40111485",
+   "name": "Glitter Kicks - Huff"
+  },
+  {
+   "club": "Oklahoma Celtic",
+   "id": "50016104",
+   "name": "Oklahoma Celtic G2017 North"
   },
   {
    "club": "Oklahoma Celtic",
@@ -106,9 +131,14 @@
    "name": "MWC Lightning"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40111485",
-   "name": "Glitter Kicks - Huff"
+   "club": "Midwest City SC",
+   "id": "40085576",
+   "name": "MWC Chaos"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "50029487",
+   "name": "Tulsa SC 16/17G Navy"
   },
   {
    "club": "Owasso SC",
@@ -116,14 +146,54 @@
    "name": "Turf Queens"
   },
   {
-   "club": "Northwest Optimist SC",
-   "id": "50022291",
-   "name": "NWO 2017G"
+   "club": "Owasso SC",
+   "id": "40114572",
+   "name": "Pink Flamingos"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "50044370",
+   "name": "BASC Express G2016/17 Classic"
   },
   {
    "club": "Sporting Oklahoma",
    "id": "50016103",
    "name": "Sporting Oklahoma U10G Blue"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "50016105",
+   "name": "OK Energy FC Academy G17 - Castelhone"
+  },
+  {
+   "club": "Northwest Optimist SC",
+   "id": "50022291",
+   "name": "NWO 2017G"
+  },
+  {
+   "club": "FC Tulsa Academy",
+   "id": "50044366",
+   "name": "FC Tulsa Academy 17 Girls Black"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "50053040",
+   "name": "Tulsa SC 16/17G White"
+  },
+  {
+   "club": "Edmond SC",
+   "id": "50044365",
+   "name": "OEFC Academy- Rennick-White"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "50022292",
+   "name": "WSA OKC U10 Girls White"
+  },
+  {
+   "club": "Stillwater SC",
+   "id": "50044371",
+   "name": "APEX FC U10 Girls Academy"
   },
   {
    "club": "Chisholm Trail SA",
@@ -146,19 +216,9 @@
    "name": "BASC Express G2016/17 Premier"
   },
   {
-   "club": "Edmond SC",
-   "id": "40068844",
-   "name": "OEFC Academy- Rennick-White"
-  },
-  {
    "club": "United",
    "id": "40068863",
    "name": "United G16/17 - Santiago"
-  },
-  {
-   "club": "FC Tulsa Academy",
-   "id": "40068873",
-   "name": "FC Tulsa Academy 17 Girls Black"
   },
   {
    "club": "FC Tulsa Academy",
@@ -166,29 +226,9 @@
    "name": "FC Tulsa Academy 17 Girls Premier"
   },
   {
-   "club": "Oklahoma Energy FC",
-   "id": "50016105",
-   "name": "OK Energy FC Academy G17 - Castelhone"
-  },
-  {
    "club": "Tulsa Soccer Club",
-   "id": "40068977",
-   "name": "Tulsa SC 16/17G Navy"
-  },
-  {
-   "club": "Tulsa Soccer Club",
-   "id": "40068978",
+   "id": "50044367",
    "name": "Tulsa SC 16/17G Red"
-  },
-  {
-   "club": "Tulsa Soccer Club",
-   "id": "40068988",
-   "name": "Tulsa SC 16/17G White"
-  },
-  {
-   "club": "Tulsa Soccer Club",
-   "id": "50022289",
-   "name": "Tulsa SC 16/17G Gold"
   },
   {
    "club": "Tulsa Greenwood SC",
@@ -199,11 +239,6 @@
    "club": "West Side Alliance SC",
    "id": "40069110",
    "name": "WSA OKC U10 Girls Blue"
-  },
-  {
-   "club": "West Side Alliance SC",
-   "id": "50022292",
-   "name": "WSA OKC U10 Girls White"
   },
   {
    "club": "Ponca City SA",
@@ -286,11 +321,6 @@
    "name": "U9/U10 Girls Hurricanes"
   },
   {
-   "club": "Harrah SC",
-   "id": "40085564",
-   "name": "Harrah FC"
-  },
-  {
    "club": "Claremore SC",
    "id": "40085800",
    "name": "Thunder"
@@ -307,7 +337,7 @@
   },
   {
    "club": "Enid SC",
-   "id": "40087377",
+   "id": "50044368",
    "name": "Enid Flight"
   },
   {
@@ -332,7 +362,7 @@
   },
   {
    "club": "Oklahoma Celtic",
-   "id": "40087400",
+   "id": "50044369",
    "name": "Oklahoma Celtic G17 White NORTH"
   },
   {
@@ -349,11 +379,6 @@
    "club": "Oklahoma Celtic",
    "id": "50022302",
    "name": "NYSA G1607 - The GOALden Girls"
-  },
-  {
-   "club": "Clinton SC",
-   "id": "40088700",
-   "name": "Clinton Mustangs"
   },
   {
    "club": "Clinton SC",
@@ -426,6 +451,21 @@
    "name": "Stilwell SC U10"
   },
   {
+   "club": "Edmond SC",
+   "id": "40112367",
+   "name": "ESC 2017 GIRLS TAKEDOWN TIGERS"
+  },
+  {
+   "club": "ESC Pink Flamingos",
+   "id": "40112442",
+   "name": "ESC Pink Flamingos"
+  },
+  {
+   "club": "LSC Volts",
+   "id": "40112466",
+   "name": "LSC Volts"
+  },
+  {
    "club": "Durant SC",
    "id": "40113029",
    "name": "Comets"
@@ -459,11 +499,6 @@
    "club": "Washington County SC",
    "id": "40114552",
    "name": "U10 Girls KC Currents"
-  },
-  {
-   "club": "Owasso SC",
-   "id": "40114572",
-   "name": "Pink Flamingos"
   },
   {
    "club": "Owasso SC",
@@ -541,16 +576,6 @@
    "name": "NYSA G1706 - Mavericks"
   },
   {
-   "club": "Weatherford SC",
-   "id": "40115462",
-   "name": "U10G Bearcats"
-  },
-  {
-   "club": "Weatherford SC",
-   "id": "40115463",
-   "name": "U10G Cheetahs"
-  },
-  {
    "club": "Ponca City SA",
    "id": "40115800",
    "name": "GU101"
@@ -584,6 +609,26 @@
    "club": "FC Tulsa Academy",
    "id": "40119839",
    "name": "19G"
+  },
+  {
+   "club": "Edmond SC",
+   "id": "40159878",
+   "name": "OEFC ACADEMY U9 GIRLS - PAUL"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "40159924",
+   "name": "OK Energy FC Academy G17 - Sorato"
+  },
+  {
+   "club": "Western Oklahoma FC",
+   "id": "40179160",
+   "name": "Western Oklahoma F.C. 17G"
+  },
+  {
+   "club": "Metro Tulsa Soccer Club",
+   "id": "40201485",
+   "name": "Power"
   }
  ]
 }

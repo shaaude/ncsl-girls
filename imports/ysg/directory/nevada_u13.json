@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-03T15:22:41.831580+00:00",
+ "fetched_at": "2026-11-10T15:57:19.052387+00:00",
  "state": "NV",
  "state_slug": "nevada",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "LV Heat Surf ECNL G2013/14"
   },
   {
+   "club": "LV Heat Surf SC",
+   "id": "50028833",
+   "name": "ECNL G2013/14"
+  },
+  {
    "club": "Albion SC Las Vegas",
    "id": "50014217",
    "name": "GA 13/14"
-  },
-  {
-   "club": "Las Vegas Storm FC",
-   "id": "50014212",
-   "name": "Las Vegas Storm FC GU13"
   },
   {
    "club": "Las Vegas Sports Academy",
@@ -31,19 +31,14 @@
    "name": "ENCL RL G2013/14"
   },
   {
-   "club": "Sporting Nevada USA Magnifico",
-   "id": "40024420",
-   "name": "Magnifico U13G S.Highlands"
+   "club": "LV Heat Surf SC",
+   "id": "50028832",
+   "name": "ECNL RL G2013/14"
   },
   {
    "club": "Northern Nevada Soccer Club",
    "id": "50014209",
    "name": "Northern Nevada SC N1 G2013/14 Wave (NV)"
-  },
-  {
-   "club": "Northern Nevada Soccer Club",
-   "id": "50014218",
-   "name": "MINERITAS"
   },
   {
    "club": "Nevada Futbol Club",
@@ -56,34 +51,19 @@
    "name": "N1 G2013/14 NV"
   },
   {
-   "club": "Great Basin Youth Soccer League",
-   "id": "40065698",
-   "name": "Bishop FC 13u-Rossi"
+   "club": "Northern Nevada Soccer Club",
+   "id": "50014218",
+   "name": "MINERITAS"
   },
   {
-   "club": "Carson FC",
-   "id": "40065663",
-   "name": "CFC Rising U13G"
+   "club": "Albion SC Las Vegas",
+   "id": "50014214",
+   "name": "Aspire 13/14"
   },
   {
-   "club": "Sierra Nevada FC",
-   "id": "40065614",
-   "name": "Sierra Nevada FC Vipers"
-  },
-  {
-   "club": "Sierra Surf SC",
-   "id": "40020775",
-   "name": "N1 G2013/14 Blue (NV)"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "50014206",
-   "name": "SPARTANS"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "40065631",
-   "name": "Soccer Stars"
+   "club": "Las Vegas Storm FC",
+   "id": "50014212",
+   "name": "Las Vegas Storm FC GU13"
   },
   {
    "club": "Las Vegas Sports Academy",
@@ -92,18 +72,8 @@
   },
   {
    "club": "Sierra Surf SC",
-   "id": "40031634",
-   "name": "Sierra Surf U13G White"
-  },
-  {
-   "club": "Albion SC Las Vegas",
-   "id": "50014214",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "Phoenix FC",
-   "id": "40065701",
-   "name": "Fire Birds FC"
+   "id": "50028831",
+   "name": "N1 G2013/14 Blue (NV)"
   },
   {
    "club": "LV Heat Surf SC",
@@ -111,9 +81,9 @@
    "name": "LV Heat Surf ECNL RL SoCal G2013/14"
   },
   {
-   "club": "Albion SC Las Vegas",
-   "id": "50014207",
-   "name": "ALBION SC Las Vegas GU13 Academy RH White"
+   "club": "Sierra Nevada FC",
+   "id": "50042654",
+   "name": "Sierra Nevada FC Vipers"
   },
   {
    "club": "LV Heat Surf SC",
@@ -121,19 +91,59 @@
    "name": "ECNL RL SoCal G2013/14"
   },
   {
-   "club": "Vegas United Soccer Club",
-   "id": "40024442",
-   "name": "VU - Everton U13 Girls"
+   "club": "Fiera Futbol Club",
+   "id": "50042658",
+   "name": "Fiera"
   },
   {
-   "club": "LV Heat Surf SC",
-   "id": "40025926",
-   "name": "ECNL RL G2013/14"
+   "club": "Great Basin Youth Soccer League",
+   "id": "50042656",
+   "name": "Bishop FC 13u-Rossi"
+  },
+  {
+   "club": "Carson FC",
+   "id": "50042655",
+   "name": "CFC Rising U13G"
   },
   {
    "club": "Las Vegas Diversity FC",
    "id": "50014215",
    "name": "Las Vegas Diversity U13 Elite Girls"
+  },
+  {
+   "club": "Great Basin Youth Soccer League",
+   "id": "50014206",
+   "name": "SPARTANS"
+  },
+  {
+   "club": "Sporting Nevada USA Magnifico",
+   "id": "50042652",
+   "name": "Magnifico U13G S.Highlands"
+  },
+  {
+   "club": "Sierra Surf SC",
+   "id": "50042653",
+   "name": "Sierra Surf U13G White"
+  },
+  {
+   "club": "Albion SC Las Vegas",
+   "id": "50014207",
+   "name": "ALBION SC Las Vegas GU13 Academy RH White"
+  },
+  {
+   "club": "Great Basin Youth Soccer League",
+   "id": "40065631",
+   "name": "Soccer Stars"
+  },
+  {
+   "club": "Phoenix FC",
+   "id": "50042659",
+   "name": "Fire Birds FC"
+  },
+  {
+   "club": "Vegas United Soccer Club",
+   "id": "50052403",
+   "name": "VU - Everton U13 Girls"
   },
   {
    "club": "Reno APEX Soccer Club",
@@ -147,18 +157,18 @@
   },
   {
    "club": "Athletic Soccer Club - Las Vegas",
-   "id": "40062443",
+   "id": "50052404",
    "name": "Athletic SC GU13 Select"
-  },
-  {
-   "club": "Fiera Futbol Club",
-   "id": "40087519",
-   "name": "Fiera"
   },
   {
    "club": "LV Heat Surf SC",
    "id": "40093125",
    "name": "LV Heat Surf ECNL RL G2013/14"
+  },
+  {
+   "club": "Nevada Futbol Club",
+   "id": "40193234",
+   "name": "Nevada FC 13/14G DPL"
   }
  ]
 }

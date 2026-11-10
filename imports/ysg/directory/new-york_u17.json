@@ -1,10 +1,15 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-11-03T15:30:41.981501+00:00",
+ "fetched_at": "2026-11-10T16:05:19.067400+00:00",
  "state": "NY",
  "state_slug": "new-york",
  "teams": [
+  {
+   "club": "Levittown Soccer Club (LIJSL)",
+   "id": "50043614",
+   "name": "Thunder"
+  },
   {
    "club": "Terryville (LIJSL)",
    "id": "40079562",
@@ -16,8 +21,8 @@
    "name": "Lynx"
   },
   {
-   "club": "Levittown Soccer Club (LIJSL)",
-   "id": "40078992",
+   "club": "Lynbrook/East Rockaway SC",
+   "id": "40079025",
    "name": "Thunder"
   },
   {
@@ -26,24 +31,24 @@
    "name": "Lady Cougars"
   },
   {
+   "club": "Hempstead EOC",
+   "id": "40078808",
+   "name": "EOC Blue Panthers"
+  },
+  {
    "club": "Oceanside United Soccer (LIJSL)",
    "id": "40079201",
    "name": "Riptide"
   },
   {
-   "club": "Lynbrook/East Rockaway SC",
-   "id": "40079025",
-   "name": "Thunder"
-  },
-  {
    "club": "Mastic (LIJSL)",
-   "id": "40079121",
+   "id": "50043615",
    "name": "VALKYRIES"
   },
   {
-   "club": "Hempstead EOC",
-   "id": "40078808",
-   "name": "EOC Blue Panthers"
+   "club": "NY Rush",
+   "id": "50043627",
+   "name": "NY Rush U17 DPL"
   },
   {
    "club": "VOB Soccer Club (LIJSL)",
@@ -54,6 +59,16 @@
    "club": "EPC-BK (Elite Players Center Brooklyn)",
    "id": "40038062",
    "name": "G-2009/2010"
+  },
+  {
+   "club": "New Rochelle",
+   "id": "40038414",
+   "name": "New Rochelle Girls 2010/2011"
+  },
+  {
+   "club": "LMFC",
+   "id": "40038729",
+   "name": "Premier 2009/10 Girls"
   },
   {
    "club": "Blau Weiss Gottschee",
@@ -69,6 +84,11 @@
    "club": "Manhattan SC",
    "id": "40038866",
    "name": "Paradise G2009/10"
+  },
+  {
+   "club": "Merrick/South Merrick PAL",
+   "id": "40038869",
+   "name": "Thunder 2009/2010"
   },
   {
    "club": "Barca Academy Pro NY",
@@ -101,6 +121,11 @@
    "name": "ECNL RL G2009/10 Northeast"
   },
   {
+   "club": "SUSA FC",
+   "id": "50043628",
+   "name": "N1 G2009/10 (NYE)"
+  },
+  {
    "club": "Long Island Slammers",
    "id": "50014833",
    "name": "ECNL RL G2009/10"
@@ -122,53 +147,53 @@
   },
   {
    "club": "World Class FC",
-   "id": "40090238",
-   "name": "ECNL G2009/10"
+   "id": "50043616",
+   "name": "ECNL G2009-10"
   },
   {
    "club": "East Meadow Soccer Club",
-   "id": "40090253",
+   "id": "50043617",
    "name": "ECNL G2009/10"
   },
   {
    "club": "SUSA FC",
-   "id": "40090274",
+   "id": "50043618",
    "name": "ECNL G2009/10"
   },
   {
    "club": "WNY Flash Academy",
-   "id": "40090460",
+   "id": "50043619",
    "name": "WNY Flash ECNL G2009/10"
   },
   {
    "club": "WNY Flash Academy",
-   "id": "40092074",
+   "id": "50043620",
    "name": "WNY Flash Rochester ECNL RL G2009/10"
   },
   {
    "club": "World Class FC",
-   "id": "40092569",
-   "name": "ECNL RL G2009/10"
+   "id": "50043621",
+   "name": "ECNL RL G2009-10"
   },
   {
    "club": "East Meadow Soccer Club",
-   "id": "40092584",
+   "id": "50043622",
    "name": "ECNL RL G2009/10"
   },
   {
    "club": "SUSA FC",
-   "id": "40092605",
+   "id": "50043623",
    "name": "ECNL RL G2009/10"
   },
   {
    "club": "East Coast Surf",
-   "id": "40092665",
+   "id": "50043624",
    "name": "ECNL RL G2009/10"
   },
   {
    "club": "Force FC",
-   "id": "40092692",
-   "name": "(NY) ECNL RL G2009/10"
+   "id": "50043625",
+   "name": "ECNL RL G2009/10"
   },
   {
    "club": "WNY Flash Academy",
@@ -182,13 +207,78 @@
   },
   {
    "club": "Quickstrike FC",
-   "id": "40092775",
+   "id": "50043626",
    "name": "ECNL RL G2009/10"
   },
   {
    "club": "WNY Flash Academy",
    "id": "40092906",
    "name": "WNY Flash ECNL RL G2009/10"
+  },
+  {
+   "club": "East Coast Surf",
+   "id": "40190057",
+   "name": "SC - N1 G2009/10"
+  },
+  {
+   "club": "Syracuse Development Academy (SDA)",
+   "id": "40190094",
+   "name": "2010 Girls GA"
+  },
+  {
+   "club": "Long Island Slammers",
+   "id": "40190099",
+   "name": "G09/10 N1"
+  },
+  {
+   "club": "Empire State Youth Soccer Club",
+   "id": "40190106",
+   "name": "Albany Alleycats U17G DPL"
+  },
+  {
+   "club": "Atlantic United",
+   "id": "40190153",
+   "name": "SB/LGN SC 10G Aspire"
+  },
+  {
+   "club": "Downtown United Soccer Club",
+   "id": "40190156",
+   "name": "GA 09/10"
+  },
+  {
+   "club": "New York SC",
+   "id": "40190163",
+   "name": "GU17 GA"
+  },
+  {
+   "club": "New York SC",
+   "id": "40190168",
+   "name": "GU17 Aspire"
+  },
+  {
+   "club": "East Meadow Soccer Club",
+   "id": "40190180",
+   "name": "ECNL U17"
+  },
+  {
+   "club": "Quickstrike FC",
+   "id": "40190206",
+   "name": "N1 G2009/10"
+  },
+  {
+   "club": "The Island FC",
+   "id": "40190244",
+   "name": "GA 09/10"
+  },
+  {
+   "club": "The Island FC",
+   "id": "40190245",
+   "name": "Aspire 10/11 East"
+  },
+  {
+   "club": "The Island FC",
+   "id": "40190246",
+   "name": "Aspire 09/10 East"
   }
  ]
 }

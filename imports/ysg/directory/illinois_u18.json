@@ -1,24 +1,24 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-11-03T14:57:51.857587+00:00",
+ "fetched_at": "2026-11-10T15:32:28.910525+00:00",
  "state": "IL",
  "state_slug": "illinois",
  "teams": [
   {
+   "club": "Sockers FC",
+   "id": "40070432",
+   "name": "GA 08/09"
+  },
+  {
+   "club": "Evolution SC",
+   "id": "50038526",
+   "name": "Evolution G2008/09 RL"
+  },
+  {
    "club": "Palatine Celtic SC",
    "id": "50008456",
    "name": "Palatine Celtic 2009G Black"
-  },
-  {
-   "club": "FC Lake County",
-   "id": "40018860",
-   "name": "U18G FC LAKE COUNTY 09/08 ELITE N1"
-  },
-  {
-   "club": "Independent Illinois Team/Clubs",
-   "id": "50008457",
-   "name": "Independence FC 08/09G Showcase"
   },
   {
    "club": "Lagrange Celtics",
@@ -31,14 +31,19 @@
    "name": "Pegasus FC Girls N1 U18 Red"
   },
   {
-   "club": "Illinois FC",
-   "id": "50008451",
-   "name": "Illinois FC HS Girls Select"
+   "club": "Independent Illinois Team/Clubs",
+   "id": "50008457",
+   "name": "Independence FC 08/09G Showcase"
   },
   {
-   "club": "Midland United Soccer Club",
-   "id": "50023632",
-   "name": "Midland Lady Knights 08/09G"
+   "club": "FC Lake County",
+   "id": "50038519",
+   "name": "U18G FC LAKE COUNTY 09/08 ELITE N1"
+  },
+  {
+   "club": "East Moline Silvis Soccer Club",
+   "id": "50038525",
+   "name": "EMSSC HS Orange"
   },
   {
    "club": "Glen-Ed SC",
@@ -46,64 +51,9 @@
    "name": "Glen-Ed SC 2008/09G 08G United"
   },
   {
-   "club": "Chicago Edge SC",
-   "id": "40022682",
-   "name": "Chicago Edge GU18 Premier XI"
-  },
-  {
-   "club": "FC-1 Academy",
-   "id": "40068483",
-   "name": "Girls U18 Elite"
-  },
-  {
-   "club": "Independent Illinois Team/Clubs",
-   "id": "40026888",
-   "name": "Independence FC 08/09G Select"
-  },
-  {
    "club": "Glen-Ed SC",
    "id": "50008454",
    "name": "Glen-Ed SC 2008/09G 09G United"
-  },
-  {
-   "club": "Sockers FC",
-   "id": "40070432",
-   "name": "GA 08/09"
-  },
-  {
-   "club": "Greater Libertyville Soccer Association",
-   "id": "40018859",
-   "name": "FC 1974 Libertyville Select G2008/09"
-  },
-  {
-   "club": "Windy City Pride",
-   "id": "40068485",
-   "name": "Windy City Pride 2009 Girls"
-  },
-  {
-   "club": "Central Illinois United",
-   "id": "50023633",
-   "name": "PFCU 08/09 HS Girls Select"
-  },
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50008453",
-   "name": "SLSG IL G 2008/2009 Elite"
-  },
-  {
-   "club": "Quincy Rush Soccer Club",
-   "id": "40044028",
-   "name": "Quincy Rush 08/09 Girls Hynek/Arnett"
-  },
-  {
-   "club": "Metro Alliance Irish FC",
-   "id": "40044062",
-   "name": "Irish FC Girls 2008-2009 Green"
-  },
-  {
-   "club": "Sockers FC",
-   "id": "40071122",
-   "name": "Aspire 08/09"
   },
   {
    "club": "South Suburban",
@@ -111,13 +61,118 @@
    "name": "SSA 2008/09G"
   },
   {
+   "club": "Sockers FC",
+   "id": "40071122",
+   "name": "Aspire 08/09"
+  },
+  {
+   "club": "Chicago Edge SC",
+   "id": "50038521",
+   "name": "Chicago Edge GU18 Premier XI"
+  },
+  {
+   "club": "Morton United FC",
+   "id": "50038530",
+   "name": "Morton United FC HS Girls U18"
+  },
+  {
+   "club": "Illinois FC",
+   "id": "50008451",
+   "name": "Illinois FC HS Girls Select"
+  },
+  {
    "club": "Lagrange Celtics",
-   "id": "40018866",
+   "id": "50038520",
    "name": "CWS First XI U18G Select"
   },
   {
+   "club": "Windy City Pride",
+   "id": "50027456",
+   "name": "Windy City Pride 2009 Girls"
+  },
+  {
+   "club": "MidState Soccer Club",
+   "id": "50021207",
+   "name": "MidState 08/09 Girls (U18)"
+  },
+  {
+   "club": "Independent Illinois Team/Clubs",
+   "id": "50038522",
+   "name": "Independence FC 08/09G Select"
+  },
+  {
+   "club": "Greater Libertyville Soccer Association",
+   "id": "50038518",
+   "name": "FC 1974 Libertyville Select G2008/09"
+  },
+  {
+   "club": "FC-1 Academy",
+   "id": "50038527",
+   "name": "Girls U18 Elite"
+  },
+  {
+   "club": "Midland United Soccer Club",
+   "id": "50023632",
+   "name": "Midland Lady Knights 08/09G"
+  },
+  {
+   "club": "Central Illinois United",
+   "id": "50008452",
+   "name": "PFCU 08/09 Girls Showcase"
+  },
+  {
+   "club": "Quincy Rush Soccer Club",
+   "id": "40044028",
+   "name": "Quincy Rush 08/09 Girls Hynek/Arnett"
+  },
+  {
+   "club": "Pekin Pride Soccer",
+   "id": "50038528",
+   "name": "High School Girls"
+  },
+  {
    "club": "St. Louis Scott Gallagher",
-   "id": "40004565",
+   "id": "50008453",
+   "name": "SLSG IL G 2008/2009 Elite"
+  },
+  {
+   "club": "Astra Soccer Academy",
+   "id": "50051084",
+   "name": "Astra U18 Girls"
+  },
+  {
+   "club": "Central Illinois United",
+   "id": "50023633",
+   "name": "PFCU 08/09 HS Girls Select"
+  },
+  {
+   "club": "Palatine Celtic SC",
+   "id": "50038529",
+   "name": "Palatine Celtic 2009G Green"
+  },
+  {
+   "club": "Peoria FC United",
+   "id": "50027455",
+   "name": "United FC 09/10 Girls-Tarter"
+  },
+  {
+   "club": "Elite SC",
+   "id": "50038531",
+   "name": "Elite S.C. U18 Girls Black (2008/09)"
+  },
+  {
+   "club": "VC Academy",
+   "id": "50038523",
+   "name": "VC Academy Girls 2008/2009"
+  },
+  {
+   "club": "Metro Alliance Irish FC",
+   "id": "40044062",
+   "name": "Irish FC Girls 2008-2009 Green"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "50027454",
    "name": "SLSG IL ECNL RL G2008/09"
   },
   {
@@ -126,9 +181,9 @@
    "name": "Metro Alliance U19G Aspire"
   },
   {
-   "club": "Central Illinois United",
-   "id": "50008452",
-   "name": "PFCU 08/09 Girls Showcase"
+   "club": "Heart of The City",
+   "id": "50038517",
+   "name": "HOTC Elite U18G"
   },
   {
    "club": "Metro Alliance Irish FC",
@@ -136,43 +191,13 @@
    "name": "Irish FC Girls 2008 -2009 Blue"
   },
   {
-   "club": "VC Academy",
-   "id": "40039490",
-   "name": "VC Academy Girls 2008/2009"
-  },
-  {
-   "club": "Peoria FC United",
-   "id": "40039512",
-   "name": "United FC 09/10 Girls-Tarter"
-  },
-  {
-   "club": "East Moline Silvis Soccer Club",
-   "id": "40051124",
-   "name": "EMSSC HS Orange"
-  },
-  {
-   "club": "Evolution SC",
-   "id": "40066153",
-   "name": "Evolution G2008/09 RL"
-  },
-  {
-   "club": "MidState Soccer Club",
-   "id": "50021207",
-   "name": "MidState 08/09 Girls (U18)"
-  },
-  {
-   "club": "Pekin Pride Soccer",
-   "id": "40073674",
-   "name": "High School Girls"
-  },
-  {
-   "club": "Morton United FC",
-   "id": "40106293",
-   "name": "Morton United FC HS Girls U18 Girls"
+   "club": "Pegasus FC",
+   "id": "50038524",
+   "name": "Pegasus FC Girls 2008/2009 Red"
   },
   {
    "club": "Quad Cities Rush",
-   "id": "40106294",
+   "id": "50051085",
    "name": "Quad Cities Rush HS U18g"
   },
   {
@@ -219,6 +244,26 @@
    "club": "Schaumburg Athletic Association",
    "id": "40113936",
    "name": "RLK"
+  },
+  {
+   "club": "JV",
+   "id": "40158548",
+   "name": "U18 Girls JV"
+  },
+  {
+   "club": "Chicago City Soccer Club",
+   "id": "40158574",
+   "name": "Chicago City Soccer Club U18 Girls"
+  },
+  {
+   "club": "Chicago City Soccer Club",
+   "id": "40158649",
+   "name": "Chicago City U18 Girls West"
+  },
+  {
+   "club": "UESC NSA",
+   "id": "40172372",
+   "name": "UESC -NSA U18 Girls Academy"
   }
  ]
 }

@@ -1,14 +1,29 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-11-03T15:00:21.839731+00:00",
+ "fetched_at": "2026-11-10T15:34:58.914198+00:00",
  "state": "IA",
  "state_slug": "iowa",
  "teams": [
   {
+   "club": "FC United (Iowa)",
+   "id": "50037455",
+   "name": "FC United U11G Red"
+  },
+  {
+   "club": "Vision Soccer Academy",
+   "id": "50027171",
+   "name": "VSA U11G (15/16) Black"
+  },
+  {
    "club": "Muscatine Soccer Club",
    "id": "50007993",
    "name": "MSC U11G"
+  },
+  {
+   "club": "Quad City Strikers.",
+   "id": "50037451",
+   "name": "QC Strikers"
   },
   {
    "club": "Sporting Iowa Central",
@@ -16,49 +31,114 @@
    "name": "Sporting Iowa Pre-ECNL G2015/16"
   },
   {
+   "club": "Rockford Raptors FC",
+   "id": "50027168",
+   "name": "Fuerza Raptors U11G"
+  },
+  {
+   "club": "Gilbert Soccer Club",
+   "id": "50037457",
+   "name": "Gilbert U11 Black"
+  },
+  {
+   "club": "United Futbol Academy (UFA)",
+   "id": "50037449",
+   "name": "UFA DSM U11G Elite"
+  },
+  {
+   "club": "Dubuque Soccer Club",
+   "id": "50007992",
+   "name": "GU11 White"
+  },
+  {
+   "club": "Bettendorf Soccer Association",
+   "id": "50037452",
+   "name": "BSA U11 Girls"
+  },
+  {
    "club": "FC United (Iowa)",
    "id": "40095486",
    "name": "Pre-ECNL G2015/16"
   },
   {
-   "club": "Rockford Raptors FC",
-   "id": "40004591",
-   "name": "Fuerza Raptors U11G"
+   "club": "FC United (Iowa)",
+   "id": "50037456",
+   "name": "FC United U11G Navy"
+  },
+  {
+   "club": "Apex Soccer Academy",
+   "id": "50027170",
+   "name": "Apex Rush 11U Girls"
   },
   {
    "club": "North Scott Soccer Club",
-   "id": "40051058",
+   "id": "50037450",
    "name": "North Scott Soccer Club U11 Girls"
   },
   {
-   "club": "Quad City Strikers.",
-   "id": "40051060",
-   "name": "QC Strikers"
+   "club": "Spring Creek FC",
+   "id": "50027177",
+   "name": "SCFC G2016 U11"
   },
   {
-   "club": "Bettendorf Soccer Association",
-   "id": "40051086",
-   "name": "BSA U11 Girls"
+   "club": "Ames Soccer Club",
+   "id": "50027172",
+   "name": "Ames SC 11u Girls Navy"
+  },
+  {
+   "club": "Vision Soccer Academy",
+   "id": "50027176",
+   "name": "VSA U11G (15/16) Blue"
+  },
+  {
+   "club": "Des Moines SC",
+   "id": "50027173",
+   "name": "DMSC U11 Girls Red"
+  },
+  {
+   "club": "Quad City Strikers.",
+   "id": "50037453",
+   "name": "QCS 2015/16 Girls"
+  },
+  {
+   "club": "North Polk United",
+   "id": "50027174",
+   "name": "NPU U11G"
+  },
+  {
+   "club": "FC United (Iowa)",
+   "id": "50027169",
+   "name": "FC United U11G"
+  },
+  {
+   "club": "North Iowa Soccer Club",
+   "id": "50037454",
+   "name": "North Iowa 11/12U Tournament Girls"
+  },
+  {
+   "club": "515 Soccer Academy",
+   "id": "50027175",
+   "name": "515 Soccer Academy U11 Girls"
+  },
+  {
+   "club": "FC United (Iowa)",
+   "id": "40023990",
+   "name": "Iowa United FC Academy U10 Girls Silver"
+  },
+  {
+   "club": "WCV United",
+   "id": "40023991",
+   "name": "WCV United"
+  },
+  {
+   "club": "Apex Soccer Academy",
+   "id": "40024004",
+   "name": "Apex Rush 10U Girls Academy Grey"
   },
   {
    "club": "Clinton United Soccer Club",
    "id": "40051119",
    "name": "Clinton United"
-  },
-  {
-   "club": "Quad City Strikers.",
-   "id": "40051131",
-   "name": "QCS 2015/16 Girls"
-  },
-  {
-   "club": "FC United (Iowa)",
-   "id": "40096645",
-   "name": "U11G Red"
-  },
-  {
-   "club": "FC United (Iowa)",
-   "id": "40096646",
-   "name": "U11G Navy"
   },
   {
    "club": "Evolution SC",
@@ -76,14 +156,9 @@
    "name": "VSSC 11UG"
   },
   {
-   "club": "Iowa Rush",
+   "club": "Iowa Rush Soccer Club",
    "id": "40101414",
    "name": "Iowa Rush 11U Girls Blue"
-  },
-  {
-   "club": "Vision Soccer Academy",
-   "id": "40101418",
-   "name": "VSA U11G (15/16) Black"
   },
   {
    "club": "DCG Soccer Club",
@@ -91,12 +166,7 @@
    "name": "DCG U11G Select"
   },
   {
-   "club": "Ames Soccer Club",
-   "id": "40101428",
-   "name": "Ames 11U Girls Navy"
-  },
-  {
-   "club": "Iowa Rush",
+   "club": "Iowa Rush Soccer Club",
    "id": "40101430",
    "name": "Iowa Rush 11U Girls Grey"
   },
@@ -106,34 +176,69 @@
    "name": "CVSC 11G"
   },
   {
-   "club": "Des Moines Soccer Club",
-   "id": "40101433",
-   "name": "DMSC U11 Girls Red"
-  },
-  {
-   "club": "North Polk United",
-   "id": "40101562",
-   "name": "NPU U11G"
-  },
-  {
-   "club": "515 Soccer Academy",
-   "id": "40101563",
-   "name": "515 Soccer Academy U11 Girls"
-  },
-  {
-   "club": "Vision Soccer Academy",
-   "id": "40101565",
-   "name": "VSA U11G (15/16) Blue"
-  },
-  {
    "club": "Western Iowa Surf",
    "id": "40102236",
    "name": "WI Surf U11G Black"
   },
   {
-   "club": "SPRING CREEK FC",
-   "id": "40102243",
-   "name": "SCFC G2016 U11"
+   "club": "VSA Rush",
+   "id": "40126994",
+   "name": "Iowa Rush 11U Girls Blue"
+  },
+  {
+   "club": "VSA Rush",
+   "id": "40126995",
+   "name": "Iowa Rush 11U Girls Grey"
+  },
+  {
+   "club": "Cedar Valley Soccer Club",
+   "id": "40127102",
+   "name": "CVSC 11G Gray"
+  },
+  {
+   "club": "DCG Soccer Club",
+   "id": "40127155",
+   "name": "DCG U11/12G Select Devo"
+  },
+  {
+   "club": "Iowa Rush Soccer Club",
+   "id": "40127698",
+   "name": "Iowa Rush North 11U Girls"
+  },
+  {
+   "club": "Mason City Soccer Club",
+   "id": "40127716",
+   "name": "MCSC U10G - Black"
+  },
+  {
+   "club": "MCSC",
+   "id": "40127717",
+   "name": "MCSC U11G"
+  },
+  {
+   "club": "Decorah United SC",
+   "id": "40127747",
+   "name": "Decorah United Girls U10"
+  },
+  {
+   "club": "Iowa Soccer Club",
+   "id": "40141924",
+   "name": "ISC Fever-2015-2016 Girls"
+  },
+  {
+   "club": "Bondurant Soccer Club",
+   "id": "40175826",
+   "name": "Mid-Iowa SC U11 Girls"
+  },
+  {
+   "club": "Evolution SC",
+   "id": "40175903",
+   "name": "Evolution SC 2015/16 Girls Purple"
+  },
+  {
+   "club": "Evolution SC",
+   "id": "40175904",
+   "name": "Evolution SC 2015/16 Girls Teal"
   }
  ]
 }

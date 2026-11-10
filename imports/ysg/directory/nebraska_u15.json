@@ -1,10 +1,15 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-03T15:21:12.140125+00:00",
+ "fetched_at": "2026-11-10T15:55:49.058089+00:00",
  "state": "NE",
  "state_slug": "nebraska",
  "teams": [
+  {
+   "club": "Gretna Elite Academy",
+   "id": "50052327",
+   "name": "Gretna Elite Academy ECNL G2011/12"
+  },
   {
    "club": "Lincoln City FC",
    "id": "40019529",
@@ -16,9 +21,9 @@
    "name": "Omaha Evolution N1 G2011/12 (NE)"
   },
   {
-   "club": "Gretna Elite Academy",
-   "id": "40090210",
-   "name": "ECNL G2011/12"
+   "club": "Omaha Surf Soccer Club",
+   "id": "40019573",
+   "name": "Omaha Surf N1 G2011/12 (NE)"
   },
   {
    "club": "Sporting Nebraska FC",
@@ -26,14 +31,9 @@
    "name": "GA 11/12"
   },
   {
-   "club": "Omaha Surf Soccer Club",
-   "id": "40019573",
-   "name": "Omaha Surf N1 G2011/12 (NE)"
-  },
-  {
-   "club": "Gretna Elite Academy",
-   "id": "40092266",
-   "name": "ECNL RL G2011/12"
+   "club": "Sting Nebraska",
+   "id": "40019714",
+   "name": "Sting NE N1 G2011/12 Irsik"
   },
   {
    "club": "Sporting Nebraska FC",
@@ -41,14 +41,14 @@
    "name": "Sporting Nebraska N1 G2011/12 Elite (NE)"
   },
   {
-   "club": "Omaha United SC",
-   "id": "40092246",
+   "club": "Gretna Elite Academy",
+   "id": "40092266",
    "name": "ECNL RL G2011/12"
   },
   {
-   "club": "Sting Nebraska",
-   "id": "40019714",
-   "name": "Sting NE N1 G2011/12 Irsik"
+   "club": "Omaha United SC",
+   "id": "40092246",
+   "name": "ECNL RL G2011/12"
   },
   {
    "club": "Gretna Elite Academy",
@@ -74,6 +74,21 @@
    "club": "LSC",
    "id": "40102523",
    "name": "LSC Pulse U15"
+  },
+  {
+   "club": "Diablos Football Club",
+   "id": "40122291",
+   "name": "Diablos FC - U15G Black"
+  },
+  {
+   "club": "Sporting Nebraska FC",
+   "id": "40136560",
+   "name": "GA G U15"
+  },
+  {
+   "club": "Sting",
+   "id": "40141770",
+   "name": "Sting U15 Girls"
   }
  ]
 }

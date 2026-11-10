@@ -1,10 +1,15 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-11-03T15:01:51.839502+00:00",
+ "fetched_at": "2026-11-10T15:36:29.069620+00:00",
  "state": "KS",
  "state_slug": "kansas",
  "teams": [
+  {
+   "club": "Captains Soccer Club",
+   "id": "50038884",
+   "name": "Captains SC Girls 17/18 White"
+  },
   {
    "club": "Wichita Surf Soccer Club",
    "id": "40076535",
@@ -16,24 +21,9 @@
    "name": "WICHITA SURF ACADEMY 17/18G"
   },
   {
-   "club": "KC Athletics",
-   "id": "50009194",
-   "name": "KC Athletics Spark U9G"
-  },
-  {
-   "club": "Wichita Surf Soccer Club",
-   "id": "40076555",
-   "name": "WICHITA SURF ELITE 17/18G BLACK"
-  },
-  {
-   "club": "AZTECA",
-   "id": "40076518",
-   "name": "AZTECA U9G"
-  },
-  {
-   "club": "Sporting Wichita",
-   "id": "50009193",
-   "name": "Sporting Wichita U9G Academy"
+   "club": "Kansas City Surf",
+   "id": "50024757",
+   "name": "KC SURF BLUE U9G"
   },
   {
    "club": "FC Wichita",
@@ -41,9 +31,29 @@
    "name": "FC Wichita G2017/18 Red"
   },
   {
+   "club": "Sporting Wichita",
+   "id": "50009193",
+   "name": "Sporting Wichita U9G Academy"
+  },
+  {
+   "club": "Captains Soccer Club",
+   "id": "50038883",
+   "name": "Captains SC Girls 17/18 Blue"
+  },
+  {
+   "club": "AZTECA",
+   "id": "40076518",
+   "name": "AZTECA U9G"
+  },
+  {
    "club": "SPORTING BV",
    "id": "50009201",
    "name": "SPORTING BV Wales 18/19"
+  },
+  {
+   "club": "Basehor Bobcats FC",
+   "id": "50009204",
+   "name": "Basehor Bobcats FC U9G Gold"
   },
   {
    "club": "Kansas Rush",
@@ -61,19 +71,19 @@
    "name": "SPORTING WICHITA U9G PRE-ACADEMY"
   },
   {
-   "club": "Basehor Bobcats FC",
-   "id": "50009204",
-   "name": "Basehor Bobcats FC U9G Gold"
-  },
-  {
-   "club": "KC Athletics",
-   "id": "50009199",
-   "name": "KC Athletics Thorns U9G"
+   "club": "Captains Soccer Club",
+   "id": "50038885",
+   "name": "Captains SC Girls 17/18 Gold"
   },
   {
    "club": "DERBY UNITED",
    "id": "40076468",
    "name": "DERBY UNITED SPICE GIRLS 17/18G"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "50009199",
+   "name": "KC Athletics Thorns U9G"
   },
   {
    "club": "Kansas Rush",
@@ -86,9 +96,14 @@
    "name": "2017/18 MCFC Girls"
   },
   {
+   "club": "CLUB AZZURRI",
+   "id": "40076392",
+   "name": "Azzurri U9G Pre-Academy"
+  },
+  {
    "club": "KC Athletics",
-   "id": "50009203",
-   "name": "KC Athletics Wolverhampton U9G"
+   "id": "50009194",
+   "name": "KC Athletics Spark u9G"
   },
   {
    "club": "FC ATLAS",
@@ -96,14 +111,29 @@
    "name": "FC ATLAS 17/18G"
   },
   {
-   "club": "WICHITA WARRIORS SOCCER CLUB",
-   "id": "40076410",
-   "name": "Wichita Warriors 18G"
+   "club": "KC Athletics",
+   "id": "50009203",
+   "name": "KC Athletics Wolverhampton U9G"
+  },
+  {
+   "club": "Wichita Surf Soccer Club",
+   "id": "40076555",
+   "name": "WICHITA SURF ELITE 17/18G BLACK"
   },
   {
    "club": "Hays Soccer Club",
    "id": "40076578",
    "name": "Hays Soccer Club 2017 Girls"
+  },
+  {
+   "club": "FC Wichita",
+   "id": "40076480",
+   "name": "FC WICHITA G2017/18 NAVY"
+  },
+  {
+   "club": "WICHITA WARRIORS SOCCER CLUB",
+   "id": "40076410",
+   "name": "Wichita Warriors 18G"
   },
   {
    "club": "KC Athletics",
@@ -116,9 +146,9 @@
    "name": "SPORTING BV Scotland 18/19"
   },
   {
-   "club": "FC Wichita",
-   "id": "40076480",
-   "name": "FC WICHITA G2017/18 NAVY"
+   "club": "Hays Havoc",
+   "id": "50009202",
+   "name": "Hays Havoc"
   },
   {
    "club": "Dodge City Toros FC",
@@ -126,17 +156,7 @@
    "name": "DODGE CITY TOROS FC 17G"
   },
   {
-   "club": "Hays Havoc",
-   "id": "50009202",
-   "name": "Hays Havoc"
-  },
-  {
-   "club": "CLUB AZZURRI",
-   "id": "40076392",
-   "name": "Azzurri U9G Pre-Academy"
-  },
-  {
-   "club": "Union KC",
+   "club": "Union KC Soccer Club",
    "id": "40100832",
    "name": "Union KC 17/18G KS Navy"
   },
@@ -161,7 +181,7 @@
    "name": "SPORTING BV Lisbon 17/18"
   },
   {
-   "club": "Union KC",
+   "club": "Union KC Soccer Club",
    "id": "40101167",
    "name": "Union KC 17/18G Jr Elite KS Navy"
   },
@@ -256,11 +276,6 @@
    "name": "TSC U9G Select Blue"
   },
   {
-   "club": "Kansas City Surf",
-   "id": "50024757",
-   "name": "KC SURF BLUE U9G"
-  },
-  {
    "club": "OP Soccer Club",
    "id": "40102471",
    "name": "OP Premier U9G"
@@ -271,7 +286,7 @@
    "name": "Derby United Spice Girls"
   },
   {
-   "club": "Wichita Surf",
+   "club": "Wichita Surf Soccer Club",
    "id": "40102592",
    "name": "Wichita Surf 18/19G Elite Black"
   },
@@ -281,24 +296,14 @@
    "name": "FC Wichita U9G Red"
   },
   {
-   "club": "Captains Soccer Club",
-   "id": "40102737",
-   "name": "Captains SC 17/18 Blue"
-  },
-  {
    "club": "KC Legends",
    "id": "40102738",
    "name": "KCL North Academy Red G17/18"
   },
   {
-   "club": "Union KC",
+   "club": "Union KC Soccer Club",
    "id": "40102741",
    "name": "Union KC 17/18G Jr Elite Red"
-  },
-  {
-   "club": "Captains Soccer Club",
-   "id": "40102742",
-   "name": "Captains SC 17/18 White"
   },
   {
    "club": "Sporting City",
@@ -316,11 +321,6 @@
    "name": "Forfeit"
   },
   {
-   "club": "Captains Soccer Club",
-   "id": "40102857",
-   "name": "Captains SC 17/18 Gold"
-  },
-  {
    "club": "Toca Fusion",
    "id": "40102858",
    "name": "Toca Fusion Championship GU09"
@@ -329,6 +329,26 @@
    "club": "Toca Fusion",
    "id": "40102860",
    "name": "Toca Fusion Premier GU9"
+  },
+  {
+   "club": "Sporting Blue Valley",
+   "id": "40128712",
+   "name": "SPORTING BV Benfica 17/18"
+  },
+  {
+   "club": "Wichita Surf Elite Gold",
+   "id": "40167308",
+   "name": "Wichita Surf Elite Gold 17/18G"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "40176591",
+   "name": "KC SURF ACADEMY U9G"
+  },
+  {
+   "club": "Basehor Bobcats FC",
+   "id": "40176633",
+   "name": "Basehor Bobcats FC U9G"
   }
  ]
 }

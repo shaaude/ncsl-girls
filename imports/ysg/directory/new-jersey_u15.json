@@ -1,49 +1,14 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-03T15:26:41.926093+00:00",
+ "fetched_at": "2026-11-10T16:01:19.198042+00:00",
  "state": "NJ",
  "state_slug": "new-jersey",
  "teams": [
   {
-   "club": "Voorhees SA",
-   "id": "50013870",
-   "name": "Bandits 11/12"
-  },
-  {
    "club": "SJEB FC",
    "id": "40015125",
    "name": "11/12G EDP U15"
-  },
-  {
-   "club": "Middletown SC",
-   "id": "40074525",
-   "name": "Pride"
-  },
-  {
-   "club": "Neptune Soccer Association",
-   "id": "40074539",
-   "name": "Neptune Thunder"
-  },
-  {
-   "club": "Cohansey SC",
-   "id": "40061494",
-   "name": "Cohansey Premier u14 Navy NAL"
-  },
-  {
-   "club": "Deptford SA",
-   "id": "50013868",
-   "name": "Deptford Blast"
-  },
-  {
-   "club": "North Plainfield SC",
-   "id": "40015005",
-   "name": "Angel\u2019s NPSC"
-  },
-  {
-   "club": "Audubon Soccer Youth Association",
-   "id": "40041182",
-   "name": "Audubon Soccer Youth Avalanche"
   },
   {
    "club": "Voorhees SA",
@@ -51,23 +16,8 @@
    "name": "Thundercats 11/12"
   },
   {
-   "club": "Red Bank FC",
-   "id": "40014554",
-   "name": "Riptide Elite"
-  },
-  {
-   "club": "Mercer United FC",
-   "id": "40014911",
-   "name": "Mercer United FC Storm"
-  },
-  {
-   "club": "Player Technique Academy",
-   "id": "40015450",
-   "name": "PTA - Black"
-  },
-  {
    "club": "Highland Youth Soccer Club",
-   "id": "40014948",
+   "id": "50042372",
    "name": "Highland SC Elite Reign 11/12G"
   },
   {
@@ -76,9 +26,19 @@
    "name": "Jackson SC Blaze"
   },
   {
-   "club": "Toms River FC",
-   "id": "40074505",
-   "name": "Matchfit/Surf-Roma"
+   "club": "Player Technique Academy",
+   "id": "40015450",
+   "name": "PTA - Black"
+  },
+  {
+   "club": "Voorhees SA",
+   "id": "50013870",
+   "name": "Bandits 11/12"
+  },
+  {
+   "club": "Cohansey SC",
+   "id": "40061494",
+   "name": "Cohansey Premier u14 Navy NAL"
   },
   {
    "club": "Jackson Soccer Club Inc",
@@ -86,14 +46,9 @@
    "name": "Tecnica Elite Soccer '12 girls Jackson SC"
   },
   {
-   "club": "Brick Township SA",
-   "id": "40074509",
-   "name": "Cheetahs"
-  },
-  {
-   "club": "Palmyra Riverton SC",
-   "id": "40041438",
-   "name": "Thunder 11/12"
+   "club": "Deptford SA",
+   "id": "50013868",
+   "name": "Deptford Blast"
   },
   {
    "club": "Clark SC",
@@ -101,14 +56,9 @@
    "name": "Coyotes 2011/12G"
   },
   {
-   "club": "Aberdeen Matawan SC",
-   "id": "40074537",
-   "name": "Aberdeen Matawan SC Strikers Maroon"
-  },
-  {
-   "club": "Jackson Soccer Club Inc",
-   "id": "40014922",
-   "name": "Jackson SC Rage"
+   "club": "Red Bank FC",
+   "id": "50042370",
+   "name": "Riptide Elite"
   },
   {
    "club": "Harrison SC",
@@ -116,9 +66,79 @@
    "name": "Harrison SC Blue Devils 2012"
   },
   {
+   "club": "Audubon Soccer Youth Association",
+   "id": "40041182",
+   "name": "Audubon Soccer Youth Avalanche"
+  },
+  {
+   "club": "Neptune Soccer Association",
+   "id": "50028767",
+   "name": "Neptune Thunder"
+  },
+  {
+   "club": "Hanover Soccer Club (NJ)",
+   "id": "50028766",
+   "name": "HSC 2012G Diamond"
+  },
+  {
+   "club": "Monmouth United Soccer",
+   "id": "50042374",
+   "name": "MUSC U15 Girls Blue"
+  },
+  {
+   "club": "Middletown SC",
+   "id": "40074525",
+   "name": "Pride"
+  },
+  {
+   "club": "Jackson Soccer Club Inc",
+   "id": "50042371",
+   "name": "Jackson SC Rage"
+  },
+  {
+   "club": "North Plainfield SC",
+   "id": "50052364",
+   "name": "Angel\u2019s NPSC"
+  },
+  {
+   "club": "Monroe Township YS",
+   "id": "50042373",
+   "name": "Monroe United EDP Black - G(11/12)"
+  },
+  {
+   "club": "Toms River FC",
+   "id": "40074505",
+   "name": "Matchfit/Surf-Roma"
+  },
+  {
+   "club": "Palmyra Riverton SC",
+   "id": "40041438",
+   "name": "Thunder 11/12"
+  },
+  {
+   "club": "Union Soccer",
+   "id": "40015425",
+   "name": "USC Sophia Smith 11/12"
+  },
+  {
+   "club": "Mercer United FC",
+   "id": "40014911",
+   "name": "Mercer United FC Storm"
+  },
+  {
    "club": "TBAA",
    "id": "50013869",
    "name": "TBAA Chaos 2011/12"
+  },
+  {
+   "club": "Long Branch Wave United",
+   "id": "40074492",
+   "name": "Long Branch Lady Wave United 2011/12"
+  },
+  {
+   "club": "Berkeley Soccer Association",
+   "id": "40074544",
+   "name": "Berkeley SA Storm"
   },
   {
    "club": "Marlton Soccer Club",
@@ -126,14 +146,9 @@
    "name": "Marlton SC Chiefs White 2011-12"
   },
   {
-   "club": "Harrison SC",
-   "id": "40041374",
-   "name": "Harrison SC Hawks"
-  },
-  {
-   "club": "Monroe Township YS",
-   "id": "40015024",
-   "name": "Monroe United EDP Black - G(11/12)"
+   "club": "Swedesboro Woolwich Soccer Assoc.",
+   "id": "50042375",
+   "name": "SWSA Phoenix"
   },
   {
    "club": "Steel United NJ",
@@ -141,14 +156,39 @@
    "name": "U15 Girls Elite"
   },
   {
-   "club": "Perth Amboy SC",
-   "id": "40074522",
-   "name": "Warrior Panthers"
+   "club": "Harrison SC",
+   "id": "40041374",
+   "name": "Harrison SC Hawks"
+  },
+  {
+   "club": "Brick Township SA",
+   "id": "50042376",
+   "name": "Cheetahs"
+  },
+  {
+   "club": "Red Bank FC",
+   "id": "40074494",
+   "name": "Comets"
   },
   {
    "club": "Northern Burlington SA",
    "id": "40014426",
    "name": "Northern Burlington Premier Wambachs 2011/2012"
+  },
+  {
+   "club": "Aberdeen Matawan SC",
+   "id": "40074537",
+   "name": "Aberdeen Matawan SC Strikers Maroon"
+  },
+  {
+   "club": "East Brunswick",
+   "id": "50052365",
+   "name": "East Brunswick Rockets"
+  },
+  {
+   "club": "Perth Amboy SC",
+   "id": "40074522",
+   "name": "Warrior Panthers"
   },
   {
    "club": "Cherry Hill SC",
@@ -176,29 +216,9 @@
    "name": "2012G Blue"
   },
   {
-   "club": "Union Soccer",
-   "id": "40015425",
-   "name": "USC Sophia Smith 11/12"
-  },
-  {
-   "club": "Hanover Soccer Club (NJ)",
-   "id": "40015601",
-   "name": "HSC 2012G Diamond"
-  },
-  {
-   "club": "Monmouth United Soccer",
-   "id": "40015674",
-   "name": "MUSC U15 Girls Blue"
-  },
-  {
    "club": "West New York SC",
    "id": "40015753",
    "name": "WNY Tigers GU15"
-  },
-  {
-   "club": "Swedesboro Woolwich Soccer Assoc.",
-   "id": "40041392",
-   "name": "SWSA Phoenix"
   },
   {
    "club": "East Greenwich SA",
@@ -216,34 +236,19 @@
    "name": "PDA SCP ECNL RL G2011/12"
   },
   {
-   "club": "Long Branch Wave United",
-   "id": "40074492",
-   "name": "Long Branch Lady Wave United 2011/12"
-  },
-  {
-   "club": "Red Bank FC",
-   "id": "40074494",
-   "name": "Comets"
-  },
-  {
-   "club": "East Brunswick",
-   "id": "40074508",
-   "name": "East Brunswick Rockets"
-  },
-  {
    "club": "JAE Academy Plainfield",
    "id": "40074529",
    "name": "J.A.E Academy MNJ G2011/12 Girls (NJ)"
   },
   {
-   "club": "Berkeley Soccer Association",
-   "id": "40074544",
-   "name": "Berkeley SA Storm"
-  },
-  {
    "club": "Match Fit Surf",
    "id": "50013878",
    "name": "Matchfit Surf ECNL RL G2011/12"
+  },
+  {
+   "club": "STA Mount Olive Soccer Club",
+   "id": "50042382",
+   "name": "STA MOSC N1 G2011/12 (NJ)"
   },
   {
    "club": "PDA Blue (North)",
@@ -272,27 +277,27 @@
   },
   {
    "club": "PDA South",
-   "id": "40092675",
+   "id": "50042377",
    "name": "PDA SOUTH ECNL RL G2011/12 BLUE"
   },
   {
    "club": "PDA South",
-   "id": "40092680",
+   "id": "50042378",
    "name": "PDA SOUTH ECNL RL G2011/12 WHITE"
   },
   {
    "club": "NJ Crush FC",
-   "id": "40092725",
+   "id": "50042379",
    "name": "ECNL RL G2011/12"
   },
   {
    "club": "FC Copa Academy",
-   "id": "40092737",
-   "name": "ECNL RL G2011/12"
+   "id": "50042380",
+   "name": "ECNL RL G2011/2012"
   },
   {
    "club": "NLSA Surf",
-   "id": "40092746",
+   "id": "50042381",
    "name": "ECNL RL G2011/12"
   },
   {
@@ -309,6 +314,56 @@
    "club": "Match Fit Surf",
    "id": "40092820",
    "name": "ECNL RL G2011/12 White"
+  },
+  {
+   "club": "Paramus United Soccer Club",
+   "id": "40158471",
+   "name": "G2012 Strykers"
+  },
+  {
+   "club": "Cedar Stars Academy - Monmouth",
+   "id": "40190069",
+   "name": "U15 GA"
+  },
+  {
+   "club": "Union County FC",
+   "id": "40190093",
+   "name": "N1 Girls 2011/12"
+  },
+  {
+   "club": "Wall Soccer Club",
+   "id": "40190117",
+   "name": "Wall Elite Porto"
+  },
+  {
+   "club": "Sporting Club Premier (NJ)",
+   "id": "40190134",
+   "name": "Sporting Club Premier - PDA SCP N1 G2011/12"
+  },
+  {
+   "club": "NJ Nationals FC",
+   "id": "40190149",
+   "name": "2012 Girls"
+  },
+  {
+   "club": "NJ Premier F.C.",
+   "id": "40190185",
+   "name": "G11/12"
+  },
+  {
+   "club": "STA",
+   "id": "40190195",
+   "name": "STA U15G Girls Academy"
+  },
+  {
+   "club": "STA",
+   "id": "40190196",
+   "name": "STA U15G Girls Academy Aspire"
+  },
+  {
+   "club": "Cedar Stars Academy - Bergen",
+   "id": "40190225",
+   "name": "U15 Girls Academy"
   }
  ]
 }

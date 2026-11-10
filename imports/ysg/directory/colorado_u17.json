@@ -1,24 +1,59 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-11-03T14:44:51.844252+00:00",
+ "fetched_at": "2026-11-10T15:19:28.937396+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
   {
    "club": "Real Colorado",
    "id": "50005806",
-   "name": "National ECNL G2009/10"
+   "name": "Real Colorado National ECNL G2009/10"
   },
   {
    "club": "Colorado Storm",
    "id": "50005804",
+   "name": "Colorado Storm ECNL G2009/10"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "50035340",
    "name": "ECNL G2009/10"
+  },
+  {
+   "club": "Real Colorado",
+   "id": "50005805",
+   "name": "Real Colorado Athletico ECNL G2009/10"
+  },
+  {
+   "club": "Arsenal Colorado",
+   "id": "40092373",
+   "name": "ECNL RL G2009/10"
   },
   {
    "club": "Colorado Storm",
    "id": "50023524",
    "name": "South ECNL RL G2009/10"
+  },
+  {
+   "club": "Pride SC",
+   "id": "50035342",
+   "name": "Pride SC ECNL RL G2009/10"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "50035343",
+   "name": "Colorado Storm North ECNL RL G2009/10"
+  },
+  {
+   "club": "Colorado EDGE",
+   "id": "50035344",
+   "name": "Colorado EDGE ECNL RL G2009/2010"
+  },
+  {
+   "club": "Real Colorado",
+   "id": "40092426",
+   "name": "Olympico ECNL RL G2009/10"
   },
   {
    "club": "Albion SC Denver",
@@ -27,103 +62,23 @@
   },
   {
    "club": "Arsenal Colorado",
-   "id": "40092373",
-   "name": "ECNL RL G2009/10"
-  },
-  {
-   "club": "Denver Kickers Sport Club",
-   "id": "50025026",
-   "name": "U17G DPL"
+   "id": "50035341",
+   "name": "Arsenal Colorado 09/10G Academy"
   },
   {
    "club": "Colorado Storm",
-   "id": "40092401",
-   "name": "ECNL RL G2009/10 North"
-  },
-  {
-   "club": "Pride SC",
-   "id": "50023522",
-   "name": "ECNL RL G2009/10"
-  },
-  {
-   "club": "Real Colorado",
-   "id": "50005805",
-   "name": "Athletico ECNL G2009/10"
-  },
-  {
-   "club": "Colorado Rush",
-   "id": "50005803",
-   "name": "ECNL G2009/10"
-  },
-  {
-   "club": "Colorado EDGE",
-   "id": "40092404",
-   "name": "ECNL RL G2009/2010"
-  },
-  {
-   "club": "Colorado Rush",
-   "id": "40019368",
-   "name": "Colorado Rush COS N1 G2009/10 (CO)"
-  },
-  {
-   "club": "Broomfield Soccer Club",
-   "id": "50005798",
-   "name": "Aspire 09/10"
-  },
-  {
-   "club": "Real Colorado",
-   "id": "40092426",
-   "name": "Olympico ECNL RL G2009/10"
-  },
-  {
-   "club": "Colorado Rush",
-   "id": "50025025",
-   "name": "Colorado Rush East U17G DPL"
-  },
-  {
-   "club": "Pride SC",
-   "id": "40019356",
-   "name": "Pride SC N1 G2009/10 Copa CO"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "40092395",
+   "id": "50035339",
    "name": "Central ECNL RL G2009/10"
-  },
-  {
-   "club": "Albion SC Denver",
-   "id": "40008254",
-   "name": "GU17 DPL"
   },
   {
    "club": "Colorado Rush",
    "id": "50023523",
-   "name": "ECNL RL G2009/10"
-  },
-  {
-   "club": "ALBION SC Boulder County",
-   "id": "50005801",
-   "name": "Boulder County Aspire 09/10"
+   "name": "Colorado Rush ECNL RL G2009/10"
   },
   {
    "club": "Colorado Rush",
-   "id": "40019332",
-   "name": "Colorado Rush North N1 G2009/10 (CO)"
-  },
-  {
-   "club": "Colorado United",
-   "id": "50005800",
-   "name": "Aspire 09/10"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "50025028",
-   "name": "CR U17G DPL"
-  },
-  {
-   "club": "ALBION SC Boulder County",
-   "id": "50025027",
-   "name": "Boulder County GU17 DPL"
+   "id": "50035338",
+   "name": "Colorado Rush COS N1 G2009/10 (CO)"
   },
   {
    "club": "CO Elevation FC",
@@ -131,14 +86,44 @@
    "name": "Aspire 09/10"
   },
   {
-   "club": "Colorado Rush",
-   "id": "40019359",
-   "name": "Colorado Rush East N1 G2009/10 (CO)"
+   "club": "ALBION SC Boulder County",
+   "id": "50005801",
+   "name": "Boulder County Aspire 09/10"
   },
   {
-   "club": "CO Elevation FC",
-   "id": "50025030",
+   "club": "Broomfield Soccer Club",
+   "id": "50005798",
+   "name": "Aspire 09/10"
+  },
+  {
+   "club": "Colorado United",
+   "id": "50005800",
+   "name": "Aspire 09/10"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "50035336",
+   "name": "Colorado Rush North U17G DPL"
+  },
+  {
+   "club": "Denver Kickers Sport Club",
+   "id": "50025026",
    "name": "U17G DPL"
+  },
+  {
+   "club": "Pride SC",
+   "id": "50035337",
+   "name": "Pride SC N1 G2009/10 Copa CO"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "40019332",
+   "name": "Colorado Rush North N1 G2009/10 (CO)"
+  },
+  {
+   "club": "Colorado EDGE",
+   "id": "50035335",
+   "name": "Colorado EDGE United G2009/2010"
   },
   {
    "club": "City SC NOCO",
@@ -146,14 +131,29 @@
    "name": "Aspire 09/10"
   },
   {
-   "club": "Colorado EDGE",
-   "id": "40004601",
-   "name": "Colorado EDGE United G2009/2010"
+   "club": "Colorado Rush",
+   "id": "50025025",
+   "name": "Colorado Rush East U17G DPL"
   },
   {
-   "club": "Westy Soccer Club",
-   "id": "40004645",
-   "name": "Westy U17G Elite"
+   "club": "Colorado Storm",
+   "id": "50025028",
+   "name": "CR U17G DPL"
+  },
+  {
+   "club": "Albion SC Denver",
+   "id": "40008254",
+   "name": "GU17 DPL"
+  },
+  {
+   "club": "ALBION SC Boulder County",
+   "id": "50025027",
+   "name": "Boulder County GU17 DPL"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "40019359",
+   "name": "Colorado Rush East N1 G2009/10 (CO)"
   },
   {
    "club": "Skyline",
@@ -161,9 +161,14 @@
    "name": "U17 DPL"
   },
   {
-   "club": "Colorado Rush",
-   "id": "40008268",
-   "name": "Colorado Rush North U17G DPL"
+   "club": "CO Elevation FC",
+   "id": "50025030",
+   "name": "U17G DPL"
+  },
+  {
+   "club": "Westy Soccer Club",
+   "id": "40004645",
+   "name": "Westy U17G Elite"
   },
   {
    "club": "Colorado Rush",
@@ -179,6 +184,41 @@
    "club": "Colorado United",
    "id": "40070956",
    "name": "GA 09/10"
+  },
+  {
+   "club": "Colorado Rush COS",
+   "id": "40136613",
+   "name": "Rush COS U17G White"
+  },
+  {
+   "club": "Pride SC",
+   "id": "40143093",
+   "name": "Pride SC United G09"
+  },
+  {
+   "club": "Colorado EDGE",
+   "id": "40144044",
+   "name": "Colorado EDGE Legends G2009/2010"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "40144186",
+   "name": "CR U16/17G Black"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "40144299",
+   "name": "North U17G Black I"
+  },
+  {
+   "club": "Chaffee County United SC",
+   "id": "40166766",
+   "name": "Chaffee County United U17 Girls 2026"
+  },
+  {
+   "club": "ALBION SC Boulder County",
+   "id": "40175409",
+   "name": "ALBION SC Colorado 10G GA"
   }
  ]
 }

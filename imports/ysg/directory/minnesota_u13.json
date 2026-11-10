@@ -1,10 +1,15 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-03T15:13:31.904579+00:00",
+ "fetched_at": "2026-11-10T15:48:09.107532+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
+  {
+   "club": "Tonka Fusion Elite",
+   "id": "40070925",
+   "name": "GA 13/14"
+  },
   {
    "club": "Minnesota Thunder Academy",
    "id": "40090223",
@@ -21,23 +26,18 @@
    "name": "ECNL RL G2013/14"
   },
   {
-   "club": "Boreal FC",
-   "id": "50011646",
-   "name": "ECNL RL G2013/14"
-  },
-  {
    "club": "Manitou FC",
    "id": "50011650",
    "name": "ECNL RL G2013/14"
   },
   {
-   "club": "Tonka Fusion Elite",
-   "id": "40070925",
-   "name": "GA 13/14"
-  },
-  {
    "club": "Lakeville Soccer Club",
    "id": "50011649",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "Boreal FC",
+   "id": "50011646",
    "name": "ECNL RL G2013/14"
   },
   {
@@ -46,9 +46,9 @@
    "name": "ECNL RL G2013/14"
   },
   {
-   "club": "North Surf",
-   "id": "50011652",
-   "name": "ECNL RL G2013/14"
+   "club": "Salvo SC",
+   "id": "40112040",
+   "name": "GA 13/14"
   },
   {
    "club": "MapleBrook SC",
@@ -56,9 +56,29 @@
    "name": "ECNL RL G2013/14"
   },
   {
+   "club": "CC United Soccer Club",
+   "id": "50051850",
+   "name": "N1 G2013/14"
+  },
+  {
+   "club": "North Surf",
+   "id": "50011652",
+   "name": "ECNL RL G2013/14"
+  },
+  {
    "club": "Wave SC",
    "id": "50011654",
    "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "North Star FC",
+   "id": "50028300",
+   "name": "N1 G2013/14"
+  },
+  {
+   "club": "North United SC",
+   "id": "40019162",
+   "name": "N1 G2013/14"
   },
   {
    "club": "Tonka United SA",
@@ -71,24 +91,9 @@
    "name": "ECNL RL G2013/14"
   },
   {
-   "club": "Fusion Soccer Club",
-   "id": "50011647",
-   "name": "ECNL RL G2013/14"
-  },
-  {
-   "club": "CC United Soccer Club",
-   "id": "40019146",
+   "club": "Edina Soccer Club",
+   "id": "40019253",
    "name": "N1 G2013/14"
-  },
-  {
-   "club": "North United SC",
-   "id": "40019162",
-   "name": "N1 G2013/14"
-  },
-  {
-   "club": "Minnesota Thunder Academy",
-   "id": "40093287",
-   "name": "MN Thunder Academy ECNL RL G2013/14"
   },
   {
    "club": "St. Croix",
@@ -96,19 +101,19 @@
    "name": "N1 G2013/14"
   },
   {
-   "club": "Edina Soccer Club",
-   "id": "40019253",
-   "name": "N1 G2013/14"
+   "club": "Fusion Soccer Club",
+   "id": "50011647",
+   "name": "ECNL RL G2013/14"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "40019259",
-   "name": "N1 G2013/14"
+   "club": "Minnesota Thunder Academy",
+   "id": "40093287",
+   "name": "MN Thunder Academy ECNL RL G2013/14"
   },
   {
-   "club": "North Star FC",
-   "id": "40019176",
-   "name": "N1 G2013/14"
+   "club": "North Surf",
+   "id": "50040929",
+   "name": "TCSL State G2013/14 Royal"
   },
   {
    "club": "United FC Rush",
@@ -116,9 +121,24 @@
    "name": "N1 G2013/14"
   },
   {
-   "club": "Salvo SC",
-   "id": "40112040",
-   "name": "GA 13/14"
+   "club": "Lakeville Soccer Club",
+   "id": "50040921",
+   "name": "N1 G2013/14"
+  },
+  {
+   "club": "Bloomington United",
+   "id": "50051857",
+   "name": "TCSL Regional G2013/14 Royal"
+  },
+  {
+   "club": "EPSC",
+   "id": "50051864",
+   "name": "TCSL Cities G2013/14 Grey"
+  },
+  {
+   "club": "Boreal FC",
+   "id": "50051859",
+   "name": "TCSL Cities G2013/14 Dinsmore"
   },
   {
    "club": "Minneapolis United",
@@ -126,14 +146,204 @@
    "name": "N1 G2013/14"
   },
   {
+   "club": "North United SC",
+   "id": "50051853",
+   "name": "TCSL Cities G2013/14 Gold"
+  },
+  {
+   "club": "Minnesota Rush",
+   "id": "50051852",
+   "name": "TCSL Cities G2013/14 EDT 2"
+  },
+  {
    "club": "Fusion Soccer Club",
    "id": "40019213",
    "name": "N1 G2013/14"
   },
   {
+   "club": "Minneapolis United",
+   "id": "50051862",
+   "name": "TCSL State G2013/14 Copa"
+  },
+  {
+   "club": "Manitou FC",
+   "id": "50051854",
+   "name": "TCSL State G2013/14"
+  },
+  {
+   "club": "North Surf",
+   "id": "40182456",
+   "name": "TCSL Cities G2013/14 White"
+  },
+  {
+   "club": "Prior Lake SC",
+   "id": "50051860",
+   "name": "TCSL Cities G2013/14 Gold"
+  },
+  {
+   "club": "EPSC",
+   "id": "50040931",
+   "name": "TCSL Regional G2013/14 Red"
+  },
+  {
+   "club": "Prior Lake SC",
+   "id": "50040922",
+   "name": "TCSL Regional G2013/14 Navy"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "50040923",
+   "name": "TCSL State G2013/14 Black"
+  },
+  {
+   "club": "Legacy FC",
+   "id": "50040932",
+   "name": "TCSL State G2013/14 Elite"
+  },
+  {
+   "club": "Mahtomedi Soccer Association",
+   "id": "50051863",
+   "name": "TCSL Regional G2013/14 Zephyrs Gold"
+  },
+  {
+   "club": "Waconia SC",
+   "id": "40182498",
+   "name": "TCSL Regional G2013/14"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "50040933",
+   "name": "TCSL Regional G2013/14 Select 2"
+  },
+  {
+   "club": "Tonka United SA",
+   "id": "50040924",
+   "name": "TCSL State G2013/14 Academy"
+  },
+  {
+   "club": "St. Paul Blackhawks",
+   "id": "40182755",
+   "name": "TCSL Regional G2013/14 Black"
+  },
+  {
+   "club": "CC United Soccer Club",
+   "id": "50040930",
+   "name": "TCSL State G2013/14"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "40182353",
+   "name": "TCSL Cities G2013/14 Navy 1"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "40182028",
+   "name": "TCSL State G2013/14"
+  },
+  {
+   "club": "Minneapolis United",
+   "id": "40182582",
+   "name": "TCSL Cities G2013/14 Samba"
+  },
+  {
+   "club": "East Ridge Soccer Club",
+   "id": "50051855",
+   "name": "TCSL State G2013/14 Black"
+  },
+  {
+   "club": "Minnesota Rush",
+   "id": "50040928",
+   "name": "TCSL Regional G2013/14 EDT 1"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50040927",
+   "name": "TCSL State G2013/14 Gold"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "50051856",
+   "name": "TCSL Regional G2013/14"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "40182110",
+   "name": "TCSL State G2013/14"
+  },
+  {
+   "club": "Orono Westonka Soccer Club",
+   "id": "50051858",
+   "name": "TCSL Regional G2013/14"
+  },
+  {
+   "club": "Bloomington United",
+   "id": "40182184",
+   "name": "TCSL State G2013/14 Red"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "40182029",
+   "name": "TCSL Cities G2013/14"
+  },
+  {
+   "club": "MapleBrook SC",
+   "id": "50040925",
+   "name": "TCSL Regional G2013/14 - Soukup"
+  },
+  {
+   "club": "Orono Westonka Soccer Club",
+   "id": "40182214",
+   "name": "TCSL Cities G2013/14"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "50040926",
+   "name": "TCSL Regional G2013/14 Academy 2"
+  },
+  {
+   "club": "Shakopee SA",
+   "id": "40181865",
+   "name": "TCSL State G2013/14"
+  },
+  {
+   "club": "Wave SC",
+   "id": "50051861",
+   "name": "TCSL State G2013/14 Premier"
+  },
+  {
+   "club": "Mahtomedi Soccer Association",
+   "id": "40182770",
+   "name": "TCSL Cities G2013/14 Zephyrs Navy"
+  },
+  {
+   "club": "Minnesota Thunder Academy",
+   "id": "50011644",
+   "name": "ECNL RL G2013/14"
+  },
+  {
    "club": "North Oaks Soccer Club",
    "id": "40105106",
    "name": "Blast South U13 Girls Sahara"
+  },
+  {
+   "club": "North Oaks Soccer Club",
+   "id": "40180213",
+   "name": "NOSC Blast South U13 Girls Sahara Mo"
+  },
+  {
+   "club": "Alexandria Area Redbirds",
+   "id": "40192317",
+   "name": "Alexandria Area Redbirds"
+  },
+  {
+   "club": "Lakers FC",
+   "id": "50051865",
+   "name": "Lakers FC - U12/13 Girls Academy"
+  },
+  {
+   "club": "Lakers FC",
+   "id": "50051866",
+   "name": "Lakers FC - U13 Girls Academy"
   }
  ]
 }

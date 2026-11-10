@@ -1,10 +1,15 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-03T14:35:31.833705+00:00",
+ "fetched_at": "2026-11-10T15:10:08.893596+00:00",
  "state": "AL",
  "state_slug": "alabama",
  "teams": [
+  {
+   "club": "Alabama FC",
+   "id": "50030707",
+   "name": "ECNL G2010/11"
+  },
   {
    "club": "Hoover-Vestavia Soccer",
    "id": "40070947",
@@ -12,28 +17,18 @@
   },
   {
    "club": "Alabama FC",
-   "id": "40090521",
-   "name": "ECNL G2010/11"
+   "id": "40092983",
+   "name": "ECNL RL G2010/11"
   },
   {
    "club": "Auburn Soccer Club",
-   "id": "40020117",
+   "id": "50030705",
    "name": "Auburn Soccer Club N1 Girls 2010-2011 AL"
   },
   {
    "club": "Revolution Soccer Club",
-   "id": "40020146",
+   "id": "50030706",
    "name": "Revolution N1 Girls 2010-11 Navy (AL)"
-  },
-  {
-   "club": "VERO FC",
-   "id": "50020152",
-   "name": "U16G DPL"
-  },
-  {
-   "club": "VERO FC",
-   "id": "40020178",
-   "name": "NASC N1 Girls 2010-2011 AL"
   },
   {
    "club": "Vestavia Hills Soccer Club",
@@ -41,14 +36,14 @@
    "name": "VHSC Attack N1 Girls 2010-2011 Black AL"
   },
   {
-   "club": "Alabama FC",
-   "id": "40092983",
-   "name": "ECNL RL G2010/11"
+   "club": "Hawaii Rush",
+   "id": "40069717",
+   "name": "15UG Rush North Shore"
   },
   {
-   "club": "Alabama FC",
-   "id": "40055892",
-   "name": "Alabama FC Alabaster U16 Premier Girls"
+   "club": "VERO FC",
+   "id": "40020178",
+   "name": "NASC N1 Girls 2010-2011 AL"
   },
   {
    "club": "Alabama FC",
@@ -56,14 +51,24 @@
    "name": "Alabama FC N1 Girls 2010-11 AL"
   },
   {
+   "club": "Alabama FC",
+   "id": "40055892",
+   "name": "Alabama FC Alabaster U16 Premier Girls"
+  },
+  {
    "club": "Union 10 FC",
    "id": "40092218",
    "name": "Union 10 ECNL RL G2010/11"
   },
   {
-   "club": "Coastal Rush",
-   "id": "40020220",
-   "name": "Mobile United Rush N1 2010/2011 Girls Black AL"
+   "club": "VERO FC",
+   "id": "50020152",
+   "name": "U16G DPL"
+  },
+  {
+   "club": "Oak Mountain SC (OMSC)",
+   "id": "50025256",
+   "name": "OMSC Girls U16 Eagles"
   },
   {
    "club": "Revolution Soccer Club",
@@ -71,14 +76,14 @@
    "name": "Revolution U16G White"
   },
   {
-   "club": "Oak Mountain Soccer Club",
-   "id": "40055944",
-   "name": "OMSC Eagles u16 Girls"
+   "club": "Alabama FC",
+   "id": "40020204",
+   "name": "Alabama FC N1 Girls 2010-11 Premier AL"
   },
   {
-   "club": "Alabama FC",
-   "id": "40020157",
-   "name": "Alabama FC Huntsville N1 Girls Elite 2011-2010 AL"
+   "club": "Coastal Rush",
+   "id": "40020220",
+   "name": "Mobile United Rush N1 2010/2011 Girls Black AL"
   },
   {
    "club": "Homewood Soccer Club (AL)",
@@ -87,13 +92,8 @@
   },
   {
    "club": "Alabama FC",
-   "id": "40020204",
-   "name": "Alabama FC N1 Girls 2010-11 Premier AL"
-  },
-  {
-   "club": "Alabama FC",
-   "id": "40092185",
-   "name": "Huntsville ECNL RL G2010/11"
+   "id": "40020157",
+   "name": "Alabama FC Huntsville N1 Girls Elite 2011-2010 AL"
   },
   {
    "club": "Alabama Rush",
@@ -101,9 +101,9 @@
    "name": "AL Rush RBC ASA Girls 11-12 Elite"
   },
   {
-   "club": "Hawaii Rush",
-   "id": "40069717",
-   "name": "15UG Rush North Shore"
+   "club": "Alabama FC",
+   "id": "40092185",
+   "name": "Huntsville ECNL RL G2010/11"
   },
   {
    "club": "Beach City FC",
@@ -114,6 +114,11 @@
    "club": "Beach City FC",
    "id": "40042502",
    "name": "2011 Navarro DEMO"
+  },
+  {
+   "club": "Rookie FC",
+   "id": "50020153",
+   "name": "Legends FC"
   },
   {
    "club": "Vestavia Hills Soccer Club",
@@ -129,11 +134,6 @@
    "club": "VERO FC",
    "id": "40105499",
    "name": "Vero FC Athletic SC AL 2010/11G Premier"
-  },
-  {
-   "club": "Oak Mountain SC (OMSC)",
-   "id": "40105500",
-   "name": "OMSC Girls U16 Eagles"
   },
   {
    "club": "Alabama FC South",

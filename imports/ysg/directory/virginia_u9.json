@@ -1,19 +1,14 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-11-03T14:29:03.736363+00:00",
+ "fetched_at": "2026-11-10T15:03:40.140909+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
   {
-   "club": "Smithfield Soccer Club",
-   "id": "40068209",
-   "name": "Smithfield TASL G2017/18 Supernova"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068252",
-   "name": "Beach FC G2017/18 Freedom TASL"
+   "club": "Suffolk FC",
+   "id": "40068368",
+   "name": "U9G Suffolk FC Sandstorm"
   },
   {
    "club": "Virginia Atlantic FC",
@@ -21,64 +16,9 @@
    "name": "U9 Girls Academy I"
   },
   {
-   "club": "Suffolk FC",
-   "id": "40068368",
-   "name": "U9G Suffolk FC Sandstorm"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068236",
-   "name": "Beach FC G2017/18 Reign TASL"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068234",
-   "name": "Beach FC G2017/18 Spirit TASL"
-  },
-  {
-   "club": "Virginia Reign",
-   "id": "40068201",
-   "name": "Va Reign FC TASL 2017-2018 Girls Gold"
-  },
-  {
-   "club": "Chesapeake United SC",
-   "id": "40068326",
-   "name": "CUSC G2017/18 ELITE PRE-N1 (VA)"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068235",
-   "name": "Beach FC G2017/18 Wave TASL"
-  },
-  {
-   "club": "Chesapeake SC",
-   "id": "40068222",
-   "name": "CSC TASL G2017/2018 Galaxy Gold (VA)"
-  },
-  {
    "club": "Churchland Soccer League",
    "id": "40068389",
    "name": "Churchland Valkyries 2017/2018G"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "40068431",
-   "name": "Virginia Rush GU9 White"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068237",
-   "name": "Beach FC G2017/18 Power TASL"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068251",
-   "name": "Beach FC G2017/18 Courage TASL"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "40111932",
-   "name": "VAR U9G Skittles"
   },
   {
    "club": "Smithfield Soccer Club",
@@ -87,8 +27,203 @@
   },
   {
    "club": "VA Rush Soccer Club",
-   "id": "40068430",
+   "id": "40111932",
+   "name": "VAR U9G Skittles"
+  },
+  {
+   "club": "Beach FC",
+   "id": "40068252",
+   "name": "Beach FC G2017/18 Freedom TASL"
+  },
+  {
+   "club": "Great Falls Reston Soccer Club",
+   "id": "50049273",
+   "name": "GFRSC U9G Blue"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "50049278",
+   "name": "Virginia Valor FC G2017/18 Gold"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50049270",
+   "name": "Arlington SA 2017/18G Dash (U9)"
+  },
+  {
+   "club": "Beach FC",
+   "id": "40068236",
+   "name": "Beach FC G2017/18 Reign TASL"
+  },
+  {
+   "club": "Smithfield Soccer Club",
+   "id": "50030375",
+   "name": "Smithfield TASL G2017/18 Supernova"
+  },
+  {
+   "club": "Chesapeake United SC",
+   "id": "40068326",
+   "name": "CUSC G2017/18 ELITE PRE-N1 (VA)"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "50030379",
+   "name": "VYS NCSL G2017/18 Red"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "50030374",
+   "name": "SYC U9G Pre-GA"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50030367",
+   "name": "McLean Youth Soccer U9 Girls Green"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "50049275",
+   "name": "U9G Black"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "50049279",
+   "name": "VSA U9G FOX"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50049269",
+   "name": "RU RED U9G PREMIER RC 1"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50030380",
+   "name": "Loudoun U9G Spirit"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "50049259",
+   "name": "VSA U9G RODMAN"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50049271",
+   "name": "Arlington SA 2017/18G Spirit (U9)"
+  },
+  {
+   "club": "Virginia Reign",
+   "id": "40068201",
+   "name": "Va Reign FC TASL 2017-2018 Girls Gold"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50030364",
+   "name": "McLean Youth Soccer U9 Girls White"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "50049258",
+   "name": "PW Courage Swoosh G2017/18"
+  },
+  {
+   "club": "Chesapeake SC",
+   "id": "50030376",
+   "name": "CSC TASL G2017/2018 Galaxy Gold (VA)"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50030368",
+   "name": "BRYC Academy G2017/18 Blue"
+  },
+  {
+   "club": "Beach FC",
+   "id": "40068251",
+   "name": "Beach FC G2017/18 Courage TASL"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50030369",
+   "name": "BRYC Academy G2017/18 White"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50049281",
+   "name": "Loudoun U9G Wave"
+  },
+  {
+   "club": "Beach FC",
+   "id": "40068234",
+   "name": "Beach FC G2017/18 Spirit TASL"
+  },
+  {
+   "club": "Villarreal Virginia Academy",
+   "id": "50049283",
+   "name": "Villarreal VA Azul G2017/18"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50049272",
+   "name": "Loudoun U9G Freedom"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "50049280",
+   "name": "PW Courage Tiempo G2017/18"
+  },
+  {
+   "club": "Stafford Soccer",
+   "id": "50049274",
+   "name": "Stafford Revolution U9G Blue"
+  },
+  {
+   "club": "Herndon Youth Soccer",
+   "id": "50030365",
+   "name": "Herndon NCSL G2017/18"
+  },
+  {
+   "club": "Beach FC",
+   "id": "40068235",
+   "name": "Beach FC G2017/18 Wave TASL"
+  },
+  {
+   "club": "Beach FC",
+   "id": "40068237",
+   "name": "Beach FC G2017/18 Power TASL"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50030363",
+   "name": "McLean Youth Soccer U9 Girls Gold"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "50049276",
+   "name": "U9G Gold"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "50030377",
    "name": "Virginia Rush GU9 Blue"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "50049277",
+   "name": "U9G White"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "50030378",
+   "name": "Virginia Rush GU9 White"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50049282",
+   "name": "BRYC Academy G2017/18 Teal"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50049252",
+   "name": "McLean Youth Soccer U9 Girls Silver"
   },
   {
    "club": "Vienna Youth Soccer",
@@ -99,6 +234,71 @@
    "club": "Vienna Youth Soccer",
    "id": "50020095",
    "name": "VYS NCSL G2017/18 White"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "50030366",
+   "name": "SYC U9G Pre-GA II"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50049253",
+   "name": "RU RED U9G PREMIER RC 2"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50049254",
+   "name": "RU RED U9G PREMIER COL"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "50030370",
+   "name": "GSC Girls 17/18 Premier"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50049255",
+   "name": "RU ORANGE U9G ELITE 1"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50049256",
+   "name": "RU ORANGE U9G PREMIER"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50049257",
+   "name": "RU ORANGE U9G ELITE 2"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "50030371",
+   "name": "PW Courage Nike G2017/18"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "50030372",
+   "name": "TSJFC U9G South Pre-GA"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "50030373",
+   "name": "TSJFC U9G North Pre-GA"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50049260",
+   "name": "Arlington SA 2017/18G Wave (U9)"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50049261",
+   "name": "2017-18 Girls White"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50049262",
+   "name": "2017-18 Girls Red"
   },
   {
    "club": "Beach FC",
@@ -176,7 +376,7 @@
    "name": "ARL 2017/18G Gothamm"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104604",
    "name": "LOUD U9G Spirit"
   },
@@ -206,27 +406,27 @@
    "name": "NPSC United 2017 Girls"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104686",
    "name": "LOUD U9G Arsenal"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104687",
    "name": "LOUD U9G Freedom"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104688",
    "name": "LOUD U9G Wave"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104689",
    "name": "LOUD U9G Thorns"
   },
   {
-   "club": "Loudoun Soccer Club",
+   "club": "Loudoun Soccer",
    "id": "40104690",
    "name": "LOUD U9G Reign"
   },
@@ -326,11 +526,6 @@
    "name": "ALEX 2018-19 Girls Pre-Academy White"
   },
   {
-   "club": "Vienna Youth Soccer",
-   "id": "40104774",
-   "name": "VYS NCSL G2017/18 Red"
-  },
-  {
    "club": "Prince William Courage - Travel",
    "id": "40104782",
    "name": "PW Courage Nike G2017/18"
@@ -346,17 +541,12 @@
    "name": "PW Courage Tiempo G2017/18"
   },
   {
-   "club": "Villarreal Virginia Academy",
-   "id": "40104800",
-   "name": "Villarreal VA Azul G2017/18"
-  },
-  {
-   "club": "Stafford Soccer",
+   "club": "Stafford Soccer Club",
    "id": "40104804",
    "name": "STAF Revolution U9G Blue"
   },
   {
-   "club": "Stafford Soccer",
+   "club": "Stafford Soccer Club",
    "id": "40104805",
    "name": "STAF Revolution U9G White"
   },
@@ -444,6 +634,111 @@
    "club": "Great Falls Reston SC - Travel",
    "id": "40105026",
    "name": "GFR U9G White"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "50049264",
+   "name": "VSA U9G HEAPS"
+  },
+  {
+   "club": "Lee-Mt. Vernon Sports Club",
+   "id": "50049265",
+   "name": "LMVSC G2017/18 Red"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50049266",
+   "name": "2017-18 Girls Black"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50049267",
+   "name": "2017-18 Girls Blue"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50049268",
+   "name": "2017-18 Girls Silver"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "40124340",
+   "name": "TSJFC U9G North Blue"
+  },
+  {
+   "club": "Northern Piedmont Sports Club",
+   "id": "40129991",
+   "name": "NPSC United 2017 Girls Black"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "40130041",
+   "name": "Virginia Valor FC G2017/18 Black"
+  },
+  {
+   "club": "Players Soccer Academy",
+   "id": "40130874",
+   "name": "Villarreal VA PSA AxolotlsG 2017/18"
+  },
+  {
+   "club": "America FC",
+   "id": "40130891",
+   "name": "America FC 2018 Girls"
+  },
+  {
+   "club": "Virginia Independent Soccer Team Association",
+   "id": "40133919",
+   "name": "VISTA Warriors FC U9G"
+  },
+  {
+   "club": "Stafford Soccer",
+   "id": "40139388",
+   "name": "Stafford Revolution U9G White"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "40139451",
+   "name": "Virginia Valor FC G2017/18 White"
+  },
+  {
+   "club": "Burke Athletic Club",
+   "id": "40166470",
+   "name": "2017/18G Unity Rise"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "40166492",
+   "name": "Loudoun U9G Thorns"
+  },
+  {
+   "club": "Blue Ridge United",
+   "id": "40166493",
+   "name": "Blue Ridge United U09G Orange"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "40166518",
+   "name": "VSA U9G HATCH"
+  },
+  {
+   "club": "NVSC",
+   "id": "40166567",
+   "name": "NVSC 2017/18G Blue"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "40166664",
+   "name": "Arlington SA 2017/18G Pride (U9)"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "40166665",
+   "name": "Arlington SA 2017/18G Gotham (U9)"
+  },
+  {
+   "club": "Culpeper Soccer Club",
+   "id": "40201671",
+   "name": "Culpeper SC 2017 Girls - U9 Academy"
   }
  ]
 }

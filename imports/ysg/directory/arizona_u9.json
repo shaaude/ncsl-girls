@@ -1,14 +1,99 @@
 {
  "age": "GU9",
  "age_slug": "u9",
- "fetched_at": "2026-11-03T14:38:01.843506+00:00",
+ "fetched_at": "2026-11-10T15:12:38.962630+00:00",
  "state": "AZ",
  "state_slug": "arizona",
  "teams": [
   {
+   "club": "RSL-AZ South",
+   "id": "50031177",
+   "name": "U9G Farabee Royals"
+  },
+  {
+   "club": "SC del Sol",
+   "id": "50031173",
+   "name": "18G Blue"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50031162",
+   "name": "Scottsdale G2017 Predator"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "50031169",
+   "name": "AZ Arsenal 2017/2018 Girls Teal JH"
+  },
+  {
+   "club": "Ascent United Soccer Club",
+   "id": "50020355",
+   "name": "Ascent United U09G Black"
+  },
+  {
+   "club": "South Bank SC",
+   "id": "50031168",
+   "name": "Alianza Cobras FC U9 - Lopez"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "50020357",
+   "name": "CCV Stars U9 Girls Peoria Orange"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "50031172",
+   "name": "CCV STARS U9 Girls Laveen"
+  },
+  {
+   "club": "Playmaker Futbol Academy",
+   "id": "50000865",
+   "name": "Playmaker Futbol Academy G2017/18 Black"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "50000869",
+   "name": "CCV Stars U9 Girls Surprise"
+  },
+  {
    "club": "Vail SC",
    "id": "50000863",
    "name": "VSC U-9 Girls"
+  },
+  {
+   "club": "Yavapai Soccer",
+   "id": "50020358",
+   "name": "Select 2017-18G"
+  },
+  {
+   "club": "AZFC",
+   "id": "50031163",
+   "name": "Select 17/18G Red"
+  },
+  {
+   "club": "State 48 FC",
+   "id": "50025398",
+   "name": "Northwest 17/18G Black"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "50031171",
+   "name": "CCV Stars U9 Girls East Mesa"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "50031165",
+   "name": "AZ Arsenal 2017/2018 Girls Teal EW"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50031164",
+   "name": "Scottsdale G2017 Copa"
+  },
+  {
+   "club": "Madison FC",
+   "id": "50020353",
+   "name": "Madison FC U9 Gold Girls"
   },
   {
    "club": "Southern Arizona Soccer Club",
@@ -16,9 +101,9 @@
    "name": "SASC 9UG Cardinals Griffin"
   },
   {
-   "club": "Arizona Surf Soccer Club",
-   "id": "40004831",
-   "name": "Pima U9G"
+   "club": "FC Tucson Youth Soccer",
+   "id": "50025399",
+   "name": "U9G (2018) Mancia"
   },
   {
    "club": "RSL-AZ Southern AZ",
@@ -27,43 +112,8 @@
   },
   {
    "club": "Phoenix Rising FC",
-   "id": "40010940",
-   "name": "Scottsdale G2017 Samba"
-  },
-  {
-   "club": "Playmaker Futbol Academy",
-   "id": "50000865",
-   "name": "Playmaker Futbol Academy G2017/18 Black"
-  },
-  {
-   "club": "North Scottsdale Soccer Club",
-   "id": "50000866",
-   "name": "Scottsdale U9 Sandsharks Select Girls"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "40011046",
-   "name": "Scottsdale G2017 Predator"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "50000867",
-   "name": "Southeast G2017 Predator"
-  },
-  {
-   "club": "AZFC",
-   "id": "40011065",
-   "name": "Select 17/18G Red"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "40011077",
-   "name": "Scottsdale G2017 Copa"
-  },
-  {
-   "club": "NOS Santos SC",
-   "id": "50000868",
-   "name": "U9 Girls Blue"
+   "id": "50023407",
+   "name": "Southeast-Central G2017 Predator"
   },
   {
    "club": "Ascent United Soccer Club",
@@ -71,14 +121,9 @@
    "name": "Ascent United U09G Gold"
   },
   {
-   "club": "Madison FC",
-   "id": "50020353",
-   "name": "Madison FC U9 Gold Girls"
-  },
-  {
-   "club": "State 48 FC",
-   "id": "40011329",
-   "name": "Northwest 17/18G Black"
+   "club": "North Scottsdale Soccer Club",
+   "id": "50000866",
+   "name": "Scottsdale U9 Sandsharks Select Girls"
   },
   {
    "club": "Excel Soccer Academy",
@@ -86,28 +131,38 @@
    "name": "Excel Soccer Academy U9G"
   },
   {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "40011364",
-   "name": "AZ Arsenal 2017/2018 Girls Teal EW"
+   "club": "Phoenix Rising FC",
+   "id": "50031161",
+   "name": "Scottsdale G2017 Samba"
+  },
+  {
+   "club": "FC Batavia",
+   "id": "50031174",
+   "name": "U9 (17/18) Girls Navy"
+  },
+  {
+   "club": "Arizona Surf Soccer Club",
+   "id": "50025397",
+   "name": "Pima U9G"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50000867",
+   "name": "Southeast G2017 Predator"
+  },
+  {
+   "club": "NOS Santos SC",
+   "id": "50000868",
+   "name": "U9 Girls Blue"
   },
   {
    "club": "Phoenix Rush",
-   "id": "40011375",
+   "id": "50031166",
    "name": "U9 Rush Girls"
   },
   {
-   "club": "CCV STARS",
-   "id": "50000869",
-   "name": "CCV Stars U9 Girls Surprise"
-  },
-  {
    "club": "FC Tucson Youth Soccer",
-   "id": "40012566",
-   "name": "U9G (2018) Mancia"
-  },
-  {
-   "club": "FC Tucson Youth Soccer",
-   "id": "40012599",
+   "id": "50031167",
    "name": "U9G (2018) OV Yaney"
   },
   {
@@ -116,19 +171,44 @@
    "name": "Freedom Elite Pumitas 2018G"
   },
   {
-   "club": "South Bank SC",
-   "id": "40026009",
-   "name": "Alianza Cobras FC U9 - Lopez"
+   "club": "Arizona Soccer Club",
+   "id": "50031170",
+   "name": "2017/18G Navy"
   },
   {
-   "club": "Phoenix Rising FC",
-   "id": "50023407",
-   "name": "Southeast-Central G2017 Predator"
+   "club": "CCV STARS",
+   "id": "50020356",
+   "name": "CCV Stars U9 Girls Peoria Navy"
   },
   {
-   "club": "Yavapai Soccer",
-   "id": "50020358",
-   "name": "Select 2017-18G"
+   "club": "SC del Sol",
+   "id": "50031175",
+   "name": "18G Orange"
+  },
+  {
+   "club": "RSL-AZ South",
+   "id": "50031176",
+   "name": "U9G Jeppesen Royals"
+  },
+  {
+   "club": "Paladin Soccer Club",
+   "id": "40157954",
+   "name": "PSC 2017/18G (U9)"
+  },
+  {
+   "club": "OJB FC",
+   "id": "40163545",
+   "name": "2017-2018 Girls Red"
+  },
+  {
+   "club": "Synergy FC AZ",
+   "id": "50031178",
+   "name": "Synergy FC U9 Girls"
+  },
+  {
+   "club": "Flagstaff SC",
+   "id": "50050024",
+   "name": "FSC United 17/18 Girls"
   }
  ]
 }

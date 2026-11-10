@@ -1,10 +1,20 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-03T15:59:52.074948+00:00",
+ "fetched_at": "2026-11-10T16:34:29.130191+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
+  {
+   "club": "Madison 56ers",
+   "id": "40070530",
+   "name": "GA 10/11"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "40070648",
+   "name": "GA 10/11"
+  },
   {
    "club": "Wisconsin United FC",
    "id": "50019763",
@@ -12,8 +22,8 @@
   },
   {
    "club": "Elmbrook United",
-   "id": "40070648",
-   "name": "GA 10/11"
+   "id": "50019762",
+   "name": "Aspire 10/11"
   },
   {
    "club": "Croatian Eagles SC",
@@ -26,14 +36,14 @@
    "name": "Rally Madison FC U16G N1"
   },
   {
-   "club": "North Shore United",
-   "id": "40070758",
-   "name": "GA 10/11"
+   "club": "Lakeshore United FC",
+   "id": "50049762",
+   "name": "LUFC U16G Navy N1"
   },
   {
-   "club": "Madison 56ers",
-   "id": "40070530",
-   "name": "GA 10/11"
+   "club": "RUSH Wisconsin",
+   "id": "50019758",
+   "name": "N1 G 2010/11 Rush (WI)"
   },
   {
    "club": "SC Wave",
@@ -42,18 +52,13 @@
   },
   {
    "club": "River Surge FC",
-   "id": "40018788",
+   "id": "50049764",
    "name": "River Surge FC N1 Girls 16U Blue WI"
   },
   {
-   "club": "RUSH Wisconsin",
-   "id": "50019758",
-   "name": "N1 G 2010/11 Rush (WI)"
-  },
-  {
-   "club": "Lakeshore United FC",
-   "id": "40018750",
-   "name": "LUFC U16G Navy N1"
+   "club": "Madison 56ers",
+   "id": "50049765",
+   "name": "Aspire 10/11"
   },
   {
    "club": "Wisconsin United FC",
@@ -61,14 +66,9 @@
    "name": "WIUFC U16 Girls Elite 1"
   },
   {
-   "club": "RUSH WI Southeast",
-   "id": "40018756",
-   "name": "U16 Girls National 1"
-  },
-  {
-   "club": "Oregon Soccer Club",
-   "id": "40018810",
-   "name": "Oregon SC N1 G2010/11/12 Orange (WI)"
+   "club": "North Shore United",
+   "id": "40070758",
+   "name": "GA 10/11"
   },
   {
    "club": "Bavarian United SC",
@@ -76,9 +76,24 @@
    "name": "BUSC U16 Girls Blue"
   },
   {
+   "club": "Oregon SC",
+   "id": "40018810",
+   "name": "Oregon SC N1 G2010/11/12 Orange (WI)"
+  },
+  {
+   "club": "Hartford United SC",
+   "id": "50030531",
+   "name": "HUSC U16 Girls"
+  },
+  {
    "club": "Fond Du Lac SA",
    "id": "40018831",
    "name": "Fond Du Lac U16G Phoenix Premier"
+  },
+  {
+   "club": "RUSH WI Southeast",
+   "id": "50049763",
+   "name": "U16 Girls National 1"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -86,24 +101,24 @@
    "name": "FC Wisconsin ECNL G2010/11"
   },
   {
-   "club": "Croatian Eagles SC",
-   "id": "40018804",
-   "name": "Croatian Eagles 16uG N1"
+   "club": "RUSH Wisconsin",
+   "id": "50030530",
+   "name": "Rush WI U16 Girls Blue"
   },
   {
-   "club": "Madison 56ers",
-   "id": "40071227",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Elmbrook United",
-   "id": "50019762",
-   "name": "Aspire 10/11"
+   "club": "Western Wisconsin Soccer",
+   "id": "50049766",
+   "name": "G2010/11 WW VSA"
   },
   {
    "club": "North Shore United",
    "id": "50019764",
    "name": "Aspire 10/11"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "40018804",
+   "name": "Croatian Eagles 16uG N1"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -121,19 +136,9 @@
    "name": "Oregon SC U16 Girls Orange"
   },
   {
-   "club": "RUSH Wisconsin",
-   "id": "40004584",
-   "name": "Rush WI U16 Girls Blue"
-  },
-  {
    "club": "Elmbrook United",
-   "id": "40004686",
+   "id": "50053858",
    "name": "EBU 16U Girls Premier 1"
-  },
-  {
-   "club": "Hartford United SC",
-   "id": "40039460",
-   "name": "HUSC U16 Girls"
   },
   {
    "club": "Madison 56ers",
@@ -166,7 +171,7 @@
    "name": "Rush WI U16 Girls Rush"
   },
   {
-   "club": "North Shore United Soccer Club",
+   "club": "North Shore United",
    "id": "40106314",
    "name": "NSU Germantown U15/U16G Blue"
   },
@@ -174,6 +179,26 @@
    "club": "River Surge FC",
    "id": "40106315",
    "name": "River Surge FC U16 Blue"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "40127684",
+   "name": "LXU U16 Girls Select"
+  },
+  {
+   "club": "MCU",
+   "id": "40127753",
+   "name": "MCU U16G Rentmeester"
+  },
+  {
+   "club": "Elmbrook United",
+   "id": "50053859",
+   "name": "EBU U16 Girls Premier 2"
+  },
+  {
+   "club": "Lakeshore United FC",
+   "id": "40172354",
+   "name": "LUFC U16G Navy"
   }
  ]
 }

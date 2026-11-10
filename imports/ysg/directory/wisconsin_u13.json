@@ -1,18 +1,33 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-03T15:59:21.982810+00:00",
+ "fetched_at": "2026-11-10T16:33:59.037006+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
   {
+   "club": "Elmbrook United",
+   "id": "50019731",
+   "name": "GA 13/14"
+  },
+  {
+   "club": "North Shore United",
+   "id": "50019732",
+   "name": "GA 13/14"
+  },
+  {
    "club": "FC Wisconsin Girls",
-   "id": "50019736",
+   "id": "50053827",
    "name": "FC Wisconsin ECNL G2013/14"
   },
   {
-   "club": "Elmbrook United",
-   "id": "50019731",
+   "club": "Madison 56ers",
+   "id": "50019729",
+   "name": "GA 13/14"
+  },
+  {
+   "club": "SC Wave",
+   "id": "50019730",
    "name": "GA 13/14"
   },
   {
@@ -31,24 +46,24 @@
    "name": "Aspire 13/14"
   },
   {
-   "club": "North Shore United",
-   "id": "50019732",
-   "name": "GA 13/14"
+   "club": "Forward Madison FC",
+   "id": "40018670",
+   "name": "Rally Madison FC U13G N1"
+  },
+  {
+   "club": "RUSH WI Southeast",
+   "id": "50049741",
+   "name": "U13 Girls National 1"
   },
   {
    "club": "North Shore United",
-   "id": "40071516",
+   "id": "50053825",
    "name": "Aspire 13/14"
   },
   {
-   "club": "SC Wave",
-   "id": "50019730",
-   "name": "GA 13/14"
-  },
-  {
    "club": "Madison 56ers",
-   "id": "50019729",
-   "name": "GA 13/14"
+   "id": "50049742",
+   "name": "Aspire 13/14"
   },
   {
    "club": "Polonia SC",
@@ -56,34 +71,19 @@
    "name": "N1 G2013/14 Polonia (WI)"
   },
   {
-   "club": "Madison 56ers",
-   "id": "40071223",
-   "name": "Aspire 13/14"
+   "club": "River Surge FC",
+   "id": "50049743",
+   "name": "River Surge 2014 Girls Blue"
   },
   {
-   "club": "Forward Madison FC",
-   "id": "40018670",
-   "name": "Rally Madison FC U13G N1"
+   "club": "FC Wisconsin Girls",
+   "id": "50053829",
+   "name": "FC Wisconsin ECNL RL G2013/14"
   },
   {
    "club": "Wisconsin United FC",
    "id": "40018793",
    "name": "WIUFC U13 Girls Elite 1"
-  },
-  {
-   "club": "SC Wave",
-   "id": "40071374",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "RUSH WI Southeast",
-   "id": "40018755",
-   "name": "U13 Girls National 1"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "40096168",
-   "name": "FC Wisconsin ECNL RL G2013/14"
   },
   {
    "club": "Western Wisconsin Soccer",
@@ -92,13 +92,28 @@
   },
   {
    "club": "RUSH Wisconsin",
-   "id": "40018729",
+   "id": "50030524",
    "name": "N1 G 2013/14 Rush (WI)"
   },
   {
    "club": "Bavarian United SC",
    "id": "40018822",
    "name": "BUSC U13 Girls Blue"
+  },
+  {
+   "club": "North Shore United",
+   "id": "50049744",
+   "name": "NSU Germantown U13G Blue"
+  },
+  {
+   "club": "SC Wave",
+   "id": "40071374",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Rice Lake Soccer Association",
+   "id": "50053826",
+   "name": "RLSA Stars"
   },
   {
    "club": "Madison 56ers",
@@ -116,7 +131,7 @@
    "name": "LX United (Rush) U13 Girls Elite"
   },
   {
-   "club": "Green Bay Lightning Soccer Club",
+   "club": "Green Bay Lightning",
    "id": "40105137",
    "name": "U13 GBL Girls"
   },
@@ -131,12 +146,12 @@
    "name": "Rally Madison U13G N1"
   },
   {
-   "club": "New Berlin Soccer Club (WI)",
-   "id": "40106332",
+   "club": "New Berlin Soccer Club",
+   "id": "50053830",
    "name": "New Berlin SC U13 Girls -Blue"
   },
   {
-   "club": "Milwaukee Kickers - Tosa",
+   "club": "Milwaukee Kickers Soccer Club - Tosa",
    "id": "40106333",
    "name": "Tosa U13G Kicks Red"
   },
@@ -146,19 +161,14 @@
    "name": "LKF 13-14G Character"
   },
   {
-   "club": "Red Star Soccer Club",
+   "club": "Red Star SC",
    "id": "40106335",
    "name": "Red Star SC U13G"
   },
   {
-   "club": "Rush Wisconsin",
-   "id": "40106336",
+   "club": "RUSH Wisconsin",
+   "id": "50053831",
    "name": "Rush WI U13 Girls Rush"
-  },
-  {
-   "club": "North Shore United Soccer Club",
-   "id": "40106337",
-   "name": "NSU Germantown U13G Blue"
   },
   {
    "club": "Bavarian United SC",
@@ -166,14 +176,44 @@
    "name": "BUSC U13 Girls White"
   },
   {
-   "club": "Polonia Soccer Club",
-   "id": "40106339",
+   "club": "Polonia SC",
+   "id": "50053832",
    "name": "Polonia U13 Girls Red"
   },
   {
    "club": "Milwaukee Kickers SC (MKSC)",
    "id": "40106340",
    "name": "MKSC Union 2014G Red"
+  },
+  {
+   "club": "RUSH Wisconsin West",
+   "id": "40127677",
+   "name": "LXU U13 Girls Elite"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "40127686",
+   "name": "Madision 56ers U13 Girls Silver"
+  },
+  {
+   "club": "Milwaukee Kickers Soccer Club - Tosa",
+   "id": "40177009",
+   "name": "Tosa Kickers U13G Kicks Blue"
+  },
+  {
+   "club": "Milwaukee Kickers Soccer Club - Tosa",
+   "id": "40177027",
+   "name": "MK TO 2013 G KICKS RED"
+  },
+  {
+   "club": "EBU",
+   "id": "40177047",
+   "name": "EBU U13G Premier 1"
+  },
+  {
+   "club": "EBU",
+   "id": "40177048",
+   "name": "EBU U13G Premier 2"
   }
  ]
 }

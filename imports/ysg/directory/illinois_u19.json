@@ -1,10 +1,20 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-11-03T14:58:01.847407+00:00",
+ "fetched_at": "2026-11-10T15:32:38.910228+00:00",
  "state": "IL",
  "state_slug": "illinois",
  "teams": [
+  {
+   "club": "FC United Soccer Club",
+   "id": "40070413",
+   "name": "GA 08/09"
+  },
+  {
+   "club": "Galaxy SC",
+   "id": "40070703",
+   "name": "GA 08/09"
+  },
   {
    "club": "Wheaton United SC",
    "id": "50008470",
@@ -16,29 +26,9 @@
    "name": "GA 08/09"
   },
   {
-   "club": "Lagrange Celtics",
-   "id": "40066169",
-   "name": "CWS FIRST XI Academy"
-  },
-  {
-   "club": "Team Chicago SC",
-   "id": "50008467",
-   "name": "Team Chicago U18/19G Performance"
-  },
-  {
    "club": "Evolution SC",
-   "id": "40096147",
+   "id": "50038538",
    "name": "Evolution ECNL RL G2008/09"
-  },
-  {
-   "club": "FC United Soccer Club",
-   "id": "40070413",
-   "name": "GA 08/09"
-  },
-  {
-   "club": "Rockford Raptors FC",
-   "id": "50023636",
-   "name": "ECNL RL G2008/09"
   },
   {
    "club": "Chicago Inter",
@@ -46,14 +36,19 @@
    "name": "ECNL RL G2008/09"
   },
   {
-   "club": "Gateway Rush Soccer Club",
-   "id": "50008463",
-   "name": "Gateway Rush N1 G2008/09 United (IL)"
+   "club": "FC United Soccer Club",
+   "id": "50008473",
+   "name": "Aspire 08/09"
+  },
+  {
+   "club": "Rockford Raptors FC",
+   "id": "50023636",
+   "name": "ECNL RL G2008/09"
   },
   {
    "club": "FC Stars (IL)",
-   "id": "40018684",
-   "name": "FC Stars 2008G Academy"
+   "id": "40008123",
+   "name": "U19G DPL"
   },
   {
    "club": "Chicago Rush Soccer Club",
@@ -66,99 +61,14 @@
    "name": "FC 1974 Libertyville ECNL RL G2008/09"
   },
   {
-   "club": "Aurora Eagles SC",
-   "id": "40068493",
-   "name": "Aurora Eagles 2008/2009 girls"
-  },
-  {
-   "club": "Evolution SC",
-   "id": "40022846",
-   "name": "Evolution N1 G2008/09 PSG"
-  },
-  {
-   "club": "Forge SC",
-   "id": "50008469",
-   "name": "Forge SC U19 Girls Red Performance"
-  },
-  {
-   "club": "Galaxy SC",
-   "id": "40070703",
-   "name": "GA 08/09"
-  },
-  {
-   "club": "Rockford Raptors FC",
-   "id": "50008468",
-   "name": "RR/FORCE U18/19G N1 (IL)"
-  },
-  {
-   "club": "Tinley Park Bobcats",
-   "id": "50008475",
-   "name": "Tinley Park Bobcats 2008/09 Girls"
-  },
-  {
-   "club": "TST",
-   "id": "50008461",
-   "name": "Force"
-  },
-  {
-   "club": "Windy City Pride",
-   "id": "50008464",
-   "name": "windy city pride 2008 Girls"
-  },
-  {
-   "club": "Sockers FC",
-   "id": "40022808",
-   "name": "U19 N1 NPL"
-  },
-  {
-   "club": "Chicago Inferno",
-   "id": "40022806",
-   "name": "Chicago Inferno U19 GIRLS SHOWCASE - N1"
-  },
-  {
-   "club": "TST",
-   "id": "40022653",
-   "name": "Max"
-  },
-  {
-   "club": "Chicago Fire Youth SC (CFYSC)",
-   "id": "50008471",
-   "name": "CFYSC 19U Girls Premier"
-  },
-  {
-   "club": "Eclipse Select Soccer Club",
-   "id": "40096163",
-   "name": "ECNL RL G2008/09"
-  },
-  {
-   "club": "Chicago Dynasty FC",
-   "id": "40022744",
-   "name": "Dynasty FC U19G N1"
-  },
-  {
-   "club": "Metro Alliance FC",
-   "id": "50008462",
-   "name": "Metro Alliance 08/09G Premier Blue"
-  },
-  {
-   "club": "Metro Alliance FC",
-   "id": "40043943",
-   "name": "Metro Alliance 08/09G Southern IL Navy"
-  },
-  {
-   "club": "FC United Soccer Club",
-   "id": "50008473",
-   "name": "Aspire 08/09"
-  },
-  {
-   "club": "Galaxy SC",
-   "id": "50008474",
-   "name": "Aspire 08/09"
+   "club": "Gateway Rush Soccer Club",
+   "id": "50008463",
+   "name": "Gateway Rush N1 G2008/09 United (IL)"
   },
   {
    "club": "FC Stars (IL)",
-   "id": "40008123",
-   "name": "U19G DPL"
+   "id": "40018684",
+   "name": "FC Stars 2008G Academy"
   },
   {
    "club": "Chicago KICS Football Club",
@@ -166,14 +76,39 @@
    "name": "U18/19G DPL"
   },
   {
+   "club": "Galaxy SC",
+   "id": "50008474",
+   "name": "Aspire 08/09"
+  },
+  {
+   "club": "Team Chicago SC",
+   "id": "50008467",
+   "name": "Team Chicago U18/19G Performance"
+  },
+  {
+   "club": "Lagrange Celtics",
+   "id": "50038537",
+   "name": "CWS FIRST XI Academy"
+  },
+  {
+   "club": "Eclipse Select Soccer Club",
+   "id": "40096163",
+   "name": "ECNL RL G2008/09"
+  },
+  {
    "club": "Firebirds SC",
-   "id": "40018868",
+   "id": "50038533",
    "name": "FSC - U17/U18 Girls Elite (26/27)"
   },
   {
-   "club": "Central Illinois United",
-   "id": "50008476",
-   "name": "Aspire 08/09"
+   "club": "Powerstrikers",
+   "id": "50038536",
+   "name": "Powerstrikers 2008"
+  },
+  {
+   "club": "Forge SC",
+   "id": "50008469",
+   "name": "Forge SC U19 Girls Red Performance"
   },
   {
    "club": "Chicago City Soccer Club",
@@ -181,9 +116,14 @@
    "name": "Chicago City U18G DPL"
   },
   {
-   "club": "Chicago Rush Soccer Club",
-   "id": "40008375",
-   "name": "U19 (08/09) Chicago Rush DPL"
+   "club": "Rockford Raptors FC",
+   "id": "50008468",
+   "name": "RR/FORCE U18/19G N1 (IL)"
+  },
+  {
+   "club": "Sockers FC",
+   "id": "40022808",
+   "name": "U19 N1 NPL"
   },
   {
    "club": "Sueno FC",
@@ -196,14 +136,84 @@
    "name": "U19G DPL"
   },
   {
+   "club": "Chicago Rush Soccer Club",
+   "id": "50038532",
+   "name": "U19 (08/09) Chicago Rush DPL"
+  },
+  {
+   "club": "Central Illinois United",
+   "id": "50008476",
+   "name": "Aspire 08/09"
+  },
+  {
+   "club": "Chicago Inferno",
+   "id": "50038534",
+   "name": "Chicago Inferno U19 GIRLS SHOWCASE - N1"
+  },
+  {
+   "club": "Windy City Pride",
+   "id": "50008464",
+   "name": "windy city pride 2008 Girls"
+  },
+  {
+   "club": "Aurora Eagles SC",
+   "id": "40068493",
+   "name": "Aurora Eagles 2008/2009 girls"
+  },
+  {
+   "club": "TST",
+   "id": "50027457",
+   "name": "Max"
+  },
+  {
+   "club": "Evolution SC",
+   "id": "50038535",
+   "name": "Evolution N1 G2008/09 PSG"
+  },
+  {
+   "club": "Tinley Park Bobcats",
+   "id": "50008475",
+   "name": "Tinley Park Bobcats 2008/09 Girls"
+  },
+  {
+   "club": "Chicago Fire Youth SC (CFYSC)",
+   "id": "50008471",
+   "name": "CFYSC 19U Girls Premier"
+  },
+  {
    "club": "FC United Soccer Club",
    "id": "50008466",
    "name": "Chicago FC United U19 White"
   },
   {
+   "club": "TST",
+   "id": "50008461",
+   "name": "Force"
+  },
+  {
+   "club": "Metro Alliance FC",
+   "id": "50008462",
+   "name": "Metro Alliance 08/09G Premier Blue"
+  },
+  {
    "club": "Elmhurst City Surf",
    "id": "40007950",
    "name": "U19 G DPL"
+  },
+  {
+   "club": "Chicago Dynasty FC",
+   "id": "40022744",
+   "name": "Dynasty FC U19G N1"
+  },
+  {
+   "club": "Metro Alliance FC",
+   "id": "40043943",
+   "name": "Metro Alliance 08/09G Southern IL Navy"
+  },
+  {
+   "club": "Central Illinois United",
+   "id": "50023635",
+   "name": "SASA Spirits 2008/2009/2010G"
   },
   {
    "club": "Quad Cities Rush",
@@ -221,14 +231,24 @@
    "name": "JaHbat GHS Premier"
   },
   {
-   "club": "Central Illinois United",
-   "id": "50023635",
-   "name": "SASA Spirits 2008/2009/2010G"
-  },
-  {
    "club": "Northern United FC",
    "id": "40105093",
    "name": "IP-NUFC GIRLS U18/19 2009/2010"
+  },
+  {
+   "club": "CWS FIRST XI",
+   "id": "40172313",
+   "name": "CWS FIRST XI U18G Select"
+  },
+  {
+   "club": "Inter AC",
+   "id": "40177210",
+   "name": "Inter AC U19 Select Girls"
+  },
+  {
+   "club": "Wilmette Wings SC",
+   "id": "40177442",
+   "name": "Chicago Rush North Shore U19G Premier"
   }
  ]
 }

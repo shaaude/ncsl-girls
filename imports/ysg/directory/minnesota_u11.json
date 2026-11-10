@@ -1,14 +1,464 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-11-03T15:13:11.839370+00:00",
+ "fetched_at": "2026-11-10T15:47:49.099783+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
   {
    "club": "Minnesota Thunder Academy",
+   "id": "50040809",
+   "name": "TCSL National G2015/16 Pre-ECNL"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "50040823",
+   "name": "TCSL National G2015/16 Academy 1"
+  },
+  {
+   "club": "Tonka United SA",
+   "id": "50011623",
+   "name": "TCSL National G2015/16 Academy 1"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "50040825",
+   "name": "TCSL Red G2016/17 Academy 1"
+  },
+  {
+   "club": "Minnesota Rush",
+   "id": "50040813",
+   "name": "TCSL National G2015/16 EDT 1"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "50040826",
+   "name": "TCSL National G2015/16 Academy 2"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "50040804",
+   "name": "TCSL National G2015/16 Green"
+  },
+  {
+   "club": "CC United Soccer Club",
+   "id": "50051749",
+   "name": "CCU Regional G2015/16"
+  },
+  {
+   "club": "Minneapolis United",
+   "id": "50051764",
+   "name": "TCSL Regional G2015/16 Elite"
+  },
+  {
+   "club": "East Ridge Soccer Club",
+   "id": "50040800",
+   "name": "TCSL State G2015/16 Black"
+  },
+  {
+   "club": "St. Croix",
+   "id": "50051760",
+   "name": "TCSL National G2015/16 (PreECNL-RL)"
+  },
+  {
+   "club": "Prior Lake SC",
+   "id": "50040802",
+   "name": "TCSL National G2015/16 Navy 1"
+  },
+  {
+   "club": "Boreal FC",
+   "id": "50040822",
+   "name": "TCSL Regional G2015/16 Vervair"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "50040824",
+   "name": "TCSL Red G2016/17 Academy 2"
+  },
+  {
+   "club": "North Star FC",
+   "id": "50040828",
+   "name": "TCSL National G2015/16"
+  },
+  {
+   "club": "St. Paul Blackhawks",
+   "id": "40182754",
+   "name": "TCSL Regional G2015/16 Black"
+  },
+  {
+   "club": "North Surf",
+   "id": "50040817",
+   "name": "TCSL National G2015/16"
+  },
+  {
+   "club": "Minnesota Thunder Academy",
+   "id": "50040810",
+   "name": "TCSL Regional G2015/16 Swoosh"
+  },
+  {
+   "club": "Bloomington United",
+   "id": "40182194",
+   "name": "TCSL Regional G2015/16 Royal"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50040814",
+   "name": "TCSL National G2015/16 Academy 1"
+  },
+  {
+   "club": "Manitou FC",
+   "id": "50051752",
+   "name": "TCSL National G2015/16 Pre ECNL RL"
+  },
+  {
+   "club": "Tonka United SA",
+   "id": "50040806",
+   "name": "TCSL Regional G2015/16 Academy 2"
+  },
+  {
+   "club": "Shakopee SA",
+   "id": "50040805",
+   "name": "TCSL Regional G2015/16"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "40182348",
+   "name": "TCSL Regional G2015/16 Navy 1"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "40182109",
+   "name": "TCSL Regional G2015/16"
+  },
+  {
+   "club": "Kickers FC",
+   "id": "50040801",
+   "name": "TCSL Regional G2015/16"
+  },
+  {
+   "club": "Lakes United FC",
+   "id": "40181832",
+   "name": "TCSL State G2015/16"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "50040811",
+   "name": "TCSL Regional G2015/16 Academy 1"
+  },
+  {
+   "club": "North United SC",
+   "id": "50040807",
+   "name": "TCSL Regional G2015/16 Platinum"
+  },
+  {
+   "club": "Gitchi Gummi Soccer Club",
+   "id": "50051746",
+   "name": "Gitchi Gummi 16G Green"
+  },
+  {
+   "club": "EPSC",
+   "id": "50040827",
+   "name": "TCSL State G2015/16 Red"
+  },
+  {
+   "club": "Prior Lake SC",
+   "id": "50051757",
+   "name": "TCSL Cities G2015/16 Gold"
+  },
+  {
+   "club": "Tri-City United",
+   "id": "50051761",
+   "name": "TCSL Regional G2015/16"
+  },
+  {
+   "club": "Mahtomedi Soccer Association",
+   "id": "40182764",
+   "name": "TCSL State G2015/16 Zephyrs Gold"
+  },
+  {
+   "club": "Waconia SC",
+   "id": "50051763",
+   "name": "TCSL State G2015/16"
+  },
+  {
+   "club": "Force Soccer Club",
+   "id": "50051767",
+   "name": "TCSL Cities G2015/16_1"
+  },
+  {
+   "club": "Prior Lake SC",
+   "id": "50040803",
+   "name": "TCSL Regional G2015/16 Navy 2"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "40182347",
+   "name": "TCSL Cities G2015/16 Navy 3"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "50051754",
+   "name": "TCSL State G2015/16"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50040821",
+   "name": "TCSL Regional G2015/16 Academy 2"
+  },
+  {
+   "club": "Minnesota Rush",
+   "id": "50040815",
+   "name": "TCSL Regional G2015/16 EDT 2"
+  },
+  {
+   "club": "Minnesota Thunder Academy",
+   "id": "50040808",
+   "name": "TCSL State G2015/16 Air"
+  },
+  {
+   "club": "MapleBrook SC",
+   "id": "50040818",
+   "name": "TCSL Regional G2015/16 - Faatz"
+  },
+  {
+   "club": "Lakes United FC",
+   "id": "50051747",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "United FC Rush",
+   "id": "50040819",
+   "name": "TCSL State G2015/16 Select"
+  },
+  {
+   "club": "Legacy FC",
+   "id": "40182168",
+   "name": "TCSL Cities G2015/16 Classic"
+  },
+  {
+   "club": "St. Croix",
+   "id": "40182401",
+   "name": "TCSL State G2015/16 - Rodriguez"
+  },
+  {
+   "club": "Orono Westonka Soccer Club",
+   "id": "40182224",
+   "name": "TCSL Cities G2015/16 Thunder"
+  },
+  {
+   "club": "Wave SC",
+   "id": "50051762",
+   "name": "TCSL Cities G2015/16 Elite"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "40182690",
+   "name": "TCSL Cities G2015/16 Gold 2"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "40182341",
+   "name": "TCSL State G2015/16 Navy 2"
+  },
+  {
+   "club": "St. Croix",
+   "id": "40182398",
+   "name": "TCSL Cities G2015/16 - Evans"
+  },
+  {
+   "club": "Tonka United SA",
+   "id": "50051753",
+   "name": "TCSL Cities G2015/16 Select Echo"
+  },
+  {
+   "club": "North Surf",
+   "id": "50040816",
+   "name": "TCSL Regional G2015/16 Royal"
+  },
+  {
+   "club": "Tonka United SA",
+   "id": "40181942",
+   "name": "TCSL State G2015/16 Select 1"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "50040812",
+   "name": "TCSL State G2015/16 Academy 2"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "40182244",
+   "name": "TCSL Cities G2015/16 Nike"
+  },
+  {
+   "club": "St. Anthony Village Soccer Club",
+   "id": "50051771",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "40182810",
+   "name": "TCSL Regional G2015/16 Black"
+  },
+  {
+   "club": "Manitou FC",
+   "id": "50051751",
+   "name": "TCSL Cities G2015/16 Orange"
+  },
+  {
+   "club": "Bloomington United",
+   "id": "40182195",
+   "name": "TCSL Cities G2015/16 White"
+  },
+  {
+   "club": "East Ridge Soccer Club",
+   "id": "50051755",
+   "name": "TCSL Cities G2015/16 Gold"
+  },
+  {
+   "club": "Centennial Soccer Club",
+   "id": "40182151",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Shakopee SA",
+   "id": "40181870",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50051769",
+   "name": "TCSL State G2015/16 Gold 1"
+  },
+  {
+   "club": "CC United Soccer Club",
+   "id": "50051748",
+   "name": "TCSL State G2015/16"
+  },
+  {
+   "club": "Keliix-Intra Soccer Club",
+   "id": "50040820",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Minneapolis United",
+   "id": "50051765",
+   "name": "TCSL State G2015/16 Samba"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "50051756",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Force Soccer Club",
+   "id": "50051766",
+   "name": "TCSL Cities G2015/16_2"
+  },
+  {
+   "club": "St. Paul Blackhawks",
+   "id": "40182753",
+   "name": "TCSL Cities G2015/16 Red"
+  },
+  {
+   "club": "Boreal FC",
+   "id": "40182263",
+   "name": "TCSL Cities G2015/16 Nierengarten"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "50051759",
+   "name": "TCSL Cities G2015/16 Rosemount Select 1"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "40182808",
+   "name": "TCSL Cities G2015/16 Silver"
+  },
+  {
+   "club": "Richfield Soccer Association",
+   "id": "50051768",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "50051758",
+   "name": "TCSL Cities G2015/16 Woodbury Select 2"
+  },
+  {
+   "club": "Tonka United SA",
+   "id": "40181940",
+   "name": "TCSL Cities G2015/16 Select Gideon"
+  },
+  {
+   "club": "North United SC",
+   "id": "50051750",
+   "name": "TCSL Cities G2015/16 Gold"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "40182809",
+   "name": "TCSL State G2015/16 Gold"
+  },
+  {
+   "club": "Minnesota Rush",
+   "id": "40181819",
+   "name": "TCSL Cities G2015/16 EDT 3"
+  },
+  {
+   "club": "Minneapolis United",
+   "id": "40182819",
+   "name": "TCSL Cities G2015/16 Tango"
+  },
+  {
+   "club": "Mahtomedi Soccer Association",
+   "id": "50051770",
+   "name": "TCSL Cities G2015/16 Zephyrs Navy"
+  },
+  {
+   "club": "EPSC",
+   "id": "40182787",
+   "name": "TCSL Cities G2015/16 Grey"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "40182024",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Orono Westonka Soccer Club",
+   "id": "40182216",
+   "name": "TCSL Cities G2015/16 Hawks"
+  },
+  {
+   "club": "CC United Soccer Club",
+   "id": "40181839",
+   "name": "TCSL Cities G2015/16"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "40182354",
+   "name": "TCSL Cities G2015/16 Navy 4"
+  },
+  {
+   "club": "Minnesota Thunder Academy",
    "id": "40101412",
    "name": "MTA U11 Pre-ECNL"
+  },
+  {
+   "club": "G MVS",
+   "id": "40127764",
+   "name": "U10G - MVS"
+  },
+  {
+   "club": "Pine Island Youth Soccer",
+   "id": "40193261",
+   "name": "PIZM G10U"
+  },
+  {
+   "club": "Crow River",
+   "id": "40193443",
+   "name": "Crow River U10G"
   }
  ]
 }

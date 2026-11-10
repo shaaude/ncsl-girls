@@ -1,20 +1,10 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-11-03T14:50:41.812057+00:00",
+ "fetched_at": "2026-11-10T15:25:18.946358+00:00",
  "state": "FL",
  "state_slug": "florida",
  "teams": [
-  {
-   "club": "Montverde Soccer Club",
-   "id": "40016983",
-   "name": "N1 G 2007/2009 MIFC"
-  },
-  {
-   "club": "OCSS Windermere & Clermont",
-   "id": "50020994",
-   "name": "OCSSW/C SILVER G08/09 (FL)"
-  },
   {
    "club": "West Florida Flames",
    "id": "50007696",
@@ -26,9 +16,14 @@
    "name": "GA 08/09"
   },
   {
-   "club": "Florida Tropics Academy",
-   "id": "50020991",
-   "name": "N1 G2007/09 Elite Tropics (FL)"
+   "club": "Space Coast United",
+   "id": "50007697",
+   "name": "GA 08/09"
+  },
+  {
+   "club": "Pinecrest Premier Soccer",
+   "id": "40070765",
+   "name": "GA 08/09G"
   },
   {
    "club": "Plant City FC",
@@ -36,9 +31,44 @@
    "name": "Lancers U19G Premier N1 G2008/2009 (FL)"
   },
   {
+   "club": "Montverde Soccer Club",
+   "id": "50036598",
+   "name": "N1 G 2007/2009 MIFC"
+  },
+  {
+   "club": "North Port Fusion FC",
+   "id": "50007705",
+   "name": "Union N1 G2007/08 (FL)"
+  },
+  {
+   "club": "DME Academy Sarasota",
+   "id": "50020989",
+   "name": "TIKI-TAKA DME U18G"
+  },
+  {
+   "club": "Strikers Miami FC",
+   "id": "50007704",
+   "name": "Strikers Miami FC N1 G2008/09 (FL)"
+  },
+  {
    "club": "Orlando City Soccer School Lake Nona",
    "id": "50007702",
    "name": "Aspire 08/09"
+  },
+  {
+   "club": "Brevard SA",
+   "id": "50007699",
+   "name": "N1 G2008/09 (FL)"
+  },
+  {
+   "club": "Jacksonville FC",
+   "id": "50036605",
+   "name": "Jacksonville FC ECNL RL G2008/09"
+  },
+  {
+   "club": "Florida Tropics Academy",
+   "id": "50020991",
+   "name": "N1 G2007/09 Elite Tropics (FL)"
   },
   {
    "club": "West Florida Flames",
@@ -46,29 +76,14 @@
    "name": "Aspire 08/09"
   },
   {
-   "club": "Florida Premier FC",
-   "id": "40056122",
-   "name": "FPFC U19G TRY ELITE"
+   "club": "OCSS Windermere & Clermont",
+   "id": "50020994",
+   "name": "OCSSW/C SILVER G08/09 (FL)"
   },
   {
-   "club": "Space Coast United",
-   "id": "50007697",
-   "name": "GA 08/09"
-  },
-  {
-   "club": "Florida Premier FC",
-   "id": "50020993",
-   "name": "WECPFC N1 G2008/09 (FL)"
-  },
-  {
-   "club": "Indialantic Youth Soccer Association",
-   "id": "40016945",
-   "name": "N1 G2007/08 PREMIER (FL)"
-  },
-  {
-   "club": "North Port Fusion FC",
-   "id": "50007705",
-   "name": "Union N1 G2007/08 (FL)"
+   "club": "Tampa Bay United",
+   "id": "50036594",
+   "name": "TBU N1 G2008/09 Premier (FL)"
   },
   {
    "club": "Shark Coast FC",
@@ -77,43 +92,28 @@
   },
   {
    "club": "Florida Premier FC",
+   "id": "50007698",
+   "name": "FPFC N1 G2008/09 CP (FL)"
+  },
+  {
+   "club": "Florida Premier FC",
+   "id": "50020992",
+   "name": "HPFC N1 G2008/09 (FL)"
+  },
+  {
+   "club": "Indialantic Youth Soccer Association",
+   "id": "50036596",
+   "name": "N1 G2007/08 PREMIER (FL)"
+  },
+  {
+   "club": "Florida Premier FC",
+   "id": "50020993",
+   "name": "WECPFC N1 G2008/09 (FL)"
+  },
+  {
+   "club": "Florida Premier FC",
    "id": "50007700",
    "name": "LPFC LAKELAND N1 G2008/09 (FL)"
-  },
-  {
-   "club": "Florida Prime Soccer",
-   "id": "40056276",
-   "name": "Prime Girls High School"
-  },
-  {
-   "club": "Orlando City Soccer School Lake Nona",
-   "id": "40016649",
-   "name": "OPLN N1 G2008/09 (FL)"
-  },
-  {
-   "club": "Chargers SC CLW",
-   "id": "40056108",
-   "name": "Chargers CLW Premier U18/19G"
-  },
-  {
-   "club": "Pinecrest Premier Soccer",
-   "id": "40070765",
-   "name": "GA 08/09G"
-  },
-  {
-   "club": "Rip City Surf Soccer Club",
-   "id": "40020274",
-   "name": "Rip City Surf N1 Girls 2007-2008 East FL"
-  },
-  {
-   "club": "Amelia Island YSO",
-   "id": "40016964",
-   "name": "NUFC N1 G2007/08/09"
-  },
-  {
-   "club": "Sporting SA",
-   "id": "40111593",
-   "name": "U19 Girls Central Bagrow"
   },
   {
    "club": "Kings Hammer Lakeland",
@@ -121,9 +121,14 @@
    "name": "Aspire 08/09"
   },
   {
-   "club": "Tampa Bay United",
-   "id": "40016673",
-   "name": "TBU N1 G2008/09 Premier (FL)"
+   "club": "Orlando City Soccer School Lake Nona",
+   "id": "50036593",
+   "name": "OPLN N1 G2008/09 (FL)"
+  },
+  {
+   "club": "Amelia Island YSO",
+   "id": "50036597",
+   "name": "NUFC N1 G2007/08/09"
   },
   {
    "club": "Palm Beach Kicks",
@@ -131,24 +136,44 @@
    "name": "ASPIRE 08/09"
   },
   {
+   "club": "Tampa Knights",
+   "id": "50036601",
+   "name": "Tampa Knights U18 Girls Blue"
+  },
+  {
+   "club": "Space Coast United",
+   "id": "50036595",
+   "name": "SCU N1 G2008/09 White (FL)"
+  },
+  {
+   "club": "Florida Prime Soccer",
+   "id": "50036602",
+   "name": "Prime Girls High School"
+  },
+  {
    "club": "FC America",
-   "id": "40017040",
+   "id": "50036599",
    "name": "N1 G2008/09 Purple (FL) - U19G Purple"
   },
   {
    "club": "Florida Premier FC",
-   "id": "50007698",
-   "name": "FPFC N1 G2008/09 CP (FL)"
+   "id": "50036600",
+   "name": "FPFC U19G TRY ELITE"
   },
   {
-   "club": "Space Coast United",
-   "id": "40016825",
-   "name": "SCU N1 G2008/09 White (FL)"
+   "club": "Chargers SC CLW",
+   "id": "40056108",
+   "name": "Chargers CLW Premier U18/19G"
   },
   {
-   "club": "Florida Premier FC",
-   "id": "50020992",
-   "name": "HPFC N1 G2008/09 (FL)"
+   "club": "Sporting SA",
+   "id": "40111593",
+   "name": "U19 Girls Central Bagrow"
+  },
+  {
+   "club": "Rip City Surf Soccer Club",
+   "id": "40020274",
+   "name": "Rip City Surf N1 Girls 2007-2008 East FL"
   },
   {
    "club": "Weston FC",
@@ -176,9 +201,9 @@
    "name": "Miramar DA U19G DPL"
   },
   {
-   "club": "Brevard SA",
-   "id": "50007699",
-   "name": "N1 G2008/09 (FL)"
+   "club": "Florida Premier FC",
+   "id": "50020988",
+   "name": "FLORIDA PREMIER FC ECNLRL G2008/09"
   },
   {
    "club": "Fort Lauderdale United FC",
@@ -186,19 +211,9 @@
    "name": "N1 G2008/09 (FL)"
   },
   {
-   "club": "Strikers Miami FC",
-   "id": "50007704",
-   "name": "Strikers Miami FC N1 G2008/09 (FL)"
-  },
-  {
    "club": "SABR - Team Boca",
    "id": "40017125",
    "name": "N1 G2008/09 (FL)"
-  },
-  {
-   "club": "Tampa Knights",
-   "id": "40056123",
-   "name": "Tampa Knights U18 Girls Blue"
   },
   {
    "club": "North Port Fusion FC",
@@ -236,9 +251,64 @@
    "name": "Aspire 08/09"
   },
   {
+   "club": "Florida Premier FC",
+   "id": "50020996",
+   "name": "FHPFC Fishhawk ECNL RL G2008/09"
+  },
+  {
+   "club": "Florida Premier FC",
+   "id": "50020997",
+   "name": "SWFL ECNL RL G2008/09"
+  },
+  {
+   "club": "PSL Soccer Club/Hurricanes, Inc.",
+   "id": "50036603",
+   "name": "PSL Hurricanes FC 2009/10G Premier"
+  },
+  {
+   "club": "Rural YSA",
+   "id": "40085961",
+   "name": "RYSA Wimauma Lady Warriors U16/U19"
+  },
+  {
+   "club": "Florida Hawks Futbol Club",
+   "id": "40085989",
+   "name": "FHPFC U19 Girls FA26"
+  },
+  {
    "club": "RAD Swarm FC",
    "id": "40105323",
    "name": "RAD Swarm 09/10 Girls"
+  },
+  {
+   "club": "Cape Coral Soccer",
+   "id": "50027071",
+   "name": "Cape Coral SA - ECNL RL G2008/09"
+  },
+  {
+   "club": "Tampa Bay United",
+   "id": "40119422",
+   "name": "TBU North Girls HighSchool - Acar"
+  },
+  {
+   "club": "Tampa Bay United",
+   "id": "40119423",
+   "name": "TBU North Girls HighSchool - Rexroad/Chase"
+  },
+  {
+   "club": "Good Lad Soccer",
+   "id": "40156300",
+   "name": "GLS High School Girls"
+  },
+  {
+   "club": "Tampa Bay United",
+   "id": "50036604",
+   "name": "Tampa Bay United ECNL RL G2008/09"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "40162526",
+   "name": "Sporting SA TLH ECNL RL G2008/09"
   }
  ]
 }
