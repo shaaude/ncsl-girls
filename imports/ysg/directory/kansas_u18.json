@@ -1,19 +1,24 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-11-10T15:37:59.083810+00:00",
+ "fetched_at": "2026-11-17T16:50:23.328769+00:00",
  "state": "KS",
  "state_slug": "kansas",
  "teams": [
+  {
+   "club": "Sporting Wichita",
+   "id": "50009168",
+   "name": "Sporting Wichita U19G N1L Academy"
+  },
   {
    "club": "Topeka Soccer Club",
    "id": "50009165",
    "name": "Topeka SC N1 G2008/09 Select (KS)"
   },
   {
-   "club": "Sporting Wichita",
-   "id": "50009168",
-   "name": "Sporting Wichita U19G N1L Academy"
+   "club": "RAPTORS SC",
+   "id": "40076531",
+   "name": "LADY RAPTORS HSG"
   },
   {
    "club": "FC ATLAS",
@@ -26,6 +31,16 @@
    "name": "BK Academy FC N1 G2009/10 (KS)"
   },
   {
+   "club": "FC KANSAS",
+   "id": "40076400",
+   "name": "FC Kansas HSG WHITE"
+  },
+  {
+   "club": "Wichita Regional Soccer Association",
+   "id": "40076278",
+   "name": "CRUSADERS FC HSG"
+  },
+  {
    "club": "KC Athletics",
    "id": "50009167",
    "name": "KC Athletics Aston Villa u18G"
@@ -36,39 +51,14 @@
    "name": "FC KANSAS HSG BLUE"
   },
   {
-   "club": "FC KANSAS",
-   "id": "40076400",
-   "name": "FC Kansas HSG WHITE"
-  },
-  {
-   "club": "RAPTORS SC",
-   "id": "40076531",
-   "name": "LADY RAPTORS HSG"
-  },
-  {
    "club": "Wichita Regional Soccer Association",
-   "id": "40076278",
-   "name": "CRUSADERS FC HSG"
+   "id": "40076568",
+   "name": "KAIWA FC HSG"
   },
   {
    "club": "McPherson City FC",
    "id": "40076341",
    "name": "Mid Kansas United Pink"
-  },
-  {
-   "club": "McPherson City FC",
-   "id": "50038876",
-   "name": "Mid Kansas United HSG"
-  },
-  {
-   "club": "VC FUSION",
-   "id": "40076414",
-   "name": "VC Fusion HSG Unity"
-  },
-  {
-   "club": "Wichita Regional Soccer Association",
-   "id": "40076568",
-   "name": "KAIWA FC HSG"
   },
   {
    "club": "McPherson City FC",
@@ -81,9 +71,19 @@
    "name": "NUEVA ERA FC 08G"
   },
   {
+   "club": "McPherson City FC",
+   "id": "50038876",
+   "name": "Mid Kansas United HSG"
+  },
+  {
    "club": "Dodge City Toros FC",
    "id": "40076345",
    "name": "DODGE CITY TOROS FC 08G"
+  },
+  {
+   "club": "VC FUSION",
+   "id": "40076414",
+   "name": "VC Fusion HSG Unity"
   },
   {
    "club": "Sporting Blue Valley",
@@ -114,6 +114,16 @@
    "club": "Topeka Soccer Club",
    "id": "50051333",
    "name": "TSC U18G Select White"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "50054100",
+   "name": "KC Athletics Chelsea u18G"
+  },
+  {
+   "club": "KC Legends",
+   "id": "50054101",
+   "name": "KCL Black G08/09"
   }
  ]
 }

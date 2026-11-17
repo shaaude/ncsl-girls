@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-10T15:18:48.863786+00:00",
+ "fetched_at": "2026-11-17T16:31:13.769213+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
@@ -16,6 +16,11 @@
    "name": "Colorado Storm ECNL G2013/14"
   },
   {
+   "club": "Broomfield Soccer Club",
+   "id": "50005711",
+   "name": "GA 13/14"
+  },
+  {
    "club": "Colorado Rush",
    "id": "50035236",
    "name": "Colorado Rush ECNL G2013/14"
@@ -24,11 +29,6 @@
    "club": "Real Colorado",
    "id": "50035241",
    "name": "Real Colorado Athletico ECNL G2013/14"
-  },
-  {
-   "club": "Broomfield Soccer Club",
-   "id": "50005711",
-   "name": "GA 13/14"
   },
   {
    "club": "Colorado United",
@@ -46,6 +46,11 @@
    "name": "Colorado Storm South ECNL RL G2013/14"
   },
   {
+   "club": "ALBION SC Boulder County",
+   "id": "50005718",
+   "name": "Boulder County Aspire 13/14"
+  },
+  {
    "club": "Colorado EDGE",
    "id": "50035243",
    "name": "Colorado EDGE ECNL RL G2013/2014"
@@ -57,8 +62,8 @@
   },
   {
    "club": "Colorado United",
-   "id": "50035237",
-   "name": "2013/14G Gold"
+   "id": "50005716",
+   "name": "Aspire 13/14"
   },
   {
    "club": "Colorado Storm",
@@ -66,58 +71,8 @@
    "name": "Colorado Storm Central ECNL RL G2013/14"
   },
   {
-   "club": "ALBION SC Boulder County",
-   "id": "50005718",
-   "name": "Boulder County Aspire 13/14"
-  },
-  {
-   "club": "Colorado United",
-   "id": "50005716",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "Real Colorado",
-   "id": "50035244",
-   "name": "Real Colorado Olympico ECNL RL G2013/14"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "50035234",
-   "name": "Fort Collins U13G Black"
-  },
-  {
-   "club": "Colorado Rush",
-   "id": "40092385",
-   "name": "ECNL RL G2013/14"
-  },
-  {
-   "club": "ALBION SC Boulder County",
-   "id": "50050609",
-   "name": "Boulder County GU13 DPL"
-  },
-  {
    "club": "Broomfield Soccer Club",
    "id": "50005714",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "Real Colorado",
-   "id": "40019385",
-   "name": "U13 Girls Red"
-  },
-  {
-   "club": "Pride SC",
-   "id": "50035231",
-   "name": "Pride SC N1 G2013/14 Copa CO"
-  },
-  {
-   "club": "Colorado Rush",
-   "id": "40019369",
-   "name": "Colorado Rush COS N1 G2013/14 (CO)"
-  },
-  {
-   "club": "Grand Junction SC",
-   "id": "50005717",
    "name": "Aspire 13/14"
   },
   {
@@ -126,9 +81,29 @@
    "name": "CR U13G DPL"
   },
   {
+   "club": "Colorado Storm",
+   "id": "50035234",
+   "name": "Fort Collins U13G Black"
+  },
+  {
+   "club": "ALBION SC Boulder County",
+   "id": "50050609",
+   "name": "Boulder County GU13 DPL"
+  },
+  {
+   "club": "Real Colorado",
+   "id": "50035244",
+   "name": "Real Colorado Olympico ECNL RL G2013/14"
+  },
+  {
    "club": "Denver Kickers Sport Club",
    "id": "50050608",
    "name": "U13G DPL"
+  },
+  {
+   "club": "Colorado United",
+   "id": "50035237",
+   "name": "2013/14G Gold"
   },
   {
    "club": "City SC NOCO",
@@ -136,14 +111,39 @@
    "name": "Aspire 13/14"
   },
   {
+   "club": "Grand Junction SC",
+   "id": "50005717",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Pride SC",
+   "id": "50035231",
+   "name": "Pride SC N1 G2013/14 Copa CO"
+  },
+  {
+   "club": "Real Colorado",
+   "id": "40019385",
+   "name": "U13 Girls Red"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "40019369",
+   "name": "Colorado Rush COS N1 G2013/14 (CO)"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "40092385",
+   "name": "ECNL RL G2013/14"
+  },
+  {
    "club": "Colorado EDGE",
    "id": "50035227",
    "name": "Colorado EDGE United G2013/2014"
   },
   {
-   "club": "Pride SC",
-   "id": "50035235",
-   "name": "Pride SC Red G13"
+   "club": "Colorado Rush",
+   "id": "40007717",
+   "name": "Colorado Rush North U13G DPL"
   },
   {
    "club": "CO Elevation FC",
@@ -151,9 +151,19 @@
    "name": "Aspire 13/14"
   },
   {
+   "club": "Pride SC",
+   "id": "50035235",
+   "name": "Pride SC Red G13"
+  },
+  {
    "club": "Colorado Storm",
    "id": "50035242",
    "name": "Colorado Storm North ECNL RL G2013/14"
+  },
+  {
+   "club": "Skyline",
+   "id": "50035229",
+   "name": "U13 DPL"
   },
   {
    "club": "Colorado Storm",
@@ -164,11 +174,6 @@
    "club": "Westy Soccer Club",
    "id": "50035232",
    "name": "Westy SC N1 G2013/14 Elite (CO)"
-  },
-  {
-   "club": "Skyline",
-   "id": "50035229",
-   "name": "U13 DPL"
   },
   {
    "club": "CO Elevation FC",
@@ -187,13 +192,13 @@
   },
   {
    "club": "Albion SC Denver",
-   "id": "50050607",
-   "name": "GU13 DPL"
+   "id": "50005713",
+   "name": "Aspire 13/14"
   },
   {
    "club": "Albion SC Denver",
-   "id": "50005713",
-   "name": "Aspire 13/14"
+   "id": "50050607",
+   "name": "GU13 DPL"
   },
   {
    "club": "Colorado Rush",
@@ -206,9 +211,9 @@
    "name": "N1 G2013/14 Peak Elite (CO)"
   },
   {
-   "club": "Colorado Rush",
-   "id": "40007717",
-   "name": "Colorado Rush North U13G DPL"
+   "club": "Blizzard",
+   "id": "50054444",
+   "name": "Blizzard"
   },
   {
    "club": "Broomfield Soccer Club",
@@ -394,11 +399,6 @@
    "club": "Chivas Denver",
    "id": "40166793",
    "name": "Chivas Denver 2014G"
-  },
-  {
-   "club": "Blizzard",
-   "id": "40166984",
-   "name": "Blizzard"
   },
   {
    "club": "Arsenal Colorado",

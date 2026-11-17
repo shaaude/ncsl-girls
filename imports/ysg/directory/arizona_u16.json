@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-10T15:13:48.913068+00:00",
+ "fetched_at": "2026-11-17T16:26:13.583321+00:00",
  "state": "AZ",
  "state_slug": "arizona",
  "teams": [
@@ -26,19 +26,9 @@
    "name": "10/11 GA"
   },
   {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "50000732",
-   "name": "Arizona Arsenal ECNL G2010/11"
-  },
-  {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "50031066",
-   "name": "AZ Arsenal ECNL G2010/11"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "50031068",
-   "name": "CCV Stars ECNL RL G2010/11 (U16)"
+   "club": "Utah Royals FC - AZ",
+   "id": "50000736",
+   "name": "Utah Royals FC-AZ RL G2010/11"
   },
   {
    "club": "Dynamos SC",
@@ -46,19 +36,19 @@
    "name": "Dynamos SC U16G SC"
   },
   {
-   "club": "Arizona Soccer Club",
-   "id": "50000734",
-   "name": "ECNL RL G2010/11"
-  },
-  {
-   "club": "Utah Royals FC - AZ",
-   "id": "50000736",
-   "name": "Utah Royals FC-AZ RL G2010/11"
-  },
-  {
    "club": "Arizona Surf Soccer Club",
    "id": "50000716",
    "name": "East Valley U16 G N1"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "50000732",
+   "name": "Arizona Arsenal ECNL G2010/11"
+  },
+  {
+   "club": "East Valley/NSFC",
+   "id": "50000718",
+   "name": "East Valley NSFC N1 G10/11 Gallegos AZ"
   },
   {
    "club": "Phoenix Rising FC",
@@ -67,28 +57,13 @@
   },
   {
    "club": "Arizona Arsenal Soccer Club",
-   "id": "50031067",
-   "name": "AZ Arsenal ECNL RL G2010/11"
-  },
-  {
-   "club": "East Valley/NSFC",
-   "id": "50000718",
-   "name": "East Valley NSFC N1 G10/11 Gallegos AZ"
-  },
-  {
-   "club": "Phoenix Premier FC",
-   "id": "50000728",
-   "name": "Aspire 10/11"
+   "id": "50031066",
+   "name": "AZ Arsenal ECNL G2010/11"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
-   "id": "40093133",
-   "name": "Arizona Arsenal ECNL RL G2010/11"
-  },
-  {
-   "club": "RSL-AZ Southern AZ",
-   "id": "50000715",
-   "name": "U16G DPL"
+   "id": "50031067",
+   "name": "AZ Arsenal ECNL RL G2010/11"
   },
   {
    "club": "North Valley FC Arizona",
@@ -96,9 +71,24 @@
    "name": "NVFCA GU16 NL Premier"
   },
   {
-   "club": "Southern Arizona Soccer Club",
-   "id": "50031063",
-   "name": "SASC U16G Cardinals Linares"
+   "club": "CCV STARS",
+   "id": "50031068",
+   "name": "CCV Stars ECNL RL G2010/11 (U16)"
+  },
+  {
+   "club": "RSL-AZ Southern AZ",
+   "id": "50000715",
+   "name": "U16G DPL"
+  },
+  {
+   "club": "Phoenix Premier FC",
+   "id": "50000728",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Arizona Soccer Club",
+   "id": "50000734",
+   "name": "ECNL RL G2010/11"
   },
   {
    "club": "RSL-AZ West Valley",
@@ -106,14 +96,24 @@
    "name": "RSL WV U16 GIRLS N1L"
   },
   {
+   "club": "Southern Arizona Soccer Club",
+   "id": "50031063",
+   "name": "SASC U16G Cardinals Linares"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "40093133",
+   "name": "Arizona Arsenal ECNL RL G2010/11"
+  },
+  {
    "club": "Tucson Elite SC",
    "id": "50031060",
    "name": "Tucson Elite U16"
   },
   {
-   "club": "RSL-AZ North",
-   "id": "50024785",
-   "name": "U16G Brustad Royals DPL"
+   "club": "Canyon Del Oro Soccer Club",
+   "id": "50000712",
+   "name": "CDO U16G Clark"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
@@ -126,14 +126,39 @@
    "name": "RSL-AZ Yuma U16 Girls Patino Royals"
   },
   {
+   "club": "RSL-AZ North",
+   "id": "50024785",
+   "name": "U16G Brustad Royals DPL"
+  },
+  {
    "club": "Arizona Surf Soccer Club",
-   "id": "50024786",
-   "name": "West Valley U16G DPL"
+   "id": "50000720",
+   "name": "East Valley U16G N1 (Carducci)"
+  },
+  {
+   "club": "East Valley/NSFC",
+   "id": "50000727",
+   "name": "East Valley NSFC 10/11 Girls AKlein"
   },
   {
    "club": "Phoenix Rising FC",
    "id": "50000722",
    "name": "Scottsdale N1 G2010/11 AZ"
+  },
+  {
+   "club": "Athletic Soccer Club (AZ)",
+   "id": "50020324",
+   "name": "ASC GU16 EV (HOLLAR)"
+  },
+  {
+   "club": "Arizona Soccer Club",
+   "id": "50000713",
+   "name": "U16G DPL"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "50000726",
+   "name": "CCV Stars U16 Girls Peoria N2"
   },
   {
    "club": "SC del Sol",
@@ -142,28 +167,8 @@
   },
   {
    "club": "Arizona Surf Soccer Club",
-   "id": "50000720",
-   "name": "East Valley U16G N1 (Carducci)"
-  },
-  {
-   "club": "Arizona Soccer Club",
-   "id": "50000713",
-   "name": "U16G DPL"
-  },
-  {
-   "club": "Canyon Del Oro Soccer Club",
-   "id": "50000712",
-   "name": "CDO U16G Clark"
-  },
-  {
-   "club": "Athletic Soccer Club (AZ)",
-   "id": "50020324",
-   "name": "ASC GU16 EV (HOLLAR)"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "50000726",
-   "name": "CCV Stars U16 Girls Peoria N2"
+   "id": "50024786",
+   "name": "West Valley U16G DPL"
   },
   {
    "club": "NOS Santos SC",
@@ -171,14 +176,14 @@
    "name": "U16 Girls Blue"
   },
   {
+   "club": "Phoenix Rising FC",
+   "id": "50024788",
+   "name": "U16G DPL"
+  },
+  {
    "club": "FC Tucson Youth Soccer",
    "id": "50031061",
    "name": "FC Tucson Youth N1 2010-2011 AZ"
-  },
-  {
-   "club": "RSL-AZ North",
-   "id": "50000725",
-   "name": "U16G Barrett Royals"
   },
   {
    "club": "Phoenix Rush",
@@ -186,14 +191,19 @@
    "name": "U16 Rush Girls"
   },
   {
-   "club": "Brazas Futebol Club",
-   "id": "50000717",
-   "name": "BRAZAS FC 2010/2011 Girls Black"
+   "club": "RSL-AZ North",
+   "id": "50000725",
+   "name": "U16G Barrett Royals"
   },
   {
    "club": "Playmaker Futbol Academy",
    "id": "50020323",
    "name": "Playmaker Futbol Academy G2010/11 Black"
+  },
+  {
+   "club": "Brazas Futebol Club",
+   "id": "50000717",
+   "name": "BRAZAS FC 2010/2011 Girls Black"
   },
   {
    "club": "RSL-AZ South",
@@ -206,24 +216,24 @@
    "name": "CCV Stars U16 Girls Surprise N1"
   },
   {
+   "club": "Grande Football Club",
+   "id": "50025371",
+   "name": "Grande FC 2011 Garcia GirlsU16"
+  },
+  {
    "club": "State 48 FC",
    "id": "50031064",
    "name": "Central 10/11G Black"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
-   "id": "50031065",
-   "name": "AZ Arsenal 2010/11 Girls NAZ2"
-  },
-  {
-   "club": "Grande Football Club",
-   "id": "50025371",
-   "name": "Grande FC 2011 Garcia GirlsU16"
+   "id": "50020325",
+   "name": "AZ Arsenal 2010/11 Girls Flagstaff"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
-   "id": "50020325",
-   "name": "AZ Arsenal 2010/11 Girls Flagstaff"
+   "id": "50031065",
+   "name": "AZ Arsenal 2010/11 Girls NAZ2"
   },
   {
    "club": "Arizona Surf Soccer Club",
@@ -241,19 +251,9 @@
    "name": "U16G DPL"
   },
   {
-   "club": "Phoenix Rising FC",
-   "id": "50024788",
-   "name": "U16G DPL"
-  },
-  {
    "club": "Arizona Soccer Club",
    "id": "40019722",
    "name": "N1L G2010/11"
-  },
-  {
-   "club": "East Valley/NSFC",
-   "id": "50000727",
-   "name": "East Valley NSFC 10/11 Girls AKlein"
   },
   {
    "club": "North Scottsdale Soccer Club",
@@ -274,6 +274,16 @@
    "club": "North Scottsdale Soccer Club",
    "id": "40070362",
    "name": "Scottsdale Sandsharks SC U16G NAZ2"
+  },
+  {
+   "club": "SC del Sol",
+   "id": "40202276",
+   "name": "U16 GA Aspire"
+  },
+  {
+   "club": "Arizona Surf Soccer Club",
+   "id": "40202925",
+   "name": "East Valley U16 G DPL"
   }
  ]
 }

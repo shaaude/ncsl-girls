@@ -1,10 +1,15 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-11-10T16:34:39.146896+00:00",
+ "fetched_at": "2026-11-17T17:47:13.011863+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
+  {
+   "club": "North Shore United",
+   "id": "40070762",
+   "name": "GA 09/10"
+  },
   {
    "club": "Wisconsin United FC",
    "id": "50019774",
@@ -16,19 +21,14 @@
    "name": "GA 09/10"
   },
   {
+   "club": "FC Wisconsin Girls",
+   "id": "50019776",
+   "name": "FC Wisconsin ECNL G2009/10"
+  },
+  {
    "club": "SC Wave",
    "id": "40070631",
    "name": "GA 09/10"
-  },
-  {
-   "club": "Croatian Eagles SC",
-   "id": "50019772",
-   "name": "Aspire 09/10"
-  },
-  {
-   "club": "Neenah Soccer Club",
-   "id": "40018839",
-   "name": "2009-2011 Girls 17U Red Premier"
   },
   {
    "club": "Madison 56ers",
@@ -36,49 +36,14 @@
    "name": "GA 09/10"
   },
   {
-   "club": "RUSH WI Southeast",
-   "id": "50019771",
-   "name": "U17 Girls National 1"
-  },
-  {
-   "club": "RUSH Wisconsin",
-   "id": "50019769",
-   "name": "N1 G 2009/10 Rush (WI)"
-  },
-  {
-   "club": "North Shore United",
-   "id": "40070762",
-   "name": "GA 09/10"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "50019776",
-   "name": "FC Wisconsin ECNL G2009/10"
-  },
-  {
-   "club": "FC Green Bay",
-   "id": "40018821",
-   "name": "FC Green Bay u17G Orange"
-  },
-  {
-   "club": "Forward Madison FC",
-   "id": "50019770",
-   "name": "Rally Madison FC U17G N1"
-  },
-  {
-   "club": "North Shore United",
-   "id": "50019775",
-   "name": "Aspire 09/10"
+   "club": "Neenah Soccer Club",
+   "id": "40018839",
+   "name": "2009-2011 Girls 17U Red Premier"
   },
   {
    "club": "Elmbrook United",
    "id": "50019773",
-   "name": "Aspire 09/10"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "40096166",
-   "name": "FC Wisconsin ECNL RL G2009/10"
+   "name": "Elmbrook United Aspire 09/10"
   },
   {
    "club": "SC Wave",
@@ -86,8 +51,43 @@
    "name": "Aspire 09/10"
   },
   {
+   "club": "RUSH WI Southeast",
+   "id": "50019771",
+   "name": "U17 Girls National 1"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "50019772",
+   "name": "Aspire 09/10"
+  },
+  {
    "club": "Madison 56ers",
    "id": "50049767",
+   "name": "Aspire 09/10"
+  },
+  {
+   "club": "RUSH Wisconsin",
+   "id": "50019769",
+   "name": "N1 G 2009/10 Rush (WI)"
+  },
+  {
+   "club": "Forward Madison FC",
+   "id": "50019770",
+   "name": "Rally Madison FC U17G N1"
+  },
+  {
+   "club": "FC Green Bay",
+   "id": "40018821",
+   "name": "FC Green Bay u17G Orange"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "40096166",
+   "name": "FC Wisconsin ECNL RL G2009/10"
+  },
+  {
+   "club": "North Shore United",
+   "id": "50019775",
    "name": "Aspire 09/10"
   },
   {
@@ -134,6 +134,11 @@
    "club": "Lakeshore United FC",
    "id": "40172355",
    "name": "LUFC U17G Navy"
+  },
+  {
+   "club": "WI United",
+   "id": "40202191",
+   "name": "Aspire 09/10"
   }
  ]
 }

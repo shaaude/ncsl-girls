@@ -1,19 +1,24 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-10T16:04:59.280848+00:00",
+ "fetched_at": "2026-11-17T17:17:33.441677+00:00",
  "state": "NY",
  "state_slug": "new-york",
  "teams": [
+  {
+   "club": "Buffalo Pro Soccer Academy",
+   "id": "50014781",
+   "name": "Buffalo Pro Soccer USL Academy U15G"
+  },
   {
    "club": "Huntington Inter FC",
    "id": "50043562",
    "name": "Stars G2011/2012"
   },
   {
-   "club": "Barca Academy Pro NY",
-   "id": "50043561",
-   "name": "N1 G2011/2012 PRO (NYE)"
+   "club": "Connetquot United Soccer Club (LIJSL)",
+   "id": "40078553",
+   "name": "Breakers"
   },
   {
    "club": "Pawling Soccer Club",
@@ -21,9 +26,24 @@
    "name": "Thunder"
   },
   {
-   "club": "East Meadow Soccer Club",
-   "id": "50014782",
-   "name": "EM EDP 2011/2012 Girls"
+   "club": "Terryville (LIJSL)",
+   "id": "40079557",
+   "name": "Lightning"
+  },
+  {
+   "club": "Barca Academy Pro NY",
+   "id": "50043561",
+   "name": "N1 G2011/2012 PRO (NYE)"
+  },
+  {
+   "club": "West Side",
+   "id": "50043560",
+   "name": "Red Bulls Premier G2011/12"
+  },
+  {
+   "club": "Valley Stream (LIJSL)",
+   "id": "40079492",
+   "name": "Valley Stream Phantom"
   },
   {
    "club": "Wappinger United Soccer Club",
@@ -31,9 +51,19 @@
    "name": "Fury"
   },
   {
-   "club": "West Islip SC",
-   "id": "50043559",
-   "name": "NLSA G11/12"
+   "club": "South Huntington (LIJSL)",
+   "id": "40087622",
+   "name": "Tsunami"
+  },
+  {
+   "club": "East Meadow Soccer Club",
+   "id": "50014782",
+   "name": "EM EDP 2011/2012 Girls"
+  },
+  {
+   "club": "SC Gjoa",
+   "id": "40038373",
+   "name": "Utland"
   },
   {
    "club": "Sound Beach",
@@ -41,23 +71,53 @@
    "name": "Chelsea"
   },
   {
+   "club": "New Hyde Park Wildcats Soccer Club",
+   "id": "40079072",
+   "name": "Lady Stormcats"
+  },
+  {
+   "club": "Lindenhurst Soccer Club (LIJSL)",
+   "id": "40079021",
+   "name": "Lightning"
+  },
+  {
+   "club": "West Islip SC",
+   "id": "50043559",
+   "name": "NLSA G11/12"
+  },
+  {
+   "club": "West Islip SC",
+   "id": "40079593",
+   "name": "WI Riptide"
+  },
+  {
+   "club": "Mount Sinai Youth Soccer",
+   "id": "40079095",
+   "name": "Galaxy"
+  },
+  {
    "club": "Lindenhurst Soccer Club (LIJSL)",
    "id": "50043565",
    "name": "Thunder"
   },
   {
+   "club": "East Islip Soccer Club",
+   "id": "40087657",
+   "name": "Blue Storm"
+  },
+  {
+   "club": "Bellmore (LIJSL)",
+   "id": "40078587",
+   "name": "Lightning"
+  },
+  {
+   "club": "North East Reds FC - Long Island",
+   "id": "50029084",
+   "name": "DPL G11/12 (Red)"
+  },
+  {
    "club": "Northport Cow Harbor United Soccer Club",
    "id": "40079308",
-   "name": "Breakers"
-  },
-  {
-   "club": "Greenburgh Utd",
-   "id": "40038549",
-   "name": "Tempest"
-  },
-  {
-   "club": "Connetquot United Soccer Club (LIJSL)",
-   "id": "40078553",
    "name": "Breakers"
   },
   {
@@ -71,19 +131,19 @@
    "name": "Athletic SC Girls Blue U15"
   },
   {
+   "club": "Greater Long Beach (LIJSL)",
+   "id": "40078910",
+   "name": "BARRACUDAS"
+  },
+  {
    "club": "DV7 NY",
    "id": "40037577",
    "name": "G2011/12"
   },
   {
-   "club": "Smithtown Kickers SC (LIJSL)",
-   "id": "50043567",
-   "name": "Reign 2012"
-  },
-  {
-   "club": "Greater Long Beach (LIJSL)",
-   "id": "40078910",
-   "name": "BARRACUDAS"
+   "club": "Auburndale SC",
+   "id": "40038316",
+   "name": "Strikers 2011/12"
   },
   {
    "club": "Farmingdale SC (LIJSL)",
@@ -91,9 +151,19 @@
    "name": "GU15 Storm"
   },
   {
+   "club": "Greenburgh Utd",
+   "id": "40038549",
+   "name": "Tempest"
+  },
+  {
    "club": "Oceanside United Soccer (LIJSL)",
    "id": "40079202",
    "name": "Waverunners"
+  },
+  {
+   "club": "Rondout",
+   "id": "40053476",
+   "name": "Highlanders West"
   },
   {
    "club": "Plainview Old Bethpage (LIJSL)",
@@ -111,64 +181,39 @@
    "name": "BKU G11/12 National"
   },
   {
-   "club": "Rondout",
-   "id": "40053476",
-   "name": "Highlanders West"
-  },
-  {
-   "club": "Terryville (LIJSL)",
-   "id": "40079557",
-   "name": "Lightning"
-  },
-  {
-   "club": "Mount Sinai Youth Soccer",
-   "id": "40079095",
-   "name": "Galaxy"
-  },
-  {
-   "club": "Valley Stream (LIJSL)",
-   "id": "40079492",
-   "name": "Valley Stream Phantom"
-  },
-  {
-   "club": "Lindenhurst Soccer Club (LIJSL)",
-   "id": "40079021",
-   "name": "Lightning"
-  },
-  {
-   "club": "New Hyde Park Wildcats Soccer Club",
-   "id": "40079072",
-   "name": "Lady Stormcats"
-  },
-  {
-   "club": "West Side",
-   "id": "50043560",
-   "name": "Red Bulls Premier G2011/12"
-  },
-  {
-   "club": "West Islip SC",
-   "id": "40079593",
-   "name": "WI Riptide"
-  },
-  {
-   "club": "Bellmore (LIJSL)",
-   "id": "40078587",
-   "name": "Lightning"
-  },
-  {
    "club": "Town of Poughkeepsie",
    "id": "50043563",
    "name": "Fuego"
   },
   {
-   "club": "Buffalo Pro Soccer Academy",
-   "id": "50014781",
-   "name": "Buffalo Pro Soccer USL Academy U15G"
+   "club": "Hewlett/Lawrence (LIJSL)",
+   "id": "40078907",
+   "name": "Blue Storm"
+  },
+  {
+   "club": "Smithtown Kickers SC (LIJSL)",
+   "id": "50043567",
+   "name": "Reign 2012"
+  },
+  {
+   "club": "FC Dutchmen",
+   "id": "50014783",
+   "name": "FC Dutchmen Surf 2011/2012 U15g DPL"
   },
   {
    "club": "NY Rush",
    "id": "50043575",
    "name": "NY Rush U15 DPL"
+  },
+  {
+   "club": "RNY FC Youth",
+   "id": "50014784",
+   "name": "RNY FC Youth DPL G2011/2012"
+  },
+  {
+   "club": "Western New York Flash",
+   "id": "40017228",
+   "name": "WNY Flash Rochester Premier G2011/12"
   },
   {
    "club": "JP Soccer",
@@ -179,16 +224,6 @@
    "club": "Garden City (LIJSL)",
    "id": "50029079",
    "name": "Dynamite 2011/2012 Girls"
-  },
-  {
-   "club": "Auburndale SC",
-   "id": "40038316",
-   "name": "Strikers 2011/12"
-  },
-  {
-   "club": "SC Gjoa",
-   "id": "40038373",
-   "name": "Utland"
   },
   {
    "club": "New Rochelle",
@@ -226,6 +261,11 @@
    "name": "Southampton Girls 2011/2012 Academy"
   },
   {
+   "club": "Silver Lake Soccer Academy",
+   "id": "40058091",
+   "name": "Silver Lake Soccer Academy Storm"
+  },
+  {
    "club": "Long Island Slammers",
    "id": "50014786",
    "name": "ECNL RL G2011/12"
@@ -234,11 +274,6 @@
    "club": "Manhattan SC",
    "id": "50014787",
    "name": "ECNL RL G2011/12"
-  },
-  {
-   "club": "North East Reds FC - Long Island",
-   "id": "50029084",
-   "name": "DPL G11/12 (Red)"
   },
   {
    "club": "Three Village Soccer Club - SB",
@@ -256,11 +291,6 @@
    "name": "Undisputed"
   },
   {
-   "club": "Hewlett/Lawrence (LIJSL)",
-   "id": "40078907",
-   "name": "Blue Storm"
-  },
-  {
    "club": "SUSA FC",
    "id": "50043576",
    "name": "N1 G2011/12 (NYE)"
@@ -271,19 +301,9 @@
    "name": "Albany Alleycats ECNL RL G2011/12"
   },
   {
-   "club": "South Huntington (LIJSL)",
-   "id": "40087622",
-   "name": "Tsunami"
-  },
-  {
    "club": "Hauppauge (LIJSL)",
    "id": "40087653",
    "name": "Hauppauge Hype FC GU15"
-  },
-  {
-   "club": "East Islip Soccer Club",
-   "id": "40087657",
-   "name": "Blue Storm"
   },
   {
    "club": "Deer Park (LIJSL)",
@@ -371,6 +391,21 @@
    "name": "WNY Flash ECNL RL G2011/12"
   },
   {
+   "club": "East Coast Surf",
+   "id": "50021997",
+   "name": "East Coast Surf N1 G2011/12 White"
+  },
+  {
+   "club": "East Coast Surf",
+   "id": "40111741",
+   "name": "East Coast Surf N1 G2011/12 Blue"
+  },
+  {
+   "club": "Western New York Flash",
+   "id": "40111754",
+   "name": "WNY Flash Binghamton ECNL RL G2011/12"
+  },
+  {
    "club": "Shrub Oak",
    "id": "40119113",
    "name": "Blazers G2012"
@@ -444,6 +479,21 @@
    "club": "North East Reds FC - Long Island",
    "id": "40194645",
    "name": "EDP G11/12 (White)"
+  },
+  {
+   "club": "Greenbush Soccer Club",
+   "id": "40202672",
+   "name": "Greenbush N1 G2011/12 (NY)"
+  },
+  {
+   "club": "ROC SC",
+   "id": "40203702",
+   "name": "Roc SC N1 G2011/12"
+  },
+  {
+   "club": "Ramapo Valley Soccer Club",
+   "id": "40204582",
+   "name": "NYC Ramapo Valley Red U15"
   }
  ]
 }

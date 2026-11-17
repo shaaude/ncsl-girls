@@ -1,15 +1,10 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-10T15:29:58.923322+00:00",
+ "fetched_at": "2026-11-17T16:42:23.583720+00:00",
  "state": "ID",
  "state_slug": "idaho",
  "teams": [
-  {
-   "club": "PVSC United (GCYSL)",
-   "id": "50037749",
-   "name": "PVSC U14 Girls- Vaughan"
-  },
   {
    "club": "IFFC",
    "id": "50008084",
@@ -21,9 +16,14 @@
    "name": "Boise Thorns ECNL G2012/13"
   },
   {
-   "club": "Sting Soccer Club",
-   "id": "50008087",
-   "name": "Aspire 12/13"
+   "club": "PVSC United (GCYSL)",
+   "id": "50037749",
+   "name": "PVSC U14 Girls- Vaughan"
+  },
+  {
+   "club": "Ambush FC",
+   "id": "40084124",
+   "name": "Ambush FC Warriors"
   },
   {
    "club": "Idaho Rush Soccer Club",
@@ -31,9 +31,19 @@
    "name": "Idaho Rush U14 ECNL-RL"
   },
   {
+   "club": "Sting Soccer Club",
+   "id": "50008087",
+   "name": "Aspire 12/13"
+  },
+  {
    "club": "Sandpoint Strikers FC",
    "id": "50021161",
    "name": "Sandpoint Strikers FC N1 G2012/13 (ID)"
+  },
+  {
+   "club": "JYSA Soccer",
+   "id": "40084138",
+   "name": "JYSA Rigby Girls U14"
   },
   {
    "club": "Idaho Slammers FC",
@@ -56,6 +66,21 @@
    "name": "Idaho Storm U14G"
   },
   {
+   "club": "Legacy SC (ID)",
+   "id": "50037748",
+   "name": "LSC U14G"
+  },
+  {
+   "club": "Teton FC",
+   "id": "50037746",
+   "name": "Teton FC U14 Girls \u2022 Lopez"
+  },
+  {
+   "club": "Hells Canyon FC",
+   "id": "50037740",
+   "name": "G2012/13 HCFC Rapids Girls"
+  },
+  {
    "club": "Idaho Rush Soccer Club",
    "id": "50008079",
    "name": "Idaho Rush U14 Nero"
@@ -71,24 +96,14 @@
    "name": "ID ELKO Surf U14G"
   },
   {
+   "club": "Nampa Premier Soccer Club",
+   "id": "50037741",
+   "name": "NPSC U13/14G- Grey"
+  },
+  {
    "club": "Boise Timbers | Thorns",
    "id": "50008089",
    "name": "Boise Thorns ECNL RL G2012/13"
-  },
-  {
-   "club": "Teton FC",
-   "id": "50037746",
-   "name": "Teton FC U14 Girls \u2022 Lopez"
-  },
-  {
-   "club": "Ambush FC",
-   "id": "40084124",
-   "name": "Ambush FC Warriors"
-  },
-  {
-   "club": "Hells Canyon FC",
-   "id": "50037740",
-   "name": "G2012/13 HCFC Rapids Girls"
   },
   {
    "club": "North Boise FC",
@@ -96,39 +111,9 @@
    "name": "NBFC u14g Capitol"
   },
   {
-   "club": "Nampa Premier Soccer Club",
-   "id": "50037741",
-   "name": "NPSC U13/14G- Grey"
-  },
-  {
-   "club": "Idaho Legends",
-   "id": "50021163",
-   "name": "Idaho Legends - U14G Newell 2026-2027"
-  },
-  {
-   "club": "TF Rapids SC",
-   "id": "50008086",
-   "name": "Rapids SC U14G"
-  },
-  {
-   "club": "JYSA Soccer",
-   "id": "40084138",
-   "name": "JYSA Rigby Girls U14"
-  },
-  {
-   "club": "Legacy SC (ID)",
-   "id": "50037748",
-   "name": "LSC U14G"
-  },
-  {
    "club": "IFFC",
    "id": "40084207",
    "name": "IFFC U14G Cobalt - Solis"
-  },
-  {
-   "club": "Idaho Rush Soccer Club",
-   "id": "50008080",
-   "name": "Idaho Rush U14 Azul"
   },
   {
    "club": "Upper Valley Soccer Foundation",
@@ -141,34 +126,24 @@
    "name": "GSA U14G"
   },
   {
-   "club": "Idaho Inferno Soccer Club",
-   "id": "50021165",
-   "name": "U13/U14 Girls Inferno Liga"
+   "club": "Idaho Legends",
+   "id": "50021163",
+   "name": "Idaho Legends - U14G Newell 2026-2027"
   },
   {
-   "club": "Indie Chicas",
-   "id": "50037745",
-   "name": "U14 Black Indie Chicas"
-  },
-  {
-   "club": "ALBION SC Idaho",
-   "id": "50021164",
-   "name": "ALBION SC IDAHO GU14 Academy"
-  },
-  {
-   "club": "Sun Valley Soccer Club",
-   "id": "50021167",
-   "name": "Sun Valley Soccer Club - U14 Girls"
-  },
-  {
-   "club": "Project 208",
-   "id": "50037742",
-   "name": "208 FC U-14 26/27"
+   "club": "Idaho Rush Soccer Club",
+   "id": "50008080",
+   "name": "Idaho Rush U14 Azul"
   },
   {
    "club": "PVSC United (GCYSL)",
    "id": "40084260",
    "name": "PVSC U14 Girls- Contreras"
+  },
+  {
+   "club": "TF Rapids SC",
+   "id": "50008086",
+   "name": "Rapids SC U14G"
   },
   {
    "club": "Sugar City Soccer League",
@@ -191,6 +166,31 @@
    "name": "2026 Fall U14 Girls"
   },
   {
+   "club": "Idaho Inferno Soccer Club",
+   "id": "50021165",
+   "name": "U13/U14 Girls Inferno Liga"
+  },
+  {
+   "club": "Sun Valley Soccer Club",
+   "id": "50021167",
+   "name": "Sun Valley Soccer Club - U14 Girls"
+  },
+  {
+   "club": "Project 208",
+   "id": "50037742",
+   "name": "208 FC U-14 26/27"
+  },
+  {
+   "club": "Indie Chicas",
+   "id": "50037745",
+   "name": "U14 Black Indie Chicas"
+  },
+  {
+   "club": "ALBION SC Idaho",
+   "id": "50021164",
+   "name": "ALBION SC IDAHO GU14 Academy"
+  },
+  {
    "club": "Real Soccer Club",
    "id": "50008085",
    "name": "Real Eagle CF U14G - Utah Royals"
@@ -209,6 +209,11 @@
    "club": "Idaho Inferno Soccer Club",
    "id": "40057910",
    "name": "U14 G Inferno Team #03 Kimball"
+  },
+  {
+   "club": "Idaho Youth Soccer Association",
+   "id": "50054497",
+   "name": "Idaho ODP 2013 Girls"
   },
   {
    "club": "Idaho Rush Soccer Club",

@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-10T15:37:19.113324+00:00",
+ "fetched_at": "2026-11-17T16:49:43.341584+00:00",
  "state": "KS",
  "state_slug": "kansas",
  "teams": [
@@ -9,6 +9,16 @@
    "club": "KC Athletics",
    "id": "50051284",
    "name": "Kansas City Athletics ECNL G2012/13"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "50051291",
+   "name": "Kansas City Surf Blue ECNL-RL G2012/13"
+  },
+  {
+   "club": "FC Wichita",
+   "id": "40091944",
+   "name": "Red ECNL RL G2012/13"
   },
   {
    "club": "Sporting Blue Valley",
@@ -26,19 +36,9 @@
    "name": "Wichita Surf U14G Elite"
   },
   {
-   "club": "Kansas City Surf",
-   "id": "50051291",
-   "name": "Kansas City Surf BLUE ECNL RL G2012/13"
-  },
-  {
-   "club": "FC Wichita",
-   "id": "40091944",
-   "name": "Red ECNL RL G2012/13"
-  },
-  {
-   "club": "Sporting Blue Valley",
-   "id": "40019685",
-   "name": "SBV Boca 12/13"
+   "club": "Wichita Surf Soccer Club",
+   "id": "40076550",
+   "name": "WICHITA SURF ELITE 12/13G"
   },
   {
    "club": "Toca Fusion Athletic Club",
@@ -46,14 +46,19 @@
    "name": "Toca Fusion Elite ECNL RL G2012/13"
   },
   {
-   "club": "Toca Fusion Athletic Club",
-   "id": "40091977",
-   "name": "Toca Fusion Premier ECNL RL G2012/13"
+   "club": "Wichita Surf Soccer Club",
+   "id": "50021355",
+   "name": "WICHITA SURF ACADEMY 12/13G"
   },
   {
-   "club": "KC Legends",
-   "id": "50051279",
-   "name": "Aspire 12/13"
+   "club": "Sporting Wichita",
+   "id": "50009112",
+   "name": "Sporting Wichita U14G N1L Academy"
+  },
+  {
+   "club": "DERBY UNITED",
+   "id": "50009116",
+   "name": "DERBY UNITED CRUSH 12/13G"
   },
   {
    "club": "Kansas Rush",
@@ -62,68 +67,13 @@
   },
   {
    "club": "Sporting Wichita",
-   "id": "50009112",
-   "name": "Sporting Wichita U14G N1L Academy"
-  },
-  {
-   "club": "Kansas Rush",
-   "id": "40091990",
-   "name": "Blue ECNL RL G2012/13"
-  },
-  {
-   "club": "Kansas City Surf",
-   "id": "40092000",
-   "name": "ECNL RL G2012/13"
-  },
-  {
-   "club": "Basehor Bobcats FC",
-   "id": "50009117",
-   "name": "Bobcats FC U14G"
-  },
-  {
-   "club": "Sporting Blue Valley",
-   "id": "50051292",
-   "name": "Sporting Blue Valley ECNL RL G2012/13"
-  },
-  {
-   "club": "Union KC Soccer Club",
-   "id": "50051278",
-   "name": "Aspire 12/13 Red"
-  },
-  {
-   "club": "FC Wichita",
-   "id": "40091949",
-   "name": "Navy ECNL RL G2012/13"
-  },
-  {
-   "club": "KC Athletics",
-   "id": "50051293",
-   "name": "Kansas City Athletics ECNL RL G2012/13"
-  },
-  {
-   "club": "Kansas City Surf",
-   "id": "40019557",
-   "name": "KANSAS CITY SURF N1 G2012/13 (KS)"
-  },
-  {
-   "club": "Wichita Surf Soccer Club",
-   "id": "40076550",
-   "name": "WICHITA SURF ELITE 12/13G"
-  },
-  {
-   "club": "Wichita Surf Soccer Club",
-   "id": "50021355",
-   "name": "WICHITA SURF ACADEMY 12/13G"
-  },
-  {
-   "club": "DERBY UNITED",
-   "id": "50009116",
-   "name": "DERBY UNITED CRUSH 12/13G"
-  },
-  {
-   "club": "Sporting Wichita",
    "id": "40076246",
    "name": "SPORTING WICHITA U14G PRE-ACADEMY"
+  },
+  {
+   "club": "Toca Fusion Athletic Club",
+   "id": "40091977",
+   "name": "Toca Fusion Premier ECNL RL G2012/13"
   },
   {
    "club": "Wichita Regional Soccer Association",
@@ -136,6 +86,16 @@
    "name": "DERBY UNITED DASH 12/13G"
   },
   {
+   "club": "Basehor Bobcats FC",
+   "id": "50009117",
+   "name": "Bobcats FC U14G"
+  },
+  {
+   "club": "KC Legends",
+   "id": "50051279",
+   "name": "Aspire 12/13"
+  },
+  {
    "club": "Dodge City Toros FC",
    "id": "40076348",
    "name": "DODGE CITY TOROS FC 12G"
@@ -146,9 +106,34 @@
    "name": "Azzurri U14G Academy"
   },
   {
+   "club": "Sporting Blue Valley",
+   "id": "50051292",
+   "name": "Sporting Blue Valley ECNL RL G2012/13"
+  },
+  {
+   "club": "Kansas Rush",
+   "id": "40091990",
+   "name": "Blue ECNL RL G2012/13"
+  },
+  {
    "club": "VC Fusion",
    "id": "50009113",
    "name": "VC Fusion U14G"
+  },
+  {
+   "club": "Sporting Blue Valley",
+   "id": "40019685",
+   "name": "SBV Boca 12/13"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "40092000",
+   "name": "ECNL RL G2012/13"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "50051293",
+   "name": "Kansas City Athletics ECNL RL G2012/13"
   },
   {
    "club": "WRSA Independents",
@@ -166,6 +151,16 @@
    "name": "AZTECA U14G"
   },
   {
+   "club": "FC Wichita",
+   "id": "40091949",
+   "name": "Navy ECNL RL G2012/13"
+  },
+  {
+   "club": "Union KC Soccer Club",
+   "id": "50051278",
+   "name": "Aspire 12/13 Red"
+  },
+  {
    "club": "NEWTON RAILERS",
    "id": "40076308",
    "name": "NEWTON RAILERS 12G"
@@ -176,13 +171,23 @@
    "name": "LADY RAPTORS U14"
   },
   {
+   "club": "Kansas Rush",
+   "id": "50051287",
+   "name": "Kansas Rush Nero U14G"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "40019557",
+   "name": "KANSAS CITY SURF N1 G2012/13 (KS)"
+  },
+  {
    "club": "McPherson City FC",
    "id": "40076332",
    "name": "Kansas Blast 12 Girls"
   },
   {
    "club": "Union KC Soccer Club",
-   "id": "40004465",
+   "id": "50054095",
    "name": "Union KC 12/13G Premier"
   },
   {
@@ -239,11 +244,6 @@
    "club": "KC Athletics",
    "id": "50051288",
    "name": "KC Athletics Shamrock Rovers u14G"
-  },
-  {
-   "club": "Kansas Rush",
-   "id": "50051287",
-   "name": "Kansas Rush Nero U14G"
   },
   {
    "club": "Union KC Soccer Club",
@@ -304,6 +304,16 @@
    "club": "KC Surf",
    "id": "40101512",
    "name": "KC Surf U14G Blue"
+  },
+  {
+   "club": "Toca Fusion",
+   "id": "40102085",
+   "name": "Toca Fusion Elite"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "40102087",
+   "name": "KC Athletics 14G Premier"
   },
   {
    "club": "Kansas City Surf",
@@ -379,6 +389,31 @@
    "club": "Sporting City",
    "id": "50051283",
    "name": "Sporting City U14G Blue - North"
+  },
+  {
+   "club": "KC Legends",
+   "id": "50054094",
+   "name": "LS Legends Phoenix G12/13"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "40202717",
+   "name": "KC SURF BLUE U14G"
+  },
+  {
+   "club": "Northeast United SC",
+   "id": "40202737",
+   "name": "PSC 13/14 G Bulldogs"
+  },
+  {
+   "club": "GCS FUTBOL CLUB",
+   "id": "40203258",
+   "name": "GC SPORTING FC 13/14G"
+  },
+  {
+   "club": "Kansas Rush",
+   "id": "40204115",
+   "name": "Kansas Rush U13G"
   }
  ]
 }

@@ -1,14 +1,19 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-10T16:10:29.200259+00:00",
+ "fetched_at": "2026-11-17T17:23:03.954709+00:00",
  "state": "OH",
  "state_slug": "ohio",
  "teams": [
   {
-   "club": "Ambassadors FC",
-   "id": "50015883",
-   "name": "Ambassadors FC 2012 Girls Blue"
+   "club": "Canfield Soccer Club",
+   "id": "50015889",
+   "name": "Canfield- U14 Girls"
+  },
+  {
+   "club": "Liberty Benton SA",
+   "id": "40068669",
+   "name": "LB Lady Eagles 2011/2012"
   },
   {
    "club": "Clinton Massie SAY Premier",
@@ -21,79 +26,14 @@
    "name": "Ashland United"
   },
   {
-   "club": "Dayton Futbol Academy",
-   "id": "50015886",
-   "name": "DFA 2012/2013G Elite"
-  },
-  {
-   "club": "Eclipse FC",
-   "id": "50029440",
-   "name": "Eclipse FC Thunder"
-  },
-  {
-   "club": "Riverdale SC",
-   "id": "50052985",
-   "name": "RSC Elite 14G"
-  },
-  {
-   "club": "Elite FC",
-   "id": "50015898",
-   "name": "Elite FC U15 Girls Trapped"
-  },
-  {
-   "club": "Cuyahoga Valley Soccer Academy",
-   "id": "50015888",
-   "name": "Cuyahoga Valley Soccer Academy G2012/13 Red"
-  },
-  {
-   "club": "Canfield Soccer Club",
-   "id": "50015889",
-   "name": "Canfield- U14 Girls"
-  },
-  {
-   "club": "Legend SC",
-   "id": "50044261",
-   "name": "Legend SC U14/15 Girls"
-  },
-  {
-   "club": "Dayton Futbol Academy",
-   "id": "40042100",
-   "name": "DFA 2012/2013G Premier"
-  },
-  {
-   "club": "Lawrenceburg Greendale Soccer Club",
-   "id": "50015885",
-   "name": "LGSC Ambush"
-  },
-  {
-   "club": "PC United SC",
-   "id": "40042056",
-   "name": "PC United SC G12/13"
-  },
-  {
-   "club": "Liberty Benton SA",
-   "id": "40068669",
-   "name": "LB Lady Eagles 2011/2012"
-  },
-  {
-   "club": "GFSC Geauga Federation Soccer Club",
-   "id": "50044259",
-   "name": "GFSC U14/U15G D3 East"
-  },
-  {
-   "club": "Akron Metro Futbol Club",
-   "id": "40072900",
-   "name": "AMFC-GAFC U14/15 Girls Gold"
+   "club": "Ambassadors FC",
+   "id": "50015883",
+   "name": "Ambassadors FC 2012 Girls Blue"
   },
   {
    "club": "Sebring West Branch Soccer League",
    "id": "50015893",
    "name": "SWBSL U14G 2026"
-  },
-  {
-   "club": "Cincy SC",
-   "id": "40055063",
-   "name": "Cincy SC G12-13 Orange"
   },
   {
    "club": "Niles Youth Soccer League",
@@ -116,24 +56,14 @@
    "name": "Boardman 2012/13 Girls"
   },
   {
-   "club": "Freedom Soccer Club",
-   "id": "50022181",
-   "name": "FREEDOM U15 Girls"
+   "club": "Riverdale SC",
+   "id": "50052985",
+   "name": "RSC Elite 14G"
   },
   {
-   "club": "Poland Youth SA",
-   "id": "50015890",
-   "name": "Poland Bulldogs Girls 2012-2013"
-  },
-  {
-   "club": "Johnstown FC",
-   "id": "50052984",
-   "name": "Johnstown FC U14 Girls"
-  },
-  {
-   "club": "Glass City SC",
-   "id": "40068712",
-   "name": "Glass City Girls U15"
+   "club": "Dayton Futbol Academy",
+   "id": "50015886",
+   "name": "DFA 2012/2013G Elite"
   },
   {
    "club": "Club Ohio",
@@ -141,9 +71,104 @@
    "name": "Club Ohio North U15G Green"
   },
   {
+   "club": "Elite FC",
+   "id": "50015898",
+   "name": "Elite FC U15 Girls Trapped"
+  },
+  {
+   "club": "Eclipse FC",
+   "id": "50029440",
+   "name": "Eclipse FC Thunder"
+  },
+  {
+   "club": "Poland Youth SA",
+   "id": "50015890",
+   "name": "Poland Bulldogs Girls 2012-2013"
+  },
+  {
+   "club": "Dayton Futbol Academy",
+   "id": "40042100",
+   "name": "DFA 2012/2013G Premier"
+  },
+  {
+   "club": "Cuyahoga Valley Soccer Academy",
+   "id": "50015888",
+   "name": "Cuyahoga Valley Soccer Academy G2012/13 Red"
+  },
+  {
+   "club": "PC United SC",
+   "id": "40042056",
+   "name": "PC United SC G12/13"
+  },
+  {
+   "club": "GFSC Geauga Federation Soccer Club",
+   "id": "50044259",
+   "name": "GFSC U14/U15G D3 East"
+  },
+  {
+   "club": "Legend SC",
+   "id": "50044261",
+   "name": "Legend SC U14/15 Girls"
+  },
+  {
+   "club": "Lawrenceburg Greendale Soccer Club",
+   "id": "50015885",
+   "name": "LGSC Ambush"
+  },
+  {
+   "club": "Akron Metro Futbol Club",
+   "id": "40072900",
+   "name": "AMFC-GAFC U14/15 Girls Gold"
+  },
+  {
+   "club": "Glass City SC",
+   "id": "40068712",
+   "name": "Glass City Girls U15"
+  },
+  {
+   "club": "Cincy SC",
+   "id": "40055063",
+   "name": "Cincy SC G12-13 Orange"
+  },
+  {
+   "club": "Freedom Soccer Club",
+   "id": "50022181",
+   "name": "FREEDOM U15 Girls"
+  },
+  {
+   "club": "Johnstown FC",
+   "id": "50052984",
+   "name": "Johnstown FC U14 Girls"
+  },
+  {
+   "club": "FC Storm",
+   "id": "50025114",
+   "name": "FC Storm G2011/12 Premier"
+  },
+  {
+   "club": "Club Ohio",
+   "id": "40006988",
+   "name": "Club Ohio East U15G Green 1"
+  },
+  {
+   "club": "Total Futbol Academy (OH)",
+   "id": "50022175",
+   "name": "TFA N1 G2011-12 Elite OH"
+  },
+  {
    "club": "Cincinnati Elite FC",
    "id": "50015873",
    "name": "ECNL RL G2011/12"
+  },
+  {
+   "club": "Club Ohio",
+   "id": "50015874",
+   "name": "Aspire 11/12"
+  },
+  {
+   "club": "Sporting Queen City",
+   "id": "50022176",
+   "name": "Sporting Queen City N1 G2011/12 Premier (OH)"
   },
   {
    "club": "FC Dayton",
@@ -151,9 +176,49 @@
    "name": "ECNL RL G2011/12"
   },
   {
+   "club": "Cincinnati United Soccer Club",
+   "id": "50015876",
+   "name": "CUSC GU15 Premier Red"
+  },
+  {
+   "club": "Cincinnati United Soccer Club",
+   "id": "50015877",
+   "name": "U15G DPL"
+  },
+  {
+   "club": "Kings Hammer Columbus",
+   "id": "50015878",
+   "name": "KHE Columbus GU15 DPL"
+  },
+  {
+   "club": "Cincinnati Elite FC",
+   "id": "40007030",
+   "name": "Cincinnati Elite FC GU15 Gold (2011/12)"
+  },
+  {
+   "club": "Cincinnati United Soccer Club",
+   "id": "40007054",
+   "name": "CUSC GU15 North Elite 1"
+  },
+  {
+   "club": "Cincinnati West",
+   "id": "50015879",
+   "name": "CWSC N1 G2011/12 Academy Elite (OH)"
+  },
+  {
    "club": "Mercury",
    "id": "50015895",
    "name": "ECNL RL G2011/12"
+  },
+  {
+   "club": "Mercury",
+   "id": "50022177",
+   "name": "Mercury G2011/12 N1"
+  },
+  {
+   "club": "Cincy SC",
+   "id": "50022178",
+   "name": "Cincy SC G11-12 Premier"
   },
   {
    "club": "Columbus Force SC",
@@ -164,6 +229,16 @@
    "club": "Ohio Galaxies FC",
    "id": "50015897",
    "name": "ECNL RL G2011/12"
+  },
+  {
+   "club": "Ambassadors FC",
+   "id": "50024133",
+   "name": "Ambassadors FC 2012 Girls White"
+  },
+  {
+   "club": "Pride Soccer Club",
+   "id": "50015884",
+   "name": "PRIDE SC 2011/2012G Copa"
   },
   {
    "club": "Riverside Youth Soccer Club",
@@ -184,6 +259,11 @@
    "club": "Franklin Youth Soccer Association",
    "id": "40054704",
    "name": "FYSA Eagles Girls"
+  },
+  {
+   "club": "Club Ohio",
+   "id": "40071003",
+   "name": "GA 11/12"
   },
   {
    "club": "Ohio Strikers United",
@@ -281,6 +361,16 @@
    "name": "Ohio Elite SA ECNL RL G2011/12"
   },
   {
+   "club": "Manta United Soccer Club",
+   "id": "40116074",
+   "name": "Manta ECNL RL G2012/13 white"
+  },
+  {
+   "club": "Canton Akron United Force",
+   "id": "40119736",
+   "name": "CAU ECNLRL U15 G2011/2012"
+  },
+  {
    "club": "Bad Beaches",
    "id": "40132074",
    "name": "Bad Beaches"
@@ -364,6 +454,11 @@
    "club": "Eastside Kickers Soccer Club",
    "id": "40189831",
    "name": "ESK Girls GU14"
+  },
+  {
+   "club": "Greene County Cosmos",
+   "id": "40202693",
+   "name": "GC Cosmos G2011/2012 Green"
   }
  ]
 }

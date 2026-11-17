@@ -1,20 +1,10 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-10T16:12:29.047176+00:00",
+ "fetched_at": "2026-11-17T17:25:02.359889+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
-  {
-   "club": "Oklahoma Energy FC",
-   "id": "50016266",
-   "name": "OK Energy FC ECNL G2010/11"
-  },
-  {
-   "club": "West Side Alliance SC",
-   "id": "50016267",
-   "name": "West Side Alliance ECNL G2010/11"
-  },
   {
    "club": "Oklahoma Celtic",
    "id": "40070690",
@@ -24,6 +14,16 @@
    "club": "Tulsa Soccer Club",
    "id": "40071046",
    "name": "GA 10/11"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "50016266",
+   "name": "OK Energy FC ECNL G2010/11"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "50016267",
+   "name": "West Side Alliance ECNL G2010/11"
   },
   {
    "club": "Oklahoma Energy FC",
@@ -41,14 +41,9 @@
    "name": "OK Energy FC Texas ECNL RL G2010/11"
   },
   {
-   "club": "FC Tulsa Academy",
-   "id": "50016269",
-   "name": "FC Tulsa Academy ECNL RL G2010/11"
-  },
-  {
-   "club": "West Side Alliance SC",
-   "id": "40091963",
-   "name": "West Side Alliance OKC ECNL RL G2010/11"
+   "club": "Oklahoma Celtic",
+   "id": "50016265",
+   "name": "Oklahoma Celtic N1 G2010/2011 White (OK)"
   },
   {
    "club": "West Side Alliance SC",
@@ -56,9 +51,9 @@
    "name": "West Side Alliance ECNL RL G2010/11"
   },
   {
-   "club": "Oklahoma Celtic",
-   "id": "50016265",
-   "name": "Oklahoma Celtic N1 G2010/2011 White (OK)"
+   "club": "FC Tulsa Academy",
+   "id": "50016269",
+   "name": "FC Tulsa Academy ECNL RL G2010/11"
   },
   {
    "club": "Midwest City SC",
@@ -66,9 +61,14 @@
    "name": "Vision 2011G Karnes"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40091985",
-   "name": "ECNL RL G2010/11"
+   "club": "West Side Alliance SC",
+   "id": "40091963",
+   "name": "West Side Alliance OKC ECNL RL G2010/11"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "50044490",
+   "name": "OK Energy FC G11 White N1"
   },
   {
    "club": "South Lakes SC",
@@ -76,9 +76,9 @@
    "name": "Oklahoma Cosmos ECNL RL G2010/11"
   },
   {
-   "club": "Oklahoma Energy FC",
-   "id": "50044490",
-   "name": "OK Energy FC G11 White N1"
+   "club": "Broken Arrow Soccer Club",
+   "id": "40091985",
+   "name": "ECNL RL G2010/11"
   },
   {
    "club": "Tulsa Soccer Club",
@@ -139,6 +139,11 @@
    "club": "Oklahoma Celtic",
    "id": "40113687",
    "name": "NYSA G1001 - Lions"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "40113971",
+   "name": "BASC Express ECNL RL G2010/11"
   },
   {
    "club": "Oklahoma Energy FC",

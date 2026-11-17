@@ -1,10 +1,15 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-10T15:33:38.934477+00:00",
+ "fetched_at": "2026-11-17T16:46:03.377982+00:00",
  "state": "IN",
  "state_slug": "indiana",
  "teams": [
+  {
+   "club": "Indy Premier SC",
+   "id": "50008826",
+   "name": "GA 12/13"
+  },
   {
    "club": "Indy Eleven Academy",
    "id": "50008830",
@@ -17,11 +22,6 @@
   },
   {
    "club": "Indy Premier SC",
-   "id": "50008826",
-   "name": "GA 12/13"
-  },
-  {
-   "club": "Indy Premier SC",
    "id": "40071880",
    "name": "Aspire 12/13 FWU"
   },
@@ -31,14 +31,14 @@
    "name": "NWI Lions United ECNL RL G2012/13"
   },
   {
-   "club": "Indy Eleven North",
-   "id": "50038797",
-   "name": "IXI North 12/13G N1"
-  },
-  {
    "club": "Indy Premier SC",
    "id": "50008819",
    "name": "Aspire 12/13"
+  },
+  {
+   "club": "Indy Eleven North",
+   "id": "50038797",
+   "name": "IXI North 12/13G N1"
   },
   {
    "club": "Indy Eleven North",
@@ -46,14 +46,44 @@
    "name": "ECU/IXI North 12/13G II"
   },
   {
+   "club": "FCE United",
+   "id": "40023594",
+   "name": "FCE United N1 2012/13 Elite I"
+  },
+  {
+   "club": "Indy Eleven Spirit",
+   "id": "50054070",
+   "name": "Indy Eleven Spirit GU14"
+  },
+  {
+   "club": "Fort Wayne Sport Club",
+   "id": "50038800",
+   "name": "FWSC U14G Sandhausen"
+  },
+  {
    "club": "NIFC Academy",
    "id": "50008809",
    "name": "NIFCA N1 G2012/13 Academy (IN)"
   },
   {
-   "club": "FCE United",
-   "id": "40023594",
-   "name": "FCE United N1 2012/13 Elite I"
+   "club": "USAI",
+   "id": "50008822",
+   "name": "USAI 2012G Red"
+  },
+  {
+   "club": "Indy Premier SC",
+   "id": "50008810",
+   "name": "U14G DPL"
+  },
+  {
+   "club": "Warsaw Travel SC",
+   "id": "50038801",
+   "name": "Warsaw Wave Breakers"
+  },
+  {
+   "club": "Westside United FC",
+   "id": "50021298",
+   "name": "WSU Girls 2012/13 Elite"
   },
   {
    "club": "South Central Soccer Academy Eleven",
@@ -66,29 +96,9 @@
    "name": "Indy Eleven ECNL RL G2012/13"
   },
   {
-   "club": "Fort Wayne Sport Club",
-   "id": "50038800",
-   "name": "FWSC U14G Sandhausen"
-  },
-  {
    "club": "Carmel FC",
    "id": "40023577",
    "name": "Carmel FC N1 G2012/13 (IN)"
-  },
-  {
-   "club": "Indiana Impact SC",
-   "id": "50038799",
-   "name": "Impact SC N1 G2012/13 GE1 (IN)"
-  },
-  {
-   "club": "Indy Premier SC",
-   "id": "50008810",
-   "name": "U14G DPL"
-  },
-  {
-   "club": "USAI",
-   "id": "50008822",
-   "name": "USAI 2012G Red"
   },
   {
    "club": "Hoosier Futbol Club",
@@ -96,39 +106,9 @@
    "name": "U14G DPL"
   },
   {
-   "club": "Hoosier Futbol Club",
-   "id": "40023567",
-   "name": "Hoosier FC N1 G2012/13 Elite Wolves I (IN)"
-  },
-  {
-   "club": "FC Pride",
-   "id": "50051124",
-   "name": "FC Pride Elite ECNL RL G2012/13"
-  },
-  {
-   "club": "Westside United FC",
-   "id": "50021298",
-   "name": "WSU Girls 2012/13 Elite"
-  },
-  {
-   "club": "Indy Eleven Academy",
-   "id": "50038796",
-   "name": "Indy Eleven 2013G Regional"
-  },
-  {
-   "club": "Indiana Elite F.C.",
-   "id": "50038810",
-   "name": "Indiana Elite FC ECNL RL G2012/13"
-  },
-  {
-   "club": "Warsaw Travel SC",
-   "id": "50038801",
-   "name": "Warsaw Wave Breakers"
-  },
-  {
-   "club": "Union FC Indy",
-   "id": "50038798",
-   "name": "Union FC Indy N1 G2012/2013 Teal I (IN)"
+   "club": "Indy Premier SC",
+   "id": "50008818",
+   "name": "Indy Premier U14G Elite II (2012/13)"
   },
   {
    "club": "Boilers FC",
@@ -136,9 +116,24 @@
    "name": "Boilers FC 2012/13 Girls Gold"
   },
   {
-   "club": "Indy Premier SC",
-   "id": "50008818",
-   "name": "Indy Premier U14G Elite II (2012/13)"
+   "club": "NorthSide Soccer",
+   "id": "50008828",
+   "name": "NS U14 Girls Lightning"
+  },
+  {
+   "club": "Indiana Impact SC",
+   "id": "50038799",
+   "name": "Impact SC N1 G2012/13 GE1 (IN)"
+  },
+  {
+   "club": "Indy Eleven Academy",
+   "id": "50038796",
+   "name": "Indy Eleven 2013G Regional"
+  },
+  {
+   "club": "Hoosier Futbol Club",
+   "id": "40023567",
+   "name": "Hoosier FC N1 G2012/13 Elite Wolves I (IN)"
   },
   {
    "club": "NWI Lions United",
@@ -146,14 +141,19 @@
    "name": "NWI Lions United U14G Yellow II (2012/13G)"
   },
   {
+   "club": "FC Pride",
+   "id": "50051124",
+   "name": "FC Pride Elite ECNL RL G2012/13"
+  },
+  {
    "club": "Cutters Soccer Club",
    "id": "50038807",
    "name": "Cutters Eleven U14 Girls Red"
   },
   {
-   "club": "Blue River SA",
-   "id": "50008824",
-   "name": "BRSA Blast 14U Girls 2012-2014"
+   "club": "Union FC Indy",
+   "id": "50038798",
+   "name": "Union FC Indy N1 G2012/2013 Teal I (IN)"
   },
   {
    "club": "Indy Eleven Academy",
@@ -161,9 +161,19 @@
    "name": "Indy Eleven 2013G Red"
   },
   {
+   "club": "Blue River SA",
+   "id": "50008824",
+   "name": "BRSA Blast 14U Girls 2012-2014"
+  },
+  {
    "club": "Indy Premier SC",
    "id": "50008816",
    "name": "St Francis Premier U14G Blue"
+  },
+  {
+   "club": "Indiana Elite F.C.",
+   "id": "50038810",
+   "name": "Indiana Elite FC ECNL RL G2012/13"
   },
   {
    "club": "Hendricks Elite FC",
@@ -171,24 +181,9 @@
    "name": "Hendricks Elite FC U14G Gold"
   },
   {
-   "club": "Indiana Impact SC",
-   "id": "50021300",
-   "name": "Impact SC 14U GE2"
-  },
-  {
-   "club": "NWI Lions United",
-   "id": "50008817",
-   "name": "NWI Lions United U13G Yellow II (2013/14G)"
-  },
-  {
    "club": "NIFC Academy",
    "id": "50027555",
    "name": "NIFCA - U14G Navy"
-  },
-  {
-   "club": "Hoosier Futbol Club",
-   "id": "50027556",
-   "name": "Hoosier FC U14G Elite II (2012/13)"
   },
   {
    "club": "Plymouth United FC",
@@ -196,9 +191,14 @@
    "name": "United FC U14G"
   },
   {
-   "club": "Boilers FC",
-   "id": "50008825",
-   "name": "Boilers FC 2012/13 Girls Black"
+   "club": "Indiana Impact SC",
+   "id": "50021300",
+   "name": "Impact SC 14U GE2"
+  },
+  {
+   "club": "FC Pride",
+   "id": "50008827",
+   "name": "FC Pride-Girls Flames"
   },
   {
    "club": "Legacy Blaze FC",
@@ -206,24 +206,24 @@
    "name": "Legacy Blaze FC U14G RED"
   },
   {
-   "club": "Indy Premier SC",
-   "id": "50008814",
-   "name": "Wabash Valley Premier U14G Copa"
+   "club": "Hoosier Futbol Club",
+   "id": "50027556",
+   "name": "Hoosier FC U14G Elite II (2012/13)"
   },
   {
-   "club": "Indy Eleven Spirit",
-   "id": "50038808",
-   "name": "Indy Eleven Spirit GU14 White"
-  },
-  {
-   "club": "Dynamo FC",
-   "id": "50021302",
-   "name": "Dynamo 2012/13 Girls Red"
+   "club": "Boilers FC",
+   "id": "50008825",
+   "name": "Boilers FC 2012/13 Girls Black"
   },
   {
    "club": "Central Indiana Futbol Club",
    "id": "50038804",
    "name": "Central Indiana Futbol Club U14G"
+  },
+  {
+   "club": "Indy Premier SC",
+   "id": "50008814",
+   "name": "Wabash Valley Premier U14G Copa"
   },
   {
    "club": "Indy Premier SC",
@@ -236,14 +236,24 @@
    "name": "Carmel FC 2012G Blue"
   },
   {
+   "club": "Indy Eleven Spirit",
+   "id": "50038808",
+   "name": "Indy Eleven Spirit GU14 White"
+  },
+  {
+   "club": "Dynamo FC",
+   "id": "50021302",
+   "name": "Dynamo 2012/13 Girls Red"
+  },
+  {
+   "club": "NWI Lions United",
+   "id": "50008817",
+   "name": "NWI Lions United U13G Yellow II (2013/14G)"
+  },
+  {
    "club": "USAI",
    "id": "50021301",
    "name": "USAI 2012G White"
-  },
-  {
-   "club": "NorthSide Soccer",
-   "id": "50008828",
-   "name": "NS U14 Girls Lightning"
   },
   {
    "club": "Union FC Indy",
@@ -266,19 +276,14 @@
    "name": "FWU U14G Academy"
   },
   {
-   "club": "NIFC Academy",
-   "id": "50051119",
-   "name": "NIFCA - U14G Red"
-  },
-  {
    "club": "Kokomo Soccer Club",
    "id": "50038805",
    "name": "Kokomo SC 14U Girls"
   },
   {
-   "club": "FC Pride",
-   "id": "50008827",
-   "name": "FC Pride-Girls Flames"
+   "club": "NIFC Academy",
+   "id": "50051119",
+   "name": "NIFCA - U14G Red"
   },
   {
    "club": "Indy Premier SC",
@@ -319,11 +324,6 @@
    "club": "Fort Wayne United FC",
    "id": "40163350",
    "name": "Aspire 12/13"
-  },
-  {
-   "club": "Indy Eleven Spirit",
-   "id": "40179444",
-   "name": "Indy Eleven Spirit GU14"
   }
  ]
 }

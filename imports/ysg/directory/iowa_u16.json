@@ -1,24 +1,29 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-10T15:35:49.041916+00:00",
+ "fetched_at": "2026-11-17T16:48:13.277101+00:00",
  "state": "IA",
  "state_slug": "iowa",
  "teams": [
+  {
+   "club": "VSA Rush",
+   "id": "40071059",
+   "name": "GA 10/11"
+  },
+  {
+   "club": "Sporting Iowa Central",
+   "id": "50008022",
+   "name": "Sporting Iowa ECNL G2010/11"
+  },
   {
    "club": "United Futbol Academy (UFA)",
    "id": "50037531",
    "name": "UFA DSM N1 G2010/11 Elite (IA)"
   },
   {
-   "club": "Rockford Raptors FC",
-   "id": "50023607",
-   "name": "Fuerza Raptors U16G"
-  },
-  {
-   "club": "FK enVISION",
-   "id": "50037530",
-   "name": "FK enVISION N1 G2010/11 (IA)"
+   "club": "Western Iowa Surf",
+   "id": "50008025",
+   "name": "WI Surf U16G Black"
   },
   {
    "club": "WIN Surf",
@@ -26,9 +31,29 @@
    "name": "WIN Surf N1 G2010/11 (IA)"
   },
   {
+   "club": "FK enVISION",
+   "id": "50037530",
+   "name": "FK enVISION N1 G2010/11 (IA)"
+  },
+  {
+   "club": "FC United (Iowa)",
+   "id": "50008024",
+   "name": "U16G"
+  },
+  {
+   "club": "Rockford Raptors FC",
+   "id": "50023607",
+   "name": "Fuerza Raptors U16G"
+  },
+  {
    "club": "Cedar River Soccer Association",
    "id": "50027260",
    "name": "CRSA 2010-2011 Girls"
+  },
+  {
+   "club": "Sporting Iowa Central",
+   "id": "50008023",
+   "name": "Sporting Iowa ECNL RL G2010/11"
   },
   {
    "club": "Sporting Iowa East",
@@ -47,28 +72,8 @@
   },
   {
    "club": "VSA Rush",
-   "id": "40071059",
-   "name": "GA 10/11"
-  },
-  {
-   "club": "VSA Rush",
    "id": "40019483",
    "name": "N1 G2010/11 (IA)"
-  },
-  {
-   "club": "Sporting Iowa Central",
-   "id": "50008022",
-   "name": "Sporting Iowa ECNL G2010/11"
-  },
-  {
-   "club": "FC United (Iowa)",
-   "id": "50008024",
-   "name": "U16G"
-  },
-  {
-   "club": "Sporting Iowa Central",
-   "id": "50008023",
-   "name": "Sporting Iowa ECNL RL G2010/11"
   },
   {
    "club": "FK enVISION",
@@ -94,11 +99,6 @@
    "club": "Carlisle Soccer Club",
    "id": "40101545",
    "name": "CSC U16G"
-  },
-  {
-   "club": "Western Iowa Surf",
-   "id": "50008025",
-   "name": "WI Surf U16G Black"
   },
   {
    "club": "SPRING CREEK FC",

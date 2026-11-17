@@ -1,10 +1,15 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-10T15:57:29.085641+00:00",
+ "fetched_at": "2026-11-17T17:10:04.044648+00:00",
  "state": "NV",
  "state_slug": "nevada",
  "teams": [
+  {
+   "club": "Sporting Nevada USA Magnifico",
+   "id": "50014247",
+   "name": "Magnifico U14G Avila"
+  },
   {
    "club": "LV Heat Surf SC",
    "id": "40090628",
@@ -16,24 +21,9 @@
    "name": "ECNL G2012/13"
   },
   {
-   "club": "Sporting Nevada USA Magnifico",
-   "id": "50014247",
-   "name": "Magnifico U14G Avila"
-  },
-  {
    "club": "Reno APEX Soccer Club",
    "id": "50014258",
    "name": "ECNL RL G2012/13"
-  },
-  {
-   "club": "Albion SC Las Vegas",
-   "id": "50014253",
-   "name": "GA 12/13"
-  },
-  {
-   "club": "Las Vegas Sports Academy",
-   "id": "50014255",
-   "name": "GA 12/13"
   },
   {
    "club": "Sierra Surf SC",
@@ -41,9 +31,9 @@
    "name": "N1 G2012/13 Blue (NV)"
   },
   {
-   "club": "LV Heat Surf SC",
-   "id": "50028847",
-   "name": "ECNL RL G2012/13"
+   "club": "Albion SC Las Vegas",
+   "id": "50014253",
+   "name": "GA 12/13"
   },
   {
    "club": "Nevada Rush",
@@ -51,14 +41,19 @@
    "name": "Nevada Rush U13/14G - Parquette"
   },
   {
+   "club": "Las Vegas Sports Academy",
+   "id": "50014255",
+   "name": "GA 12/13"
+  },
+  {
+   "club": "LV Heat Surf SC",
+   "id": "50028847",
+   "name": "ECNL RL G2012/13"
+  },
+  {
    "club": "Nevada Futbol Club",
    "id": "50014248",
    "name": "Nevada FC N1 G2012/13"
-  },
-  {
-   "club": "Players SC",
-   "id": "50028845",
-   "name": "Players U14 Girls Elite"
   },
   {
    "club": "Las Vegas Storm FC",
@@ -66,9 +61,14 @@
    "name": "Las Vegas Storm FC GU14 N1 Academy"
   },
   {
-   "club": "Nevada Rush",
-   "id": "50028844",
-   "name": "Nevada Rush U13/14G - Vermillion"
+   "club": "Great Basin Youth Soccer League",
+   "id": "50042670",
+   "name": "Bishop All-Stars"
+  },
+  {
+   "club": "LV Heat Surf SC",
+   "id": "40093124",
+   "name": "LV Heat Surf ECNL RL G2012/13"
   },
   {
    "club": "Reno APEX Soccer Club",
@@ -76,9 +76,24 @@
    "name": "N1 G2012/13 NV"
   },
   {
-   "club": "Sporting Nevada USA Magnifico",
-   "id": "50028843",
-   "name": "Magnifico U14G Luevanos"
+   "club": "Players SC",
+   "id": "50028845",
+   "name": "Players U14 Girls Elite"
+  },
+  {
+   "club": "Nevada Futbol Club",
+   "id": "50014251",
+   "name": "Nevada FC 12/13G Select"
+  },
+  {
+   "club": "Nevada Rush",
+   "id": "50028844",
+   "name": "Nevada Rush U13/14G - Vermillion"
+  },
+  {
+   "club": "APD F.C.",
+   "id": "50042672",
+   "name": "APD F.C. South Lake Tahoe 14G"
   },
   {
    "club": "Villarreal Las Vegas Academy",
@@ -86,14 +101,19 @@
    "name": "VILLARREAL LV U14 Yellow Girls"
   },
   {
+   "club": "Sporting Nevada USA Magnifico",
+   "id": "50028843",
+   "name": "Magnifico U14G Luevanos"
+  },
+  {
+   "club": "Carson FC",
+   "id": "50042669",
+   "name": "CFC Valley Lightning U14G"
+  },
+  {
    "club": "Albion SC Las Vegas",
    "id": "50014254",
    "name": "Aspire 12/13"
-  },
-  {
-   "club": "Great Basin Youth Soccer League",
-   "id": "50042670",
-   "name": "Bishop All-Stars"
   },
   {
    "club": "Players SC",
@@ -106,29 +126,9 @@
    "name": "ECNL RL SoCal G2012/13"
   },
   {
-   "club": "Nevada Futbol Club",
-   "id": "50014251",
-   "name": "Nevada FC 12/13G Select"
-  },
-  {
    "club": "The Stars Academy",
    "id": "50021975",
    "name": "U13/14G Fusion Gold"
-  },
-  {
-   "club": "APD F.C.",
-   "id": "50042672",
-   "name": "APD F.C. South Lake Tahoe 14G"
-  },
-  {
-   "club": "Carson FC",
-   "id": "50042669",
-   "name": "CFC Valley Lightning U14G"
-  },
-  {
-   "club": "LV Heat Surf SC",
-   "id": "40093047",
-   "name": "LV Heat Surf ECNL RL SoCal G2012/13"
   },
   {
    "club": "APD F.C.",
@@ -136,19 +136,9 @@
    "name": "APD F.C. U14G Black"
   },
   {
-   "club": "Athletic Soccer Club - Las Vegas",
-   "id": "50028846",
-   "name": "Athletic SC GU14 Select"
-  },
-  {
    "club": "Reno APEX Soccer Club",
    "id": "50014257",
    "name": "GOLD G2012-13"
-  },
-  {
-   "club": "Sierra Surf SC",
-   "id": "50014256",
-   "name": "Sierra Surf U14G White"
   },
   {
    "club": "Great Basin Youth Soccer League",
@@ -156,14 +146,24 @@
    "name": "SCREAMING EAGLES"
   },
   {
-   "club": "Players SC",
-   "id": "40024443",
-   "name": "Players U14 Girls Academy 1"
+   "club": "Sierra Surf SC",
+   "id": "50014256",
+   "name": "Sierra Surf U14G White"
   },
   {
    "club": "LV Heat Surf SC",
-   "id": "40093124",
-   "name": "LV Heat Surf ECNL RL G2012/13"
+   "id": "40093047",
+   "name": "LV Heat Surf ECNL RL SoCal G2012/13"
+  },
+  {
+   "club": "Athletic Soccer Club - Las Vegas",
+   "id": "50028846",
+   "name": "Athletic SC GU14 Select"
+  },
+  {
+   "club": "Players SC",
+   "id": "40024443",
+   "name": "Players U14 Girls Academy 1"
   },
   {
    "club": "Sporting Nevada USA Magnifico",

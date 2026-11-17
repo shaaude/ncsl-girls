@@ -1,10 +1,15 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-11-10T15:26:48.945328+00:00",
+ "fetched_at": "2026-11-17T16:39:13.415429+00:00",
  "state": "GA",
  "state_slug": "georgia",
  "teams": [
+  {
+   "club": "TopHat",
+   "id": "40112052",
+   "name": "GA Gold 09/10"
+  },
   {
    "club": "Gwinnett Soccer Academy",
    "id": "50037349",
@@ -21,6 +26,21 @@
    "name": "Platinum ECNL G2009/10"
   },
   {
+   "club": "YMCA Arsenal Rome",
+   "id": "40058192",
+   "name": "YMCA Arsenal SCCL G2009/10 Red (GA)"
+  },
+  {
+   "club": "Southern Soccer Academy",
+   "id": "40070454",
+   "name": "SSA Swarm GA 09/10"
+  },
+  {
+   "club": "Southern Soccer Academy",
+   "id": "50037342",
+   "name": "SSA Swarm SCCL G2009/10 Coweta Elite-JV (GA)"
+  },
+  {
    "club": "Concorde Fire",
    "id": "50007957",
    "name": "Premier ECNL G2009/10"
@@ -31,44 +51,9 @@
    "name": "ECNL G2009/10"
   },
   {
-   "club": "TopHat",
-   "id": "40112052",
-   "name": "GA Gold 09/10"
-  },
-  {
-   "club": "Inter Atlanta FC",
-   "id": "50007956",
-   "name": "Aspire 09/10"
-  },
-  {
-   "club": "Southern Soccer Academy",
-   "id": "40070454",
-   "name": "SSA Swarm GA 09/10"
-  },
-  {
-   "club": "TopHat",
-   "id": "40112049",
-   "name": "GA Navy 09/10"
-  },
-  {
-   "club": "AFC Lightning",
-   "id": "40071763",
-   "name": "Aspire 09/10"
-  },
-  {
-   "club": "Georgia Impact SC",
-   "id": "50037347",
-   "name": "Aspire 09/10"
-  },
-  {
-   "club": "YMCA Arsenal Rome",
-   "id": "40058192",
-   "name": "YMCA Arsenal SCCL G2009/10 Red (GA)"
-  },
-  {
-   "club": "Southern Soccer Academy",
-   "id": "50007955",
-   "name": "Aspire 09/10"
+   "club": "Athens United SA",
+   "id": "40008027",
+   "name": "U17G DPL"
   },
   {
    "club": "Roswell Santos Soccer Club",
@@ -76,14 +61,9 @@
    "name": "U17G DPL"
   },
   {
-   "club": "Southern Soccer Academy",
-   "id": "50037342",
-   "name": "SSA Swarm SCCL G2009/10 Coweta Elite-JV (GA)"
-  },
-  {
-   "club": "Athens United SA",
-   "id": "40008027",
-   "name": "U17G DPL"
+   "club": "TopHat",
+   "id": "40112049",
+   "name": "GA Navy 09/10"
   },
   {
    "club": "Lanier Soccer Academy",
@@ -96,14 +76,14 @@
    "name": "Pike Fury Swarm FC N1 G2010(GA)"
   },
   {
-   "club": "TopHat",
-   "id": "40112073",
-   "name": "Aspire 09/10"
-  },
-  {
    "club": "Concorde Fire",
    "id": "50007954",
    "name": "CF U17G Alpharetta Elite 1"
+  },
+  {
+   "club": "TopHat",
+   "id": "40112073",
+   "name": "Aspire 09/10"
   },
   {
    "club": "United Futbol Academy",
@@ -121,9 +101,9 @@
    "name": "GSA ECNL RL G2009/10"
   },
   {
-   "club": "Rapids FC (GA)",
-   "id": "40058412",
-   "name": "Rapids FC SCCL G2009/10 Elite (GA)"
+   "club": "Southern Soccer Academy",
+   "id": "50007955",
+   "name": "Aspire 09/10"
   },
   {
    "club": "Gwinnett Soccer Academy",
@@ -141,24 +121,14 @@
    "name": "UFA N1 G2009/10 Red (GA)"
   },
   {
+   "club": "Inter Atlanta FC",
+   "id": "50007956",
+   "name": "Aspire 09/10"
+  },
+  {
    "club": "Concorde Fire",
    "id": "40092995",
    "name": "Platinum ECNL RL G2009/10"
-  },
-  {
-   "club": "Atlanta Fire United",
-   "id": "50037340",
-   "name": "Atlanta Fire United N1 G2009/10 Elite (GA)"
-  },
-  {
-   "club": "Southern Soccer Academy",
-   "id": "50037343",
-   "name": "SSA Swarm SCCL G2009/10 Marietta Elite-GP (GA)"
-  },
-  {
-   "club": "Concorde Fire",
-   "id": "40058773",
-   "name": "CF U17G Central Elite 1"
   },
   {
    "club": "Concorde Fire",
@@ -166,14 +136,34 @@
    "name": "CF U17G South Black"
   },
   {
-   "club": "Augusta Arsenal SC (GA)",
-   "id": "50037335",
-   "name": "Augusta Arsenal U17 Girls DPL"
+   "club": "Concorde Fire",
+   "id": "40058773",
+   "name": "CF U17G Central Elite 1"
+  },
+  {
+   "club": "Rapids FC (GA)",
+   "id": "40058412",
+   "name": "Rapids FC SCCL G2009/10 Elite (GA)"
   },
   {
    "club": "TopHat",
    "id": "40008289",
    "name": "U17G DPL"
+  },
+  {
+   "club": "Southern Soccer Academy",
+   "id": "50037343",
+   "name": "SSA Swarm SCCL G2009/10 Marietta Elite-GP (GA)"
+  },
+  {
+   "club": "Atlanta Fire United",
+   "id": "50037340",
+   "name": "Atlanta Fire United N1 G2009/10 Elite (GA)"
+  },
+  {
+   "club": "Augusta Arsenal SC (GA)",
+   "id": "50037335",
+   "name": "Augusta Arsenal U17 Girls DPL"
   },
   {
    "club": "Gwinnett Soccer Academy",
@@ -186,14 +176,24 @@
    "name": "SSA Swarm U17G DPL"
   },
   {
-   "club": "Inter Atlanta FC",
-   "id": "50025043",
-   "name": "U17G DPL"
-  },
-  {
    "club": "Athens United SA",
    "id": "40059105",
    "name": "AUSA SCCL G 2009/10 Black (GA)"
+  },
+  {
+   "club": "Concorde Fire",
+   "id": "40092994",
+   "name": "Premier ECNL RL G2009/10"
+  },
+  {
+   "club": "Atlanta Fire United",
+   "id": "50037350",
+   "name": "ECNL RL G2009/10"
+  },
+  {
+   "club": "Inter Atlanta FC",
+   "id": "50025043",
+   "name": "U17G DPL"
   },
   {
    "club": "BVB IA Georgia",
@@ -202,28 +202,8 @@
   },
   {
    "club": "Concorde Fire",
-   "id": "40092994",
-   "name": "Premier ECNL RL G2009/10"
-  },
-  {
-   "club": "Concorde Fire",
    "id": "40058772",
    "name": "CF U17G Cobb Black"
-  },
-  {
-   "club": "Atlanta Fire United",
-   "id": "50037350",
-   "name": "ECNL RL G2009/10"
-  },
-  {
-   "club": "United Futbol Academy",
-   "id": "50037346",
-   "name": "UFA Loganville SCCL G2009/10 Gold (GA)"
-  },
-  {
-   "club": "United Futbol Academy",
-   "id": "50037339",
-   "name": "UFA Mountains N1 G2009/10 Red (GA)"
   },
   {
    "club": "Madison Area Youth Soccer Association",
@@ -234,6 +214,16 @@
    "club": "Lanier Soccer Academy",
    "id": "40059032",
    "name": "LSA Gainesville SCCL 2009/10G Navy (GA)"
+  },
+  {
+   "club": "United Futbol Academy",
+   "id": "50037339",
+   "name": "UFA Mountains N1 G2009/10 Red (GA)"
+  },
+  {
+   "club": "United Futbol Academy",
+   "id": "50037346",
+   "name": "UFA Loganville SCCL G2009/10 Gold (GA)"
   },
   {
    "club": "Lanier Soccer Academy",
@@ -251,9 +241,24 @@
    "name": "UFA Norcross SCCL G2009/10 Gold (GA)"
   },
   {
+   "club": "AFC Lightning",
+   "id": "40071763",
+   "name": "Aspire 09/10"
+  },
+  {
+   "club": "Georgia Impact SC",
+   "id": "50037347",
+   "name": "Aspire 09/10"
+  },
+  {
    "club": "Alliance SC",
    "id": "40007974",
    "name": "U17G DPL"
+  },
+  {
+   "club": "Southern Soccer Academy",
+   "id": "40202199",
+   "name": "SSA Swarm U17 GA Aspire"
   }
  ]
 }

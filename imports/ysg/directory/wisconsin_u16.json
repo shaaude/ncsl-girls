@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-10T16:34:29.130191+00:00",
+ "fetched_at": "2026-11-17T17:47:02.365676+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
@@ -23,7 +23,7 @@
   {
    "club": "Elmbrook United",
    "id": "50019762",
-   "name": "Aspire 10/11"
+   "name": "Elmbrook United Aspire 10/11"
   },
   {
    "club": "Croatian Eagles SC",
@@ -31,9 +31,19 @@
    "name": "Aspire 10/11"
   },
   {
+   "club": "North Shore United",
+   "id": "40070758",
+   "name": "GA 10/11"
+  },
+  {
    "club": "Forward Madison FC",
    "id": "50019759",
    "name": "Rally Madison FC U16G N1"
+  },
+  {
+   "club": "FC Wisconsin Girls",
+   "id": "50019765",
+   "name": "FC Wisconsin ECNL G2010/11"
   },
   {
    "club": "Lakeshore United FC",
@@ -46,19 +56,9 @@
    "name": "N1 G 2010/11 Rush (WI)"
   },
   {
-   "club": "SC Wave",
-   "id": "40070629",
-   "name": "GA 10/11"
-  },
-  {
    "club": "River Surge FC",
    "id": "50049764",
    "name": "River Surge FC N1 Girls 16U Blue WI"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "50049765",
-   "name": "Aspire 10/11"
   },
   {
    "club": "Wisconsin United FC",
@@ -66,8 +66,8 @@
    "name": "WIUFC U16 Girls Elite 1"
   },
   {
-   "club": "North Shore United",
-   "id": "40070758",
+   "club": "SC Wave",
+   "id": "40070629",
    "name": "GA 10/11"
   },
   {
@@ -76,19 +76,19 @@
    "name": "BUSC U16 Girls Blue"
   },
   {
-   "club": "Oregon SC",
-   "id": "40018810",
-   "name": "Oregon SC N1 G2010/11/12 Orange (WI)"
-  },
-  {
    "club": "Hartford United SC",
    "id": "50030531",
    "name": "HUSC U16 Girls"
   },
   {
-   "club": "Fond Du Lac SA",
-   "id": "40018831",
-   "name": "Fond Du Lac U16G Phoenix Premier"
+   "club": "Oregon SC",
+   "id": "40018810",
+   "name": "Oregon SC N1 G2010/11/12 Orange (WI)"
+  },
+  {
+   "club": "SC Wave",
+   "id": "40071377",
+   "name": "SC Wave Aspire 10/11"
   },
   {
    "club": "RUSH WI Southeast",
@@ -96,19 +96,9 @@
    "name": "U16 Girls National 1"
   },
   {
-   "club": "FC Wisconsin Girls",
-   "id": "50019765",
-   "name": "FC Wisconsin ECNL G2010/11"
-  },
-  {
    "club": "RUSH Wisconsin",
    "id": "50030530",
    "name": "Rush WI U16 Girls Blue"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "50049766",
-   "name": "G2010/11 WW VSA"
   },
   {
    "club": "North Shore United",
@@ -116,9 +106,14 @@
    "name": "Aspire 10/11"
   },
   {
-   "club": "Croatian Eagles SC",
-   "id": "40018804",
-   "name": "Croatian Eagles 16uG N1"
+   "club": "Madison 56ers",
+   "id": "50049765",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Fond Du Lac SA",
+   "id": "40018831",
+   "name": "Fond Du Lac U16G Phoenix Premier"
   },
   {
    "club": "FC Wisconsin Girls",
@@ -126,9 +121,14 @@
    "name": "FC Wisconsin ECNL RL G2010/11"
   },
   {
-   "club": "SC Wave",
-   "id": "40071377",
-   "name": "SC Wave Aspire 10/11"
+   "club": "Western Wisconsin Soccer",
+   "id": "50049766",
+   "name": "G2010/11 WW VSA"
+  },
+  {
+   "club": "Croatian Eagles SC",
+   "id": "40018804",
+   "name": "Croatian Eagles 16uG N1"
   },
   {
    "club": "Oregon SC",
@@ -199,6 +199,11 @@
    "club": "Lakeshore United FC",
    "id": "40172354",
    "name": "LUFC U16G Navy"
+  },
+  {
+   "club": "WI United",
+   "id": "40202190",
+   "name": "Aspire 10/11"
   }
  ]
 }

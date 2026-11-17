@@ -1,14 +1,19 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-11-10T15:18:39.060542+00:00",
+ "fetched_at": "2026-11-17T16:31:03.465713+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
   {
    "club": "Colorado Rush",
-   "id": "50035195",
-   "name": "Colorado Rush North U12G Select"
+   "id": "40019347",
+   "name": "Colorado Rush N1 G2014/15 (CO)"
+  },
+  {
+   "club": "Colorado United",
+   "id": "50035192",
+   "name": "2014/15G Elite"
   },
   {
    "club": "Real Colorado",
@@ -16,14 +21,24 @@
    "name": "Real Colorado Pre-ECNL National G2014/15"
   },
   {
+   "club": "Colorado Rush",
+   "id": "50035195",
+   "name": "Colorado Rush North U12G Select"
+  },
+  {
+   "club": "Rush Soccer Global",
+   "id": "50005700",
+   "name": "U12 Jr. Select Girls"
+  },
+  {
    "club": "Colorado Storm",
    "id": "50035203",
    "name": "Pre-ECNL G2014/15 ELITE"
   },
   {
-   "club": "Colorado Rush",
-   "id": "40019347",
-   "name": "Colorado Rush N1 G2014/15 (CO)"
+   "club": "Colorado Storm",
+   "id": "50035189",
+   "name": "South U12G Academy I"
   },
   {
    "club": "Colorado Rush",
@@ -31,9 +46,19 @@
    "name": "CO Rush U12G Academy White"
   },
   {
-   "club": "Colorado United",
-   "id": "50035192",
-   "name": "2014/15G Elite"
+   "club": "Colorado EDGE",
+   "id": "50035202",
+   "name": "Colorado EDGE Pre ECNL G2014/2015 Select"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "50035200",
+   "name": "Central Pre-ECNL G2014/15"
+  },
+  {
+   "club": "Colorado EDGE",
+   "id": "50035205",
+   "name": "Colorado EDGE Pre ECNL G2014/2015 United"
   },
   {
    "club": "Colorado Rush",
@@ -47,48 +72,8 @@
   },
   {
    "club": "Colorado Storm",
-   "id": "50035189",
-   "name": "South U12G Academy I"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "50035200",
-   "name": "Central Pre-ECNL G2014/15"
-  },
-  {
-   "club": "Real Colorado",
-   "id": "50035206",
-   "name": "Real Colorado Pre-ECNL Olympico G2014/15"
-  },
-  {
-   "club": "Colorado EDGE",
-   "id": "50035202",
-   "name": "Colorado EDGE Pre ECNL G2014/2015 Select"
-  },
-  {
-   "club": "Pride SC",
-   "id": "50035197",
-   "name": "Pride SC Pre-ECNL G2014/15 Copa"
-  },
-  {
-   "club": "CO Elevation FC",
-   "id": "50035199",
-   "name": "U12G Summit Elite"
-  },
-  {
-   "club": "ALBION SC Boulder County",
-   "id": "50035204",
-   "name": "ALBION SC Colorado GU12 Academy"
-  },
-  {
-   "club": "Skyline",
-   "id": "50035191",
-   "name": "U12G Blue"
-  },
-  {
-   "club": "Colorado EDGE",
-   "id": "50035205",
-   "name": "Colorado EDGE Pre ECNL G2014/2015 United"
+   "id": "50005702",
+   "name": "North Pre-ECNL G2014/15"
   },
   {
    "club": "Colorado Storm",
@@ -101,9 +86,34 @@
    "name": "15G Skyline Academy"
   },
   {
-   "club": "Rush Soccer Global",
-   "id": "50005700",
-   "name": "U12 Jr. Select Girls"
+   "club": "Pride SC",
+   "id": "50035197",
+   "name": "Pride SC Pre-ECNL G2014/15 Copa"
+  },
+  {
+   "club": "Skyline",
+   "id": "50035191",
+   "name": "U12G Blue"
+  },
+  {
+   "club": "Real Colorado",
+   "id": "50035206",
+   "name": "Real Colorado Pre-ECNL Olympico G2014/15"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "50054443",
+   "name": "CR U12G White"
+  },
+  {
+   "club": "CO Elevation FC",
+   "id": "50035199",
+   "name": "U12G Summit Elite"
+  },
+  {
+   "club": "ALBION SC Boulder County",
+   "id": "50035204",
+   "name": "ALBION SC Colorado GU12 Academy"
   },
   {
    "club": "Real Colorado",
@@ -134,11 +144,6 @@
    "club": "Colorado Rush",
    "id": "50005701",
    "name": "Pre-ECNL G2014/15 Blue"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "50005702",
-   "name": "North Pre-ECNL G2014/15"
   },
   {
    "club": "Colorado Storm",
@@ -281,11 +286,6 @@
    "name": "North U12G Black I"
   },
   {
-   "club": "Colorado Storm",
-   "id": "40144243",
-   "name": "CR U12G White"
-  },
-  {
    "club": "Colorado Rush",
    "id": "40144265",
    "name": "Colorado Rush Mountain U12G Blue"
@@ -414,6 +414,11 @@
    "club": "City SC NOCO",
    "id": "40191911",
    "name": "Inspire 14/15"
+  },
+  {
+   "club": "Durango United",
+   "id": "40204340",
+   "name": "Durango Rapids SC U12G Avalanche"
   }
  ]
 }

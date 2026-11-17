@@ -1,18 +1,23 @@
 {
  "age": "GU17",
  "age_slug": "u17",
- "fetched_at": "2026-11-10T16:07:09.159926+00:00",
+ "fetched_at": "2026-11-17T17:19:42.406749+00:00",
  "state": "NC",
  "state_slug": "north-carolina",
  "teams": [
+  {
+   "club": "Charlotte Independence SC",
+   "id": "50012614",
+   "name": "GA 09/10"
+  },
   {
    "club": "Charlotte Soccer Academy",
    "id": "50012627",
    "name": "Charlotte SA ECNL G2009/10"
   },
   {
-   "club": "Charlotte Independence SC",
-   "id": "50012614",
+   "club": "Triangle United",
+   "id": "50012617",
    "name": "GA 09/10"
   },
   {
@@ -26,24 +31,24 @@
    "name": "GA 09/10"
   },
   {
-   "club": "NC Fusion",
-   "id": "50012628",
-   "name": "ECNL G2009/10"
-  },
-  {
-   "club": "Wilmington Hammerheads FC",
-   "id": "50012624",
-   "name": "ECNL G2009/10"
-  },
-  {
-   "club": "Triangle United",
-   "id": "50012617",
-   "name": "GA 09/10"
-  },
-  {
    "club": "Wake FC",
    "id": "40070669",
    "name": "GA 09/10"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "50024102",
+   "name": "Charlotte SA White ECNL RL G2009/10"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "40091870",
+   "name": "Charlotte SA Blue ECNL RL G2009/10"
+  },
+  {
+   "club": "NC Fusion",
+   "id": "50012628",
+   "name": "ECNL G2009/10"
   },
   {
    "club": "Carolina Core FC Youth",
@@ -51,24 +56,9 @@
    "name": "GA 09/10"
   },
   {
-   "club": "NCFC Youth",
-   "id": "50012626",
+   "club": "Wilmington Hammerheads FC",
+   "id": "50012624",
    "name": "ECNL G2009/10"
-  },
-  {
-   "club": "Fox Soccer Academy of the Carolinas",
-   "id": "50012619",
-   "name": "Fox Soccer Academy Aspire 09/10"
-  },
-  {
-   "club": "Charlotte Independence SC",
-   "id": "50012615",
-   "name": "Aspire 09/10 North"
-  },
-  {
-   "club": "Wake FC",
-   "id": "50028597",
-   "name": "Aspire 09/10"
   },
   {
    "club": "Neuse River Futbol Alliance",
@@ -76,8 +66,18 @@
    "name": "WYSA Rise N1 G 2009"
   },
   {
-   "club": "Carolina Core FC Youth",
-   "id": "50012622",
+   "club": "AC Sandhills",
+   "id": "50041406",
+   "name": "ACS N1 G 2009 Orange (NC)"
+  },
+  {
+   "club": "Fox Soccer Academy of the Carolinas",
+   "id": "50012619",
+   "name": "Fox Soccer Academy Aspire 09/10"
+  },
+  {
+   "club": "Wake FC",
+   "id": "50028597",
    "name": "Aspire 09/10"
   },
   {
@@ -86,9 +86,24 @@
    "name": "Charlotte SA U17G White 1 N1 NC"
   },
   {
-   "club": "NC Fusion",
-   "id": "40013217",
-   "name": "NC Fusion N1 G 2009/10 WS Gold (NC)"
+   "club": "NCFC Youth",
+   "id": "50012626",
+   "name": "ECNL G2009/10"
+  },
+  {
+   "club": "Charlotte Independence SC",
+   "id": "50012615",
+   "name": "Aspire 09/10 North"
+  },
+  {
+   "club": "Highland FC",
+   "id": "50012629",
+   "name": "Highland FC ECNL RL G2009/10"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012630",
+   "name": "Elite ECNL RL G2009/10"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -96,14 +111,34 @@
    "name": "Charlotte SA U17G Black 1 N1 NC"
   },
   {
-   "club": "AC Sandhills",
-   "id": "50041406",
-   "name": "ACS N1 G 2009 Orange (NC)"
+   "club": "NCFC Youth",
+   "id": "50041407",
+   "name": "NCFCY N1 G 2009 Gold DCH (NC)"
   },
   {
-   "club": "Carolina Velocity FC",
-   "id": "50012613",
-   "name": "Aspire 09/10"
+   "club": "NC Fusion",
+   "id": "50012632",
+   "name": "NC Fusion ECNL RL G2009/10"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012611",
+   "name": "NCFCY N1 G 2009 Gold North (NC)"
+  },
+  {
+   "club": "Wake FC",
+   "id": "40008264",
+   "name": "U17G DPL"
+  },
+  {
+   "club": "Charlotte Development Academy",
+   "id": "50012610",
+   "name": "U17G DPL"
+  },
+  {
+   "club": "Fayetteville SC / Villarreal Force Academy",
+   "id": "50012623",
+   "name": "Villarreal Force Academy N1 G2009/10 (NC)"
   },
   {
    "club": "NCFC Youth",
@@ -112,73 +147,8 @@
   },
   {
    "club": "NCFC Youth",
-   "id": "50041407",
-   "name": "NCFCY N1 G 2009 Gold DCH (NC)"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "50012611",
-   "name": "NCFCY N1 G 2009 Gold North (NC)"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "50024102",
-   "name": "Charlotte SA White ECNL RL G2009/10"
-  },
-  {
-   "club": "Fayetteville SC / Villarreal Force Academy",
-   "id": "50012623",
-   "name": "Villarreal Force Academy N1 G2009/10 (NC)"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "40091870",
-   "name": "Charlotte SA Blue ECNL RL G2009/10"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "50012612",
-   "name": "NCFCY N1 G 2009 United South (NC)"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "50012630",
-   "name": "Elite ECNL RL G2009/10"
-  },
-  {
-   "club": "Highland FC",
-   "id": "50012629",
-   "name": "Highland FC ECNL RL G2009/10"
-  },
-  {
-   "club": "Wake FC",
-   "id": "50028596",
-   "name": "Wake FC N1 G 2009 Academy (NC)"
-  },
-  {
-   "club": "Fox Soccer Academy of the Carolinas",
-   "id": "50041405",
-   "name": "Fox SA N1 G 2009 (NC)"
-  },
-  {
-   "club": "Wake FC",
-   "id": "40008264",
-   "name": "U17G DPL"
-  },
-  {
-   "club": "NC Fusion",
-   "id": "50012632",
-   "name": "NC Fusion ECNL RL G2009/10"
-  },
-  {
-   "club": "Neuse River Futbol Alliance",
-   "id": "40012970",
-   "name": "NRFA N1 G U17 Rise FC Black (NC)"
-  },
-  {
-   "club": "Charlotte Development Academy",
-   "id": "50012610",
-   "name": "U17G DPL"
+   "id": "50012631",
+   "name": "Premier ECNL RL G2009/10"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -186,9 +156,14 @@
    "name": "Charlotte SA Gold ECNL RL G2009/10"
   },
   {
-   "club": "NCFC Youth",
-   "id": "50012631",
-   "name": "Premier ECNL RL G2009/10"
+   "club": "Carolina Core FC Youth",
+   "id": "50012622",
+   "name": "Aspire 09/10"
+  },
+  {
+   "club": "NC Fusion",
+   "id": "40013217",
+   "name": "NC Fusion N1 G 2009/10 WS Gold (NC)"
   },
   {
    "club": "Triangle United",
@@ -201,14 +176,39 @@
    "name": "ECNL RL G2009/10"
   },
   {
+   "club": "NCFC Youth",
+   "id": "50012612",
+   "name": "NCFCY N1 G 2009 United South (NC)"
+  },
+  {
    "club": "Charlotte Independence SC",
    "id": "40007685",
    "name": "U17G DPL"
   },
   {
+   "club": "Carolina Velocity FC",
+   "id": "50012613",
+   "name": "Aspire 09/10"
+  },
+  {
+   "club": "Fox Soccer Academy of the Carolinas",
+   "id": "50041405",
+   "name": "Fox SA N1 G 2009 (NC)"
+  },
+  {
    "club": "Catawba Valley Youth Soccer Association",
    "id": "40091886",
    "name": "Catawba Valley YSA ECNL RL G2009/10"
+  },
+  {
+   "club": "Wake FC",
+   "id": "50028596",
+   "name": "Wake FC N1 G 2009 Academy (NC)"
+  },
+  {
+   "club": "Neuse River Futbol Alliance",
+   "id": "40012970",
+   "name": "NRFA N1 G U17 Rise FC Black (NC)"
   },
   {
    "club": "Sanford Area SL",

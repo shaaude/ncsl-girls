@@ -1,15 +1,10 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-10T15:51:59.219373+00:00",
+ "fetched_at": "2026-11-17T17:04:24.296152+00:00",
  "state": "MO",
  "state_slug": "missouri",
  "teams": [
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50012187",
-   "name": "Navy ECNL G2012/13"
-  },
   {
    "club": "Lou Fusz Athletic",
    "id": "40070662",
@@ -17,12 +12,22 @@
   },
   {
    "club": "St. Louis Scott Gallagher",
-   "id": "50012188",
-   "name": "Green ECNL G2012/13"
+   "id": "50012187",
+   "name": "Navy ECNL G2012/13"
   },
   {
    "club": "St. Louis Development Academy",
    "id": "50012184",
+   "name": "GA 12/13"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "50012188",
+   "name": "Green ECNL G2012/13"
+  },
+  {
+   "club": "Union KC Soccer Club",
+   "id": "50012185",
    "name": "GA 12/13"
   },
   {
@@ -31,9 +36,9 @@
    "name": "Missouri Rush ECNL G2012/13"
   },
   {
-   "club": "Union KC Soccer Club",
-   "id": "50012185",
-   "name": "GA 12/13"
+   "club": "Steamer's Crew Soccer Club",
+   "id": "50012175",
+   "name": "Steamer's Crew N1 G12/13 Blue (MO)"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -41,24 +46,14 @@
    "name": "GA 12/13 White"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50028480",
-   "name": "SLSG MO ECNL RL G2012/13"
-  },
-  {
    "club": "JB Marine Soccer Club",
    "id": "50024065",
    "name": "JB Marine Gold 12/13G"
   },
   {
-   "club": "Steamer's Crew Soccer Club",
-   "id": "50012175",
-   "name": "Steamer's Crew N1 G12/13 Blue (MO)"
-  },
-  {
-   "club": "Kansas City Scott Gallagher",
-   "id": "50028481",
-   "name": "KCSG N1 G2012/13 Elite Navy MO"
+   "club": "St. Louis Scott Gallagher",
+   "id": "50028480",
+   "name": "SLSG MO ECNL RL G2012/13"
   },
   {
    "club": "Sporting Springfield",
@@ -67,13 +62,18 @@
   },
   {
    "club": "Kansas City Scott Gallagher",
-   "id": "50028482",
-   "name": "KCSG N1 G2012/13 Elite Green MO"
+   "id": "50028481",
+   "name": "KCSG N1 G2012/13 Elite Navy MO"
   },
   {
-   "club": "Unified FC",
-   "id": "50012189",
-   "name": "Unified FC N1 G2012/13 Premier (MO)"
+   "club": "Steamer's Crew Soccer Club",
+   "id": "50028484",
+   "name": "Steamer's Crew 12/13G Black"
+  },
+  {
+   "club": "MYSA Independent Teams",
+   "id": "50012159",
+   "name": "Freedom United 13/14"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -86,44 +86,9 @@
    "name": "CarShield Surf N1 Girls 2012/13 (MO)"
   },
   {
-   "club": "Steamer's Crew Soccer Club",
-   "id": "50028484",
-   "name": "Steamer's Crew 12/13G Black"
-  },
-  {
-   "club": "St. Louis Development Academy",
-   "id": "50012168",
-   "name": "Aspire 12/13"
-  },
-  {
-   "club": "Union KC Soccer Club",
-   "id": "50052069",
-   "name": "Union KC N1 G2012/13 Elite (MO)"
-  },
-  {
-   "club": "Missouri Rush",
-   "id": "50012158",
-   "name": "MRSC 12/13G Premier White"
-  },
-  {
-   "club": "Kirkwood United SC",
-   "id": "50012176",
-   "name": "Kirkwood United SC 12/13G Black"
-  },
-  {
    "club": "St. Louis Scott Gallagher",
    "id": "40092281",
    "name": "MO ECNL RL G2012/13"
-  },
-  {
-   "club": "MYSA Independent Teams",
-   "id": "50012159",
-   "name": "Freedom United 13/14"
-  },
-  {
-   "club": "Sporting Lees Summit",
-   "id": "50012190",
-   "name": "SLS Cheetahs"
   },
   {
    "club": "MYSA Independent Teams",
@@ -131,9 +96,74 @@
    "name": "Thundercats 2012G"
   },
   {
+   "club": "Kirkwood United SC",
+   "id": "50012176",
+   "name": "Kirkwood United SC 12/13G Black"
+  },
+  {
+   "club": "Missouri Rush",
+   "id": "50012158",
+   "name": "MRSC 12/13G Premier White"
+  },
+  {
+   "club": "St. Louis Development Academy",
+   "id": "50012168",
+   "name": "Aspire 12/13"
+  },
+  {
+   "club": "Lou Fusz Athletic",
+   "id": "50012174",
+   "name": "N1 G2012/13 Blue Star Liga (MO)"
+  },
+  {
+   "club": "Sporting Lees Summit",
+   "id": "50012190",
+   "name": "SLS Cheetahs"
+  },
+  {
    "club": "Blue Springs Soccer Academy",
    "id": "50028490",
    "name": "BSSA 12/13 SOUL"
+  },
+  {
+   "club": "SCCYSA",
+   "id": "40110046",
+   "name": "U14G Ward"
+  },
+  {
+   "club": "River City FC",
+   "id": "50024069",
+   "name": "River City FC 2012/13G Academy"
+  },
+  {
+   "club": "United Capital City Athletic",
+   "id": "40067227",
+   "name": "United Capital City Athletic U14G"
+  },
+  {
+   "club": "SCCYSA",
+   "id": "40110042",
+   "name": "U14G Kickers"
+  },
+  {
+   "club": "Lou Fusz Athletic",
+   "id": "40043597",
+   "name": "LFA West 12/13G White Star Copa (2031)"
+  },
+  {
+   "club": "Komo FC",
+   "id": "50012164",
+   "name": "Komo FC N1 G2012/13 (MO)"
+  },
+  {
+   "club": "Mineral Area Soccer Club",
+   "id": "40043216",
+   "name": "MASC 2013 Girls - Green Spark"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "40092282",
+   "name": "IL ECNL RL G2012/13"
   },
   {
    "club": "Southwest MO Rush",
@@ -146,64 +176,9 @@
    "name": "Aspire 12/13"
   },
   {
-   "club": "Lou Fusz Athletic",
-   "id": "50012174",
-   "name": "N1 G2012/13 Blue Star Liga (MO)"
-  },
-  {
-   "club": "Union KC Soccer Club",
-   "id": "50052072",
-   "name": "Aspire 12/13 Navy"
-  },
-  {
-   "club": "United Capital City Athletic",
-   "id": "40067227",
-   "name": "United Capital City Athletic U14G"
-  },
-  {
-   "club": "Komo FC",
-   "id": "50012164",
-   "name": "Komo FC N1 G2012/13 (MO)"
-  },
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50012169",
-   "name": "SLSG MO G 2012/2013 Elite Green"
-  },
-  {
-   "club": "Missouri Rush",
-   "id": "50012173",
-   "name": "MRSC N1 G2012/13 Premier Black (MO)"
-  },
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "40092282",
-   "name": "IL ECNL RL G2012/13"
-  },
-  {
-   "club": "Lou Fusz Athletic",
-   "id": "50012163",
-   "name": "LFA 12/13G Blue Star Championship (2031)"
-  },
-  {
-   "club": "River City FC",
-   "id": "50024069",
-   "name": "River City FC 2012/13G Academy"
-  },
-  {
    "club": "Missouri Rush",
    "id": "50012162",
    "name": "MRSC N1 G2012/13 Premier Blue (MO)"
-  },
-  {
-   "club": "JB Marine Soccer Club",
-   "id": "50012172",
-   "name": "JB Marine Green 12/13G"
-  },
-  {
-   "club": "Columbia Rush Soccer Club",
-   "id": "50012183",
-   "name": "Columbia Rush 2012/2013G Blue"
   },
   {
    "club": "St. Louis Development Academy",
@@ -212,13 +187,43 @@
   },
   {
    "club": "Lou Fusz Athletic",
-   "id": "40043597",
-   "name": "LFA West 12/13G White Star Copa (2031)"
+   "id": "50012163",
+   "name": "LFA 12/13G Blue Star Championship (2031)"
   },
   {
-   "club": "Sporting City Soccer Club",
-   "id": "50052071",
-   "name": "Aspire 12/13"
+   "club": "St. Louis Scott Gallagher",
+   "id": "50012169",
+   "name": "SLSG MO G 2012/2013 Elite Green"
+  },
+  {
+   "club": "Union KC Soccer Club",
+   "id": "50052072",
+   "name": "Aspire 12/13 Navy"
+  },
+  {
+   "club": "Missouri Rush",
+   "id": "50012173",
+   "name": "MRSC N1 G2012/13 Premier Black (MO)"
+  },
+  {
+   "club": "JB Marine Soccer Club",
+   "id": "50012172",
+   "name": "JB Marine Green 12/13G"
+  },
+  {
+   "club": "Unified FC",
+   "id": "50012189",
+   "name": "Unified FC N1 G2012/13 Premier (MO)"
+  },
+  {
+   "club": "Columbia Rush Soccer Club",
+   "id": "50012183",
+   "name": "Columbia Rush 2012/2013G Blue"
+  },
+  {
+   "club": "Kansas City Scott Gallagher",
+   "id": "50028482",
+   "name": "KCSG N1 G2012/13 Elite Green MO"
   },
   {
    "club": "Steamer's Crew Soccer Club",
@@ -226,59 +231,14 @@
    "name": "Steamer's Crew 12/13G Gray"
   },
   {
-   "club": "AFA Fillies",
-   "id": "50052082",
-   "name": "AFA Fillies ECNL-RL G2012/13"
-  },
-  {
-   "club": "AFA Fillies",
-   "id": "50012156",
-   "name": "AFA Fillies G2012/13 Azeri"
-  },
-  {
    "club": "St. Louis Youth Soccer Association",
    "id": "50012166",
    "name": "FCGSC Scorpions 12/13G"
   },
   {
-   "club": "St. Louis Stars SC",
-   "id": "50012182",
-   "name": "St. Louis Stars N1 G2012/13 Red (MO)"
-  },
-  {
-   "club": "Missouri Rush",
-   "id": "50052081",
-   "name": "Missouri Rush ECNL RL G2012/13"
-  },
-  {
-   "club": "Southeast United FC",
-   "id": "50028489",
-   "name": "SUFC Dynasty"
-  },
-  {
-   "club": "Kolping Kicks Soccer Club",
-   "id": "50028483",
-   "name": "Kolping SC 12/13G Burke"
-  },
-  {
-   "club": "CarShield FC",
-   "id": "50012180",
-   "name": "CarShield FC 12/13G Academy"
-  },
-  {
-   "club": "Flyers Soccer Club",
-   "id": "50012165",
-   "name": "Flyers SC - 12/13G Simmons"
-  },
-  {
-   "club": "Southwest MO Rush",
-   "id": "50041055",
-   "name": "SWMO Rush White G U14"
-  },
-  {
-   "club": "Lou Fusz Athletic",
-   "id": "50028486",
-   "name": "LFA 12/13G Red Star Ace (2031)"
+   "club": "AFA Fillies",
+   "id": "50052082",
+   "name": "AFA Fillies ECNL-RL G2012/13"
   },
   {
    "club": "Kirkwood United SC",
@@ -286,29 +246,49 @@
    "name": "Kirkwood United SC 12/13G Red"
   },
   {
-   "club": "REAL WC St. Louis Soccer Club",
-   "id": "50024066",
-   "name": "REAL WC St. Louis eXtreme 12/13G"
+   "club": "St. Louis Legends SC",
+   "id": "50012178",
+   "name": "St. Louis Legends 2012/13G Pre-Academy"
   },
   {
-   "club": "SCCYSA",
-   "id": "40110046",
-   "name": "U14G Ward"
+   "club": "Southwest MO Rush",
+   "id": "50041055",
+   "name": "SWMO Rush White G U14"
   },
   {
-   "club": "SCCYSA",
-   "id": "40110042",
-   "name": "U14G Kickers"
+   "club": "Southeast United FC",
+   "id": "50028489",
+   "name": "SUFC Dynasty"
   },
   {
-   "club": "Lou Fusz Athletic",
-   "id": "50012171",
-   "name": "LFA 12/13G Red Star Copa (2031)"
+   "club": "Union KC Soccer Club",
+   "id": "50052069",
+   "name": "Union KC N1 G2012/13 Elite (MO)"
   },
   {
-   "club": "Mineral Area Soccer Club",
-   "id": "40043216",
-   "name": "MASC 2013 Girls - Green Spark"
+   "club": "St. Louis Stars SC",
+   "id": "50012182",
+   "name": "St. Louis Stars N1 G2012/13 Red (MO)"
+  },
+  {
+   "club": "AFA Fillies",
+   "id": "50012156",
+   "name": "AFA Fillies G2012/13 Azeri"
+  },
+  {
+   "club": "Kolping Kicks Soccer Club",
+   "id": "50028483",
+   "name": "Kolping SC 12/13G Burke"
+  },
+  {
+   "club": "Missouri Rush",
+   "id": "50052081",
+   "name": "Missouri Rush ECNL RL G2012/13"
+  },
+  {
+   "club": "Flyers Soccer Club",
+   "id": "50012165",
+   "name": "Flyers SC - 12/13G Simmons"
   },
   {
    "club": "Impact City FC - St Louis",
@@ -316,9 +296,34 @@
    "name": "ICFC St. Charles 12/13G Blue"
   },
   {
-   "club": "Saint Louis Fire FC",
-   "id": "50024067",
-   "name": "Saint Louis Fire FC 2013G Academy - St. Charles"
+   "club": "St. Louis Youth Soccer Association",
+   "id": "50012179",
+   "name": "MO Panthers 12/13G"
+  },
+  {
+   "club": "CarShield FC",
+   "id": "50012180",
+   "name": "CarShield FC 12/13G Academy"
+  },
+  {
+   "club": "Lou Fusz Athletic",
+   "id": "50028486",
+   "name": "LFA 12/13G Red Star Ace (2031)"
+  },
+  {
+   "club": "Sporting City Soccer Club",
+   "id": "50052071",
+   "name": "Aspire 12/13"
+  },
+  {
+   "club": "REAL WC St. Louis Soccer Club",
+   "id": "50024066",
+   "name": "REAL WC St. Louis eXtreme 12/13G"
+  },
+  {
+   "club": "Carl Junction FC",
+   "id": "50041056",
+   "name": "CJFC U14G"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -326,14 +331,19 @@
    "name": "LFA 12/13G Red Star Tango (2031)"
   },
   {
-   "club": "St. Louis Legends SC",
-   "id": "50012178",
-   "name": "St. Louis Legends 2012/13G Pre-Academy"
+   "club": "Saint Louis Fire FC",
+   "id": "50024067",
+   "name": "Saint Louis Fire FC 2013G Academy - St. Charles"
   },
   {
-   "club": "St. Louis Development Academy",
-   "id": "50012177",
-   "name": "STLDA 2012/13G Select"
+   "club": "SCCYSA",
+   "id": "40110071",
+   "name": "U14G Ibex"
+  },
+  {
+   "club": "Lou Fusz Athletic",
+   "id": "50012171",
+   "name": "LFA 12/13G Red Star Copa (2031)"
   },
   {
    "club": "CarShield FC",
@@ -341,19 +351,14 @@
    "name": "CarShield FC 12/13G Navy"
   },
   {
+   "club": "St. Louis Development Academy",
+   "id": "50012177",
+   "name": "STLDA 2012/13G Select"
+  },
+  {
    "club": "Columbia Rush Soccer Club",
    "id": "50028488",
    "name": "Columbia Rush 2012/13G White"
-  },
-  {
-   "club": "St. Louis Youth Soccer Association",
-   "id": "50012179",
-   "name": "MO Panthers 12/13G"
-  },
-  {
-   "club": "SCCYSA",
-   "id": "40110071",
-   "name": "U14G Ibex"
   },
   {
    "club": "Northwest Soccer Club",
@@ -424,11 +429,6 @@
    "club": "St. Louis Stars SC",
    "id": "40102755",
    "name": "St. Louis Stars 12/13 Girls N1L Red"
-  },
-  {
-   "club": "Carl Junction FC",
-   "id": "50041056",
-   "name": "CJFC U14G"
   },
   {
    "club": "EDO",

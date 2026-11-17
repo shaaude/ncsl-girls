@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-11-10T15:29:38.889617+00:00",
+ "fetched_at": "2026-11-17T16:42:03.419695+00:00",
  "state": "ID",
  "state_slug": "idaho",
  "teams": [
@@ -26,14 +26,9 @@
    "name": "Idaho Slammers FC U12G Maroon"
   },
   {
-   "club": "Idaho Inferno Soccer Club",
-   "id": "50008044",
-   "name": "U12 Girls Inferno Copa"
-  },
-  {
-   "club": "Idaho Rush Soccer Club",
-   "id": "50037698",
-   "name": "Idaho Rush U12 Black I"
+   "club": "CGA Academy SC",
+   "id": "50021142",
+   "name": "CGA Academy 12U Girls"
   },
   {
    "club": "IFFC",
@@ -41,24 +36,14 @@
    "name": "IFFC U12G Claret"
   },
   {
+   "club": "Idaho Inferno Soccer Club",
+   "id": "50008044",
+   "name": "U12 Girls Inferno Copa"
+  },
+  {
    "club": "PVSC United (GCYSL)",
    "id": "50037701",
    "name": "PVSC U12 Girls- Semons"
-  },
-  {
-   "club": "CGA Academy SC",
-   "id": "50021142",
-   "name": "CGA Academy 12U Girls"
-  },
-  {
-   "club": "Global Sports Academy",
-   "id": "50037705",
-   "name": "GSA U12G Green 2"
-  },
-  {
-   "club": "Boise Timbers | Thorns",
-   "id": "50021139",
-   "name": "Boise Thorns Elite G2014/15 Two"
   },
   {
    "club": "Idaho Storm",
@@ -66,9 +51,24 @@
    "name": "Idaho Storm Lightning U12G"
   },
   {
-   "club": "Indie Chicas",
-   "id": "50037694",
-   "name": "U12 Black Moore Indie Chicas"
+   "club": "Idaho Rush Soccer Club",
+   "id": "50037698",
+   "name": "Idaho Rush U12 Black I"
+  },
+  {
+   "club": "Global Sports Academy",
+   "id": "50037705",
+   "name": "GSA U12G Green 2"
+  },
+  {
+   "club": "IFFC",
+   "id": "40084197",
+   "name": "IFFC U12G Cobalt - Fielding"
+  },
+  {
+   "club": "Boise Timbers | Thorns",
+   "id": "50021139",
+   "name": "Boise Thorns Elite G2014/15 Two"
   },
   {
    "club": "Palacios Futbol Club (PFC)",
@@ -81,44 +81,14 @@
    "name": "Sting SC 14/15G (U12G) Academy"
   },
   {
-   "club": "Idaho Legends",
-   "id": "50037686",
-   "name": "Idaho Legends - U12G Green 2026-2027"
-  },
-  {
-   "club": "ALBION SC Idaho",
-   "id": "50037688",
-   "name": "ALBION SC IDAHO GU12 Academy"
-  },
-  {
-   "club": "TF Rapids SC",
-   "id": "50021140",
-   "name": "Rapids SC U12G"
-  },
-  {
-   "club": "Global Sports Academy",
-   "id": "50037691",
-   "name": "GSA U12G Black"
-  },
-  {
-   "club": "Sting Soccer Club",
-   "id": "50037682",
-   "name": "Sting SC 14/15G (U12G)"
-  },
-  {
-   "club": "Hells Canyon FC",
-   "id": "50037685",
-   "name": "G2014/15 HCFC Rapids Girls"
+   "club": "Indie Chicas",
+   "id": "50037694",
+   "name": "U12 Black Moore Indie Chicas"
   },
   {
    "club": "Ambush FC",
-   "id": "50037700",
-   "name": "Ambush FC Royals"
-  },
-  {
-   "club": "Ida-Ore Soccer Club",
-   "id": "40057623",
-   "name": "Ida - Ore FC Tigers"
+   "id": "40084136",
+   "name": "Ambush FC Prime"
   },
   {
    "club": "Nampa Premier Soccer Club",
@@ -126,9 +96,14 @@
    "name": "NPSC U12G-Grey"
   },
   {
-   "club": "Sandpoint Strikers FC",
-   "id": "50037684",
-   "name": "Sandpoint Strikers FC G14/15"
+   "club": "Valley Soccer Club",
+   "id": "40084099",
+   "name": "Valley SC U12G Fall 2026"
+  },
+  {
+   "club": "TF Rapids SC",
+   "id": "50021140",
+   "name": "Rapids SC U12G"
   },
   {
    "club": "Boise Timbers | Thorns",
@@ -136,24 +111,69 @@
    "name": "Boise Thorns Elite G2014/15 Three"
   },
   {
-   "club": "Idaho Surf SC",
-   "id": "50037690",
-   "name": "ID Boise Surf U12G Academy"
+   "club": "Sting Soccer Club",
+   "id": "50037682",
+   "name": "Sting SC 14/15G (U12G)"
   },
   {
-   "club": "IFFC",
-   "id": "40084197",
-   "name": "IFFC U12G Cobalt - Fielding"
+   "club": "Ida-Ore Soccer Club",
+   "id": "40057623",
+   "name": "Ida - Ore FC Tigers"
   },
   {
-   "club": "Indie Chicas",
-   "id": "50037693",
-   "name": "U12 Black Naylor Indie Chicas"
+   "club": "Global Sports Academy",
+   "id": "50037691",
+   "name": "GSA U12G Black"
+  },
+  {
+   "club": "Idaho Legends",
+   "id": "50037686",
+   "name": "Idaho Legends - U12G Green 2026-2027"
+  },
+  {
+   "club": "Legacy SC (ID)",
+   "id": "40084269",
+   "name": "LSC U12G"
+  },
+  {
+   "club": "BVB IA Coeur D'Alene",
+   "id": "50037683",
+   "name": "BVB IA CDA G14-16 Black"
+  },
+  {
+   "club": "ALBION SC Idaho",
+   "id": "50037688",
+   "name": "ALBION SC IDAHO GU12 Academy"
+  },
+  {
+   "club": "Sandpoint Strikers FC",
+   "id": "50037684",
+   "name": "Sandpoint Strikers FC G14/15"
+  },
+  {
+   "club": "Ambush FC",
+   "id": "50037700",
+   "name": "Ambush FC Royals"
+  },
+  {
+   "club": "Hells Canyon FC",
+   "id": "50037685",
+   "name": "G2014/15 HCFC Rapids Girls"
   },
   {
    "club": "Idaho Inferno Soccer Club",
    "id": "50021136",
    "name": "U12 Girls Inferno Liga"
+  },
+  {
+   "club": "Upper Valley Soccer Foundation",
+   "id": "40084226",
+   "name": "UVSF United U12 Phillips"
+  },
+  {
+   "club": "Idaho Surf SC",
+   "id": "50037690",
+   "name": "ID Boise Surf U12G Academy"
   },
   {
    "club": "Idaho Surf SC",
@@ -166,9 +186,9 @@
    "name": "UVSF United U12 Bennion"
   },
   {
-   "club": "Ambush FC",
-   "id": "40084136",
-   "name": "Ambush FC Prime"
+   "club": "Indie Chicas",
+   "id": "50037693",
+   "name": "U12 Black Naylor Indie Chicas"
   },
   {
    "club": "North Boise FC",
@@ -176,19 +196,14 @@
    "name": "NBFC u12g Capitol"
   },
   {
-   "club": "Valley Soccer Club",
-   "id": "40084099",
-   "name": "Valley SC U12G Fall 2026"
-  },
-  {
    "club": "Project 208",
    "id": "50021137",
    "name": "208 FC U-12 26/27"
   },
   {
-   "club": "Legacy SC (ID)",
-   "id": "40084269",
-   "name": "LSC U12G"
+   "club": "JYSA Soccer",
+   "id": "40084141",
+   "name": "JYSA Rigby Girls U12"
   },
   {
    "club": "Idaho Rush Soccer Club",
@@ -201,24 +216,9 @@
    "name": "Idaho Legends - U12G Taylor 2026-2027"
   },
   {
-   "club": "BVB IA Coeur D'Alene",
-   "id": "50037683",
-   "name": "BVB IA CDA G14-16 Black"
-  },
-  {
-   "club": "Upper Valley Soccer Foundation",
-   "id": "40084226",
-   "name": "UVSF United U12 Phillips"
-  },
-  {
-   "club": "JYSA Soccer",
-   "id": "40084141",
-   "name": "JYSA Rigby Girls U12"
-  },
-  {
-   "club": "City SC",
-   "id": "40084120",
-   "name": "City SC East Idaho U12G - Orange"
+   "club": "Sugar City Soccer League",
+   "id": "40084137",
+   "name": "Digger Girls 2016"
   },
   {
    "club": "Idaho Surf SC",
@@ -226,24 +226,19 @@
    "name": "ID Boise Surf U11/U12G Blue"
   },
   {
-   "club": "Teton FC",
-   "id": "50037699",
-   "name": "Teton FC U12 Girls \u2022 Bergart"
-  },
-  {
    "club": "Global Sports Academy",
    "id": "50037692",
    "name": "GSA U12G White"
   },
   {
-   "club": "Sugar City Soccer League",
-   "id": "40084137",
-   "name": "Digger Girls 2016"
+   "club": "City SC",
+   "id": "40084120",
+   "name": "City SC East Idaho U12G - Orange"
   },
   {
-   "club": "North Boise FC",
-   "id": "50037695",
-   "name": "NBFC u12g Skyline"
+   "club": "Teton FC",
+   "id": "50037699",
+   "name": "Teton FC U12 Girls \u2022 Bergart"
   },
   {
    "club": "IFFC",
@@ -251,9 +246,24 @@
    "name": "IFFC U12G Cobalt - Dixon/MacDonald"
   },
   {
+   "club": "North Boise FC",
+   "id": "50037695",
+   "name": "NBFC u12g Skyline"
+  },
+  {
    "club": "Nampa Premier Soccer Club",
    "id": "40057905",
    "name": "U11/12G- Parma - Blayock"
+  },
+  {
+   "club": "Idaho Youth Soccer Association",
+   "id": "50054347",
+   "name": "Idaho ODP 2015 Girls"
+  },
+  {
+   "club": "Idaho Youth Soccer Association",
+   "id": "50054348",
+   "name": "Idaho ODP 2015 Girls Team 2"
   },
   {
    "club": "Kuna PAL",

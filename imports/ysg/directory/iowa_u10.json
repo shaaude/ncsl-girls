@@ -1,7 +1,7 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-11-10T15:34:48.942834+00:00",
+ "fetched_at": "2026-11-17T16:47:13.294434+00:00",
  "state": "IA",
  "state_slug": "iowa",
  "teams": [
@@ -11,24 +11,24 @@
    "name": "FK enVISION - U10 Girls"
   },
   {
-   "club": "Quad City Strikers.",
-   "id": "50037419",
-   "name": "Real Strikers FC"
-  },
-  {
    "club": "Bettendorf Soccer Association",
    "id": "50037422",
    "name": "BSA U10 Girls White"
   },
   {
-   "club": "Apex Soccer Academy",
-   "id": "50027147",
-   "name": "Apex Rush 10U Girls Academy Grey"
+   "club": "Quad City Strikers.",
+   "id": "50037419",
+   "name": "Real Strikers FC"
   },
   {
    "club": "Quad City Strikers.",
    "id": "50037420",
    "name": "QC Strikers United"
+  },
+  {
+   "club": "Apex Soccer Academy",
+   "id": "50027147",
+   "name": "Apex Rush 10U Girls Academy Grey"
   },
   {
    "club": "Dubuque Soccer Club",
@@ -41,19 +41,14 @@
    "name": "Iowa Rush North 10U Academy Girls"
   },
   {
-   "club": "North Scott Soccer Club",
-   "id": "50037421",
-   "name": "North Scott Soccer Club U10 Girls - Red"
-  },
-  {
    "club": "FC United (Iowa)",
    "id": "50037430",
    "name": "FC United U10G Navy"
   },
   {
-   "club": "Southeast Soccer Academy",
-   "id": "50037428",
-   "name": "SESA U10 G"
+   "club": "North Scott Soccer Club",
+   "id": "50037421",
+   "name": "North Scott Soccer Club U10 Girls - Red"
   },
   {
    "club": "FK enVISION",
@@ -61,14 +56,9 @@
    "name": "FK enVISION - U9/10 Girls"
   },
   {
-   "club": "Bettendorf Soccer Association",
-   "id": "50037423",
-   "name": "BSA U10 Girls Blue"
-  },
-  {
-   "club": "Muscatine Soccer Club",
-   "id": "50037424",
-   "name": "MSC U9/10G"
+   "club": "Southeast Soccer Academy",
+   "id": "50037428",
+   "name": "SESA U10 G"
   },
   {
    "club": "Apex Soccer Academy",
@@ -76,19 +66,29 @@
    "name": "Apex Rush 9U Girls Academy"
   },
   {
+   "club": "Bettendorf Soccer Association",
+   "id": "50037423",
+   "name": "BSA U10 Girls Blue"
+  },
+  {
    "club": "Dubuque Soccer Club",
    "id": "50027150",
    "name": "GU8/9 White"
   },
   {
-   "club": "Rockford Raptors FC",
-   "id": "50037425",
-   "name": "Fuerza Raptors U10G"
+   "club": "Muscatine Soccer Club",
+   "id": "50037424",
+   "name": "MSC U9/10G"
   },
   {
    "club": "Dubuque Soccer Club",
    "id": "50027148",
    "name": "GU8/9 Red"
+  },
+  {
+   "club": "Rockford Raptors FC",
+   "id": "50037425",
+   "name": "Fuerza Raptors U10G"
   },
   {
    "club": "FC United (Iowa)",
@@ -194,6 +194,11 @@
    "club": "Pearl City Soccer Club",
    "id": "40175959",
    "name": "Pearl City U9/10G"
+  },
+  {
+   "club": "Diablos",
+   "id": "40203324",
+   "name": "Diablos FC U10G"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-10T15:04:38.979547+00:00",
+ "fetched_at": "2026-11-17T16:17:03.311855+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
@@ -19,16 +19,6 @@
    "club": "Richmond United",
    "id": "50019381",
    "name": "ECNL G2010/11"
-  },
-  {
-   "club": "Fairfax Virginia Union",
-   "id": "50019382",
-   "name": "ECNL G2010/11"
-  },
-  {
-   "club": "Beach FC",
-   "id": "50019384",
-   "name": "(VA) ECNL G2010/11"
   },
   {
    "club": "McLean YS",
@@ -56,6 +46,21 @@
    "name": "GA 10/11"
   },
   {
+   "club": "Old Dominion Soccer Club (ODSC)",
+   "id": "50019363",
+   "name": "Old Dominion SC PL G2010/2011 Vanguard (VA)"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50019375",
+   "name": "Arlington Soccer Association ECNL RL G2010/11"
+  },
+  {
+   "club": "Grove United",
+   "id": "40025050",
+   "name": "Grove United N1 G2010/11 Green (VA)"
+  },
+  {
    "club": "Alexandria SA",
    "id": "50019357",
    "name": "GA 10/11"
@@ -66,29 +71,9 @@
    "name": "GA 10/11"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "50019375",
-   "name": "Arlington Soccer Association ECNL RL G2010/11"
-  },
-  {
-   "club": "Northern Virginia Alliance",
-   "id": "50019352",
-   "name": "GA 10/11 (U16)"
-  },
-  {
    "club": "Stafford Soccer",
    "id": "40093379",
    "name": "Stafford Revolution ECNL RL G2010/11"
-  },
-  {
-   "club": "Grove United",
-   "id": "40025050",
-   "name": "Grove United N1 G2010/11 Green (VA)"
-  },
-  {
-   "club": "Colonial Heights SA",
-   "id": "50019347",
-   "name": "Tri Cities United - CHSA N1 G2011 (VA)"
   },
   {
    "club": "Virginia Soccer Association",
@@ -96,14 +81,9 @@
    "name": "VSA ECNL RL G2010/11"
   },
   {
-   "club": "Beach FC",
-   "id": "50019348",
-   "name": "Beach FC ECNL RL G2010/11"
-  },
-  {
-   "club": "Richmond United",
-   "id": "50019386",
-   "name": "Richmond United ECNL RL G2010/11 Orange"
+   "club": "Arlington Soccer Association",
+   "id": "50019371",
+   "name": "Arlington SA N1 G2010/11 White (U16) (VA)"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -111,29 +91,99 @@
    "name": "Aspire 10/11"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "50019371",
-   "name": "Arlington SA N1 G2010/11 White (U16) (VA)"
+   "club": "Beach FC",
+   "id": "50019384",
+   "name": "(VA) ECNL G2010/11"
   },
   {
-   "club": "Virginia Reign",
-   "id": "40093330",
-   "name": "VA Reign FC ECNL RL G2010/11"
+   "club": "Richmond United",
+   "id": "50019386",
+   "name": "Richmond United ECNL RL G2010/11 Orange"
   },
   {
-   "club": "Great Falls Reston Soccer Club",
-   "id": "40093299",
-   "name": "RL G2010/11"
+   "club": "Colonial Heights SA",
+   "id": "50019347",
+   "name": "Tri Cities United - CHSA N1 G2011 (VA)"
   },
   {
-   "club": "Old Dominion Soccer Club (ODSC)",
-   "id": "50019363",
-   "name": "Old Dominion SC PL G2010/2011 Vanguard (VA)"
+   "club": "Northern Virginia Alliance",
+   "id": "50019352",
+   "name": "GA 10/11 (U16)"
+  },
+  {
+   "club": "Beach FC",
+   "id": "50019348",
+   "name": "Beach FC ECNL RL G2010/11"
+  },
+  {
+   "club": "Sterling Youth Soccer Assoc - Travel",
+   "id": "40104207",
+   "name": "STER REIGN LFC Hurricanes"
+  },
+  {
+   "club": "Fairfax Virginia Union",
+   "id": "50019382",
+   "name": "ECNL G2010/11"
+  },
+  {
+   "club": "VA Indpt Soccer Team Assoc - Travel",
+   "id": "40104511",
+   "name": "VISTA HL92 Soccer Academy U16G Pink"
+  },
+  {
+   "club": "Beach FC",
+   "id": "40068309",
+   "name": "Beach FC G2010/11 Pierce Chaos"
+  },
+  {
+   "club": "Braddock Road Youth Club - Travel",
+   "id": "40104091",
+   "name": "BRYC Academy G2010/11 Teal"
+  },
+  {
+   "club": "Central Virginia United SC",
+   "id": "50054747",
+   "name": "U15/U16 Girls Black"
+  },
+  {
+   "club": "FC Richmond",
+   "id": "50019367",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Stafford Soccer",
+   "id": "50019358",
+   "name": "ECNL RL G2010/11 Blue"
+  },
+  {
+   "club": "Virginia Independent Soccer Team Association",
+   "id": "50049131",
+   "name": "VISTA Blackwatch U16G"
   },
   {
    "club": "Virginia Reign",
    "id": "50030291",
    "name": "ECNL RL Girls 2010/2011 Elite"
+  },
+  {
+   "club": "Grove United",
+   "id": "50030293",
+   "name": "Grove United U16G"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50019346",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Virginia Atlantic FC",
+   "id": "50024705",
+   "name": "U16/U15 Girls Academy I"
+  },
+  {
+   "club": "Sterling Soccer Club",
+   "id": "50030283",
+   "name": "Sterling Reign LFC Hurricanes U16"
   },
   {
    "club": "VA United",
@@ -146,114 +196,9 @@
    "name": "RU ORANGE N1 G2010/11 ELITE (VA)"
   },
   {
-   "club": "Richmond United",
-   "id": "50019387",
-   "name": "Richmond United ECNL RL G2010/11 Red"
-  },
-  {
-   "club": "Virginia Valor FC",
-   "id": "50024706",
-   "name": "ECNL RL G2010/11"
-  },
-  {
-   "club": "Prince William Courage",
-   "id": "40093374",
-   "name": "ECNL RL G2010/11"
-  },
-  {
    "club": "Great Falls Reston Soccer Club",
    "id": "50019359",
    "name": "GFR ECNL RL G2010/11"
-  },
-  {
-   "club": "McLean YS",
-   "id": "50019346",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Charlottesville Alliance Sports Club",
-   "id": "50030287",
-   "name": "Charlottesville Alliance U16 N1 G2010/11 Navy (VA)"
-  },
-  {
-   "club": "Vienna Youth Soccer",
-   "id": "50030285",
-   "name": "VYS ECNL RL G2010/11 Phoenix"
-  },
-  {
-   "club": "FC Richmond",
-   "id": "50019367",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Virginia Soccer Association",
-   "id": "50019369",
-   "name": "VSA N1 G2010/11 PREMIER RED (VA)"
-  },
-  {
-   "club": "Lee-Mt. Vernon Sports Club",
-   "id": "40093354",
-   "name": "LMVSC ENCL RL G2010/11"
-  },
-  {
-   "club": "VA Indpt Soccer Team Assoc - Travel",
-   "id": "40104511",
-   "name": "VISTA HL92 Soccer Academy U16G Pink"
-  },
-  {
-   "club": "SOCA",
-   "id": "40093304",
-   "name": "ECNL RL G2010/11 Elite"
-  },
-  {
-   "club": "Freedom FC",
-   "id": "50019354",
-   "name": "Freedom FC N1 G2011/12 (VA)"
-  },
-  {
-   "club": "Virginia Revolution SC",
-   "id": "50019365",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Springfield SYC Soccer",
-   "id": "50019379",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "NVSC",
-   "id": "50019370",
-   "name": "NVSC N1 G2010/11 Blue (VA)"
-  },
-  {
-   "club": "Northern Virginia Alliance",
-   "id": "50019378",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Braddock Road Youth Club",
-   "id": "50049140",
-   "name": "BRYC Academy G2010/11 Teal"
-  },
-  {
-   "club": "Richmond United",
-   "id": "50019360",
-   "name": "RU RED N1 G2010/11 ELITE (VA)"
-  },
-  {
-   "club": "Loudoun Soccer Club",
-   "id": "50030289",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Virginia Atlantic FC",
-   "id": "50024705",
-   "name": "U16/U15 Girls Academy I"
-  },
-  {
-   "club": "Braddock Road Youth Club",
-   "id": "50019388",
-   "name": "BRYC Academy ECNL RL G2010/11"
   },
   {
    "club": "VA Indpt Soccer Team Assoc - Travel",
@@ -261,19 +206,34 @@
    "name": "VISTA Blackwatch 2011G"
   },
   {
-   "club": "Virginia Valor FC",
-   "id": "50030281",
-   "name": "Virginia Valor FC G2010/11 Gold"
-  },
-  {
-   "club": "Alexandria SA",
-   "id": "50019376",
-   "name": "Aspire 10/11"
-  },
-  {
    "club": "Braddock Road Youth Club",
-   "id": "50030286",
-   "name": "BRYC Academy N1 G2010/11 Silver (VA)"
+   "id": "50049140",
+   "name": "BRYC Academy G2010/11 Teal"
+  },
+  {
+   "club": "Virginia Reign",
+   "id": "40093330",
+   "name": "VA Reign FC ECNL RL G2010/11"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50019387",
+   "name": "Richmond United ECNL RL G2010/11 Red"
+  },
+  {
+   "club": "Prince William Courage",
+   "id": "40093374",
+   "name": "ECNL RL G2010/11"
+  },
+  {
+   "club": "Charlottesville Alliance Sports Club",
+   "id": "50030287",
+   "name": "Charlottesville Alliance U16 N1 G2010/11 Navy (VA)"
+  },
+  {
+   "club": "Great Falls Reston Soccer Club",
+   "id": "40093299",
+   "name": "RL G2010/11"
   },
   {
    "club": "Virginia Valor FC",
@@ -281,9 +241,14 @@
    "name": "VALR G2010/11 Gold"
   },
   {
-   "club": "Vienna Youth Soccer",
-   "id": "40093364",
-   "name": "ECNL RL G2010/11"
+   "club": "Virginia Soccer Association",
+   "id": "50019369",
+   "name": "VSA N1 G2010/11 PREMIER RED (VA)"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "40105041",
+   "name": "ARL 2010/11G Blue (U16)"
   },
   {
    "club": "Virginia Soccer Association - Travel",
@@ -291,9 +256,14 @@
    "name": "VSA U16G Premier Royal"
   },
   {
-   "club": "Chesapeake United SC",
-   "id": "50019364",
-   "name": "CUSC N1 G2010/11 ELITE (VA)"
+   "club": "Old Dominion Soccer Club (ODSC)",
+   "id": "40068200",
+   "name": "ODSC Honey Badgers"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "50030285",
+   "name": "VYS ECNL RL G2010/11 Phoenix"
   },
   {
    "club": "Beach FC",
@@ -301,78 +271,8 @@
    "name": "Beach FC G2010/11 Morgan PL"
   },
   {
-   "club": "Herndon Youth Soccer Assoc - Travel",
-   "id": "40104360",
-   "name": "HERN NCSL G2010/11 Black"
-  },
-  {
-   "club": "Alexandria Soccer Association - Travel",
-   "id": "40105059",
-   "name": "ALEX 2010-11 Girls Red"
-  },
-  {
-   "club": "Piedmont Youth Soccer League",
-   "id": "40047054",
-   "name": "PYSL Hurricanes 2010-12 Girls"
-  },
-  {
-   "club": "Vienna Youth Soccer",
-   "id": "50020087",
-   "name": "VYS NCSL G2010/11 Red"
-  },
-  {
-   "club": "Central Virginia United SC",
-   "id": "40047083",
-   "name": "U15/U16 Girls Black"
-  },
-  {
-   "club": "Virginia Reign",
-   "id": "50019362",
-   "name": "Va Reign FC NPL Girls 2010/2011 Gold"
-  },
-  {
-   "club": "Gunston Soccer Club - Travel",
-   "id": "40105063",
-   "name": "GSC Girls 10/11 Premier"
-  },
-  {
-   "club": "Loudoun Soccer",
-   "id": "40104141",
-   "name": "LOUD U16G Black"
-  },
-  {
-   "club": "Virginia Revolution SC",
-   "id": "50049139",
-   "name": "U16G Black"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068309",
-   "name": "Beach FC G2010/11 Pierce Chaos"
-  },
-  {
-   "club": "Sterling Youth Soccer Assoc - Travel",
-   "id": "40104207",
-   "name": "STER REIGN LFC Hurricanes"
-  },
-  {
-   "club": "Braddock Road Youth Club - Travel",
-   "id": "40104091",
-   "name": "BRYC Academy G2010/11 Teal"
-  },
-  {
-   "club": "Soccer Organization Charlottesville Area",
-   "id": "50019368",
-   "name": "SOCA VCSL G2010/12 Blue"
-  },
-  {
-   "club": "Prince William Courage - Travel",
-   "id": "40104832",
-   "name": "PW Courage Elite G2010/11"
-  },
-  {
-   "club": "Villarreal Virginia Academy",
-   "id": "50019385",
+   "club": "Virginia Valor FC",
+   "id": "50024706",
    "name": "ECNL RL G2010/11"
   },
   {
@@ -381,29 +281,44 @@
    "name": "SVU. 2010-11 Girls Navy"
   },
   {
-   "club": "Prince William Soccer Inc",
-   "id": "50049138",
-   "name": "PW Courage Elite G2010/11"
+   "club": "Freedom FC",
+   "id": "50019354",
+   "name": "Freedom FC N1 G2011/12 (VA)"
   },
   {
-   "club": "Old Dominion Soccer Club (ODSC)",
-   "id": "40068200",
-   "name": "ODSC Honey Badgers"
+   "club": "Lee-Mt. Vernon Sports Club",
+   "id": "40093354",
+   "name": "LMVSC ENCL RL G2010/11"
   },
   {
-   "club": "Virginia United FC",
-   "id": "50049135",
-   "name": "VA United Premier G2010/11"
+   "club": "NVSC",
+   "id": "50019370",
+   "name": "NVSC N1 G2010/11 Blue (VA)"
   },
   {
-   "club": "Augusta United",
-   "id": "50019366",
-   "name": "Augusta United VCSL G 2010-2011 Classic"
+   "club": "Virginia Revolution SC",
+   "id": "40105073",
+   "name": "VRSC U16G Black"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "40105041",
-   "name": "ARL 2010/11G Blue (U16)"
+   "club": "Herndon Youth Soccer Assoc - Travel",
+   "id": "40104360",
+   "name": "HERN NCSL G2010/11 Black"
+  },
+  {
+   "club": "Virginia Reign",
+   "id": "50019362",
+   "name": "Va Reign FC NPL Girls 2010/2011 Gold"
+  },
+  {
+   "club": "Alexandria Soccer Association - Travel",
+   "id": "40105059",
+   "name": "ALEX 2010-11 Girls Red"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "50019365",
+   "name": "Aspire 10/11"
   },
   {
    "club": "Baystars",
@@ -412,18 +327,58 @@
   },
   {
    "club": "Virginia United FC",
-   "id": "50049134",
-   "name": "VA United North Girls"
+   "id": "50049135",
+   "name": "VA United Premier G2010/11"
   },
   {
-   "club": "Virginia Revolution SC",
-   "id": "40105073",
-   "name": "VRSC U16G Black"
+   "club": "Springfield SYC Soccer",
+   "id": "50019379",
+   "name": "Aspire 10/11"
   },
   {
-   "club": "Southside Soccer Club",
-   "id": "40047102",
-   "name": "Southside SC Select U16G"
+   "club": "SOCA",
+   "id": "40093304",
+   "name": "ECNL RL G2010/11 Elite"
+  },
+  {
+   "club": "Northern Virginia Alliance",
+   "id": "50019378",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50019376",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "50020087",
+   "name": "VYS NCSL G2010/11 Red"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50030289",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Gunston Soccer Club - Travel",
+   "id": "40105063",
+   "name": "GSC Girls 10/11 Premier"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50049136",
+   "name": "Arlington SA 2010/11G Blue (U16)"
+  },
+  {
+   "club": "Loudoun Soccer",
+   "id": "40104141",
+   "name": "LOUD U16G Black"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50019360",
+   "name": "RU RED N1 G2010/11 ELITE (VA)"
   },
   {
    "club": "Fredericksburg FC - Travel",
@@ -431,19 +386,59 @@
    "name": "FFC G16 NCSL"
   },
   {
+   "club": "Prince William Soccer Inc",
+   "id": "50019356",
+   "name": "Prince William Courage RL G2010/11"
+  },
+  {
    "club": "Springfield South County Youth  - Travel",
    "id": "40104000",
    "name": "SYC U16G Blue"
   },
   {
-   "club": "Salem Sabres Football Club",
-   "id": "40047061",
-   "name": "Sabres 2011_2012 Girls"
+   "club": "Virginia Revolution SC",
+   "id": "50049139",
+   "name": "U16G Black"
   },
   {
-   "club": "Herndon Youth Soccer",
-   "id": "50030282",
-   "name": "Herndon NCSL G2010/11"
+   "club": "Chesapeake United SC",
+   "id": "50019364",
+   "name": "CUSC N1 G2010/11 ELITE (VA)"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "50030281",
+   "name": "Virginia Valor FC G2010/11 Gold"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "50049133",
+   "name": "Loudoun U16G Black"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50030286",
+   "name": "BRYC Academy N1 G2010/11 Silver (VA)"
+  },
+  {
+   "club": "Piedmont Youth Soccer League",
+   "id": "40047054",
+   "name": "PYSL Hurricanes 2010-12 Girls"
+  },
+  {
+   "club": "Soccer Organization Charlottesville Area",
+   "id": "50019368",
+   "name": "SOCA VCSL G2010/12 Blue"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50019388",
+   "name": "BRYC Academy ECNL RL G2010/11"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "40093364",
+   "name": "ECNL RL G2010/11"
   },
   {
    "club": "Alexandria SA",
@@ -451,14 +446,49 @@
    "name": "2010-11 Girls Red"
   },
   {
-   "club": "Sterling Soccer Club",
-   "id": "50030283",
-   "name": "Sterling Reign LFC Hurricanes U16"
+   "club": "Prince William Courage - Travel",
+   "id": "40104832",
+   "name": "PW Courage Elite G2010/11"
   },
   {
-   "club": "Virginia Independent Soccer Team Association",
-   "id": "50049131",
-   "name": "VISTA Blackwatch U16G"
+   "club": "Salem Sabres Football Club",
+   "id": "40047061",
+   "name": "Sabres 2011_2012 Girls"
+  },
+  {
+   "club": "Augusta United",
+   "id": "50019366",
+   "name": "Augusta United VCSL G 2010-2011 Classic"
+  },
+  {
+   "club": "Virginia United FC",
+   "id": "50049134",
+   "name": "VA United North Girls"
+  },
+  {
+   "club": "Southside Soccer Club",
+   "id": "40047102",
+   "name": "Southside SC Select U16G"
+  },
+  {
+   "club": "Prince William Soccer Inc",
+   "id": "50049138",
+   "name": "PW Courage Elite G2010/11"
+  },
+  {
+   "club": "Villarreal Virginia Academy",
+   "id": "50019385",
+   "name": "ECNL RL G2010/11"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "40005101",
+   "name": "SYC U16G Blue"
+  },
+  {
+   "club": "Herndon Youth Soccer",
+   "id": "50030282",
+   "name": "Herndon NCSL G2010/11"
   },
   {
    "club": "Soccer Organization Charlottesville Area",
@@ -466,24 +496,9 @@
    "name": "SOCA Elite ECNL RL G2010/11"
   },
   {
-   "club": "Prince William Soccer Inc",
-   "id": "50019356",
-   "name": "Prince William Courage RL G2010/11"
-  },
-  {
    "club": "Virginia United FC",
    "id": "50030284",
    "name": "VA United ECNL-RL G2010/11"
-  },
-  {
-   "club": "Stafford Soccer",
-   "id": "50019358",
-   "name": "ECNL RL G2010/11 Blue"
-  },
-  {
-   "club": "Loudoun Soccer Club",
-   "id": "50049133",
-   "name": "Loudoun U16G Black"
   },
   {
    "club": "Fury FC (Powhatan SA)",
@@ -494,11 +509,6 @@
    "club": "Richmond United",
    "id": "50019374",
    "name": "RU Rec U16G Griffins Eleven Orange (Hughes)"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "50049136",
-   "name": "Arlington SA 2010/11G Blue (U16)"
   },
   {
    "club": "Fredericksburg FC",
@@ -531,11 +541,6 @@
    "name": "VSA N1 G2010/11 PREMIER RED (VA)"
   },
   {
-   "club": "Grove United",
-   "id": "50030293",
-   "name": "Grove United U16G"
-  },
-  {
    "club": "Colonial Heights SA",
    "id": "40114172",
    "name": "U16G Colonial Heights SA - XA"
@@ -554,6 +559,46 @@
    "club": "McLean Youth Soccer",
    "id": "40190259",
    "name": "11G GA"
+  },
+  {
+   "club": "Fredericksburg FC",
+   "id": "40202552",
+   "name": "FFC u16 Girls Thorns"
+  },
+  {
+   "club": "McLean YS",
+   "id": "40202574",
+   "name": "McLean U16 Girls 1"
+  },
+  {
+   "club": "LMVSC Seville",
+   "id": "40202579",
+   "name": "LMVSC - Seville"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "40202620",
+   "name": "ASA-R Thunderwolves"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "40202641",
+   "name": "Braddock Road Youth Club 2009 Girls"
+  },
+  {
+   "club": "King George Football Club",
+   "id": "40202645",
+   "name": "KGFC U16 Girls"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "40202664",
+   "name": "ALEX-R 1 Gennarelli"
+  },
+  {
+   "club": "Virginia Independent Soccer Team Association",
+   "id": "40203704",
+   "name": "VISTA HL92 Soccer Academy U16G PINK"
   }
  ]
 }

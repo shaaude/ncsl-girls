@@ -1,18 +1,28 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-10T15:31:38.901021+00:00",
+ "fetched_at": "2026-11-17T16:44:03.400877+00:00",
  "state": "IL",
  "state_slug": "illinois",
  "teams": [
+  {
+   "club": "FC United Soccer Club",
+   "id": "50008280",
+   "name": "GA 13/14"
+  },
   {
    "club": "Eclipse Select Soccer Club",
    "id": "50051059",
    "name": "Eclipse Select Soccer Club ECNL G2013/14"
   },
   {
-   "club": "FC United Soccer Club",
-   "id": "50008280",
+   "club": "Central Illinois United",
+   "id": "50008281",
+   "name": "GA 13/14"
+  },
+  {
+   "club": "Galaxy SC",
+   "id": "50008282",
    "name": "GA 13/14"
   },
   {
@@ -21,19 +31,9 @@
    "name": "Chicago Inter ECNL G2013/14"
   },
   {
-   "club": "Central Illinois United",
-   "id": "50008281",
-   "name": "GA 13/14"
-  },
-  {
-   "club": "Rockford Raptors FC",
-   "id": "50051061",
-   "name": "Rockford Raptors FC ECNL G2013/14"
-  },
-  {
-   "club": "Galaxy SC",
-   "id": "50008282",
-   "name": "GA 13/14"
+   "club": "Chicago Inter",
+   "id": "40022829",
+   "name": "Chicago Inter N1 2014/15 Red"
   },
   {
    "club": "FC Lake County",
@@ -41,14 +41,14 @@
    "name": "U13G FC LAKE COUNTY 13/14 ELITE N1"
   },
   {
-   "club": "Evolution SC",
-   "id": "50051063",
-   "name": "Evolution G2013/14 RL"
+   "club": "Force Football Club",
+   "id": "50038310",
+   "name": "FORCE U13G N1 (IL)"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50027402",
-   "name": "SLSG IL ECNL RL G2013/14"
+   "club": "Rockford Raptors FC",
+   "id": "50051061",
+   "name": "Rockford Raptors FC ECNL G2013/14"
   },
   {
    "club": "Gateway Rush Soccer Club",
@@ -56,14 +56,19 @@
    "name": "Gateway Rush N1 G2013/14 United (IL)"
   },
   {
-   "club": "Rockford Raptors FC",
-   "id": "50038336",
-   "name": "Rockford Raptors FC ECNL RL G2013/14"
-  },
-  {
    "club": "FC Barrington",
    "id": "50008287",
    "name": "FCB U13 Girls Black*"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "50027402",
+   "name": "SLSG IL ECNL RL G2013/14"
+  },
+  {
+   "club": "Evolution SC",
+   "id": "50051063",
+   "name": "Evolution G2013/14 RL"
   },
   {
    "club": "Elmhurst City Surf",
@@ -71,14 +76,9 @@
    "name": "ECS U13 G Elite"
   },
   {
-   "club": "Chicago Inter",
-   "id": "40022829",
-   "name": "Chicago Inter N1 2014/15 Red"
-  },
-  {
-   "club": "Force Football Club",
-   "id": "50038310",
-   "name": "FORCE U13G N1 (IL)"
+   "club": "Rockford Raptors FC",
+   "id": "50038336",
+   "name": "Rockford Raptors FC ECNL RL G2013/14"
   },
   {
    "club": "Chicago KICS Football Club",
@@ -91,14 +91,19 @@
    "name": "U13 G DPL"
   },
   {
+   "club": "Metro Alliance FC",
+   "id": "50038304",
+   "name": "Metro Alliance U13G Aspire"
+  },
+  {
    "club": "Greater Libertyville Soccer Association",
    "id": "50038338",
    "name": "FC 1974 Libertyville ECNL RL G2013/14"
   },
   {
-   "club": "Team Chicago SC",
-   "id": "50038306",
-   "name": "Team Chicago U13G Performance"
+   "club": "SASA Spirits SC",
+   "id": "50008277",
+   "name": "SASA Spirits 2013/2014G"
   },
   {
    "club": "Chicago City Soccer Club",
@@ -106,24 +111,14 @@
    "name": "Chicago City U13G DPL"
   },
   {
-   "club": "FC United Soccer Club",
-   "id": "40071107",
-   "name": "Aspire 13/14"
+   "club": "Lagrange Celtics",
+   "id": "50038309",
+   "name": "LG Celtics First XI U13G"
   },
   {
-   "club": "FC Stars (IL)",
-   "id": "40008122",
-   "name": "U13G DPL"
-  },
-  {
-   "club": "Galaxy SC",
-   "id": "50051057",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "Chicago Rush Soccer Club",
-   "id": "50008284",
-   "name": "ASPIRE 13/14"
+   "club": "Palatine Celtic SC",
+   "id": "50027404",
+   "name": "Palatine Celtic 2014G Black"
   },
   {
    "club": "Chicago Soccer Academy (CSA)",
@@ -131,9 +126,44 @@
    "name": "Chicago Soccer Academy 2013/14 G Blue"
   },
   {
-   "club": "Central Illinois United",
-   "id": "50051056",
+   "club": "FC Stars (IL)",
+   "id": "40008122",
+   "name": "U13G DPL"
+  },
+  {
+   "club": "FC United Soccer Club",
+   "id": "40071107",
    "name": "Aspire 13/14"
+  },
+  {
+   "club": "Galaxy SC",
+   "id": "50051057",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Pegasus FC",
+   "id": "40018720",
+   "name": "Pegasus FC Girls N1 U13 Red"
+  },
+  {
+   "club": "Metro Alliance FC",
+   "id": "50008288",
+   "name": "Metro Alliance 14/15G Pre Aspire"
+  },
+  {
+   "club": "Quad Cities Rush",
+   "id": "50027407",
+   "name": "Quad Cities Rush U13 Girls"
+  },
+  {
+   "club": "North Shore FC",
+   "id": "50008271",
+   "name": "NSFC U13 GIRLS - ELITE"
+  },
+  {
+   "club": "Team Chicago SC",
+   "id": "50038306",
+   "name": "Team Chicago U13G Performance"
   },
   {
    "club": "Firebirds SC",
@@ -146,64 +176,14 @@
    "name": "Forge SC U13 Girls Red Performance"
   },
   {
-   "club": "Lagrange Celtics",
-   "id": "50038309",
-   "name": "LG Celtics First XI U13G"
-  },
-  {
-   "club": "United Elite",
-   "id": "50008275",
-   "name": "U13G DPL"
-  },
-  {
-   "club": "Chicago Inter",
-   "id": "50051062",
-   "name": "Chicago Inter ECNL RL G2013/14"
-  },
-  {
-   "club": "Chicago Soccer Academy (CSA)",
-   "id": "50051058",
-   "name": "Chicago Soccer Academy 2013/14 G Blue 2"
-  },
-  {
-   "club": "Pegasus FC",
-   "id": "40018720",
-   "name": "Pegasus FC Girls N1 U13 Red"
-  },
-  {
-   "club": "Palatine Celtic SC",
-   "id": "50027404",
-   "name": "Palatine Celtic 2014G Black"
-  },
-  {
-   "club": "Wheaton United SC",
-   "id": "50008283",
+   "club": "Central Illinois United",
+   "id": "50051056",
    "name": "Aspire 13/14"
   },
   {
-   "club": "SASA Spirits SC",
-   "id": "50008277",
-   "name": "SASA Spirits 2013/2014G"
-  },
-  {
-   "club": "Metro Alliance FC",
-   "id": "50038304",
-   "name": "Metro Alliance U13G Aspire"
-  },
-  {
-   "club": "Eclipse Select Soccer Club",
-   "id": "50038340",
-   "name": "Eclipse Select Soccer Club ECNL RL G2013/14"
-  },
-  {
-   "club": "North Shore FC",
-   "id": "50008271",
-   "name": "NSFC U13 GIRLS - ELITE"
-  },
-  {
-   "club": "Quad Cities Rush",
-   "id": "50027407",
-   "name": "Quad Cities Rush U13 Girls"
+   "club": "Roadrunners SC",
+   "id": "50038315",
+   "name": "Roadrunners SC N1 GU13"
   },
   {
    "club": "Chicago House Athletic Club",
@@ -217,8 +197,8 @@
   },
   {
    "club": "Chicago Rush Soccer Club",
-   "id": "50038305",
-   "name": "U13 (13/14) Chicago Rush DPL"
+   "id": "50008284",
+   "name": "ASPIRE 13/14"
   },
   {
    "club": "Chicago Fire Youth SC (CFYSC)",
@@ -226,39 +206,14 @@
    "name": "CFYSC 13U Girls Premier"
   },
   {
-   "club": "Roadrunners SC",
-   "id": "50038315",
-   "name": "Roadrunners SC N1 GU13"
-  },
-  {
-   "club": "Metro Alliance FC",
-   "id": "50008288",
-   "name": "Metro Alliance 14/15G Pre Aspire"
-  },
-  {
-   "club": "7 United SC",
-   "id": "50038307",
-   "name": "U13 Elite"
-  },
-  {
    "club": "Morton United FC",
    "id": "50038330",
    "name": "Morton United FC U13 Girls RED"
   },
   {
-   "club": "Inter AC",
-   "id": "40022795",
-   "name": "Inter AC 2013/14 Select Girls"
-  },
-  {
-   "club": "Sueno FC",
-   "id": "40022852",
-   "name": "JaHbat G2013/14 Premier"
-  },
-  {
-   "club": "Impact FC",
-   "id": "50038320",
-   "name": "13/14 Girls"
+   "club": "United Elite",
+   "id": "50008275",
+   "name": "U13G DPL"
   },
   {
    "club": "Quincy Rush Soccer Club",
@@ -266,14 +221,19 @@
    "name": "Quincy Rush 13/14 Girls Beaston"
   },
   {
-   "club": "Glen Ellyn Lakers",
-   "id": "50038311",
-   "name": "Lakers FC 13/14G Elite"
+   "club": "Impact FC",
+   "id": "50038320",
+   "name": "13/14 Girls"
   },
   {
-   "club": "FC Stars (IL)",
-   "id": "40018688",
-   "name": "FC Stars 2014G Black"
+   "club": "Chicago Soccer Academy (CSA)",
+   "id": "50051058",
+   "name": "Chicago Soccer Academy 2013/14 G Blue 2"
+  },
+  {
+   "club": "Inter AC",
+   "id": "40022795",
+   "name": "Inter AC 2013/14 Select Girls"
   },
   {
    "club": "Pekin Pride Soccer",
@@ -281,24 +241,24 @@
    "name": "U13/U14 Girls"
   },
   {
+   "club": "7 United SC",
+   "id": "50038307",
+   "name": "U13 Elite"
+  },
+  {
+   "club": "Chicago Inter",
+   "id": "50051062",
+   "name": "Chicago Inter ECNL RL G2013/14"
+  },
+  {
+   "club": "Wheaton United SC",
+   "id": "50008283",
+   "name": "Aspire 13/14"
+  },
+  {
    "club": "Mahomet Ignite FC",
    "id": "50038319",
    "name": "Mahomet Ignite FC U13G"
-  },
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50023622",
-   "name": "SLSG IL G 2013/2014 Courage"
-  },
-  {
-   "club": "Park Ridge SC",
-   "id": "50038302",
-   "name": "PRSC Premier U13 G Black"
-  },
-  {
-   "club": "Glen-Ed SC",
-   "id": "50027405",
-   "name": "Glen-Ed SC 2013/14G United"
   },
   {
    "club": "Geneseo Soccer Club",
@@ -306,9 +266,39 @@
    "name": "GSC U13 Girls"
   },
   {
+   "club": "Eclipse Select Soccer Club",
+   "id": "50038340",
+   "name": "Eclipse Select Soccer Club ECNL RL G2013/14"
+  },
+  {
+   "club": "Glen Ellyn Lakers",
+   "id": "50038311",
+   "name": "Lakers FC 13/14G Elite"
+  },
+  {
+   "club": "Chicago Rush Soccer Club",
+   "id": "50038305",
+   "name": "U13 (13/14) Chicago Rush DPL"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "50023622",
+   "name": "SLSG IL G 2013/2014 Courage"
+  },
+  {
+   "club": "Glen-Ed SC",
+   "id": "50027405",
+   "name": "Glen-Ed SC 2013/14G United"
+  },
+  {
    "club": "Sangamo United FC",
    "id": "50008272",
    "name": "Sangamo United FC 2013/14G Stingers"
+  },
+  {
+   "club": "FC Stars (IL)",
+   "id": "40018688",
+   "name": "FC Stars 2014G Black"
   },
   {
    "club": "Forge SC",
@@ -316,9 +306,9 @@
    "name": "Forge SC U13 Girls Navy Performance"
   },
   {
-   "club": "Greater Libertyville Soccer Association",
-   "id": "50038317",
-   "name": "FC 1974 Libertyville Select G2013/14"
+   "club": "Park Ridge SC",
+   "id": "50038302",
+   "name": "PRSC Premier U13 G Black"
   },
   {
    "club": "Mahomet-Seymour Soccer Club",
@@ -326,14 +316,19 @@
    "name": "MSSC 14/15G"
   },
   {
+   "club": "Sueno FC",
+   "id": "40022852",
+   "name": "JaHbat G2013/14 Premier"
+  },
+  {
+   "club": "Greater Libertyville Soccer Association",
+   "id": "50038317",
+   "name": "FC 1974 Libertyville Select G2013/14"
+  },
+  {
    "club": "Metro Alliance FC",
    "id": "50038321",
    "name": "Metro Alliance 13/14G Elite Blue"
-  },
-  {
-   "club": "United Elite",
-   "id": "50038332",
-   "name": "Plainfield United SC 2013/14G Premier"
   },
   {
    "club": "Jacksonville United Soccer Club",
@@ -341,19 +336,24 @@
    "name": "Jax United U13 Girls"
   },
   {
-   "club": "Chicago Edge SC",
-   "id": "50038312",
-   "name": "Chicago Edge GU13 Premier XI"
-  },
-  {
    "club": "Illinois FC",
    "id": "50027409",
    "name": "Illinois FC 2013/2014 Girls Orange"
   },
   {
-   "club": "Rock Island Futbol Club",
-   "id": "50038323",
-   "name": "RIFC U12/13g Rebels"
+   "club": "United Elite",
+   "id": "50038332",
+   "name": "Plainfield United SC 2013/14G Premier"
+  },
+  {
+   "club": "Chicago Edge SC",
+   "id": "50038312",
+   "name": "Chicago Edge GU13 Premier XI"
+  },
+  {
+   "club": "Park Ridge SC",
+   "id": "50038303",
+   "name": "PRSC Premier U13 G Silver"
   },
   {
    "club": "Gateway Rush Soccer Club",
@@ -366,9 +366,9 @@
    "name": "Metro Alliance 13/14G Elite Red"
   },
   {
-   "club": "Park Ridge SC",
-   "id": "50038303",
-   "name": "PRSC Premier U13 G Silver"
+   "club": "Rock Island Futbol Club",
+   "id": "50038323",
+   "name": "RIFC U12/13g Rebels"
   },
   {
    "club": "Metro Alliance FC",

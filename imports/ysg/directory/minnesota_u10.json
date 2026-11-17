@@ -1,10 +1,25 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-11-10T15:47:39.131854+00:00",
+ "fetched_at": "2026-11-17T17:00:03.510625+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
+  {
+   "club": "St. Croix",
+   "id": "50051700",
+   "name": "TCSL State G2016/17 (U11 State)"
+  },
+  {
+   "club": "Minnesota Thunder Academy",
+   "id": "50040761",
+   "name": "TCSL Red G2016/17 Nike"
+  },
+  {
+   "club": "Manitou FC",
+   "id": "50051677",
+   "name": "TCSL White G2016/17"
+  },
   {
    "club": "St. Croix",
    "id": "40182368",
@@ -14,11 +29,6 @@
    "club": "Lakeville Soccer Club",
    "id": "50051703",
    "name": "TCSL White G2016/17 Academy 2"
-  },
-  {
-   "club": "Minnesota Thunder Academy",
-   "id": "50040761",
-   "name": "TCSL Red G2016/17 Nike"
   },
   {
    "club": "Salvo SC",
@@ -36,9 +46,19 @@
    "name": "TCSL Blue G2016/17"
   },
   {
+   "club": "United FC Rush",
+   "id": "40182230",
+   "name": "TCSL Blue G2016/17 Academy 1"
+  },
+  {
    "club": "Waconia SC",
    "id": "40182486",
    "name": "TCSL Blue G2016/17 2"
+  },
+  {
+   "club": "North Surf",
+   "id": "40182418",
+   "name": "TCSL Red G2016/17 Black 2"
   },
   {
    "club": "Bloomington United",
@@ -51,6 +71,11 @@
    "name": "TCSL Blue G2016/17 - Rodriguez"
   },
   {
+   "club": "Boreal FC",
+   "id": "50051687",
+   "name": "TCSL Red G2016/17 Maldonado"
+  },
+  {
    "club": "Edina Soccer Club",
    "id": "40181753",
    "name": "TCSL Blue G2016/17 Silver"
@@ -61,9 +86,14 @@
    "name": "TCSL White G2016/17 Swoosh"
   },
   {
-   "club": "North Surf",
-   "id": "40182418",
-   "name": "TCSL Red G2016/17 Black 2"
+   "club": "Boreal FC",
+   "id": "50051686",
+   "name": "TCSL Blue G2016/17 Donnay"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "40181736",
+   "name": "TCSL Red G2016/17 Green"
   },
   {
    "club": "Shakopee SA",
@@ -76,14 +106,14 @@
    "name": "TCSL Blue G2016/17 Navy 3"
   },
   {
+   "club": "Wave SC",
+   "id": "50040762",
+   "name": "TCSL White G2016/17 Elite"
+  },
+  {
    "club": "Minneapolis United",
    "id": "40182570",
    "name": "TCSL Blue G2016/17 Samba"
-  },
-  {
-   "club": "Boreal FC",
-   "id": "50051687",
-   "name": "TCSL Red G2016/17 Maldonado"
   },
   {
    "club": "Prior Lake SC",
@@ -101,9 +131,9 @@
    "name": "TCSL Blue G2016/17 Gold"
   },
   {
-   "club": "Edina Soccer Club",
-   "id": "40181736",
-   "name": "TCSL Red G2016/17 Green"
+   "club": "North Surf",
+   "id": "40182419",
+   "name": "TCSL Red G2016/17 Black 1"
   },
   {
    "club": "Mahtomedi Soccer Association",
@@ -112,13 +142,18 @@
   },
   {
    "club": "Minneapolis United",
-   "id": "40182573",
-   "name": "TCSL Blue G2016/17 Copa"
+   "id": "40182572",
+   "name": "TCSL Red G2016/17 Elite"
   },
   {
-   "club": "North Surf",
-   "id": "40182419",
-   "name": "TCSL Red G2016/17 Black 1"
+   "club": "North United SC",
+   "id": "50051675",
+   "name": "TCSL White G2016/17 Platinum"
+  },
+  {
+   "club": "Minneapolis United",
+   "id": "40182573",
+   "name": "TCSL Blue G2016/17 Copa"
   },
   {
    "club": "Fusion Soccer Club",
@@ -131,19 +166,19 @@
    "name": "TCSL White G2016/17 1"
   },
   {
-   "club": "Minneapolis United",
-   "id": "40182572",
-   "name": "TCSL Red G2016/17 Elite"
+   "club": "Mahtomedi Soccer Association",
+   "id": "50051710",
+   "name": "TCSL Blue G2016/17 Zephyrs Navy"
+  },
+  {
+   "club": "Western Wisconsin Soccer",
+   "id": "40182547",
+   "name": "TCSL White G2016/17 WWFC"
   },
   {
    "club": "Lakeville Soccer Club",
    "id": "50051707",
    "name": "TCSL Blue G2016/17 Black 1"
-  },
-  {
-   "club": "Mahtomedi Soccer Association",
-   "id": "50051710",
-   "name": "TCSL Blue G2016/17 Zephyrs Navy"
   },
   {
    "club": "Salvo SC",
@@ -154,6 +189,11 @@
    "club": "Fusion Soccer Club",
    "id": "50051697",
    "name": "TCSL White G2016/17 Navy 1"
+  },
+  {
+   "club": "St. Paul Blackhawks",
+   "id": "50051709",
+   "name": "TCSL White G2016/17"
   },
   {
    "club": "Park Valley United FC",
@@ -181,14 +221,19 @@
    "name": "TCSL Blue G2016/17"
   },
   {
-   "club": "Cottage Grove United SC",
-   "id": "40182099",
-   "name": "TCSL Blue G2016/17"
-  },
-  {
    "club": "Edina Soccer Club",
    "id": "40181755",
    "name": "TCSL Blue G2016/17 Steel"
+  },
+  {
+   "club": "Prior Lake SC",
+   "id": "50051695",
+   "name": "TCSL Red G2016/17 Navy"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "40182099",
+   "name": "TCSL Blue G2016/17"
   },
   {
    "club": "EPSC",
@@ -196,9 +241,34 @@
    "name": "TCSL White G2016/17 Germany"
   },
   {
-   "club": "Prior Lake SC",
-   "id": "50051695",
-   "name": "TCSL Red G2016/17 Navy"
+   "club": "Centennial Soccer Club",
+   "id": "50051683",
+   "name": "TCSL White G2016/17 Black"
+  },
+  {
+   "club": "North Surf",
+   "id": "40182431",
+   "name": "TCSL White G2016/17 Royal"
+  },
+  {
+   "club": "North United SC",
+   "id": "50051676",
+   "name": "TCSL Blue G2016/17 Gold"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "40182117",
+   "name": "TCSL White G2016/17"
+  },
+  {
+   "club": "Minnesota Rush",
+   "id": "50051673",
+   "name": "TCSL Red G2016/17 EDT 1"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50051704",
+   "name": "TCSL Red G2016/17 Academy 1"
   },
   {
    "club": "St. Croix",
@@ -207,13 +277,18 @@
   },
   {
    "club": "CC United Soccer Club",
-   "id": "40181707",
-   "name": "TCSL Blue G2016/17 1"
+   "id": "50051671",
+   "name": "TCSL Red G2016/17"
   },
   {
    "club": "EPSC",
    "id": "50051713",
    "name": "TCSL Blue G2016/17 France"
+  },
+  {
+   "club": "CC United Soccer Club",
+   "id": "40181707",
+   "name": "TCSL Blue G2016/17 1"
   },
   {
    "club": "Salvo SC",
@@ -226,24 +301,14 @@
    "name": "TCSL Blue G2016/17"
   },
   {
-   "club": "Orono Westonka Soccer Club",
-   "id": "40182208",
-   "name": "TCSL White G2016/17 2"
-  },
-  {
    "club": "CC United Soccer Club",
    "id": "40181710",
    "name": "TCSL White G2016/17"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "50051704",
-   "name": "TCSL Red G2016/17 Academy 1"
-  },
-  {
-   "club": "Minnesota Thunder Academy",
-   "id": "40181987",
-   "name": "TCSL Blue G2016/17 Air"
+   "club": "Orono Westonka Soccer Club",
+   "id": "40182208",
+   "name": "TCSL White G2016/17 2"
   },
   {
    "club": "Wave SC",
@@ -251,24 +316,29 @@
    "name": "TCSL Blue G2016/17 Premier"
   },
   {
-   "club": "Minnesota Rush",
-   "id": "50051673",
-   "name": "TCSL Red G2016/17 EDT 1"
+   "club": "Minnesota Thunder Academy",
+   "id": "40181987",
+   "name": "TCSL Blue G2016/17 Air"
   },
   {
-   "club": "CC United Soccer Club",
-   "id": "50051671",
-   "name": "TCSL Red G2016/17"
-  },
-  {
-   "club": "St. Croix",
-   "id": "50051700",
-   "name": "TCSL State G2016/17 (U11 State)"
+   "club": "Boreal FC",
+   "id": "50051685",
+   "name": "TCSL Blue G2016/17 Thao"
   },
   {
    "club": "St. Paul Blackhawks",
    "id": "40182702",
    "name": "TCSL Blue G2016/17 2"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50051705",
+   "name": "TCSL White G2016/17 Gold 1"
+  },
+  {
+   "club": "Salvo SC",
+   "id": "50051691",
+   "name": "TCSL White G2016/17 Woodbury Select 1"
   },
   {
    "club": "North East United Soccer Club",
@@ -306,6 +376,11 @@
    "name": "TCSL Blue G2016/17 1"
   },
   {
+   "club": "Shakopee SA",
+   "id": "40181856",
+   "name": "TCSL Red G2016/17"
+  },
+  {
    "club": "Salvo SC",
    "id": "50051690",
    "name": "TCSL Blue G2016/17 Two Rivers Select 2"
@@ -321,19 +396,9 @@
    "name": "TCSL Blue G2016/17 Tango"
   },
   {
-   "club": "Shakopee SA",
-   "id": "40181856",
-   "name": "TCSL Red G2016/17"
-  },
-  {
    "club": "Waconia SC",
    "id": "40182488",
    "name": "TCSL Blue G2016/17 1"
-  },
-  {
-   "club": "Fusion Soccer Club",
-   "id": "50051698",
-   "name": "TCSL White G2016/17 Navy 2"
   },
   {
    "club": "Tonka United SA",
@@ -341,23 +406,18 @@
    "name": "TCSL Red G2016/17 Academy 1"
   },
   {
+   "club": "MapleBrook SC",
+   "id": "40182524",
+   "name": "TCSL Blue G2016/17 Academy 3 - Barth"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "50051698",
+   "name": "TCSL White G2016/17 Navy 2"
+  },
+  {
    "club": "Dakota SC",
    "id": "40182630",
-   "name": "TCSL Blue G2016/17"
-  },
-  {
-   "club": "Orono Westonka Soccer Club",
-   "id": "40182205",
-   "name": "TCSL Blue G2016/17"
-  },
-  {
-   "club": "Wave SC",
-   "id": "50040762",
-   "name": "TCSL White G2016/17 Elite"
-  },
-  {
-   "club": "Keliix-Intra Soccer Club",
-   "id": "40182623",
    "name": "TCSL Blue G2016/17"
   },
   {
@@ -366,89 +426,29 @@
    "name": "TCSL Red G2016/17 Academy 1 - Vucinic"
   },
   {
-   "club": "Prior Lake SC",
-   "id": "50051694",
-   "name": "TCSL White G2016/17 Gold 1"
-  },
-  {
-   "club": "Manitou FC",
-   "id": "50051677",
-   "name": "TCSL White G2016/17"
-  },
-  {
-   "club": "Lakeville Soccer Club",
-   "id": "50051708",
-   "name": "TCSL Blue G2016/17 Black 2"
-  },
-  {
-   "club": "Western Wisconsin Soccer",
-   "id": "40182547",
-   "name": "TCSL White G2016/17 WWFC"
-  },
-  {
-   "club": "St. Paul Blackhawks",
-   "id": "50051709",
-   "name": "TCSL White G2016/17"
-  },
-  {
-   "club": "Cottage Grove United SC",
-   "id": "40182117",
-   "name": "TCSL White G2016/17"
-  },
-  {
-   "club": "United FC Rush",
-   "id": "40182230",
-   "name": "TCSL Blue G2016/17 Academy 1"
-  },
-  {
-   "club": "Lakeville Soccer Club",
-   "id": "50051705",
-   "name": "TCSL White G2016/17 Gold 1"
-  },
-  {
-   "club": "Salvo SC",
-   "id": "50051691",
-   "name": "TCSL White G2016/17 Woodbury Select 1"
-  },
-  {
-   "club": "Boreal FC",
-   "id": "50051686",
-   "name": "TCSL Blue G2016/17 Donnay"
-  },
-  {
-   "club": "North United SC",
-   "id": "50051675",
-   "name": "TCSL White G2016/17 Platinum"
-  },
-  {
-   "club": "Centennial Soccer Club",
-   "id": "50051683",
-   "name": "TCSL White G2016/17 Black"
-  },
-  {
-   "club": "North Surf",
-   "id": "40182431",
-   "name": "TCSL White G2016/17 Royal"
-  },
-  {
-   "club": "North United SC",
-   "id": "50051676",
-   "name": "TCSL Blue G2016/17 Gold"
-  },
-  {
-   "club": "Boreal FC",
-   "id": "50051685",
-   "name": "TCSL Blue G2016/17 Thao"
-  },
-  {
-   "club": "MapleBrook SC",
-   "id": "40182524",
-   "name": "TCSL Blue G2016/17 Academy 3 - Barth"
+   "club": "Orono Westonka Soccer Club",
+   "id": "40182205",
+   "name": "TCSL Blue G2016/17"
   },
   {
    "club": "Legacy FC",
    "id": "50051682",
    "name": "TCSL Blue G2016/17 Blue"
+  },
+  {
+   "club": "Keliix-Intra Soccer Club",
+   "id": "40182623",
+   "name": "TCSL Blue G2016/17"
+  },
+  {
+   "club": "Prior Lake SC",
+   "id": "50051694",
+   "name": "TCSL White G2016/17 Gold 1"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50051708",
+   "name": "TCSL Blue G2016/17 Black 2"
   },
   {
    "club": "MapleBrook SC",

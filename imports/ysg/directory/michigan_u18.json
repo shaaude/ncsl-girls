@@ -1,7 +1,7 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-11-10T15:47:09.105098+00:00",
+ "fetched_at": "2026-11-17T16:59:33.309606+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
@@ -31,14 +31,9 @@
    "name": "SWM SC 08/09G Premier I"
   },
   {
-   "club": "Michigan Rangers FC",
-   "id": "50011556",
-   "name": "MI Rangers FC N1 G2009/2008 Black (MI)"
-  },
-  {
-   "club": "Lakeshore Football Club",
-   "id": "50011559",
-   "name": "Lakeshore FC N1 G2008/10 (MI)"
+   "club": "Petoskey YS",
+   "id": "50011565",
+   "name": "Breakers Black U18"
   },
   {
    "club": "Force SC",
@@ -46,19 +41,9 @@
    "name": "Force SC 08/09G Green"
   },
   {
-   "club": "PASS FC",
-   "id": "50011560",
-   "name": "N1 G2008/2009/2010 Navy (MI)"
-  },
-  {
-   "club": "Petoskey YS",
-   "id": "50011565",
-   "name": "Breakers Black U18"
-  },
-  {
-   "club": "Nationals",
-   "id": "40065442",
-   "name": "Nationals Union G2008/09 Red"
+   "club": "Michigan Rangers FC",
+   "id": "50011556",
+   "name": "MI Rangers FC N1 G2009/2008 Black (MI)"
   },
   {
    "club": "Reeths-Puffer YSC",
@@ -66,14 +51,29 @@
    "name": "West Coast United U19 Premier Girls"
   },
   {
-   "club": "Detroit City FC",
-   "id": "50011561",
-   "name": "N1 G2009/2010 Genesee MI"
-  },
-  {
    "club": "Liverpool FC-IA Michigan",
    "id": "50040654",
    "name": "North Oakland 08/09 G Academy"
+  },
+  {
+   "club": "Okemos Soccer Club",
+   "id": "40066986",
+   "name": "Okemos HSG Maroon"
+  },
+  {
+   "club": "Nationals",
+   "id": "40065442",
+   "name": "Nationals Union G2008/09 Red"
+  },
+  {
+   "club": "PASS FC",
+   "id": "50011560",
+   "name": "N1 G2008/2009/2010 Navy (MI)"
+  },
+  {
+   "club": "Lakeshore Football Club",
+   "id": "50011559",
+   "name": "Lakeshore FC N1 G2008/10 (MI)"
   },
   {
    "club": "Kalamazoo SC",
@@ -81,9 +81,24 @@
    "name": "Kalamazoo SC 08/09G Red"
   },
   {
-   "club": "DBSS",
-   "id": "50011552",
-   "name": "DBSS 08/09G Blue"
+   "club": "Michigan Burn",
+   "id": "40065315",
+   "name": "MI Burn G2008/09 White"
+  },
+  {
+   "club": "Oxford SC",
+   "id": "50011567",
+   "name": "OSC HSO Girls"
+  },
+  {
+   "club": "Michigan Jaguars",
+   "id": "40065165",
+   "name": "Marshall U17 Girls Green"
+  },
+  {
+   "club": "Detroit City FC",
+   "id": "50011561",
+   "name": "N1 G2009/2010 Genesee MI"
   },
   {
    "club": "Detroit City FC South Oakland",
@@ -96,29 +111,9 @@
    "name": "Plymouth Reign ECNL RL G2008/09"
   },
   {
-   "club": "Michigan Jaguars",
-   "id": "40065165",
-   "name": "Marshall U17 Girls Green"
-  },
-  {
-   "club": "Michigan Burn",
-   "id": "40065315",
-   "name": "MI Burn G2008/09 White"
-  },
-  {
    "club": "Nationals",
    "id": "40065387",
    "name": "Nationals Macomb Select G2008/09 Black"
-  },
-  {
-   "club": "Oxford SC",
-   "id": "50011567",
-   "name": "OSC HSO Girls"
-  },
-  {
-   "club": "Southwest Michigan Soccer Club Inc",
-   "id": "50021805",
-   "name": "SWM SC 08/09G Premier II"
   },
   {
    "club": "Great Lakes Alliance",
@@ -131,19 +126,9 @@
    "name": "Royal Oak FC U17/U18 Girls White"
   },
   {
-   "club": "Midland SC",
-   "id": "40065113",
-   "name": "Midland Fusion u18 Girls Green"
-  },
-  {
    "club": "Goodrich Soccer Club",
    "id": "40065316",
    "name": "GSC Girls HS"
-  },
-  {
-   "club": "Nationals",
-   "id": "50040657",
-   "name": "Nationals Bluewater G2008/09 Black"
   },
   {
    "club": "Detroit City FC",
@@ -151,9 +136,29 @@
    "name": "DCFC City U17/U18G Rouge"
   },
   {
+   "club": "DBSS",
+   "id": "50011552",
+   "name": "DBSS 08/09G Blue"
+  },
+  {
+   "club": "Southwest Michigan Soccer Club Inc",
+   "id": "50021805",
+   "name": "SWM SC 08/09G Premier II"
+  },
+  {
+   "club": "Midland SC",
+   "id": "40065113",
+   "name": "Midland Fusion u18 Girls Green"
+  },
+  {
    "club": "Blackhawks Sports Club",
    "id": "50040658",
    "name": "Blackhawks U18 Girls Gold"
+  },
+  {
+   "club": "Nationals",
+   "id": "50040657",
+   "name": "Nationals Bluewater G2008/09 Black"
   },
   {
    "club": "Huron S.A.",
@@ -174,11 +179,6 @@
    "club": "Force SC",
    "id": "50040653",
    "name": "Force SC 08/09G White"
-  },
-  {
-   "club": "Okemos Soccer Club",
-   "id": "40066986",
-   "name": "Okemos HSG Maroon"
   },
   {
    "club": "Nationals",

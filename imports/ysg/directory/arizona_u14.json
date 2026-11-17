@@ -1,20 +1,10 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-10T15:13:28.947402+00:00",
+ "fetched_at": "2026-11-17T16:25:53.645383+00:00",
  "state": "AZ",
  "state_slug": "arizona",
  "teams": [
-  {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "50000565",
-   "name": "Arizona Arsenal ECNL G2012/13"
-  },
-  {
-   "club": "Utah Royals FC - AZ",
-   "id": "50000564",
-   "name": "Utah Royals FC-AZ ECNL G2012/13"
-  },
   {
    "club": "Phoenix Rising FC",
    "id": "50000563",
@@ -26,14 +16,19 @@
    "name": "12/13 GA"
   },
   {
+   "club": "Utah Royals FC - AZ",
+   "id": "50000564",
+   "name": "Utah Royals FC-AZ ECNL G2012/13"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "50000565",
+   "name": "Arizona Arsenal ECNL G2012/13"
+  },
+  {
    "club": "SC del Sol",
    "id": "40071086",
    "name": "GA 12/13"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "50000567",
-   "name": "ECNL RL G2012/13"
   },
   {
    "club": "Next Level Soccer (AZ)",
@@ -41,9 +36,24 @@
    "name": "Southeast 12/13 Girls Black"
   },
   {
+   "club": "RSL-AZ West Valley",
+   "id": "50000550",
+   "name": "RSL WV U14 GIRLS N1L"
+  },
+  {
    "club": "Phoenix Premier FC",
    "id": "50000561",
    "name": "Aspire 12/13"
+  },
+  {
+   "club": "Next Level Soccer (AZ)",
+   "id": "50030998",
+   "name": "Southeast 12/13 Girls Red"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "50030996",
+   "name": "AZ Arsenal 2012/13 Girls Verde Valley"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
@@ -51,19 +61,9 @@
    "name": "AZ Arsenal ECNL RL G2012/13"
   },
   {
-   "club": "Arizona Soccer Club",
-   "id": "50000568",
+   "club": "Phoenix Rising FC",
+   "id": "50000567",
    "name": "ECNL RL G2012/13"
-  },
-  {
-   "club": "Dynamos SC",
-   "id": "50030994",
-   "name": "Dynamos SC U14G SC"
-  },
-  {
-   "club": "RSL-AZ West Valley",
-   "id": "50000550",
-   "name": "RSL WV U14 GIRLS N1L"
   },
   {
    "club": "RSL-AZ Southern AZ",
@@ -71,19 +71,9 @@
    "name": "U14G DPL"
   },
   {
-   "club": "Utah Royals FC - AZ",
-   "id": "50000566",
-   "name": "Utah Royals FC-AZ ECNL-RL G2012/13"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "50031002",
-   "name": "CCV Stars ECNL RL G2012/13 (U14)"
-  },
-  {
-   "club": "SC del Sol",
-   "id": "50000562",
-   "name": "Aspire 12/13"
+   "club": "Dynamos SC",
+   "id": "50030994",
+   "name": "Dynamos SC U14G SC"
   },
   {
    "club": "FC Batavia",
@@ -96,9 +86,9 @@
    "name": "U14G DPL"
   },
   {
-   "club": "Next Level Soccer (AZ)",
-   "id": "50030998",
-   "name": "Southeast 12/13 Girls Red"
+   "club": "Arizona Soccer Club",
+   "id": "50000568",
+   "name": "ECNL RL G2012/13"
   },
   {
    "club": "Phoenix Premier FC",
@@ -117,23 +107,23 @@
   },
   {
    "club": "Arizona Arsenal Soccer Club",
-   "id": "50030996",
-   "name": "AZ Arsenal 2012/13 Girls Verde Valley"
+   "id": "50020298",
+   "name": "AZ Arsenal 2012/13 Girls Flagstaff"
+  },
+  {
+   "club": "Kingman SC",
+   "id": "40114656",
+   "name": "G14U: TR Orr"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50000546",
+   "name": "North G2012 Predator"
   },
   {
    "club": "State 48 FC",
    "id": "50000554",
    "name": "Northwest 12/13G Black"
-  },
-  {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "50020298",
-   "name": "AZ Arsenal 2012/13 Girls Flagstaff"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "50000552",
-   "name": "CCV Stars U14 Girls Laveen N1"
   },
   {
    "club": "Amore Soccer",
@@ -146,19 +136,24 @@
    "name": "U14G DPL"
   },
   {
-   "club": "Phoenix Rising FC",
-   "id": "50000546",
-   "name": "North G2012 Predator"
+   "club": "SC del Sol",
+   "id": "50000562",
+   "name": "Aspire 12/13"
   },
   {
-   "club": "North Valley FC Arizona",
-   "id": "50020297",
-   "name": "NVFCA GU14 NL Premier"
+   "club": "CCV STARS",
+   "id": "50031002",
+   "name": "CCV Stars ECNL RL G2012/13 (U14)"
   },
   {
-   "club": "Sun Warriors AZFC",
-   "id": "50000558",
-   "name": "Sun Warriors U14 G"
+   "club": "CCV STARS",
+   "id": "50000552",
+   "name": "CCV Stars U14 Girls Laveen N1"
+  },
+  {
+   "club": "Kingman SC",
+   "id": "40114675",
+   "name": "G14U: Monolith Diagnostics"
   },
   {
    "club": "Athletic Soccer Club (AZ)",
@@ -166,34 +161,24 @@
    "name": "ASC GU14 EV (LOPEZ)"
   },
   {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "50000557",
-   "name": "AZ Arsenal 2012/13 Girls NAZ2"
+   "club": "Sun Warriors AZFC",
+   "id": "50000558",
+   "name": "Sun Warriors U14 G"
   },
   {
-   "club": "Playmaker Futbol Academy",
-   "id": "50000560",
-   "name": "Playmaker Futbol Academy G2012/13 Black"
+   "club": "Utah Royals FC - AZ",
+   "id": "50000566",
+   "name": "Utah Royals FC-AZ ECNL-RL G2012/13"
   },
   {
-   "club": "East Valley/NSFC",
-   "id": "50000553",
-   "name": "East Valley NSFC N1 G12/13 Hurtado AZ"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "50000559",
-   "name": "CCV Stars U14 Girls Peoria N2"
+   "club": "North Valley FC Arizona",
+   "id": "50020297",
+   "name": "NVFCA GU14 NL Premier"
   },
   {
    "club": "Arizona Surf Soccer Club",
    "id": "50030999",
    "name": "Sierra Vista U14G"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "50030985",
-   "name": "U14G DPL"
   },
   {
    "club": "North Scottsdale Soccer Club",
@@ -206,6 +191,36 @@
    "name": "Synergy FC U14 Girls"
   },
   {
+   "club": "Playmaker Futbol Academy",
+   "id": "50000560",
+   "name": "Playmaker Futbol Academy G2012/13 Black"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50030985",
+   "name": "U14G DPL"
+  },
+  {
+   "club": "East Valley/NSFC",
+   "id": "50000553",
+   "name": "East Valley NSFC N1 G12/13 Hurtado AZ"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "50000557",
+   "name": "AZ Arsenal 2012/13 Girls NAZ2"
+  },
+  {
+   "club": "AZFC",
+   "id": "50000548",
+   "name": "Select 12/13G Red"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "50000559",
+   "name": "CCV Stars U14 Girls Peoria N2"
+  },
+  {
    "club": "RSL-AZ South",
    "id": "50030987",
    "name": "U14G Callaghan Royals"
@@ -216,24 +231,14 @@
    "name": "FC Tucson Youth N1 2012-2013 AZ"
   },
   {
-   "club": "AZFC",
-   "id": "50000548",
-   "name": "Select 12/13G Red"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "50000551",
-   "name": "Scottsdale N1 G2012/13 AZ"
-  },
-  {
    "club": "Ascent United Soccer Club",
    "id": "50020301",
    "name": "Ascent United U14G Black"
   },
   {
-   "club": "CCV STARS",
-   "id": "50000544",
-   "name": "CCV Stars U14 Girls Surprise"
+   "club": "Kingman SC",
+   "id": "40114654",
+   "name": "G14U: Jon Sons Pool"
   },
   {
    "club": "NOS Santos SC",
@@ -241,29 +246,34 @@
    "name": "U14 Girls White"
   },
   {
+   "club": "CCV STARS",
+   "id": "50000544",
+   "name": "CCV Stars U14 Girls Surprise"
+  },
+  {
    "club": "FC Sonora",
    "id": "50025350",
    "name": "FC Sonora 12'/13' Dragons (14U)"
   },
   {
-   "club": "Kingman SC",
-   "id": "40114656",
-   "name": "G14U: TR Orr"
+   "club": "CCV STARS",
+   "id": "50020300",
+   "name": "CCV Stars U14 Girls East Mesa"
   },
   {
-   "club": "Southern Arizona Soccer Club",
-   "id": "50000535",
-   "name": "SASC U14G Cardinals Jimenez"
-  },
-  {
-   "club": "Arizona Surf Soccer Club",
-   "id": "50050001",
-   "name": "East Valley Surf U14G DPL"
+   "club": "Grande Football Club",
+   "id": "50020304",
+   "name": "Grande FC 2013 Garcia GirlsU14"
   },
   {
    "club": "RSL-AZ North",
    "id": "50000539",
    "name": "U14G Barrett Royals DPL"
+  },
+  {
+   "club": "Southern Arizona Soccer Club",
+   "id": "50000535",
+   "name": "SASC U14G Cardinals Jimenez"
   },
   {
    "club": "Vail SC",
@@ -276,24 +286,24 @@
    "name": "U14G Royals APL"
   },
   {
-   "club": "Kingman SC",
-   "id": "40114675",
-   "name": "G14U: Monolith Diagnostics"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "50020300",
-   "name": "CCV Stars U14 Girls East Mesa"
-  },
-  {
    "club": "Vail SC",
    "id": "50025349",
    "name": "VSC U14 Girls SV"
   },
   {
-   "club": "Grande Football Club",
-   "id": "50020304",
-   "name": "Grande FC 2013 Garcia GirlsU14"
+   "club": "Arizona Surf Soccer Club",
+   "id": "50050001",
+   "name": "East Valley Surf U14G DPL"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50000551",
+   "name": "Scottsdale N1 G2012/13 AZ"
+  },
+  {
+   "club": "Yavapai Soccer",
+   "id": "50020299",
+   "name": "Select 2012-13G"
   },
   {
    "club": "Arizona Surf Soccer Club",
@@ -306,14 +316,9 @@
    "name": "U14G DPL"
   },
   {
-   "club": "Yavapai Soccer",
-   "id": "50020299",
-   "name": "Select 2012-13G"
-  },
-  {
-   "club": "Kingman SC",
-   "id": "40114654",
-   "name": "G14U: Jon Sons Pool"
+   "club": "Ascent United Soccer Club",
+   "id": "50020302",
+   "name": "Ascent United U14G Gold"
   },
   {
    "club": "Arizona Arsenal Soccer Club",
@@ -321,19 +326,14 @@
    "name": "AZ Arsenal 2012/13 Girls Teal ZT"
   },
   {
-   "club": "Ascent United Soccer Club",
-   "id": "50020302",
-   "name": "Ascent United U14G Gold"
+   "club": "Brazas Futebol Club",
+   "id": "50020303",
+   "name": "Brazas FC 2012/2013 Girls Black"
   },
   {
    "club": "Playmaker Futbol Academy",
    "id": "50030991",
    "name": "PFA Flagstaff Revolution 12/13G"
-  },
-  {
-   "club": "Brazas Futebol Club",
-   "id": "50020303",
-   "name": "Brazas FC 2012/2013 Girls Black"
   },
   {
    "club": "NOS Santos SC",
@@ -374,6 +374,11 @@
    "club": "North Scottsdale Soccer Club",
    "id": "40041903",
    "name": "Scottsdale 13 Sandsharks Black Girls"
+  },
+  {
+   "club": "RSL-AZ Yuma",
+   "id": "40042657",
+   "name": "RSL-AZ Yuma U14 Girls Gomez Royals"
   },
   {
    "club": "East Valley/NSFC",

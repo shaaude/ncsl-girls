@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-10T16:11:58.998296+00:00",
+ "fetched_at": "2026-11-17T17:24:32.356241+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
@@ -16,14 +16,14 @@
    "name": "GA 13/14"
   },
   {
-   "club": "West Side Alliance SC",
-   "id": "50053048",
-   "name": "West Side Alliance ECNL G2013/14"
-  },
-  {
    "club": "Oklahoma Celtic",
    "id": "50016200",
    "name": "Oklahoma Celtic GA 13/14"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "50053048",
+   "name": "West Side Alliance ECNL G2013/14"
   },
   {
    "club": "FC Tulsa Academy",
@@ -37,23 +37,8 @@
   },
   {
    "club": "Oklahoma Energy FC",
-   "id": "40091935",
-   "name": "OK Energy FC Frontier ECNL RL G2013/14"
-  },
-  {
-   "club": "Oklahoma Energy FC",
    "id": "50044440",
    "name": "OK Energy FC ECNL RL G2013/14 FL"
-  },
-  {
-   "club": "South Lakes SC",
-   "id": "50044441",
-   "name": "Oklahoma Cosmos ECNL RL G2013/14"
-  },
-  {
-   "club": "West Side Alliance SC",
-   "id": "50016204",
-   "name": "West Side Alliance ECNL RL G2013/14"
   },
   {
    "club": "Oklahoma Energy FC",
@@ -61,14 +46,19 @@
    "name": "OK Energy FC G14 White N1"
   },
   {
+   "club": "South Lakes SC",
+   "id": "50044441",
+   "name": "Oklahoma Cosmos ECNL RL G2013/14"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "40091935",
+   "name": "OK Energy FC Frontier ECNL RL G2013/14"
+  },
+  {
    "club": "Oklahoma Celtic",
    "id": "40045036",
    "name": "Oklahoma Celtic G2014/15 Pre GA"
-  },
-  {
-   "club": "Tulsa Soccer Club",
-   "id": "50016193",
-   "name": "Tulsa SC N1 G2013/14"
   },
   {
    "club": "Oklahoma Celtic",
@@ -76,14 +66,29 @@
    "name": "Oklahoma Celtic N1 G2013/2014 White (OK)"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40091988",
-   "name": "ECNL RL G2013/14"
+   "club": "Tulsa Soccer Club",
+   "id": "50016193",
+   "name": "Tulsa SC N1 G2013/14"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "50016204",
+   "name": "West Side Alliance ECNL RL G2013/14"
   },
   {
    "club": "FC Tulsa Academy",
    "id": "50016194",
    "name": "FC Tulsa Academy N1 G2013/14 Premier (OK)"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "50044439",
+   "name": "BASC Express ECNL RL G2013/14"
+  },
+  {
+   "club": "Sporting Oklahoma",
+   "id": "50044436",
+   "name": "Sporting Oklahoma U13G Blue - North"
   },
   {
    "club": "Apex FC1",
@@ -101,9 +106,9 @@
    "name": "BASC Express G2013/14 Elite"
   },
   {
-   "club": "Sporting Oklahoma",
-   "id": "50044436",
-   "name": "Sporting Oklahoma U13G Blue - North"
+   "club": "NE Oklahoma FC",
+   "id": "50016195",
+   "name": "NEOFC 13/14 Girls Blue"
   },
   {
    "club": "Oklahoma Energy FC",
@@ -111,14 +116,9 @@
    "name": "OK Energy FC G14 Black"
   },
   {
-   "club": "NE Oklahoma FC",
-   "id": "50016195",
-   "name": "NEOFC 13/14 Girls Blue"
-  },
-  {
    "club": "Broken Arrow Soccer Club",
-   "id": "50022446",
-   "name": "BASC Express G2013/14 Classic"
+   "id": "40091988",
+   "name": "ECNL RL G2013/14"
   },
   {
    "club": "Stillwater SC",
@@ -126,9 +126,9 @@
    "name": "APEX FC U13 Girls Black"
   },
   {
-   "club": "West Side Alliance SC",
-   "id": "40091970",
-   "name": "West Side Alliance OKC ECNL RL G2013/14"
+   "club": "Broken Arrow Soccer Club",
+   "id": "50022446",
+   "name": "BASC Express G2013/14 Classic"
   },
   {
    "club": "Tulsa Soccer Club",
@@ -141,11 +141,6 @@
    "name": "Vision U13G Black"
   },
   {
-   "club": "Elevate FC",
-   "id": "50016197",
-   "name": "ElevateFC 13/14G"
-  },
-  {
    "club": "Oklahoma Energy FC",
    "id": "50022452",
    "name": "OEFC - ESC 14G Diamondbacks"
@@ -156,9 +151,19 @@
    "name": "Atletico Oklahoma U13G"
   },
   {
+   "club": "Elevate FC",
+   "id": "50016197",
+   "name": "ElevateFC 13/14G"
+  },
+  {
    "club": "Mustang YSA",
    "id": "50022448",
    "name": "Mustang Synergy 2014 G"
+  },
+  {
+   "club": "Claremore SC",
+   "id": "50022449",
+   "name": "Select 14G"
   },
   {
    "club": "Midwest City SC",
@@ -166,19 +171,14 @@
    "name": "Vision U13G Maroon"
   },
   {
-   "club": "West Side Alliance SC",
-   "id": "40091961",
-   "name": "West Side Alliance Tulsa ECNL RL G2013/14"
-  },
-  {
    "club": "Tulsa Greenwood SC",
    "id": "50044430",
    "name": "Greenwood SC 2014 G"
   },
   {
-   "club": "Claremore SC",
-   "id": "50022449",
-   "name": "Select 14G"
+   "club": "West Side Alliance SC",
+   "id": "40091970",
+   "name": "West Side Alliance OKC ECNL RL G2013/14"
   },
   {
    "club": "South Lakes SC",
@@ -191,6 +191,16 @@
    "name": "WSC u13 Elite Girls"
   },
   {
+   "club": "Harrah SC",
+   "id": "40066787",
+   "name": "Apex 2014 Girls"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "40091961",
+   "name": "West Side Alliance Tulsa ECNL RL G2013/14"
+  },
+  {
    "club": "Ft Gibson SC",
    "id": "50022450",
    "name": "FGSC 1824 U13G"
@@ -199,11 +209,6 @@
    "club": "NE Oklahoma FC",
    "id": "40044956",
    "name": "NEOFC Bartlesville 13/14 Girls Gray"
-  },
-  {
-   "club": "Harrah SC",
-   "id": "40066787",
-   "name": "Apex 2014 Girls"
   },
   {
    "club": "FC Tulsa Academy",
@@ -261,9 +266,9 @@
    "name": "NYSA G1301-Valkyries"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "50044439",
-   "name": "BASC Express ECNL RL G2013/14"
+   "club": "West Side Alliance SC",
+   "id": "40114114",
+   "name": "WSA Pre-ECNL G14/15 Gold"
   },
   {
    "club": "Oklahoma Energy FC",

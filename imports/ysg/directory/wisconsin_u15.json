@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-10T16:34:19.161424+00:00",
+ "fetched_at": "2026-11-17T17:46:52.356126+00:00",
  "state": "WI",
  "state_slug": "wisconsin",
  "teams": [
@@ -14,11 +14,6 @@
    "club": "Madison 56ers",
    "id": "50049759",
    "name": "GA 11/12"
-  },
-  {
-   "club": "FC Wisconsin Girls",
-   "id": "50053855",
-   "name": "FC Wisconsin ECNL G2011/12"
   },
   {
    "club": "AFC Union",
@@ -36,14 +31,19 @@
    "name": "Aspire 11/12"
   },
   {
+   "club": "North Shore United",
+   "id": "40070763",
+   "name": "GA 11/12"
+  },
+  {
+   "club": "SC Wave",
+   "id": "40070632",
+   "name": "GA 11/12"
+  },
+  {
    "club": "Polonia SC",
    "id": "50019750",
    "name": "N1 G2011/12 Polonia (WI)"
-  },
-  {
-   "club": "Madison 56ers",
-   "id": "50049760",
-   "name": "Aspire 11/12"
   },
   {
    "club": "Forward Madison FC",
@@ -51,9 +51,19 @@
    "name": "Rally Madison FC U15G N1"
   },
   {
+   "club": "FC Wisconsin Girls",
+   "id": "50053855",
+   "name": "FC Wisconsin ECNL G2011/12"
+  },
+  {
    "club": "North Shore United",
-   "id": "40070763",
-   "name": "GA 11/12"
+   "id": "50019754",
+   "name": "Aspire 11/12"
+  },
+  {
+   "club": "Madison 56ers",
+   "id": "50049760",
+   "name": "Aspire 11/12"
   },
   {
    "club": "RUSH Wisconsin",
@@ -71,23 +81,13 @@
    "name": "FC Wisconsin ECNL RL G2011/12"
   },
   {
-   "club": "Croatian Eagles SC",
-   "id": "50019751",
-   "name": "Aspire 11/12"
-  },
-  {
-   "club": "SC Wave",
-   "id": "40070632",
-   "name": "GA 11/12"
-  },
-  {
    "club": "Western Wisconsin Soccer",
    "id": "50049761",
    "name": "G2011/12 WW VSA"
   },
   {
-   "club": "North Shore United",
-   "id": "50019754",
+   "club": "Croatian Eagles SC",
+   "id": "50019751",
    "name": "Aspire 11/12"
   },
   {
@@ -164,6 +164,11 @@
    "club": "NSU Germantown",
    "id": "40180147",
    "name": "NSU Germantown Girls U14 Blue"
+  },
+  {
+   "club": "WI United",
+   "id": "40202189",
+   "name": "Aspire 11/12"
   }
  ]
 }

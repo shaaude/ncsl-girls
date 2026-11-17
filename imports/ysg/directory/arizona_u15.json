@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-10T15:13:38.919100+00:00",
+ "fetched_at": "2026-11-17T16:26:03.712955+00:00",
  "state": "AZ",
  "state_slug": "arizona",
  "teams": [
@@ -11,14 +11,19 @@
    "name": "Utah Royals FC-AZ ECNL G2011/12"
   },
   {
+   "club": "Phoenix Rising FC",
+   "id": "50000658",
+   "name": "ECNL G2011/12"
+  },
+  {
    "club": "Arizona Arsenal Soccer Club",
    "id": "50000660",
    "name": "Arizona Arsenal ECNL G2011/12"
   },
   {
-   "club": "Phoenix Rising FC",
-   "id": "50000658",
-   "name": "ECNL G2011/12"
+   "club": "East Valley/NSFC",
+   "id": "50000649",
+   "name": "East Valley NSFC N1 G11/12 Klingler AZ"
   },
   {
    "club": "SC del Sol",
@@ -31,9 +36,9 @@
    "name": "Utah Royals FC-AZ RL G2011/12"
   },
   {
-   "club": "East Valley/NSFC",
-   "id": "50000649",
-   "name": "East Valley NSFC N1 G11/12 Klingler AZ"
+   "club": "CCV STARS",
+   "id": "50031038",
+   "name": "CCV Stars ECNL RL G2011/12 (U15)"
   },
   {
    "club": "FC Tucson Youth Soccer",
@@ -41,39 +46,9 @@
    "name": "11/12 GA"
   },
   {
-   "club": "CCV STARS",
-   "id": "50031038",
-   "name": "CCV Stars ECNL RL G2011/12 (U15)"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "50000663",
-   "name": "ECNL RL G2011/12"
-  },
-  {
    "club": "Phoenix Premier FC",
    "id": "50000656",
    "name": "Aspire 11/12"
-  },
-  {
-   "club": "Arizona Soccer Club",
-   "id": "50000662",
-   "name": "ECNL RL G2011/12"
-  },
-  {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "40093131",
-   "name": "Arizona Arsenal ECNL RL G2011/12"
-  },
-  {
-   "club": "RSL-AZ Southern AZ",
-   "id": "50024780",
-   "name": "U15G DPL"
-  },
-  {
-   "club": "Arizona Surf Soccer Club",
-   "id": "50024783",
-   "name": "East Valley U15 G DPL"
   },
   {
    "club": "NOS Santos SC",
@@ -81,14 +56,44 @@
    "name": "NOS Santos U15 Girls Blue"
   },
   {
-   "club": "Excel Soccer Academy",
-   "id": "50000631",
+   "club": "RSL-AZ Southern AZ",
+   "id": "50024780",
    "name": "U15G DPL"
   },
   {
    "club": "FC Elite Arizona",
    "id": "50000640",
    "name": "FC Elite Arizona 2012 Girls"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50000663",
+   "name": "ECNL RL G2011/12"
+  },
+  {
+   "club": "Arizona Surf Soccer Club",
+   "id": "50024783",
+   "name": "East Valley U15 G DPL"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50000647",
+   "name": "Scottsdale N1 G2011/12 AZ"
+  },
+  {
+   "club": "Arizona Soccer Club",
+   "id": "50000662",
+   "name": "ECNL RL G2011/12"
+  },
+  {
+   "club": "Vail SC",
+   "id": "50000645",
+   "name": "VSC 2012 Girls Green"
+  },
+  {
+   "club": "Yavapai Soccer",
+   "id": "50020315",
+   "name": "Select 2011-12G"
   },
   {
    "club": "Next Level Soccer (AZ)",
@@ -101,9 +106,9 @@
    "name": "AZ Arsenal ECNL RL G2011/12"
   },
   {
-   "club": "Phoenix Rising FC",
-   "id": "50000647",
-   "name": "Scottsdale N1 G2011/12 AZ"
+   "club": "North Valley FC Arizona",
+   "id": "50000637",
+   "name": "NVFCA GU15"
   },
   {
    "club": "SC del Sol",
@@ -111,44 +116,14 @@
    "name": "Aspire 11/12"
   },
   {
-   "club": "East Valley/NSFC",
-   "id": "50031032",
-   "name": "East Valley NSFC N1 G11/12 Gallegos AZ"
-  },
-  {
    "club": "CCV STARS",
    "id": "50000639",
    "name": "CCV Stars U15 Girls Laveen"
   },
   {
-   "club": "Yavapai Soccer",
-   "id": "50020315",
-   "name": "Select 2011-12G"
-  },
-  {
-   "club": "CCV STARS",
-   "id": "50000651",
-   "name": "CCV Stars U15 Girls Peoria N2"
-  },
-  {
-   "club": "RSL-AZ North",
-   "id": "50024781",
-   "name": "U15G Barrett Royals DPL"
-  },
-  {
-   "club": "Ascent United Soccer Club",
-   "id": "50000652",
-   "name": "Ascent United U15G Black"
-  },
-  {
-   "club": "North Valley FC Arizona",
-   "id": "50000637",
-   "name": "NVFCA GU15"
-  },
-  {
-   "club": "Vail SC",
-   "id": "50000645",
-   "name": "VSC 2012 Girls Green"
+   "club": "East Valley/NSFC",
+   "id": "50031032",
+   "name": "East Valley NSFC N1 G11/12 Gallegos AZ"
   },
   {
    "club": "Paris Saint-Germain Academy Phoenix",
@@ -156,9 +131,34 @@
    "name": "PSG 12 Blue Ladies"
   },
   {
+   "club": "Excel Soccer Academy",
+   "id": "50000631",
+   "name": "U15G DPL"
+  },
+  {
    "club": "Phoenix Rush",
    "id": "50000641",
    "name": "Phoenix Rush N1 G2011/12 (AZ)"
+  },
+  {
+   "club": "Ascent United Soccer Club",
+   "id": "50000652",
+   "name": "Ascent United U15G Black"
+  },
+  {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "40093131",
+   "name": "Arizona Arsenal ECNL RL G2011/12"
+  },
+  {
+   "club": "RSL-AZ North",
+   "id": "50024781",
+   "name": "U15G Barrett Royals DPL"
+  },
+  {
+   "club": "CCV STARS",
+   "id": "50000651",
+   "name": "CCV Stars U15 Girls Peoria N2"
   },
   {
    "club": "CCV STARS",
@@ -181,34 +181,14 @@
    "name": "RSL WV U15 GIRLS N1L"
   },
   {
-   "club": "Arizona Surf Soccer Club",
-   "id": "50000627",
-   "name": "Pima U15 G N1"
-  },
-  {
-   "club": "Arizona Surf Soccer Club",
-   "id": "50000654",
-   "name": "East Valley U15 G"
-  },
-  {
    "club": "CCV STARS",
    "id": "50000648",
    "name": "CCV Stars U15 Girls Surprise N1"
   },
   {
    "club": "Arizona Surf Soccer Club",
-   "id": "50025364",
-   "name": "East Valley Surf U15G Peacock"
-  },
-  {
-   "club": "Ascent United Soccer Club",
-   "id": "50020317",
-   "name": "Ascent United U15G Gold"
-  },
-  {
-   "club": "Arizona Soccer Club",
-   "id": "50000630",
-   "name": "U15G DPL"
+   "id": "50000627",
+   "name": "Pima U15 G N1"
   },
   {
    "club": "Phoenix Rising FC",
@@ -216,9 +196,19 @@
    "name": "North G2011 Predator"
   },
   {
-   "club": "Arizona Arsenal Soccer Club",
-   "id": "50024778",
-   "name": "U15G DPL"
+   "club": "Phoenix Rush",
+   "id": "50000638",
+   "name": "U15 Rush Nero Girls"
+  },
+  {
+   "club": "Arizona Surf Soccer Club",
+   "id": "50000654",
+   "name": "East Valley U15 G"
+  },
+  {
+   "club": "Arizona Surf Soccer Club",
+   "id": "50025364",
+   "name": "East Valley Surf U15G Peacock"
   },
   {
    "club": "CCV STARS",
@@ -226,29 +216,34 @@
    "name": "CCV Stars U15 Girls Peoria Orange"
   },
   {
+   "club": "Arizona Arsenal Soccer Club",
+   "id": "50024778",
+   "name": "U15G DPL"
+  },
+  {
+   "club": "Ascent United Soccer Club",
+   "id": "50020317",
+   "name": "Ascent United U15G Gold"
+  },
+  {
    "club": "NOS Santos SC",
    "id": "50000633",
    "name": "U15 Girls White"
   },
   {
-   "club": "Phoenix Rush",
-   "id": "50000638",
-   "name": "U15 Rush Nero Girls"
+   "club": "Arizona Soccer Club",
+   "id": "50000630",
+   "name": "U15G DPL"
+  },
+  {
+   "club": "Grande Football Club",
+   "id": "40041745",
+   "name": "Grande FC MAR 2012 Smarik GirlsU15"
   },
   {
    "club": "East Valley Surf",
    "id": "50031037",
    "name": "East Valley Surf U15G Peacock"
-  },
-  {
-   "club": "Phoenix Rising FC",
-   "id": "50024782",
-   "name": "U15G DPL"
-  },
-  {
-   "club": "RSL-AZ Yuma",
-   "id": "50031033",
-   "name": "RSL-AZ Yuma U15 Girls Moreno Royals"
   },
   {
    "club": "Phoenix Rising FC",
@@ -261,14 +256,14 @@
    "name": "FC Sonora 11'/12' Dragons (15U)"
   },
   {
-   "club": "Renegades Soccer Club",
-   "id": "50000650",
-   "name": "PC Legacy 12G"
+   "club": "RSL-AZ Yuma",
+   "id": "50031033",
+   "name": "RSL-AZ Yuma U15 Girls Moreno Royals"
   },
   {
-   "club": "RSL-AZ North",
-   "id": "50031035",
-   "name": "U15G Abbasy Royals"
+   "club": "NOS Santos SC",
+   "id": "50000655",
+   "name": "U15 Girls Yellow"
   },
   {
    "club": "Canyon Del Oro Soccer Club",
@@ -279,6 +274,21 @@
    "club": "RSL-AZ West Valley",
    "id": "50031036",
    "name": "RSL WV U15 GIRLS BLUE"
+  },
+  {
+   "club": "Renegades Soccer Club",
+   "id": "50000650",
+   "name": "PC Legacy 12G"
+  },
+  {
+   "club": "Phoenix Rising FC",
+   "id": "50024782",
+   "name": "U15G DPL"
+  },
+  {
+   "club": "RSL-AZ North",
+   "id": "50031035",
+   "name": "U15G Abbasy Royals"
   },
   {
    "club": "Phoenix Premier FC",
@@ -316,16 +326,6 @@
    "name": "N1L G2011/12"
   },
   {
-   "club": "Grande Football Club",
-   "id": "40041745",
-   "name": "Grande FC MAR 2012 Smarik GirlsU15"
-  },
-  {
-   "club": "NOS Santos SC",
-   "id": "50000655",
-   "name": "U15 Girls Yellow"
-  },
-  {
    "club": "East Valley/NSFC",
    "id": "40041918",
    "name": "East Valley NSFC 11/12 Girls ZKlein"
@@ -344,6 +344,16 @@
    "club": "Arizona Arsenal Soccer Club",
    "id": "50031039",
    "name": "AZ Arsenal ECNL G2011/12"
+  },
+  {
+   "club": "East Valley FC",
+   "id": "40202205",
+   "name": "DPL U15"
+  },
+  {
+   "club": "SC del Sol",
+   "id": "40202277",
+   "name": "U15 GA Aspire"
   }
  ]
 }
