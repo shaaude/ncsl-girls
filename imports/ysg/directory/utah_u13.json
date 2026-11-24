@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-17T17:39:12.396362+00:00",
+ "fetched_at": "2026-11-24T19:22:13.424645+00:00",
  "state": "UT",
  "state_slug": "utah",
  "teams": [
@@ -16,6 +16,11 @@
    "name": "Copper Mountain 7 TB"
   },
   {
+   "club": "Wasatch SC",
+   "id": "50048480",
+   "name": "GA Wasatch SC 14/13G - SC"
+  },
+  {
    "club": "La Roca FC",
    "id": "50048490",
    "name": "La Roca FC ECNL RL North G2013/14"
@@ -24,11 +29,6 @@
    "club": "Wasatch SC",
    "id": "50048475",
    "name": "Wasatch BM 14G"
-  },
-  {
-   "club": "Utah Surf",
-   "id": "40092412",
-   "name": "ECNL RL G2013/14"
   },
   {
    "club": "La Roca FC",
@@ -41,9 +41,24 @@
    "name": "MetaSport FC U13G CH"
   },
   {
+   "club": "Utah Surf",
+   "id": "40092412",
+   "name": "ECNL RL G2013/14"
+  },
+  {
    "club": "Wasatch SC",
    "id": "50018804",
    "name": "Aspire 13/14"
+  },
+  {
+   "club": "La Roca FC",
+   "id": "50018809",
+   "name": "La Roca ECNL U13G A Gordon"
+  },
+  {
+   "club": "Utah Avalanche",
+   "id": "40092337",
+   "name": "NUU Avalanche ECNL RL G2013/14"
   },
   {
    "club": "Aggies FC",
@@ -61,11 +76,6 @@
    "name": "Athletic SC G13/14 MR"
   },
   {
-   "club": "La Roca FC",
-   "id": "50018809",
-   "name": "La Roca ECNL U13G A Gordon"
-  },
-  {
    "club": "MetaSport FC",
    "id": "50048482",
    "name": "Metasport FC 13/14G U13 OL"
@@ -76,14 +86,19 @@
    "name": "Wasatch SC 14/13G - CO"
   },
   {
+   "club": "La Roca FC",
+   "id": "50048491",
+   "name": "La Roca FC ECNL RL South G2013/14"
+  },
+  {
    "club": "Utah Avalanche",
    "id": "50048481",
    "name": "Utah Avalanche ECNL RL G2013/14"
   },
   {
    "club": "La Roca FC",
-   "id": "50048491",
-   "name": "La Roca FC ECNL RL South G2013/14"
+   "id": "50048479",
+   "name": "La Roca U13 Girls A Lagomarsino"
   },
   {
    "club": "Utah Surf",
@@ -111,16 +126,6 @@
    "name": "City SC UT U13G DPL - JB"
   },
   {
-   "club": "La Roca FC",
-   "id": "50048479",
-   "name": "La Roca U13 Girls A Lagomarsino"
-  },
-  {
-   "club": "Wasatch SC",
-   "id": "50048480",
-   "name": "GA Wasatch SC 14/13G - SC"
-  },
-  {
    "club": "Utah Celtic",
    "id": "40070891",
    "name": "GA 13/14"
@@ -141,9 +146,9 @@
    "name": "Avalanche ECNL G2013/14"
   },
   {
-   "club": "Utah Avalanche",
-   "id": "40092337",
-   "name": "NUU Avalanche ECNL RL G2013/14"
+   "club": "Fire FC Utah",
+   "id": "50055994",
+   "name": "Fire FC U13G BF"
   },
   {
    "club": "City SC Utah",
@@ -249,6 +254,16 @@
    "club": "Cottonwood FC",
    "id": "50053602",
    "name": "CFC G13/14 Red BJ"
+  },
+  {
+   "club": "Copper Mountain DW",
+   "id": "40208114",
+   "name": "Copper Mountain DW"
+  },
+  {
+   "club": "Fire FC Utah",
+   "id": "40208118",
+   "name": "Fire FC 14G RH"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-11-17T17:03:54.281843+00:00",
+ "fetched_at": "2026-11-24T18:46:03.407006+00:00",
  "state": "MO",
  "state_slug": "missouri",
  "teams": [
@@ -27,13 +27,18 @@
   },
   {
    "club": "St. Louis Scott Gallagher",
+   "id": "50011904",
+   "name": "SLSG MO G 2015/2016 Academy Elite Silver"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
    "id": "40095492",
    "name": "SLSG Navy Academy I Pre-ECNL G2015/16"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50011904",
-   "name": "SLSG MO G 2015/2016 Academy Elite Silver"
+   "club": "Missouri Rush",
+   "id": "50011933",
+   "name": "Missouri Rush Pre-ECNL G2015/16 Blue"
   },
   {
    "club": "St. Louis Development Academy",
@@ -41,9 +46,9 @@
    "name": "STLDA 2015/16G Elite Navy Courage"
   },
   {
-   "club": "Missouri Rush",
-   "id": "50011933",
-   "name": "Missouri Rush Pre-ECNL G2015/16 Blue"
+   "club": "CarShield FC",
+   "id": "50011927",
+   "name": "CarShield FC 15/16G Academy"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -66,11 +71,6 @@
    "name": "SLSG MO G 2015/2016 Academy Elite Gold"
   },
   {
-   "club": "CarShield FC",
-   "id": "50011927",
-   "name": "CarShield FC 15/16G Academy"
-  },
-  {
    "club": "Missouri Rush",
    "id": "50011896",
    "name": "MRSC 16/17G Blue"
@@ -91,9 +91,9 @@
    "name": "LFA 15/16G Red Star Copa (2034)"
   },
   {
-   "club": "SCCYSA",
-   "id": "40046250",
-   "name": "U11G Troy United"
+   "club": "St. Louis Development Academy",
+   "id": "50011918",
+   "name": "STLDA 2015/16G Elite Navy Wave"
   },
   {
    "club": "KC Storm",
@@ -101,9 +101,14 @@
    "name": "KC Storm Lightning G15/16"
   },
   {
-   "club": "St. Louis Development Academy",
-   "id": "50011918",
-   "name": "STLDA 2015/16G Elite Navy Wave"
+   "club": "SCCYSA",
+   "id": "40046250",
+   "name": "U11G Troy United"
+  },
+  {
+   "club": "MYSA Independent Teams",
+   "id": "50052025",
+   "name": "KC Storm Lightning G15/16"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -116,6 +121,11 @@
    "name": "SLSG MO G 2015/2016 Elite Teal"
   },
   {
+   "club": "Lou Fusz Athletic",
+   "id": "50011897",
+   "name": "LFA 15/16G Red Star Samba (2034)"
+  },
+  {
    "club": "SEMO Elite FC",
    "id": "50011925",
    "name": "15/16G Pre Academy Black"
@@ -126,14 +136,9 @@
    "name": "STLDA 2015/16G Elite Red"
   },
   {
-   "club": "Lou Fusz Athletic",
-   "id": "50011897",
-   "name": "LFA 15/16G Red Star Samba (2034)"
-  },
-  {
-   "club": "MYSA Independent Teams",
-   "id": "50052025",
-   "name": "KC Storm Lightning G15/16"
+   "club": "St. Louis Scott Gallagher",
+   "id": "50028388",
+   "name": "SLSG MO G 2015/2016 Premier"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -141,14 +146,14 @@
    "name": "LFA West 15/16G Blue Star Major (2034)"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50028388",
-   "name": "SLSG MO G 2015/2016 Premier"
-  },
-  {
    "club": "Sporting Columbia SC",
    "id": "50011935",
    "name": "Sporting Columbia 15/16G Navy"
+  },
+  {
+   "club": "CarShield FC",
+   "id": "50011928",
+   "name": "CarShield FC 15/16G Navy"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -171,24 +176,14 @@
    "name": "BSSA 15/16 AMBU"
   },
   {
-   "club": "CarShield FC",
-   "id": "50011928",
-   "name": "CarShield FC 15/16G Navy"
-  },
-  {
    "club": "JB Marine Soccer Club",
    "id": "50011913",
    "name": "JB Marine Gold Meyer 15/16G"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "40095493",
-   "name": "SLSG Green Academy I Pre-ECNL G2015/16"
-  },
-  {
-   "club": "Missouri Rush",
-   "id": "50011916",
-   "name": "MRSC 15/16G Brazil"
+   "club": "River City FC",
+   "id": "50024028",
+   "name": "River City FC 2015/16G Academy"
   },
   {
    "club": "Missouri Rush",
@@ -196,14 +191,19 @@
    "name": "MRSC 15/16G White"
   },
   {
+   "club": "Missouri Rush",
+   "id": "50011916",
+   "name": "MRSC 15/16G Brazil"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "40095493",
+   "name": "SLSG Green Academy I Pre-ECNL G2015/16"
+  },
+  {
    "club": "Midwest Legacy Soccer Club",
    "id": "50011922",
    "name": "Midwest Legacy SC 15/16G Blue"
-  },
-  {
-   "club": "River City FC",
-   "id": "50024028",
-   "name": "River City FC 2015/16G Academy"
   },
   {
    "club": "KC Athletics",
@@ -222,8 +222,8 @@
   },
   {
    "club": "St. Louis Stars SC",
-   "id": "50028380",
-   "name": "St. Louis Stars SC 15/16 Girls Academy Red"
+   "id": "50011905",
+   "name": "St. Louis Stars SC 15/16 Girls Elite Red"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -232,8 +232,13 @@
   },
   {
    "club": "St. Louis Stars SC",
-   "id": "50011905",
-   "name": "St. Louis Stars SC 15/16 Girls Elite Red"
+   "id": "50028380",
+   "name": "St. Louis Stars SC 15/16 Girls Academy Red"
+  },
+  {
+   "club": "Kolping Kicks Soccer Club",
+   "id": "50024025",
+   "name": "Kolping SC 15/16G Gillick"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -251,9 +256,9 @@
    "name": "Turbo SC 2015/2016G Pink"
   },
   {
-   "club": "Kolping Kicks Soccer Club",
-   "id": "50024025",
-   "name": "Kolping SC 15/16G Gillick"
+   "club": "Steamer's Crew Soccer Club",
+   "id": "50028381",
+   "name": "Steamer's Crew 15/16G Blue"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -261,9 +266,9 @@
    "name": "LFA West 15/16G White Star Samba (2034)"
   },
   {
-   "club": "Steamer's Crew Soccer Club",
-   "id": "50028381",
-   "name": "Steamer's Crew 15/16G Blue"
+   "club": "United Capital City Athletic",
+   "id": "50052021",
+   "name": "United Capital City Athletic 2015/16G"
   },
   {
    "club": "Kirkwood United SC",
@@ -271,19 +276,14 @@
    "name": "Kirkwood United SC 15/16G Red Wells"
   },
   {
-   "club": "Sporting Springfield",
-   "id": "40095400",
-   "name": "Pre-ECNL G2015/16"
-  },
-  {
    "club": "St. Louis Scott Gallagher",
    "id": "40095494",
    "name": "SLSG IL Academy I Pre-ECNL G2015/16"
   },
   {
-   "club": "United Capital City Athletic",
-   "id": "50052021",
-   "name": "United Capital City Athletic 2015/16G"
+   "club": "Sporting Springfield",
+   "id": "40095400",
+   "name": "Pre-ECNL G2015/16"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -301,9 +301,9 @@
    "name": "CarShield FC 15/16G White"
   },
   {
-   "club": "Union KC Soccer Club",
-   "id": "50011938",
-   "name": "Union KC 15/16G Jr Elite MO"
+   "club": "JB Marine Soccer Club",
+   "id": "50024026",
+   "name": "JB Marine Green 15/16G"
   },
   {
    "club": "Saint Louis Fire FC",
@@ -311,9 +311,9 @@
    "name": "Saint Louis Fire FC 2016G Inferno - Eureka"
   },
   {
-   "club": "United STL Academy",
-   "id": "40043890",
-   "name": "United STL 15/16G Purple"
+   "club": "Union KC Soccer Club",
+   "id": "50011938",
+   "name": "Union KC 15/16G Jr Elite MO"
   },
   {
    "club": "CarShield FC",
@@ -331,14 +331,14 @@
    "name": "LFA 15/16G Red Star Nemesis (2034)"
   },
   {
+   "club": "United STL Academy",
+   "id": "40043890",
+   "name": "United STL 15/16G Purple"
+  },
+  {
    "club": "Kirkwood United SC",
    "id": "40043595",
    "name": "Kirkwood United SC 15/16G Red Joseph"
-  },
-  {
-   "club": "JB Marine Soccer Club",
-   "id": "50024026",
-   "name": "JB Marine Green 15/16G"
   },
   {
    "club": "UCCA",
@@ -346,24 +346,24 @@
    "name": "United Capital City Athletic U11G"
   },
   {
-   "club": "St. Louis Youth Soccer Association",
-   "id": "50028383",
-   "name": "Turbo SC 2015/2016G Teal"
-  },
-  {
    "club": "KC Athletics",
    "id": "50052026",
    "name": "KC Athletics Speciale u11G"
   },
   {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50011917",
-   "name": "SLSG MO G 2015/2016 Barcelona"
-  },
-  {
    "club": "Saint Louis Fire FC",
    "id": "50011906",
    "name": "Saint Louis Fire FC 2015/16g Inferno"
+  },
+  {
+   "club": "St. Louis Youth Soccer Association",
+   "id": "50028383",
+   "name": "Turbo SC 2015/2016G Teal"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "50011917",
+   "name": "SLSG MO G 2015/2016 Barcelona"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -381,11 +381,6 @@
    "name": "15/16G Pre Academy White"
   },
   {
-   "club": "Lou Fusz Athletic",
-   "id": "50011907",
-   "name": "LFA 15/16G Red Star Mundial (2034)"
-  },
-  {
    "club": "Mineral Area Soccer Club",
    "id": "40043188",
    "name": "MASC 2015/16 Girls- Twisters"
@@ -394,6 +389,21 @@
    "club": "Lou Fusz Athletic",
    "id": "50011932",
    "name": "LFA 15/16G Red Star Telstar IL (2034)"
+  },
+  {
+   "club": "Lou Fusz Athletic",
+   "id": "50011907",
+   "name": "LFA 15/16G Red Star Mundial (2034)"
+  },
+  {
+   "club": "St. Louis Development Academy",
+   "id": "50011915",
+   "name": "STLDA 2015/16G Select Navy"
+  },
+  {
+   "club": "St. Louis Scott Gallagher",
+   "id": "50011889",
+   "name": "SLSG MO G 2015/2016 Real Madrid"
   },
   {
    "club": "CarShield FC",
@@ -406,19 +416,9 @@
    "name": "U11G Pandas"
   },
   {
-   "club": "St. Louis Development Academy",
-   "id": "50011915",
-   "name": "STLDA 2015/16G Select Navy"
-  },
-  {
    "club": "Flyers Soccer Club",
    "id": "50011920",
    "name": "Flyers SC - 15/16G McMackins"
-  },
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50011889",
-   "name": "SLSG MO G 2015/2016 Real Madrid"
   },
   {
    "club": "Cape County Soccer Club",
@@ -426,9 +426,9 @@
    "name": "CCSC - Riptides 15/16G"
   },
   {
-   "club": "Steamer's Crew Soccer Club",
-   "id": "40043435",
-   "name": "Steamer's Crew 15/16G Gray"
+   "club": "AFA Fillies",
+   "id": "40043367",
+   "name": "AFA Fillies G2015/16 Swiss Skydivers"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -436,24 +436,9 @@
    "name": "LFA West 15/16G White Star Copa (2034)"
   },
   {
-   "club": "AFA Fillies",
-   "id": "40043367",
-   "name": "AFA Fillies G2015/16 Swiss Skydivers"
-  },
-  {
-   "club": "River City FC",
-   "id": "50024029",
-   "name": "River City FC 2015/16G Select"
-  },
-  {
    "club": "Franklin County Sports Club",
    "id": "50011891",
    "name": "FCSC 15/16G Tsunami"
-  },
-  {
-   "club": "St. Louis Scott Gallagher",
-   "id": "50028387",
-   "name": "SLSG MO G 2015/2016 Everton"
   },
   {
    "club": "Missouri Rush",
@@ -461,14 +446,34 @@
    "name": "MRSC 15/16G Spain"
   },
   {
+   "club": "St. Louis Scott Gallagher",
+   "id": "50028387",
+   "name": "SLSG MO G 2015/2016 Everton"
+  },
+  {
    "club": "Sporting Columbia SC",
    "id": "50011934",
    "name": "Sporting Columbia 15/16G White"
   },
   {
+   "club": "River City FC",
+   "id": "50024029",
+   "name": "River City FC 2015/16G Select"
+  },
+  {
+   "club": "Steamer's Crew Soccer Club",
+   "id": "40043435",
+   "name": "Steamer's Crew 15/16G Gray"
+  },
+  {
    "club": "MYSA Independent Teams",
    "id": "50054119",
    "name": "KC LADY REBELS"
+  },
+  {
+   "club": "REAL WC St. Louis Soccer Club",
+   "id": "50028377",
+   "name": "REAL WC St. Louis STORM 15/16G"
   },
   {
    "club": "St. Louis Legends SC",
@@ -479,11 +484,6 @@
    "club": "Missouri Rush",
    "id": "50011901",
    "name": "MRSC 15/16G Argentina"
-  },
-  {
-   "club": "REAL WC St. Louis Soccer Club",
-   "id": "50028377",
-   "name": "REAL WC St. Louis STORM 15/16G"
   },
   {
    "club": "Sandhurst Soccer Club",
@@ -511,6 +511,11 @@
    "name": "Mambas SC 15/16G"
   },
   {
+   "club": "Steamer's Crew Soccer Club",
+   "id": "40043433",
+   "name": "Steamer's Crew 15/16G White"
+  },
+  {
    "club": "Sporting Springfield",
    "id": "50041013",
    "name": "Sporting Springfield U11 Portland Thorns"
@@ -519,11 +524,6 @@
    "club": "STL Lions FC",
    "id": "40044077",
    "name": "STL Lions GFC"
-  },
-  {
-   "club": "Steamer's Crew Soccer Club",
-   "id": "40043433",
-   "name": "Steamer's Crew 15/16G White"
   },
   {
    "club": "Sporting Springfield",
@@ -674,6 +674,11 @@
    "club": "FC Vardar",
    "id": "40202781",
    "name": "FC Vardar 2015/16G"
+  },
+  {
+   "club": "KCSG",
+   "id": "40206946",
+   "name": "KCSG U11 G Navy"
   }
  ]
 }

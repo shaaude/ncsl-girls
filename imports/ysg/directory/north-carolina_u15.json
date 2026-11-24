@@ -1,15 +1,10 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-17T17:19:22.379639+00:00",
+ "fetched_at": "2026-11-24T19:01:29.921019+00:00",
  "state": "NC",
  "state_slug": "north-carolina",
  "teams": [
-  {
-   "club": "Charlotte Independence SC",
-   "id": "40070807",
-   "name": "GA 11/12"
-  },
   {
    "club": "Charlotte Soccer Academy",
    "id": "50012561",
@@ -19,6 +14,11 @@
    "club": "NCFC Youth",
    "id": "50012559",
    "name": "NCFC Youth NC Courage ECNL G2011/12"
+  },
+  {
+   "club": "Charlotte Independence SC",
+   "id": "40070807",
+   "name": "GA 11/12"
   },
   {
    "club": "Wilmington Hammerheads FC",
@@ -31,9 +31,19 @@
    "name": "GA 11/12"
   },
   {
+   "club": "NC Fusion",
+   "id": "50012562",
+   "name": "NC Fusion ECNL G2011/12"
+  },
+  {
    "club": "Triangle United",
    "id": "50012550",
    "name": "GA 11/12"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012560",
+   "name": "NCFC Youth ECNL G2011/12"
   },
   {
    "club": "Charlotte Development Academy",
@@ -47,13 +57,13 @@
   },
   {
    "club": "NCFC Youth",
-   "id": "50012560",
-   "name": "NCFC Youth ECNL G2011/12"
+   "id": "50012565",
+   "name": "Elite ECNL RL G2011/12"
   },
   {
-   "club": "NC Fusion",
-   "id": "50012562",
-   "name": "NC Fusion ECNL G2011/12"
+   "club": "Charlotte Soccer Academy",
+   "id": "40091868",
+   "name": "Charlotte SA Blue ECNL RL G2011/12"
   },
   {
    "club": "AC Sandhills",
@@ -61,9 +71,19 @@
    "name": "N1 G 2011/12 Orange (NC)"
   },
   {
+   "club": "Carolina Core FC Youth",
+   "id": "50012555",
+   "name": "GA 11/12"
+  },
+  {
    "club": "Charlotte Soccer Academy",
-   "id": "40091868",
-   "name": "Charlotte SA Blue ECNL RL G2011/12"
+   "id": "50012564",
+   "name": "Charlotte SA White ECNL RL G2011/12"
+  },
+  {
+   "club": "Charlotte Soccer Academy",
+   "id": "40092987",
+   "name": "Charlotte SA Gold ECNL RL G2011/12"
   },
   {
    "club": "Wake FC",
@@ -76,9 +96,9 @@
    "name": "OCSA N1 G 2012 Coastal Crew (NC)"
   },
   {
-   "club": "Carolina Core FC Youth",
-   "id": "50012555",
-   "name": "GA 11/12"
+   "club": "Charlotte Independence SC",
+   "id": "40007692",
+   "name": "U15G DPL"
   },
   {
    "club": "FC ATHLETICO",
@@ -86,49 +106,14 @@
    "name": "FC ATHLETICO Surf N1 G U15 Gold"
   },
   {
-   "club": "OBX Storm, Inc",
-   "id": "40040498",
-   "name": "OBX Storm PL G2011/12 Seekers (NC)"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "50012565",
-   "name": "Elite ECNL RL G2011/12"
-  },
-  {
    "club": "NCFC Youth",
    "id": "50012544",
    "name": "NCFCY N1 G 2011 United North (NC)"
   },
   {
-   "club": "Charlotte Soccer Academy",
-   "id": "40092987",
-   "name": "Charlotte SA Gold ECNL RL G2011/12"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "50012564",
-   "name": "Charlotte SA White ECNL RL G2011/12"
-  },
-  {
-   "club": "Charlotte Independence SC",
-   "id": "40007692",
-   "name": "U15G DPL"
-  },
-  {
-   "club": "Fox Soccer Academy of the Carolinas",
-   "id": "50012551",
-   "name": "Fox Soccer Academy Aspire 11/12"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "50012545",
-   "name": "NCFCY N1 G 2011 Gold North (NC)"
-  },
-  {
-   "club": "Fayetteville SC / Villarreal Force Academy",
-   "id": "50012557",
-   "name": "Villarreal Force Academy N1 G2011/12 (NC)"
+   "club": "OBX Storm, Inc",
+   "id": "40040498",
+   "name": "OBX Storm PL G2011/12 Seekers (NC)"
   },
   {
    "club": "Wilmington United Futbol Academy",
@@ -136,9 +121,44 @@
    "name": "WUFA 15 Girls Premier"
   },
   {
+   "club": "Fox Soccer Academy of the Carolinas",
+   "id": "50012551",
+   "name": "Fox Soccer Academy Aspire 11/12"
+  },
+  {
+   "club": "Fayetteville SC / Villarreal Force Academy",
+   "id": "50012557",
+   "name": "Villarreal Force Academy N1 G2011/12 (NC)"
+  },
+  {
+   "club": "Highland FC",
+   "id": "50012563",
+   "name": "Highland FC ECNL RL G2011/12"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012545",
+   "name": "NCFCY N1 G 2011 Gold North (NC)"
+  },
+  {
    "club": "Carolina Velocity FC",
    "id": "50012553",
    "name": "Aspire 11/12"
+  },
+  {
+   "club": "Charlotte Development Academy",
+   "id": "50012542",
+   "name": "U15G DPL"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012566",
+   "name": "Premier ECNL RL G2011/12"
+  },
+  {
+   "club": "NC Fusion",
+   "id": "50012567",
+   "name": "NC Fusion ECNL RL G2011/12"
   },
   {
    "club": "Fox Soccer Academy of the Carolinas",
@@ -151,44 +171,19 @@
    "name": "Charlotte SA U15G Blue 2 N1 NC"
   },
   {
-   "club": "Charlotte Soccer Academy",
-   "id": "50028583",
-   "name": "Charlotte SA U15G Black 1 N1 NC"
-  },
-  {
-   "club": "Charlotte Development Academy",
-   "id": "50012542",
-   "name": "U15G DPL"
-  },
-  {
    "club": "Charlotte Independence SC",
    "id": "50021862",
    "name": "Aspire 11/12 North"
   },
   {
-   "club": "Highland FC",
-   "id": "50012563",
-   "name": "Highland FC ECNL RL G2011/12"
+   "club": "Charlotte Soccer Academy",
+   "id": "50028583",
+   "name": "Charlotte SA U15G Black 1 N1 NC"
   },
   {
-   "club": "Carolina Core FC Youth",
-   "id": "50012556",
-   "name": "Aspire 11/12"
-  },
-  {
-   "club": "NC Fusion",
-   "id": "50012567",
-   "name": "NC Fusion ECNL RL G2011/12"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "50012566",
-   "name": "Premier ECNL RL G2011/12"
-  },
-  {
-   "club": "NCFC Youth",
-   "id": "50012543",
-   "name": "NCFCY N1 G 2011 United South (NC)"
+   "club": "Wilmington Hammerheads FC",
+   "id": "50021863",
+   "name": "Wilmington Hammerheads ECNL RL G2011/12"
   },
   {
    "club": "Wake FC",
@@ -196,9 +191,14 @@
    "name": "U15G DPL"
   },
   {
-   "club": "Wilmington Hammerheads FC",
-   "id": "40013004",
-   "name": "Jacksonville Hammerheads U15 Girls"
+   "club": "Carolina Core FC Youth",
+   "id": "50012556",
+   "name": "Aspire 11/12"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012543",
+   "name": "NCFCY N1 G 2011 United South (NC)"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -206,9 +206,14 @@
    "name": "Charlotte SA U15G White 1 N1 NC"
   },
   {
+   "club": "Catawba Valley Youth Soccer Association",
+   "id": "40091888",
+   "name": "Catawba Valley YSA ECNL RL G2011/12"
+  },
+  {
    "club": "Wilmington Hammerheads FC",
-   "id": "50021863",
-   "name": "Wilmington Hammerheads ECNL RL G2011/12"
+   "id": "40013004",
+   "name": "Jacksonville Hammerheads U15 Girls"
   },
   {
    "club": "Triangle United",
@@ -221,24 +226,19 @@
    "name": "NCFCY N1 G 2011 Gold DCH (NC)"
   },
   {
-   "club": "Catawba Valley Youth Soccer Association",
-   "id": "40091888",
-   "name": "Catawba Valley YSA ECNL RL G2011/12"
-  },
-  {
    "club": "Carolina Football Club",
    "id": "50012554",
    "name": "Carolina FC N1 G u15 Red (NC)"
   },
   {
-   "club": "Wake FC",
-   "id": "50012548",
-   "name": "Wake FC N1 G 2011 Academy (NC)"
-  },
-  {
    "club": "Carolina Velocity FC",
    "id": "40013228",
    "name": "Carolina Velocity FC N1 G 2012 Burgundy (NC)"
+  },
+  {
+   "club": "Wake FC",
+   "id": "50012548",
+   "name": "Wake FC N1 G 2011 Academy (NC)"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -256,9 +256,19 @@
    "name": "Hurricanes 15UG"
   },
   {
+   "club": "Charlotte Soccer Academy",
+   "id": "40010039",
+   "name": "U15 CSA charlotte King G"
+  },
+  {
    "club": "North Carolina FC Youth",
    "id": "40106231",
    "name": "12 (14U) NCFCY Gold North G"
+  },
+  {
+   "club": "(",
+   "id": "40117336",
+   "name": "12 (U14) PGSA Stars Green G"
   },
   {
    "club": "Tor Futbol Academy",
@@ -294,6 +304,11 @@
    "club": "Sanford Area SL",
    "id": "40121023",
    "name": "15U SASL Breakers G"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "40207215",
+   "name": "11 (U15) NCFCY Red North G"
   }
  ]
 }

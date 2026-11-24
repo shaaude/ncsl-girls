@@ -1,15 +1,10 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-17T17:04:35.142158+00:00",
+ "fetched_at": "2026-11-24T18:46:42.955790+00:00",
  "state": "MO",
  "state_slug": "missouri",
  "teams": [
-  {
-   "club": "St. Louis Development Academy",
-   "id": "40070428",
-   "name": "GA 11/12"
-  },
   {
    "club": "Lou Fusz Athletic",
    "id": "40070658",
@@ -19,6 +14,11 @@
    "club": "St. Louis Scott Gallagher",
    "id": "40090232",
    "name": "Navy ECNL G2011/12"
+  },
+  {
+   "club": "St. Louis Development Academy",
+   "id": "40070428",
+   "name": "GA 11/12"
   },
   {
    "club": "Lou Fusz Athletic",
@@ -76,19 +76,9 @@
    "name": "Union KC N1 G2011/12 Elite (MO)"
   },
   {
-   "club": "Union KC Soccer Club",
-   "id": "50012223",
-   "name": "Union KC 11/12G Elite N1"
-  },
-  {
    "club": "REAL WC St. Louis Soccer Club",
    "id": "50012212",
    "name": "REAL WC St. Louis N1 G11/12 Premier12 (MO)"
-  },
-  {
-   "club": "AFA Fillies",
-   "id": "40092277",
-   "name": "ECNL RL G2011/12"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -99,6 +89,16 @@
    "club": "SEMO Elite FC",
    "id": "50012198",
    "name": "11/12G Academy Black"
+  },
+  {
+   "club": "Union KC Soccer Club",
+   "id": "50012223",
+   "name": "Union KC 11/12G Elite N1"
+  },
+  {
+   "club": "AFA Fillies",
+   "id": "40092277",
+   "name": "ECNL RL G2011/12"
   },
   {
    "club": "United Capital City Athletic",
@@ -121,13 +121,18 @@
    "name": "Sporting Columbia N1 G2011/12 Navy (MO)"
   },
   {
+   "club": "Lou Fusz Athletic",
+   "id": "50012200",
+   "name": "Aspire 11/12"
+  },
+  {
    "club": "Sporting Springfield",
    "id": "40091953",
    "name": "ECNL RL G2011/12"
   },
   {
-   "club": "Lou Fusz Athletic",
-   "id": "50012200",
+   "club": "St. Louis Development Academy",
+   "id": "50012199",
    "name": "Aspire 11/12"
   },
   {
@@ -136,19 +141,19 @@
    "name": "ECNL RL G2011/12"
   },
   {
-   "club": "Kolping Kicks Soccer Club",
-   "id": "50012213",
-   "name": "Kolping SC 11/12G Basler"
-  },
-  {
    "club": "Kansas City Scott Gallagher",
    "id": "50028495",
    "name": "KCSG N1 G2011/12 ELITE MO"
   },
   {
-   "club": "St. Louis Development Academy",
-   "id": "50012199",
-   "name": "Aspire 11/12"
+   "club": "Kolping Kicks Soccer Club",
+   "id": "50012213",
+   "name": "Kolping SC 11/12G Basler"
+  },
+  {
+   "club": "JB Marine Soccer Club",
+   "id": "50012209",
+   "name": "JB Marine Green 11/12G"
   },
   {
    "club": "St. Louis Scott Gallagher",
@@ -166,19 +171,14 @@
    "name": "Union KC 11/12G Elite Navy"
   },
   {
-   "club": "JB Marine Soccer Club",
-   "id": "50012209",
-   "name": "JB Marine Green 11/12G"
+   "club": "AFA Fillies",
+   "id": "50012194",
+   "name": "AFA Fillies G2011/12 Spirit"
   },
   {
    "club": "Washington Soccer Academy",
    "id": "50028496",
    "name": "Washington Soccer Academy 11/12G"
-  },
-  {
-   "club": "AFA Fillies",
-   "id": "50012194",
-   "name": "AFA Fillies G2011/12 Spirit"
   },
   {
    "club": "St. Louis Legends SC",
@@ -201,14 +201,14 @@
    "name": "Union Storm - 2011G"
   },
   {
-   "club": "CarShield FC",
-   "id": "50012216",
-   "name": "CarShield FC 11/12G Academy"
-  },
-  {
    "club": "Missouri Rush",
    "id": "50012195",
    "name": "MRSC N1 G2011/12 Premier Blue (MO)"
+  },
+  {
+   "club": "CarShield FC",
+   "id": "50012216",
+   "name": "CarShield FC 11/12G Academy"
   },
   {
    "club": "Ajax Soccer Club Saint Louis",
@@ -241,6 +241,11 @@
    "name": "Unified FC Academy 11/12G"
   },
   {
+   "club": "Saint Louis Fire FC",
+   "id": "50024073",
+   "name": "Saint Louis Fire FC 2011/2012G"
+  },
+  {
    "club": "Lou Fusz Athletic",
    "id": "50012203",
    "name": "N1 G2011/12 Blue Star Liga (MO)"
@@ -249,11 +254,6 @@
    "club": "REAL WC St. Louis Soccer Club",
    "id": "50024070",
    "name": "REAL WC St. Louis Girls-N-Blue U15"
-  },
-  {
-   "club": "Saint Louis Fire FC",
-   "id": "50024073",
-   "name": "Saint Louis Fire FC 2011/2012G"
   },
   {
    "club": "Steamer's Crew Soccer Club",
@@ -302,7 +302,7 @@
   },
   {
    "club": "Union KC Soccer Club",
-   "id": "40101992",
+   "id": "50055235",
    "name": "Union KC 11/12G Aspire Navy"
   },
   {
@@ -349,6 +349,11 @@
    "club": "Sporting City Soccer Club",
    "id": "40202223",
    "name": "Aspire 11/12"
+  },
+  {
+   "club": "KCSG",
+   "id": "40206948",
+   "name": "KCSG U15 G Elite"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-17T16:50:03.371779+00:00",
+ "fetched_at": "2026-11-24T18:31:58.827553+00:00",
  "state": "KS",
  "state_slug": "kansas",
  "teams": [
@@ -31,14 +31,19 @@
    "name": "BLUE ECNL RL G2010/11"
   },
   {
+   "club": "WICHITA WARRIORS SOCCER CLUB",
+   "id": "40076406",
+   "name": "Wichita Warriors 11G"
+  },
+  {
    "club": "Sporting Wichita",
    "id": "50009142",
    "name": "Sporting Wichita U16G N1L Academy"
   },
   {
-   "club": "WICHITA WARRIORS SOCCER CLUB",
-   "id": "40076406",
-   "name": "Wichita Warriors 11G"
+   "club": "Sporting Blue Valley",
+   "id": "50009149",
+   "name": "ECNL RL G2010/11"
   },
   {
    "club": "Wichita Surf Soccer Club",
@@ -49,11 +54,6 @@
    "club": "Wichita Surf Soccer Club",
    "id": "40019621",
    "name": "Wichita Surf U16G Elite"
-  },
-  {
-   "club": "Sporting Blue Valley",
-   "id": "50009149",
-   "name": "ECNL RL G2010/11"
   },
   {
    "club": "KC Athletics",
@@ -113,17 +113,7 @@
   {
    "club": "KC Athletics",
    "id": "50051318",
-   "name": "KC Athletics Valarosa u16G"
-  },
-  {
-   "club": "Sporting City",
-   "id": "50009143",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "KC Athletics",
-   "id": "50051320",
-   "name": "KC Athletics Swindon u16G"
+   "name": "KC Athletics Valarosa U16G"
   },
   {
    "club": "Sporting Wichita",
@@ -134,6 +124,16 @@
    "club": "KC Legends",
    "id": "50054098",
    "name": "Aspire 10/11"
+  },
+  {
+   "club": "Sporting City",
+   "id": "50009143",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "50051320",
+   "name": "KC Athletics Swindon u16G"
   },
   {
    "club": "Southwest Kansas Soccer Association",
@@ -224,6 +224,31 @@
    "club": "SWKS UNITED FC",
    "id": "40203262",
    "name": "SWKS UNITED FC U16G"
+  },
+  {
+   "club": "Sporting Wichita",
+   "id": "40209742",
+   "name": "Sporting Wichita U16G N1L Acade"
+  },
+  {
+   "club": "Toca Fusion",
+   "id": "40209900",
+   "name": "Toca Fusion Premier GU16"
+  },
+  {
+   "club": "KC Athletics",
+   "id": "40209901",
+   "name": "KC Athletics Academy Select Navy U16G"
+  },
+  {
+   "club": "Kansas Rush",
+   "id": "40209903",
+   "name": "Kansas Rush Blue ECNL RL U16G"
+  },
+  {
+   "club": "Kansas City Surf",
+   "id": "40209904",
+   "name": "KC Surf N1 U16G"
   }
  ]
 }

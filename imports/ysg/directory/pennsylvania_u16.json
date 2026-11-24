@@ -1,14 +1,24 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-17T17:28:42.354314+00:00",
+ "fetched_at": "2026-11-24T19:11:27.633046+00:00",
  "state": "PA",
  "state_slug": "pennsylvania",
  "teams": [
   {
+   "club": "FC DELCO",
+   "id": "50016982",
+   "name": "ECNL RL G2010/11"
+  },
+  {
    "club": "Philadelphia Ukrainian Nationals",
    "id": "50016971",
    "name": "G2010/11 USYS"
+  },
+  {
+   "club": "Lancaster Inferno",
+   "id": "50022802",
+   "name": "Lancaster Inferno N1 G2011 Academy (PA)"
   },
   {
    "club": "Warminster SC",
@@ -16,19 +26,24 @@
    "name": "Flame"
   },
   {
+   "club": "Western Lehigh United SC",
+   "id": "50016973",
+   "name": "WLUSC U16 Girls - Hain"
+  },
+  {
+   "club": "PA Classics",
+   "id": "50016968",
+   "name": "PA Classics NAL Reading 10/11 F"
+  },
+  {
    "club": "Warrington SC",
    "id": "40011755",
    "name": "U15G Warrington Wildcats"
   },
   {
-   "club": "Hunter SC",
-   "id": "50045542",
-   "name": "Blue"
-  },
-  {
-   "club": "PA Classics",
-   "id": "50016962",
-   "name": "PA Classics United 11 F"
+   "club": "North Union United SC",
+   "id": "50016964",
+   "name": "NUU 11F Strikers"
   },
   {
    "club": "Balls Mills SC",
@@ -41,14 +56,29 @@
    "name": "HVAA U16G Navy"
   },
   {
-   "club": "North Union United SC",
-   "id": "50016964",
-   "name": "NUU 11F Strikers"
+   "club": "FC Europa",
+   "id": "50016984",
+   "name": "ECNL RL G2010/11"
   },
   {
-   "club": "Fox Chase SC",
-   "id": "40011516",
-   "name": "Fox Chase Force"
+   "club": "Philadelphia Ukrainian Nationals",
+   "id": "50016980",
+   "name": "ECNL RL G2010/11"
+  },
+  {
+   "club": "PA Classics",
+   "id": "50016962",
+   "name": "PA Classics United 11 F"
+  },
+  {
+   "club": "Hunter SC",
+   "id": "50045542",
+   "name": "Blue"
+  },
+  {
+   "club": "Lampeter Strasburg Youth Soccer Club",
+   "id": "50016967",
+   "name": "Penn United Force FC 2011G"
   },
   {
    "club": "AC United",
@@ -59,6 +89,21 @@
    "club": "Warriors United",
    "id": "50016963",
    "name": "Lady Crusaders"
+  },
+  {
+   "club": "Tournament Team",
+   "id": "50056553",
+   "name": "Wave FC 2011G"
+  },
+  {
+   "club": "Reading Rage Surf",
+   "id": "50022807",
+   "name": "ECNL RL G2010/11"
+  },
+  {
+   "club": "Fox Chase SC",
+   "id": "40011516",
+   "name": "Fox Chase Force"
   },
   {
    "club": "Whitpain Recreation Assoc",
@@ -81,6 +126,11 @@
    "name": "U15G Pythons"
   },
   {
+   "club": "Lancaster FC",
+   "id": "50016974",
+   "name": "Lancaster FC G2010/11 Elite"
+  },
+  {
    "club": "Carlisle Area Youth Soccer",
    "id": "40005013",
    "name": "Carlisle U16"
@@ -89,21 +139,6 @@
    "club": "Pittsburgh Riverhounds",
    "id": "50016966",
    "name": "Pittsburgh Riverhounds NH GLA G2010/11"
-  },
-  {
-   "club": "Lancaster Inferno",
-   "id": "50022802",
-   "name": "Lancaster Inferno N1 G2011 Academy (PA)"
-  },
-  {
-   "club": "Lampeter Strasburg Youth Soccer Club",
-   "id": "50016967",
-   "name": "Penn United Force FC 2011G"
-  },
-  {
-   "club": "PA Classics",
-   "id": "50016968",
-   "name": "PA Classics NAL Reading 10/11 F"
   },
   {
    "club": "Steel City FC",
@@ -116,29 +151,19 @@
    "name": "Iron Valley United N1 G2010/11 Raptors (PA)"
   },
   {
+   "club": "BVB International Academy - Pittsburgh",
+   "id": "50055481",
+   "name": "BVB IA Pittsburgh U16 Girls Premier"
+  },
+  {
    "club": "Keystone FC",
    "id": "40045484",
    "name": "Elite U16G"
   },
   {
-   "club": "Tournament Team",
-   "id": "40045561",
-   "name": "Wave FC 2011G"
-  },
-  {
-   "club": "Western Lehigh United SC",
-   "id": "50016973",
-   "name": "WLUSC U16 Girls - Hain"
-  },
-  {
    "club": "Lancaster FC",
    "id": "50016985",
    "name": "ECNL RL G2010/11"
-  },
-  {
-   "club": "Lancaster FC",
-   "id": "50016974",
-   "name": "Lancaster FC G2010/11 Elite"
   },
   {
    "club": "Pennsylvania Soccer Academy",
@@ -177,7 +202,7 @@
   },
   {
    "club": "Falls SC",
-   "id": "40058059",
+   "id": "50056554",
    "name": "FSC Lady Lions Premier"
   },
   {
@@ -187,12 +212,12 @@
   },
   {
    "club": "Vereinigung Erzgebirge SC",
-   "id": "40058076",
+   "id": "50056555",
    "name": "VE Venom 2011"
   },
   {
    "club": "Philadelphia International FC",
-   "id": "40058140",
+   "id": "50056556",
    "name": "U16 Girls Elite"
   },
   {
@@ -241,6 +266,16 @@
    "name": "GA 10/11"
   },
   {
+   "club": "Century United Soccer",
+   "id": "40070856",
+   "name": "GA 10/11"
+  },
+  {
+   "club": "Beadling SC",
+   "id": "40070964",
+   "name": "GA 10/11"
+  },
+  {
    "club": "Keystone FC",
    "id": "40071010",
    "name": "GA 10/11G"
@@ -258,6 +293,11 @@
   {
    "club": "PA Classics",
    "id": "50022805",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Penn Rising XI",
+   "id": "50056557",
    "name": "Aspire 10/11"
   },
   {
@@ -296,19 +336,9 @@
    "name": "ECNL RL G2010/11"
   },
   {
-   "club": "Philadelphia Ukrainian Nationals",
-   "id": "50016980",
-   "name": "ECNL RL G2010/11"
-  },
-  {
    "club": "HEX FC",
    "id": "50016981",
    "name": "Bucks ECNL RL G2010/11"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "50016982",
-   "name": "ECNL RL G2010/11"
   },
   {
    "club": "Penn Fusion Soccer Academy",
@@ -316,19 +346,9 @@
    "name": "ECNL RL G2010/11"
   },
   {
-   "club": "FC Europa",
-   "id": "50016984",
-   "name": "ECNL RL G2010/11"
-  },
-  {
    "club": "PA Rush",
    "id": "50045546",
    "name": "ECNL RL G2010/2011"
-  },
-  {
-   "club": "Reading Rage Surf",
-   "id": "50022807",
-   "name": "ECNL RL G2010/11"
   },
   {
    "club": "Yardley Makefield Soccer",
@@ -391,6 +411,11 @@
    "name": "Iona U15 Girls Falcons"
   },
   {
+   "club": "1776 United FC",
+   "id": "50056558",
+   "name": "1776 United FC 2029 G"
+  },
+  {
    "club": "Northeast Cantolao FC",
    "id": "50045544",
    "name": "Northeast Cantolao FC Nova"
@@ -399,6 +424,26 @@
    "club": "SJEB FC",
    "id": "40190210",
    "name": "10/11G GA"
+  },
+  {
+   "club": "Steel United PA",
+   "id": "40210531",
+   "name": "Steel United PA U16G Premier"
+  },
+  {
+   "club": "Back Mountain Surf",
+   "id": "40210600",
+   "name": "Back Mountain Surf U16G"
+  },
+  {
+   "club": "Patriot FC",
+   "id": "40210629",
+   "name": "2010-2011 Girls Red"
+  },
+  {
+   "club": "Penn Rising XI",
+   "id": "40210634",
+   "name": "U15/16 Girls EDP"
   }
  ]
 }

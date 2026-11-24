@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-11-17T17:28:02.395385+00:00",
+ "fetched_at": "2026-11-24T19:10:47.751700+00:00",
  "state": "PA",
  "state_slug": "pennsylvania",
  "teams": [
@@ -11,14 +11,14 @@
    "name": "GA Inspire 14/15G"
   },
   {
-   "club": "Century United Soccer",
-   "id": "50016709",
-   "name": "Inspire 14/15"
-  },
-  {
    "club": "FC DELCO",
    "id": "50016734",
    "name": "Pre-ECNL G2014/15"
+  },
+  {
+   "club": "Century United Soccer",
+   "id": "50016709",
+   "name": "Inspire 14/15"
   },
   {
    "club": "Penn Fusion Soccer Academy",
@@ -41,9 +41,19 @@
    "name": "LMSC U12G Navy"
   },
   {
+   "club": "Tournament Team",
+   "id": "50024173",
+   "name": "CPA"
+  },
+  {
    "club": "Penn Fusion Soccer Academy",
    "id": "40095553",
    "name": "Pre-ECNL G2014/15"
+  },
+  {
+   "club": "Penn Fusion Soccer Academy",
+   "id": "50045217",
+   "name": "PreECNL 2 G2014/15"
   },
   {
    "club": "FC Europa",
@@ -51,9 +61,9 @@
    "name": "Pre-ECNL G2014/15"
   },
   {
-   "club": "Penn Fusion Soccer Academy",
-   "id": "50045217",
-   "name": "PreECNL 2 G2014/15"
+   "club": "Philadelphia Ukrainian Nationals",
+   "id": "50045223",
+   "name": "G2014/15 Pre-ECNL RL"
   },
   {
    "club": "Philadelphia Ukrainian Nationals",
@@ -76,9 +86,9 @@
    "name": "U12 Girls Pre-GA Gold"
   },
   {
-   "club": "Philadelphia Ukrainian Nationals",
-   "id": "50045223",
-   "name": "G2014/15 Pre-ECNL RL"
+   "club": "FC DELCO",
+   "id": "50016726",
+   "name": "Pre NAL '14/'15 (G) *"
   },
   {
    "club": "Pittsburgh Riverhounds",
@@ -86,19 +96,9 @@
    "name": "Pittsburgh Riverhounds Pre ECNL G2014/15"
   },
   {
-   "club": "FC DELCO",
-   "id": "50016726",
-   "name": "Pre NAL '14/'15 (G) *"
-  },
-  {
-   "club": "Marple Newtown Soccer Association",
-   "id": "50016730",
-   "name": "MNSA Select Tigers 12U"
-  },
-  {
-   "club": "Lancaster Inferno",
-   "id": "50016706",
-   "name": "Lancaster Inferno 2014/15 Academy"
+   "club": "PA Classics",
+   "id": "50045207",
+   "name": "PA Classics Pre GA Lancaster 14/15 F"
   },
   {
    "club": "FC DELCO",
@@ -106,19 +106,14 @@
    "name": "Pre-ECNL G2014/15 ll"
   },
   {
+   "club": "Lancaster Inferno",
+   "id": "50016706",
+   "name": "Lancaster Inferno 2014/15 Academy"
+  },
+  {
    "club": "West-Mont United S.A",
    "id": "50016735",
    "name": "West-Mont United Pre-ECNL G2014/15"
-  },
-  {
-   "club": "PA Classics",
-   "id": "50045207",
-   "name": "PA Classics Pre GA Lancaster 14/15 F"
-  },
-  {
-   "club": "Susquehanna Valley Soccer Club",
-   "id": "50045182",
-   "name": "SVSC Wild"
   },
   {
    "club": "HEX FC",
@@ -126,14 +121,29 @@
    "name": "Bucks Pre-ECNL G2014/15 Red"
   },
   {
-   "club": "Lehigh Valley Gore FC",
-   "id": "50016720",
-   "name": "2014/2015 Girls"
+   "club": "Philadelphia SC",
+   "id": "50016670",
+   "name": "Philadelphia SC Surf U12 Legacy"
+  },
+  {
+   "club": "Marple Newtown Soccer Association",
+   "id": "50016730",
+   "name": "MNSA Select Tigers 12U"
+  },
+  {
+   "club": "Susquehanna Valley Soccer Club",
+   "id": "50045182",
+   "name": "SVSC Wild"
   },
   {
    "club": "Penn Fusion Soccer Academy",
    "id": "40095552",
    "name": "Pre-ECNL G2014/15 ll"
+  },
+  {
+   "club": "Lehigh Valley Gore FC",
+   "id": "50016720",
+   "name": "2014/2015 Girls"
   },
   {
    "club": "FC Europa",
@@ -144,6 +154,11 @@
    "club": "Northeast Cantolao FC",
    "id": "50045181",
    "name": "Northeast Cantolao FC Fury 14/15g"
+  },
+  {
+   "club": "Keystone Athletic",
+   "id": "40095729",
+   "name": "Pre-ECNL G2014/15"
   },
   {
    "club": "Century United Soccer",
@@ -161,24 +176,9 @@
    "name": "FC814 United Green"
   },
   {
-   "club": "Philadelphia SC",
-   "id": "50016670",
-   "name": "Philadelphia SC Surf U12 Legacy"
-  },
-  {
-   "club": "Keystone Athletic",
-   "id": "40095729",
-   "name": "Pre-ECNL G2014/15"
-  },
-  {
    "club": "Susquehanna Valley Soccer Club",
    "id": "50045179",
    "name": "SVSC Force"
-  },
-  {
-   "club": "Vereinigung Erzgebirge SC",
-   "id": "50016696",
-   "name": "Future"
   },
   {
    "club": "Pittsburgh Riverhounds",
@@ -191,14 +191,19 @@
    "name": "Erie FC under 12 Girls"
   },
   {
+   "club": "Vereinigung Erzgebirge SC",
+   "id": "50016696",
+   "name": "Future"
+  },
+  {
+   "club": "Penn Fusion Soccer Academy",
+   "id": "50016732",
+   "name": "Reds 1 2014"
+  },
+  {
    "club": "Langhorne Neshaminy United SC",
    "id": "50016682",
    "name": "Langhorne United Liberty"
-  },
-  {
-   "club": "Coventry SA",
-   "id": "40026348",
-   "name": "Strikers"
   },
   {
    "club": "Lionville SC",
@@ -206,19 +211,14 @@
    "name": "Lionville Victory - Blues U12G"
   },
   {
-   "club": "Radnor SC",
-   "id": "50045205",
-   "name": "Radnor Soccer Club U 12 Girls Premier"
-  },
-  {
-   "club": "FC Montco",
-   "id": "50016699",
-   "name": "G2014/15 Navy"
-  },
-  {
    "club": "North Union United SC",
    "id": "50029624",
    "name": "NUU 14/15F Fury"
+  },
+  {
+   "club": "Schuylkill Valley Youth Soccer",
+   "id": "50056530",
+   "name": "Schuylkill Valley Wildcats Black"
   },
   {
    "club": "AC Inspire",
@@ -226,9 +226,9 @@
    "name": "U12G Premier - Black"
   },
   {
-   "club": "Nazareth Soccer Club",
-   "id": "50016692",
-   "name": "NSC U12 Girls Blue"
+   "club": "Pittsburgh Independence FC",
+   "id": "50029619",
+   "name": "Pittsburgh Independence U12G Premier"
   },
   {
    "club": "Mifflin County United SC",
@@ -236,14 +236,24 @@
    "name": "MCUSC Lightning 2014/15G"
   },
   {
-   "club": "Pittsburgh Independence FC",
-   "id": "50029619",
-   "name": "Pittsburgh Independence U12G Premier"
+   "club": "Perkiomen Valley Soccer Club",
+   "id": "50045178",
+   "name": "Vikings 2014-15G"
   },
   {
-   "club": "Penn Fusion Soccer Academy",
-   "id": "50016732",
-   "name": "Reds 1 2014"
+   "club": "FC Montco",
+   "id": "50016699",
+   "name": "G2014/15 Navy"
+  },
+  {
+   "club": "Radnor SC",
+   "id": "50045205",
+   "name": "Radnor Soccer Club U 12 Girls Premier"
+  },
+  {
+   "club": "FC Europa",
+   "id": "50016673",
+   "name": "FCE U12 Girls Elite"
   },
   {
    "club": "PA Rush",
@@ -256,109 +266,9 @@
    "name": "Towamencin Wildcats"
   },
   {
-   "club": "FC Europa",
-   "id": "50016673",
-   "name": "FCE U12 Girls Elite"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "50029617",
-   "name": "Black Dtown '14/'15 (G) *"
-  },
-  {
-   "club": "Buckingham United Soccer Club (CBAA)",
-   "id": "40074308",
-   "name": "U12 Girls IM White"
-  },
-  {
-   "club": "FC Ballyhoo",
-   "id": "50029614",
-   "name": "FC Ballyhoo U12 Girls Black"
-  },
-  {
-   "club": "Bethlehem SC",
-   "id": "50016698",
-   "name": "BSC 2014/15 U12 Girls"
-  },
-  {
-   "club": "Beadling SC",
-   "id": "50045214",
-   "name": "Beadling U12 Girls Red (North)"
-  },
-  {
-   "club": "Eagle F.C.",
-   "id": "50016704",
-   "name": "Eagle FC G2014/15 Black"
-  },
-  {
-   "club": "Montgomery United SC",
-   "id": "40074327",
-   "name": "U12 Girls Fall 2026 Douglass"
-  },
-  {
-   "club": "Springfield SC",
-   "id": "50024172",
-   "name": "Thunder"
-  },
-  {
-   "club": "Century United Soccer",
-   "id": "50016733",
-   "name": "Century United Under 12 Girls Gold"
-  },
-  {
-   "club": "Keystone Athletic",
-   "id": "50045211",
-   "name": "Keystone Athletic Pre ECNL RL G2014/15"
-  },
-  {
-   "club": "Perkiomen Valley Soccer Club",
-   "id": "50045178",
-   "name": "Vikings 2014-15G"
-  },
-  {
-   "club": "Schuylkill Valley Youth Soccer",
-   "id": "40011926",
-   "name": "Schuylkill Valley Wildcats Black"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "50029625",
-   "name": "Black Conshy '14/'15 (G) *"
-  },
-  {
-   "club": "Whitpain Recreation Assoc",
-   "id": "50045161",
-   "name": "U12 Whitpain Warriors - Black"
-  },
-  {
-   "club": "Montgomery United SC",
-   "id": "50016729",
-   "name": "U12 Girls APEX Black"
-  },
-  {
-   "club": "South Parkland Youth",
-   "id": "50045203",
-   "name": "Phoenix"
-  },
-  {
-   "club": "Rebels Futbol Club",
-   "id": "50016713",
-   "name": "Rebels FC 14/15 Girls"
-  },
-  {
-   "club": "Reading Rage Surf",
-   "id": "50016738",
-   "name": "Pre-ECNL G2014/15"
-  },
-  {
-   "club": "Vereinigung Erzgebirge SC",
-   "id": "50016701",
-   "name": "VE der Blitzschlag"
-  },
-  {
-   "club": "Souderton Area Soccer Association",
-   "id": "50045170",
-   "name": "Souderton Red Dragons 2014/15 Girls"
+   "club": "Nazareth Soccer Club",
+   "id": "50016692",
+   "name": "NSC U12 Girls Blue"
   },
   {
    "club": "Saucon Valley SL",
@@ -366,14 +276,104 @@
    "name": "Saucon Valley U12G Black"
   },
   {
+   "club": "Buckingham United Soccer Club (CBAA)",
+   "id": "40074308",
+   "name": "U12 Girls IM White"
+  },
+  {
+   "club": "Eagle F.C.",
+   "id": "50016704",
+   "name": "Eagle FC G2014/15 Black"
+  },
+  {
+   "club": "FC DELCO",
+   "id": "50029617",
+   "name": "Black Dtown '14/'15 (G) *"
+  },
+  {
+   "club": "Beadling SC",
+   "id": "50045214",
+   "name": "Beadling U12 Girls Red (North)"
+  },
+  {
+   "club": "Century United Soccer",
+   "id": "50016733",
+   "name": "Century United Under 12 Girls Gold"
+  },
+  {
+   "club": "Springfield SC",
+   "id": "50024172",
+   "name": "Thunder"
+  },
+  {
+   "club": "Vereinigung Erzgebirge SC",
+   "id": "50016701",
+   "name": "VE der Blitzschlag"
+  },
+  {
+   "club": "Coventry SA",
+   "id": "50056531",
+   "name": "Strikers"
+  },
+  {
+   "club": "Montgomery United SC",
+   "id": "50016729",
+   "name": "U12 Girls APEX Black"
+  },
+  {
+   "club": "Montgomery United SC",
+   "id": "40074327",
+   "name": "U12 Girls Fall 2026 Douglass"
+  },
+  {
+   "club": "Bethlehem SC",
+   "id": "50016698",
+   "name": "BSC 2014/15 U12 Girls"
+  },
+  {
+   "club": "FMFooty",
+   "id": "50016668",
+   "name": "FMFooty 2014/15 Girls MAPL"
+  },
+  {
+   "club": "Reading Rage Surf",
+   "id": "50016738",
+   "name": "Pre-ECNL G2014/15"
+  },
+  {
+   "club": "FC DELCO",
+   "id": "50029625",
+   "name": "Black Conshy '14/'15 (G) *"
+  },
+  {
+   "club": "Keystone Athletic",
+   "id": "50045211",
+   "name": "Keystone Athletic Pre ECNL RL G2014/15"
+  },
+  {
+   "club": "FC Ballyhoo",
+   "id": "50029614",
+   "name": "FC Ballyhoo U12 Girls Black"
+  },
+  {
+   "club": "South Parkland Youth",
+   "id": "50045203",
+   "name": "Phoenix"
+  },
+  {
    "club": "Western Lehigh United SC",
    "id": "50045167",
    "name": "WLUSC U12 Girls - Hassan"
   },
   {
-   "club": "Penn Fusion Soccer Academy",
-   "id": "50045204",
-   "name": "Reds 2 2014"
+   "club": "Whitpain Recreation Assoc",
+   "id": "50045161",
+   "name": "U12 Whitpain Warriors - Black"
+  },
+  {
+   "club": "HEX FC",
+   "id": "50045225",
+   "name": "Bucks Pre-ECNL G2014/15 Gray"
   },
   {
    "club": "West Branch Soccer Club",
@@ -386,29 +386,14 @@
    "name": "Sirens"
   },
   {
+   "club": "Penn Fusion Soccer Academy",
+   "id": "50045204",
+   "name": "Reds 2 2014"
+  },
+  {
    "club": "Keystone FC",
    "id": "50016719",
    "name": "Premier U12G"
-  },
-  {
-   "club": "Lancaster Inferno",
-   "id": "50045221",
-   "name": "Lancaster Inferno 2014/15 Select"
-  },
-  {
-   "club": "Colonial SC",
-   "id": "50016690",
-   "name": "Colonial Cobras Red"
-  },
-  {
-   "club": "PA Rush",
-   "id": "50045222",
-   "name": "PA RUSH PRE-ECNL G2014/2015"
-  },
-  {
-   "club": "Black Diamond Soccer Club",
-   "id": "50016661",
-   "name": "BDSC Surge"
   },
   {
    "club": "Patriot FC",
@@ -416,9 +401,39 @@
    "name": "2014-2015 Girls Red"
   },
   {
+   "club": "Lancaster Inferno",
+   "id": "50045221",
+   "name": "Lancaster Inferno 2014/15 Select"
+  },
+  {
+   "club": "Black Diamond Soccer Club",
+   "id": "50016661",
+   "name": "BDSC Surge"
+  },
+  {
+   "club": "Colonial SC",
+   "id": "50016690",
+   "name": "Colonial Cobras Red"
+  },
+  {
+   "club": "Souderton Area Soccer Association",
+   "id": "50045170",
+   "name": "Souderton Red Dragons 2014/15 Girls"
+  },
+  {
    "club": "ENCO United Soccer Club",
    "id": "50016671",
    "name": "ENCO 5grade/6grade (u12) Girls Red"
+  },
+  {
+   "club": "Rebels Futbol Club",
+   "id": "50016713",
+   "name": "Rebels FC 14/15 Girls"
+  },
+  {
+   "club": "PA Rush",
+   "id": "50045222",
+   "name": "PA RUSH PRE-ECNL G2014/2015"
   },
   {
    "club": "Williamsport City Lions",
@@ -426,44 +441,9 @@
    "name": "WCL 2015G - Celtic"
   },
   {
-   "club": "Nether Providence AA",
-   "id": "40053002",
-   "name": "NetherUnited FC Regional 2033 G"
-  },
-  {
-   "club": "Coventry SA",
-   "id": "50016700",
-   "name": "Wolfpack Premier"
-  },
-  {
-   "club": "Steel City FC",
-   "id": "50029621",
-   "name": "Steel City Harmar 2014/15G Blue"
-  },
-  {
    "club": "West-Mont United S.A",
    "id": "50045184",
    "name": "2014/15G Gold"
-  },
-  {
-   "club": "Hughesville SC",
-   "id": "50016663",
-   "name": "HUG Thunder"
-  },
-  {
-   "club": "Pittsburgh Riverhounds",
-   "id": "50016666",
-   "name": "Pittsburgh Riverhounds NH ORL G2014/15"
-  },
-  {
-   "club": "Twin Valley Soccer Club",
-   "id": "50054631",
-   "name": "U12G Avalanche"
-  },
-  {
-   "club": "Pittsburgh Riverhounds",
-   "id": "50029612",
-   "name": "Pittsburgh Riverhounds - Pre ECNL RL G2014/15"
   },
   {
    "club": "Yardley Makefield Soccer",
@@ -471,69 +451,29 @@
    "name": "2014/15 Girls Courage"
   },
   {
-   "club": "Pittsburgh Riverhounds",
-   "id": "50029623",
-   "name": "Pittsburgh Riverhounds Prep G2014/15"
-  },
-  {
-   "club": "Philadelphia Ukrainian Nationals",
-   "id": "50045173",
-   "name": "G2014/15 USYS"
-  },
-  {
-   "club": "HEX FC",
-   "id": "50045225",
-   "name": "Bucks Pre-ECNL G2014/15 Gray"
-  },
-  {
-   "club": "PA Classics",
-   "id": "50016724",
-   "name": "PA Classics Elite Blue Lancaster 14/15 F"
-  },
-  {
-   "club": "Lighthouse SC",
-   "id": "50016681",
-   "name": "Lighthouse Lightning"
-  },
-  {
-   "club": "Mifflinburg SC",
-   "id": "40054202",
-   "name": "MSC Kicks"
-  },
-  {
-   "club": "Hulmeville SC",
-   "id": "50016703",
-   "name": "Hulmeville Sharks"
-  },
-  {
-   "club": "Council Rock United",
-   "id": "50016683",
-   "name": "CRUSA Crushers"
-  },
-  {
-   "club": "Century United Soccer",
-   "id": "50029620",
-   "name": "Century United Under 12 Girls Silver"
-  },
-  {
-   "club": "Kickoff Soccer Academy (KOSA)",
-   "id": "50016708",
-   "name": "U12 KOSA Girls"
+   "club": "Hughesville SC",
+   "id": "50016663",
+   "name": "HUG Thunder"
   },
   {
    "club": "Steel City FC",
-   "id": "50045197",
-   "name": "Steel City FC East 2014/15G Blue"
+   "id": "50029621",
+   "name": "Steel City Harmar 2014/15G Blue"
   },
   {
-   "club": "Perkiomen Valley Soccer Club",
-   "id": "50016688",
-   "name": "Lionesses"
+   "club": "Pittsburgh Riverhounds",
+   "id": "50029612",
+   "name": "Pittsburgh Riverhounds - Pre ECNL RL G2014/15"
   },
   {
-   "club": "Anderson Monarch SC",
-   "id": "40011611",
-   "name": "2015 Girls"
+   "club": "Pittsburgh Riverhounds",
+   "id": "50016666",
+   "name": "Pittsburgh Riverhounds NH ORL G2014/15"
+  },
+  {
+   "club": "Nether Providence AA",
+   "id": "40053002",
+   "name": "NetherUnited FC Regional 2033 G"
   },
   {
    "club": "Northeast United",
@@ -541,9 +481,49 @@
    "name": "NEU 14/15 Nightmare"
   },
   {
+   "club": "Kickoff Soccer Academy (KOSA)",
+   "id": "50016708",
+   "name": "U12 KOSA Girls"
+  },
+  {
+   "club": "Philadelphia Ukrainian Nationals",
+   "id": "50045173",
+   "name": "G2014/15 USYS"
+  },
+  {
    "club": "PA Classics",
-   "id": "50016665",
-   "name": "PA Classics Elite Reading 14/15F"
+   "id": "50016724",
+   "name": "PA Classics Elite Blue Lancaster 14/15 F"
+  },
+  {
+   "club": "Pittsburgh Riverhounds",
+   "id": "50029623",
+   "name": "Pittsburgh Riverhounds Prep G2014/15"
+  },
+  {
+   "club": "Hulmeville SC",
+   "id": "50016703",
+   "name": "Hulmeville Sharks"
+  },
+  {
+   "club": "Mifflinburg SC",
+   "id": "40054202",
+   "name": "MSC Kicks"
+  },
+  {
+   "club": "Steel City FC",
+   "id": "50045197",
+   "name": "Steel City FC East 2014/15G Blue"
+  },
+  {
+   "club": "Lighthouse SC",
+   "id": "50016681",
+   "name": "Lighthouse Lightning"
+  },
+  {
+   "club": "Coventry SA",
+   "id": "50016700",
+   "name": "Wolfpack Premier"
   },
   {
    "club": "Perkiomen Valley Soccer Club",
@@ -551,14 +531,19 @@
    "name": "Wildcats Black"
   },
   {
-   "club": "Chestnut Hill Youth Sports Club",
-   "id": "40011614",
-   "name": "CHSC 2015 GIRLS WHITE LIGHTNING"
+   "club": "Century United Soccer",
+   "id": "50029620",
+   "name": "Century United Under 12 Girls Silver"
   },
   {
-   "club": "Hunter SC",
-   "id": "50045166",
-   "name": "White Hawks"
+   "club": "Council Rock United",
+   "id": "50016683",
+   "name": "CRUSA Crushers"
+  },
+  {
+   "club": "PA Classics",
+   "id": "50016665",
+   "name": "PA Classics Elite Reading 14/15F"
   },
   {
    "club": "Huntingdon Valley AA",
@@ -566,19 +551,34 @@
    "name": "HVAA U12G Pre-Armour"
   },
   {
-   "club": "Nether Providence AA",
-   "id": "50045188",
-   "name": "Nether United FC Orange 2033 G"
+   "club": "Twin Valley Soccer Club",
+   "id": "50054631",
+   "name": "U12G Avalanche"
   },
   {
-   "club": "Greater Chester Valley SA",
-   "id": "50016714",
-   "name": "U12G Blizzards"
+   "club": "Perkiomen Valley Soccer Club",
+   "id": "50016688",
+   "name": "Lionesses"
   },
   {
    "club": "Beadling SC",
    "id": "50045213",
    "name": "Beadling U12 Girls South Red"
+  },
+  {
+   "club": "Pittsburgh Riverhounds",
+   "id": "50045196",
+   "name": "Pittsburgh Riverhounds Conn ORL G2014/15"
+  },
+  {
+   "club": "Anderson Monarch SC",
+   "id": "40011611",
+   "name": "2015 Girls"
+  },
+  {
+   "club": "Steel United PA",
+   "id": "50045192",
+   "name": "Steel United PA U12G Pre NAL"
   },
   {
    "club": "King of Prussia SC",
@@ -591,24 +591,19 @@
    "name": "Steel City FC North 2014/15G Blue"
   },
   {
-   "club": "Steel United PA",
-   "id": "50045192",
-   "name": "Steel United PA U12G Pre NAL"
+   "club": "Nether Providence AA",
+   "id": "50045188",
+   "name": "Nether United FC Orange 2033 G"
   },
   {
-   "club": "Warminster SC",
-   "id": "50045160",
-   "name": "Lazers"
+   "club": "Hunter SC",
+   "id": "50045166",
+   "name": "White Hawks"
   },
   {
-   "club": "Mifflin FC",
-   "id": "50022676",
-   "name": "Mifflin United Panthers"
-  },
-  {
-   "club": "Pittsburgh Riverhounds",
-   "id": "50045196",
-   "name": "Pittsburgh Riverhounds Conn ORL G2014/15"
+   "club": "Greater Chester Valley SA",
+   "id": "50016714",
+   "name": "U12G Blizzards"
   },
   {
    "club": "Penn Manor Soccer Club",
@@ -616,9 +611,9 @@
    "name": "PMSC 2015F"
   },
   {
-   "club": "Colonial SC",
-   "id": "50022673",
-   "name": "Colonial Cobras Black"
+   "club": "Warminster SC",
+   "id": "50045160",
+   "name": "Lazers"
   },
   {
    "club": "Upper Dublin SC",
@@ -631,54 +626,9 @@
    "name": "FCE U12 Girls Premier"
   },
   {
-   "club": "Keystone Athletic",
-   "id": "50016707",
-   "name": "Keystone Athletic USYS U12 Girls"
-  },
-  {
-   "club": "Montgomery United SC",
-   "id": "40074328",
-   "name": "U12 Girls Fall 2026 The Hustle"
-  },
-  {
-   "club": "Warrington SC",
-   "id": "50016686",
-   "name": "Warrington Rebels U12"
-  },
-  {
-   "club": "FC DELCO",
-   "id": "50016716",
-   "name": "White Conshy '14/'15 (G) *"
-  },
-  {
-   "club": "Fox Chase SC",
-   "id": "50045158",
-   "name": "Fox Chase Strikers"
-  },
-  {
    "club": "Haverford SC",
    "id": "50025142",
    "name": "Union U12"
-  },
-  {
-   "club": "PA Rush",
-   "id": "40095709",
-   "name": "Pre-ECNL G2014/15"
-  },
-  {
-   "club": "Century United Soccer",
-   "id": "50016721",
-   "name": "Century United Under 12 Girls Red"
-  },
-  {
-   "club": "Ridley United Soccer Club",
-   "id": "50022678",
-   "name": "Rush"
-  },
-  {
-   "club": "Steel City FC",
-   "id": "50045200",
-   "name": "Steel City FC Metro 2014/15G Yellow"
   },
   {
    "club": "Quakertown SC",
@@ -686,44 +636,54 @@
    "name": "Quakertown Tsunami"
   },
   {
-   "club": "FC Chesco",
-   "id": "50022677",
-   "name": "FC Chesco 2015 Girls"
+   "club": "Warrington SC",
+   "id": "50016686",
+   "name": "Warrington Rebels U12"
   },
   {
-   "club": "FMFooty",
-   "id": "50016668",
-   "name": "FMFooty 2014/15 Girls MAPL"
+   "club": "PA Rush",
+   "id": "40095709",
+   "name": "Pre-ECNL G2014/15"
   },
   {
-   "club": "Philadelphia International FC",
-   "id": "50016674",
-   "name": "U12 Girls Blue"
+   "club": "Montgomery United SC",
+   "id": "40074328",
+   "name": "U12 Girls Fall 2026 The Hustle"
   },
   {
-   "club": "Anthracite FC",
-   "id": "50016722",
-   "name": "2015 Girls Wolfsburg"
+   "club": "FC DELCO",
+   "id": "50016716",
+   "name": "White Conshy '14/'15 (G) *"
   },
   {
-   "club": "Towamencin Youth Assn",
-   "id": "50016685",
-   "name": "Towamencin Wildcats WHITE"
+   "club": "Keystone Athletic",
+   "id": "50016707",
+   "name": "Keystone Athletic USYS U12 Girls"
   },
   {
-   "club": "Steel City FC",
-   "id": "50016725",
-   "name": "BC United 15G"
+   "club": "Century United Soccer",
+   "id": "50016721",
+   "name": "Century United Under 12 Girls Red"
   },
   {
-   "club": "Whitpain Recreation Assoc",
-   "id": "50016693",
-   "name": "Whitpain Girls - Team Liberty"
+   "club": "Chestnut Hill Youth Sports Club",
+   "id": "40011614",
+   "name": "CHSC 2015 GIRLS WHITE LIGHTNING"
   },
   {
-   "club": "Northeast United",
-   "id": "50016660",
-   "name": "NEU 14/15 Hurricanes"
+   "club": "Colonial SC",
+   "id": "50022673",
+   "name": "Colonial Cobras Black"
+  },
+  {
+   "club": "Mifflin FC",
+   "id": "50022676",
+   "name": "Mifflin United Panthers"
+  },
+  {
+   "club": "Ridley United Soccer Club",
+   "id": "50022678",
+   "name": "Rush"
   },
   {
    "club": "Horsham Soccer",
@@ -731,9 +691,44 @@
    "name": "U12 Horsham - Gold"
   },
   {
-   "club": "Beadling SC",
-   "id": "50045194",
-   "name": "Beadling U12 Girls White (North)"
+   "club": "Anthracite FC",
+   "id": "50016722",
+   "name": "2015 Girls Wolfsburg"
+  },
+  {
+   "club": "Northeast United",
+   "id": "50016660",
+   "name": "NEU 14/15 Hurricanes"
+  },
+  {
+   "club": "Philadelphia International FC",
+   "id": "50016674",
+   "name": "U12 Girls Blue"
+  },
+  {
+   "club": "Steel City FC",
+   "id": "50016725",
+   "name": "BC United 15G"
+  },
+  {
+   "club": "Fox Chase SC",
+   "id": "50045158",
+   "name": "Fox Chase Strikers"
+  },
+  {
+   "club": "Towamencin Youth Assn",
+   "id": "50016685",
+   "name": "Towamencin Wildcats WHITE"
+  },
+  {
+   "club": "FC Chesco",
+   "id": "50022677",
+   "name": "FC Chesco 2015 Girls"
+  },
+  {
+   "club": "Steel City FC",
+   "id": "50016667",
+   "name": "Steel City FC Harmar 2014/15G Yellow"
   },
   {
    "club": "FC Brandywine",
@@ -741,9 +736,24 @@
    "name": "Girls 2014/15"
   },
   {
+   "club": "Beadling SC",
+   "id": "50045194",
+   "name": "Beadling U12 Girls White (North)"
+  },
+  {
+   "club": "Whitpain Recreation Assoc",
+   "id": "50016693",
+   "name": "Whitpain Girls - Team Liberty"
+  },
+  {
    "club": "PA Classics Harrisburg (LDSA)",
    "id": "50016705",
    "name": "PA Classics Hbg 2014/2015 Girls Elite Blue"
+  },
+  {
+   "club": "Springfield SC",
+   "id": "50045174",
+   "name": "Blue Crush"
   },
   {
    "club": "Central Susquehanna SC",
@@ -751,29 +761,9 @@
    "name": "CSSC Savages 14/15"
   },
   {
-   "club": "Reading Rage Surf",
-   "id": "50045186",
-   "name": "U12G Blue"
-  },
-  {
-   "club": "Pocono Mountain Youth Soccer Club",
-   "id": "50016678",
-   "name": "PMYSC U12 Girls"
-  },
-  {
-   "club": "Phoenixville Area SC",
-   "id": "50016717",
-   "name": "U12 Girls Black"
-  },
-  {
-   "club": "Montgomery United SC",
-   "id": "50016731",
-   "name": "U12 Girls APEX Green"
-  },
-  {
-   "club": "Warrior Run SC",
-   "id": "50016664",
-   "name": "WRS Impulse"
+   "club": "Steel City FC",
+   "id": "50045200",
+   "name": "Steel City FC Metro 2014/15G Yellow"
   },
   {
    "club": "Lower Merion SC",
@@ -781,19 +771,34 @@
    "name": "LMSC U12G Red"
   },
   {
+   "club": "Pocono Mountain Youth Soccer Club",
+   "id": "50016678",
+   "name": "PMYSC U12 Girls"
+  },
+  {
+   "club": "Montgomery United SC",
+   "id": "50016731",
+   "name": "U12 Girls APEX Green"
+  },
+  {
+   "club": "Phoenixville Area SC",
+   "id": "50016717",
+   "name": "U12 Girls Black"
+  },
+  {
+   "club": "Warrior Run SC",
+   "id": "50016664",
+   "name": "WRS Impulse"
+  },
+  {
    "club": "FC Montour",
    "id": "50016662",
    "name": "FC Montour 15 Hearts"
   },
   {
-   "club": "Jenkintown Youth Activities",
-   "id": "50045159",
-   "name": "Jaguars"
-  },
-  {
-   "club": "Warrington SC",
-   "id": "50029613",
-   "name": "Warrington Outlaws U12"
+   "club": "Reading Rage Surf",
+   "id": "50045186",
+   "name": "U12G Blue"
   },
   {
    "club": "St Thomas More SC",
@@ -801,24 +806,9 @@
    "name": "STM U12 Cheetahs"
   },
   {
-   "club": "Northern Steel",
-   "id": "50029628",
-   "name": "Northern Steel Forge GLA U12"
-  },
-  {
-   "club": "Marple Newtown Soccer Association",
-   "id": "50045183",
-   "name": "MNSA Select Sparta"
-  },
-  {
    "club": "Warrington SC",
    "id": "40074297",
    "name": "Warrington SC U12 Girls Blue Detergents"
-  },
-  {
-   "club": "Penn Rising XI",
-   "id": "50016672",
-   "name": "U11/12 Girls White"
   },
   {
    "club": "FC Central Penn",
@@ -831,9 +821,19 @@
    "name": "Rose Tree Aces"
   },
   {
+   "club": "Penn Rising XI",
+   "id": "50016672",
+   "name": "U11/12 Girls White"
+  },
+  {
    "club": "Deep Run Valley",
    "id": "40074301",
    "name": "U12G Rage"
+  },
+  {
+   "club": "Upper Dublin SC",
+   "id": "50045163",
+   "name": "Comets Red"
   },
   {
    "club": "Amity AC Soccer Club",
@@ -841,14 +841,34 @@
    "name": "Amity AC Hornets"
   },
   {
+   "club": "Northern Steel",
+   "id": "50029628",
+   "name": "Northern Steel Forge GLA U12"
+  },
+  {
    "club": "PA Rush",
    "id": "50045209",
    "name": "PA Rush G2014/2015"
   },
   {
-   "club": "Springfield SC",
-   "id": "50045174",
-   "name": "Blue Crush"
+   "club": "Jenkintown Youth Activities",
+   "id": "50045159",
+   "name": "Jaguars"
+  },
+  {
+   "club": "FC Pittsburgh",
+   "id": "50045215",
+   "name": "FCP Girls U12 Gold PA"
+  },
+  {
+   "club": "Marple Newtown Soccer Association",
+   "id": "50045183",
+   "name": "MNSA Select Sparta"
+  },
+  {
+   "club": "Barrens Travel Soccer Club",
+   "id": "50053101",
+   "name": "Barrens Spark"
   },
   {
    "club": "Glenside Celtic SC",
@@ -861,29 +881,14 @@
    "name": "Steel United U12G Premier"
   },
   {
-   "club": "FC Pittsburgh",
-   "id": "50045215",
-   "name": "FCP Girls U12 Gold PA"
-  },
-  {
-   "club": "Barrens Travel Soccer Club",
-   "id": "50053101",
-   "name": "Barrens Spark"
-  },
-  {
-   "club": "Aston Youth Soccer",
-   "id": "50054632",
-   "name": "Aston United SA 2015 Blue Angels"
+   "club": "Warrington SC",
+   "id": "50029613",
+   "name": "Warrington Outlaws U12"
   },
   {
    "club": "Roxborough United SC",
    "id": "50022671",
    "name": "Wolfpack"
-  },
-  {
-   "club": "Schuylkill Valley Youth Soccer",
-   "id": "50053100",
-   "name": "Schuylkill Valley Wildcats Red"
   },
   {
    "club": "Cheltenham Jayvees",
@@ -896,14 +901,9 @@
    "name": "BMSC Roniettes Tidalwave"
   },
   {
-   "club": "Upper Dublin SC",
-   "id": "50045163",
-   "name": "Comets Red"
-  },
-  {
-   "club": "Lionville SC",
-   "id": "50016715",
-   "name": "Lionville Victory - Volts U12G"
+   "club": "Schuylkill Valley Youth Soccer",
+   "id": "50053100",
+   "name": "Schuylkill Valley Wildcats Red"
   },
   {
    "club": "PA Classics Harrisburg (LDSA)",
@@ -921,9 +921,9 @@
    "name": "Mayhem"
   },
   {
-   "club": "Ridley United Soccer Club",
-   "id": "50016702",
-   "name": "Kixx"
+   "club": "Lionville SC",
+   "id": "50016715",
+   "name": "Lionville Victory - Volts U12G"
   },
   {
    "club": "Patriot FC",
@@ -931,14 +931,14 @@
    "name": "2014-2015 Girls White"
   },
   {
+   "club": "Aston Youth Soccer",
+   "id": "50054632",
+   "name": "Aston United SA 2015 Blue Angels"
+  },
+  {
    "club": "Keystone FC",
    "id": "50029626",
    "name": "South Elite U12G"
-  },
-  {
-   "club": "Hunter SC",
-   "id": "50045165",
-   "name": "Blue Hawks"
   },
   {
    "club": "Haverford SC",
@@ -946,14 +946,14 @@
    "name": "U12 Unity"
   },
   {
-   "club": "3:23 Athletics",
-   "id": "40040236",
-   "name": "3:23 Athletics Girard Soccer Club 2015/2016 Girls"
+   "club": "Ridley United Soccer Club",
+   "id": "50016702",
+   "name": "Kixx"
   },
   {
-   "club": "Springfield SC",
-   "id": "50045164",
-   "name": "Tsunami"
+   "club": "Hunter SC",
+   "id": "50045165",
+   "name": "Blue Hawks"
   },
   {
    "club": "PA Rush",
@@ -971,6 +971,11 @@
    "name": "ENCO 5Grade/6Grade (u12) Girls White"
   },
   {
+   "club": "Springfield SC",
+   "id": "50045164",
+   "name": "Tsunami"
+  },
+  {
    "club": "Yardley Makefield Soccer",
    "id": "50045175",
    "name": "2014/15 Girls Pride"
@@ -981,19 +986,19 @@
    "name": "U12G Select"
   },
   {
-   "club": "West-Mont United S.A",
-   "id": "50054629",
-   "name": "2014/15G White"
-  },
-  {
-   "club": "Torresdale Boys Club",
-   "id": "50016689",
-   "name": "Torresdale Swarm"
+   "club": "Solebury SC",
+   "id": "50016695",
+   "name": "Strikers"
   },
   {
    "club": "Horsham Soccer",
    "id": "50045172",
    "name": "U12 Horsham Blue"
+  },
+  {
+   "club": "West-Mont United S.A",
+   "id": "50054629",
+   "name": "2014/15G White"
   },
   {
    "club": "Vereinigung Erzgebirge SC",
@@ -1006,9 +1011,14 @@
    "name": "U12G Scorpions"
   },
   {
-   "club": "Solebury SC",
-   "id": "50016695",
-   "name": "Strikers"
+   "club": "3:23 Athletics",
+   "id": "40040236",
+   "name": "3:23 Athletics Girard Soccer Club 2015/2016 Girls"
+  },
+  {
+   "club": "Torresdale Boys Club",
+   "id": "50016689",
+   "name": "Torresdale Swarm"
   },
   {
    "club": "Palisades Youth SA",
@@ -1021,9 +1031,9 @@
    "name": "SVSC Inferno"
   },
   {
-   "club": "Philadelphia International FC",
-   "id": "50022675",
-   "name": "U12 Girls Yellow"
+   "club": "Rose Tree SC",
+   "id": "50054630",
+   "name": "Rose Tree Thorns"
   },
   {
    "club": "Springfield SC",
@@ -1031,14 +1041,14 @@
    "name": "Riptides"
   },
   {
-   "club": "Rose Tree SC",
-   "id": "50054630",
-   "name": "Rose Tree Thorns"
-  },
-  {
    "club": "Whitpain Recreation Assoc",
    "id": "50016687",
    "name": "Whitpain warriors"
+  },
+  {
+   "club": "Philadelphia International FC",
+   "id": "50022675",
+   "name": "U12 Girls Yellow"
   },
   {
    "club": "West Branch Soccer Club",
@@ -1059,11 +1069,6 @@
    "club": "FC 814",
    "id": "40005093",
    "name": "FC814 - Fury"
-  },
-  {
-   "club": "Steel City FC",
-   "id": "50016667",
-   "name": "Steel City FC Harmar 2014/15G Yellow"
   },
   {
    "club": "Steel City FC",
@@ -1159,11 +1164,6 @@
    "club": "Lampeter Strasburg Youth Soccer Club",
    "id": "40045626",
    "name": "Lancaster PANDAS 2014/15G"
-  },
-  {
-   "club": "Tournament Team",
-   "id": "50024173",
-   "name": "CPA"
   },
   {
    "club": "Lampeter Strasburg Youth Soccer Club",
@@ -1374,6 +1374,16 @@
    "club": "Hampton",
    "id": "40203689",
    "name": "Hampton U12G"
+  },
+  {
+   "club": "Phoenixville Area SC",
+   "id": "40211661",
+   "name": "SCSL U12 Girls Torch"
+  },
+  {
+   "club": "Phoenixville Area SC",
+   "id": "40211663",
+   "name": "SCSL U12 Girl Spark"
   }
  ]
 }

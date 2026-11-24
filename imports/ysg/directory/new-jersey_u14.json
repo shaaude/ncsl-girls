@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-17T17:13:45.039212+00:00",
+ "fetched_at": "2026-11-24T18:55:42.121004+00:00",
  "state": "NJ",
  "state_slug": "new-jersey",
  "teams": [
@@ -46,11 +46,6 @@
    "name": "PDA ECNL G2012/13 White"
   },
   {
-   "club": "Nor'easters Academy",
-   "id": "50013794",
-   "name": "U14G Atlantic/Cape May"
-  },
-  {
    "club": "Cedar Stars Academy - Monmouth",
    "id": "50013830",
    "name": "GA 12/13"
@@ -61,14 +56,19 @@
    "name": "PDA SOUTH ECNL RL G2012/13 BLUE"
   },
   {
+   "club": "Nor'easters Academy",
+   "id": "50013794",
+   "name": "U14G Atlantic/Cape May"
+  },
+  {
    "club": "NJ Crush FC",
    "id": "40092726",
    "name": "ECNL RL G2012/13"
   },
   {
-   "club": "Cheshire Soccer Academy",
-   "id": "50028754",
-   "name": "Cheshire U14 Girls EDP"
+   "club": "NJ Crush FC",
+   "id": "50042363",
+   "name": "New Jersey Crush ECNL RL G2012/13"
   },
   {
    "club": "Cheshire Soccer Academy",
@@ -81,9 +81,9 @@
    "name": "Maroons GU14 Madrid"
   },
   {
-   "club": "NJ Crush FC",
-   "id": "50042363",
-   "name": "New Jersey Crush ECNL RL G2012/13"
+   "club": "Cheshire Soccer Academy",
+   "id": "50028754",
+   "name": "Cheshire U14 Girls EDP"
   },
   {
    "club": "Real Futbol Academy",
@@ -96,14 +96,29 @@
    "name": "PDA ECNL-RL G2012/13 White"
   },
   {
-   "club": "Swedesboro Woolwich Soccer Assoc.",
-   "id": "40041368",
-   "name": "SWSA Hawks"
+   "club": "Highland Youth Soccer Club",
+   "id": "50013805",
+   "name": "Highland SC N1 G2012/13 Elite Swarm (NJ)"
+  },
+  {
+   "club": "NJ Nationals FC",
+   "id": "50013808",
+   "name": "2012/13 Girls Elite N1"
   },
   {
    "club": "NLSA Surf",
    "id": "50013841",
    "name": "ECNL RL G2012/13"
+  },
+  {
+   "club": "Swedesboro Woolwich Soccer Assoc.",
+   "id": "40041368",
+   "name": "SWSA Hawks"
+  },
+  {
+   "club": "PDA Blue (North)",
+   "id": "50052359",
+   "name": "PDA Blue ECNL RL G2012/13"
   },
   {
    "club": "Ocean Township United SA",
@@ -116,34 +131,9 @@
    "name": "Match Fit Surf Monmouth G2012/13"
   },
   {
-   "club": "NJ Nationals FC",
-   "id": "50013808",
-   "name": "2012/13 Girls Elite N1"
-  },
-  {
-   "club": "PDA Blue (North)",
-   "id": "50052359",
-   "name": "PDA Blue ECNL RL G2012/13"
-  },
-  {
-   "club": "Logan Soccer Club",
-   "id": "50013823",
-   "name": "Logan Fury"
-  },
-  {
    "club": "Torpedoes SC",
    "id": "50013775",
    "name": "Torpedoes GU14 Red"
-  },
-  {
-   "club": "Highland Youth Soccer Club",
-   "id": "50013805",
-   "name": "Highland SC N1 G2012/13 Elite Swarm (NJ)"
-  },
-  {
-   "club": "Jersey Shore Boca Jr FC",
-   "id": "50013763",
-   "name": "United"
   },
   {
    "club": "Tar-Kill Soccer Club",
@@ -151,44 +141,9 @@
    "name": "TarKill Tsunamis"
   },
   {
-   "club": "Summit SC",
-   "id": "50042338",
-   "name": "Torino"
-  },
-  {
-   "club": "Penninsula SC",
-   "id": "50013765",
-   "name": "Peninsula Blue Storm"
-  },
-  {
-   "club": "Cinnaminson SC",
-   "id": "50013804",
-   "name": "Cinnaminson SC N1 G2012/13 FORZA (NJ)"
-  },
-  {
-   "club": "Jersey Crew SC",
-   "id": "50042342",
-   "name": "Jersey Crew SC Lynx"
-  },
-  {
-   "club": "SJEB FC",
-   "id": "50042356",
-   "name": "Aspire 12/13"
-  },
-  {
-   "club": "American Soccer Club of NJ",
-   "id": "50042341",
-   "name": "Gu14 Americans SC Girls 2031 Select"
-  },
-  {
-   "club": "Cedar Stars Academy - Bergen",
-   "id": "50013831",
-   "name": "GA 12/13"
-  },
-  {
-   "club": "Match Fit Surf",
-   "id": "40092821",
-   "name": "ECNL RL G2012/13 Blue"
+   "club": "Jersey Shore Boca Jr FC",
+   "id": "50013763",
+   "name": "United"
   },
   {
    "club": "East Greenwich SA",
@@ -196,99 +151,14 @@
    "name": "EGSA N1 G2012/13 Kingsway Premier (NJ)"
   },
   {
-   "club": "NJ14 Soccer Club",
-   "id": "50013809",
-   "name": "NJ14 N1 G14 BIA (NJ)"
+   "club": "Summit SC",
+   "id": "50042338",
+   "name": "Torino"
   },
   {
-   "club": "SFL Club",
-   "id": "40070269",
-   "name": "SFL GU14 Red MID-NJ"
-  },
-  {
-   "club": "Middletown SC",
-   "id": "50013792",
-   "name": "Spirit Red"
-  },
-  {
-   "club": "PDA White (Shore)",
-   "id": "40092630",
-   "name": "PDA White ECNL RL G2012/13"
-  },
-  {
-   "club": "FC Berna Legacy",
-   "id": "50013799",
-   "name": "Legacy 2012/13 Girls Black"
-  },
-  {
-   "club": "New Jersey Surf",
-   "id": "50028761",
-   "name": "NJ Surf South Marlton N1 G2012/13 (NJ)"
-  },
-  {
-   "club": "Franklin Township Youth Soccer Association",
-   "id": "40041381",
-   "name": "Flames U14"
-  },
-  {
-   "club": "Jersey Shore Boca Jr FC",
-   "id": "50013798",
-   "name": "Reign"
-  },
-  {
-   "club": "Glen Rock United",
-   "id": "50013784",
-   "name": "Glen Rock United U14G - Elite"
-  },
-  {
-   "club": "Northern Valley Soccer Club",
-   "id": "50013787",
-   "name": "NoValley-G13/14A-Aiello"
-  },
-  {
-   "club": "Match Fit Surf",
-   "id": "40092815",
-   "name": "ECNL RL G2012/13 White"
-  },
-  {
-   "club": "Medford Strikers SC",
-   "id": "50013810",
-   "name": "Medford Strikers SC N1 G2012/13 Storm (NJ)"
-  },
-  {
-   "club": "SJYS",
-   "id": "50013777",
-   "name": "SJYS 2013 ELITE GIRLS"
-  },
-  {
-   "club": "Princeton SA",
-   "id": "50013767",
-   "name": "PSA Princeton G2012/13 Orange"
-  },
-  {
-   "club": "NJ Premier FC",
-   "id": "50013764",
-   "name": "NJ Premier G2012/13 - Orange"
-  },
-  {
-   "club": "STA",
-   "id": "50042355",
+   "club": "SJEB FC",
+   "id": "50042356",
    "name": "Aspire 12/13"
-  },
-  {
-   "club": "Torpedoes SC",
-   "id": "50013766",
-   "name": "Torpedoes GU14 White ~"
-  },
-  {
-   "club": "German American Kickers",
-   "id": "50028751",
-   "name": "Eagles"
-  },
-  {
-   "club": "Medford SC",
-   "id": "50013786",
-   "name": "Medford SC 12/13G Rage"
   },
   {
    "club": "Deptford Premier FC",
@@ -296,14 +166,94 @@
    "name": "'12 / '13G Force"
   },
   {
-   "club": "Point Pleasant Travel SC",
-   "id": "40014701",
-   "name": "Point Pleasant SC Tidal Waves"
+   "club": "Cedar Stars Academy - Bergen",
+   "id": "50013831",
+   "name": "GA 12/13"
   },
   {
-   "club": "TBAA",
-   "id": "50013819",
-   "name": "TBAA Rebels 2012/13"
+   "club": "Cinnaminson SC",
+   "id": "50013804",
+   "name": "Cinnaminson SC N1 G2012/13 FORZA (NJ)"
+  },
+  {
+   "club": "American Soccer Club of NJ",
+   "id": "50042341",
+   "name": "Gu14 Americans SC Girls 2031 Select"
+  },
+  {
+   "club": "Logan Soccer Club",
+   "id": "50013823",
+   "name": "Logan Fury"
+  },
+  {
+   "club": "New Jersey Surf",
+   "id": "50028761",
+   "name": "NJ Surf South Marlton N1 G2012/13 (NJ)"
+  },
+  {
+   "club": "NJ14 Soccer Club",
+   "id": "50013809",
+   "name": "NJ14 N1 G14 BIA (NJ)"
+  },
+  {
+   "club": "Penninsula SC",
+   "id": "50013765",
+   "name": "Peninsula Blue Storm"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "40092821",
+   "name": "ECNL RL G2012/13 Blue"
+  },
+  {
+   "club": "Jersey Crew SC",
+   "id": "50042342",
+   "name": "Jersey Crew SC Lynx"
+  },
+  {
+   "club": "FC Berna Legacy",
+   "id": "50013799",
+   "name": "Legacy 2012/13 Girls Black"
+  },
+  {
+   "club": "PDA White (Shore)",
+   "id": "40092630",
+   "name": "PDA White ECNL RL G2012/13"
+  },
+  {
+   "club": "Medford SC",
+   "id": "50013786",
+   "name": "Medford SC 12/13G Rage"
+  },
+  {
+   "club": "SFL Club",
+   "id": "40070269",
+   "name": "SFL GU14 Red MID-NJ"
+  },
+  {
+   "club": "Jersey Shore Boca Jr FC",
+   "id": "50013798",
+   "name": "Reign"
+  },
+  {
+   "club": "Medford Strikers SC",
+   "id": "50013810",
+   "name": "Medford Strikers SC N1 G2012/13 Storm (NJ)"
+  },
+  {
+   "club": "Middletown SC",
+   "id": "50013792",
+   "name": "Spirit Red"
+  },
+  {
+   "club": "Glen Rock United",
+   "id": "50013784",
+   "name": "Glen Rock United U14G - Elite"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "40092815",
+   "name": "ECNL RL G2012/13 White"
   },
   {
    "club": "NJ Premier FC",
@@ -311,9 +261,34 @@
    "name": "12/13G Aspire"
   },
   {
-   "club": "NJ Crush FC",
-   "id": "50028759",
-   "name": "U14 National 1"
+   "club": "STA",
+   "id": "50042355",
+   "name": "Aspire 12/13"
+  },
+  {
+   "club": "NJ Premier FC",
+   "id": "50013764",
+   "name": "NJ Premier G2012/13 - Orange"
+  },
+  {
+   "club": "Princeton SA",
+   "id": "50013767",
+   "name": "PSA Princeton G2012/13 Orange"
+  },
+  {
+   "club": "Northern Valley Soccer Club",
+   "id": "50013787",
+   "name": "NoValley-G13/14A-Aiello"
+  },
+  {
+   "club": "Franklin Township Youth Soccer Association",
+   "id": "40041381",
+   "name": "Flames U14"
+  },
+  {
+   "club": "Point Pleasant Travel SC",
+   "id": "40014701",
+   "name": "Point Pleasant SC Tidal Waves"
   },
   {
    "club": "Nor'easters Academy",
@@ -321,19 +296,19 @@
    "name": "U14G Camden/Gloucester N1"
   },
   {
-   "club": "SJEB FC",
-   "id": "50013779",
-   "name": "12/13G Colonial Red U14"
-  },
-  {
    "club": "Bordentown FC",
    "id": "50013780",
    "name": "Bordentown FC Jaguars 2012/2013G EDP"
   },
   {
-   "club": "Holmdel FC",
-   "id": "50013834",
-   "name": "Holmdel FC U14 Girls Strikers"
+   "club": "Torpedoes SC",
+   "id": "50013766",
+   "name": "Torpedoes GU14 White ~"
+  },
+  {
+   "club": "SJYS",
+   "id": "50013777",
+   "name": "SJYS 2013 ELITE GIRLS"
   },
   {
    "club": "Marlton Soccer Club",
@@ -341,39 +316,24 @@
    "name": "Marlton SC Chiefs Orange 2012/13"
   },
   {
-   "club": "Harrison SC",
-   "id": "50013789",
-   "name": "Harrison SC Thunder"
-  },
-  {
    "club": "STA Mount Olive Soccer Club",
    "id": "50042347",
    "name": "STA MOSC N1 G2012/13 (NJ)"
   },
   {
-   "club": "Pasco Soccer Club",
-   "id": "50013800",
-   "name": "PASCO SC U14G Heath NPL"
+   "club": "SJEB FC",
+   "id": "50013779",
+   "name": "12/13G Colonial Red U14"
   },
   {
-   "club": "NJ Stallions",
-   "id": "50028757",
-   "name": "NJSA U14 Stars EDP"
+   "club": "Holmdel FC",
+   "id": "50013834",
+   "name": "Holmdel FC U14 Girls Strikers"
   },
   {
-   "club": "Hopewell Valley Soccer Association",
-   "id": "50042336",
-   "name": "2013/14G Tsunamis"
-  },
-  {
-   "club": "Stateline SC",
-   "id": "50013801",
-   "name": "Stateline SC U14G Bears"
-  },
-  {
-   "club": "Pittsgrove Soccer Club",
-   "id": "50013785",
-   "name": "PSC Elite Stars U14G"
+   "club": "NJ Crush FC",
+   "id": "50028759",
+   "name": "U14 National 1"
   },
   {
    "club": "South Brunswick",
@@ -381,9 +341,34 @@
    "name": "Hi-Tempo Academy Girls 2013"
   },
   {
+   "club": "German American Kickers",
+   "id": "50028751",
+   "name": "Eagles"
+  },
+  {
+   "club": "NJ Stallions",
+   "id": "50028757",
+   "name": "NJSA U14 Stars EDP"
+  },
+  {
    "club": "WSA",
    "id": "50013807",
    "name": "Union County FC N1 Girls 2012/13 (NJ)"
+  },
+  {
+   "club": "Pittsgrove Soccer Club",
+   "id": "50013785",
+   "name": "PSC Elite Stars U14G"
+  },
+  {
+   "club": "Harrison SC",
+   "id": "50013789",
+   "name": "Harrison SC Thunder"
+  },
+  {
+   "club": "TBAA",
+   "id": "50013819",
+   "name": "TBAA Rebels 2012/13"
   },
   {
    "club": "Parsippany SC",
@@ -391,19 +376,14 @@
    "name": "PSC Academy Girls Elite U14"
   },
   {
-   "club": "STA",
-   "id": "50013781",
-   "name": "STA-MUSC U14G USYS"
-  },
-  {
    "club": "East Greenwich SA",
    "id": "50013814",
    "name": "EGSA Flames U14"
   },
   {
-   "club": "Tinton Falls SC",
-   "id": "40072311",
-   "name": "Tinton Falls Tornados"
+   "club": "Pasco Soccer Club",
+   "id": "50013800",
+   "name": "PASCO SC U14G Heath NPL"
   },
   {
    "club": "Princeton SA",
@@ -411,24 +391,14 @@
    "name": "PSA Monmouth ECNL RL G2012/13"
   },
   {
+   "club": "STA",
+   "id": "50013781",
+   "name": "STA-MUSC U14G USYS"
+  },
+  {
    "club": "Match Fit Surf",
    "id": "40092654",
    "name": "ECNL RL G2012/13"
-  },
-  {
-   "club": "West Deptford SC",
-   "id": "50013817",
-   "name": "Wolf Pack 2013"
-  },
-  {
-   "club": "Atlantic United Soccer Club",
-   "id": "50028753",
-   "name": "Atlantic United Premier FC U14 G EDP"
-  },
-  {
-   "club": "Moorestown SC",
-   "id": "40041440",
-   "name": "Honey Badgers U14"
   },
   {
    "club": "Clark SC",
@@ -436,34 +406,19 @@
    "name": "Comets 2012/13G"
   },
   {
+   "club": "Tinton Falls SC",
+   "id": "40072311",
+   "name": "Tinton Falls Tornados"
+  },
+  {
+   "club": "Stateline SC",
+   "id": "50013801",
+   "name": "Stateline SC U14G Bears"
+  },
+  {
    "club": "Morris Elite SC",
    "id": "50042339",
    "name": "U14G USLA"
-  },
-  {
-   "club": "Chatham United SA",
-   "id": "50042340",
-   "name": "Chatham United Royals G2012/13"
-  },
-  {
-   "club": "Match Fit Surf",
-   "id": "50013769",
-   "name": "Matchfit Surf Middlesex G2012/13"
-  },
-  {
-   "club": "Woodstown Soccer Club",
-   "id": "40041398",
-   "name": "Woodstown Riptide 12/13"
-  },
-  {
-   "club": "Cedar Stars Academy - Bergen",
-   "id": "40071826",
-   "name": "Aspire 12/13"
-  },
-  {
-   "club": "Pitman SA",
-   "id": "50013821",
-   "name": "Pitman Calico Kicks 12/13"
   },
   {
    "club": "Ironbound SC",
@@ -471,39 +426,19 @@
    "name": "GU14 EDP"
   },
   {
-   "club": "Princeton SA",
-   "id": "50042345",
-   "name": "PSA Monmouth NPL G2012/13"
+   "club": "Cedar Stars Academy - Bergen",
+   "id": "40071826",
+   "name": "Aspire 12/13"
   },
   {
-   "club": "Hanover Soccer Club (NJ)",
-   "id": "50054557",
-   "name": "Hanover Honey Badgers 2013G Diamond"
+   "club": "Chatham United SA",
+   "id": "50042340",
+   "name": "Chatham United Royals G2012/13"
   },
   {
-   "club": "Lenape Valley SC",
-   "id": "50013772",
-   "name": "Lenape Valley SC Jaguars 2013G"
-  },
-  {
-   "club": "Highland Youth Soccer Club",
-   "id": "50013816",
-   "name": "13/14G Phoenix"
-  },
-  {
-   "club": "Sporting Club Premier (NJ)",
-   "id": "50052360",
-   "name": "PDA SCP ECNL RL G2012/13"
-  },
-  {
-   "club": "Winslow Township YSA",
-   "id": "40041290",
-   "name": "Winslow Strikers 2012/2013"
-  },
-  {
-   "club": "EP3",
-   "id": "50013770",
-   "name": "N1 G2012/2013"
+   "club": "Atlantic United Soccer Club",
+   "id": "50028753",
+   "name": "Atlantic United Premier FC U14 G EDP"
   },
   {
    "club": "Burlington Township Soccer",
@@ -511,9 +446,34 @@
    "name": "Tiger Lilies"
   },
   {
-   "club": "Cape Express",
-   "id": "50013822",
-   "name": "Rage 2013"
+   "club": "West Deptford SC",
+   "id": "50013817",
+   "name": "Wolf Pack 2013"
+  },
+  {
+   "club": "Sporting Club Premier (NJ)",
+   "id": "50052360",
+   "name": "PDA SCP ECNL RL G2012/13"
+  },
+  {
+   "club": "Woodstown Soccer Club",
+   "id": "40041398",
+   "name": "Woodstown Riptide 12/13"
+  },
+  {
+   "club": "Princeton SA",
+   "id": "50042345",
+   "name": "PSA Monmouth NPL G2012/13"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "50013769",
+   "name": "Matchfit Surf Middlesex G2012/13"
+  },
+  {
+   "club": "Hopewell Valley Soccer Association",
+   "id": "50042336",
+   "name": "2013/14G Tsunamis"
   },
   {
    "club": "Wall Soccer Club",
@@ -521,14 +481,29 @@
    "name": "Wall Elite Crew"
   },
   {
+   "club": "Hanover Soccer Club (NJ)",
+   "id": "50054557",
+   "name": "Hanover Honey Badgers 2013G Diamond"
+  },
+  {
+   "club": "Moorestown SC",
+   "id": "40041440",
+   "name": "Honey Badgers U14"
+  },
+  {
    "club": "Princeton SA",
    "id": "40015291",
    "name": "PSA Monmouth G2012/13 EDP"
   },
   {
-   "club": "FC Copa Academy",
-   "id": "50042350",
-   "name": "FC Copa G2012/13 ECNL RL NJ Central"
+   "club": "Lenape Valley SC",
+   "id": "50013772",
+   "name": "Lenape Valley SC Jaguars 2013G"
+  },
+  {
+   "club": "Pitman SA",
+   "id": "50013821",
+   "name": "Pitman Calico Kicks 12/13"
   },
   {
    "club": "Princeton SA",
@@ -536,14 +511,9 @@
    "name": "PSA North ECNL RL G2012/13"
   },
   {
-   "club": "SJYS",
-   "id": "50013778",
-   "name": "SJYS 2013 GIRLS ELITE DAN"
-  },
-  {
-   "club": "Upper Township SA",
-   "id": "50013815",
-   "name": "Upper Township SA Waves 2012-2014"
+   "club": "EP3",
+   "id": "50013770",
+   "name": "N1 G2012/2013"
   },
   {
    "club": "Lakewood SC",
@@ -551,14 +521,14 @@
    "name": "Elite 2013"
   },
   {
-   "club": "Mainland United SA",
-   "id": "40041467",
-   "name": "Mainland United SA 2012/13 Girls"
+   "club": "FC Copa Academy",
+   "id": "50042350",
+   "name": "FC Copa G2012/13 ECNL RL NJ Central"
   },
   {
-   "club": "Millburn SC",
-   "id": "50013782",
-   "name": "Bulldogs"
+   "club": "Upper Township SA",
+   "id": "50013815",
+   "name": "Upper Township SA Waves 2012-2014"
   },
   {
    "club": "The Football Academy NJ",
@@ -566,24 +536,14 @@
    "name": "The FA U14 Girls Gold"
   },
   {
-   "club": "PDA South",
-   "id": "50021936",
-   "name": "PDA SOUTH ECNL RL G2012/13 WHITE"
-  },
-  {
-   "club": "Future Soccer Academy",
-   "id": "40015863",
-   "name": "Future_Sa_12_13_G"
-  },
-  {
-   "club": "Match Fit Surf",
-   "id": "40015100",
-   "name": "Matchfit Surf Ocean G2012/2013 II"
-  },
-  {
    "club": "Voorhees SA",
    "id": "50042348",
    "name": "Werewolves 2013"
+  },
+  {
+   "club": "Cape Express",
+   "id": "50013822",
+   "name": "Rage 2013"
   },
   {
    "club": "WTSC",
@@ -591,9 +551,54 @@
    "name": "Washington United U14 Girls"
   },
   {
-   "club": "SFL Club",
-   "id": "50013803",
-   "name": "SFL N1 G2012/13 Black NJ"
+   "club": "SJYS",
+   "id": "50013778",
+   "name": "SJYS 2013 GIRLS ELITE DAN"
+  },
+  {
+   "club": "Millburn SC",
+   "id": "50013782",
+   "name": "Bulldogs"
+  },
+  {
+   "club": "PDA South",
+   "id": "50021936",
+   "name": "PDA SOUTH ECNL RL G2012/13 WHITE"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "40015100",
+   "name": "Matchfit Surf Ocean G2012/2013 II"
+  },
+  {
+   "club": "Highland Youth Soccer Club",
+   "id": "50013816",
+   "name": "13/14G Phoenix"
+  },
+  {
+   "club": "Mainland United SA",
+   "id": "40041467",
+   "name": "Mainland United SA 2012/13 Girls"
+  },
+  {
+   "club": "Sporting Club Premier (NJ)",
+   "id": "50042344",
+   "name": "PDA-SCP U13/14 Girls"
+  },
+  {
+   "club": "Future Soccer Academy",
+   "id": "40015863",
+   "name": "Future_Sa_12_13_G"
+  },
+  {
+   "club": "Freehold SL",
+   "id": "50028752",
+   "name": "Freehold SL Elite Wave"
+  },
+  {
+   "club": "Winslow Township YSA",
+   "id": "40041290",
+   "name": "Winslow Strikers 2012/2013"
   },
   {
    "club": "Collingswood Oaklyn Soccer Club",
@@ -606,114 +611,9 @@
    "name": "Surge"
   },
   {
-   "club": "East Greenwich SA",
-   "id": "40041444",
-   "name": "EGSA Sirens U14"
-  },
-  {
-   "club": "Sporting Club Premier (NJ)",
-   "id": "50042344",
-   "name": "PDA-SCP U13/14 Girls"
-  },
-  {
-   "club": "Seneca United SC",
-   "id": "40041309",
-   "name": "Seneca United SC Pinesnakes 12/13G"
-  },
-  {
-   "club": "Freehold SL",
-   "id": "50028752",
-   "name": "Freehold SL Elite Wave"
-  },
-  {
-   "club": "Howell United SC",
-   "id": "50028755",
-   "name": "Howell United SC 2013G Lightning Select Blue"
-  },
-  {
-   "club": "Haddonfield SC",
-   "id": "40041357",
-   "name": "United U14"
-  },
-  {
-   "club": "TSF Academy - NJ",
-   "id": "50013828",
-   "name": "Aspire 12/13"
-  },
-  {
    "club": "East Windsor PAL",
    "id": "50013836",
    "name": "East Windsor PAL Waves"
-  },
-  {
-   "club": "Match Fit Surf",
-   "id": "40015098",
-   "name": "Matchfit Surf Ocean G2012/2013 I"
-  },
-  {
-   "club": "Branchburg Travel SC",
-   "id": "50042352",
-   "name": "BTSC Blaze"
-  },
-  {
-   "club": "Stafford Soccer Club",
-   "id": "50013835",
-   "name": "Sandstorm U14G"
-  },
-  {
-   "club": "Haddon Twp Soccer Club",
-   "id": "40041337",
-   "name": "Haddon Township U14 Girls"
-  },
-  {
-   "club": "Europa Lions FC",
-   "id": "50021934",
-   "name": "2013G Blue RAL"
-  },
-  {
-   "club": "TBAA",
-   "id": "50013812",
-   "name": "TBAA TIGERS 2012/13"
-  },
-  {
-   "club": "Vineland SA",
-   "id": "50013811",
-   "name": "Vineland Storm 12/13"
-  },
-  {
-   "club": "Cherry Hill SC",
-   "id": "50013776",
-   "name": "Cherry Hill SC Kickstarters '12-'13"
-  },
-  {
-   "club": "Palmyra Riverton SC",
-   "id": "40041221",
-   "name": "LunaChicks 12/13"
-  },
-  {
-   "club": "Manalapan SC",
-   "id": "50013791",
-   "name": "Lightning Elite"
-  },
-  {
-   "club": "Point Pleasant Travel SC",
-   "id": "40072435",
-   "name": "Point Pleasant SC Nalani"
-  },
-  {
-   "club": "Woodbridge Twp Youth Soccer",
-   "id": "50013773",
-   "name": "Woodbridge Fireflies"
-  },
-  {
-   "club": "Beachwood SC",
-   "id": "40072664",
-   "name": "BSC Avengers"
-  },
-  {
-   "club": "Match Fit Surf",
-   "id": "40021038",
-   "name": "Matchfit Surf Essex G2012/13 Blue II"
   },
   {
    "club": "Old Bridge Soccer Club",
@@ -721,9 +621,99 @@
    "name": "Storm"
   },
   {
+   "club": "Europa Lions FC",
+   "id": "50021934",
+   "name": "2013G Blue RAL"
+  },
+  {
+   "club": "Seneca United SC",
+   "id": "40041309",
+   "name": "Seneca United SC Pinesnakes 12/13G"
+  },
+  {
+   "club": "Haddon Twp Soccer Club",
+   "id": "40041337",
+   "name": "Haddon Township U14 Girls"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "40015098",
+   "name": "Matchfit Surf Ocean G2012/2013 I"
+  },
+  {
+   "club": "East Greenwich SA",
+   "id": "40041444",
+   "name": "EGSA Sirens U14"
+  },
+  {
+   "club": "Branchburg Travel SC",
+   "id": "50042352",
+   "name": "BTSC Blaze"
+  },
+  {
+   "club": "TSF Academy - NJ",
+   "id": "50013828",
+   "name": "Aspire 12/13"
+  },
+  {
+   "club": "Manalapan SC",
+   "id": "50013791",
+   "name": "Lightning Elite"
+  },
+  {
+   "club": "Stafford Soccer Club",
+   "id": "50013835",
+   "name": "Sandstorm U14G"
+  },
+  {
+   "club": "SFL Club",
+   "id": "50013803",
+   "name": "SFL N1 G2012/13 Black NJ"
+  },
+  {
+   "club": "Beachwood SC",
+   "id": "40072664",
+   "name": "BSC Avengers"
+  },
+  {
+   "club": "TBAA",
+   "id": "50013812",
+   "name": "TBAA TIGERS 2012/13"
+  },
+  {
    "club": "North Jersey FC",
    "id": "40015821",
    "name": "NJFC U14G EDP"
+  },
+  {
+   "club": "Woodbridge Twp Youth Soccer",
+   "id": "50013773",
+   "name": "Woodbridge Fireflies"
+  },
+  {
+   "club": "Point Pleasant Travel SC",
+   "id": "40072435",
+   "name": "Point Pleasant SC Nalani"
+  },
+  {
+   "club": "Haddonfield SC",
+   "id": "40041357",
+   "name": "United U14"
+  },
+  {
+   "club": "Howell United SC",
+   "id": "50028755",
+   "name": "Howell United SC 2013G Lightning Select Blue"
+  },
+  {
+   "club": "Vineland SA",
+   "id": "50013811",
+   "name": "Vineland Storm 12/13"
+  },
+  {
+   "club": "Palmyra Riverton SC",
+   "id": "40041221",
+   "name": "LunaChicks 12/13"
   },
   {
    "club": "Edison United SA",
@@ -731,34 +721,9 @@
    "name": "Edison United SA 2012G Courage"
   },
   {
-   "club": "Mercer United FC",
-   "id": "50042360",
-   "name": "Mercer United FC Atlantis"
-  },
-  {
-   "club": "East Hanover Soccer Club",
-   "id": "50028760",
-   "name": "Hanover Park Academy-Paisley u14"
-  },
-  {
    "club": "Cherry Hill SC",
-   "id": "50013802",
-   "name": "2013 / 2012 Premier Fire"
-  },
-  {
-   "club": "FC Copa Academy",
-   "id": "40092733",
-   "name": "ECNL RL G2012/13"
-  },
-  {
-   "club": "WSA",
-   "id": "50042346",
-   "name": "Union County FC N1 Girls 2012/13 MAPL (NJ)"
-  },
-  {
-   "club": "Clifton Stallions Soccer Club",
-   "id": "40015504",
-   "name": "Clifton Stallions U14G Blue"
+   "id": "50013776",
+   "name": "Cherry Hill SC Kickstarters '12-'13"
   },
   {
    "club": "Monroe Township SC",
@@ -766,34 +731,9 @@
    "name": "MTSC Cedar Stars Academy U14 Girls Pride"
   },
   {
-   "club": "FC Berna Legacy",
-   "id": "50028762",
-   "name": "Legacy 2012/13 Girls White"
-  },
-  {
-   "club": "Swedesboro Woolwich Soccer Assoc.",
-   "id": "40041250",
-   "name": "SWSA KIXX"
-  },
-  {
-   "club": "Penninsula SC",
-   "id": "40072413",
-   "name": "Peninsula Fire Eagles"
-  },
-  {
-   "club": "Middletown SC",
-   "id": "50042362",
-   "name": "Middletown Soccer Club - Spirit Black"
-  },
-  {
-   "club": "Berkeley Heights Youth Soccer Club",
-   "id": "40070111",
-   "name": "Galaxy"
-  },
-  {
-   "club": "Dunellen FC",
-   "id": "40070127",
-   "name": "Dunellen FC Valkyries"
+   "club": "Mercer United FC",
+   "id": "50042360",
+   "name": "Mercer United FC Atlantis"
   },
   {
    "club": "Kearny Thistle United FC",
@@ -801,24 +741,59 @@
    "name": "Paisley Athletic U14 NAL"
   },
   {
-   "club": "West Deptford SC",
-   "id": "50013820",
-   "name": "U14 Surge"
+   "club": "Cherry Hill SC",
+   "id": "50013802",
+   "name": "2013 / 2012 Premier Fire"
   },
   {
-   "club": "NJ14 Soccer Club",
-   "id": "50042337",
-   "name": "NJ14 EDP G14 JUNO (NJ)"
+   "club": "WSA",
+   "id": "50042346",
+   "name": "Union County FC N1 Girls 2012/13 MAPL (NJ)"
   },
   {
-   "club": "Cinnaminson SC",
-   "id": "50042349",
-   "name": "Cinnaminson SC Cardinals"
+   "club": "FC Copa Academy",
+   "id": "40092733",
+   "name": "ECNL RL G2012/13"
   },
   {
-   "club": "Hazlet United",
-   "id": "50042357",
-   "name": "Hazlet Storm"
+   "club": "East Hanover Soccer Club",
+   "id": "50028760",
+   "name": "Hanover Park Academy-Paisley u14"
+  },
+  {
+   "club": "Swedesboro Woolwich Soccer Assoc.",
+   "id": "40041250",
+   "name": "SWSA KIXX"
+  },
+  {
+   "club": "Clifton Stallions Soccer Club",
+   "id": "40015504",
+   "name": "Clifton Stallions U14G Blue"
+  },
+  {
+   "club": "Middletown SC",
+   "id": "50042362",
+   "name": "Middletown Soccer Club - Spirit Black"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "50056406",
+   "name": "Matchfit Surf Essex G2012/13 Blue II"
+  },
+  {
+   "club": "FC Berna Legacy",
+   "id": "50028762",
+   "name": "Legacy 2012/13 Girls White"
+  },
+  {
+   "club": "Penninsula SC",
+   "id": "40072413",
+   "name": "Peninsula Fire Eagles"
+  },
+  {
+   "club": "Dunellen FC",
+   "id": "40070127",
+   "name": "Dunellen FC Valkyries"
   },
   {
    "club": "New Providence SC",
@@ -826,14 +801,19 @@
    "name": "Red Thorns"
   },
   {
+   "club": "NJ14 Soccer Club",
+   "id": "50042337",
+   "name": "NJ14 EDP G14 JUNO (NJ)"
+  },
+  {
    "club": "Hibernian AA",
    "id": "50042361",
    "name": "Hibernian AA - Hotshots"
   },
   {
-   "club": "WSA",
-   "id": "40069989",
-   "name": "Westfield SA Rosenborg"
+   "club": "Cinnaminson SC",
+   "id": "50042349",
+   "name": "Cinnaminson SC Cardinals"
   },
   {
    "club": "Toms River FC",
@@ -841,9 +821,19 @@
    "name": "Red Stars"
   },
   {
-   "club": "Pennsville Soccer Association",
-   "id": "40041455",
-   "name": "Pennsville Shadows"
+   "club": "West Deptford SC",
+   "id": "50013820",
+   "name": "U14 Surge"
+  },
+  {
+   "club": "WSA",
+   "id": "50056407",
+   "name": "Westfield SA Rosenborg"
+  },
+  {
+   "club": "Hazlet United",
+   "id": "50042357",
+   "name": "Hazlet Storm"
   },
   {
    "club": "Sporting AC New Jersey",
@@ -851,14 +841,19 @@
    "name": "Sporting NJ U14G NAL"
   },
   {
+   "club": "Berkeley Heights Youth Soccer Club",
+   "id": "40070111",
+   "name": "Galaxy"
+  },
+  {
    "club": "Berkeley Soccer Association",
    "id": "40072642",
    "name": "Berkeley SA Dragons"
   },
   {
-   "club": "New Jersey Surf",
-   "id": "50028756",
-   "name": "NJ Surf Mercer U14 Girls Blue"
+   "club": "Marlboro Soccer Association",
+   "id": "50042359",
+   "name": "MSA 2013 Lightning Blue"
   },
   {
    "club": "Haddonfield SC",
@@ -866,24 +861,34 @@
    "name": "Bull Dawgs U14"
   },
   {
-   "club": "Montclair United",
-   "id": "50013783",
-   "name": "Montclair U14G White"
-  },
-  {
    "club": "Voorhees SA",
    "id": "40041366",
    "name": "Blue Blasters 12/13"
   },
   {
+   "club": "New Jersey Surf",
+   "id": "50028756",
+   "name": "NJ Surf Mercer U14 Girls Blue"
+  },
+  {
+   "club": "Montclair United",
+   "id": "50013783",
+   "name": "Montclair U14G White"
+  },
+  {
+   "club": "Cougars Soccer Club",
+   "id": "50056408",
+   "name": "CougarSC-G14E-Connolly"
+  },
+  {
+   "club": "Pennsville Soccer Association",
+   "id": "40041455",
+   "name": "Pennsville Shadows"
+  },
+  {
    "club": "Hackettstown SC",
    "id": "50028749",
    "name": "Hackettstown Eagles 13"
-  },
-  {
-   "club": "Marlboro Soccer Association",
-   "id": "50042359",
-   "name": "MSA 2013 Lightning Blue"
   },
   {
    "club": "Twin County Soccer Association",
@@ -979,11 +984,6 @@
    "club": "Montclair United",
    "id": "40169683",
    "name": "Montclair-G14C-Lehman"
-  },
-  {
-   "club": "Cougars Soccer Club",
-   "id": "40169707",
-   "name": "CougarSC-G14E-Connolly"
   },
   {
    "club": "Vikings FC",

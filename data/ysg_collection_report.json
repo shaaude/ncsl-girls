@@ -624,6 +624,34 @@
    "mode": "profiles",
    "skipped": "outside the permitted 1:00-5:00 AM Eastern window (now 10:50 ET); nothing fetched",
    "started": "2026-11-18T15:50:35.255782+00:00"
+  },
+  {
+   "ages": [
+    "u9",
+    "u10",
+    "u11",
+    "u12",
+    "u13",
+    "u14",
+    "u15",
+    "u16",
+    "u17",
+    "u18",
+    "u19"
+   ],
+   "empty_pages": 18,
+   "failed": [
+    {
+     "page": "north-carolina_u19",
+     "status": -1
+    }
+   ],
+   "finished": "2026-11-24T19:32:22.722920+00:00",
+   "mode": "directories",
+   "pages": 561,
+   "saved": 560,
+   "started": "2026-11-24T17:57:48.813739+00:00",
+   "states_found": 51
   }
  ]
 }

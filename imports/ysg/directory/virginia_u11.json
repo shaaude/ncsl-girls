@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-11-17T16:16:23.369061+00:00",
+ "fetched_at": "2026-11-24T17:58:18.789980+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
@@ -56,6 +56,11 @@
    "name": "VSA Pre-ECNL G2015/16 VDA West I"
   },
   {
+   "club": "Springfield SYC Soccer",
+   "id": "50030100",
+   "name": "SYC U11G Pre-GA II"
+  },
+  {
    "club": "Richmond United",
    "id": "50018908",
    "name": "Richmond United Pre-ECNL G2015/16 Red"
@@ -64,11 +69,6 @@
    "club": "Virginia Valor FC",
    "id": "50030113",
    "name": "Virginia Valor FC Pre-ECNL G2015/16 Brave"
-  },
-  {
-   "club": "Springfield SYC Soccer",
-   "id": "50030100",
-   "name": "SYC U11G Pre-GA II"
   },
   {
    "club": "Arlington Soccer Association",
@@ -111,24 +111,24 @@
    "name": "VYS Pre-ECNL RL G2015/16 Phoenix Spirit"
   },
   {
-   "club": "Vienna Youth Soccer",
-   "id": "50020077",
-   "name": "VYS NCSL G2015/16 Red Reign"
-  },
-  {
    "club": "Braddock Road Youth Club",
    "id": "50018913",
    "name": "BRYC Academy PreECNL G2015/16"
   },
   {
-   "club": "VA Rush Soccer Club",
-   "id": "40068433",
-   "name": "VAR U11G Hurricanes"
+   "club": "Vienna Youth Soccer",
+   "id": "50020077",
+   "name": "VYS NCSL G2015/16 Red Reign"
   },
   {
    "club": "Beach FC",
    "id": "50018910",
    "name": "Beach FC G2015/16 Pre-ECNL 2"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "40068433",
+   "name": "VAR U11G Hurricanes"
   },
   {
    "club": "Augusta United",
@@ -141,6 +141,26 @@
    "name": "Inspire 15/16"
   },
   {
+   "club": "Virginia Soccer Association",
+   "id": "50048811",
+   "name": "VSA U11G PREMIER RED"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50018925",
+   "name": "Richmond United Pre-ECNL G2015/16 Orange"
+  },
+  {
+   "club": "Virginia Reign",
+   "id": "50024651",
+   "name": "Pre-ECNL RL Girls 2015-2016 Elite"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50030104",
+   "name": "RU ORANGE U11G ELITE"
+  },
+  {
    "club": "Richmond United",
    "id": "50048798",
    "name": "RU RED U11G ELITE 1"
@@ -149,16 +169,6 @@
    "club": "VA Rush Soccer Club",
    "id": "40111936",
    "name": "VAR U11G Dolphins"
-  },
-  {
-   "club": "Richmond United",
-   "id": "50018925",
-   "name": "Richmond United Pre-ECNL G2015/16 Orange"
-  },
-  {
-   "club": "Richmond United",
-   "id": "50030104",
-   "name": "RU ORANGE U11G ELITE"
   },
   {
    "club": "Blue Ridge United",
@@ -171,14 +181,14 @@
    "name": "VSA Pre-ECNL G2015/16 VDA West II"
   },
   {
-   "club": "Virginia Soccer Association",
-   "id": "50048811",
-   "name": "VSA U11G PREMIER RED"
+   "club": "Beach FC",
+   "id": "50056038",
+   "name": "Beach FC G2015/16 Schmitt Reign"
   },
   {
-   "club": "New River United",
-   "id": "50048804",
-   "name": "New River United Elite Girls U11"
+   "club": "Arlington Soccer Association",
+   "id": "50056705",
+   "name": "Arlington SA 2015/16G Red (U11)"
   },
   {
    "club": "GFR Falls Church Lionesses",
@@ -186,19 +196,9 @@
    "name": "GFR Falls Church Lionesses"
   },
   {
-   "club": "Beach FC",
-   "id": "40068281",
-   "name": "Beach FC G2015/16 Schmitt Reign"
-  },
-  {
    "club": "Gunston SC",
    "id": "50030097",
    "name": "GSC Girls 15/16 Premier"
-  },
-  {
-   "club": "Virginia Reign",
-   "id": "50024651",
-   "name": "Pre-ECNL RL Girls 2015-2016 Elite"
   },
   {
    "club": "Fredericksburg FC",
@@ -211,6 +211,11 @@
    "name": "2015-16 Girls White"
   },
   {
+   "club": "New River United",
+   "id": "50048804",
+   "name": "New River United Elite Girls U11"
+  },
+  {
    "club": "Soccer Organization Charlottesville Area",
    "id": "50018922",
    "name": "SOCA VCSL G2015/16 White"
@@ -221,19 +226,14 @@
    "name": "BRYC Academy G2015/16 Teal"
   },
   {
+   "club": "Embrey Mill Soccer Club",
+   "id": "50048813",
+   "name": "Embrey Mill Fusion G2015/16"
+  },
+  {
    "club": "McLean YS",
    "id": "50030092",
    "name": "McLean Youth Soccer U11 Girls White"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "50018919",
-   "name": "VA Rush PL G2015/16 Pre-GA II (VA)"
-  },
-  {
-   "club": "Richmond United",
-   "id": "50030101",
-   "name": "RU RED U11G ELITE 2"
   },
   {
    "club": "Gunston SC",
@@ -241,14 +241,34 @@
    "name": "GSC Girls 15/16 Red"
   },
   {
+   "club": "Richmond United",
+   "id": "50030101",
+   "name": "RU RED U11G ELITE 2"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "50018919",
+   "name": "VA Rush PL G2015/16 Pre-GA II (VA)"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50048796",
+   "name": "Arlington SA 2015/16G Black (U11)"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50030093",
+   "name": "BRYC Academy G2015/16 White"
+  },
+  {
+   "club": "Virginia Reign",
+   "id": "50030115",
+   "name": "Va Reign FC ADSL 2015-2016 Girls Gold"
+  },
+  {
    "club": "Beach FC",
    "id": "40068276",
    "name": "Beach FC G2015/16 Spath Tsunamis"
-  },
-  {
-   "club": "Embrey Mill Soccer Club",
-   "id": "50048813",
-   "name": "Embrey Mill Fusion G2015/16"
   },
   {
    "club": "Chesapeake United SC",
@@ -261,11 +281,6 @@
    "name": "CUSC PL G2015/16 ELITE (VA)"
   },
   {
-   "club": "Braddock Road Youth Club",
-   "id": "50030093",
-   "name": "BRYC Academy G2015/16 White"
-  },
-  {
    "club": "Great Falls Reston Soccer Club",
    "id": "50048807",
    "name": "GFR U11G White"
@@ -276,9 +291,14 @@
    "name": "Virginia Valor FC Pre-ECNL G2015/16 Courage"
   },
   {
+   "club": "McLean YS",
+   "id": "50048793",
+   "name": "McLean Youth Soccer U11 Girls Gold"
+  },
+  {
    "club": "Beach FC",
-   "id": "40068262",
-   "name": "Beach FC G2015/16 Cupka Pink Panthers"
+   "id": "50056036",
+   "name": "Beach FC G2015/16 Benish Cheetahs"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -286,24 +306,14 @@
    "name": "VAR U11G Blue Diamonds"
   },
   {
-   "club": "New River United",
-   "id": "40047156",
-   "name": "New River United Girls Premier 2015/16"
-  },
-  {
-   "club": "Virginia Revolution SC",
-   "id": "50048800",
-   "name": "U11G Pre-GA2"
-  },
-  {
    "club": "Forest Youth Athletic Association",
    "id": "50048814",
    "name": "Forest 2015/16G Black"
   },
   {
-   "club": "Beach FC",
-   "id": "40068260",
-   "name": "Beach FC G2015/16 Benish Cheetahs"
+   "club": "New River United",
+   "id": "40047156",
+   "name": "New River United Girls Premier 2015/16"
   },
   {
    "club": "The St. James Football Club",
@@ -311,14 +321,24 @@
    "name": "TSJFC Inspire U11 G South"
   },
   {
+   "club": "Arlington Soccer Association",
+   "id": "50048795",
+   "name": "Arlington SA 2015/16G Blue (U11)"
+  },
+  {
    "club": "Chesapeake SC",
    "id": "50030106",
    "name": "CSC PL G2015/16 Galaxy Gold (VA)"
   },
   {
-   "club": "VA Rush Soccer Club",
-   "id": "40111933",
-   "name": "VAR U11G Sharks"
+   "club": "Beach FC",
+   "id": "50056037",
+   "name": "Beach FC G2015/16 Cupka Pink Panthers"
+  },
+  {
+   "club": "Stafford Soccer",
+   "id": "50056706",
+   "name": "Stafford Revolution U11G White"
   },
   {
    "club": "Churchland Soccer League",
@@ -326,9 +346,19 @@
    "name": "Churchland Strikers 2015/2016/2017G"
   },
   {
-   "club": "Beach FC",
-   "id": "40068280",
-   "name": "Beach FC G2015/16 Temoche SGGS Saints"
+   "club": "VA Rush Soccer Club",
+   "id": "40111933",
+   "name": "VAR U11G Sharks"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "50048800",
+   "name": "U11G Pre-GA2"
+  },
+  {
+   "club": "Alexandria SA",
+   "id": "50048810",
+   "name": "2015-16 Girls Blue"
   },
   {
    "club": "FC Richmond",
@@ -336,19 +366,14 @@
    "name": "FC Richmond U11 Mystx Elite Pre-Aspire"
   },
   {
+   "club": "Beach FC",
+   "id": "40068280",
+   "name": "Beach FC G2015/16 Temoche SGGS Saints"
+  },
+  {
    "club": "Chesapeake SC",
-   "id": "40068228",
+   "id": "50056035",
    "name": "CSC TASL G2015/2016 Galaxy Blue (VA)"
-  },
-  {
-   "club": "McLean YS",
-   "id": "50048793",
-   "name": "McLean Youth Soccer U11 Girls Gold"
-  },
-  {
-   "club": "Salem Sabres Football Club",
-   "id": "50030107",
-   "name": "Sabres 2015_2018 Girls"
   },
   {
    "club": "Lee-Mt. Vernon Sports Club",
@@ -361,19 +386,24 @@
    "name": "Prince William Courage Pre-ECNL II G2015/16"
   },
   {
+   "club": "Salem Sabres Football Club",
+   "id": "50030107",
+   "name": "Sabres 2015_2018 Girls"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048819",
+   "name": "RU RED U11G PREMIER UP"
+  },
+  {
    "club": "Burke Athletic Club",
    "id": "50048815",
    "name": "2015/16G Thorns"
   },
   {
-   "club": "Alexandria SA",
-   "id": "50048810",
-   "name": "2015-16 Girls Blue"
-  },
-  {
-   "club": "Suffolk FC",
-   "id": "40068367",
-   "name": "U11G Suffolk FC Honey Badgers"
+   "club": "Virginia Soccer Association",
+   "id": "50048812",
+   "name": "VSA U11G PREMIER ROYAL"
   },
   {
    "club": "Sterling Soccer Club",
@@ -382,8 +412,18 @@
   },
   {
    "club": "VIP United FC",
-   "id": "40068354",
-   "name": "VIP TASL G2015/16 White (VA)"
+   "id": "50024649",
+   "name": "VIP PL G2015/16 Red (VA)"
+  },
+  {
+   "club": "Suffolk FC",
+   "id": "40068367",
+   "name": "U11G Suffolk FC Honey Badgers"
+  },
+  {
+   "club": "Springfield SYC Soccer",
+   "id": "50048791",
+   "name": "SYC U11G Blue"
   },
   {
    "club": "Virginia Reign",
@@ -392,28 +432,8 @@
   },
   {
    "club": "VIP United FC",
-   "id": "50024649",
-   "name": "VIP PL G2015/16 Red (VA)"
-  },
-  {
-   "club": "Richmond United",
-   "id": "50048819",
-   "name": "RU RED U11G PREMIER UP"
-  },
-  {
-   "club": "Springfield SYC Soccer",
-   "id": "50048791",
-   "name": "SYC U11G Blue"
-  },
-  {
-   "club": "Virginia Soccer Association",
-   "id": "50048812",
-   "name": "VSA U11G PREMIER ROYAL"
-  },
-  {
-   "club": "Braddock Road Youth Club",
-   "id": "50030096",
-   "name": "BRYC Academy G2015/16 Black"
+   "id": "40068354",
+   "name": "VIP TASL G2015/16 White (VA)"
   },
   {
    "club": "Virginia Independent Soccer Team Association",
@@ -421,14 +441,19 @@
    "name": "VISTA Fury U11G"
   },
   {
+   "club": "Prince William Soccer Inc",
+   "id": "50048801",
+   "name": "PW Courage NCSL Red G2015/16"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50030096",
+   "name": "BRYC Academy G2015/16 Black"
+  },
+  {
    "club": "Sterling Soccer Club",
    "id": "50048792",
    "name": "Sterling U11 Reign Academy 1"
-  },
-  {
-   "club": "Soccer Organization Charlottesville Area",
-   "id": "50024650",
-   "name": "SOCA VCSL G2015/16 Red"
   },
   {
    "club": "Virginia United FC",
@@ -441,9 +466,9 @@
    "name": "BRYC Academy G2015/16 Silver"
   },
   {
-   "club": "Shenandoah Valley United Inc",
-   "id": "50048805",
-   "name": "SVU 2015-16 Girls Navy"
+   "club": "Soccer Organization Charlottesville Area",
+   "id": "50024650",
+   "name": "SOCA VCSL G2015/16 Red"
   },
   {
    "club": "Herndon Youth Soccer",
@@ -451,29 +476,19 @@
    "name": "Herndon Pre-ECNL G2015/16"
   },
   {
+   "club": "Shenandoah Valley United Inc",
+   "id": "50048805",
+   "name": "SVU 2015-16 Girls Navy"
+  },
+  {
    "club": "Beach FC",
    "id": "50018920",
    "name": "Beach FC G2015/16 Current PL"
   },
   {
-   "club": "Prince William Soccer Inc",
-   "id": "50048801",
-   "name": "PW Courage NCSL Red G2015/16"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "50048803",
-   "name": "VA Rush PL G2015/16 Rush (VA)"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "40111935",
-   "name": "VAR U11G Blue Dragons"
-  },
-  {
-   "club": "Villarreal Virginia Academy",
-   "id": "40066061",
-   "name": "Villarreal Virginia Academy Pre ECNL RL G2015/16"
+   "club": "Loudoun Soccer Club",
+   "id": "50056707",
+   "name": "Loudoun U11G Silver"
   },
   {
    "club": "Vienna Youth Soccer",
@@ -481,9 +496,39 @@
    "name": "VYS NCSL G2015/16 Black Royals"
   },
   {
+   "club": "Villarreal Virginia Academy",
+   "id": "40066061",
+   "name": "Villarreal Virginia Academy Pre ECNL RL G2015/16"
+  },
+  {
    "club": "McLean YS",
    "id": "50048794",
    "name": "McLean Youth Soccer U11 Girls Silver"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "40111935",
+   "name": "VAR U11G Blue Dragons"
+  },
+  {
+   "club": "Blue Ridge United",
+   "id": "50056708",
+   "name": "Blue Ridge United U11G Blue"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "50048803",
+   "name": "VA Rush PL G2015/16 Rush (VA)"
+  },
+  {
+   "club": "Villarreal Virginia Academy",
+   "id": "50048820",
+   "name": "Villarreal VA Azul G2015/16"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "50048797",
+   "name": "GSC Girls 15/16 White"
   },
   {
    "club": "Annandale Boys & Girls",
@@ -494,21 +539,6 @@
    "club": "Fairfax Police Youth Club",
    "id": "40005231",
    "name": "FPYC Thunder 15/16"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "50048795",
-   "name": "Arlington SA 2015/16G Blue (U11)"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "50048796",
-   "name": "Arlington SA 2015/16G Black (U11)"
-  },
-  {
-   "club": "Gunston SC",
-   "id": "50048797",
-   "name": "GSC Girls 15/16 White"
   },
   {
    "club": "Virginia Velocity FC",
@@ -721,11 +751,6 @@
    "name": "GFR U11G Lionesses White"
   },
   {
-   "club": "Villarreal Virginia Academy",
-   "id": "50048820",
-   "name": "Villarreal VA Azul G2015/16"
-  },
-  {
    "club": "NPC Futbol and Futsal",
    "id": "40104860",
    "name": "NPCFF 2015/16G"
@@ -746,18 +771,13 @@
    "name": "SYC U11G Blue"
   },
   {
-   "club": "Virginia Reign",
-   "id": "50030115",
-   "name": "Va Reign FC ADSL 2015-2016 Girls Gold"
-  },
-  {
    "club": "Braddock Road Youth Club",
    "id": "40119762",
    "name": "Pre-ECNL G2015/16"
   },
   {
    "club": "Virginia Valor FC",
-   "id": "40130046",
+   "id": "50056704",
    "name": "Virginia Valor FC G2015/16 White"
   },
   {
@@ -777,28 +797,8 @@
   },
   {
    "club": "Arlington Soccer Association",
-   "id": "40134438",
-   "name": "Arlington SA 2015/16G Red (U11)"
-  },
-  {
-   "club": "Arlington Soccer Association",
    "id": "40139408",
    "name": "Arlington SA 2015/16G White (U11)"
-  },
-  {
-   "club": "Stafford Soccer",
-   "id": "40151281",
-   "name": "Stafford Revolution U11G White"
-  },
-  {
-   "club": "Loudoun Soccer Club",
-   "id": "40166452",
-   "name": "Loudoun U11G Silver"
-  },
-  {
-   "club": "Blue Ridge United",
-   "id": "40166502",
-   "name": "Blue Ridge United U11G Blue"
   },
   {
    "club": "Augusta United",
@@ -849,6 +849,16 @@
    "club": "Christiansburg SC",
    "id": "40202902",
    "name": "CSC Unicorns 2026"
+  },
+  {
+   "club": "Embrey Mill Soccer Club",
+   "id": "40211203",
+   "name": "Fauquier Fusion G2015/16"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "40211285",
+   "name": "Loudoun Soccer U11G Russo"
   }
  ]
 }

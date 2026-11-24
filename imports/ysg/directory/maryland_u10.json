@@ -1,7 +1,7 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-11-17T16:17:53.300047+00:00",
+ "fetched_at": "2026-11-24T17:59:48.721158+00:00",
  "state": "MD",
  "state_slug": "maryland",
  "teams": [
@@ -21,14 +21,19 @@
    "name": "Maryland United FC G2016/17 Red"
   },
   {
+   "club": "Washington Capital United",
+   "id": "50039722",
+   "name": "WCU U10G Blue"
+  },
+  {
    "club": "Hereford Soccer Club",
    "id": "50027904",
    "name": "Hereford U10 2035 Girls Maroon"
   },
   {
-   "club": "Washington Capital United",
-   "id": "50039722",
-   "name": "WCU U10G Blue"
+   "club": "DC Soccer Club",
+   "id": "50039716",
+   "name": "DCSC Blue GU10"
   },
   {
    "club": "SAC/BA",
@@ -56,24 +61,9 @@
    "name": "Chaos SC U10G"
   },
   {
-   "club": "FC Charles 1658",
-   "id": "50021453",
-   "name": "FCCH '16/'17 Girls - Red"
-  },
-  {
    "club": "The Player Progression Academy",
    "id": "50039714",
    "name": "PPA 16/17 Green Girls (U10)"
-  },
-  {
-   "club": "Cockeysville FC",
-   "id": "50027908",
-   "name": "Cockeysville FC 2016/17G Blue Thunder"
-  },
-  {
-   "club": "Bethesda SC",
-   "id": "50027913",
-   "name": "Bethesda E 2 U10 Green"
   },
   {
    "club": "Freedom Soccer Club",
@@ -81,19 +71,24 @@
    "name": "FSC Girls U10 Blue"
   },
   {
-   "club": "Catonsville Soccer",
-   "id": "50010457",
-   "name": "Catonsville Cobras U10 Girls Blue"
+   "club": "Cockeysville FC",
+   "id": "50027908",
+   "name": "Cockeysville FC 2016/17G Blue Thunder"
+  },
+  {
+   "club": "FC Charles 1658",
+   "id": "50021453",
+   "name": "FCCH '16/'17 Girls - Red"
+  },
+  {
+   "club": "Bethesda SC",
+   "id": "50027913",
+   "name": "Bethesda E 2 U10 Green"
   },
   {
    "club": "Old Line Football Club",
    "id": "50010458",
    "name": "Old Line FC Girls U10 16/17 Black"
-  },
-  {
-   "club": "Alliance Soccer Club",
-   "id": "50010484",
-   "name": "3rd/4thG Owls"
   },
   {
    "club": "Harford FC United",
@@ -102,8 +97,8 @@
   },
   {
    "club": "Alliance Soccer Club",
-   "id": "50010486",
-   "name": "3rd/4thG Spirit"
+   "id": "50010484",
+   "name": "3rd/4thG Owls"
   },
   {
    "club": "SAC/BA",
@@ -111,14 +106,34 @@
    "name": "SAC Girls U10 - United Blue"
   },
   {
+   "club": "Alliance Soccer Club",
+   "id": "50010486",
+   "name": "3rd/4thG Spirit"
+  },
+  {
    "club": "Maryland United Football Club",
    "id": "50010471",
    "name": "Maryland United FC G2016/17 White"
   },
   {
+   "club": "A3 Soccer",
+   "id": "50039718",
+   "name": "Birmingham City 16G"
+  },
+  {
    "club": "DMV MarksMen Elite",
    "id": "50027906",
    "name": "Lady MarksMen Elite U10s"
+  },
+  {
+   "club": "Catonsville Soccer",
+   "id": "50010457",
+   "name": "Catonsville Cobras U10 Girls Blue"
+  },
+  {
+   "club": "Alliance Soccer Club",
+   "id": "50010456",
+   "name": "ASC U10G Thunder"
   },
   {
    "club": "Bethesda SC",
@@ -131,21 +146,6 @@
    "name": "CSA U10G Premier"
   },
   {
-   "club": "Freedom Soccer Club",
-   "id": "50010464",
-   "name": "FSC Girls U10 Red"
-  },
-  {
-   "club": "AC Salisbury",
-   "id": "50010462",
-   "name": "ACS U10 Girls Blue"
-  },
-  {
-   "club": "Alliance Soccer Club",
-   "id": "50010456",
-   "name": "ASC U10G Thunder"
-  },
-  {
    "club": "Lutherville Timonium Soccer Club",
    "id": "50010469",
    "name": "LTSC Girls 2016/17 Elite"
@@ -156,9 +156,19 @@
    "name": "CCSC G2016/17 Fury"
   },
   {
+   "club": "Greater Severna Park Athletic Association",
+   "id": "50010465",
+   "name": "SEVERNA PARK U10G - GREEN"
+  },
+  {
    "club": "Galaxy FC",
    "id": "50027909",
    "name": "Galaxy FC U10G"
+  },
+  {
+   "club": "AC Salisbury",
+   "id": "50010462",
+   "name": "ACS U10 Girls Blue"
   },
   {
    "club": "North Chesapeake Football Club",
@@ -166,24 +176,14 @@
    "name": "North Chesapeake FC 2016/17 Girls"
   },
   {
-   "club": "Pipeline SC",
-   "id": "50010477",
-   "name": "2016/17 Girls South"
-  },
-  {
    "club": "Baltimore Union Soccer Club",
    "id": "50027912",
    "name": "G2016/17 Elite"
   },
   {
-   "club": "Greater Severna Park Athletic Association",
-   "id": "50010465",
-   "name": "SEVERNA PARK U10G - GREEN"
-  },
-  {
-   "club": "Catonsville Soccer",
-   "id": "50021460",
-   "name": "Catonsville Cobras U10 Girls Gold"
+   "club": "Pipeline SC",
+   "id": "50010477",
+   "name": "2016/17 Girls South"
   },
   {
    "club": "Pasadena Soccer Club",
@@ -191,19 +191,24 @@
    "name": "Pasadena SC 2016/2017G Elite White"
   },
   {
-   "club": "A3 Soccer",
-   "id": "50039718",
-   "name": "Birmingham City 16G"
+   "club": "FC Charles 1658",
+   "id": "50021454",
+   "name": "FCCH '16/'17 Girls - Grey"
+  },
+  {
+   "club": "Catonsville Soccer",
+   "id": "50021460",
+   "name": "Catonsville Cobras U10 Girls Gold"
+  },
+  {
+   "club": "Freedom Soccer Club",
+   "id": "50010464",
+   "name": "FSC Girls U10 Red"
   },
   {
    "club": "Coppermine Soccer Club",
    "id": "50010482",
    "name": "Coppermine SC U10G Pre-Academy I"
-  },
-  {
-   "club": "Fallston Soccer",
-   "id": "50051493",
-   "name": "Fallston U10 Orange"
   },
   {
    "club": "St. Mary's Soccer",
@@ -216,9 +221,9 @@
    "name": "Central MD U9/10 Girls"
   },
   {
-   "club": "FC Charles 1658",
-   "id": "50021454",
-   "name": "FCCH '16/'17 Girls - Grey"
+   "club": "Fallston Soccer",
+   "id": "50051493",
+   "name": "Fallston U10 Orange"
   },
   {
    "club": "Broadneck Soccer Club",
@@ -236,29 +241,9 @@
    "name": "Brit-Am All Stars Red G U10"
   },
   {
-   "club": "Davidsonville Football Club",
-   "id": "50021458",
-   "name": "DFC U10 Girls Green"
-  },
-  {
-   "club": "Maryland Rush",
-   "id": "40010390",
-   "name": "Rush G16/17 Union"
-  },
-  {
    "club": "Cockeysville FC",
    "id": "50027903",
    "name": "Cockeysville FC 2016/17G Gold Lightning"
-  },
-  {
-   "club": "Greater Severna Park Athletic Association",
-   "id": "50021457",
-   "name": "SEVERNA PARK U10G - WHITE"
-  },
-  {
-   "club": "Towson United",
-   "id": "50039719",
-   "name": "Towson United U10G Maroon (2016/2017)"
   },
   {
    "club": "DC Soccer Club",
@@ -266,9 +251,14 @@
    "name": "DCSC Red GU10"
   },
   {
-   "club": "Northern Elite Soccer Club",
-   "id": "50027917",
-   "name": "2017 Flames"
+   "club": "Maryland Rush",
+   "id": "40010390",
+   "name": "Rush G16/17 Union"
+  },
+  {
+   "club": "Greater Severna Park Athletic Association",
+   "id": "50021457",
+   "name": "SEVERNA PARK U10G - WHITE"
   },
   {
    "club": "St. Mary's Soccer",
@@ -276,9 +266,9 @@
    "name": "SMS 2017/16 Girls Academy Yellow"
   },
   {
-   "club": "Southeast Soccer Club",
-   "id": "50027916",
-   "name": "Southeast SC Tsunami - 2016/17 Girls"
+   "club": "Towson United",
+   "id": "50039719",
+   "name": "Towson United U10G Maroon (2016/2017)"
   },
   {
    "club": "Harundale Youth Sports League",
@@ -286,9 +276,9 @@
    "name": "HES Rising Fire"
   },
   {
-   "club": "Brazilian United Soccer Academy",
-   "id": "50027911",
-   "name": "BUSA '17G Green"
+   "club": "Northern Elite Soccer Club",
+   "id": "50027917",
+   "name": "2017 Flames"
   },
   {
    "club": "Hickory Soccer Club",
@@ -296,14 +286,54 @@
    "name": "2016/17 Girls HSC Team Hoch"
   },
   {
-   "club": "Elevate Soccer Academy",
-   "id": "50010455",
-   "name": "ESA G2016/17 (MD)"
+   "club": "Davidsonville Football Club",
+   "id": "50021458",
+   "name": "DFC U10 Girls Green"
+  },
+  {
+   "club": "Southeast Soccer Club",
+   "id": "50027916",
+   "name": "Southeast SC Tsunami - 2016/17 Girls"
+  },
+  {
+   "club": "Brazilian United Soccer Academy",
+   "id": "50027911",
+   "name": "BUSA '17G Green"
+  },
+  {
+   "club": "Soccer By Rachel",
+   "id": "50021459",
+   "name": "SBR Fame"
   },
   {
    "club": "Alliance Soccer Club",
    "id": "50010485",
    "name": "3rd/4thG Reign"
+  },
+  {
+   "club": "Elevate Soccer Academy",
+   "id": "50010455",
+   "name": "ESA G2016/17 (MD)"
+  },
+  {
+   "club": "Juventus Academy DC Metro",
+   "id": "50027915",
+   "name": "2016/18 Girls Academy I"
+  },
+  {
+   "club": "Olney Boys and Girls Club Community Sports Association",
+   "id": "40018137",
+   "name": "Strikers Blue 2016-2017 (U10)"
+  },
+  {
+   "club": "Baltimore Union Soccer Club",
+   "id": "50039725",
+   "name": "G2016/17 Select"
+  },
+  {
+   "club": "Baltimore Bays Soccer Club",
+   "id": "50039727",
+   "name": "Baltimore Bays Chaos G2016/17"
   },
   {
    "club": "SAC/BA",
@@ -316,41 +346,6 @@
    "name": "WCU U10G Red"
   },
   {
-   "club": "Olney Boys and Girls Club Community Sports Association",
-   "id": "40018137",
-   "name": "Strikers Blue 2016-2017 (U10)"
-  },
-  {
-   "club": "Soccer By Rachel",
-   "id": "50021459",
-   "name": "SBR Fame"
-  },
-  {
-   "club": "Juventus Academy DC Metro",
-   "id": "50027915",
-   "name": "2016/18 Girls Academy I"
-  },
-  {
-   "club": "Baltimore Bays Soccer Club",
-   "id": "50039727",
-   "name": "Baltimore Bays Chaos G2016/17"
-  },
-  {
-   "club": "Coppermine Soccer Club",
-   "id": "50010480",
-   "name": "Coppermine SC U10G Blue"
-  },
-  {
-   "club": "City SC Frederick",
-   "id": "50039721",
-   "name": "City SC Frederick 2035G Red"
-  },
-  {
-   "club": "Baltimore Union Soccer Club",
-   "id": "50039725",
-   "name": "G2016/17 Select"
-  },
-  {
    "club": "North Carroll Soccer Club",
    "id": "50010475",
    "name": "NCSC G2016/17 Blaze"
@@ -361,9 +356,24 @@
    "name": "16G Black"
   },
   {
+   "club": "Coppermine Soccer Club",
+   "id": "50010480",
+   "name": "Coppermine SC U10G Blue"
+  },
+  {
+   "club": "Brazilian United Soccer Academy",
+   "id": "40010475",
+   "name": "BUSA '17G Blue"
+  },
+  {
    "club": "Cecil Soccer League",
    "id": "50039723",
    "name": "Cecil FC U10 Girls"
+  },
+  {
+   "club": "WSA",
+   "id": "50051490",
+   "name": "Westminster United G2035 Dawgs"
   },
   {
    "club": "Cockeysville FC",
@@ -376,19 +386,24 @@
    "name": "3rd/4thG Comets"
   },
   {
-   "club": "WSA",
-   "id": "50051490",
-   "name": "Westminster United G2035 Dawgs"
-  },
-  {
    "club": "Towson United",
    "id": "50051491",
    "name": "Towson United U10G White (2016/2017)"
   },
   {
-   "club": "Brazilian United Soccer Academy",
-   "id": "40010475",
-   "name": "BUSA '17G Blue"
+   "club": "City SC Frederick",
+   "id": "50039721",
+   "name": "City SC Frederick 2035G Red"
+  },
+  {
+   "club": "Freedom Soccer Club",
+   "id": "50039715",
+   "name": "FSC Girls U10 White"
+  },
+  {
+   "club": "Phoenix Football Club",
+   "id": "50051494",
+   "name": "Phoenix FC 2035 Girls Black"
   },
   {
    "club": "Elvaton Elite Soccer",
@@ -396,9 +411,9 @@
    "name": "Elvaton Elite - U10 Girls - Hack"
   },
   {
-   "club": "Phoenix Football Club",
-   "id": "50051494",
-   "name": "Phoenix FC 2035 Girls Black"
+   "club": "Montgomery Soccer (MSI)",
+   "id": "50039717",
+   "name": "MSI U10 (16/17) Girls Silver"
   },
   {
    "club": "Hereford Soccer Club",
@@ -407,23 +422,18 @@
   },
   {
    "club": "DC Way Academy",
-   "id": "40010368",
+   "id": "50056325",
    "name": "DCWA U10G - Select"
   },
   {
-   "club": "Freedom Soccer Club",
-   "id": "50039715",
-   "name": "FSC Girls U10 White"
+   "club": "Bethesda SC",
+   "id": "40005311",
+   "name": "Bethesda Pre-E U10"
   },
   {
-   "club": "DC Soccer Club",
-   "id": "50039716",
-   "name": "DCSC Blue GU10"
-  },
-  {
-   "club": "Montgomery Soccer (MSI)",
-   "id": "50039717",
-   "name": "MSI U10 (16/17) Girls Silver"
+   "club": "District Elite FC",
+   "id": "40005393",
+   "name": "DEFC Botafogo"
   },
   {
    "club": "Bethesda SC",

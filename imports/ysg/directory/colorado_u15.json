@@ -1,10 +1,20 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-17T16:31:33.390224+00:00",
+ "fetched_at": "2026-11-24T18:13:29.135720+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
+  {
+   "club": "Broomfield Soccer Club",
+   "id": "40070584",
+   "name": "GA 11/12"
+  },
+  {
+   "club": "Colorado United",
+   "id": "40070959",
+   "name": "GA 11/12"
+  },
   {
    "club": "Real Colorado",
    "id": "50005760",
@@ -46,16 +56,6 @@
    "name": "Boulder County Aspire 11/12"
   },
   {
-   "club": "ALBION SC Denver",
-   "id": "50005751",
-   "name": "Aspire 11/12"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "50005765",
-   "name": "South ECNL RL G2011/12"
-  },
-  {
    "club": "Arsenal Colorado",
    "id": "40092371",
    "name": "ECNL RL G2011/12"
@@ -66,14 +66,19 @@
    "name": "Colorado Rush North U15G DPL"
   },
   {
+   "club": "ALBION SC Denver",
+   "id": "50005751",
+   "name": "Aspire 11/12"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "50005765",
+   "name": "South ECNL RL G2011/12"
+  },
+  {
    "club": "Colorado Storm",
    "id": "50035297",
    "name": "CR U15G DPL"
-  },
-  {
-   "club": "Colorado EDGE",
-   "id": "50005767",
-   "name": "Colorado EDGE ECNL RL G2011/2012"
   },
   {
    "club": "Colorado United",
@@ -81,9 +86,19 @@
    "name": "Aspire 11/12"
   },
   {
+   "club": "Colorado EDGE",
+   "id": "50005767",
+   "name": "Colorado EDGE ECNL RL G2011/2012"
+  },
+  {
    "club": "Colorado Rush",
    "id": "40019334",
    "name": "Colorado Rush North N1 G2011/12 (CO)"
+  },
+  {
+   "club": "ALBION SC Boulder County",
+   "id": "50025017",
+   "name": "Boulder County GU15 DPL"
   },
   {
    "club": "Colorado Rush",
@@ -101,19 +116,14 @@
    "name": "2011/12G United Red"
   },
   {
-   "club": "ALBION SC Boulder County",
-   "id": "50025017",
-   "name": "Boulder County GU15 DPL"
+   "club": "Denver Kickers Sport Club",
+   "id": "50025016",
+   "name": "U15G DPL"
   },
   {
    "club": "Colorado Storm",
    "id": "50035299",
    "name": "South U15G Black"
-  },
-  {
-   "club": "Denver Kickers Sport Club",
-   "id": "50025016",
-   "name": "U15G DPL"
   },
   {
    "club": "Real Colorado",
@@ -126,9 +136,9 @@
    "name": "Colorado EDGE United G2011/2012"
   },
   {
-   "club": "Pride SC",
-   "id": "50035298",
-   "name": "Pride SC N1 G2011/12 Copa CO"
+   "club": "Real Colorado",
+   "id": "50050619",
+   "name": "U15 Girls Red"
   },
   {
    "club": "Broomfield Soccer Club",
@@ -141,14 +151,14 @@
    "name": "GU15 DPL"
   },
   {
-   "club": "Real Colorado",
-   "id": "50050619",
-   "name": "U15 Girls Red"
-  },
-  {
    "club": "Colorado Rush",
    "id": "50025015",
    "name": "Colorado Rush East U15G DPL"
+  },
+  {
+   "club": "Pride SC",
+   "id": "50035298",
+   "name": "Pride SC N1 G2011/12 Copa CO"
   },
   {
    "club": "Colorado Storm",
@@ -194,16 +204,6 @@
    "club": "Pride SC",
    "id": "50035306",
    "name": "Pride SC United G11"
-  },
-  {
-   "club": "Broomfield Soccer Club",
-   "id": "40070584",
-   "name": "GA 11/12"
-  },
-  {
-   "club": "Colorado United",
-   "id": "40070959",
-   "name": "GA 11/12"
   },
   {
    "club": "G CCFC Elite",
@@ -314,6 +314,11 @@
    "club": "ALBION SC Boulder",
    "id": "40202235",
    "name": "GA Aspire U15"
+  },
+  {
+   "club": "Erie United",
+   "id": "40205483",
+   "name": "Erie United"
   }
  ]
 }

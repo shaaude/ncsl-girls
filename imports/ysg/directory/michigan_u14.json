@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-17T16:58:53.339621+00:00",
+ "fetched_at": "2026-11-24T18:40:48.833258+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
@@ -61,19 +61,24 @@
    "name": "SC-CA ECNL RL G2012/13 GMA"
   },
   {
-   "club": "AC Grand Rapids Academy",
-   "id": "50028290",
-   "name": "Aspire 12/13"
-  },
-  {
    "club": "Portage Soccer Club",
    "id": "40092162",
    "name": "Portage SC ECNL RL G2012/13"
   },
   {
+   "club": "AC Grand Rapids Academy",
+   "id": "50028290",
+   "name": "Aspire 12/13"
+  },
+  {
    "club": "Nationals",
    "id": "50040604",
    "name": "Nationals Michigan North G2012/13 Black"
+  },
+  {
+   "club": "Midwest United",
+   "id": "50011392",
+   "name": "N1 G2012/13 NMFC (MI)"
   },
   {
    "club": "Nationals",
@@ -91,11 +96,6 @@
    "name": "Warriors SC 2013 Girls Red"
   },
   {
-   "club": "Midwest United",
-   "id": "50011392",
-   "name": "N1 G2012/13 NMFC (MI)"
-  },
-  {
    "club": "Michigan Hawks",
    "id": "50051583",
    "name": "Michigan Hawks Magic ECNL G2012/13"
@@ -106,9 +106,9 @@
    "name": "Nationals SC ECNL RL G2012/13"
   },
   {
-   "club": "Michigan Jaguars",
-   "id": "50011418",
-   "name": "ANN ARBOR U14 Girls GREEN"
+   "club": "JACS",
+   "id": "40067161",
+   "name": "JACS 13/14 Girls"
   },
   {
    "club": "Nationals",
@@ -116,19 +116,19 @@
    "name": "Genesee N1 G2012/13 Black (MI)"
   },
   {
-   "club": "Nationals",
-   "id": "50011393",
-   "name": "TriCounty N1 G2012/13 Black (MI)"
-  },
-  {
-   "club": "JACS",
-   "id": "40067161",
-   "name": "JACS 13/14 Girls"
-  },
-  {
    "club": "JACS",
    "id": "40067135",
    "name": "JACS Titans"
+  },
+  {
+   "club": "Michigan Jaguars",
+   "id": "50011418",
+   "name": "ANN ARBOR U14 Girls GREEN"
+  },
+  {
+   "club": "Nationals",
+   "id": "50011393",
+   "name": "TriCounty N1 G2012/13 Black (MI)"
   },
   {
    "club": "Midwest United",
@@ -146,24 +146,14 @@
    "name": "PASS FC U14G Navy"
   },
   {
+   "club": "Midwest United",
+   "id": "50040614",
+   "name": "Aspire 12/13"
+  },
+  {
    "club": "Athletic Soccer Club Michigan",
    "id": "50011405",
    "name": "Athletic SC GEO U14G Premier"
-  },
-  {
-   "club": "Fraser SC",
-   "id": "50040609",
-   "name": "FSC Select U14 Girls Red"
-  },
-  {
-   "club": "Plymouth Soccer Club",
-   "id": "50011388",
-   "name": "Plymouth Reign ECNL RL G2012/13"
-  },
-  {
-   "club": "Michigan Tigers FC",
-   "id": "50011391",
-   "name": "N1 G2012/13 (MI)"
   },
   {
    "club": "Williamston Soccer Club",
@@ -171,19 +161,34 @@
    "name": "Williamston Girls U14"
   },
   {
+   "club": "Plymouth Soccer Club",
+   "id": "50011388",
+   "name": "Plymouth Reign ECNL RL G2012/13"
+  },
+  {
+   "club": "Fraser SC",
+   "id": "50040609",
+   "name": "FSC Select U14 Girls Red"
+  },
+  {
+   "club": "Michigan Tigers FC",
+   "id": "50011391",
+   "name": "N1 G2012/13 (MI)"
+  },
+  {
    "club": "Liverpool FC-IA Michigan",
    "id": "50051587",
    "name": "Liverpool FC MI ECNL RL G2012/13"
   },
   {
-   "club": "Midwest United",
-   "id": "50040614",
-   "name": "Aspire 12/13"
-  },
-  {
    "club": "Royal Oak FC",
    "id": "50011396",
    "name": "N1 G2012/13 Green (MI)"
+  },
+  {
+   "club": "Michigan Jaguars",
+   "id": "40071313",
+   "name": "Aspire 12/13"
   },
   {
    "club": "AC Grand Rapids Academy",
@@ -196,24 +201,14 @@
    "name": "North Storm U14G White"
   },
   {
-   "club": "Saline FC",
-   "id": "40067443",
-   "name": "Saline FC 2012/13 Girls Black"
-  },
-  {
    "club": "Nationals",
    "id": "50011406",
    "name": "Nationals Capital Area 2012/13 Girls Black"
   },
   {
-   "club": "Michigan Jaguars",
-   "id": "40071313",
-   "name": "Aspire 12/13"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "40067580",
-   "name": "ANN ARBOR U14 GIRLS WHITE"
+   "club": "Saline FC",
+   "id": "40067443",
+   "name": "Saline FC 2012/13 Girls Black"
   },
   {
    "club": "Southwest Michigan Soccer Club Inc",
@@ -226,14 +221,19 @@
    "name": "SC-Union ECNL RL G2012/13 GMA"
   },
   {
+   "club": "Michigan Jaguars",
+   "id": "40067580",
+   "name": "ANN ARBOR U14 GIRLS WHITE"
+  },
+  {
    "club": "Flushing Flames United",
    "id": "40065049",
    "name": "FFU14"
   },
   {
    "club": "Nationals",
-   "id": "50040599",
-   "name": "Nationals Union G2012/13 Black"
+   "id": "50011389",
+   "name": "Nationals SC Union ECNL RL G2012/13"
   },
   {
    "club": "Michigan Hawks",
@@ -241,14 +241,14 @@
    "name": "Michigan Hawks ECNL RL G2012/13"
   },
   {
+   "club": "Nationals",
+   "id": "50040599",
+   "name": "Nationals Union G2012/13 Black"
+  },
+  {
    "club": "Legends FC",
    "id": "50011427",
    "name": "MI) ECNL RL G2012/13"
-  },
-  {
-   "club": "Nationals",
-   "id": "50011389",
-   "name": "Nationals SC Union ECNL RL G2012/13"
   },
   {
    "club": "West Michigan Premier FC",
@@ -286,6 +286,11 @@
    "name": "OSC u14 Girls White"
   },
   {
+   "club": "Midwest United FC SCOR",
+   "id": "50040613",
+   "name": "Aspire 12/13"
+  },
+  {
    "club": "Huron S.A.",
    "id": "50011400",
    "name": "Lady Chiefs U14 Premier"
@@ -306,14 +311,14 @@
    "name": "Downriver 12/13G Gold"
   },
   {
-   "club": "Midwest United FC SCOR",
-   "id": "50040613",
-   "name": "Aspire 12/13"
-  },
-  {
    "club": "Michigan Tigers FC",
    "id": "50011429",
    "name": "MICHIGAN TIGERS U14G BLUE"
+  },
+  {
+   "club": "East Lansing Soccer Club",
+   "id": "40066913",
+   "name": "ELSC 26-27 8th/U14 Girls - Montgomery"
   },
   {
    "club": "AC Grand Rapids Academy",
@@ -326,9 +331,9 @@
    "name": "Michigan Wolves 13G"
   },
   {
-   "club": "East Lansing Soccer Club",
-   "id": "40066913",
-   "name": "ELSC 26-27 8th/U14 Girls - Montgomery"
+   "club": "Michigan Rangers FC",
+   "id": "40092154",
+   "name": "ECNL RL GU14"
   },
   {
    "club": "Nationals",
@@ -336,19 +341,14 @@
    "name": "Nationals Anchor Bay G2012/13 Black DPL*"
   },
   {
-   "club": "Michigan Rangers FC",
-   "id": "40092154",
-   "name": "ECNL RL GU14"
+   "club": "Michigan Jaguars",
+   "id": "50011414",
+   "name": "Michigan Jaguars Huron Valley U14 Girls Green"
   },
   {
    "club": "Legends FC",
    "id": "40065209",
    "name": "Legends FC Premier G13"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "50011414",
-   "name": "Michigan Jaguars Huron Valley U14 Girls Green"
   },
   {
    "club": "Michigan Jaguars",
@@ -366,14 +366,19 @@
    "name": "USA U14 Girls Premier Gold"
   },
   {
+   "club": "St. Johns Soccer Club",
+   "id": "40067126",
+   "name": "SJSC REDWINGS U14 GIRLS RED"
+  },
+  {
    "club": "Fraser SC",
    "id": "50040608",
    "name": "FSC Select U14 Girls Black"
   },
   {
-   "club": "Michigan Jaguars",
-   "id": "40007995",
-   "name": "Lansing U14 G DPL"
+   "club": "Fowlerville",
+   "id": "40066898",
+   "name": "Fowlerville Gladiators Girls u15"
   },
   {
    "club": "Liverpool FC-IA Michigan",
@@ -381,14 +386,14 @@
    "name": "NO G 12/13 ECNL RL GMA"
   },
   {
+   "club": "Michigan Jaguars",
+   "id": "40007995",
+   "name": "Lansing U14 G DPL"
+  },
+  {
    "club": "BLACKHAWKS SPORTS CLUB",
    "id": "50021798",
    "name": "BLACKHAWKS U14 GIRLS GOLD"
-  },
-  {
-   "club": "St. Johns Soccer Club",
-   "id": "40067126",
-   "name": "SJSC REDWINGS U14 GIRLS RED"
   },
   {
    "club": "Detroit City FC",
@@ -396,9 +401,9 @@
    "name": "Detroit City FC North 13G Rouge"
   },
   {
-   "club": "Fowlerville",
-   "id": "40066898",
-   "name": "Fowlerville Gladiators Girls u15"
+   "club": "Plymouth Soccer Club",
+   "id": "50040600",
+   "name": "Plymouth Reign G2012/13 White"
   },
   {
    "club": "Michigan Jaguars",
@@ -409,11 +414,6 @@
    "club": "Chelsea SC",
    "id": "40067572",
    "name": "Chelsea SC U14 Girls Blue"
-  },
-  {
-   "club": "Plymouth Soccer Club",
-   "id": "50040600",
-   "name": "Plymouth Reign G2012/13 White"
   },
   {
    "club": "Monroe United",
@@ -436,14 +436,14 @@
    "name": "ECNL RL G2012/13"
   },
   {
-   "club": "North Macomb Community Youth Soccer",
-   "id": "40065083",
-   "name": "Romeo FC Twisters"
-  },
-  {
    "club": "Force SC",
    "id": "50040601",
    "name": "Force SC 12/13G Green"
+  },
+  {
+   "club": "North Macomb Community Youth Soccer",
+   "id": "40065083",
+   "name": "Romeo FC Twisters"
   },
   {
    "club": "Michigan Stars Elite SC",
@@ -486,14 +486,14 @@
    "name": "DPL 12/13"
   },
   {
-   "club": "Detroit City FC",
-   "id": "50040602",
-   "name": "Detroit City FC Genesee U14G Rouge"
-  },
-  {
    "club": "Liverpool FC-IA Michigan",
    "id": "50040615",
    "name": "Liverpool FC MI ECNL RL GMA G2012/13"
+  },
+  {
+   "club": "Detroit City FC",
+   "id": "50040602",
+   "name": "Detroit City FC Genesee U14G Rouge"
   },
   {
    "club": "Detroit City FC South Oakland",
@@ -506,14 +506,14 @@
    "name": "Nationals Michigan North G2012/13 Red"
   },
   {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "50040607",
-   "name": "North Oakland 12/13 G Academy"
-  },
-  {
    "club": "Muth United FC",
    "id": "50011415",
    "name": "Muth United FC U14 Girls"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "50040607",
+   "name": "North Oakland 12/13 G Academy"
   },
   {
    "club": "Detroit City FC South Oakland",
@@ -541,14 +541,14 @@
    "name": "MI Burn G2012/13 White"
   },
   {
-   "club": "GREAT LAKES ALLIANCE",
-   "id": "50011407",
-   "name": "STORM U14 GIRLS"
-  },
-  {
    "club": "Bay Area SA",
    "id": "50011416",
    "name": "BASA 12 Girls"
+  },
+  {
+   "club": "GREAT LAKES ALLIANCE",
+   "id": "50011407",
+   "name": "STORM U14 GIRLS"
   },
   {
    "club": "Petoskey YS",

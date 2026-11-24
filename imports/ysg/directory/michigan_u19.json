@@ -1,10 +1,20 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-11-17T16:59:43.311704+00:00",
+ "fetched_at": "2026-11-24T18:41:52.192625+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
+  {
+   "club": "Michigan Hawks",
+   "id": "50055225",
+   "name": "ECNL G2008/09"
+  },
+  {
+   "club": "Nationals",
+   "id": "40205833",
+   "name": "SC ECNL G2008/09"
+  },
   {
    "club": "Midwest United",
    "id": "40071006",
@@ -16,14 +26,14 @@
    "name": "Athletic SC BYR U19G Premier"
   },
   {
-   "club": "Traverse Bay Area YS",
-   "id": "50011582",
-   "name": "North Storm U19G White"
+   "club": "Cap City Athletic 1847",
+   "id": "50055230",
+   "name": "ECNL RL G 2008/09"
   },
   {
-   "club": "Portage Soccer Club",
-   "id": "40059253",
-   "name": "Portage SC ECNL RL G2008/09 Green"
+   "club": "Michigan Hawks",
+   "id": "50055226",
+   "name": "Magic ECNL G2008/09"
   },
   {
    "club": "Holt Soccer Club",
@@ -31,14 +41,24 @@
    "name": "HJR SC U19 Girls (7v7)"
   },
   {
-   "club": "Legends FC",
-   "id": "40059323",
-   "name": "Legends FC ECNL RL G2008/09"
-  },
-  {
    "club": "Michigan Tigers FC",
    "id": "40070440",
    "name": "GA 08/09"
+  },
+  {
+   "club": "Michigan Rangers FC",
+   "id": "40092158",
+   "name": "ECNL RL GU19"
+  },
+  {
+   "club": "Traverse Bay Area YS",
+   "id": "50011582",
+   "name": "North Storm U19G White"
+  },
+  {
+   "club": "Portage Soccer Club",
+   "id": "50055229",
+   "name": "Portage SC ECNL RL G2008/09 Green"
   },
   {
    "club": "AC Grand Rapids Academy",
@@ -46,9 +66,14 @@
    "name": "Aspire 08/09"
   },
   {
-   "club": "United Soccer Athletes",
-   "id": "50011581",
-   "name": "USA Premier Gold U19 Girls"
+   "club": "Nationals",
+   "id": "40206154",
+   "name": "SC-Union ECNL RL G2008/09 GMA"
+  },
+  {
+   "club": "Legends FC",
+   "id": "50055231",
+   "name": "ECNL RL G2008/09"
   },
   {
    "club": "Nationals",
@@ -56,29 +81,9 @@
    "name": "Nationals Anchor Bay G2008/09 Black DPL*"
   },
   {
-   "club": "Detroit City FC",
-   "id": "40065332",
-   "name": "Detroit City FC North 08G Rouge"
-  },
-  {
-   "club": "Flint Area United Soccer Club",
-   "id": "50011583",
-   "name": "FAU 2008 Girls Premier"
-  },
-  {
-   "club": "Midwest United",
-   "id": "40071723",
-   "name": "Aspire 08/09"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "50011580",
-   "name": "Michigan Jaguars Dearborn U19 Girls Green"
-  },
-  {
-   "club": "Jackson NW AYSO Alliance",
-   "id": "40067184",
-   "name": "Jackson NW AYSO Alliance U19G"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "40205841",
+   "name": "Liverpool FC MI ECNL G2008/09"
   },
   {
    "club": "Laingsburg Soccer Club",
@@ -86,9 +91,9 @@
    "name": "Laingsburg u19 Girls"
   },
   {
-   "club": "Midwest United FC SCOR",
-   "id": "50040666",
-   "name": "Aspire 08/09"
+   "club": "Jackson NW AYSO Alliance",
+   "id": "40067184",
+   "name": "Jackson NW AYSO Alliance U19G"
   },
   {
    "club": "Charlotte Orioles",
@@ -96,14 +101,29 @@
    "name": "Charlotte U19 girls"
   },
   {
-   "club": "Royal Oak FC",
-   "id": "50011576",
-   "name": "N1 G2009/10 Green(MI)"
+   "club": "United Soccer Athletes",
+   "id": "50011581",
+   "name": "USA Premier Gold U19 Girls"
   },
   {
-   "club": "AC Grand Rapids Academy",
-   "id": "40065058",
-   "name": "ACGR Coast U19G Black"
+   "club": "Detroit City FC",
+   "id": "40206161",
+   "name": "West ECNL RL G2008/09"
+  },
+  {
+   "club": "Midwest United",
+   "id": "40071723",
+   "name": "Aspire 08/09"
+  },
+  {
+   "club": "Flint Area United Soccer Club",
+   "id": "50011583",
+   "name": "FAU 2008 Girls Premier"
+  },
+  {
+   "club": "Michigan Jaguars",
+   "id": "50011580",
+   "name": "Michigan Jaguars Dearborn U19 Girls Green"
   },
   {
    "club": "Williamston Soccer Club",
@@ -111,29 +131,9 @@
    "name": "Williamston Girls U19"
   },
   {
-   "club": "Michigan Stars Elite SC",
-   "id": "40070520",
-   "name": "GA 08/09"
-  },
-  {
-   "club": "Mount Pleasant Soccer Club",
-   "id": "50040662",
-   "name": "MPSC U19 Girls"
-  },
-  {
-   "club": "ER United",
-   "id": "40067109",
-   "name": "ER HS Girls"
-  },
-  {
-   "club": "Portland Soccer Club",
-   "id": "40067143",
-   "name": "Portland U19 Girls"
-  },
-  {
-   "club": "Lakewood Soccer Club",
-   "id": "40067032",
-   "name": "Lakewood 2008A"
+   "club": "Detroit City FC",
+   "id": "40065332",
+   "name": "Detroit City FC North 08G Rouge"
   },
   {
    "club": "Nationals",
@@ -141,19 +141,29 @@
    "name": "SC ECNL RL G2008/09"
   },
   {
-   "club": "Bay Area SA",
-   "id": "40065291",
-   "name": "BASA HS Girls"
+   "club": "Midwest United FC SCOR",
+   "id": "50040666",
+   "name": "Aspire 08/09"
   },
   {
-   "club": "Detroit City FC",
-   "id": "50011585",
-   "name": "Downriver 08/09G Rouge"
+   "club": "ER United",
+   "id": "40067109",
+   "name": "ER HS Girls"
   },
   {
-   "club": "FFC Soccer",
-   "id": "40067792",
-   "name": "FFC U19 Girls"
+   "club": "Lakewood Soccer Club",
+   "id": "40067032",
+   "name": "Lakewood 2008A"
+  },
+  {
+   "club": "Michigan Stars Elite SC",
+   "id": "40070520",
+   "name": "GA 08/09"
+  },
+  {
+   "club": "Portland Soccer Club",
+   "id": "40067143",
+   "name": "Portland U19 Girls"
   },
   {
    "club": "County Western",
@@ -161,14 +171,79 @@
    "name": "WSC U19G White"
   },
   {
+   "club": "Michigan Burn",
+   "id": "50055227",
+   "name": "ECNL RL G2008/09"
+  },
+  {
    "club": "Liverpool FC-IA Michigan",
    "id": "40096154",
    "name": "Liverpool FC MI ECNL RL G2008/09"
   },
   {
-   "club": "Holly Elite",
-   "id": "40065392",
-   "name": "Elite FC 08/09 Girls"
+   "club": "AC Grand Rapids Academy",
+   "id": "50055224",
+   "name": "ACGR Coast U19G Black"
+  },
+  {
+   "club": "Mount Pleasant Soccer Club",
+   "id": "50040662",
+   "name": "MPSC U19 Girls"
+  },
+  {
+   "club": "LA Dragons",
+   "id": "40066942",
+   "name": "LA Dragons - Girls U19"
+  },
+  {
+   "club": "Royal Oak FC",
+   "id": "50011576",
+   "name": "N1 G2009/10 Green(MI)"
+  },
+  {
+   "club": "TKO Premier SC",
+   "id": "50055232",
+   "name": "ECNL RL G2008/09"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "50055228",
+   "name": "NO G 08/09 ECNL RL GMA"
+  },
+  {
+   "club": "Michigan Jaguars",
+   "id": "50011575",
+   "name": "DPL 08/09"
+  },
+  {
+   "club": "Michigan Jaguars",
+   "id": "40007999",
+   "name": "Lansing U19 G DPL"
+  },
+  {
+   "club": "FFC Soccer",
+   "id": "40067792",
+   "name": "FFC U19 Girls"
+  },
+  {
+   "club": "Detroit City FC",
+   "id": "50011585",
+   "name": "Downriver 08/09G Rouge"
+  },
+  {
+   "club": "Bay Area SA",
+   "id": "40065291",
+   "name": "BASA HS Girls"
+  },
+  {
+   "club": "Michigan Hawks",
+   "id": "50040668",
+   "name": "ECNL RL G2008/09"
+  },
+  {
+   "club": "Owosso Soccer Club",
+   "id": "40067196",
+   "name": "OSC U19 Girls 11v11"
   },
   {
    "club": "Detroit City FC",
@@ -181,54 +256,9 @@
    "name": "FAU 2008 Girls MYSL"
   },
   {
-   "club": "Nationals",
-   "id": "50011577",
-   "name": "Genesee N1 G2007/08/09 Black (MI)"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "40007999",
-   "name": "Lansing U19 G DPL"
-  },
-  {
-   "club": "LA Dragons",
-   "id": "40066942",
-   "name": "LA Dragons - Girls U19"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "50011575",
-   "name": "DPL 08/09"
-  },
-  {
-   "club": "Owosso Soccer Club",
-   "id": "40067196",
-   "name": "OSC U19 Girls 11v11"
-  },
-  {
-   "club": "Athletic Soccer Club Michigan",
-   "id": "40065014",
-   "name": "Athletic SC GEO HSG Premier"
-  },
-  {
-   "club": "Michigan Tigers FC",
-   "id": "50011578",
-   "name": "N1 G2008/09 (MI)"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "50011574",
-   "name": "Michigan Jaguars Dearborn U19 Girls White"
-  },
-  {
-   "club": "Michigan Hawks",
-   "id": "50040668",
-   "name": "ECNL RL G2008/09"
-  },
-  {
-   "club": "Holt Soccer Club",
-   "id": "40067059",
-   "name": "HJR SC U19 Girls (11v11)"
+   "club": "Holly Elite",
+   "id": "40065392",
+   "name": "Elite FC 08/09 Girls"
   },
   {
    "club": "Owosso Soccer Club",
@@ -236,9 +266,19 @@
    "name": "OSC U19 Girls 7v7"
   },
   {
-   "club": "Midwest United",
-   "id": "50011587",
-   "name": "Midwest United FC Girls U19 Royal"
+   "club": "Nationals",
+   "id": "50011577",
+   "name": "Genesee N1 G2007/08/09 Black (MI)"
+  },
+  {
+   "club": "Holt Soccer Club",
+   "id": "40067059",
+   "name": "HJR SC U19 Girls (11v11)"
+  },
+  {
+   "club": "Athletic Soccer Club Michigan",
+   "id": "40065014",
+   "name": "Athletic SC GEO HSG Premier"
   },
   {
    "club": "ER United",
@@ -247,23 +287,23 @@
   },
   {
    "club": "Michigan Jaguars",
+   "id": "50011574",
+   "name": "Michigan Jaguars Dearborn U19 Girls White"
+  },
+  {
+   "club": "Michigan Tigers FC",
+   "id": "50011578",
+   "name": "N1 G2008/09 (MI)"
+  },
+  {
+   "club": "Michigan Jaguars",
    "id": "40065350",
    "name": "ANN ARBOR U19 GIRLS GREEN"
   },
   {
-   "club": "Monroe United",
-   "id": "40065252",
-   "name": "GHSO Monroe United"
-  },
-  {
-   "club": "West Michigan Galaxy",
-   "id": "50011573",
-   "name": "WM Galaxy 2008/09G Elite"
-  },
-  {
-   "club": "Portage Soccer Club",
-   "id": "50040659",
-   "name": "Portage SC 07/08G White"
+   "club": "Nationals",
+   "id": "40206153",
+   "name": "SC-CA ECNL RL G2008/09 GMA"
   },
   {
    "club": "Comets Soccer Club",
@@ -271,14 +311,44 @@
    "name": "Comets SC u19"
   },
   {
-   "club": "Nationals",
-   "id": "50040663",
-   "name": "Nationals Capital Area G2008/09 Girls Black"
+   "club": "Midwest United",
+   "id": "50011587",
+   "name": "Midwest United FC Girls U19 Royal"
   },
   {
    "club": "St. Johns Soccer Club",
    "id": "40067132",
    "name": "SJSC REDWINGS U19 GIRLS RED"
+  },
+  {
+   "club": "Plymouth Soccer Club",
+   "id": "40206152",
+   "name": "Plymouth Reign ECNL RL G2008/09"
+  },
+  {
+   "club": "Monroe United",
+   "id": "40065252",
+   "name": "GHSO Monroe United"
+  },
+  {
+   "club": "JACS",
+   "id": "40067160",
+   "name": "JACS Storm HS Girls"
+  },
+  {
+   "club": "Portage Soccer Club",
+   "id": "50040659",
+   "name": "Portage SC 07/08G White"
+  },
+  {
+   "club": "West Michigan Galaxy",
+   "id": "50011573",
+   "name": "WM Galaxy 2008/09G Elite"
+  },
+  {
+   "club": "Nationals",
+   "id": "50040663",
+   "name": "Nationals Capital Area G2008/09 Girls Black"
   },
   {
    "club": "Fraser SC",
@@ -291,14 +361,14 @@
    "name": "Sailors"
   },
   {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "40206156",
+   "name": "Liverpool FC MI ECNL RL GMA G2008/09"
+  },
+  {
    "club": "Legends FC",
    "id": "50011579",
    "name": "Legends FC N1 G09"
-  },
-  {
-   "club": "JACS",
-   "id": "40067160",
-   "name": "JACS Storm HS Girls"
   },
   {
    "club": "DBSS",

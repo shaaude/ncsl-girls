@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-17T17:43:02.387919+00:00",
+ "fetched_at": "2026-11-24T19:26:03.768391+00:00",
  "state": "WA",
  "state_slug": "washington",
  "teams": [
@@ -41,11 +41,6 @@
    "name": "GA 12/13"
   },
   {
-   "club": "Wenatchee FA",
-   "id": "50049595",
-   "name": "Wenatchee FA N1 G12/13 Black (WA)"
-  },
-  {
    "club": "Washington Rush",
    "id": "50049610",
    "name": "GA 12/13"
@@ -54,6 +49,11 @@
    "club": "Sound FC",
    "id": "50019621",
    "name": "Aspire 12/13"
+  },
+  {
+   "club": "Wenatchee FA",
+   "id": "50049595",
+   "name": "Wenatchee FA N1 G12/13 Black (WA)"
   },
   {
    "club": "Washington East Surf Soccer Club",
@@ -66,9 +66,9 @@
    "name": "Washington Premier ECNL G2012/13"
   },
   {
-   "club": "Washington East Surf Soccer Club",
-   "id": "50019620",
-   "name": "ASPIRE 12/13 CB"
+   "club": "Eastside FC (WA)",
+   "id": "50019630",
+   "name": "Eastside FC ECNL G2012/13"
   },
   {
    "club": "Crossfire Premier",
@@ -76,14 +76,19 @@
    "name": "XF ECNL G2012/13"
   },
   {
-   "club": "Eastside FC (WA)",
-   "id": "50019630",
-   "name": "Eastside FC ECNL G2012/13"
+   "club": "Washington East Surf Soccer Club",
+   "id": "50019620",
+   "name": "ASPIRE 12/13 CB"
   },
   {
    "club": "Mukilteo Youth SC",
    "id": "50030499",
    "name": "Mukilteo FC G12/13 Green"
+  },
+  {
+   "club": "Terrace Brier SC",
+   "id": "50056175",
+   "name": "G2012/13 Zazzo"
   },
   {
    "club": "Washington Premier FC",
@@ -96,19 +101,9 @@
    "name": "Seattle United ECNL G2012/13"
   },
   {
-   "club": "Terrace Brier SC",
-   "id": "40047987",
-   "name": "G2012/13 Zazzo"
-  },
-  {
    "club": "Sparta Tacoma",
    "id": "40021198",
    "name": "Sparta Tacoma N1 G2012/13 Red (WA)"
-  },
-  {
-   "club": "Twin City Union FC",
-   "id": "50049605",
-   "name": "Twin City Union FC G2012/13 Tumwater"
   },
   {
    "club": "Washington East Surf Soccer Club",
@@ -116,9 +111,19 @@
    "name": "COLUMBIA BASIN G12-13 BLACK"
   },
   {
+   "club": "Cascade Foothills Soccer Club",
+   "id": "40205210",
+   "name": "CFSC GU14 McCarthy"
+  },
+  {
    "club": "Cascade Premier Soccer Club",
    "id": "40021184",
    "name": "Cascade Premier N1 G2012/13 (WA)"
+  },
+  {
+   "club": "Twin City Union FC",
+   "id": "50049605",
+   "name": "Twin City Union FC G2012/13 Tumwater"
   },
   {
    "club": "Seattle Celtic",
@@ -131,19 +136,14 @@
    "name": "NCA G12-13 Navy"
   },
   {
+   "club": "West Sound Soccer Academy",
+   "id": "40047737",
+   "name": "WSSA G2012-2013"
+  },
+  {
    "club": "Seattle United",
    "id": "40204908",
    "name": "Seattle United South G12 Blue"
-  },
-  {
-   "club": "Seattle United",
-   "id": "40019825",
-   "name": "Seattle United N1 G2012/13 Copa (WA)"
-  },
-  {
-   "club": "Washington Premier FC",
-   "id": "40205314",
-   "name": "WPFC G12 White"
   },
   {
    "club": "Pacific FC Washington",
@@ -151,9 +151,19 @@
    "name": "Pacific FC N1 G2012/13 Summit (OR)"
   },
   {
-   "club": "Cascade Foothills Soccer Club",
-   "id": "40205210",
-   "name": "CFSC GU14 McCarthy"
+   "club": "Washington Premier FC",
+   "id": "40205314",
+   "name": "WPFC G12 White"
+  },
+  {
+   "club": "Seattle United",
+   "id": "40019825",
+   "name": "Seattle United N1 G2012/13 Copa (WA)"
+  },
+  {
+   "club": "Seattle United",
+   "id": "40092841",
+   "name": "ECNL RL G2012/13"
   },
   {
    "club": "Eastside FC (WA)",
@@ -161,9 +171,9 @@
    "name": "Eastside FC ECNL RL G2012/13"
   },
   {
-   "club": "West Sound Soccer Academy",
-   "id": "40047737",
-   "name": "WSSA G2012-2013"
+   "club": "Walla Walla United Soccer Club",
+   "id": "40047754",
+   "name": "WWUSC G12-15 (6-8th grade)"
   },
   {
    "club": "Seattle United",
@@ -171,9 +181,9 @@
    "name": "Seattle United G12 ECNL RL"
   },
   {
-   "club": "Walla Walla United Soccer Club",
-   "id": "40047754",
-   "name": "WWUSC G12-15 (6-8th grade)"
+   "club": "Albion SC Washington",
+   "id": "40047962",
+   "name": "Albion SC WA G12-13 Premier (U14)"
   },
   {
    "club": "Washington Premier FC",
@@ -186,11 +196,6 @@
    "name": "Aspire 12/13"
   },
   {
-   "club": "Albion SC Washington",
-   "id": "40047962",
-   "name": "Albion SC WA G12-13 Premier (U14)"
-  },
-  {
    "club": "Central Washington Sounders",
    "id": "40047611",
    "name": "CWS Navy G2012/13"
@@ -201,14 +206,14 @@
    "name": "SK United G12-13 (GU14)"
   },
   {
+   "club": "Northshore Select Club",
+   "id": "50049616",
+   "name": "NSC Gu14A"
+  },
+  {
    "club": "Northwest United FC",
    "id": "50019632",
    "name": "Northwest United ECNL RL G2012/13"
-  },
-  {
-   "club": "Seattle United",
-   "id": "40092841",
-   "name": "ECNL RL G2012/13"
   },
   {
    "club": "FC Edmonds",
@@ -256,16 +261,6 @@
    "name": "Quincy G12/13"
   },
   {
-   "club": "Northshore Select Club",
-   "id": "50049616",
-   "name": "NSC Gu14A"
-  },
-  {
-   "club": "Cascade FC",
-   "id": "40019894",
-   "name": "Cascade FC N1 G2012/13 Green"
-  },
-  {
    "club": "North County Alliance Football Club",
    "id": "50049603",
    "name": "NCA G12-13 White"
@@ -281,9 +276,14 @@
    "name": "Everett FC N1 G12/13 - WA"
   },
   {
-   "club": "Storm King FC",
-   "id": "40205025",
-   "name": "Storm King FC GU14 Monsoon"
+   "club": "Cascade FC",
+   "id": "40019894",
+   "name": "Cascade FC N1 G2012/13 Green"
+  },
+  {
+   "club": "Rainier Soccer Alliance",
+   "id": "40204959",
+   "name": "Rainier Soccer Alliance Elite GU14"
   },
   {
    "club": "Snohomish United",
@@ -291,14 +291,14 @@
    "name": "Snohomish United GU14 Black"
   },
   {
+   "club": "Storm King FC",
+   "id": "40205025",
+   "name": "Storm King FC GU14 Monsoon"
+  },
+  {
    "club": "Crossfire Select",
    "id": "50049612",
    "name": "Crossfire Select GU14 A"
-  },
-  {
-   "club": "Rainier Soccer Alliance",
-   "id": "40204959",
-   "name": "Rainier Soccer Alliance Elite GU14"
   },
   {
    "club": "Legends FC Washington",
@@ -311,9 +311,9 @@
    "name": "G2012 Sozo FC Gold Luis Nogales"
   },
   {
-   "club": "Crossfire Select",
-   "id": "40205048",
-   "name": "Crossfire Select GU14 B Humphreys"
+   "club": "NPSA",
+   "id": "50019617",
+   "name": "WW SURF ASPIRE 12/13"
   },
   {
    "club": "Valor Soccer",
@@ -321,14 +321,19 @@
    "name": "ECNL RL G2012/13"
   },
   {
+   "club": "Crossfire Select",
+   "id": "40205048",
+   "name": "Crossfire Select GU14 B Humphreys"
+  },
+  {
    "club": "North Kitsap Soccer Club",
    "id": "40047750",
    "name": "NK Norse Novas G12-13"
   },
   {
-   "club": "NPSA",
-   "id": "50019617",
-   "name": "WW SURF ASPIRE 12/13"
+   "club": "Columbia Premier Soccer Club",
+   "id": "50049613",
+   "name": "Columbia Premiere sc 12G black 1"
   },
   {
    "club": "90+ Project SC",
@@ -336,9 +341,14 @@
    "name": "90+ G12-13 Asher"
   },
   {
-   "club": "Columbia Premier Soccer Club",
-   "id": "50049613",
-   "name": "Columbia Premiere sc 12G black 1"
+   "club": "Fife-Milton-Edgewood Soccer Club",
+   "id": "40205181",
+   "name": "FME SC GU14 Blue"
+  },
+  {
+   "club": "HSA Select",
+   "id": "40205287",
+   "name": "HSA Select GU14 - Flint"
   },
   {
    "club": "Sno-King Youth Club",
@@ -356,24 +366,9 @@
    "name": "Spokane Shadow G12/13 Navy"
   },
   {
-   "club": "Twin City Union FC",
-   "id": "40047687",
-   "name": "Twin City Union Girls 2012/13"
-  },
-  {
-   "club": "Fife-Milton-Edgewood Soccer Club",
-   "id": "40205181",
-   "name": "FME SC GU14 Blue"
-  },
-  {
    "club": "Seattle Reign Academy",
    "id": "50019623",
    "name": "Aspire 12/13"
-  },
-  {
-   "club": "TC United",
-   "id": "50049604",
-   "name": "TC G2012-13 Navy (U14)"
   },
   {
    "club": "Seattle Celtic",
@@ -381,19 +376,19 @@
    "name": "Seattle Celtic G12 White"
   },
   {
-   "club": "Snohomish United",
-   "id": "50019633",
-   "name": "ECNL RL G2012/13"
-  },
-  {
    "club": "Lake Washington Premier Football Club",
    "id": "40047935",
    "name": "LWPFC White Marlins G12/13"
   },
   {
-   "club": "HSA Select",
-   "id": "40205287",
-   "name": "HSA Select GU14 - Flint"
+   "club": "Twin City Union FC",
+   "id": "40047687",
+   "name": "Twin City Union Girls 2012/13"
+  },
+  {
+   "club": "Snohomish United",
+   "id": "50019633",
+   "name": "ECNL RL G2012/13"
   },
   {
    "club": "Harbor FC",
@@ -401,14 +396,9 @@
    "name": "Aspire 12/13"
   },
   {
-   "club": "Central Washington Sounders",
-   "id": "40092879",
-   "name": "ECNL RL G2012/13"
-  },
-  {
-   "club": "Eastside FC (WA)",
-   "id": "40019888",
-   "name": "Eastside FC N1 G2012/13 Red (WA)"
+   "club": "TC United",
+   "id": "50049604",
+   "name": "TC G2012-13 Navy (U14)"
   },
   {
    "club": "Mt. Rainier Futbol Club",
@@ -421,24 +411,19 @@
    "name": "3RSC ECNL RL G2012/13"
   },
   {
+   "club": "Eastside FC (WA)",
+   "id": "40019888",
+   "name": "Eastside FC N1 G2012/13 Red (WA)"
+  },
+  {
    "club": "NPSA",
    "id": "40047659",
    "name": "WW SURF G12-13 PREMIER CENTRAL A"
   },
   {
-   "club": "Mercer Island FC",
-   "id": "40205312",
-   "name": "MIFC GU13/14 Maroon"
-  },
-  {
    "club": "Pacific FC Washington",
    "id": "40020014",
    "name": "Pacific FC N1 G2012/13 Riptide (OR)"
-  },
-  {
-   "club": "Whatcom FC Rangers",
-   "id": "40205315",
-   "name": "WFC Rangers GU 14 Blue"
   },
   {
    "club": "Whatcom FC Rangers",
@@ -456,9 +441,14 @@
    "name": "Basin Sounders G2012/13 Deras 26-27"
   },
   {
-   "club": "Northshore Select Club",
-   "id": "40205168",
-   "name": "NSC GU14C"
+   "club": "Mercer Island FC",
+   "id": "40205312",
+   "name": "MIFC GU13/14 Maroon"
+  },
+  {
+   "club": "Central Washington Sounders",
+   "id": "40092879",
+   "name": "ECNL RL G2012/13"
   },
   {
    "club": "Seattle Celtic",
@@ -471,19 +461,14 @@
    "name": "MRFC G12/13 Academy 2"
   },
   {
-   "club": "Sno-King Youth Club",
-   "id": "40110111",
-   "name": "G2012-13 - Kuempel"
-  },
-  {
    "club": "North Kitsap Soccer Club",
    "id": "50049607",
    "name": "NK Valkyries G12-13"
   },
   {
-   "club": "Three Rivers Soccer Club",
-   "id": "40019895",
-   "name": "3RSC N1 G12/13 Lemos"
+   "club": "Sno-King Youth Club",
+   "id": "40110111",
+   "name": "G2012-13 - Kuempel"
   },
   {
    "club": "Dragons FC",
@@ -496,19 +481,9 @@
    "name": "Othello G12/13 Valverde"
   },
   {
-   "club": "North Whidbey SC",
-   "id": "40205085",
-   "name": "NWSC Deception FC GU14"
-  },
-  {
-   "club": "Granite Falls YSC",
-   "id": "50049601",
-   "name": "Granite FC G12/13"
-  },
-  {
-   "club": "Seattle United",
-   "id": "50049619",
-   "name": "Seattle United G12 Copa"
+   "club": "Northshore Select Club",
+   "id": "40205168",
+   "name": "NSC GU14C"
   },
   {
    "club": "Stanwood Spartan FC",
@@ -516,14 +491,19 @@
    "name": "Stanwood Spartan FC Spartan FC GU14"
   },
   {
-   "club": "TC United",
-   "id": "50030498",
-   "name": "TC G2012-13 White (U14)"
+   "club": "Granite Falls YSC",
+   "id": "50049601",
+   "name": "Granite FC G12/13"
   },
   {
-   "club": "Cascade FC",
-   "id": "40205236",
-   "name": "Cascade FC G12 White"
+   "club": "Whatcom FC Rangers",
+   "id": "40205315",
+   "name": "WFC Rangers GU 14 Blue"
+  },
+  {
+   "club": "Seattle United",
+   "id": "50049619",
+   "name": "Seattle United G12 Copa"
   },
   {
    "club": "Emerald City FC",
@@ -531,14 +511,24 @@
    "name": "ECFC F12/13 Green (GU14G)"
   },
   {
+   "club": "North Whidbey SC",
+   "id": "40205085",
+   "name": "NWSC Deception FC GU14"
+  },
+  {
+   "club": "Three Rivers Soccer Club",
+   "id": "40019895",
+   "name": "3RSC N1 G12/13 Lemos"
+  },
+  {
+   "club": "TC United",
+   "id": "50030498",
+   "name": "TC G2012-13 White (U14)"
+  },
+  {
    "club": "PacNW",
    "id": "40092851",
    "name": "SC ECNL RL G2012/13"
-  },
-  {
-   "club": "Whatcom County Select",
-   "id": "40205139",
-   "name": "Whatcom County Select G14 Lindsey"
   },
   {
    "club": "Spokane Legacy Soccer Academy",
@@ -546,9 +536,9 @@
    "name": "Legacy-2012/13/14 G Totten (u13/14)"
   },
   {
-   "club": "Seattle United",
-   "id": "40204907",
-   "name": "Seattle United SH G12 Blue"
+   "club": "Cascade FC",
+   "id": "40205236",
+   "name": "Cascade FC G12 White"
   },
   {
    "club": "Lake Hills Soccer Club",
@@ -556,19 +546,29 @@
    "name": "Lake Hills Select GU13 GU14 Blue"
   },
   {
-   "club": "Mukilteo Youth SC",
-   "id": "40110136",
-   "name": "MYSC G12/13 Samaras"
-  },
-  {
    "club": "Sparta Tacoma",
    "id": "40047801",
    "name": "G12/13 White"
   },
   {
+   "club": "Whatcom County Select",
+   "id": "40205139",
+   "name": "Whatcom County Select G14 Lindsey"
+  },
+  {
+   "club": "Seattle United",
+   "id": "40204907",
+   "name": "Seattle United SH G12 Blue"
+  },
+  {
    "club": "NPSA",
    "id": "40047719",
    "name": "WW SURF G12-13 ACADEMY A"
+  },
+  {
+   "club": "Mukilteo Youth SC",
+   "id": "50056176",
+   "name": "MYSC G12/13 Samaras"
   },
   {
    "club": "Highline Premier FC",
@@ -586,19 +586,14 @@
    "name": "Washington Rush GU14 Rush"
   },
   {
-   "club": "PacNW",
-   "id": "40019834",
-   "name": "PacNW SC N1 G2012/13 Maroon (WA)"
-  },
-  {
    "club": "Albion SC Washington",
    "id": "40112088",
    "name": "Aspire 12/13"
   },
   {
-   "club": "Wenatchee FA",
-   "id": "40047562",
-   "name": "Wenatchee FA G12/13 Red"
+   "club": "PacNW",
+   "id": "40019834",
+   "name": "PacNW SC N1 G2012/13 Maroon (WA)"
   },
   {
    "club": "Northshore Select Club",
@@ -606,14 +601,19 @@
    "name": "NSC GU14B"
   },
   {
-   "club": "Washington East Surf Soccer Club",
-   "id": "50019619",
-   "name": "ASPIRE 12/13"
+   "club": "Wenatchee FA",
+   "id": "40047562",
+   "name": "Wenatchee FA G12/13 Red"
   },
   {
    "club": "Sparta Tacoma",
    "id": "40047810",
    "name": "G12/13 Silver"
+  },
+  {
+   "club": "Washington East Surf Soccer Club",
+   "id": "50019619",
+   "name": "ASPIRE 12/13"
   },
   {
    "club": "Highline Premier FC",
@@ -824,6 +824,16 @@
    "club": "Columbia Premier Soccer Club",
    "id": "40152599",
    "name": "Columbia Premier 12G Gray1"
+  },
+  {
+   "club": "Strikerz",
+   "id": "40208788",
+   "name": "Strikerz"
+  },
+  {
+   "club": "Starbursts",
+   "id": "40208830",
+   "name": "Starbursts"
   }
  ]
 }

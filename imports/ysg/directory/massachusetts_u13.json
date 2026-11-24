@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-17T16:56:53.382266+00:00",
+ "fetched_at": "2026-11-24T18:38:48.796527+00:00",
  "state": "MA",
  "state_slug": "massachusetts",
  "teams": [
@@ -37,11 +37,6 @@
   },
   {
    "club": "Select",
-   "id": "50010048",
-   "name": "South ECNL RL G2013/14"
-  },
-  {
-   "club": "Select",
    "id": "40061746",
    "name": "U13G NAL Sky Blue"
   },
@@ -51,9 +46,9 @@
    "name": "Aspire 13/14"
   },
   {
-   "club": "FC Stars",
-   "id": "50039503",
-   "name": "FC Stars Blue ECNL RL G2013/14"
+   "club": "Select",
+   "id": "50010048",
+   "name": "South ECNL RL G2013/14"
   },
   {
    "club": "Select",
@@ -61,9 +56,9 @@
    "name": "North U13 Regional Girls"
   },
   {
-   "club": "Select",
-   "id": "50010051",
-   "name": "South Pre-ECNL G2014/15 I"
+   "club": "FC Stars",
+   "id": "50039503",
+   "name": "FC Stars Blue ECNL RL G2013/14"
   },
   {
    "club": "Select",
@@ -72,8 +67,8 @@
   },
   {
    "club": "Select",
-   "id": "50010047",
-   "name": "South U13 Regional Girls"
+   "id": "50010051",
+   "name": "South Pre-ECNL G2014/15 I"
   },
   {
    "club": "New England Force",
@@ -86,9 +81,9 @@
    "name": "FC Stars White ECNL RL G2013/14"
   },
   {
-   "club": "New England Force",
-   "id": "50010039",
-   "name": "South Shore U13G DPL"
+   "club": "Select",
+   "id": "50010047",
+   "name": "South U13 Regional Girls"
   },
   {
    "club": "New England Surf",
@@ -96,14 +91,19 @@
    "name": "Charlestown Surf GU13 Navy"
   },
   {
+   "club": "New England Force",
+   "id": "50010039",
+   "name": "South Shore U13G DPL"
+  },
+  {
    "club": "Scorpions SC",
    "id": "50039478",
    "name": "N1 G2013/14 MetroWest Black (MA)"
   },
   {
-   "club": "Select",
-   "id": "50010073",
-   "name": "U13G NAL Navy"
+   "club": "Seacoast United Massachusetts",
+   "id": "40060845",
+   "name": "U12G Mass Elite White"
   },
   {
    "club": "FC Stars",
@@ -117,13 +117,8 @@
   },
   {
    "club": "Select",
-   "id": "50010053",
-   "name": "Select N1 G2013/14 Northeast (MA)"
-  },
-  {
-   "club": "Seacoast United Massachusetts",
-   "id": "40060845",
-   "name": "U12G Mass Elite White"
+   "id": "50010073",
+   "name": "U13G NAL Navy"
   },
   {
    "club": "Select",
@@ -131,14 +126,29 @@
    "name": "South Pre-ECNL G2014/15 II"
   },
   {
-   "club": "NEFC",
-   "id": "50039499",
-   "name": "NEFC North Shore Girls U13 Red"
+   "club": "Select",
+   "id": "50010053",
+   "name": "Select N1 G2013/14 Northeast (MA)"
   },
   {
    "club": "Strikers United",
    "id": "40060252",
    "name": "Strikers United 2014 East Girls (GU13)"
+  },
+  {
+   "club": "NEFC",
+   "id": "50039499",
+   "name": "NEFC North Shore Girls U13 Red"
+  },
+  {
+   "club": "FC Boston Bolts",
+   "id": "50010064",
+   "name": "Aspire 13/14"
+  },
+  {
+   "club": "Cambridge City FC",
+   "id": "50010063",
+   "name": "Cambridge City FC Girls U13"
   },
   {
    "club": "Old School FC",
@@ -151,29 +161,9 @@
    "name": "NEFC North Shore U13G DPL"
   },
   {
-   "club": "Northfields United",
-   "id": "50039481",
-   "name": "Northfields United Girls U13 Blue"
-  },
-  {
-   "club": "Select",
-   "id": "50010049",
-   "name": "Select N1 G2013/14 Sky Blue (MA)"
-  },
-  {
    "club": "FC Stars",
    "id": "50010075",
    "name": "FC Stars NAL GU13"
-  },
-  {
-   "club": "FC Boston Bolts",
-   "id": "50010064",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "IFA",
-   "id": "40060452",
-   "name": "West GU13 Blue"
   },
   {
    "club": "America FC United",
@@ -181,14 +171,14 @@
    "name": "U13G DPL"
   },
   {
-   "club": "NEFC",
-   "id": "50010041",
-   "name": "NEFC Central U13G DPL"
+   "club": "Select",
+   "id": "50010049",
+   "name": "Select N1 G2013/14 Sky Blue (MA)"
   },
   {
-   "club": "SFC New England",
-   "id": "50039500",
-   "name": "SFC GU13 NAL Elite"
+   "club": "Northfields United",
+   "id": "50039481",
+   "name": "Northfields United Girls U13 Blue"
   },
   {
    "club": "FC Stars",
@@ -196,9 +186,19 @@
    "name": "FC Stars New Hampshire ECNL RL G2013/14"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "50039502",
-   "name": "Aspire 13/14"
+   "club": "Scorpions SC",
+   "id": "50010044",
+   "name": "South ECNL RL G2013/14"
+  },
+  {
+   "club": "IFA",
+   "id": "40060452",
+   "name": "West GU13 Blue"
+  },
+  {
+   "club": "SFC New England",
+   "id": "50039500",
+   "name": "SFC GU13 NAL Elite"
   },
   {
    "club": "Wellesley Premier Club",
@@ -206,29 +206,14 @@
    "name": "Wellesley Premier Club U13 Girls FC"
   },
   {
-   "club": "FC Boston Bolts",
-   "id": "40059930",
-   "name": "Boston Bolts GU13 MAFSA Sharks"
+   "club": "NEFC",
+   "id": "50010041",
+   "name": "NEFC Central U13G DPL"
   },
   {
    "club": "Mariner Youth Soccer",
    "id": "50010080",
    "name": "Scorpions U13 Girls Elite"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "50010044",
-   "name": "South ECNL RL G2013/14"
-  },
-  {
-   "club": "Cambridge City FC",
-   "id": "50010063",
-   "name": "Cambridge City FC Girls U13"
-  },
-  {
-   "club": "FC Boston Bolts",
-   "id": "50027835",
-   "name": "Boston Bolts GU13 West NAL"
   },
   {
    "club": "Northfields United",
@@ -237,18 +222,13 @@
   },
   {
    "club": "Seacoast United Massachusetts",
-   "id": "50039474",
-   "name": "U13G DPL"
-  },
-  {
-   "club": "NEFC",
-   "id": "50010085",
+   "id": "50039502",
    "name": "Aspire 13/14"
   },
   {
-   "club": "NEFC",
-   "id": "50010069",
-   "name": "NEFC-BR G13"
+   "club": "FC Boston Bolts",
+   "id": "50027835",
+   "name": "Boston Bolts GU13 West NAL"
   },
   {
    "club": "FC Boston Bolts",
@@ -256,14 +236,14 @@
    "name": "Boston Bolts GU13 Metro North Elite"
   },
   {
-   "club": "New England Force",
-   "id": "50039475",
-   "name": "Southeast U13G DPL"
+   "club": "NEFC",
+   "id": "50010085",
+   "name": "Aspire 13/14"
   },
   {
-   "club": "Commonwealth Football Club",
-   "id": "50039491",
-   "name": "Girls U13"
+   "club": "Seacoast United Massachusetts",
+   "id": "50039474",
+   "name": "U13G DPL"
   },
   {
    "club": "New England Surf",
@@ -271,39 +251,24 @@
    "name": "New England Surf GU13 State Royal"
   },
   {
-   "club": "FC Stars",
-   "id": "50010078",
-   "name": "FC Stars Acton GU13 Blue"
-  },
-  {
-   "club": "FC Boston Bolts",
-   "id": "50027829",
-   "name": "U13G DPL"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "50010089",
-   "name": "ECNL RL G2013/14"
-  },
-  {
-   "club": "Seacoast United Massachusetts",
-   "id": "50039493",
-   "name": "North U13 Girls Carolina Blue"
-  },
-  {
-   "club": "IFA South Shore",
-   "id": "50010058",
-   "name": "IFA U13 Girls NAL"
-  },
-  {
    "club": "Lexington United Soccer Club",
    "id": "40059731",
    "name": "2013/2014 Girls LPDA"
   },
   {
-   "club": "IFA South Shore",
-   "id": "50010059",
-   "name": "IFA South Shore Girls U13 Blue"
+   "club": "Commonwealth Football Club",
+   "id": "50039491",
+   "name": "Girls U13"
+  },
+  {
+   "club": "FC Stars",
+   "id": "50010078",
+   "name": "FC Stars Acton GU13 Blue"
+  },
+  {
+   "club": "New England Force",
+   "id": "50039475",
+   "name": "Southeast U13G DPL"
   },
   {
    "club": "Spirit of Liverpool USA",
@@ -311,29 +276,24 @@
    "name": "U13 Girls National"
   },
   {
+   "club": "Scorpions SC",
+   "id": "50010089",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "NEFC",
+   "id": "50010069",
+   "name": "NEFC-BR G13"
+  },
+  {
    "club": "NEFC",
    "id": "50039494",
    "name": "NEFC Newton Girls Academy U13 Pre-RAL"
   },
   {
-   "club": "America FC United",
-   "id": "50027834",
-   "name": "AFC U13 Girls Elite"
-  },
-  {
-   "club": "Western United Pioneers FC",
-   "id": "50039476",
-   "name": "N1 G2013/14 White (MA)"
-  },
-  {
-   "club": "New England Surf",
-   "id": "50010056",
-   "name": "New England Surf GU13 State Sky"
-  },
-  {
-   "club": "Harvest Soccer Club",
-   "id": "50039482",
-   "name": "Harvest SC Girls U13"
+   "club": "IFA South Shore",
+   "id": "50010058",
+   "name": "IFA U13 Girls NAL"
   },
   {
    "club": "Best FC",
@@ -341,14 +301,19 @@
    "name": "BEST FC Girls U13 National"
   },
   {
-   "club": "FC Stars",
-   "id": "50039479",
-   "name": "FC Stars Northboro GU13 Blue"
-  },
-  {
    "club": "IFA",
    "id": "50010052",
    "name": "West N1 GU13 Blue (MA)"
+  },
+  {
+   "club": "Harvest Soccer Club",
+   "id": "50039482",
+   "name": "Harvest SC Girls U13"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "50039493",
+   "name": "North U13 Girls Carolina Blue"
   },
   {
    "club": "Select",
@@ -356,14 +321,39 @@
    "name": "South Shore U13G State Sky Blue"
   },
   {
+   "club": "America FC United",
+   "id": "50027834",
+   "name": "AFC U13 Girls Elite"
+  },
+  {
+   "club": "FC Boston Bolts",
+   "id": "50027829",
+   "name": "U13G DPL"
+  },
+  {
+   "club": "New England Surf",
+   "id": "50010056",
+   "name": "New England Surf GU13 State Sky"
+  },
+  {
+   "club": "Western United Pioneers FC",
+   "id": "50039476",
+   "name": "N1 G2013/14 White (MA)"
+  },
+  {
+   "club": "FC Stars",
+   "id": "50039479",
+   "name": "FC Stars Northboro GU13 Blue"
+  },
+  {
+   "club": "FC Boston Bolts",
+   "id": "40059930",
+   "name": "Boston Bolts GU13 MAFSA Sharks"
+  },
+  {
    "club": "AC Independence",
    "id": "50010068",
    "name": "ACI U13 Girls Lighthouse"
-  },
-  {
-   "club": "NEFC",
-   "id": "50039498",
-   "name": "NEFC North Shore Girls U13 Navy"
   },
   {
    "club": "IFA",
@@ -372,38 +362,13 @@
   },
   {
    "club": "FC Stars",
-   "id": "50010076",
-   "name": "FC Stars Northboro GU13 Blue AD"
-  },
-  {
-   "club": "New England Force",
-   "id": "50010071",
-   "name": "U13 Girls Pre DPL"
-  },
-  {
-   "club": "FC Stars",
    "id": "50010079",
    "name": "FC Stars East GU13 Blue"
   },
   {
-   "club": "United Soccer Group",
-   "id": "50010067",
-   "name": "USG u13 Girls Black"
-  },
-  {
-   "club": "New England Surf",
-   "id": "50010061",
-   "name": "New England Surf Metro Boston U13 Girls Navy"
-  },
-  {
-   "club": "Fellsway Wanderers FC",
-   "id": "50027832",
-   "name": "FWFC U13 Girls"
-  },
-  {
-   "club": "FC Boston Bolts",
-   "id": "50039485",
-   "name": "Boston Bolts GU13 West Elite"
+   "club": "FC Stars",
+   "id": "50010076",
+   "name": "FC Stars Northboro GU13 Blue AD"
   },
   {
    "club": "New England Surf",
@@ -417,8 +382,8 @@
   },
   {
    "club": "NEFC",
-   "id": "40060771",
-   "name": "NEFC North Shore Soccer Academy Oceanside Girls U13"
+   "id": "50039498",
+   "name": "NEFC North Shore Girls U13 Navy"
   },
   {
    "club": "FC Stars",
@@ -426,14 +391,29 @@
    "name": "FC Stars East GU13 White"
   },
   {
+   "club": "United Soccer Group",
+   "id": "50010067",
+   "name": "USG u13 Girls Black"
+  },
+  {
+   "club": "Fellsway Wanderers FC",
+   "id": "50027832",
+   "name": "FWFC U13 Girls"
+  },
+  {
+   "club": "New England Force",
+   "id": "50010071",
+   "name": "U13 Girls Pre DPL"
+  },
+  {
    "club": "Scorpions SC",
    "id": "50027833",
    "name": "GIRLS U13 SOUTH BLACK"
   },
   {
-   "club": "Scorpions SC",
-   "id": "50039490",
-   "name": "Girls U13 MetroWest White"
+   "club": "IFA South Shore",
+   "id": "50010059",
+   "name": "IFA South Shore Girls U13 Blue"
   },
   {
    "club": "Seekonk Youth Soccer",
@@ -441,9 +421,19 @@
    "name": "Black Goose Select GU13"
   },
   {
-   "club": "Select",
-   "id": "50039492",
-   "name": "North Shore U13G Sky Blue"
+   "club": "New England Surf",
+   "id": "50010061",
+   "name": "New England Surf Metro Boston U13 Girls Navy"
+  },
+  {
+   "club": "FC Boston Bolts",
+   "id": "50039485",
+   "name": "Boston Bolts GU13 West Elite"
+  },
+  {
+   "club": "SFC New England",
+   "id": "50010074",
+   "name": "SFC GU13 White"
   },
   {
    "club": "WarCats SC",
@@ -452,8 +442,28 @@
   },
   {
    "club": "NEFC",
+   "id": "40060771",
+   "name": "NEFC North Shore Soccer Academy Oceanside Girls U13"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "50039490",
+   "name": "Girls U13 MetroWest White"
+  },
+  {
+   "club": "NEFC",
    "id": "50039496",
    "name": "NEFC Metro North Girls U13 Red"
+  },
+  {
+   "club": "Select",
+   "id": "50039492",
+   "name": "North Shore U13G Sky Blue"
+  },
+  {
+   "club": "NEFC",
+   "id": "50039497",
+   "name": "NEFC Metro North Girls U13 Navy"
   },
   {
    "club": "Select",
@@ -467,8 +477,8 @@
   },
   {
    "club": "NEFC",
-   "id": "50039497",
-   "name": "NEFC Metro North Girls U13 Navy"
+   "id": "50039495",
+   "name": "NEFC Metro West Girls U13 Red"
   },
   {
    "club": "New England Force",
@@ -476,14 +486,9 @@
    "name": "N1 G2013/14 (MA)"
   },
   {
-   "club": "SFC New England",
-   "id": "50010074",
-   "name": "SFC GU13 White"
-  },
-  {
-   "club": "NEFC",
-   "id": "50039495",
-   "name": "NEFC Metro West Girls U13 Red"
+   "club": "Wachusett United FC",
+   "id": "50010062",
+   "name": "Wachusett United FC U13 Girls"
   },
   {
    "club": "Best FC",
@@ -496,9 +501,14 @@
    "name": "Vipers U13G DPL"
   },
   {
-   "club": "Wachusett United FC",
-   "id": "50010062",
-   "name": "Wachusett United FC U13 Girls"
+   "club": "Green Lions FC",
+   "id": "40060787",
+   "name": "Green Lions FC G13/14"
+  },
+  {
+   "club": "NEFC",
+   "id": "50010054",
+   "name": "NEFC N1 Girls 2013/2014 South (MA)"
   },
   {
    "club": "New England Force",
@@ -509,16 +519,6 @@
    "club": "Select",
    "id": "40060047",
    "name": "Metro South U13G"
-  },
-  {
-   "club": "Green Lions FC",
-   "id": "40060787",
-   "name": "Green Lions FC G13/14"
-  },
-  {
-   "club": "NEFC",
-   "id": "50010054",
-   "name": "NEFC N1 Girls 2013/2014 South (MA)"
   },
   {
    "club": "Dalton Warriors Blue",

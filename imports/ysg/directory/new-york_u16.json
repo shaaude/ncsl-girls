@@ -1,7 +1,7 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-17T17:17:42.451190+00:00",
+ "fetched_at": "2026-11-24T18:59:42.255666+00:00",
  "state": "NY",
  "state_slug": "new-york",
  "teams": [
@@ -16,9 +16,19 @@
    "name": "Terryville Rebellion"
   },
   {
+   "club": "Rockville Centre Soccer Club",
+   "id": "50029108",
+   "name": "RVC Rascals"
+  },
+  {
    "club": "Patchogue-Medford Youth Soccer League",
    "id": "40079270",
    "name": "Thunder"
+  },
+  {
+   "club": "Sound Beach",
+   "id": "50043594",
+   "name": "Alliance"
   },
   {
    "club": "South Bronx Utd",
@@ -31,29 +41,24 @@
    "name": "Thunderbolts FC 2011"
   },
   {
-   "club": "Sound Beach",
-   "id": "50043594",
-   "name": "Alliance"
+   "club": "Rockville Centre Soccer Club",
+   "id": "50029109",
+   "name": "RVC Warriors"
   },
   {
-   "club": "Town of Poughkeepsie",
-   "id": "50029106",
-   "name": "TOPSC Fire 2010/2011"
-  },
-  {
-   "club": "Manorville (LIJSL)",
-   "id": "40079066",
-   "name": "Mustangs"
-  },
-  {
-   "club": "Bellmore (LIJSL)",
-   "id": "40078581",
-   "name": "Blue Devils"
+   "club": "Gold Coast FC",
+   "id": "40037950",
+   "name": "Red Wolves 2010/11 Girls"
   },
   {
    "club": "NY Rush",
    "id": "50043590",
    "name": "NY Rush Binghamton 2011/12G"
+  },
+  {
+   "club": "Manorville (LIJSL)",
+   "id": "40079066",
+   "name": "Mustangs"
   },
   {
    "club": "Plainedge (LIJSL)",
@@ -66,9 +71,19 @@
    "name": "Wildcats"
   },
   {
-   "club": "Rockville Centre Soccer Club",
-   "id": "50029109",
-   "name": "RVC Warriors"
+   "club": "East Ramapo",
+   "id": "50029107",
+   "name": "Galacticas"
+  },
+  {
+   "club": "HBC Soccer Club (LIJSL)",
+   "id": "40038770",
+   "name": "Hericanes 2011-2012"
+  },
+  {
+   "club": "Bellmore (LIJSL)",
+   "id": "40078581",
+   "name": "Blue Devils"
   },
   {
    "club": "Plainview Old Bethpage (LIJSL)",
@@ -76,9 +91,34 @@
    "name": "Cobras"
   },
   {
-   "club": "East Ramapo",
-   "id": "50029107",
-   "name": "Galacticas"
+   "club": "Town of Poughkeepsie",
+   "id": "50029106",
+   "name": "TOPSC Fire 2010/2011"
+  },
+  {
+   "club": "South Huntington (LIJSL)",
+   "id": "50029111",
+   "name": "Wolves"
+  },
+  {
+   "club": "West Islip SC",
+   "id": "40087619",
+   "name": "WI United FC"
+  },
+  {
+   "club": "Gold Coast FC",
+   "id": "40037949",
+   "name": "Brighton 2011/12 Girls"
+  },
+  {
+   "club": "Long Island SC",
+   "id": "40038884",
+   "name": "Girls 2010/2011 Academy East"
+  },
+  {
+   "club": "Long Island SC",
+   "id": "40038805",
+   "name": "LISC Girls 2010/2011 Premier"
   },
   {
    "club": "Baymen (LIJSL)",
@@ -86,19 +126,24 @@
    "name": "Gale Force"
   },
   {
-   "club": "Community SC",
-   "id": "40038487",
-   "name": "BLUE DRAGONS"
-  },
-  {
    "club": "Don Bosco Hawks",
    "id": "40074971",
    "name": "Fenix"
   },
   {
+   "club": "Lindenhurst Soccer Club (LIJSL)",
+   "id": "40087632",
+   "name": "Breakaways"
+  },
+  {
    "club": "Garden City (LIJSL)",
    "id": "40078770",
    "name": "Hurricanes"
+  },
+  {
+   "club": "Baymen (LIJSL)",
+   "id": "40078514",
+   "name": "Crush"
   },
   {
    "club": "Islandia SC PAL",
@@ -111,9 +156,39 @@
    "name": "Galaxy"
   },
   {
-   "club": "Baymen (LIJSL)",
-   "id": "40078514",
-   "name": "Crush"
+   "club": "Sky Soccer NY",
+   "id": "40037719",
+   "name": "SKY SOCCER NY - G2010/2011"
+  },
+  {
+   "club": "Brentwood SC (LIJSL)",
+   "id": "50022010",
+   "name": "G2011/12 National"
+  },
+  {
+   "club": "Carmel United",
+   "id": "40053361",
+   "name": "Warriors"
+  },
+  {
+   "club": "Saratoga-Wilton",
+   "id": "50014804",
+   "name": "SWSC N1 Girls 2011 (NY)"
+  },
+  {
+   "club": "Gotham Girls",
+   "id": "50022011",
+   "name": "2010/2011 United"
+  },
+  {
+   "club": "Community SC",
+   "id": "40038487",
+   "name": "BLUE DRAGONS"
+  },
+  {
+   "club": "VOB Soccer Club (LIJSL)",
+   "id": "40087636",
+   "name": "Strikers"
   },
   {
    "club": "Farmingdale SC (LIJSL)",
@@ -126,19 +201,24 @@
    "name": "G10/11 Cheetahs"
   },
   {
+   "club": "Atlantic United SB/LGN SC",
+   "id": "50043591",
+   "name": "G2012/2011 White (Nova)"
+  },
+  {
    "club": "Mahopac",
    "id": "50052734",
    "name": "Elite"
   },
   {
+   "club": "Massapequa SC",
+   "id": "40087617",
+   "name": "Lady Man United"
+  },
+  {
    "club": "New Rochelle",
    "id": "40075357",
    "name": "Bears"
-  },
-  {
-   "club": "Lindenhurst Soccer Club (LIJSL)",
-   "id": "40087632",
-   "name": "Breakaways"
   },
   {
    "club": "FC Dutchmen",
@@ -157,8 +237,18 @@
   },
   {
    "club": "Western New York Flash",
+   "id": "40009815",
+   "name": "WNY Flash Binghamton ECNL RL G2010/11"
+  },
+  {
+   "club": "Western New York Flash",
    "id": "40017224",
    "name": "WNY Flash Rochester Premier G2010/11"
+  },
+  {
+   "club": "NY Rush",
+   "id": "50056491",
+   "name": "Rochester Rush N1 GU16 Blue (NY)"
   },
   {
    "club": "Gotham Girls",
@@ -166,69 +256,9 @@
    "name": "2010/2011 Santos"
   },
   {
-   "club": "Sky Soccer NY",
-   "id": "40037719",
-   "name": "SKY SOCCER NY - G2010/2011"
-  },
-  {
-   "club": "Gold Coast FC",
-   "id": "40037949",
-   "name": "Brighton 2011/12 Girls"
-  },
-  {
-   "club": "Gold Coast FC",
-   "id": "40037950",
-   "name": "Red Wolves 2010/11 Girls"
-  },
-  {
-   "club": "HBC Soccer Club (LIJSL)",
-   "id": "40038770",
-   "name": "Hericanes 2011-2012"
-  },
-  {
-   "club": "Long Island SC",
-   "id": "40038805",
-   "name": "LISC Girls 2010/2011 Premier"
-  },
-  {
-   "club": "Brentwood SC (LIJSL)",
-   "id": "50022010",
-   "name": "G2011/12 National"
-  },
-  {
-   "club": "Rockville Centre Soccer Club",
-   "id": "50029108",
-   "name": "RVC Rascals"
-  },
-  {
    "club": "East Fishkill Soccer Club",
    "id": "40038881",
    "name": "Mustangs G2011/12"
-  },
-  {
-   "club": "Long Island SC",
-   "id": "40038884",
-   "name": "Girls 2010/2011 Academy East"
-  },
-  {
-   "club": "Gotham Girls",
-   "id": "50022011",
-   "name": "2010/2011 United"
-  },
-  {
-   "club": "Saratoga-Wilton",
-   "id": "50014804",
-   "name": "SWSC N1 Girls 2011 (NY)"
-  },
-  {
-   "club": "Atlantic United SB/LGN SC",
-   "id": "50043591",
-   "name": "G2012/2011 White (Nova)"
-  },
-  {
-   "club": "Carmel United",
-   "id": "40053361",
-   "name": "Warriors"
   },
   {
    "club": "Silver Lake Soccer Academy",
@@ -239,6 +269,16 @@
    "club": "Atlantic United SB/LGN SC",
    "id": "50014805",
    "name": "G2010/G2011 NAL (Fury)"
+  },
+  {
+   "club": "Met Oval",
+   "id": "50056492",
+   "name": "Met Oval Brooklyn City U16"
+  },
+  {
+   "club": "Fox Soccer Academy Premier",
+   "id": "50024111",
+   "name": "FSA Nirvana U16"
   },
   {
    "club": "Long Island Slammers",
@@ -281,29 +321,9 @@
    "name": "ECNL RL G2010/11"
   },
   {
-   "club": "Massapequa SC",
-   "id": "40087617",
-   "name": "Lady Man United"
-  },
-  {
-   "club": "West Islip SC",
-   "id": "40087619",
-   "name": "WI United FC"
-  },
-  {
-   "club": "South Huntington (LIJSL)",
-   "id": "50029111",
-   "name": "Wolves"
-  },
-  {
    "club": "Garden City (LIJSL)",
    "id": "40087634",
    "name": "Dominators"
-  },
-  {
-   "club": "VOB Soccer Club (LIJSL)",
-   "id": "40087636",
-   "name": "Strikers"
   },
   {
    "club": "World Class FC",
@@ -453,7 +473,7 @@
   {
    "club": "Quickstrike FC",
    "id": "40190205",
-   "name": "N1 G2010/11 South"
+   "name": "N1 G2010/11 North"
   },
   {
    "club": "Stars FC",
@@ -479,6 +499,26 @@
    "club": "Stars FC",
    "id": "40193582",
    "name": "G2010/2011"
+  },
+  {
+   "club": "NY Rush",
+   "id": "40210579",
+   "name": "NY Rush GU16 Blue"
+  },
+  {
+   "club": "Rush NY- Albany",
+   "id": "40210590",
+   "name": "Albany Rush N1 G2010/11 (NY)"
+  },
+  {
+   "club": "Force FC",
+   "id": "40211582",
+   "name": "G2010/2011 ECNL RL"
+  },
+  {
+   "club": "English American EAFC",
+   "id": "40211588",
+   "name": "EAFC 2010/11 Girls Black"
   }
  ]
 }

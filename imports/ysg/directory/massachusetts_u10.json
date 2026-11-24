@@ -1,7 +1,7 @@
 {
  "age": "GU10",
  "age_slug": "u10",
- "fetched_at": "2026-11-17T16:56:23.511935+00:00",
+ "fetched_at": "2026-11-24T18:38:18.866133+00:00",
  "state": "MA",
  "state_slug": "massachusetts",
  "teams": [
@@ -21,24 +21,14 @@
    "name": "IFA South Shore Girls U10 Blue"
   },
   {
+   "club": "FC Stars",
+   "id": "50009758",
+   "name": "FC Stars Metrowest GU10 Blue - McDonough"
+  },
+  {
    "club": "New England Force",
    "id": "50009749",
    "name": "U10 Girls Surge"
-  },
-  {
-   "club": "New England Force",
-   "id": "50009750",
-   "name": "U10 Girls Midnight"
-  },
-  {
-   "club": "Select",
-   "id": "40060036",
-   "name": "South Shore U10G AP Platinum"
-  },
-  {
-   "club": "Seacoast United Massachusetts",
-   "id": "50039171",
-   "name": "U10 Girls South Shore Navy"
   },
   {
    "club": "NEFC",
@@ -46,9 +36,9 @@
    "name": "NEFC Metro West Girls U10 Red"
   },
   {
-   "club": "Needham Soccer Club",
-   "id": "50021412",
-   "name": "NSCCL G3/4: Brazil"
+   "club": "Seacoast United Massachusetts",
+   "id": "50039160",
+   "name": "U10 Girls Metro West Navy"
   },
   {
    "club": "FC Stars",
@@ -57,18 +47,28 @@
   },
   {
    "club": "Seacoast United Massachusetts",
-   "id": "50039160",
-   "name": "U10 Girls Metro West Navy"
+   "id": "50039171",
+   "name": "U10 Girls South Shore Navy"
   },
   {
-   "club": "New England Surf",
-   "id": "50009743",
-   "name": "New England Surf Metro Boston U10 Girls Navy"
+   "club": "Select",
+   "id": "40060036",
+   "name": "South Shore U10G AP Platinum"
   },
   {
-   "club": "SFC New England",
-   "id": "50027773",
-   "name": "SFC GU10 Blue"
+   "club": "New England Force",
+   "id": "50009750",
+   "name": "U10 Girls Midnight"
+  },
+  {
+   "club": "Needham Soccer Club",
+   "id": "50021412",
+   "name": "NSCCL G3/4: Brazil"
+  },
+  {
+   "club": "Select",
+   "id": "50009730",
+   "name": "South Shore U9G AP Reign"
   },
   {
    "club": "Seacoast United Massachusetts",
@@ -77,13 +77,13 @@
   },
   {
    "club": "Select",
-   "id": "50009730",
-   "name": "South Shore U9G AP Reign"
-  },
-  {
-   "club": "Select",
    "id": "50009754",
    "name": "South Shore U10G AP Navy Wave"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "50039175",
+   "name": "North U10 Girls Carolina Blue"
   },
   {
    "club": "Old School FC",
@@ -91,9 +91,19 @@
    "name": "OSFC GU10"
   },
   {
+   "club": "New England Surf",
+   "id": "50009743",
+   "name": "New England Surf Metro Boston U10 Girls Navy"
+  },
+  {
    "club": "Scorpions SC",
    "id": "50039163",
    "name": "Girls U10 MetroWest Black"
+  },
+  {
+   "club": "SFC New England",
+   "id": "50027773",
+   "name": "SFC GU10 Blue"
   },
   {
    "club": "Wellesley Premier Club",
@@ -102,18 +112,8 @@
   },
   {
    "club": "FC Stars",
-   "id": "50009758",
-   "name": "FC Stars Metrowest GU10 Blue - McDonough"
-  },
-  {
-   "club": "Seacoast United Massachusetts",
-   "id": "50039175",
-   "name": "North U10 Girls Carolina Blue"
-  },
-  {
-   "club": "IFA",
-   "id": "50009737",
-   "name": "Metro West GU10 Blue"
+   "id": "50039144",
+   "name": "FC Stars Northboro GU10 Blue K"
   },
   {
    "club": "FC Stars",
@@ -121,19 +121,9 @@
    "name": "FC Stars East GU10 Blue - Tyngsboro"
   },
   {
-   "club": "Boston Vigor FC",
-   "id": "50009756",
-   "name": "Boston Vigor FC Girls U10 Ajax"
-  },
-  {
-   "club": "Vipers FC",
-   "id": "50009757",
-   "name": "Vipers U10 Girls Black"
-  },
-  {
-   "club": "New England Force",
-   "id": "50039158",
-   "name": "U10 Girls Pre Surge Black"
+   "club": "IFA",
+   "id": "50009737",
+   "name": "Metro West GU10 Blue"
   },
   {
    "club": "Green Lions FC",
@@ -141,14 +131,39 @@
    "name": "Green Lions FC G16/17"
   },
   {
+   "club": "IFA",
+   "id": "50009738",
+   "name": "Greater Boston GU10 Blue"
+  },
+  {
+   "club": "NEFC",
+   "id": "50039184",
+   "name": "NEFC North Shore Girls U10 Red"
+  },
+  {
+   "club": "NEFC",
+   "id": "50039186",
+   "name": "NEFC North Shore Girls U10 Navy"
+  },
+  {
+   "club": "Real Boston FC",
+   "id": "50055183",
+   "name": "RBFC Girls U10"
+  },
+  {
+   "club": "New England Force",
+   "id": "50039158",
+   "name": "U10 Girls Pre Surge Black"
+  },
+  {
    "club": "New England Surf",
    "id": "50009742",
    "name": "New England Surf Metro South U10 Girls Navy"
   },
   {
-   "club": "NEFC",
-   "id": "50039177",
-   "name": "NEFC Metro West Girls U10 Northboro Red"
+   "club": "Select",
+   "id": "50009753",
+   "name": "South Shore U10G AP Navy Current"
   },
   {
    "club": "Needham Soccer Club",
@@ -162,18 +177,13 @@
   },
   {
    "club": "NEFC",
-   "id": "50039186",
-   "name": "NEFC North Shore Girls U10 Navy"
+   "id": "50039177",
+   "name": "NEFC Metro West Girls U10 Northboro Red"
   },
   {
-   "club": "FC Stars",
-   "id": "50039145",
-   "name": "FC Stars Northboro GU10 Blue AD"
-  },
-  {
-   "club": "FC Stars",
-   "id": "50039144",
-   "name": "FC Stars Northboro GU10 Blue K"
+   "club": "Vipers FC",
+   "id": "50009757",
+   "name": "Vipers U10 Girls Black"
   },
   {
    "club": "Western United Pioneers FC",
@@ -181,14 +191,14 @@
    "name": "Girls 2016/17 Elite Red"
   },
   {
-   "club": "Real Boston FC",
-   "id": "40059864",
-   "name": "RBFC Girls U10"
+   "club": "FC Stars",
+   "id": "50039145",
+   "name": "FC Stars Northboro GU10 Blue AD"
   },
   {
-   "club": "NEFC",
-   "id": "50039184",
-   "name": "NEFC North Shore Girls U10 Red"
+   "club": "Lexington United Soccer Club",
+   "id": "40059893",
+   "name": "2016/2017 Girls LPDA (Junior)"
   },
   {
    "club": "Needham Soccer Club",
@@ -196,14 +206,14 @@
    "name": "NSCCL G3/4: Netherlands"
   },
   {
+   "club": "Boston Vigor FC",
+   "id": "50009756",
+   "name": "Boston Vigor FC Girls U10 Ajax"
+  },
+  {
    "club": "FC Stars",
    "id": "50009760",
    "name": "FC Stars East GU10 Blue - Bedford"
-  },
-  {
-   "club": "Fellsway Wanderers FC",
-   "id": "40059963",
-   "name": "FWFC U10 Girls"
   },
   {
    "club": "Select",
@@ -211,69 +221,9 @@
    "name": "North Shore U10G AP Sky Blue"
   },
   {
-   "club": "Mariner Youth Soccer",
-   "id": "50039180",
-   "name": "Scorpions U10 Girls"
-  },
-  {
-   "club": "IFA",
-   "id": "50009738",
-   "name": "Greater Boston GU10 Blue"
-  },
-  {
-   "club": "Select",
-   "id": "50009753",
-   "name": "South Shore U10G AP Navy Current"
-  },
-  {
    "club": "Seekonk Youth Soccer",
    "id": "40060645",
    "name": "Black Goose Select GU10"
-  },
-  {
-   "club": "FC Boston Bolts",
-   "id": "50009752",
-   "name": "Boston Bolts GU10 Boston Pre-Academy"
-  },
-  {
-   "club": "Dover Sherborn SC",
-   "id": "50039176",
-   "name": "Dover Sherborn Academy - DSA GU10"
-  },
-  {
-   "club": "NEFC",
-   "id": "50009748",
-   "name": "NEFC-BR G10"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "50039162",
-   "name": "Girls U10 MetroWest White"
-  },
-  {
-   "club": "New England Force",
-   "id": "50039159",
-   "name": "U10 Girls Silver"
-  },
-  {
-   "club": "FC Stars",
-   "id": "50009761",
-   "name": "FC Stars Northboro GU10 Blue Dawson"
-  },
-  {
-   "club": "Needham Soccer Club",
-   "id": "50021421",
-   "name": "NSCCL G3/4: Argentina"
-  },
-  {
-   "club": "Needham Soccer Club",
-   "id": "50021415",
-   "name": "NSCCL G3/4: Chile"
-  },
-  {
-   "club": "Seacoast United Massachusetts",
-   "id": "50039168",
-   "name": "U10 Girls Southeast Navy"
   },
   {
    "club": "IFA South Shore",
@@ -281,59 +231,39 @@
    "name": "IFA South Shore Girls U10 Gold"
   },
   {
-   "club": "Inter Academy Metrowest Boston",
-   "id": "50027770",
-   "name": "Inter Academy New England Girls U10 Black"
+   "club": "Mariner Youth Soccer",
+   "id": "50039180",
+   "name": "Scorpions U10 Girls"
   },
   {
-   "club": "NEFC",
-   "id": "50009755",
-   "name": "NEFC South Girls U10 Red"
-  },
-  {
-   "club": "America FC United",
-   "id": "50039185",
-   "name": "AFC U10 Girls Elite"
-  },
-  {
-   "club": "Scorpions SC",
-   "id": "50027772",
-   "name": "GIRLS U10 SOUTH BLACK"
-  },
-  {
-   "club": "Steel United Massachusetts",
-   "id": "50039155",
-   "name": "Steel United MA 2016/17 (U10) Girls Elite"
-  },
-  {
-   "club": "FC Stars",
-   "id": "50009762",
-   "name": "FC Stars Acton GU10 Blue- Foley"
-  },
-  {
-   "club": "Spirit of Liverpool USA",
-   "id": "50039153",
-   "name": "U10 Girls Pre-National"
+   "club": "Dover Sherborn SC",
+   "id": "50039176",
+   "name": "Dover Sherborn Academy - DSA GU10"
   },
   {
    "club": "Seacoast United Massachusetts",
-   "id": "50039172",
-   "name": "U10 Girls South Shore Teal"
+   "id": "50039168",
+   "name": "U10 Girls Southeast Navy"
   },
   {
-   "club": "New England Force",
-   "id": "50009751",
-   "name": "U10 Girls Pre Surge Teal"
+   "club": "Needham Soccer Club",
+   "id": "50021421",
+   "name": "NSCCL G3/4: Argentina"
   },
   {
-   "club": "Western United Pioneers FC",
-   "id": "50039165",
-   "name": "Girls 2016/17 Elite White"
+   "club": "FC Stars",
+   "id": "50009761",
+   "name": "FC Stars Northboro GU10 Blue Dawson"
   },
   {
    "club": "FC Stars",
    "id": "50039148",
    "name": "FC Stars North East GU10 Blue"
+  },
+  {
+   "club": "Needham Soccer Club",
+   "id": "50021415",
+   "name": "NSCCL G3/4: Chile"
   },
   {
    "club": "FC Stars",
@@ -346,14 +276,94 @@
    "name": "FC Stars Metrowest GU10 Teal"
   },
   {
+   "club": "America FC United",
+   "id": "50039185",
+   "name": "AFC U10 Girls Elite"
+  },
+  {
+   "club": "New England Force",
+   "id": "50039159",
+   "name": "U10 Girls Silver"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "50039162",
+   "name": "Girls U10 MetroWest White"
+  },
+  {
+   "club": "Fellsway Wanderers FC",
+   "id": "40059963",
+   "name": "FWFC U10 Girls"
+  },
+  {
+   "club": "Scorpions SC",
+   "id": "50027772",
+   "name": "GIRLS U10 SOUTH BLACK"
+  },
+  {
+   "club": "Steel United Massachusetts",
+   "id": "50039155",
+   "name": "Steel United MA 2016/17 (U10) Girls Elite"
+  },
+  {
+   "club": "Inter Academy Metrowest Boston",
+   "id": "50027770",
+   "name": "Inter Academy New England Girls U10 Black"
+  },
+  {
+   "club": "Spirit of Liverpool USA",
+   "id": "50039153",
+   "name": "U10 Girls Pre-National"
+  },
+  {
+   "club": "FC Stars",
+   "id": "50009762",
+   "name": "FC Stars Acton GU10 Blue- Foley"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "50039172",
+   "name": "U10 Girls South Shore Teal"
+  },
+  {
+   "club": "NEFC",
+   "id": "50009748",
+   "name": "NEFC-BR G10"
+  },
+  {
+   "club": "New England Force",
+   "id": "50009751",
+   "name": "U10 Girls Pre Surge Teal"
+  },
+  {
+   "club": "IFA",
+   "id": "50009739",
+   "name": "West GU10 Blue"
+  },
+  {
+   "club": "NEFC",
+   "id": "50009755",
+   "name": "NEFC South Girls U10 Red"
+  },
+  {
    "club": "FC Stars",
    "id": "50039151",
    "name": "FC Stars Acton GU10 Blue- Mike"
   },
   {
+   "club": "Western United Pioneers FC",
+   "id": "50039165",
+   "name": "Girls 2016/17 Elite White"
+  },
+  {
    "club": "Needham Soccer Club",
    "id": "50021419",
    "name": "NSCCL G3/4: Norway"
+  },
+  {
+   "club": "Inter Academy Metrowest Boston",
+   "id": "50009745",
+   "name": "Inter Academy New England Girls U10 Blue"
   },
   {
    "club": "Needham Soccer Club",
@@ -366,14 +376,9 @@
    "name": "SFC GU10 White"
   },
   {
-   "club": "IFA",
-   "id": "50009739",
-   "name": "West GU10 Blue"
-  },
-  {
-   "club": "New England Force",
-   "id": "50039157",
-   "name": "U10 Girls Storm"
+   "club": "FC Boston Bolts",
+   "id": "50009752",
+   "name": "Boston Bolts GU10 Boston Pre-Academy"
   },
   {
    "club": "Harvest Soccer Club",
@@ -381,9 +386,9 @@
    "name": "Harvest SC Girls U10"
   },
   {
-   "club": "IFA South Shore",
-   "id": "50009732",
-   "name": "IFA South Shore Girls U10 White"
+   "club": "New England Force",
+   "id": "50039157",
+   "name": "U10 Girls Storm"
   },
   {
    "club": "NEFC",
@@ -396,9 +401,9 @@
    "name": "NSCCL G3/4: Italy"
   },
   {
-   "club": "Wellesley Premier Club",
-   "id": "40059902",
-   "name": "Wellesley Premier Club U10 Girls Raiders"
+   "club": "IFA South Shore",
+   "id": "50009732",
+   "name": "IFA South Shore Girls U10 White"
   },
   {
    "club": "America FC United",
@@ -411,19 +416,9 @@
    "name": "Girls U9"
   },
   {
-   "club": "Strikers United",
-   "id": "40060259",
-   "name": "Strikers United 2017 East Girls (GU10)"
-  },
-  {
    "club": "New England Surf",
    "id": "40060855",
    "name": "South Shore U9/U10 Girls Navy"
-  },
-  {
-   "club": "IFA",
-   "id": "50009736",
-   "name": "Greater Boston GU10 Gold"
   },
   {
    "club": "Needham Soccer Club",
@@ -436,39 +431,24 @@
    "name": "NSCCL G3/4: Nigeria"
   },
   {
-   "club": "NEFC",
-   "id": "40060391",
-   "name": "NEFC North Shore Soccer Academy Oceanside Girls U10"
-  },
-  {
-   "club": "Best FC",
-   "id": "40059568",
-   "name": "BEST FC Girls U10 United"
-  },
-  {
    "club": "Select",
    "id": "50039156",
    "name": "South Shore U10G AT Royals"
   },
   {
+   "club": "IFA",
+   "id": "50009736",
+   "name": "Greater Boston GU10 Gold"
+  },
+  {
+   "club": "Wellesley Premier Club",
+   "id": "40059902",
+   "name": "Wellesley Premier Club U10 Girls Raiders"
+  },
+  {
    "club": "Needham Soccer Club",
    "id": "50021417",
    "name": "NSCCL G3/4: Germany"
-  },
-  {
-   "club": "AC Independence",
-   "id": "50009746",
-   "name": "ACI U10 Girls Lighthouse"
-  },
-  {
-   "club": "New England Surf",
-   "id": "50009740",
-   "name": "New England Surf Metro West U9 Girls Navy"
-  },
-  {
-   "club": "Needham Soccer Club",
-   "id": "50021422",
-   "name": "NSCCL G3/4: USA"
   },
   {
    "club": "NEFC",
@@ -477,8 +457,43 @@
   },
   {
    "club": "New England Surf",
+   "id": "50009740",
+   "name": "New England Surf Metro West U9 Girls Navy"
+  },
+  {
+   "club": "Strikers United",
+   "id": "40060259",
+   "name": "Strikers United 2017 East Girls (GU10)"
+  },
+  {
+   "club": "Best FC",
+   "id": "40059568",
+   "name": "BEST FC Girls U10 United"
+  },
+  {
+   "club": "Needham Soccer Club",
+   "id": "50021422",
+   "name": "NSCCL G3/4: USA"
+  },
+  {
+   "club": "NEFC",
+   "id": "40060391",
+   "name": "NEFC North Shore Soccer Academy Oceanside Girls U10"
+  },
+  {
+   "club": "New England Surf",
    "id": "50009744",
    "name": "New England Surf Metro Boston U10 Girls Sky"
+  },
+  {
+   "club": "Commonwealth Football Club",
+   "id": "50039166",
+   "name": "Girls U10"
+  },
+  {
+   "club": "AC Independence",
+   "id": "50009746",
+   "name": "ACI U10 Girls Lighthouse"
   },
   {
    "club": "Select",
@@ -491,19 +506,9 @@
    "name": "St. Michael FC GU10"
   },
   {
-   "club": "Commonwealth Football Club",
-   "id": "50039166",
-   "name": "Girls U10"
-  },
-  {
    "club": "Marshfield United Soccer Club (MUSC)",
    "id": "50039169",
    "name": "Marshfield United U10 Girls"
-  },
-  {
-   "club": "IFA South Shore",
-   "id": "50009733",
-   "name": "IFA South Shore Girls U10 Silver"
   },
   {
    "club": "Wildcats Football Club",
@@ -511,19 +516,24 @@
    "name": "Wildcats Football Club GU9"
   },
   {
+   "club": "IFA South Shore",
+   "id": "50009733",
+   "name": "IFA South Shore Girls U10 Silver"
+  },
+  {
    "club": "NEFC",
    "id": "50039182",
    "name": "NEFC Metro North Girls U10 Red"
   },
   {
-   "club": "Seacoast United Massachusetts",
-   "id": "50039174",
-   "name": "North U10 Girls Navy"
-  },
-  {
    "club": "NEFC",
    "id": "50039181",
    "name": "NEFC Blackstone Valley Girls U10 Red"
+  },
+  {
+   "club": "Seacoast United Massachusetts",
+   "id": "50039174",
+   "name": "North U10 Girls Navy"
   },
   {
    "club": "Steel United Massachusetts",
@@ -541,19 +551,14 @@
    "name": "BSA 2017 Girls (U9)"
   },
   {
-   "club": "Inter Academy Metrowest Boston",
-   "id": "50009745",
-   "name": "Inter Academy New England Girls U10 Blue"
+   "club": "STORM FC",
+   "id": "40048668",
+   "name": "STORM FC"
   },
   {
    "club": "Valeo FC",
    "id": "40059831",
    "name": "U10 WAVE"
-  },
-  {
-   "club": "Lexington United Soccer Club",
-   "id": "40059893",
-   "name": "2016/2017 Girls LPDA (Junior)"
   },
   {
    "club": "Dalton Warriors White",

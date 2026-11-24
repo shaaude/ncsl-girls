@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-17T17:24:52.366286+00:00",
+ "fetched_at": "2026-11-24T19:07:37.544305+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
@@ -41,6 +41,16 @@
    "name": "FC Tulsa Academy N1 G2011/12 Yellow (OK)"
   },
   {
+   "club": "Northwest Optimist SC",
+   "id": "50022498",
+   "name": "NWO FC 12/13G"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "50016254",
+   "name": "West Side Alliance ECNL RL G2011/12"
+  },
+  {
    "club": "Oklahoma Energy FC",
    "id": "40091934",
    "name": "OK Energy FC Frontier ECNL RL G2011/12"
@@ -51,24 +61,9 @@
    "name": "OK Energy FC ECNL RL G2011/12 FL"
   },
   {
-   "club": "West Side Alliance SC",
-   "id": "50016254",
-   "name": "West Side Alliance ECNL RL G2011/12"
-  },
-  {
-   "club": "Northwest Optimist SC",
-   "id": "50022498",
-   "name": "NWO FC 12/13G"
-  },
-  {
    "club": "Western Oklahoma FC",
    "id": "50022497",
    "name": "Western Oklahoma F.C. 11/12 G"
-  },
-  {
-   "club": "South Lakes SC",
-   "id": "50044477",
-   "name": "Oklahoma Cosmos ECNL RL G2011/12"
   },
   {
    "club": "Oklahoma Energy FC",
@@ -76,9 +71,14 @@
    "name": "OK Energy FC G12 White N1"
   },
   {
+   "club": "South Lakes SC",
+   "id": "50044477",
+   "name": "Oklahoma Cosmos ECNL RL G2011/12"
+  },
+  {
    "club": "Oklahoma Celtic",
    "id": "50022490",
-   "name": "Oklahoma Celtic G11/12 White"
+   "name": "G11/12 White"
   },
   {
    "club": "NE Oklahoma FC",
@@ -106,24 +106,24 @@
    "name": "FC Tulsa Academy N1 G2011/12 Premier (OK)"
   },
   {
-   "club": "West Side Alliance SC",
-   "id": "40091966",
-   "name": "West Side Alliance Tulsa ECNL RL G2011/12"
-  },
-  {
    "club": "El Reno SC",
    "id": "50044476",
    "name": "Frontier United FC"
   },
   {
    "club": "West Side Alliance SC",
-   "id": "40091968",
-   "name": "West Side Alliance OKC ECNL RL G2011/12"
+   "id": "40091966",
+   "name": "West Side Alliance Tulsa ECNL RL G2011/12"
   },
   {
    "club": "Oklahoma Energy FC",
    "id": "50044473",
    "name": "OK Energy FC G12 Black"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "40091968",
+   "name": "West Side Alliance OKC ECNL RL G2011/12"
   },
   {
    "club": "South Lakes SC",
@@ -146,14 +146,19 @@
    "name": "FC Tulsa Academy 12 Girls Black"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40091986",
-   "name": "ECNL RL G2011/12"
+   "club": "Lawton SC",
+   "id": "50022495",
+   "name": "LSC Legacy Girls 2012"
   },
   {
    "club": "Tulsa Sheffield United SC",
    "id": "50022491",
    "name": "Tulsa Sheffield United U15G (2011/12)"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "40091986",
+   "name": "ECNL RL G2011/12"
   },
   {
    "club": "Weatherford SC",
@@ -164,11 +169,6 @@
    "club": "West Side Alliance SC",
    "id": "40044976",
    "name": "WSA OKC U15 Girls (Deacon)"
-  },
-  {
-   "club": "Lawton SC",
-   "id": "50022495",
-   "name": "LSC Legacy Girls 2012"
   },
   {
    "club": "Broken Arrow Soccer Club",
@@ -201,14 +201,29 @@
    "name": "Inside Outlaws"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40113973",
-   "name": "BASC Express ECNL RL G2011/12"
-  },
-  {
    "club": "Oklahoma Energy FC",
    "id": "40159914",
    "name": "OK Energy FC ECNL RL G2011/12 TX"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "40209670",
+   "name": "Tulsa SC GA G2012/13"
+  },
+  {
+   "club": "Oklahoma Celtic",
+   "id": "40209740",
+   "name": "GA G11/12"
+  },
+  {
+   "club": "NEOFC Bartlesville",
+   "id": "40209768",
+   "name": "NEOFC BARTLESVILLE 2012 GIRLS"
+  },
+  {
+   "club": "NE Oklahoma FC",
+   "id": "40209816",
+   "name": "NEOFC 2012 - Dunaway"
   }
  ]
 }

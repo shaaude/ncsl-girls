@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-17T16:37:03.423269+00:00",
+ "fetched_at": "2026-11-24T18:18:58.896877+00:00",
  "state": "FL",
  "state_slug": "florida",
  "teams": [
@@ -56,14 +56,19 @@
    "name": "Tampa Bay United ECNL G2011/12"
   },
   {
-   "club": "Sporting SA",
-   "id": "50020892",
-   "name": "Sporting SA JAX ECNL G2011/12"
+   "club": "North Port Fusion FC",
+   "id": "40056145",
+   "name": "Fusion G2011/12"
   },
   {
    "club": "Space Coast United",
    "id": "40070619",
    "name": "GA 11/12"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50020892",
+   "name": "Sporting SA JAX ECNL G2011/12"
   },
   {
    "club": "DME Academy Sarasota",
@@ -86,11 +91,6 @@
    "name": "U15 USA FGL"
   },
   {
-   "club": "ALBION SC Miami",
-   "id": "50027016",
-   "name": "ALBION SC Miami GU15 Academy"
-  },
-  {
    "club": "Palm Beach Kicks",
    "id": "40071468",
    "name": "ASPIRE 11/12"
@@ -99,6 +99,16 @@
    "club": "Naples Elite Soccer Club",
    "id": "50007327",
    "name": "NESC N1 G2011/12 Premier"
+  },
+  {
+   "club": "Palm Beach Kicks",
+   "id": "40017047",
+   "name": "PBG N1 G2011/12"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50020886",
+   "name": "Sporting SA JAX ECNL RL G2011/12"
   },
   {
    "club": "Orlando City Soccer School Lake Nona",
@@ -116,14 +126,9 @@
    "name": "N1 G 2011/2012 MIFC"
   },
   {
-   "club": "Sporting SA",
-   "id": "50020886",
-   "name": "Sporting SA JAX ECNL RL G2011/12"
-  },
-  {
-   "club": "North Port Fusion FC",
-   "id": "40056145",
-   "name": "Fusion G2011/12"
+   "club": "ALBION SC Miami",
+   "id": "50027016",
+   "name": "ALBION SC Miami GU15 Academy"
   },
   {
    "club": "Miramar DA",
@@ -136,14 +141,14 @@
    "name": "U15G N1 FL"
   },
   {
-   "club": "Athletic Club Florida",
-   "id": "50020877",
-   "name": "ACF Miami N1 G2011/12 (FL)"
-  },
-  {
    "club": "Rip City Surf Soccer Club",
    "id": "40020254",
    "name": "Rip City Surf N1 Girls 2011-2012 West FL"
+  },
+  {
+   "club": "Athletic Club Florida",
+   "id": "50020877",
+   "name": "ACF Miami N1 G2011/12 (FL)"
   },
   {
    "club": "FC America",
@@ -151,9 +156,24 @@
    "name": "N1 G2011/12 Purple (FL) - U15G Purple"
   },
   {
+   "club": "VENICE SC",
+   "id": "40056146",
+   "name": "Venice U15 Girls"
+  },
+  {
    "club": "Florida Premier FC",
    "id": "50020887",
    "name": "FLORIDA PREMIER FC ECNLRL G2011/12"
+  },
+  {
+   "club": "Miami Springs Soccer",
+   "id": "50036372",
+   "name": "MSVG U15 Girls"
+  },
+  {
+   "club": "Jupiter United Soccer",
+   "id": "50036380",
+   "name": "Jupiter United U15 Girls"
   },
   {
    "club": "Brevard SA",
@@ -166,11 +186,6 @@
    "name": "SWFL ECNL RL G2011/12"
   },
   {
-   "club": "Florida Premier FC",
-   "id": "50020876",
-   "name": "FPFC N1 G2011/12 WC (FL)"
-  },
-  {
    "club": "Jacksonville FC",
    "id": "50020890",
    "name": "Jacksonville FC ECNL RL G2011/12"
@@ -181,19 +196,14 @@
    "name": "N1 G2011/12 Lady Rangers (FL)"
   },
   {
-   "club": "Jupiter United Soccer",
-   "id": "50036380",
-   "name": "Jupiter United U15 Girls"
+   "club": "Florida Premier FC",
+   "id": "50020876",
+   "name": "FPFC N1 G2011/12 WC (FL)"
   },
   {
    "club": "Mako Soccer Club",
    "id": "50036360",
    "name": "N1 G2011/2012 GREEN (FL)"
-  },
-  {
-   "club": "Miami Springs Soccer",
-   "id": "50036372",
-   "name": "MSVG U15 Girls"
   },
   {
    "club": "Coastal Rush",
@@ -206,24 +216,29 @@
    "name": "N1 G2011/12 Elite Tropics (FL)"
   },
   {
-   "club": "VENICE SC",
-   "id": "40056146",
-   "name": "Venice U15 Girls"
-  },
-  {
-   "club": "Plantation F.C.",
-   "id": "40017143",
-   "name": "N1 G2012/13 FL"
-  },
-  {
    "club": "Seminole United",
    "id": "50020891",
    "name": "ECNL RL G2011/12"
   },
   {
+   "club": "Pinecrest Premier Soccer",
+   "id": "50020881",
+   "name": "GA 11/12"
+  },
+  {
    "club": "Clay County SC United Soccer Alliance",
    "id": "50020869",
    "name": "U15 USA DPL GIRLS"
+  },
+  {
+   "club": "Florida Prime Soccer",
+   "id": "50036375",
+   "name": "u14"
+  },
+  {
+   "club": "Plantation F.C.",
+   "id": "50055082",
+   "name": "N1 G2012/13 FL"
   },
   {
    "club": "Cooper City Optimist",
@@ -236,29 +251,9 @@
    "name": "Weston FC U15G DPL"
   },
   {
-   "club": "Florida Prime Soccer",
-   "id": "50036375",
-   "name": "u14"
-  },
-  {
-   "club": "Pinecrest Premier Soccer",
-   "id": "50020881",
-   "name": "GA 11/12"
-  },
-  {
-   "club": "Springs Soccer Club",
-   "id": "50007320",
-   "name": "Springs SC 2012G N1 (FL)"
-  },
-  {
    "club": "North Port Fusion FC",
    "id": "50007331",
    "name": "Union N1 G2011/12 (FL)"
-  },
-  {
-   "club": "Parkland Soccer Club",
-   "id": "50007330",
-   "name": "N1 G2011/12 (FL)"
   },
   {
    "club": "West Florida Flames",
@@ -271,14 +266,14 @@
    "name": "Tampa Bay United ECNL RL G2011/12"
   },
   {
-   "club": "Sporting SA",
-   "id": "50007328",
-   "name": "JAX N1 G2011/12 ELITE (FL)"
-  },
-  {
    "club": "Jacksonville FC",
    "id": "50007321",
    "name": "JFC N1 G2011/12 (FL)"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50007328",
+   "name": "JAX N1 G2011/12 ELITE (FL)"
   },
   {
    "club": "Sporting SA",
@@ -286,9 +281,9 @@
    "name": "GNV N1 G2011/12 (FL)"
   },
   {
-   "club": "Fort Lauderdale United FC",
-   "id": "50007324",
-   "name": "N1 G2011/12 (FL)"
+   "club": "Springs Soccer Club",
+   "id": "50007320",
+   "name": "Springs SC 2012G N1 (FL)"
   },
   {
    "club": "Ormond Beach Soccer Club",
@@ -296,14 +291,19 @@
    "name": "OBSC N1 G2011/12 Red (FL)"
   },
   {
+   "club": "South Miami United FC",
+   "id": "50007332",
+   "name": "U15G N1 G2011/12 Black (FL)"
+  },
+  {
    "club": "Florida Premier FC",
    "id": "50020875",
    "name": "FPFC N1 G2011/12 CP (FL)"
   },
   {
-   "club": "South Miami United FC",
-   "id": "50007332",
-   "name": "U15G N1 G2011/12 Black (FL)"
+   "club": "Fort Lauderdale United FC",
+   "id": "50007324",
+   "name": "N1 G2011/12 (FL)"
   },
   {
    "club": "West Florida Flames",
@@ -314,6 +314,11 @@
    "club": "Kings Hammer Lakeland",
    "id": "50020883",
    "name": "Aspire 11/12"
+  },
+  {
+   "club": "Parkland Soccer Club",
+   "id": "50007330",
+   "name": "N1 G2011/12 (FL)"
   },
   {
    "club": "Florida Premier FC",
@@ -336,24 +341,19 @@
    "name": "Aspire 11/12"
   },
   {
-   "club": "Florida Kraze Krush",
-   "id": "50020878",
-   "name": "N1 G2011/12 (FL)"
-  },
-  {
    "club": "OCSS Windermere & Clermont",
    "id": "50020879",
    "name": "OCSS W/C SILVER G11/12 (FL)"
   },
   {
-   "club": "Wellington SC",
-   "id": "50007325",
-   "name": "WSC N1 G2011/12 Elite (FL)"
+   "club": "Florida Kraze Krush",
+   "id": "50020878",
+   "name": "N1 G2011/12 (FL)"
   },
   {
-   "club": "Pembroke Pines FC",
-   "id": "50036376",
-   "name": "PPO Heat Strikers G-U15"
+   "club": "FC Tampa Rangers",
+   "id": "40056191",
+   "name": "FGL G2011/12 Lady Rangers Dev 1"
   },
   {
    "club": "Inter-United Soccer Club",
@@ -361,14 +361,24 @@
    "name": "Inter-United U15 Girls"
   },
   {
+   "club": "Palm Beach Kicks",
+   "id": "40056287",
+   "name": "PBG 11/12 GIRLS ELITE"
+  },
+  {
    "club": "Tampa Knights",
    "id": "50036363",
    "name": "Tampa Knights N1 G2011/2012 Blue (FL)"
   },
   {
-   "club": "FC Tampa Rangers",
-   "id": "40056191",
-   "name": "FGL G2011/12 Lady Rangers Dev 1"
+   "club": "Wellington SC",
+   "id": "50007325",
+   "name": "WSC N1 G2011/12 Elite (FL)"
+  },
+  {
+   "club": "Florida Premier FC",
+   "id": "50007335",
+   "name": "FPFC U14/15G WC ELITE"
   },
   {
    "club": "North Manatee Soccer",
@@ -381,9 +391,14 @@
    "name": "N1 G2011/12"
   },
   {
-   "club": "AC Delray, Inc.",
-   "id": "50027015",
-   "name": "AC Delray Rush U15G Elite N1 (FL)"
+   "club": "Parkland Soccer Club",
+   "id": "50036373",
+   "name": "G2011/12 Elite"
+  },
+  {
+   "club": "Pembroke Pines FC",
+   "id": "50036376",
+   "name": "PPO Heat Strikers G-U15"
   },
   {
    "club": "Sol SC Florida",
@@ -391,24 +406,9 @@
    "name": "U15G Navy 1"
   },
   {
-   "club": "Parkland Soccer Club",
-   "id": "50036373",
-   "name": "G2011/12 Elite"
-  },
-  {
    "club": "Stetson FA",
    "id": "50036370",
    "name": "Stetson FA U15 Girls"
-  },
-  {
-   "club": "Sporting SA",
-   "id": "50007329",
-   "name": "JAX N1 G2011/12 PREMIER (FL)"
-  },
-  {
-   "club": "Royal Palm Beach Strikers",
-   "id": "50027017",
-   "name": "Royal Palm Beach Strikers U15G Black"
   },
   {
    "club": "AC Florida West",
@@ -416,9 +416,24 @@
    "name": "AC Florida West G2011/12"
   },
   {
+   "club": "AC Delray, Inc.",
+   "id": "50027015",
+   "name": "AC Delray Rush U15G Elite N1 (FL)"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50007329",
+   "name": "JAX N1 G2011/12 PREMIER (FL)"
+  },
+  {
    "club": "Ormond Beach Soccer Club",
    "id": "50036369",
    "name": "OBSC CFPL G2011/12 White"
+  },
+  {
+   "club": "Royal Palm Beach Strikers",
+   "id": "50027017",
+   "name": "Royal Palm Beach Strikers U15G Black"
   },
   {
    "club": "PSL Soccer Club/Hurricanes, Inc.",
@@ -431,9 +446,19 @@
    "name": "OPLN N1 G2011/12 (FL)"
   },
   {
+   "club": "Tampa Bay United",
+   "id": "40056245",
+   "name": "TBU G2011/12 Elite Wesley Chapel"
+  },
+  {
    "club": "Strikers Miami FC",
    "id": "50007326",
    "name": "Strikers Miami FC N1 G2011/12"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "40020213",
+   "name": "Sporting West Florida N1 Girls 2011-12 U15 (FL)"
   },
   {
    "club": "Weston FC",
@@ -446,19 +471,9 @@
    "name": "FHPFC Fishhawk N1 G2011/12 (FL)"
   },
   {
-   "club": "Sporting SA",
-   "id": "40020213",
-   "name": "Sporting West Florida N1 Girls 2011-12 U15 (FL)"
-  },
-  {
    "club": "Tampa Dynamo FC",
    "id": "50050859",
    "name": "N1 G2011/12 Red (FL)"
-  },
-  {
-   "club": "Tampa Bay United",
-   "id": "40056245",
-   "name": "TBU G2011/12 Elite Wesley Chapel"
   },
   {
    "club": "Key Biscayne SC",
@@ -491,24 +506,9 @@
    "name": "15U Adrenalina DPL"
   },
   {
-   "club": "Palm Beach Kicks",
-   "id": "40017047",
-   "name": "PBG N1 G2011/12"
-  },
-  {
-   "club": "Florida Premier FC",
-   "id": "50007335",
-   "name": "FPFC U14/15G WC ELITE"
-  },
-  {
    "club": "Pinellas County United SC",
    "id": "40056139",
    "name": "U15G PCU SC 2011"
-  },
-  {
-   "club": "Palm Beach Kicks",
-   "id": "40056287",
-   "name": "PBG 11/12 GIRLS ELITE"
   },
   {
    "club": "Athletic Club Florida",

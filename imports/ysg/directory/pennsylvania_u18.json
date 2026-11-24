@@ -1,14 +1,24 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-11-17T17:29:02.371851+00:00",
+ "fetched_at": "2026-11-24T19:11:47.621657+00:00",
  "state": "PA",
  "state_slug": "pennsylvania",
  "teams": [
   {
+   "club": "Philadelphia SC",
+   "id": "50056564",
+   "name": "Philadelphia SC Surf 08 Coppa Express"
+  },
+  {
    "club": "FC Chesco",
    "id": "50025200",
    "name": "FC Chesco 2009/2010 Girls"
+  },
+  {
+   "club": "FC Pocono",
+   "id": "50056565",
+   "name": "FC Pocono U18 Girls"
   },
   {
    "club": "Whitpain Recreation Assoc",
@@ -24,6 +34,11 @@
    "club": "Pittsburgh Riverhounds",
    "id": "40005136",
    "name": "Pittsburgh Riverhounds NH GLA G2008/09"
+  },
+  {
+   "club": "Keystone FC",
+   "id": "50017015",
+   "name": "Aspire 08/09"
   },
   {
    "club": "Ephrata Youth SC",
@@ -52,7 +67,7 @@
   },
   {
    "club": "Philadelphia International FC",
-   "id": "40058141",
+   "id": "50056563",
    "name": "U18 Girls Elite"
   },
   {
@@ -76,19 +91,14 @@
    "name": "Aspire 08/09"
   },
   {
-   "club": "Philadelphia SC",
-   "id": "40111837",
-   "name": "Philadelphia SC Surf 08 Coppa Express"
-  },
-  {
-   "club": "FC Pocono",
-   "id": "40111839",
-   "name": "FC Pocono U18 Girls"
-  },
-  {
    "club": "Quakertown SC",
    "id": "40171787",
    "name": "QSC 2009 Crush"
+  },
+  {
+   "club": "Back Mountain Surf",
+   "id": "40210581",
+   "name": "Back Mountain Surf 2027G Black"
   }
  ]
 }

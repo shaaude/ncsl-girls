@@ -1,7 +1,7 @@
 {
  "age": "GU14",
  "age_slug": "u14",
- "fetched_at": "2026-11-17T17:19:12.611747+00:00",
+ "fetched_at": "2026-11-24T19:01:15.226875+00:00",
  "state": "NC",
  "state_slug": "north-carolina",
  "teams": [
@@ -9,6 +9,11 @@
    "club": "Triangle United",
    "id": "50012521",
    "name": "GA 12/13"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012523",
+   "name": "NCFC Youth NC Courage ECNL G2012/13"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -21,9 +26,9 @@
    "name": "GA 12/13"
   },
   {
-   "club": "NCFC Youth",
-   "id": "50012523",
-   "name": "NCFC Youth NC Courage ECNL G2012/13"
+   "club": "Wilmington Hammerheads FC",
+   "id": "50012522",
+   "name": "Wilmington Hammerheads ECNL G2012/13"
   },
   {
    "club": "Wake FC",
@@ -31,24 +36,19 @@
    "name": "GA 12/13"
   },
   {
-   "club": "Wilmington Hammerheads FC",
-   "id": "50012522",
-   "name": "Wilmington Hammerheads ECNL G2012/13"
-  },
-  {
    "club": "Wake FC",
    "id": "40071410",
    "name": "Aspire 12/13"
   },
   {
-   "club": "Charlotte Development Academy",
-   "id": "50012518",
-   "name": "GA 12/13"
-  },
-  {
    "club": "NCFC Youth",
    "id": "50012524",
    "name": "NCFC Youth ECNL G2012/13"
+  },
+  {
+   "club": "Charlotte Development Academy",
+   "id": "50012518",
+   "name": "GA 12/13"
   },
   {
    "club": "NCFC Youth",
@@ -66,14 +66,14 @@
    "name": "Sandhills FC N1 G 2012 HPG Valkyries (NC)"
   },
   {
-   "club": "Charlotte Metro FC",
-   "id": "40012928",
-   "name": "Charlotte Metro FC N1 G U14 Black (NC)"
-  },
-  {
    "club": "NC Fusion",
    "id": "50012525",
    "name": "NC Fusion ECNL G2012/13"
+  },
+  {
+   "club": "Charlotte Metro FC",
+   "id": "40012928",
+   "name": "Charlotte Metro FC N1 G U14 Black (NC)"
   },
   {
    "club": "Wake FC",
@@ -81,29 +81,14 @@
    "name": "Wake FC N1 G 2012 Academy (NC)"
   },
   {
-   "club": "Carolina Velocity FC",
-   "id": "50041382",
-   "name": "Aspire 12/13"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "50012509",
-   "name": "Charlotte SA U14G Blue 2 N1 NC"
-  },
-  {
-   "club": "Carolina Core FC Youth",
-   "id": "50012519",
-   "name": "GA 12/13"
-  },
-  {
    "club": "NCFC Youth",
    "id": "50012508",
    "name": "Premier ECNL RL G2012/13"
   },
   {
-   "club": "Charlotte Independence SC",
-   "id": "50012510",
-   "name": "Aspire 12/13 North"
+   "club": "Carolina Velocity FC",
+   "id": "50041382",
+   "name": "Aspire 12/13"
   },
   {
    "club": "NCFC Youth",
@@ -111,9 +96,19 @@
    "name": "NCFCY N1 G 2012 United North (NC)"
   },
   {
-   "club": "AC Sandhills",
-   "id": "50041379",
-   "name": "ACS N1 G 2012 Orange (NC)"
+   "club": "Charlotte Soccer Academy",
+   "id": "50012509",
+   "name": "Charlotte SA U14G Blue 2 N1 NC"
+  },
+  {
+   "club": "Charlotte Independence SC",
+   "id": "50012510",
+   "name": "Aspire 12/13 North"
+  },
+  {
+   "club": "Carolina Core FC Youth",
+   "id": "50012519",
+   "name": "GA 12/13"
   },
   {
    "club": "Highland FC",
@@ -122,18 +117,23 @@
   },
   {
    "club": "Charlotte Soccer Academy",
-   "id": "50012526",
-   "name": "Charlotte SA Blue ECNL RL G2012/13"
+   "id": "50012512",
+   "name": "Charlotte SA U14G Black 1 N1 NC"
   },
   {
    "club": "Charlotte Soccer Academy",
-   "id": "50012512",
-   "name": "Charlotte SA U14G Black 1 N1 NC"
+   "id": "50012526",
+   "name": "Charlotte SA Blue ECNL RL G2012/13"
   },
   {
    "club": "Neuse River Futbol Alliance",
    "id": "50012515",
    "name": "WYSA Rise N1 G 2012"
+  },
+  {
+   "club": "AC Sandhills",
+   "id": "50041379",
+   "name": "ACS N1 G 2012 Orange (NC)"
   },
   {
    "club": "Triangle United",
@@ -146,11 +146,6 @@
    "name": "ECNL RL G2012/13"
   },
   {
-   "club": "NCFC Youth",
-   "id": "50012514",
-   "name": "NCFCY N1 G 2012 Gold North (NC)"
-  },
-  {
    "club": "Catawba Valley Youth Soccer Association",
    "id": "40091887",
    "name": "Catawba Valley YSA ECNL RL G2012/13"
@@ -161,14 +156,14 @@
    "name": "U14G DPL"
   },
   {
+   "club": "NCFC Youth",
+   "id": "50012514",
+   "name": "NCFCY N1 G 2012 Gold North (NC)"
+  },
+  {
    "club": "FC ATHLETICO",
    "id": "40013172",
    "name": "FC ATHLETICO Surf N1 G U14 Gold"
-  },
-  {
-   "club": "Charlotte Soccer Academy",
-   "id": "40092988",
-   "name": "Charlotte SA Gold ECNL RL G2012/13"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -176,9 +171,9 @@
    "name": "Charlotte SA U14G White 1 N1 NC"
   },
   {
-   "club": "NC Fusion",
-   "id": "50012530",
-   "name": "NC Fusion ECNL RL G2012/13"
+   "club": "Charlotte Soccer Academy",
+   "id": "40092988",
+   "name": "Charlotte SA Gold ECNL RL G2012/13"
   },
   {
    "club": "NCFC Youth",
@@ -186,9 +181,9 @@
    "name": "NCFCY N1 G 2012 United South (NC)"
   },
   {
-   "club": "Neuse River Futbol Alliance",
-   "id": "50041378",
-   "name": "NRFA N1 U14 Rise FC Black G (NC)"
+   "club": "NC Fusion",
+   "id": "50012530",
+   "name": "NC Fusion ECNL RL G2012/13"
   },
   {
    "club": "Charlotte Development Academy",
@@ -196,9 +191,9 @@
    "name": "U14G DPL"
   },
   {
-   "club": "Charlotte Rise FC",
-   "id": "40013073",
-   "name": "U14 Charlotte Rise FC Girls"
+   "club": "Neuse River Futbol Alliance",
+   "id": "50041378",
+   "name": "NRFA N1 U14 Rise FC Black G (NC)"
   },
   {
    "club": "Charlotte Independence SC",
@@ -206,9 +201,9 @@
    "name": "U14G DPL"
   },
   {
-   "club": "Charlotte Soccer Academy",
-   "id": "50041380",
-   "name": "Charlotte SA U13G Black 2 N1 NC"
+   "club": "Charlotte Rise FC",
+   "id": "40013073",
+   "name": "U14 Charlotte Rise FC Girls"
   },
   {
    "club": "Wilmington Hammerheads FC",
@@ -226,9 +221,14 @@
    "name": "Jacksonville Hammerheads U14 Girls"
   },
   {
-   "club": "Carolina Football Club",
-   "id": "50012516",
-   "name": "Carolina FC N1 G u14 Red (NC)"
+   "club": "Charlotte Soccer Academy",
+   "id": "50041380",
+   "name": "Charlotte SA U13G Black 2 N1 NC"
+  },
+  {
+   "club": "Wake FC",
+   "id": "50028577",
+   "name": "Wake FC N1 G 2012 Blue (NC)"
   },
   {
    "club": "Carolina Core FC Youth",
@@ -236,9 +236,9 @@
    "name": "Aspire 12/13"
   },
   {
-   "club": "Wake FC",
-   "id": "50028577",
-   "name": "Wake FC N1 G 2012 Blue (NC)"
+   "club": "Carolina Football Club",
+   "id": "50012516",
+   "name": "Carolina FC N1 G u14 Red (NC)"
   },
   {
    "club": "Triangle United",
@@ -329,6 +329,16 @@
    "club": "OCSA Coastal Crew White G",
    "id": "40129934",
    "name": "OCSA Coastal Crew White G"
+  },
+  {
+   "club": "Wesley Chapel Weddington AA",
+   "id": "40205596",
+   "name": "12 (U14) WCWAA Elite G"
+  },
+  {
+   "club": "Wesley Chapel Weddington AA",
+   "id": "40205597",
+   "name": "13 (U13) WCWAA Elite G"
   }
  ]
 }

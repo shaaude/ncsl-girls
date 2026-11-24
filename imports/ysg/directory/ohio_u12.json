@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-11-17T17:22:32.423056+00:00",
+ "fetched_at": "2026-11-24T19:05:20.181931+00:00",
  "state": "OH",
  "state_slug": "ohio",
  "teams": [
@@ -71,24 +71,24 @@
    "name": "Columbus Force Pre-ECNL G14/15"
   },
   {
-   "club": "Lakota Futbol Club",
-   "id": "50044050",
-   "name": "Lakota FC G2014/15 Black"
-  },
-  {
-   "club": "Butler United SC",
-   "id": "40042094",
-   "name": "BUSC G14/15 Purple Diamonds"
-  },
-  {
    "club": "Ambassadors FC",
    "id": "50015421",
    "name": "Ambassadors FC 2014/15 Girls Blue"
   },
   {
+   "club": "Lakota Futbol Club",
+   "id": "50044050",
+   "name": "Lakota FC G2014/15 Black"
+  },
+  {
    "club": "Eclipse FC",
    "id": "50044059",
    "name": "Eclipse East FC Hurricanes"
+  },
+  {
+   "club": "Butler United SC",
+   "id": "40042094",
+   "name": "BUSC G14/15 Purple Diamonds"
   },
   {
    "club": "Ohio Galaxies FC",
@@ -111,19 +111,14 @@
    "name": "Internationals SC N1L GLA G2014/15"
   },
   {
-   "club": "Elite FC",
-   "id": "50044078",
-   "name": "Elite FC Pre-ECNL RL G2014/15"
-  },
-  {
-   "club": "Ohio Premier",
-   "id": "50029318",
-   "name": "Ohio Premier Pre-ECNL G2014/15 Sears"
-  },
-  {
    "club": "Fairfield Optimist Soccer Club",
    "id": "50029303",
    "name": "FOSC G14/15 Elite"
+  },
+  {
+   "club": "Elite FC",
+   "id": "50044078",
+   "name": "Elite FC Pre-ECNL RL G2014/15"
   },
   {
    "club": "Cincinnati United Soccer Club",
@@ -131,14 +126,29 @@
    "name": "CUSC GU12 Premier Silver"
   },
   {
-   "club": "Cincinnati West",
-   "id": "50044084",
-   "name": "CWSC G2014/2015 Academy Elite I"
+   "club": "Cuyahoga Valley Soccer Academy",
+   "id": "50022122",
+   "name": "Cuyahoga Valley Soccer Academy - Pre-ECNL G2014/15"
+  },
+  {
+   "club": "Ohio Premier",
+   "id": "50029318",
+   "name": "Ohio Premier Pre-ECNL G2014/15 Sears"
+  },
+  {
+   "club": "Cleveland Force SC",
+   "id": "50015472",
+   "name": "Cleveland Force Pre-ECNL G2014/15 Blue"
   },
   {
    "club": "Club Ohio",
    "id": "50015448",
    "name": "Club Ohio North PRE GA U12G"
+  },
+  {
+   "club": "Cincinnati West",
+   "id": "50044084",
+   "name": "CWSC G2014/2015 Academy Elite I"
   },
   {
    "club": "UA Soccer Academy",
@@ -166,19 +176,19 @@
    "name": "Total Futbol Academy G2014/15 Elite"
   },
   {
+   "club": "Grove City Kids Association",
+   "id": "50029313",
+   "name": "GCKA U12G Blue"
+  },
+  {
    "club": "Little Miami FC",
    "id": "50029298",
    "name": "LMFC U12G Elite"
   },
   {
-   "club": "Appleseed Premier",
-   "id": "50015488",
-   "name": "Appleseed Premier U12G Black"
-  },
-  {
-   "club": "Grove City Kids Association",
-   "id": "50029313",
-   "name": "GCKA U12G Blue"
+   "club": "Pride Soccer Club",
+   "id": "50029322",
+   "name": "PRIDE SC 2014/2015G Copa"
   },
   {
    "club": "Kings Hammer Columbus",
@@ -186,14 +196,19 @@
    "name": "Kings Hammer SC Columbus G2014/15"
   },
   {
+   "club": "Appleseed Premier",
+   "id": "50015488",
+   "name": "Appleseed Premier U12G Black"
+  },
+  {
    "club": "Fairfield Optimist Soccer Club",
    "id": "50015443",
    "name": "FOSC G14/15 Premier"
   },
   {
-   "club": "Cleveland Force SC",
-   "id": "50015472",
-   "name": "Cleveland Force Pre-ECNL G2014/15 Blue"
+   "club": "Club Ohio",
+   "id": "50015447",
+   "name": "Club Ohio North U12G Green"
   },
   {
    "club": "Ohio Premier",
@@ -211,21 +226,6 @@
    "name": "CUSC GU12 Premier Black"
   },
   {
-   "club": "Club Ohio",
-   "id": "50015447",
-   "name": "Club Ohio North U12G Green"
-  },
-  {
-   "club": "Cincinnati United Soccer Club",
-   "id": "50015469",
-   "name": "Inspire 14/15 Black"
-  },
-  {
-   "club": "Cleveland Force SC",
-   "id": "50015419",
-   "name": "Cleveland Force 14/15G Yellow West"
-  },
-  {
    "club": "Boardman SA",
    "id": "50052946",
    "name": "Boardman 2014/15 Girls"
@@ -241,14 +241,9 @@
    "name": "FYSA Falcon Team 1 Girls"
   },
   {
-   "club": "Pride Soccer Club",
-   "id": "50029322",
-   "name": "PRIDE SC 2014/2015G Copa"
-  },
-  {
-   "club": "Oregon Crew FC",
-   "id": "40068732",
-   "name": "Oregon Crew FC GU12"
+   "club": "Cincinnati United Soccer Club",
+   "id": "50015469",
+   "name": "Inspire 14/15 Black"
   },
   {
    "club": "Delaware Knights",
@@ -256,9 +251,24 @@
    "name": "Delaware Knights U12G Fought"
   },
   {
-   "club": "Perrysburg SC",
-   "id": "50029301",
-   "name": "PSC GU12 Elite"
+   "club": "Oregon Crew FC",
+   "id": "40068732",
+   "name": "Oregon Crew FC GU12"
+  },
+  {
+   "club": "Cleveland Force SC",
+   "id": "50015419",
+   "name": "Cleveland Force 14/15G Yellow West"
+  },
+  {
+   "club": "MVSA Sting",
+   "id": "40062864",
+   "name": "MV Sting SC U12 Orange Girls 2014/2015/2016"
+  },
+  {
+   "club": "Cleveland Force SC",
+   "id": "50015418",
+   "name": "Cleveland Force 14/15G Yellow East"
   },
   {
    "club": "New Richmond SC",
@@ -266,14 +276,14 @@
    "name": "New Richmond SC G14/15"
   },
   {
+   "club": "Perrysburg SC",
+   "id": "50029301",
+   "name": "PSC GU12 Elite"
+  },
+  {
    "club": "ESSL Arsenal",
    "id": "40068647",
    "name": "ESSL 12U Girls Green"
-  },
-  {
-   "club": "MVSA Sting",
-   "id": "40062864",
-   "name": "MV Sting SC U12 Orange Girls 2014/2015/2016"
   },
   {
    "club": "Elite FC",
@@ -296,9 +306,9 @@
    "name": "SouthStars G15/16 Elite"
   },
   {
-   "club": "Cleveland Force SC",
-   "id": "50015418",
-   "name": "Cleveland Force 14/15G Yellow East"
+   "club": "FC Dayton",
+   "id": "50015475",
+   "name": "FC Dayton Pre-ECNL RL G2014/15"
   },
   {
    "club": "Anthony Wayne United SC",
@@ -306,14 +316,29 @@
    "name": "AW United u12 Girls Blue"
   },
   {
-   "club": "FC Dayton",
-   "id": "50015475",
-   "name": "FC Dayton Pre-ECNL RL G2014/15"
+   "club": "Waynesville FC",
+   "id": "50015441",
+   "name": "Waynesville FC U12G"
   },
   {
-   "club": "Ambassadors FC",
-   "id": "50015417",
-   "name": "Ambassadors FC 2014/15 Girls White"
+   "club": "Canfield Soccer Club",
+   "id": "50052943",
+   "name": "Canfield- U12 Girls"
+  },
+  {
+   "club": "GTFC Impact",
+   "id": "50022125",
+   "name": "GTFC Impact Girls HC GU12"
+  },
+  {
+   "club": "GTFC Impact",
+   "id": "50015479",
+   "name": "Impact GFC GU12 Premier"
+  },
+  {
+   "club": "Cincy SC",
+   "id": "50015440",
+   "name": "Cincy SC G14-15 Elite"
   },
   {
    "club": "T3 Futbol Club",
@@ -326,44 +351,14 @@
    "name": "Cleveland Force Pre-ECNL G2014/15 White"
   },
   {
-   "club": "Canfield Soccer Club",
-   "id": "50052943",
-   "name": "Canfield- U12 Girls"
-  },
-  {
-   "club": "GTFC Impact",
-   "id": "50015479",
-   "name": "Impact GFC GU12 Premier"
-  },
-  {
-   "club": "Waynesville FC",
-   "id": "50015441",
-   "name": "Waynesville FC U12G"
-  },
-  {
-   "club": "GTFC Impact",
-   "id": "50022125",
-   "name": "GTFC Impact Girls HC GU12"
+   "club": "Madison Youth Soccer Association",
+   "id": "40054690",
+   "name": "MYSA falcon girls 1"
   },
   {
    "club": "FC Columbus",
    "id": "50052936",
    "name": "FC Columbus Santos 2014/15 Girls"
-  },
-  {
-   "club": "Cincy SC",
-   "id": "50015440",
-   "name": "Cincy SC G14-15 Elite"
-  },
-  {
-   "club": "Sporting Columbus",
-   "id": "50029311",
-   "name": "Sporting Columbus Girls 2033 COPL"
-  },
-  {
-   "club": "Madison Youth Soccer Association",
-   "id": "40054690",
-   "name": "MYSA falcon girls 1"
   },
   {
    "club": "FC Storm",
@@ -374,6 +369,11 @@
    "club": "Kolping SC",
    "id": "50029300",
    "name": "Kolping SC G33 NLA"
+  },
+  {
+   "club": "Ambassadors FC",
+   "id": "50015417",
+   "name": "Ambassadors FC 2014/15 Girls White"
   },
   {
    "club": "BSA Celtic",
@@ -391,9 +391,9 @@
    "name": "TempesT FC Thunder"
   },
   {
-   "club": "Eclipse FC",
-   "id": "50015431",
-   "name": "Eclipse FC Elite"
+   "club": "Soccer Vision Academy Girls",
+   "id": "50044075",
+   "name": "Soccer Vision Academy 2015 Girls"
   },
   {
    "club": "Club Ohio",
@@ -401,14 +401,14 @@
    "name": "Club Ohio East U12G Green"
   },
   {
+   "club": "Eclipse FC",
+   "id": "50015431",
+   "name": "Eclipse FC Elite"
+  },
+  {
    "club": "Northwest Cincy Soccer Coalition",
    "id": "40055098",
    "name": "Northwest Cincy SC G14/15 Fire"
-  },
-  {
-   "club": "Soccer Vision Academy Girls",
-   "id": "50044075",
-   "name": "Soccer Vision Academy 2015 Girls"
   },
   {
    "club": "NWC Alliance Soccer Club",
@@ -416,14 +416,14 @@
    "name": "NWC Alliance 2033 Girls Elite"
   },
   {
-   "club": "Greene County Cosmos",
-   "id": "50015435",
-   "name": "GC Cosmos G2014/2015 Green"
-  },
-  {
    "club": "FC Storm",
    "id": "50044080",
    "name": "FC Storm GU12 Premier 2"
+  },
+  {
+   "club": "Greene County Cosmos",
+   "id": "50015435",
+   "name": "GC Cosmos G2014/2015 Green"
   },
   {
    "club": "Mercury",
@@ -431,14 +431,14 @@
    "name": "BSC Premier G14/15"
   },
   {
+   "club": "Sporting Columbus",
+   "id": "50029311",
+   "name": "Sporting Columbus Girls 2033 COPL"
+  },
+  {
    "club": "Mercury",
    "id": "50029307",
    "name": "Mercury G2014/15 West"
-  },
-  {
-   "club": "Cuyahoga Valley Soccer Academy",
-   "id": "50015471",
-   "name": "Cuyahoga Valley Soccer Academy G2014/15 Red"
   },
   {
    "club": "Cincy Galaxy SC",
@@ -446,9 +446,9 @@
    "name": "Cincy Galaxy U12/U13G - Grey"
   },
   {
-   "club": "Sporting Columbus",
-   "id": "50029310",
-   "name": "Sporting Columbus Girls 2033 East COPL"
+   "club": "Cuyahoga Valley Soccer Academy",
+   "id": "50015471",
+   "name": "Cuyahoga Valley Soccer Academy G2014/15 Red"
   },
   {
    "club": "Nationals FC",
@@ -456,19 +456,14 @@
    "name": "Nationals FC Strikers"
   },
   {
-   "club": "Stark United Premier SC",
-   "id": "50015415",
-   "name": "Stark United Premier PL Girls 14/15 U12 Black - OH"
+   "club": "Sporting Columbus",
+   "id": "50029310",
+   "name": "Sporting Columbus Girls 2033 East COPL"
   },
   {
-   "club": "Licking County Football Club",
-   "id": "50015465",
-   "name": "LCFC Union U12 Girls"
-  },
-  {
-   "club": "Shelby County Youth Soccer",
-   "id": "50029296",
-   "name": "WOU G15 Black"
+   "club": "Delaware Knights",
+   "id": "50015460",
+   "name": "Delaware Knights U12G Kraus"
   },
   {
    "club": "Dayton Futbol Academy",
@@ -476,14 +471,19 @@
    "name": "DFA 2014/2015G Gold"
   },
   {
+   "club": "Shelby County Youth Soccer",
+   "id": "50029296",
+   "name": "WOU G15 Black"
+  },
+  {
    "club": "Cincinnati United Soccer Club",
    "id": "50015437",
    "name": "CUSC GU12 Premier North"
   },
   {
-   "club": "Delaware Knights",
-   "id": "50015460",
-   "name": "Delaware Knights U12G Kraus"
+   "club": "Licking County Football Club",
+   "id": "50015465",
+   "name": "LCFC Union U12 Girls"
   },
   {
    "club": "Lawrenceburg Greendale Soccer Club",
@@ -496,14 +496,19 @@
    "name": "FREEDOM U12 Girls"
   },
   {
+   "club": "Stark United Premier SC",
+   "id": "50015415",
+   "name": "Stark United Premier PL Girls 14/15 U12 Black - OH"
+  },
+  {
    "club": "T3 Futbol Club",
    "id": "50015412",
    "name": "North FC N1 G2014/15 East"
   },
   {
-   "club": "Kings Hammer Cincinnati",
-   "id": "50029306",
-   "name": "KHA Warren County GU12 Blue"
+   "club": "Caps FC",
+   "id": "50025103",
+   "name": "CAPS FC U12 Girls"
   },
   {
    "club": "Columbus United",
@@ -511,9 +516,9 @@
    "name": "Columbus United G'33 Lions"
   },
   {
-   "club": "Caps FC",
-   "id": "50025103",
-   "name": "CAPS FC U12 Girls"
+   "club": "Kings Hammer Cincinnati",
+   "id": "50029306",
+   "name": "KHA Warren County GU12 Blue"
   },
   {
    "club": "Poland Youth SA",
@@ -531,19 +536,14 @@
    "name": "Total Ginga Academy U12G (OH)"
   },
   {
+   "club": "Lancaster Select Soccer Association (LSSA)",
+   "id": "50015422",
+   "name": "LSSA U12 Girls"
+  },
+  {
    "club": "Troy Rattlers",
    "id": "50029325",
    "name": "Troy Rattlers G2015 Black"
-  },
-  {
-   "club": "Ohio Galaxies FC",
-   "id": "50044053",
-   "name": "BSA Celtic U12 Girls Blue"
-  },
-  {
-   "club": "MVSA Sting",
-   "id": "50044061",
-   "name": "MV Sting SC u12 Black Girls 2014/2015/2016"
   },
   {
    "club": "Cincinnati United Soccer Club",
@@ -551,9 +551,19 @@
    "name": "CUSC GU12 Premier South"
   },
   {
-   "club": "Pride Soccer Club",
-   "id": "50015458",
-   "name": "PRIDE SC 2014/2015G Copa Black"
+   "club": "MVSA Sting",
+   "id": "50044061",
+   "name": "MV Sting SC u12 Black Girls 2014/2015/2016"
+  },
+  {
+   "club": "Ohio Galaxies FC",
+   "id": "50044053",
+   "name": "BSA Celtic U12 Girls Blue"
+  },
+  {
+   "club": "Cleveland Football Academy",
+   "id": "50044076",
+   "name": "Cleveland Football Academy (CFA) U12 Girls"
   },
   {
    "club": "Club Ohio",
@@ -566,19 +576,9 @@
    "name": "GCKA U12G Red"
   },
   {
-   "club": "Cleveland Football Academy",
-   "id": "50044076",
-   "name": "Cleveland Football Academy (CFA) U12 Girls"
-  },
-  {
    "club": "Total Futbol Academy (OH)",
    "id": "50015451",
    "name": "TFA G2014-15 Gold"
-  },
-  {
-   "club": "Lancaster Select Soccer Association (LSSA)",
-   "id": "50015422",
-   "name": "LSSA U12 Girls"
   },
   {
    "club": "STAR Rush Cincinnati",
@@ -586,19 +586,24 @@
    "name": "STAR Rush GU12 Blue"
   },
   {
+   "club": "Pride Soccer Club",
+   "id": "50015458",
+   "name": "PRIDE SC 2014/2015G Copa Black"
+  },
+  {
    "club": "Bluffton SC",
    "id": "40068721",
    "name": "Bluffton Legacy G2014"
   },
   {
-   "club": "Cincinnati Elite FC",
-   "id": "50044057",
-   "name": "Cincinnati Elite FC GU12 Gold (2014/15)"
-  },
-  {
    "club": "Defiance SA",
    "id": "40068744",
    "name": "Defiance Strikers G2015/2016"
+  },
+  {
+   "club": "Cincinnati Elite FC",
+   "id": "50044057",
+   "name": "Cincinnati Elite FC GU12 Gold (2014/15)"
   },
   {
    "club": "Lawrenceburg Greendale Soccer Club",
@@ -616,9 +621,19 @@
    "name": "Northern Buckeye United Girls 2015"
   },
   {
+   "club": "Club Ohio",
+   "id": "50015467",
+   "name": "Club Ohio West U12G Green"
+  },
+  {
    "club": "Mercury",
    "id": "50044049",
    "name": "SJB Premier G15 Blue Jays"
+  },
+  {
+   "club": "Worthington United",
+   "id": "50044064",
+   "name": "Worthington United 94 U12 Girls Navy I"
   },
   {
    "club": "Invictus SC",
@@ -626,9 +641,9 @@
    "name": "Invictus SC G2014/15"
   },
   {
-   "club": "Canton Akron United Force",
-   "id": "50025104",
-   "name": "CAU U12G White"
+   "club": "Cincy SC",
+   "id": "50015481",
+   "name": "Cincy SC G14-15 Navy"
   },
   {
    "club": "Lakota Futbol Club",
@@ -641,16 +656,6 @@
    "name": "Genoa Premier GU12"
   },
   {
-   "club": "Club Ohio",
-   "id": "50015467",
-   "name": "Club Ohio West U12G Green"
-  },
-  {
-   "club": "Cincy SC",
-   "id": "50015481",
-   "name": "Cincy SC G14-15 Navy"
-  },
-  {
    "club": "Hubbard Eagles Soccer Club",
    "id": "50052947",
    "name": "U12 Girls"
@@ -661,34 +666,14 @@
    "name": "Club Ohio North U12G Black"
   },
   {
+   "club": "Elite FC",
+   "id": "50015485",
+   "name": "Elite FC U12 Girls Premier"
+  },
+  {
    "club": "Dublin United Soccer Club",
    "id": "50015489",
    "name": "DUSC Black Phoenix GU12"
-  },
-  {
-   "club": "Worthington United",
-   "id": "50044064",
-   "name": "Worthington United 94 U12 Girls Navy I"
-  },
-  {
-   "club": "Ambassadors FC",
-   "id": "50015416",
-   "name": "Ambassadors FC 2014/15 Girls Silver"
-  },
-  {
-   "club": "Central Ohio Elite",
-   "id": "50015459",
-   "name": "Central Ohio Elite (COE) U12G Pathway"
-  },
-  {
-   "club": "Total Futbol Academy (OH)",
-   "id": "50015442",
-   "name": "TFA G2014-15 Premier"
-  },
-  {
-   "club": "Stark United Premier SC",
-   "id": "50015414",
-   "name": "Stark United Premier PL Girls 14/15 U12 Gold - OH"
   },
   {
    "club": "Oakwood United SC",
@@ -696,9 +681,29 @@
    "name": "Oakwood United - G14/15 Gold"
   },
   {
-   "club": "Elite FC",
-   "id": "50015485",
-   "name": "Elite FC U12 Girls Premier"
+   "club": "Stark United Premier SC",
+   "id": "50015414",
+   "name": "Stark United Premier PL Girls 14/15 U12 Gold - OH"
+  },
+  {
+   "club": "Ambassadors FC",
+   "id": "50015416",
+   "name": "Ambassadors FC 2014/15 Girls Silver"
+  },
+  {
+   "club": "Total Futbol Academy (OH)",
+   "id": "50015442",
+   "name": "TFA G2014-15 Premier"
+  },
+  {
+   "club": "Central Ohio Elite",
+   "id": "50015459",
+   "name": "Central Ohio Elite (COE) U12G Pathway"
+  },
+  {
+   "club": "Canton Akron United Force",
+   "id": "50025104",
+   "name": "CAU U12G White"
   },
   {
    "club": "Ohio Galaxies FC",
@@ -716,9 +721,19 @@
    "name": "AMFC-GSA U12 Girls Orange"
   },
   {
+   "club": "Appleseed Premier",
+   "id": "50044066",
+   "name": "Appleseed Premier U12G White"
+  },
+  {
    "club": "Cincy SC",
    "id": "50015452",
    "name": "Cincy SC G14-15 Orange"
+  },
+  {
+   "club": "Cincinnati United Soccer Club",
+   "id": "50044052",
+   "name": "CUSC GU12 North Elite 1"
   },
   {
    "club": "Mercury",
@@ -726,14 +741,9 @@
    "name": "Mercury Pre-ECNL G2014/15 West"
   },
   {
-   "club": "Appleseed Premier",
-   "id": "50044066",
-   "name": "Appleseed Premier U12G White"
-  },
-  {
-   "club": "Cincinnati United Soccer Club",
-   "id": "50044052",
-   "name": "CUSC GU12 North Elite 1"
+   "club": "Columbus Force SC",
+   "id": "50029315",
+   "name": "Columbus Force G14/15 Blue"
   },
   {
    "club": "Springboro Force SC",
@@ -766,11 +776,6 @@
    "name": "Alder FC 26/27 GU12 Summit"
   },
   {
-   "club": "Worthington United",
-   "id": "50052932",
-   "name": "WSP Raising Wolves U12 Girls"
-  },
-  {
    "club": "Butler United SC",
    "id": "50044089",
    "name": "BUSC G14/15 Gray Buffalos"
@@ -781,24 +786,19 @@
    "name": "Northern Alliance G14/15"
   },
   {
-   "club": "Columbus Force SC",
-   "id": "50029315",
-   "name": "Columbus Force G14/15 Blue"
-  },
-  {
    "club": "Kings Hammer Columbus",
    "id": "50044068",
    "name": "KHA New Albany U12G Gold"
   },
   {
-   "club": "Croatia Jrs",
-   "id": "50022121",
-   "name": "Croatia Juniors U11/U12 Girls CASA"
-  },
-  {
    "club": "GTFC Impact",
    "id": "50015483",
    "name": "Impact GFC GU12 Blue"
+  },
+  {
+   "club": "Club Ohio",
+   "id": "50015463",
+   "name": "Club Ohio North U12G Green II"
   },
   {
    "club": "Kings Hammer Columbus",
@@ -811,6 +811,11 @@
    "name": "NWC Alliance 2033 Girls Premier"
   },
   {
+   "club": "Worthington United",
+   "id": "50052932",
+   "name": "WSP Raising Wolves U12 Girls"
+  },
+  {
    "club": "Club Ohio",
    "id": "50015466",
    "name": "Club Ohio East U12G Green I"
@@ -819,6 +824,11 @@
    "club": "FC Storm",
    "id": "50015433",
    "name": "FC Storm GU12 Premier 3"
+  },
+  {
+   "club": "Croatia Jrs",
+   "id": "50022121",
+   "name": "Croatia Juniors U11/U12 Girls CASA"
   },
   {
    "club": "Ohio United FC",
@@ -836,24 +846,19 @@
    "name": "LFC United U12 Girls Elite 2"
   },
   {
-   "club": "Cincinnati Elite FC",
-   "id": "50044070",
-   "name": "Cincinnati Elite FC Pre-ECNL G2014/15 2"
-  },
-  {
    "club": "On Goal Passion FC",
    "id": "50029305",
    "name": "Passion FC 2014/2015G Gray"
   },
   {
-   "club": "Worthington United",
-   "id": "50052939",
-   "name": "Worthington United 94 U12 Girls Navy II"
+   "club": "Cincinnati Elite FC",
+   "id": "50044070",
+   "name": "Cincinnati Elite FC Pre-ECNL G2014/15 2"
   },
   {
-   "club": "Canal Winchester Soccer Club",
-   "id": "50015486",
-   "name": "Canal Winchester SC 2015G"
+   "club": "Bowling Green SC",
+   "id": "40068693",
+   "name": "BGSC GU12"
   },
   {
    "club": "FC Columbus",
@@ -861,14 +866,9 @@
    "name": "FC Columbus Flamengo 2014/15 Girls"
   },
   {
-   "club": "Club Ohio",
-   "id": "50015463",
-   "name": "Club Ohio North U12G Green II"
-  },
-  {
-   "club": "Bowling Green SC",
-   "id": "40068693",
-   "name": "BGSC GU12"
+   "club": "Worthington United",
+   "id": "50052939",
+   "name": "Worthington United 94 U12 Girls Navy II"
   },
   {
    "club": "Worthington United",
@@ -891,6 +891,11 @@
    "name": "Shawnee Select G2015/16"
   },
   {
+   "club": "Cleveland Cobras",
+   "id": "50044079",
+   "name": "Cleveland Cobras U12 Girls"
+  },
+  {
    "club": "Fremont Emeralds SC",
    "id": "50015423",
    "name": "Fremont Emeralds G2014"
@@ -909,6 +914,11 @@
    "club": "Lakeview Soccer",
    "id": "40077075",
    "name": "Lakeview U12 girls"
+  },
+  {
+   "club": "Canal Winchester Soccer Club",
+   "id": "50015486",
+   "name": "Canal Winchester SC 2015G"
   },
   {
    "club": "Bryan SA",
@@ -941,19 +951,14 @@
    "name": "Dayton Kroc SC G2014/2015"
   },
   {
-   "club": "FC Dayton",
-   "id": "50015476",
-   "name": "FC Dayton U12 Girls Navy"
-  },
-  {
    "club": "Cincy SC",
    "id": "50015482",
    "name": "Cincy SC G14-15 White"
   },
   {
-   "club": "Ohio United FC",
-   "id": "40055241",
-   "name": "Ohio United FC G14/15 Havoc"
+   "club": "FC Dayton",
+   "id": "50015476",
+   "name": "FC Dayton U12 Girls Navy"
   },
   {
    "club": "Liberty Center",
@@ -961,9 +966,14 @@
    "name": "LC Lady Tigers"
   },
   {
-   "club": "Granville United FC",
-   "id": "50052934",
-   "name": "Granville United FC 2015 Girls"
+   "club": "Ohio United FC",
+   "id": "40055241",
+   "name": "Ohio United FC G14/15 Havoc"
+  },
+  {
+   "club": "Revere Soccer Club",
+   "id": "50044047",
+   "name": "REVERE U12"
   },
   {
    "club": "Oxford United FC(OH)",
@@ -971,9 +981,9 @@
    "name": "Oxford Rec - Falcon Girls Purple"
   },
   {
-   "club": "Revere Soccer Club",
-   "id": "50044047",
-   "name": "REVERE U12"
+   "club": "Granville United FC",
+   "id": "50052934",
+   "name": "Granville United FC 2015 Girls"
   },
   {
    "club": "Eclipse FC",
@@ -996,19 +1006,19 @@
    "name": "Salem U12 Girls"
   },
   {
-   "club": "FC Storm",
-   "id": "50015480",
-   "name": "FC Storm GU12 Orange"
-  },
-  {
    "club": "T3 Futbol Club",
    "id": "50015413",
    "name": "North FC N1 G2014/15 West"
   },
   {
-   "club": "Fairfield Optimist Soccer Club",
-   "id": "50015455",
-   "name": "FOSC G14/15 Black"
+   "club": "FC Storm",
+   "id": "50015480",
+   "name": "FC Storm GU12 Orange"
+  },
+  {
+   "club": "Team Challenger FC South",
+   "id": "50015420",
+   "name": "Team Challenger FC 14/15G Gold"
   },
   {
    "club": "Columbus Force SC",
@@ -1016,9 +1026,9 @@
    "name": "CE 2014/15G Vortex"
   },
   {
-   "club": "Team Challenger FC South",
-   "id": "50015420",
-   "name": "Team Challenger FC 14/15G Gold"
+   "club": "Fairfield Optimist Soccer Club",
+   "id": "50015455",
+   "name": "FOSC G14/15 Black"
   },
   {
    "club": "UA Soccer Academy",
@@ -1046,6 +1056,11 @@
    "name": "EPFC 14/15 Girls"
   },
   {
+   "club": "LFC United",
+   "id": "50015461",
+   "name": "LFC United U12 Girls Premier"
+  },
+  {
    "club": "Monroe Premier FC",
    "id": "50029304",
    "name": "Monroe Premier FC U12G Avalanche"
@@ -1054,11 +1069,6 @@
    "club": "Oak Hills Youth Athletics",
    "id": "50015454",
    "name": "Oak Hills Premier Girls U12"
-  },
-  {
-   "club": "LFC United",
-   "id": "50015461",
-   "name": "LFC United U12 Girls Premier"
   },
   {
    "club": "SYLVANIA UNITED",
@@ -1179,11 +1189,6 @@
    "club": "Green SA",
    "id": "40081194",
    "name": "GSA Academy GIRLS 2015-2016"
-  },
-  {
-   "club": "Cuyahoga Valley Soccer Academy",
-   "id": "50022122",
-   "name": "Cuyahoga Valley Soccer Academy - Pre-ECNL G2014/15"
   },
   {
    "club": "Green SA",
@@ -1484,11 +1489,6 @@
    "club": "Ohio Elite Soccer Academy",
    "id": "40111858",
    "name": "Ohio Elite SA Pre-ECNL RL G2014/15"
-  },
-  {
-   "club": "Cleveland Cobras",
-   "id": "50044079",
-   "name": "Cleveland Cobras U12 Girls"
   },
   {
    "club": "Greene County Cosmos",

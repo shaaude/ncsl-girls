@@ -1,10 +1,15 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-17T17:14:03.266980+00:00",
+ "fetched_at": "2026-11-24T18:56:02.227621+00:00",
  "state": "NJ",
  "state_slug": "new-jersey",
  "teams": [
+  {
+   "club": "Sporting Club Premier (NJ)",
+   "id": "50013905",
+   "name": "PDA SCP ECNL RL G2010/11"
+  },
   {
    "club": "Clayton SA",
    "id": "40041393",
@@ -16,19 +21,14 @@
    "name": "New Jersey Rush 2011"
   },
   {
-   "club": "Howell United SC",
-   "id": "50013904",
-   "name": "Howell United Surf 2011G"
-  },
-  {
    "club": "Mount Laurel United (MLU)",
    "id": "50013894",
    "name": "Falcons 2011"
   },
   {
-   "club": "NJ Blaze",
-   "id": "40014244",
-   "name": "NJ Blaze SA G2012-13"
+   "club": "Howell United SC",
+   "id": "50013904",
+   "name": "Howell United Surf 2011G"
   },
   {
    "club": "Lakewood SC",
@@ -36,14 +36,19 @@
    "name": "Nova"
   },
   {
-   "club": "Franklin Township Youth Soccer Association",
-   "id": "40041476",
-   "name": "Hurricanes"
+   "club": "NJ Blaze",
+   "id": "40014244",
+   "name": "NJ Blaze SA G2012-13"
   },
   {
    "club": "PDA SC Vistula",
    "id": "40015565",
    "name": "PDA/Vistula GIRLS U15 - TOMASZEWSKI"
+  },
+  {
+   "club": "Franklin Township Youth Soccer Association",
+   "id": "40041476",
+   "name": "Hurricanes"
   },
   {
    "club": "Point Pleasant Travel SC",
@@ -57,13 +62,33 @@
   },
   {
    "club": "Brick Township SA",
-   "id": "40007534",
+   "id": "50056420",
    "name": "Thunder Green"
+  },
+  {
+   "club": "Parsippany SC",
+   "id": "50021952",
+   "name": "PSC Academy Girls Elite U16"
+  },
+  {
+   "club": "Marlton Soccer Club",
+   "id": "40009961",
+   "name": "Marlton SC N1 G2010/11 Chiefs Premier (NJ)"
   },
   {
    "club": "Princeton SA",
    "id": "50013903",
    "name": "PSA Monmouth ECNL RL G2010/11"
+  },
+  {
+   "club": "Princeton SA",
+   "id": "50021953",
+   "name": "PSA Monmouth NPL G2010/11"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "40009980",
+   "name": "Matchfit Surf ECNL RL G2010/11 Blue"
   },
   {
    "club": "Harrison SC",
@@ -77,7 +102,7 @@
   },
   {
    "club": "West Deptford SC",
-   "id": "40058023",
+   "id": "50056421",
    "name": "Thunder 2011"
   },
   {
@@ -96,14 +121,19 @@
    "name": "NJ Blaze SA G2011"
   },
   {
+   "club": "Old Bridge Soccer Club",
+   "id": "40058158",
+   "name": "Hurricanes"
+  },
+  {
+   "club": "The Football Academy NJ",
+   "id": "50056422",
+   "name": "The FA U16 Girls Gold"
+  },
+  {
    "club": "NJ Premier FC",
    "id": "50013896",
    "name": "10/11G Aspire"
-  },
-  {
-   "club": "Sporting Club Premier (NJ)",
-   "id": "50013905",
-   "name": "PDA SCP ECNL RL G2010/11"
   },
   {
    "club": "Cedar Stars Academy - Monmouth",
@@ -116,8 +146,18 @@
    "name": "GA 10/11"
   },
   {
+   "club": "TSF Academy - NJ",
+   "id": "50056423",
+   "name": "Aspire 10/11"
+  },
+  {
    "club": "Real Futbol Academy",
    "id": "50021955",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "SJEB FC",
+   "id": "50056424",
    "name": "Aspire 10/11"
   },
   {
@@ -201,9 +241,24 @@
    "name": "Monroe United EDP 2011"
   },
   {
+   "club": "Morris Elite SC",
+   "id": "50056425",
+   "name": "U15G USLA"
+  },
+  {
+   "club": "Cherry Hill SC",
+   "id": "50056426",
+   "name": "2011 / 2010 Premier Arsenal"
+  },
+  {
    "club": "Deptford SA",
    "id": "40111838",
    "name": "DSA Athena N1 Elite 11G"
+  },
+  {
+   "club": "Cohansey SC",
+   "id": "50056427",
+   "name": "Cohansey Premier 2012G White"
   },
   {
    "club": "SJYS",
@@ -244,6 +299,61 @@
    "club": "Cedar Stars Academy - Bergen",
    "id": "40190226",
    "name": "U16 Girls Academy"
+  },
+  {
+   "club": "NLSA Surf",
+   "id": "40210223",
+   "name": "Premier G2010/11"
+  },
+  {
+   "club": "Harrison SC",
+   "id": "40210567",
+   "name": "Harrison Surge U16"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "40210576",
+   "name": "Matchfit Surf Toms River - GU16 Press"
+  },
+  {
+   "club": "Match Fit Surf",
+   "id": "40210599",
+   "name": "Matchfit Surf Essex G2010/11 Blue II EDP"
+  },
+  {
+   "club": "FC Copa Academy",
+   "id": "40210617",
+   "name": "FC Copa G2010/11 Black NJ Central"
+  },
+  {
+   "club": "Freehold SL",
+   "id": "40210624",
+   "name": "Freehold SL Elite Thunder"
+  },
+  {
+   "club": "Old Bridge Soccer Club",
+   "id": "40210635",
+   "name": "Thunder Premier"
+  },
+  {
+   "club": "NJ14 Soccer Club",
+   "id": "40210639",
+   "name": "NJ14 N1 G16 ASTRAEA (NJ)"
+  },
+  {
+   "club": "Jersey Shore Boca Jr FC",
+   "id": "40210644",
+   "name": "Riptide"
+  },
+  {
+   "club": "Atlantic United Soccer Club",
+   "id": "40210648",
+   "name": "Atlantic United Premier FC U16 G EDP"
+  },
+  {
+   "club": "Paramus United Soccer Club",
+   "id": "40211555",
+   "name": "G15 STRYKERS"
   }
  ]
 }

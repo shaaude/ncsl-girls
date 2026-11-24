@@ -1,14 +1,29 @@
 {
  "age": "GU19",
  "age_slug": "u19",
- "fetched_at": "2026-11-17T17:25:32.355468+00:00",
+ "fetched_at": "2026-11-24T19:08:17.586807+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
   {
+   "club": "Oklahoma Energy FC",
+   "id": "40205926",
+   "name": "OK Energy FC ECNL G2008/09"
+  },
+  {
+   "club": "FC Tulsa Academy",
+   "id": "40206125",
+   "name": "ECNL RL G2008/09"
+  },
+  {
    "club": "Oklahoma Celtic",
-   "id": "40070688",
-   "name": "Oklahoma Celtic GA 08/09"
+   "id": "50055436",
+   "name": "GA 08/09"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "50055433",
+   "name": "West Side Alliance ECNL G2008/09"
   },
   {
    "club": "South Lakes SC",
@@ -21,9 +36,9 @@
    "name": "APEX FC U19 Girls"
   },
   {
-   "club": "Muskogee SC",
-   "id": "40066694",
-   "name": "MSC Fusion U19 Girls"
+   "club": "West Side Alliance SC",
+   "id": "40206365",
+   "name": "West Side Alliance ECNL RL G2008/09"
   },
   {
    "club": "FC Tulsa Academy",
@@ -31,9 +46,19 @@
    "name": "FC Tulsa Academy 09 Girls Premier"
   },
   {
-   "club": "Northwest Optimist SC",
-   "id": "50053067",
-   "name": "NWO FC 08/09 G"
+   "club": "Muskogee SC",
+   "id": "40066694",
+   "name": "MSC Fusion U19 Girls"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "40206121",
+   "name": "West Side Alliance Tulsa ECNL RL G2008/09"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "40206359",
+   "name": "OK Energy FC Texas ECNL RL G2008/09"
   },
   {
    "club": "Midwest City SC",
@@ -41,9 +66,14 @@
    "name": "Vision 2008G Karnes"
   },
   {
-   "club": "Ponca City SA",
-   "id": "40066716",
-   "name": "PC United HS Girls"
+   "club": "Northwest Optimist SC",
+   "id": "50053067",
+   "name": "NWO FC 08/09 G"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "40206126",
+   "name": "ECNL RL G2008/09"
   },
   {
    "club": "Mustang YSA",
@@ -52,8 +82,28 @@
   },
   {
    "club": "West Side Alliance SC",
-   "id": "40044945",
-   "name": "WSA SOUTH U19G (Wooten)"
+   "id": "50055434",
+   "name": "West Side Alliance OKC ECNL RL G2008/09"
+  },
+  {
+   "club": "Oklahoma Energy FC",
+   "id": "40206115",
+   "name": "OK Energy FC Frontier ECNL RL G2008/09"
+  },
+  {
+   "club": "Ponca City SA",
+   "id": "40066716",
+   "name": "PC United HS Girls"
+  },
+  {
+   "club": "South Lakes SC",
+   "id": "40206116",
+   "name": "Oklahoma Cosmos ECNL RL G2008/09"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "50055435",
+   "name": "WSA South (Wooten)"
   },
   {
    "club": "Tulsa Sheffield United SC",
@@ -101,16 +151,6 @@
    "name": "Tigers"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40112000",
-   "name": "Triple P - Musseman"
-  },
-  {
-   "club": "Broken Arrow Soccer Club",
-   "id": "40112001",
-   "name": "Goals and Roses + Smith"
-  },
-  {
    "club": "Claremore SC",
    "id": "40112010",
    "name": "Chicka Booms"
@@ -119,6 +159,26 @@
    "club": "Owasso SC",
    "id": "40112015",
    "name": "Flomotion"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "40209674",
+   "name": "Tulsa SC GA G2008/09"
+  },
+  {
+   "club": "Oklahoma Celtic",
+   "id": "40209735",
+   "name": "G09 White"
+  },
+  {
+   "club": "South Lakes SC",
+   "id": "40209749",
+   "name": "United"
+  },
+  {
+   "club": "NE Oklahoma FC",
+   "id": "40209809",
+   "name": "NEOFC U19 Blue"
   }
  ]
 }

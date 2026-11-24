@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-17T17:19:09.619469+00:00",
+ "fetched_at": "2026-11-24T19:01:14.754883+00:00",
  "state": "NC",
  "state_slug": "north-carolina",
  "teams": [
@@ -71,6 +71,11 @@
    "name": "Elite ECNL RL G2013/14"
   },
   {
+   "club": "Stokes United Football Club",
+   "id": "40013110",
+   "name": "SUFC N1 F 2013 Thunder (NC)"
+  },
+  {
    "club": "Charlotte Soccer Academy",
    "id": "50012474",
    "name": "Charlotte SA White ECNL RL G2013/14"
@@ -79,11 +84,6 @@
    "club": "Charlotte Soccer Academy",
    "id": "40091866",
    "name": "Charlotte SA Blue ECNL RL G2013/14"
-  },
-  {
-   "club": "Stokes United Football Club",
-   "id": "40013110",
-   "name": "SUFC N1 F 2013 Thunder (NC)"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -107,13 +107,13 @@
   },
   {
    "club": "NCFC Youth",
-   "id": "50012476",
-   "name": "Premier ECNL RL G2013/14"
+   "id": "50012460",
+   "name": "NCFCY N1 G 2013 Gold North (NC)"
   },
   {
    "club": "NCFC Youth",
-   "id": "50012460",
-   "name": "NCFCY N1 G 2013 Gold North (NC)"
+   "id": "50012476",
+   "name": "Premier ECNL RL G2013/14"
   },
   {
    "club": "Wake FC",
@@ -162,23 +162,23 @@
   },
   {
    "club": "Wake FC",
-   "id": "50028573",
-   "name": "Wake FC N1 G 2013 Academy (NC)"
-  },
-  {
-   "club": "Wake FC",
    "id": "50028571",
    "name": "U13G DPL"
   },
   {
-   "club": "NCFC Youth",
-   "id": "50012458",
-   "name": "NCFCY N1 G 2013 Gold DCH (NC)"
+   "club": "Wake FC",
+   "id": "50028573",
+   "name": "Wake FC N1 G 2013 Academy (NC)"
   },
   {
    "club": "Charlotte Independence SC",
    "id": "50012456",
    "name": "Aspire 13/14 North"
+  },
+  {
+   "club": "NCFC Youth",
+   "id": "50012458",
+   "name": "NCFCY N1 G 2013 Gold DCH (NC)"
   },
   {
    "club": "Charlotte Soccer Academy",
@@ -324,6 +324,11 @@
    "club": "North Carolina FC Youth",
    "id": "40120956",
    "name": "U13 (13) NCFCY Rockets G"
+  },
+  {
+   "club": "Wesley Chapel Weddington AA",
+   "id": "40205598",
+   "name": "13 (U13) WCWAA Premier G"
   }
  ]
 }

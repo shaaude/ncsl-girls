@@ -1,7 +1,7 @@
 {
  "age": "GU15",
  "age_slug": "u15",
- "fetched_at": "2026-11-17T16:59:03.382349+00:00",
+ "fetched_at": "2026-11-24T18:41:11.941967+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
@@ -26,14 +26,14 @@
    "name": "Nationals SC ECNL G2011/12"
   },
   {
-   "club": "Portage Soccer Club",
-   "id": "40092161",
-   "name": "Portage SC ECNL RL G2011/12"
-  },
-  {
    "club": "Michigan Tigers FC",
    "id": "40070443",
    "name": "GA 11/12"
+  },
+  {
+   "club": "Portage Soccer Club",
+   "id": "40092161",
+   "name": "Portage SC ECNL RL G2011/12"
   },
   {
    "club": "Nationals",
@@ -56,14 +56,19 @@
    "name": "Liverpool FC MI ECNL G2011/12"
   },
   {
+   "club": "Michigan Hawks",
+   "id": "40090193",
+   "name": "Magic ECNL G2011/12"
+  },
+  {
    "club": "Holt Soccer Club",
    "id": "40067063",
    "name": "HJR SC U14/15 ELITE Girls"
   },
   {
-   "club": "Michigan Hawks",
-   "id": "40090193",
-   "name": "Magic ECNL G2011/12"
+   "club": "Bath Soccer",
+   "id": "40067000",
+   "name": "Bath U15 Girls"
   },
   {
    "club": "Athletic Soccer Club Michigan",
@@ -71,9 +76,9 @@
    "name": "Athletic SC GEO U15G Premier"
   },
   {
-   "club": "Bath Soccer",
-   "id": "40067000",
-   "name": "Bath U15 Girls"
+   "club": "Liverpool FC-IA Michigan",
+   "id": "50011472",
+   "name": "Liverpool FC MI ECNL RL G2011/12"
   },
   {
    "club": "Michigan Stars Elite SC",
@@ -86,9 +91,9 @@
    "name": "Athletic SC BYR U15G Premier"
   },
   {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "50011472",
-   "name": "Liverpool FC MI ECNL RL G2011/12"
+   "club": "Michigan Jaguars",
+   "id": "40071310",
+   "name": "Aspire 11/12"
   },
   {
    "club": "PASS FC",
@@ -106,29 +111,24 @@
    "name": "FAU 2011 Girls MYSL"
   },
   {
-   "club": "Detroit City FC",
-   "id": "40092176",
-   "name": "West ECNL RL G2011/12"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "40071310",
-   "name": "Aspire 11/12"
-  },
-  {
    "club": "AC Grand Rapids Academy",
    "id": "50011467",
    "name": "Aspire 11/12"
   },
   {
-   "club": "Midwest United FC SCOR",
-   "id": "50011466",
-   "name": "Aspire 11/12"
+   "club": "Detroit City FC",
+   "id": "40092176",
+   "name": "West ECNL RL G2011/12"
   },
   {
    "club": "Nationals",
    "id": "50021800",
    "name": "Nationals SC Union ECNL RL G2011/12"
+  },
+  {
+   "club": "Midwest United FC SCOR",
+   "id": "50011466",
+   "name": "Aspire 11/12"
   },
   {
    "club": "Okemos Soccer Club",
@@ -161,14 +161,19 @@
    "name": "TKO Premier SC ECNL RL G2011/12"
   },
   {
+   "club": "Michigan Rangers FC",
+   "id": "50011469",
+   "name": "ECNL RL G2011/12"
+  },
+  {
    "club": "Eastside FC",
    "id": "50021801",
    "name": "Eastside FC U15G Premier"
   },
   {
-   "club": "Michigan Rangers FC",
-   "id": "50011469",
-   "name": "ECNL RL GU15"
+   "club": "Nationals",
+   "id": "40007760",
+   "name": "Nationals Anchor Bay G2011/12 Black DPL"
   },
   {
    "club": "Detroit City FC",
@@ -181,19 +186,14 @@
    "name": "Nationals Macomb G2011/12 Black"
   },
   {
-   "club": "Nationals",
-   "id": "40007760",
-   "name": "Nationals Anchor Bay G2011/12 Black DPL"
+   "club": "Michigan Tigers FC",
+   "id": "50011443",
+   "name": "N1 G2011/12 (MI)"
   },
   {
    "club": "TKO Premier SC",
    "id": "40092181",
    "name": "ECNL RL G2011/2012"
-  },
-  {
-   "club": "Michigan Tigers FC",
-   "id": "50011443",
-   "name": "N1 G2011/12 (MI)"
   },
   {
    "club": "Midland SC",
@@ -206,14 +206,14 @@
    "name": "Romeo FC Thunder"
   },
   {
-   "club": "Legends FC",
-   "id": "50011471",
-   "name": "ECNL RL G2011/12"
-  },
-  {
    "club": "Goodrich Soccer Club",
    "id": "40065321",
    "name": "GSC 2011/12 Girls"
+  },
+  {
+   "club": "Legends FC",
+   "id": "50011471",
+   "name": "ECNL RL G2011/12"
   },
   {
    "club": "Nationals",
@@ -236,11 +236,6 @@
    "name": "Detroit City FC North 12G Rouge"
   },
   {
-   "club": "Cap City Athletic 1847",
-   "id": "50011439",
-   "name": "Cap City 2011/12 Girls Grey"
-  },
-  {
    "club": "Williamston Soccer Club",
    "id": "40067078",
    "name": "Williamston Girls U15"
@@ -256,6 +251,11 @@
    "name": "North Oakland 11/12 G Academy"
   },
   {
+   "club": "Cap City Athletic 1847",
+   "id": "50011439",
+   "name": "Cap City 2011/12 Girls Grey"
+  },
+  {
    "club": "ER United",
    "id": "40067104",
    "name": "ER U15 Girls"
@@ -263,17 +263,17 @@
   {
    "club": "Cap City Athletic 1847",
    "id": "50011470",
-   "name": "ECNL RL G 2011/12"
-  },
-  {
-   "club": "Legends FC",
-   "id": "40065208",
-   "name": "Legends FC Premier G12"
+   "name": "ECNL RL G2011/12"
   },
   {
    "club": "BC Fire SC",
    "id": "50011449",
    "name": "N1 G2011/12 Blue (MI)"
+  },
+  {
+   "club": "Legends FC",
+   "id": "40065208",
+   "name": "Legends FC Premier G12"
   },
   {
    "club": "Flushing Flames United",
@@ -286,14 +286,14 @@
    "name": "Manchester SC United U15 Girls 2012"
   },
   {
-   "club": "Liverpool FC-IA Michigan",
-   "id": "50011440",
-   "name": "Hartland 2011/12 G Academy"
-  },
-  {
    "club": "Grand Ledge SC",
    "id": "40067142",
    "name": "Grand Ledge SC 15 Girls - Navy"
+  },
+  {
+   "club": "Liverpool FC-IA Michigan",
+   "id": "50011440",
+   "name": "Hartland 2011/12 G Academy"
   },
   {
    "club": "Liverpool FC-IA Michigan",
@@ -301,19 +301,14 @@
    "name": "Liverpool FC MI ECNL RL GMA G2011/12"
   },
   {
-   "club": "Charlotte Orioles",
-   "id": "40067079",
-   "name": "Charlotte Soccer Club U15 Girls"
-  },
-  {
    "club": "Michigan Jaguars",
    "id": "40007996",
    "name": "Lansing U15 G DPL"
   },
   {
-   "club": "Michigan Development Academy",
-   "id": "40065344",
-   "name": "MDA U15G GOLD1"
+   "club": "Charlotte Orioles",
+   "id": "40067079",
+   "name": "Charlotte Soccer Club U15 Girls"
   },
   {
    "club": "Detroit City FC South Oakland",
@@ -321,9 +316,19 @@
    "name": "N1 G2011/12 Rouge N1L (MI)"
   },
   {
-   "club": "County Western",
-   "id": "50011462",
-   "name": "WSC U15G Black"
+   "club": "Michigan Development Academy",
+   "id": "40065344",
+   "name": "MDA U15G GOLD1"
+  },
+  {
+   "club": "Michigan Hawks",
+   "id": "40096143",
+   "name": "ECNL RL G2011/12"
+  },
+  {
+   "club": "Michigan Development Academy",
+   "id": "40065407",
+   "name": "MDA U15G GOLD2"
   },
   {
    "club": "Liverpool FC-IA Michigan",
@@ -336,9 +341,9 @@
    "name": "u15G DPL"
   },
   {
-   "club": "Michigan Hawks",
-   "id": "40096143",
-   "name": "ECNL RL G2011/12"
+   "club": "County Western",
+   "id": "50011462",
+   "name": "WSC U15G Black"
   },
   {
    "club": "ROYAL OAK FC",
@@ -376,19 +381,9 @@
    "name": "Dansville U15 Girls"
   },
   {
-   "club": "Michigan Development Academy",
-   "id": "40065407",
-   "name": "MDA U15G GOLD2"
-  },
-  {
    "club": "Nationals",
    "id": "50011465",
    "name": "Nationals Union G2011/12 Black"
-  },
-  {
-   "club": "TKO Premier SC",
-   "id": "50040621",
-   "name": "TKO Premier SC 11/12G White"
   },
   {
    "club": "Detroit City FC",
@@ -401,14 +396,19 @@
    "name": "DeWitt SC u15 Girls Gold"
   },
   {
-   "club": "West Michigan Galaxy",
-   "id": "50040620",
-   "name": "WM Galaxy 2011/12G Elite"
+   "club": "TKO Premier SC",
+   "id": "50040621",
+   "name": "TKO Premier SC 11/12G White"
   },
   {
    "club": "Force SC",
    "id": "50011458",
    "name": "Force SC 11/12G Green"
+  },
+  {
+   "club": "West Michigan Galaxy",
+   "id": "50040620",
+   "name": "WM Galaxy 2011/12G Elite"
   },
   {
    "club": "Nationals",
@@ -421,19 +421,14 @@
    "name": "Comets SC u15"
   },
   {
-   "club": "Midwest United FC SCOR",
-   "id": "50011476",
-   "name": "Midwest United FC SCOR U15G Academy 2"
-  },
-  {
    "club": "Oxford SC",
    "id": "40065107",
    "name": "OSC 15u Gold"
   },
   {
-   "club": "Plymouth Soccer Club",
-   "id": "50011468",
-   "name": "Plymouth Reign ECNL RL G2011/12"
+   "club": "Midwest United FC SCOR",
+   "id": "50011476",
+   "name": "Midwest United FC SCOR U15G Academy 2"
   },
   {
    "club": "Michigan Jaguars",
@@ -441,14 +436,19 @@
    "name": "N1 Girls 2011-12 Downriver MI"
   },
   {
-   "club": "Detroit City FC South Oakland",
-   "id": "50011461",
-   "name": "DCFC South Oakland U15 Girls Gold"
+   "club": "Plymouth Soccer Club",
+   "id": "50011468",
+   "name": "Plymouth Reign ECNL RL G2011/12"
   },
   {
    "club": "Michigan Burn",
    "id": "50011474",
    "name": "Michigan Burn ECNL RL G2011/12"
+  },
+  {
+   "club": "Detroit City FC South Oakland",
+   "id": "50011461",
+   "name": "DCFC South Oakland U15 Girls Gold"
   },
   {
    "club": "Jackson NW AYSO Alliance",
@@ -457,13 +457,18 @@
   },
   {
    "club": "Midwest United",
-   "id": "50011475",
-   "name": "Midwest United FC Girls U15 White"
+   "id": "50011446",
+   "name": "N1 G2011/12 Royal (MI)"
+  },
+  {
+   "club": "Traverse Bay Area YS",
+   "id": "40065193",
+   "name": "North Storm U16G Red"
   },
   {
    "club": "Midwest United",
-   "id": "50011446",
-   "name": "N1 G2011/12 Royal (MI)"
+   "id": "50011475",
+   "name": "Midwest United FC Girls U15 White"
   },
   {
    "club": "West Michigan Premier FC",
@@ -479,11 +484,6 @@
    "club": "Liverpool FC-IA Michigan",
    "id": "50028291",
    "name": "North Oakland 11/12 G ECNL RL GMA"
-  },
-  {
-   "club": "Traverse Bay Area YS",
-   "id": "40065193",
-   "name": "North Storm U16G Red"
   },
   {
    "club": "St. Clair Shores Select Soccer Club",

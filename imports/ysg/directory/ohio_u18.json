@@ -1,10 +1,20 @@
 {
  "age": "GU19",
  "age_slug": "u18",
- "fetched_at": "2026-11-17T17:23:32.336634+00:00",
+ "fetched_at": "2026-11-24T19:06:17.527893+00:00",
  "state": "OH",
  "state_slug": "ohio",
  "teams": [
+  {
+   "club": "FC Dayton",
+   "id": "50015945",
+   "name": "FC Dayton ECNL RL G2008/09"
+  },
+  {
+   "club": "Cincinnati West",
+   "id": "50015946",
+   "name": "CWSC N1 G2008/09 Academy Elite (OH)"
+  },
   {
    "club": "Sporting Queen City",
    "id": "50022218",
@@ -21,19 +31,9 @@
    "name": "Cincinnati Elite FC ECNL RL G2008/09"
   },
   {
-   "club": "FC Dayton",
-   "id": "50015945",
-   "name": "FC Dayton ECNL RL G2008/09"
-  },
-  {
    "club": "Tempest FC",
    "id": "50054010",
    "name": "TempesT FC Legacy White"
-  },
-  {
-   "club": "Cincinnati West",
-   "id": "50015946",
-   "name": "CWSC N1 G2008/09 Academy Elite (OH)"
   },
   {
    "club": "Kings Hammer Columbus",
@@ -61,6 +61,11 @@
    "name": "Northwest FC U17/18G Orange"
   },
   {
+   "club": "Ohio Champions League",
+   "id": "40063523",
+   "name": "Club Ohio 09G GA"
+  },
+  {
    "club": "Cleveland Force SC",
    "id": "40064807",
    "name": "Cleveland Force SC ECNL RL G2008/09"
@@ -74,6 +79,11 @@
    "club": "Caps FC",
    "id": "40119702",
    "name": "CAPS FC U17 Girls"
+  },
+  {
+   "club": "Spire FC",
+   "id": "40207229",
+   "name": "Spire FC Geneva HS Girls"
   }
  ]
 }

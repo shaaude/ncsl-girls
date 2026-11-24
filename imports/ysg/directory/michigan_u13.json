@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-17T16:58:43.345535+00:00",
+ "fetched_at": "2026-11-24T18:40:43.336086+00:00",
  "state": "MI",
  "state_slug": "michigan",
  "teams": [
@@ -66,6 +66,11 @@
    "name": "DCFC City U13G Rouge"
   },
   {
+   "club": "Michigan Hawks",
+   "id": "50051571",
+   "name": "Michigan Hawks Magic ECNL G2013/14"
+  },
+  {
    "club": "Portage Soccer Club",
    "id": "40092163",
    "name": "Portage SC ECNL RL G2013/14"
@@ -81,11 +86,6 @@
    "name": "ECNL RL GU13"
   },
   {
-   "club": "Michigan Hawks",
-   "id": "50051571",
-   "name": "Michigan Hawks Magic ECNL G2013/14"
-  },
-  {
    "club": "Athletic Soccer Club Michigan",
    "id": "50040529",
    "name": "Athletic SC GEO U13G Premier"
@@ -96,14 +96,14 @@
    "name": "U13 Girls Lightning Gold"
   },
   {
-   "club": "Nationals",
-   "id": "40019398",
-   "name": "TriCounty N1 U13/14G Black (MI)"
-  },
-  {
    "club": "Michigan Stars Elite SC",
    "id": "50011351",
    "name": "GA 13/14"
+  },
+  {
+   "club": "Nationals",
+   "id": "40019398",
+   "name": "TriCounty N1 U13/14G Black (MI)"
   },
   {
    "club": "Michigan Burn",
@@ -111,9 +111,19 @@
    "name": "Michigan Burn ECNL RL G2013/14"
   },
   {
+   "club": "Michigan Jaguars",
+   "id": "40071312",
+   "name": "Aspire 13/14"
+  },
+  {
    "club": "PASS FC",
    "id": "40019418",
    "name": "N1 G2013/2014 Navy (MI)"
+  },
+  {
+   "club": "Traverse Bay Area YS",
+   "id": "40065195",
+   "name": "North Storm U13G White"
   },
   {
    "club": "Michigan Jaguars",
@@ -121,24 +131,14 @@
    "name": "N1 G 2013/14 RR-Green MI"
   },
   {
-   "club": "Michigan Jaguars",
-   "id": "40071312",
-   "name": "Aspire 13/14"
-  },
-  {
-   "club": "Michigan Development Academy",
-   "id": "50040524",
-   "name": "N1 G2013/14 GOLD (MI)"
-  },
-  {
    "club": "Liverpool FC-IA Michigan",
    "id": "40065406",
    "name": "Windsor 2013/14 G Academy"
   },
   {
-   "club": "Traverse Bay Area YS",
-   "id": "40065195",
-   "name": "North Storm U13G White"
+   "club": "Michigan Development Academy",
+   "id": "50040524",
+   "name": "N1 G2013/14 GOLD (MI)"
   },
   {
    "club": "Cap City Athletic 1847",
@@ -181,24 +181,24 @@
    "name": "NO G 13/14 ECNL RL GMA"
   },
   {
-   "club": "Nationals",
-   "id": "40065155",
-   "name": "Nationals Genesee U13 2013/14 Girls Black"
-  },
-  {
    "club": "Royal Oak FC",
    "id": "50040538",
    "name": "Royal Oak FC U13 Girls Green"
   },
   {
-   "club": "East Lansing Soccer Club",
-   "id": "40066916",
-   "name": "ELSC 26-27 6th/U13 Girls - Smith"
+   "club": "Nationals",
+   "id": "40065155",
+   "name": "Nationals Genesee U13 2013/14 Girls Black"
   },
   {
    "club": "West Michigan Galaxy",
    "id": "50040532",
    "name": "WM Galaxy 2013/14G Elite"
+  },
+  {
+   "club": "East Lansing Soccer Club",
+   "id": "40066916",
+   "name": "ELSC 26-27 6th/U13 Girls - Smith"
   },
   {
    "club": "AC Grand Rapids Academy",
@@ -236,6 +236,11 @@
    "name": "Nationals Macomb G2013/14 Red"
   },
   {
+   "club": "Michigan Jaguars",
+   "id": "50040527",
+   "name": "Rochester-Romeo U13 Girls White"
+  },
+  {
    "club": "TKO Premier SC",
    "id": "50040548",
    "name": "TKO Premier SC ECNL RL G2013/14"
@@ -244,11 +249,6 @@
    "club": "Michigan Jaguars",
    "id": "40067728",
    "name": "Rochester-Romeo U13 Girls Black"
-  },
-  {
-   "club": "Michigan Jaguars",
-   "id": "50040527",
-   "name": "Rochester-Romeo U13 Girls White"
   },
   {
    "club": "BC Fire SC",
@@ -266,14 +266,14 @@
    "name": "SC-CA ECNL RL G2013/14 GMA"
   },
   {
-   "club": "Nationals",
-   "id": "50040522",
-   "name": "Macomb N1 G2013/14 Black (MI)"
-  },
-  {
    "club": "Cap City Athletic 1847",
    "id": "50021780",
    "name": "Cap City 2013/14 Girls Grey"
+  },
+  {
+   "club": "Nationals",
+   "id": "50040522",
+   "name": "Macomb N1 G2013/14 Black (MI)"
   },
   {
    "club": "Flushing Flames United",
@@ -311,14 +311,14 @@
    "name": "Great Lakes Alliance - Macomb U13 Girls"
   },
   {
-   "club": "St. Johns Soccer Club",
-   "id": "40067098",
-   "name": "SJSC REDWINGS U13 GIRLS RED"
-  },
-  {
    "club": "Royal Oak FC",
    "id": "40065354",
    "name": "Royal Oak FC U13 Girls White"
+  },
+  {
+   "club": "St. Johns Soccer Club",
+   "id": "40067098",
+   "name": "SJSC REDWINGS U13 GIRLS RED"
   },
   {
    "club": "County Western",
@@ -361,6 +361,11 @@
    "name": "MPSC U13"
   },
   {
+   "club": "Midwest United",
+   "id": "50040543",
+   "name": "Aspire 13/14"
+  },
+  {
    "club": "Okemos Soccer Club",
    "id": "40066990",
    "name": "Okemos 14G Maroon"
@@ -371,9 +376,9 @@
    "name": "Nationals Union G2013/14 Black"
   },
   {
-   "club": "Midwest United",
-   "id": "50040543",
-   "name": "Aspire 13/14"
+   "club": "PASS FC",
+   "id": "50028281",
+   "name": "PASS FC U13G White"
   },
   {
    "club": "Nationals",
@@ -384,11 +389,6 @@
    "club": "Liverpool FC-IA Michigan",
    "id": "50040526",
    "name": "Ann Arbor G 2013/14 Academy"
-  },
-  {
-   "club": "PASS FC",
-   "id": "50028281",
-   "name": "PASS FC U13G White"
   },
   {
    "club": "Detroit City FC",
@@ -406,14 +406,14 @@
    "name": "ACGR N1 G2013/14 Black (MI)"
   },
   {
-   "club": "Detroit City FC",
-   "id": "40065366",
-   "name": "Detroit City FC West U13G Rouge"
-  },
-  {
    "club": "Garden City SC",
    "id": "40065420",
    "name": "Galaxy U13G Orange"
+  },
+  {
+   "club": "Detroit City FC",
+   "id": "40065366",
+   "name": "Detroit City FC West U13G Rouge"
   },
   {
    "club": "Michigan Jaguars",

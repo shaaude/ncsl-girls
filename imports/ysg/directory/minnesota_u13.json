@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-17T17:00:33.342419+00:00",
+ "fetched_at": "2026-11-24T18:42:42.136741+00:00",
  "state": "MN",
  "state_slug": "minnesota",
  "teams": [
@@ -16,6 +16,11 @@
    "name": "N1 G2013/14"
   },
   {
+   "club": "Minnesota Thunder Academy",
+   "id": "40090223",
+   "name": "MN Thunder Academy ECNL G2013/14"
+  },
+  {
    "club": "Minnesota Rush",
    "id": "50011651",
    "name": "ECNL RL G2013/14"
@@ -26,19 +31,9 @@
    "name": "St Croix ECNL RL G2013/14"
   },
   {
-   "club": "Minnesota Thunder Academy",
-   "id": "40090223",
-   "name": "MN Thunder Academy ECNL G2013/14"
-  },
-  {
    "club": "North Surf",
    "id": "50040929",
    "name": "TCSL State G2013/14 Royal"
-  },
-  {
-   "club": "Manitou FC",
-   "id": "50011650",
-   "name": "ECNL RL G2013/14"
   },
   {
    "club": "North Star FC",
@@ -46,9 +41,19 @@
    "name": "N1 G2013/14"
   },
   {
+   "club": "Manitou FC",
+   "id": "50011650",
+   "name": "ECNL RL G2013/14"
+  },
+  {
    "club": "EPSC",
    "id": "50051864",
    "name": "TCSL Cities G2013/14 Grey"
+  },
+  {
+   "club": "Bloomington United",
+   "id": "50051857",
+   "name": "TCSL Regional G2013/14 Royal"
   },
   {
    "club": "North United SC",
@@ -64,11 +69,6 @@
    "club": "Edina Soccer Club",
    "id": "40019253",
    "name": "N1 G2013/14"
-  },
-  {
-   "club": "Bloomington United",
-   "id": "50051857",
-   "name": "TCSL Regional G2013/14 Royal"
   },
   {
    "club": "St. Croix",
@@ -106,19 +106,14 @@
    "name": "TCSL Cities G2013/14 Gold"
   },
   {
-   "club": "Manitou FC",
-   "id": "50051854",
-   "name": "TCSL State G2013/14"
+   "club": "EPSC",
+   "id": "50040931",
+   "name": "TCSL Regional G2013/14 Red"
   },
   {
-   "club": "Minneapolis United",
-   "id": "50051862",
-   "name": "TCSL State G2013/14 Copa"
-  },
-  {
-   "club": "Keliix-Intra Soccer Club",
-   "id": "50011648",
-   "name": "ECNL RL G2013/14"
+   "club": "Prior Lake SC",
+   "id": "50040922",
+   "name": "TCSL Regional G2013/14 Navy"
   },
   {
    "club": "United FC Rush",
@@ -126,14 +121,14 @@
    "name": "N1 G2013/14"
   },
   {
-   "club": "Legacy FC",
-   "id": "50040932",
-   "name": "TCSL State G2013/14 Elite"
+   "club": "Manitou FC",
+   "id": "50051854",
+   "name": "TCSL State G2013/14"
   },
   {
-   "club": "Edina Soccer Club",
-   "id": "50040923",
-   "name": "TCSL State G2013/14 Black"
+   "club": "Keliix-Intra Soccer Club",
+   "id": "50011648",
+   "name": "ECNL RL G2013/14"
   },
   {
    "club": "Salvo SC",
@@ -146,39 +141,14 @@
    "name": "ECNL RL G2013/14"
   },
   {
-   "club": "EPSC",
-   "id": "50040931",
-   "name": "TCSL Regional G2013/14 Red"
-  },
-  {
-   "club": "Prior Lake SC",
-   "id": "50040922",
-   "name": "TCSL Regional G2013/14 Navy"
-  },
-  {
-   "club": "Tonka United SA",
-   "id": "50040924",
-   "name": "TCSL State G2013/14 Academy"
-  },
-  {
-   "club": "Mahtomedi Soccer Association",
-   "id": "50051863",
-   "name": "TCSL Regional G2013/14 Zephyrs Gold"
-  },
-  {
-   "club": "North Surf",
-   "id": "50011652",
-   "name": "ECNL RL G2013/14"
-  },
-  {
    "club": "Waconia SC",
    "id": "40182498",
    "name": "TCSL Regional G2013/14"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "50040921",
-   "name": "N1 G2013/14"
+   "club": "Minneapolis United",
+   "id": "50051862",
+   "name": "TCSL State G2013/14 Copa"
   },
   {
    "club": "Fusion Soccer Club",
@@ -186,9 +156,19 @@
    "name": "TCSL Regional G2013/14 Select 2"
   },
   {
-   "club": "CC United Soccer Club",
-   "id": "50040930",
-   "name": "TCSL State G2013/14"
+   "club": "Mahtomedi Soccer Association",
+   "id": "50051863",
+   "name": "TCSL Regional G2013/14 Zephyrs Gold"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50040921",
+   "name": "N1 G2013/14"
+  },
+  {
+   "club": "Edina Soccer Club",
+   "id": "50040923",
+   "name": "TCSL State G2013/14 Black"
   },
   {
    "club": "St. Paul Blackhawks",
@@ -196,19 +176,34 @@
    "name": "TCSL Regional G2013/14 Black"
   },
   {
+   "club": "North Surf",
+   "id": "50011652",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "Tonka United SA",
+   "id": "50040924",
+   "name": "TCSL State G2013/14 Academy"
+  },
+  {
+   "club": "Legacy FC",
+   "id": "50040932",
+   "name": "TCSL State G2013/14 Elite"
+  },
+  {
    "club": "Fusion Soccer Club",
    "id": "40182353",
    "name": "TCSL Cities G2013/14 Navy 1"
   },
   {
-   "club": "Park Valley United FC",
-   "id": "40182028",
-   "name": "TCSL State G2013/14"
-  },
-  {
    "club": "Tonka United SA",
    "id": "50011645",
    "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "CC United Soccer Club",
+   "id": "50040930",
+   "name": "TCSL State G2013/14"
   },
   {
    "club": "Minneapolis United",
@@ -221,28 +216,13 @@
    "name": "ECNL RL G2013/14"
   },
   {
-   "club": "Lakeville Soccer Club",
-   "id": "50040927",
-   "name": "TCSL State G2013/14 Gold"
+   "club": "Park Valley United FC",
+   "id": "40182028",
+   "name": "TCSL State G2013/14"
   },
   {
    "club": "Minneapolis United",
    "id": "40019241",
-   "name": "N1 G2013/14"
-  },
-  {
-   "club": "East Ridge Soccer Club",
-   "id": "50051855",
-   "name": "TCSL State G2013/14 Black"
-  },
-  {
-   "club": "Shakopee SA",
-   "id": "50011653",
-   "name": "ECNL RL G2013/14"
-  },
-  {
-   "club": "Fusion Soccer Club",
-   "id": "40019213",
    "name": "N1 G2013/14"
   },
   {
@@ -251,39 +231,9 @@
    "name": "TCSL Regional G2013/14 EDT 1"
   },
   {
-   "club": "Cottage Grove United SC",
-   "id": "50051856",
-   "name": "TCSL Regional G2013/14"
-  },
-  {
-   "club": "Fusion Soccer Club",
-   "id": "50011647",
+   "club": "Shakopee SA",
+   "id": "50011653",
    "name": "ECNL RL G2013/14"
-  },
-  {
-   "club": "Cottage Grove United SC",
-   "id": "40182110",
-   "name": "TCSL State G2013/14"
-  },
-  {
-   "club": "Minnesota Thunder Academy",
-   "id": "40093287",
-   "name": "MN Thunder Academy ECNL RL G2013/14"
-  },
-  {
-   "club": "Orono Westonka Soccer Club",
-   "id": "50051858",
-   "name": "TCSL Regional G2013/14"
-  },
-  {
-   "club": "Bloomington United",
-   "id": "40182184",
-   "name": "TCSL State G2013/14 Red"
-  },
-  {
-   "club": "Park Valley United FC",
-   "id": "40182029",
-   "name": "TCSL Cities G2013/14"
   },
   {
    "club": "MapleBrook SC",
@@ -291,14 +241,59 @@
    "name": "TCSL Regional G2013/14 - Soukup"
   },
   {
+   "club": "Cottage Grove United SC",
+   "id": "50051856",
+   "name": "TCSL Regional G2013/14"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "40019213",
+   "name": "N1 G2013/14"
+  },
+  {
    "club": "Orono Westonka Soccer Club",
-   "id": "40182214",
+   "id": "50051858",
+   "name": "TCSL Regional G2013/14"
+  },
+  {
+   "club": "East Ridge Soccer Club",
+   "id": "50051855",
+   "name": "TCSL State G2013/14 Black"
+  },
+  {
+   "club": "Lakeville Soccer Club",
+   "id": "50040927",
+   "name": "TCSL State G2013/14 Gold"
+  },
+  {
+   "club": "Fusion Soccer Club",
+   "id": "50011647",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "Minnesota Thunder Academy",
+   "id": "40093287",
+   "name": "MN Thunder Academy ECNL RL G2013/14"
+  },
+  {
+   "club": "Cottage Grove United SC",
+   "id": "40182110",
+   "name": "TCSL State G2013/14"
+  },
+  {
+   "club": "Park Valley United FC",
+   "id": "40182029",
    "name": "TCSL Cities G2013/14"
   },
   {
-   "club": "Shakopee SA",
-   "id": "40181865",
-   "name": "TCSL State G2013/14"
+   "club": "Bloomington United",
+   "id": "40182184",
+   "name": "TCSL State G2013/14 Red"
+  },
+  {
+   "club": "Orono Westonka Soccer Club",
+   "id": "40182214",
+   "name": "TCSL Cities G2013/14"
   },
   {
    "club": "Salvo SC",
@@ -311,6 +306,11 @@
    "name": "TCSL Cities G2013/14 Zephyrs Navy"
   },
   {
+   "club": "Shakopee SA",
+   "id": "40181865",
+   "name": "TCSL State G2013/14"
+  },
+  {
    "club": "Wave SC",
    "id": "50051861",
    "name": "TCSL State G2013/14 Premier"
@@ -318,6 +318,11 @@
   {
    "club": "Minnesota Thunder Academy",
    "id": "50011644",
+   "name": "ECNL RL G2013/14"
+  },
+  {
+   "club": "St. Croix",
+   "id": "50051851",
    "name": "ECNL RL G2013/14"
   },
   {

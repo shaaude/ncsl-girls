@@ -1,7 +1,7 @@
 {
  "age": "GU12",
  "age_slug": "u12",
- "fetched_at": "2026-11-17T16:16:23.373553+00:00",
+ "fetched_at": "2026-11-24T17:58:18.796466+00:00",
  "state": "VA",
  "state_slug": "virginia",
  "teams": [
@@ -11,24 +11,24 @@
    "name": "VSA Pre-ECNL G2014/15 VDA West I"
   },
   {
-   "club": "Springfield SYC Soccer",
-   "id": "50019016",
-   "name": "Inspire 14/15"
-  },
-  {
    "club": "Richmond United",
    "id": "50018987",
    "name": "Richmond United Pre-ECNL G2014/15 1"
   },
   {
-   "club": "McLean YS",
-   "id": "50018982",
+   "club": "Springfield SYC Soccer",
+   "id": "50019016",
    "name": "Inspire 14/15"
   },
   {
    "club": "Arlington Soccer Association",
    "id": "50019015",
    "name": "Arlington SA 2014/15G Pre-Academy 1 (U12)"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50018982",
+   "name": "Inspire 14/15"
   },
   {
    "club": "Northern Virginia Alliance",
@@ -51,11 +51,6 @@
    "name": "Prince William Courage Pre-ECNL I G2014/15"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "40104067",
-   "name": "ARL 2014/15G White (U12)"
-  },
-  {
    "club": "Richmond United",
    "id": "50018988",
    "name": "Richmond United Pre-ECNL G2014/15 2"
@@ -64,6 +59,11 @@
    "club": "Beach FC",
    "id": "50018984",
    "name": "Beach FC G2014/15 Pre-ECNL 1"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "40104067",
+   "name": "ARL 2014/15G White (U12)"
   },
   {
    "club": "Chesapeake United SC",
@@ -76,11 +76,6 @@
    "name": "Stafford Revolution Pre-ECNL RL G2014/15"
   },
   {
-   "club": "VA Indpt Soccer Team Assoc - Travel",
-   "id": "40104246",
-   "name": "VISTA Liberty FC U12G"
-  },
-  {
    "club": "Great Falls Reston Soccer Club",
    "id": "50018990",
    "name": "GFR PreECNL RL G2014/15"
@@ -91,24 +86,9 @@
    "name": "VA Rush PL G2014/15 Pre-GA I (VA)"
   },
   {
-   "club": "Braddock Road Youth Club",
-   "id": "50018991",
-   "name": "BRYC Academy PreECNL G2014/15"
-  },
-  {
-   "club": "Virginia Soccer Association - Travel",
-   "id": "40104109",
-   "name": "VSA U12G Premier Red"
-  },
-  {
-   "club": "Gunston Soccer Club - Travel",
-   "id": "40104132",
-   "name": "GSC Girls 14/15 Premier"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "40104868",
-   "name": "ARL 2014/15G Silver (U12)"
+   "club": "VA Indpt Soccer Team Assoc - Travel",
+   "id": "40104246",
+   "name": "VISTA Liberty FC U12G"
   },
   {
    "club": "Virginia Soccer Association",
@@ -116,24 +96,24 @@
    "name": "VSA Pre-ECNL G2014/15 VDA West II"
   },
   {
-   "club": "Chesapeake United SC",
-   "id": "50019003",
-   "name": "CUSC PL G2014/15 PREMIER (VA)"
+   "club": "Braddock Road Youth Club",
+   "id": "50018991",
+   "name": "BRYC Academy PreECNL G2014/15"
   },
   {
-   "club": "Virginia Revolution SC",
-   "id": "50019019",
-   "name": "Inspire 14/15"
+   "club": "Arlington Soccer Association",
+   "id": "40104868",
+   "name": "ARL 2014/15G Silver (U12)"
   },
   {
-   "club": "Vienna Youth Soccer",
-   "id": "50018989",
-   "name": "VYS Pre-ECNL RL G2014/15 Phoenix"
+   "club": "Gunston Soccer Club - Travel",
+   "id": "40104132",
+   "name": "GSC Girls 14/15 Premier"
   },
   {
-   "club": "Blue Ridge United",
-   "id": "40104178",
-   "name": "BRU U12G Orange"
+   "club": "Virginia Soccer Association - Travel",
+   "id": "40104109",
+   "name": "VSA U12G Premier Red"
   },
   {
    "club": "New River United",
@@ -141,9 +121,19 @@
    "name": "New River United Girls Elite 2014/15"
   },
   {
+   "club": "Chesapeake United SC",
+   "id": "50019003",
+   "name": "CUSC PL G2014/15 PREMIER (VA)"
+  },
+  {
    "club": "Blue Ridge United",
    "id": "50030148",
    "name": "Blue Ridge United U12G Orange"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "50018989",
+   "name": "VYS Pre-ECNL RL G2014/15 Phoenix"
   },
   {
    "club": "Gunston Soccer Club - Travel",
@@ -151,14 +141,19 @@
    "name": "GSC Girls 14/15 Red"
   },
   {
-   "club": "Arlington Soccer Association",
-   "id": "50030156",
-   "name": "Arlington SA 2014/15G Pre-Academy 2 (U12)"
+   "club": "Virginia Revolution SC",
+   "id": "50019019",
+   "name": "Inspire 14/15"
+  },
+  {
+   "club": "Blue Ridge United",
+   "id": "40104178",
+   "name": "BRU U12G Orange"
   },
   {
    "club": "Arlington Soccer Association",
-   "id": "40104066",
-   "name": "ARL 2014/15G Red (U12)"
+   "id": "50030156",
+   "name": "Arlington SA 2014/15G Pre-Academy 2 (U12)"
   },
   {
    "club": "Beach FC",
@@ -166,39 +161,14 @@
    "name": "Beach FC G2014/15 Lloyd PL"
   },
   {
-   "club": "Blue Ridge United",
-   "id": "40104664",
-   "name": "BRU U12G Blue"
-  },
-  {
-   "club": "The St. James Football Club",
-   "id": "50019013",
-   "name": "TSJFC Inspire U12G South"
-  },
-  {
-   "club": "Virginia Valor FC",
-   "id": "50030157",
-   "name": "Virginia Valor FC Pre-ECNL G2014/15 Brave"
-  },
-  {
-   "club": "FC Richmond",
-   "id": "50030147",
-   "name": "FC Richmond U12 Mystx Elite Pre-Aspire"
-  },
-  {
    "club": "Soccer Organization Charlottesville Area",
    "id": "50019004",
    "name": "SOCA VCSL G2014/15 White"
   },
   {
-   "club": "Soccer Organization Charlottesville Area",
-   "id": "50018993",
-   "name": "SOCA Pre-ECNL G2014/15 Blue"
-  },
-  {
-   "club": "Loudoun Soccer",
-   "id": "40104083",
-   "name": "LOUD U12G Gray"
+   "club": "Blue Ridge United",
+   "id": "40104664",
+   "name": "BRU U12G Blue"
   },
   {
    "club": "Virginia Independent Soccer Team Association",
@@ -206,14 +176,39 @@
    "name": "VISTA Liberty FC U12G"
   },
   {
+   "club": "Virginia Valor FC",
+   "id": "50030157",
+   "name": "Virginia Valor FC Pre-ECNL G2014/15 Brave"
+  },
+  {
+   "club": "Soccer Organization Charlottesville Area",
+   "id": "50018993",
+   "name": "SOCA Pre-ECNL G2014/15 Blue"
+  },
+  {
+   "club": "FC Richmond",
+   "id": "50030147",
+   "name": "FC Richmond U12 Mystx Elite Pre-Aspire"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "40104066",
+   "name": "ARL 2014/15G Red (U12)"
+  },
+  {
+   "club": "The St. James Football Club",
+   "id": "50019013",
+   "name": "TSJFC Inspire U12G South"
+  },
+  {
+   "club": "Loudoun Soccer",
+   "id": "40104083",
+   "name": "LOUD U12G Gray"
+  },
+  {
    "club": "Prince William Soccer Inc",
    "id": "50019011",
    "name": "Prince William Courage Pre-ECNL II G2014/15"
-  },
-  {
-   "club": "Alexandria Soccer Association - Travel",
-   "id": "40104198",
-   "name": "ALEX 2014-15 Girls Red"
   },
   {
    "club": "Loudoun Soccer Club",
@@ -222,8 +217,28 @@
   },
   {
    "club": "Richmond United",
+   "id": "50018986",
+   "name": "RU ORANGE U12G ELITE"
+  },
+  {
+   "club": "Richmond United",
    "id": "50019008",
    "name": "Richmond United Pre-ECNL G2014/15 Orange"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50056730",
+   "name": "Arlington SA 2014/15G Blue (U12)"
+  },
+  {
+   "club": "Alexandria Soccer Association - Travel",
+   "id": "40104198",
+   "name": "ALEX 2014-15 Girls Red"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50048894",
+   "name": "Arlington SA 2014/15G Red (U12)"
   },
   {
    "club": "Loudoun Soccer",
@@ -236,19 +251,9 @@
    "name": "VSA U12G PREMIER RED"
   },
   {
-   "club": "Richmond United",
-   "id": "50018986",
-   "name": "RU ORANGE U12G ELITE"
-  },
-  {
    "club": "Vienna Youth Soccer",
    "id": "50030145",
    "name": "VYS G2014/15 Reign"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "50048894",
-   "name": "Arlington SA 2014/15G Red (U12)"
   },
   {
    "club": "Prince William Soccer Inc",
@@ -266,6 +271,11 @@
    "name": "MCLN U12 Girls White"
   },
   {
+   "club": "Virginia Reign",
+   "id": "50018992",
+   "name": "Pre ECNL RL Girls 2014-2015 Elite"
+  },
+  {
    "club": "Fredericksburg FC - Travel",
    "id": "40104668",
    "name": "FFC G12 Monaco"
@@ -276,29 +286,9 @@
    "name": "Beach FC G2014/15 Pre-ECNL 2"
   },
   {
-   "club": "Braddock Road Youth Club - Travel",
-   "id": "40104025",
-   "name": "BRYC Academy G2014/15 Blue"
-  },
-  {
    "club": "Richmond United",
    "id": "50018983",
    "name": "Richmond United Pre-ECNL G2014/15 Red"
-  },
-  {
-   "club": "Great Falls Reston Soccer Club",
-   "id": "50048921",
-   "name": "GFR U12G White"
-  },
-  {
-   "club": "Great Falls Reston SC - Travel",
-   "id": "40104175",
-   "name": "GFR U12G Green"
-  },
-  {
-   "club": "Virginia Soccer Association - Travel",
-   "id": "40104750",
-   "name": "VSA U12G Premier Royal"
   },
   {
    "club": "Virginia Valor FC",
@@ -306,14 +296,34 @@
    "name": "Virginia Valor FC Pre-ECNL G2014/15 Courage"
   },
   {
+   "club": "Braddock Road Youth Club - Travel",
+   "id": "40104025",
+   "name": "BRYC Academy G2014/15 Blue"
+  },
+  {
+   "club": "Great Falls Reston SC - Travel",
+   "id": "40104175",
+   "name": "GFR U12G Green"
+  },
+  {
+   "club": "Great Falls Reston Soccer Club",
+   "id": "50048921",
+   "name": "GFR U12G White"
+  },
+  {
+   "club": "Virginia Soccer Association - Travel",
+   "id": "40104750",
+   "name": "VSA U12G Premier Royal"
+  },
+  {
    "club": "Virginia Revolution SC",
    "id": "50048899",
    "name": "U12G Pre-GA2"
   },
   {
-   "club": "Virginia Reign",
-   "id": "50018992",
-   "name": "Pre ECNL RL Girls 2014-2015 Elite"
+   "club": "Arlington Soccer Association",
+   "id": "50056727",
+   "name": "Arlington SA 2014/15G Black (U12)"
   },
   {
    "club": "Villarreal Virginia Academy",
@@ -321,19 +331,24 @@
    "name": "Villarreal VA PSA Spirit G2014/15"
   },
   {
-   "club": "Great Falls Reston Soccer Club",
-   "id": "50018980",
-   "name": "GFR U12G EDP"
+   "club": "Loudoun Soccer Club",
+   "id": "50048898",
+   "name": "Loudoun U12G Silver"
+  },
+  {
+   "club": "Fredericksburg FC",
+   "id": "50030161",
+   "name": "Fredericksburg FC - G12 Monaco"
+  },
+  {
+   "club": "Embrey Mill Soccer Club",
+   "id": "50048904",
+   "name": "Embrey Mill Fusion G2014/15"
   },
   {
    "club": "Arlington Soccer Association",
    "id": "40104068",
    "name": "ARL 2014/15G Blue (U12)"
-  },
-  {
-   "club": "Loudoun Soccer",
-   "id": "40104166",
-   "name": "LOUD U12G Silver"
   },
   {
    "club": "NPC Futbol and Futsal",
@@ -346,29 +361,24 @@
    "name": "VALR G2014/15 White"
   },
   {
-   "club": "Loudoun Soccer Club",
-   "id": "50019017",
-   "name": "Inspire 14/15"
-  },
-  {
-   "club": "Embrey Mill Soccer Club",
-   "id": "50048904",
-   "name": "Embrey Mill Fusion G2014/15"
-  },
-  {
    "club": "Virginia United FC",
    "id": "50018995",
    "name": "VA United Pre-ECNL G2014/15"
   },
   {
-   "club": "Prince William Courage - Travel",
-   "id": "40104151",
-   "name": "PW Courage NCSL Red G2014/15"
+   "club": "Loudoun Soccer",
+   "id": "40104166",
+   "name": "LOUD U12G Silver"
   },
   {
    "club": "Beach FC",
-   "id": "40068263",
-   "name": "Beach FC G2014/15 Levensalor Wolfhounds"
+   "id": "50056054",
+   "name": "Beach FC G2014/15 Carrasco Bull Sharks"
+  },
+  {
+   "club": "Great Falls Reston Soccer Club",
+   "id": "50018980",
+   "name": "GFR U12G EDP"
   },
   {
    "club": "Richmond United",
@@ -376,24 +386,24 @@
    "name": "RU ORANGE U12G PREMIER 1"
   },
   {
-   "club": "Beach FC",
-   "id": "50019000",
-   "name": "Beach FC G2014/15 Rodman PL"
+   "club": "Prince William Courage - Travel",
+   "id": "40104151",
+   "name": "PW Courage NCSL Red G2014/15"
   },
   {
-   "club": "McLean Youth Soccer - Travel",
-   "id": "40104056",
-   "name": "MCLN U12 Girls Silver"
+   "club": "Orange Soccer Association",
+   "id": "50019005",
+   "name": "OFSC Premier 2014/15 Girls"
   },
   {
-   "club": "Gunston SC",
-   "id": "50030142",
-   "name": "GSC Girls 14/15 Premier"
+   "club": "Loudoun Soccer Club",
+   "id": "50019017",
+   "name": "Inspire 14/15"
   },
   {
-   "club": "Great Falls Reston SC - Travel",
-   "id": "40104179",
-   "name": "GFR U12G White"
+   "club": "McLean YS",
+   "id": "50030143",
+   "name": "McLean Youth Soccer U12 Girls White"
   },
   {
    "club": "Soccer Organization Charlottesville Area",
@@ -401,14 +411,49 @@
    "name": "SOCA VCSL G2014/15 Red"
   },
   {
+   "club": "Beach FC",
+   "id": "50019000",
+   "name": "Beach FC G2014/15 Rodman PL"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "50030142",
+   "name": "GSC Girls 14/15 Premier"
+  },
+  {
+   "club": "Smithfield Soccer Club",
+   "id": "50030158",
+   "name": "Smithfield TASL G2014/15 Firestorm"
+  },
+  {
+   "club": "McLean Youth Soccer - Travel",
+   "id": "40104056",
+   "name": "MCLN U12 Girls Silver"
+  },
+  {
+   "club": "Great Falls Reston SC - Travel",
+   "id": "40104179",
+   "name": "GFR U12G White"
+  },
+  {
    "club": "Arlington Soccer Association",
    "id": "40104069",
    "name": "ARL 2014/15G Black (U12)"
   },
   {
-   "club": "Orange Soccer Association",
-   "id": "50019005",
-   "name": "OFSC Premier 2014/15 Girls"
+   "club": "Fairfax Police Youth Club - Travel",
+   "id": "40104369",
+   "name": "FPYC Alphas 14/15"
+  },
+  {
+   "club": "Gunston SC",
+   "id": "50048901",
+   "name": "GSC Girls 14/15 Red"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048896",
+   "name": "RU RED U12G ELITE 1"
   },
   {
    "club": "Clarke County Soccer",
@@ -421,24 +466,9 @@
    "name": "VA Rush PL G2014/15 Rush (VA)"
   },
   {
-   "club": "Beach FC",
-   "id": "40068278",
-   "name": "Beach FC G2014/15 Lightfoot Riptides"
-  },
-  {
-   "club": "Gunston SC",
-   "id": "50048901",
-   "name": "GSC Girls 14/15 Red"
-  },
-  {
-   "club": "McLean YS",
-   "id": "50030143",
-   "name": "McLean Youth Soccer U12 Girls White"
-  },
-  {
-   "club": "Fairfax Police Youth Club - Travel",
-   "id": "40104369",
-   "name": "FPYC Alphas 14/15"
+   "club": "Alexandria SA",
+   "id": "50048910",
+   "name": "2014-15 Girls Red"
   },
   {
    "club": "Stafford Soccer Club",
@@ -446,49 +476,14 @@
    "name": "STAF Revolution U12G White"
   },
   {
-   "club": "Smithfield Soccer Club",
-   "id": "50030158",
-   "name": "Smithfield TASL G2014/15 Firestorm"
-  },
-  {
-   "club": "Fredericksburg FC",
-   "id": "50030161",
-   "name": "Fredericksburg FC - G12 Monaco"
-  },
-  {
    "club": "Richmond United",
-   "id": "50048896",
-   "name": "RU RED U12G ELITE 1"
+   "id": "50048895",
+   "name": "RU RED U12G ELITE 2"
   },
   {
    "club": "Virginia Soccer Association - Travel",
    "id": "40104714",
    "name": "VSA U12G Premier White"
-  },
-  {
-   "club": "Chesapeake SC",
-   "id": "50030150",
-   "name": "CSC PL G2014/2015 Galaxy Gold (VA)"
-  },
-  {
-   "club": "Alexandria SA",
-   "id": "50048910",
-   "name": "2014-15 Girls Red"
-  },
-  {
-   "club": "Virginia Revolution SC",
-   "id": "50048900",
-   "name": "U12G Black"
-  },
-  {
-   "club": "Virginia Revolution SC",
-   "id": "40104242",
-   "name": "VRSC U12G Black"
-  },
-  {
-   "club": "Western Branch Soccer Club",
-   "id": "40068374",
-   "name": "WBSC Valkyries 2015G"
   },
   {
    "club": "Braddock Road Youth Club",
@@ -501,39 +496,34 @@
    "name": "LMVSC Pre-ECNL G2014/15"
   },
   {
+   "club": "Blue Ridge United",
+   "id": "50056731",
+   "name": "Blue Ridge United U12G Blue"
+  },
+  {
+   "club": "Chesapeake SC",
+   "id": "50030150",
+   "name": "CSC PL G2014/2015 Galaxy Gold (VA)"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "40104242",
+   "name": "VRSC U12G Black"
+  },
+  {
+   "club": "Virginia Revolution SC",
+   "id": "50048900",
+   "name": "U12G Black"
+  },
+  {
    "club": "Beach FC",
-   "id": "50030151",
-   "name": "Beach FC G2014/15 TL Flamingo United PL"
+   "id": "40068263",
+   "name": "Beach FC G2014/15 Levensalor Wolfhounds"
   },
   {
-   "club": "Richmond United",
-   "id": "50048895",
-   "name": "RU RED U12G ELITE 2"
-  },
-  {
-   "club": "Golden Ball Soccer Academy",
-   "id": "50030149",
-   "name": "Golden Ball Soccer Academy PL Girls 2014-2016 Gold VA (U11 Girls)"
-  },
-  {
-   "club": "Beach FC",
-   "id": "40068277",
-   "name": "Beach FC G2014/15 Carrasco Bull Sharks"
-  },
-  {
-   "club": "Springfield South County Youth  - Travel",
-   "id": "40104210",
+   "club": "Springfield SYC Soccer",
+   "id": "50048922",
    "name": "SYC U12G Blue"
-  },
-  {
-   "club": "Virginia Velocity FC",
-   "id": "50030146",
-   "name": "Virginia Velocity FC U12G Galaxy"
-  },
-  {
-   "club": "Virginia Reign",
-   "id": "50030159",
-   "name": "Va Reign FC 2014-2015 Girls White TASL"
   },
   {
    "club": "Great Falls Reston Soccer Club",
@@ -541,9 +531,29 @@
    "name": "GFR U12G Green"
   },
   {
-   "club": "Loudoun Soccer Club",
-   "id": "50048898",
-   "name": "Loudoun U12G Silver"
+   "club": "Beach FC",
+   "id": "50030151",
+   "name": "Beach FC G2014/15 TL Flamingo United PL"
+  },
+  {
+   "club": "Virginia Velocity FC",
+   "id": "50030146",
+   "name": "Virginia Velocity FC U12G Galaxy"
+  },
+  {
+   "club": "Springfield South County Youth  - Travel",
+   "id": "40104210",
+   "name": "SYC U12G Blue"
+  },
+  {
+   "club": "Golden Ball Soccer Academy",
+   "id": "50030149",
+   "name": "Golden Ball Soccer Academy PL Girls 2014-2016 Gold VA (U11 Girls)"
+  },
+  {
+   "club": "Shenandoah Valley United Inc",
+   "id": "50019010",
+   "name": "SVU 2014-15 GIRLS NAVY new"
   },
   {
    "club": "Prince William Courage - Travel",
@@ -551,9 +561,9 @@
    "name": "PW Courage Pride G2014/15"
   },
   {
-   "club": "Northern Piedmont Sports Club - Travel",
-   "id": "40104681",
-   "name": "NPSC United 2014 Girls"
+   "club": "Beach FC",
+   "id": "50056055",
+   "name": "Beach FC G2014/15 Lightfoot Riptides"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -561,14 +571,29 @@
    "name": "VA Rush PL G2014/15 Pre-GA II (VA)"
   },
   {
-   "club": "Chesapeake SC",
-   "id": "40068223",
-   "name": "CSC TASL G2014/2015 Galaxy Blue (VA)"
+   "club": "Virginia Reign",
+   "id": "50030159",
+   "name": "Va Reign FC 2014-2015 Girls White TASL"
   },
   {
-   "club": "Shenandoah Valley United Inc",
-   "id": "50019010",
-   "name": "SVU 2014-15 GIRLS NAVY new"
+   "club": "Northern Piedmont Sports Club - Travel",
+   "id": "40104681",
+   "name": "NPSC United 2014 Girls"
+  },
+  {
+   "club": "Western Branch Soccer Club",
+   "id": "40068374",
+   "name": "WBSC Valkyries 2015G"
+  },
+  {
+   "club": "Virginia Valor FC",
+   "id": "50056725",
+   "name": "Virginia Valor FC G2014/15 White"
+  },
+  {
+   "club": "Vienna Youth Soccer",
+   "id": "50020079",
+   "name": "VYS Dash (NCSL G2014/15 Black)"
   },
   {
    "club": "Virginia Revolution SC",
@@ -581,19 +606,9 @@
    "name": "Augusta United VCSL G2014-15"
   },
   {
-   "club": "Vienna Youth Soccer",
-   "id": "50020079",
-   "name": "VYS Dash (NCSL G2014/15 Black)"
-  },
-  {
    "club": "McLean Youth Soccer - Travel",
    "id": "40104055",
    "name": "MCLN U12 Girls Gold"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "40111938",
-   "name": "VAR U12G Blue Marlins"
   },
   {
    "club": "Villarreal Virginia Academy",
@@ -601,9 +616,14 @@
    "name": "Villarreal VA Azul G2014/15"
   },
   {
-   "club": "VA Rush Soccer Club",
-   "id": "40068434",
-   "name": "VAR U12G Panthers"
+   "club": "Stafford Soccer",
+   "id": "50056728",
+   "name": "Stafford Revolution U12G White"
+  },
+  {
+   "club": "Chesapeake SC",
+   "id": "50056053",
+   "name": "CSC TASL G2014/2015 Galaxy Blue (VA)"
   },
   {
    "club": "Herndon Youth Soccer",
@@ -616,59 +636,9 @@
    "name": "2014-15 Girls White"
   },
   {
-   "club": "Braddock Road Youth Club",
-   "id": "50048893",
-   "name": "BRYC Academy G2014/15 White"
-  },
-  {
-   "club": "Chesapeake United SC",
-   "id": "40068345",
-   "name": "2014/2015G Wasps"
-  },
-  {
    "club": "Mclean Youth Soccer",
    "id": "50048923",
    "name": "Mclean Youth Soccer U12 Girls Gold"
-  },
-  {
-   "club": "Burke Athletic Club - Travel",
-   "id": "40104098",
-   "name": "BAC U12G Thunder"
-  },
-  {
-   "club": "Rockbridge United SC",
-   "id": "50048908",
-   "name": "RUSC VCSL G 2014-2015"
-  },
-  {
-   "club": "VA Rush Soccer Club",
-   "id": "40111937",
-   "name": "VAR U12G Blue Devils"
-  },
-  {
-   "club": "Villarreal Virginia Academy",
-   "id": "50048924",
-   "name": "Villarreal VA Verde G2014/15"
-  },
-  {
-   "club": "Western Branch Soccer Club",
-   "id": "40068403",
-   "name": "WBSC Cobras 2016G"
-  },
-  {
-   "club": "Richmond United",
-   "id": "50048902",
-   "name": "RU ORANGE U12G PREMIER 2"
-  },
-  {
-   "club": "McLean YS",
-   "id": "50048891",
-   "name": "McLean Youth Soccer U12 Girls Silver"
-  },
-  {
-   "club": "Northern Virginia Soccer Club - Travel",
-   "id": "40104877",
-   "name": "NVSC 2014/15G Blue"
   },
   {
    "club": "Baystars",
@@ -676,14 +646,94 @@
    "name": "Baystars FC TASL G2014/15 Wahoo"
   },
   {
+   "club": "VA Rush Soccer Club",
+   "id": "40111938",
+   "name": "VAR U12G Blue Marlins"
+  },
+  {
+   "club": "Villarreal Virginia Academy",
+   "id": "50048924",
+   "name": "Villarreal VA Verde G2014/15"
+  },
+  {
+   "club": "Burke Athletic Club - Travel",
+   "id": "40104098",
+   "name": "BAC U12G Thunder"
+  },
+  {
+   "club": "McLean YS",
+   "id": "50048891",
+   "name": "McLean Youth Soccer U12 Girls Silver"
+  },
+  {
+   "club": "Rockbridge United SC",
+   "id": "50048908",
+   "name": "RUSC VCSL G 2014-2015"
+  },
+  {
+   "club": "Braddock Road Youth Club",
+   "id": "50048893",
+   "name": "BRYC Academy G2014/15 White"
+  },
+  {
+   "club": "Richmond United",
+   "id": "50048902",
+   "name": "RU ORANGE U12G PREMIER 2"
+  },
+  {
+   "club": "Northern Virginia Soccer Club - Travel",
+   "id": "40104877",
+   "name": "NVSC 2014/15G Blue"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "40068434",
+   "name": "VAR U12G Panthers"
+  },
+  {
    "club": "Virginia Soccer Association",
    "id": "50048913",
    "name": "VSA U12G PREMIER ROYAL"
   },
   {
+   "club": "Western Branch Soccer Club",
+   "id": "40068403",
+   "name": "WBSC Cobras 2016G"
+  },
+  {
+   "club": "Arlington Soccer Association",
+   "id": "50056729",
+   "name": "Arlington SA 2014/15G Silver (U12)"
+  },
+  {
    "club": "Villarreal Virginia Academy",
    "id": "40066060",
    "name": "Villarreal Virginia Academy Pre ECNL RL G2014/15"
+  },
+  {
+   "club": "Virginia Soccer Association",
+   "id": "50056732",
+   "name": "VSA U12G PREMIER WHITE"
+  },
+  {
+   "club": "VA Rush Soccer Club",
+   "id": "40111937",
+   "name": "VAR U12G Blue Devils"
+  },
+  {
+   "club": "NVSC",
+   "id": "50056733",
+   "name": "NVSC 2014/15G Blue"
+  },
+  {
+   "club": "Players Soccer Academy",
+   "id": "50056726",
+   "name": "Villarreal VA PSA Spirit G2014/15"
+  },
+  {
+   "club": "Chesapeake United SC",
+   "id": "50056056",
+   "name": "2014/2015G Wasps"
   },
   {
    "club": "Braddock Road Youth Club - Travel",
@@ -696,19 +746,14 @@
    "name": "VAR U12G Eagles"
   },
   {
+   "club": "Northern Piedmont Sports Club",
+   "id": "50048918",
+   "name": "NPSC United 2014 Girls Black"
+  },
+  {
    "club": "Virginia United FC",
    "id": "50048907",
    "name": "VA United Premier G2014/15/16"
-  },
-  {
-   "club": "Nelson Express Travel Soccer",
-   "id": "50048909",
-   "name": "NETS VCSL G 2014-2016"
-  },
-  {
-   "club": "Bedford SA",
-   "id": "50019012",
-   "name": "u12 Girls"
   },
   {
    "club": "VA Rush Soccer Club",
@@ -719,6 +764,16 @@
    "club": "Beach FC",
    "id": "40068279",
    "name": "Beach FC G2014/15 DeGalleford Breakers"
+  },
+  {
+   "club": "Nelson Express Travel Soccer",
+   "id": "50048909",
+   "name": "NETS VCSL G 2014-2016"
+  },
+  {
+   "club": "Bedford SA",
+   "id": "50019012",
+   "name": "u12 Girls"
   },
   {
    "club": "Dynamo Soccer Club",
@@ -776,21 +831,6 @@
    "name": "Tri Cities United - CHSA U12G ADSL (VA)"
   },
   {
-   "club": "Northern Piedmont Sports Club",
-   "id": "50048918",
-   "name": "NPSC United 2014 Girls Black"
-  },
-  {
-   "club": "Virginia Valor FC",
-   "id": "40130810",
-   "name": "Virginia Valor FC G2014/15 White"
-  },
-  {
-   "club": "Players Soccer Academy",
-   "id": "40130876",
-   "name": "Villarreal VA PSA Spirit G2014/15"
-  },
-  {
    "club": "Charlottesville Alliance Sports Club",
    "id": "50048919",
    "name": "Charlottesville Alliance U12 ADSL G2014/15 Navy (VA)"
@@ -802,33 +842,8 @@
   },
   {
    "club": "Arlington Soccer Association",
-   "id": "40134443",
-   "name": "Arlington SA 2014/15G Black (U12)"
-  },
-  {
-   "club": "Springfield SYC Soccer",
-   "id": "50048922",
-   "name": "SYC U12G Blue"
-  },
-  {
-   "club": "Stafford Soccer",
-   "id": "40134760",
-   "name": "Stafford Revolution U12G White"
-  },
-  {
-   "club": "Arlington Soccer Association",
    "id": "40139406",
    "name": "Arlington SA 2014/15G White (U12)"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "40139407",
-   "name": "Arlington SA 2014/15G Silver (U12)"
-  },
-  {
-   "club": "Arlington Soccer Association",
-   "id": "40139411",
-   "name": "Arlington SA 2014/15G Blue (U12)"
   },
   {
    "club": "Soccer Organization Charlottesville Area",
@@ -839,21 +854,6 @@
    "club": "Clarke County Soccer League",
    "id": "40166475",
    "name": "2015G - Chicks"
-  },
-  {
-   "club": "Blue Ridge United",
-   "id": "40166506",
-   "name": "Blue Ridge United U12G Blue"
-  },
-  {
-   "club": "Virginia Soccer Association",
-   "id": "40166526",
-   "name": "VSA U12G PREMIER WHITE"
-  },
-  {
-   "club": "NVSC",
-   "id": "40166579",
-   "name": "NVSC 2014/15G Blue"
   },
   {
    "club": "Gunston SC",
@@ -904,6 +904,31 @@
    "club": "Shooting Stars",
    "id": "40202661",
    "name": "Shooting Stars"
+  },
+  {
+   "club": "Burke Athletic Club",
+   "id": "40211010",
+   "name": "2014/15G Thunder"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "40211159",
+   "name": "Loudoun U12G Gray"
+  },
+  {
+   "club": "NPC Futbol & Futsal",
+   "id": "40211228",
+   "name": "NPC FF 2014/15G (VA)"
+  },
+  {
+   "club": "Loudoun Soccer Club",
+   "id": "40211287",
+   "name": "Loudoun Soccer U12G Fox"
+  },
+  {
+   "club": "Soccerverse",
+   "id": "40211305",
+   "name": "Soccerverse"
   }
  ]
 }

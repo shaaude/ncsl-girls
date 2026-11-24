@@ -1,7 +1,7 @@
 {
  "age": "GU13",
  "age_slug": "u13",
- "fetched_at": "2026-11-17T17:24:32.356241+00:00",
+ "fetched_at": "2026-11-24T19:07:17.579676+00:00",
  "state": "OK",
  "state_slug": "oklahoma",
  "teams": [
@@ -18,7 +18,7 @@
   {
    "club": "Oklahoma Celtic",
    "id": "50016200",
-   "name": "Oklahoma Celtic GA 13/14"
+   "name": "GA 13/14"
   },
   {
    "club": "West Side Alliance SC",
@@ -37,13 +37,13 @@
   },
   {
    "club": "Oklahoma Energy FC",
-   "id": "50044440",
-   "name": "OK Energy FC ECNL RL G2013/14 FL"
+   "id": "50044429",
+   "name": "OK Energy FC G14 White N1"
   },
   {
    "club": "Oklahoma Energy FC",
-   "id": "50044429",
-   "name": "OK Energy FC G14 White N1"
+   "id": "50044440",
+   "name": "OK Energy FC ECNL RL G2013/14 FL"
   },
   {
    "club": "South Lakes SC",
@@ -66,14 +66,14 @@
    "name": "Oklahoma Celtic N1 G2013/2014 White (OK)"
   },
   {
-   "club": "Tulsa Soccer Club",
-   "id": "50016193",
-   "name": "Tulsa SC N1 G2013/14"
-  },
-  {
    "club": "West Side Alliance SC",
    "id": "50016204",
    "name": "West Side Alliance ECNL RL G2013/14"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "50016193",
+   "name": "Tulsa SC N1 G2013/14"
   },
   {
    "club": "FC Tulsa Academy",
@@ -81,19 +81,19 @@
    "name": "FC Tulsa Academy N1 G2013/14 Premier (OK)"
   },
   {
-   "club": "Broken Arrow Soccer Club",
-   "id": "50044439",
-   "name": "BASC Express ECNL RL G2013/14"
-  },
-  {
    "club": "Sporting Oklahoma",
    "id": "50044436",
    "name": "Sporting Oklahoma U13G Blue - North"
   },
   {
-   "club": "Apex FC1",
-   "id": "50044431",
-   "name": "APEX FC U13 Girls Orange"
+   "club": "Broken Arrow Soccer Club",
+   "id": "50044439",
+   "name": "BASC Express ECNL RL G2013/14"
+  },
+  {
+   "club": "NE Oklahoma FC",
+   "id": "50016195",
+   "name": "NEOFC 13/14 Girls Blue"
   },
   {
    "club": "West Side Alliance SC",
@@ -106,14 +106,9 @@
    "name": "BASC Express G2013/14 Elite"
   },
   {
-   "club": "NE Oklahoma FC",
-   "id": "50016195",
-   "name": "NEOFC 13/14 Girls Blue"
-  },
-  {
-   "club": "Oklahoma Energy FC",
-   "id": "50044432",
-   "name": "OK Energy FC G14 Black"
+   "club": "Apex FC1",
+   "id": "50044431",
+   "name": "APEX FC U13 Girls Orange"
   },
   {
    "club": "Broken Arrow Soccer Club",
@@ -121,9 +116,19 @@
    "name": "ECNL RL G2013/14"
   },
   {
+   "club": "Oklahoma Energy FC",
+   "id": "50044432",
+   "name": "OK Energy FC G14 Black"
+  },
+  {
    "club": "Stillwater SC",
    "id": "50016198",
    "name": "APEX FC U13 Girls Black"
+  },
+  {
+   "club": "NE Oklahoma FC",
+   "id": "40044956",
+   "name": "NEOFC Bartlesville 13/14 Girls Gray"
   },
   {
    "club": "Broken Arrow Soccer Club",
@@ -161,14 +166,14 @@
    "name": "Mustang Synergy 2014 G"
   },
   {
-   "club": "Claremore SC",
-   "id": "50022449",
-   "name": "Select 14G"
-  },
-  {
    "club": "Midwest City SC",
    "id": "50022451",
    "name": "Vision U13G Maroon"
+  },
+  {
+   "club": "Claremore SC",
+   "id": "50022449",
+   "name": "Select 14G"
   },
   {
    "club": "Tulsa Greenwood SC",
@@ -204,11 +209,6 @@
    "club": "Ft Gibson SC",
    "id": "50022450",
    "name": "FGSC 1824 U13G"
-  },
-  {
-   "club": "NE Oklahoma FC",
-   "id": "40044956",
-   "name": "NEOFC Bartlesville 13/14 Girls Gray"
   },
   {
    "club": "FC Tulsa Academy",
@@ -274,6 +274,46 @@
    "club": "Oklahoma Energy FC",
    "id": "50053047",
    "name": "OK Energy FC ECNL RL G2013/14 TX"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "40209669",
+   "name": "Tulsa SC GA G2013/14"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "40209681",
+   "name": "Tulsa SC Inspire II G2014/15"
+  },
+  {
+   "club": "Tulsa Soccer Club",
+   "id": "40209683",
+   "name": "Tulsa SC OPL G2013/14"
+  },
+  {
+   "club": "NEOFC Bartlesville",
+   "id": "40209769",
+   "name": "2014 Gray"
+  },
+  {
+   "club": "West Side Alliance SC",
+   "id": "40209800",
+   "name": "West Side Alliance Pre-ECNL G2014/15 Navy"
+  },
+  {
+   "club": "APEX FC",
+   "id": "40209817",
+   "name": "U13 Girls Orange"
+  },
+  {
+   "club": "Sporting OK",
+   "id": "40209830",
+   "name": "Sporting Oklahoma U13G Blue - North"
+  },
+  {
+   "club": "Broken Arrow Soccer Club",
+   "id": "40209840",
+   "name": "BASC Express G2013/14 C"
   }
  ]
 }

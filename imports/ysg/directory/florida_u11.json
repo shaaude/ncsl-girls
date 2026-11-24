@@ -1,7 +1,7 @@
 {
  "age": "GU11",
  "age_slug": "u11",
- "fetched_at": "2026-11-17T16:36:23.426580+00:00",
+ "fetched_at": "2026-11-24T18:18:18.828953+00:00",
  "state": "FL",
  "state_slug": "florida",
  "teams": [
@@ -51,14 +51,14 @@
    "name": "NUFC U11 Girls White (FL)"
   },
   {
-   "club": "Florida Premier FC",
-   "id": "50026879",
-   "name": "SWFL PRE ECNL G2015/16"
-  },
-  {
    "club": "Wellington SC",
    "id": "50035912",
    "name": "WSC SEFPL G2015/16 Elite"
+  },
+  {
+   "club": "Florida Premier FC",
+   "id": "50026879",
+   "name": "SWFL PRE ECNL G2015/16"
   },
   {
    "club": "South Miami United FC",
@@ -81,6 +81,11 @@
    "name": "SEFPL G2015/16 White"
   },
   {
+   "club": "Palm Beach Kicks",
+   "id": "50006516",
+   "name": "PBG G15/16 PRE GA DEV 2"
+  },
+  {
    "club": "Seminole United",
    "id": "50006496",
    "name": "U11 Pre-ECNL 15/16"
@@ -91,19 +96,14 @@
    "name": "SEFPL G2015/16 Premier I"
   },
   {
-   "club": "Sporting SA",
-   "id": "50035922",
-   "name": "BSO CFPL G2015/16"
-  },
-  {
-   "club": "Florida Celtic",
-   "id": "50026884",
-   "name": "WFPL G2015/16 Academy"
-  },
-  {
    "club": "West Florida Flames",
    "id": "50006504",
    "name": "U11G_15/16 Pre-GA"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50035922",
+   "name": "BSO CFPL G2015/16"
   },
   {
    "club": "Athletic Club Florida",
@@ -111,14 +111,14 @@
    "name": "Pre-ECNL G2015/16"
   },
   {
-   "club": "IdeaSport Soccer Academy",
-   "id": "50023549",
-   "name": "IdeaSport U11 G Pro"
+   "club": "Florida Celtic",
+   "id": "50026884",
+   "name": "WFPL G2015/16 Academy"
   },
   {
-   "club": "Palm Beach Kicks",
-   "id": "50006516",
-   "name": "PBG G15/16 PRE GA DEV 2"
+   "club": "West Pines United FC",
+   "id": "50006519",
+   "name": "West Pines United U11G Elite"
   },
   {
    "club": "Athletic Club Florida",
@@ -126,9 +126,14 @@
    "name": "Miami Pre-ECNL G2015/16"
   },
   {
-   "club": "Weston FC",
-   "id": "50035910",
-   "name": "WFC SEFPL G2015/16 Black"
+   "club": "Sunrise Soccer Club",
+   "id": "50055047",
+   "name": "ACF Sunrise Pre-ECNL G2015/16"
+  },
+  {
+   "club": "North Manatee Soccer",
+   "id": "50026883",
+   "name": "Mutiny SC WFPL G15/16 Red U11"
   },
   {
    "club": "Cape Coral Soccer",
@@ -141,44 +146,9 @@
    "name": "FPFC WFPL G2015/16 PRE-ECNL II"
   },
   {
-   "club": "West Pines United FC",
-   "id": "50006519",
-   "name": "West Pines United U11G Elite"
-  },
-  {
    "club": "Weston FC",
    "id": "50035911",
    "name": "WFC SEFPL G2015/16 Elite"
-  },
-  {
-   "club": "North Manatee Soccer",
-   "id": "50026883",
-   "name": "Mutiny SC WFPL G15/16 Red U11"
-  },
-  {
-   "club": "Team Boca",
-   "id": "40095822",
-   "name": "Pre-ECNL G2015/16"
-  },
-  {
-   "club": "Sporting SA",
-   "id": "50035931",
-   "name": "JAX NFPL G2015/16 ECNL DEV 2"
-  },
-  {
-   "club": "Sporting SA",
-   "id": "50035927",
-   "name": "JAX NFPL G2015/16 N1 DEV"
-  },
-  {
-   "club": "Florida Premier FC",
-   "id": "50006497",
-   "name": "FHPFC Fishhawk WFPL G2015/16 Blue"
-  },
-  {
-   "club": "Miami Shores Soccer Club",
-   "id": "50006514",
-   "name": "SHORES U11G FGL (FL)"
   },
   {
    "club": "Space Coast United",
@@ -186,9 +156,39 @@
    "name": "SCU G2015/16 Pre-Girls Academy"
   },
   {
-   "club": "Florida Tropics Academy",
-   "id": "50026885",
-   "name": "U11G 2015/16 Elite Tropics"
+   "club": "Team Boca",
+   "id": "40095822",
+   "name": "Pre-ECNL G2015/16"
+  },
+  {
+   "club": "Florida Premier FC",
+   "id": "50006497",
+   "name": "FHPFC Fishhawk WFPL G2015/16 Blue"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50035927",
+   "name": "JAX NFPL G2015/16 N1 DEV"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50035931",
+   "name": "JAX NFPL G2015/16 ECNL DEV 2"
+  },
+  {
+   "club": "Miami Shores Soccer Club",
+   "id": "50006514",
+   "name": "SHORES U11G FGL (FL)"
+  },
+  {
+   "club": "IdeaSport Soccer Academy",
+   "id": "50023549",
+   "name": "IdeaSport U11 G Pro"
+  },
+  {
+   "club": "Central Brevard Soccer",
+   "id": "50023547",
+   "name": "CBS CFPL 2015/16G Navy"
   },
   {
    "club": "Florida Kraze Krush",
@@ -201,9 +201,9 @@
    "name": "Jupiter United U11 Girls Elite"
   },
   {
-   "club": "Central Brevard Soccer",
-   "id": "50023547",
-   "name": "CBS CFPL 2015/16G Navy"
+   "club": "Florida Tropics Academy",
+   "id": "50026885",
+   "name": "U11G 2015/16 Elite Tropics"
   },
   {
    "club": "Florida Premier FC",
@@ -211,24 +211,14 @@
    "name": "PRE-ECNL G2015/16"
   },
   {
-   "club": "Davie United SC",
-   "id": "50006488",
-   "name": "SEFPL G2015/16 Blue"
-  },
-  {
-   "club": "Athletum SC",
-   "id": "50035939",
-   "name": "2016G Bonansea (Cutler Bay)"
-  },
-  {
    "club": "South Florida Football Academy",
    "id": "50026893",
    "name": "SFFA Pre-ECNL G2015/16"
   },
   {
-   "club": "South Orlando SC",
-   "id": "50006511",
-   "name": "South Orlando United 2015/2016 G Black"
+   "club": "Davie United SC",
+   "id": "50006488",
+   "name": "SEFPL G2015/16 Blue"
   },
   {
    "club": "Florida Premier FC",
@@ -236,19 +226,14 @@
    "name": "FPFC WFPL G2015/16 WC REGIONAL"
   },
   {
-   "club": "Greater Boca YSA",
-   "id": "50035937",
-   "name": "Boca United Girls 2015-16 Pre-Academy"
+   "club": "South Orlando SC",
+   "id": "50006511",
+   "name": "South Orlando United 2015/2016 G Black"
   },
   {
-   "club": "Jacksonville FC",
-   "id": "50035929",
-   "name": "JFC NFPL G2015/16 Pre ECNL RL"
-  },
-  {
-   "club": "Orlando City Soccer School Lake Nona",
-   "id": "50035924",
-   "name": "OPLN CFPL G2015/16 Purple (FL)"
+   "club": "Athletum SC",
+   "id": "50035939",
+   "name": "2016G Bonansea (Cutler Bay)"
   },
   {
    "club": "Florida Premier FC",
@@ -256,14 +241,44 @@
    "name": "FPFC WFPL G2015/16 CP REGIONAL"
   },
   {
+   "club": "Orlando City Soccer School Lake Nona",
+   "id": "50035924",
+   "name": "OPLN CFPL G2015/16 Purple (FL)"
+  },
+  {
+   "club": "Tampa Dynamo FC",
+   "id": "50050751",
+   "name": "WFPL G2015/16 Red U11"
+  },
+  {
+   "club": "Greater Boca YSA",
+   "id": "50035937",
+   "name": "Boca United Girls 2015-16 Pre-Academy"
+  },
+  {
    "club": "Mako Soccer Club",
    "id": "50006507",
    "name": "SEFPL G2015/2016 GREEN"
   },
   {
+   "club": "Jacksonville FC",
+   "id": "50035929",
+   "name": "JFC NFPL G2015/16 Pre ECNL RL"
+  },
+  {
    "club": "Sporting SA",
    "id": "40095803",
    "name": "JAX Pre-ECNL G2016/17"
+  },
+  {
+   "club": "Weston FC",
+   "id": "50035910",
+   "name": "WFC SEFPL G2015/16 Black"
+  },
+  {
+   "club": "Tampa Bay United",
+   "id": "50006531",
+   "name": "Tampa Bay United Pre-ECNL G2015/16"
   },
   {
    "club": "South Miami United FC",
@@ -274,16 +289,6 @@
    "club": "South Miami United FC",
    "id": "50006521",
    "name": "U11G 2015/16 White BR"
-  },
-  {
-   "club": "Tampa Bay United",
-   "id": "50006531",
-   "name": "Tampa Bay United Pre-ECNL G2015/16"
-  },
-  {
-   "club": "Tampa Dynamo FC",
-   "id": "50050751",
-   "name": "WFPL G2015/16 Red U11"
   },
   {
    "club": "Titusville Soccer Club",
@@ -297,28 +302,8 @@
   },
   {
    "club": "AC Florida West",
-   "id": "50006499",
-   "name": "WFPL Naples Campus G2015/16"
-  },
-  {
-   "club": "Clay County SC United Soccer Alliance",
-   "id": "50035942",
-   "name": "U11 USA Pre DPL GIRLS"
-  },
-  {
-   "club": "AC Florida West",
    "id": "50006526",
    "name": "AC Florida West Pre-ECNL G2015/16"
-  },
-  {
-   "club": "Cape Coral Soccer",
-   "id": "50026891",
-   "name": "CCSA Cyclones 26/27 (2015/U11G) Blue"
-  },
-  {
-   "club": "Stars Academy",
-   "id": "40056204",
-   "name": "9v9G Black"
   },
   {
    "club": "Brevard Beachside Soccer Club Inc",
@@ -326,19 +311,29 @@
    "name": "Brevard Beachside Impact G2015/16"
   },
   {
+   "club": "AC Florida West",
+   "id": "50006499",
+   "name": "WFPL Naples Campus G2015/16"
+  },
+  {
+   "club": "Stars Academy",
+   "id": "40056204",
+   "name": "9v9G Black"
+  },
+  {
    "club": "Athletic Club Florida",
    "id": "50026882",
    "name": "ACF Miami SEFPL G2015/16"
   },
   {
-   "club": "North Port Fusion FC",
-   "id": "50050757",
-   "name": "Fusion G2015/16"
+   "club": "Clay County SC United Soccer Alliance",
+   "id": "50035942",
+   "name": "U11 USA Pre DPL GIRLS"
   },
   {
-   "club": "South Miami United FC",
-   "id": "50006522",
-   "name": "U11G 2015/16 White FH"
+   "club": "Cape Coral Soccer",
+   "id": "50026891",
+   "name": "CCSA Cyclones 26/27 (2015/U11G) Blue"
   },
   {
    "club": "FC America",
@@ -346,14 +341,9 @@
    "name": "CFPL G2015/16 Purple - U11G Purple"
   },
   {
-   "club": "Tampa Knights",
-   "id": "50050749",
-   "name": "TKFC WFPL G2015/2016 Blue U11"
-  },
-  {
-   "club": "FC Sarasota Inc",
-   "id": "50050754",
-   "name": "FCS WFPL G2015/2016 Premier U11"
+   "club": "South Miami United FC",
+   "id": "50006522",
+   "name": "U11G 2015/16 White FH"
   },
   {
    "club": "Sol SC Florida",
@@ -361,14 +351,19 @@
    "name": "U11G Navy 1"
   },
   {
-   "club": "San Carlos Park Scorpion SC",
-   "id": "40056132",
-   "name": "San Carlos Park Scorpion SC U11G BLACK"
-  },
-  {
    "club": "South Dade United",
    "id": "40056388",
    "name": "MK PB Knights U11G"
+  },
+  {
+   "club": "Tampa Knights",
+   "id": "50050749",
+   "name": "TKFC WFPL G2015/2016 Blue U11"
+  },
+  {
+   "club": "San Carlos Park Scorpion SC",
+   "id": "40056132",
+   "name": "San Carlos Park Scorpion SC U11G BLACK"
   },
   {
    "club": "Naples Elite Soccer Club",
@@ -376,14 +371,14 @@
    "name": "NESC SEFPL G2015/16 Premier"
   },
   {
-   "club": "Southern Homestead Soccer Academy",
-   "id": "50054049",
-   "name": "2016 Southern Homestead Girls"
+   "club": "North Port Fusion FC",
+   "id": "50050757",
+   "name": "Fusion G2015/16"
   },
   {
-   "club": "Florida Tropics Academy",
-   "id": "40095826",
-   "name": "Pre-ECNL G2015/16"
+   "club": "FC Sarasota Inc",
+   "id": "50050754",
+   "name": "FCS WFPL G2015/2016 Premier U11"
   },
   {
    "club": "Fort Lauderdale Select FC",
@@ -391,14 +386,29 @@
    "name": "Fort Lauderdale FC 15/16 Girls"
   },
   {
+   "club": "Florida Tropics Academy",
+   "id": "40095826",
+   "name": "Pre-ECNL G2015/16"
+  },
+  {
+   "club": "FC Tampa Rangers",
+   "id": "50050756",
+   "name": "WFPL G2015/16 Lady Rangers"
+  },
+  {
+   "club": "Southern Homestead Soccer Academy",
+   "id": "50054049",
+   "name": "2016 Southern Homestead Girls"
+  },
+  {
+   "club": "Jupiter United Soccer",
+   "id": "40056305",
+   "name": "Jupiter United U11 Girls Premier"
+  },
+  {
    "club": "South Tampa Gold",
    "id": "50050759",
    "name": "2015/16 Girls"
-  },
-  {
-   "club": "Fort Lauderdale United FC",
-   "id": "40095805",
-   "name": "Pre-ECNL G2015/16"
   },
   {
    "club": "Parkland Soccer Club",
@@ -406,14 +416,9 @@
    "name": "SEFPL G2015/16 Pre-N1"
   },
   {
-   "club": "Miami Premier Soccer",
-   "id": "50035938",
-   "name": "MPS2015/16"
-  },
-  {
-   "club": "Jupiter United Soccer",
-   "id": "40056305",
-   "name": "Jupiter United U11 Girls Premier"
+   "club": "Fort Lauderdale United FC",
+   "id": "40095805",
+   "name": "Pre-ECNL G2015/16"
   },
   {
    "club": "Tampa Bay United",
@@ -426,34 +431,9 @@
    "name": "ACSC NFPL G2015/16 Red"
   },
   {
-   "club": "FC Tampa Rangers",
-   "id": "50050756",
-   "name": "WFPL G2015/16 Lady Rangers"
-  },
-  {
-   "club": "North Manatee Soccer",
-   "id": "50050750",
-   "name": "Mutiny SC WFPL G15/16 Black U11"
-  },
-  {
-   "club": "Inter-United Soccer Club",
-   "id": "40056376",
-   "name": "Inter-United U11 Girls"
-  },
-  {
-   "club": "Seminole United",
-   "id": "50006498",
-   "name": "U11 Pre-ECNL RL 15/16"
-  },
-  {
-   "club": "Plant City FC",
-   "id": "50006510",
-   "name": "PCFC WFPL G2015/16 Premier (U11)"
-  },
-  {
-   "club": "West Pines United FC",
-   "id": "50006518",
-   "name": "Florida Fire West Pines United U11 Girls"
+   "club": "Miami Premier Soccer",
+   "id": "50035938",
+   "name": "MPS2015/16"
   },
   {
    "club": "Naples Elite Soccer Club",
@@ -461,29 +441,39 @@
    "name": "NESC SEFPL G2015/16 Select"
   },
   {
-   "club": "Jacksonville FC",
-   "id": "50006503",
-   "name": "JFC NFPL G2015/16 Storm Blue"
+   "club": "North Manatee Soccer",
+   "id": "50050750",
+   "name": "Mutiny SC WFPL G15/16 Black U11"
   },
   {
-   "club": "Miami Springs Soccer",
-   "id": "40056365",
-   "name": "MSVG 2015/16 Girls"
+   "club": "Seminole United",
+   "id": "50006498",
+   "name": "U11 Pre-ECNL RL 15/16"
   },
   {
-   "club": "AC Florida West",
-   "id": "40052151",
-   "name": "WFPL Fort Myers Campus G2015/16"
+   "club": "Miramar Optimist",
+   "id": "50055046",
+   "name": "Fort Lauderdale United FC G2015/16"
   },
   {
-   "club": "Sporting SA",
-   "id": "50035926",
-   "name": "OAK NFPL G2015/16 ELITE"
+   "club": "Inter-United Soccer Club",
+   "id": "50056272",
+   "name": "Inter-United U11 Girls"
   },
   {
-   "club": "Greater Boca YSA",
-   "id": "50035934",
-   "name": "SFFA G2015/16 Pre N1"
+   "club": "West Pines United FC",
+   "id": "50006518",
+   "name": "Florida Fire West Pines United U11 Girls"
+  },
+  {
+   "club": "Wellington SC",
+   "id": "40052007",
+   "name": "WSC SEFPL G2015/16 Premier"
+  },
+  {
+   "club": "Plant City FC",
+   "id": "50006510",
+   "name": "PCFC WFPL G2015/16 Premier (U11)"
   },
   {
    "club": "West Florida Flames",
@@ -491,9 +481,44 @@
    "name": "U11G_15/16 WFPL Brandon"
   },
   {
-   "club": "Key Biscayne SC",
-   "id": "50026889",
-   "name": "KBSC G-Elite 2015/16"
+   "club": "W&H America",
+   "id": "40056328",
+   "name": "U11 2015/16G Adrenalina"
+  },
+  {
+   "club": "Miami Springs Soccer",
+   "id": "40056365",
+   "name": "MSVG 2015/16 Girls"
+  },
+  {
+   "club": "Sporting SA",
+   "id": "50035926",
+   "name": "OAK NFPL G2015/16 ELITE"
+  },
+  {
+   "club": "Jacksonville FC",
+   "id": "50006503",
+   "name": "JFC NFPL G2015/16 Storm Blue"
+  },
+  {
+   "club": "Cooper City Optimist",
+   "id": "50006517",
+   "name": "CCO Cobras U11G"
+  },
+  {
+   "club": "SABR - Team Boca",
+   "id": "50035915",
+   "name": "SEFPL G2015/16 Navy"
+  },
+  {
+   "club": "Greater Boca YSA",
+   "id": "50035934",
+   "name": "SFFA G2015/16 Pre N1"
+  },
+  {
+   "club": "Royal Palm Beach Strikers",
+   "id": "50026888",
+   "name": "Royal Palm Beach Strikers U11G Black"
   },
   {
    "club": "ACF Sunrise",
@@ -506,24 +531,14 @@
    "name": "PVSC - U10G PDA - Zupa/Ramirez"
   },
   {
-   "club": "Davie United SC",
-   "id": "50026880",
-   "name": "SEFPL G2015/16 Grey"
-  },
-  {
-   "club": "Cooper City Optimist",
-   "id": "50006517",
-   "name": "CCO Cobras U11G"
-  },
-  {
-   "club": "W&H America",
-   "id": "40056328",
-   "name": "U11 2015/16G Adrenalina"
-  },
-  {
    "club": "St Pete Raiders",
    "id": "40052135",
    "name": "SPR WFPL G2015/16 (U11) Elite Fuentes"
+  },
+  {
+   "club": "Key Biscayne SC",
+   "id": "50026889",
+   "name": "KBSC G-Elite 2015/16"
   },
   {
    "club": "Rise FC",
@@ -531,29 +546,14 @@
    "name": "Rise FC U11 Girls"
   },
   {
-   "club": "SABR - Team Boca",
-   "id": "50035915",
-   "name": "SEFPL G2015/16 Navy"
+   "club": "AC Florida West",
+   "id": "40052151",
+   "name": "WFPL Fort Myers Campus G2015/16"
   },
   {
-   "club": "Miramar Optimist",
-   "id": "40056281",
-   "name": "Fort Lauderdale United FC G2015/16"
-  },
-  {
-   "club": "Parkland Soccer Club",
-   "id": "50035914",
-   "name": "SEFPL G2015/16 Elite"
-  },
-  {
-   "club": "Royal Palm Beach Strikers",
-   "id": "50026888",
-   "name": "Royal Palm Beach Strikers U11G Black"
-  },
-  {
-   "club": "Nature Coast Soccer Club, Inc.",
-   "id": "40052061",
-   "name": "NCSC WFPL G2015"
+   "club": "Davie United SC",
+   "id": "50026880",
+   "name": "SEFPL G2015/16 Grey"
   },
   {
    "club": "Brevard SA",
@@ -561,14 +561,19 @@
    "name": "CFPL G2015/16"
   },
   {
-   "club": "Jacksonville FC",
-   "id": "50023548",
-   "name": "JFC NFPL G2015/16 Elite Blue"
+   "club": "Nature Coast Soccer Club, Inc.",
+   "id": "40052061",
+   "name": "NCSC WFPL G2015"
   },
   {
    "club": "Amelia Island YSO",
    "id": "50035930",
    "name": "NUFC NFPL G2015/16"
+  },
+  {
+   "club": "Jacksonville FC",
+   "id": "50023548",
+   "name": "JFC NFPL G2015/16 Elite Blue"
   },
   {
    "club": "Sporting SA",
@@ -581,34 +586,9 @@
    "name": "ASG U11 Girls"
   },
   {
-   "club": "Florida Premier FC",
-   "id": "50035917",
-   "name": "FHPFC Fishhawk WFPL G2015/16 White"
-  },
-  {
    "club": "Indian River Soccer Association",
    "id": "50035935",
    "name": "IRSA U11 Girls BLUE"
-  },
-  {
-   "club": "St Pete Raiders",
-   "id": "40052132",
-   "name": "SPR WFPL G2015/16 (U11) Premier Nociti"
-  },
-  {
-   "club": "Weston Select Soccer Club",
-   "id": "50035916",
-   "name": "SEFPL G 2015/16 Akers"
-  },
-  {
-   "club": "Athletum SC",
-   "id": "50006523",
-   "name": "2016G Lehmann (Doral)"
-  },
-  {
-   "club": "St. Petersburg Football Club",
-   "id": "40052169",
-   "name": "WFPL G2015/16 SPFC"
   },
   {
    "club": "Florida Celtic",
@@ -616,14 +596,34 @@
    "name": "WFPL G2015/16 White"
   },
   {
-   "club": "Jacksonville FC",
-   "id": "50035928",
-   "name": "JFC NFPL G2015/16 Elite White"
+   "club": "Florida Premier FC",
+   "id": "50035917",
+   "name": "FHPFC Fishhawk WFPL G2015/16 White"
   },
   {
-   "club": "Miami Breakers FC",
-   "id": "50035941",
-   "name": "MBFC U-11G BLACK"
+   "club": "Parkland Soccer Club",
+   "id": "50035914",
+   "name": "SEFPL G2015/16 Elite"
+  },
+  {
+   "club": "St Pete Raiders",
+   "id": "40052132",
+   "name": "SPR WFPL G2015/16 (U11) Premier Nociti"
+  },
+  {
+   "club": "St. Petersburg Football Club",
+   "id": "40052169",
+   "name": "WFPL G2015/16 SPFC"
+  },
+  {
+   "club": "South Kendall Sunblazer Soccer Club",
+   "id": "40056407",
+   "name": "SK Sunblazer Girls 16"
+  },
+  {
+   "club": "Athletum SC",
+   "id": "50006523",
+   "name": "2016G Lehmann (Doral)"
   },
   {
    "club": "Charlotte County Soccer Federation",
@@ -631,9 +631,24 @@
    "name": "CCSF G2015/16"
   },
   {
+   "club": "Weston Select Soccer Club",
+   "id": "50035916",
+   "name": "SEFPL G 2015/16 Akers"
+  },
+  {
+   "club": "Jacksonville FC",
+   "id": "50035928",
+   "name": "JFC NFPL G2015/16 Elite White"
+  },
+  {
    "club": "Florida Premier FC",
    "id": "50006502",
    "name": "FPFC WFPL G2015/16 TRY REGIONAL"
+  },
+  {
+   "club": "Miami Breakers FC",
+   "id": "50035941",
+   "name": "MBFC U-11G BLACK"
   },
   {
    "club": "Chargers SC LWR",
@@ -656,9 +671,9 @@
    "name": "Team Boca Pre-ECNL G2015/16"
   },
   {
-   "club": "Wellington SC",
-   "id": "40052007",
-   "name": "WSC SEFPL G2015/16 Premier"
+   "club": "Iconz Experience",
+   "id": "50006506",
+   "name": "Iconz Elite U11 PRO"
   },
   {
    "club": "Pinellas County United SC",
@@ -681,9 +696,9 @@
    "name": "MSVG U11 Girls Blue"
   },
   {
-   "club": "South Kendall Sunblazer Soccer Club",
-   "id": "40056407",
-   "name": "SK Sunblazer Girls 16"
+   "club": "Iconz Experience",
+   "id": "40076664",
+   "name": "Iconz Elite U11"
   },
   {
    "club": "Jacksonville FC",
@@ -701,19 +716,29 @@
    "name": "SWFL PREMIER FC PRE-ECNL G2015/16"
   },
   {
+   "club": "Good Lad Soccer",
+   "id": "40112287",
+   "name": "GLS 2015/2016G"
+  },
+  {
    "club": "Clay County SC United Soccer Alliance",
    "id": "40175472",
    "name": "U11 USA GOLDEN ISLES GIRLS WHITE"
   },
   {
-   "club": "Sunrise Soccer Club",
-   "id": "40178085",
-   "name": "ACF Sunrise Pre-ECNL G2015/16"
-  },
-  {
    "club": "Sporting Tallahassee Soccer Academy",
    "id": "40179386",
    "name": "2015/16 Girls Elite"
+  },
+  {
+   "club": "Sporting Jax",
+   "id": "40205532",
+   "name": "JAX NFPL G2015/16 ECNL DEV 2"
+  },
+  {
+   "club": "Sporting Jax",
+   "id": "40205533",
+   "name": "Sporting Oak NFPL G2015/16 Elite"
   }
  ]
 }

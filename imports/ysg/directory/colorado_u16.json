@@ -1,10 +1,15 @@
 {
  "age": "GU16",
  "age_slug": "u16",
- "fetched_at": "2026-11-17T16:31:43.380261+00:00",
+ "fetched_at": "2026-11-24T18:13:38.956100+00:00",
  "state": "CO",
  "state_slug": "colorado",
  "teams": [
+  {
+   "club": "Colorado United",
+   "id": "40070958",
+   "name": "GA10/11"
+  },
   {
    "club": "Real Colorado",
    "id": "50005785",
@@ -26,14 +31,9 @@
    "name": "ECNL G2010/11"
   },
   {
-   "club": "ALBION SC Boulder County",
-   "id": "50025022",
-   "name": "Boulder County GU16 DPL"
-  },
-  {
-   "club": "Colorado United",
-   "id": "50035322",
-   "name": "2010/11G Red"
+   "club": "Broomfield Soccer Club",
+   "id": "40070581",
+   "name": "GA 10/11"
   },
   {
    "club": "Colorado EDGE",
@@ -41,14 +41,9 @@
    "name": "Colorado Edge ECNL RL G2010/2011"
   },
   {
-   "club": "Colorado Storm",
-   "id": "50005791",
-   "name": "Colorado Storm North ECNL RL G2010/11"
-  },
-  {
-   "club": "Westy Soccer Club",
-   "id": "50005775",
-   "name": "Westy SC N1 G2010/11 Elite (CO)"
+   "club": "Colorado United",
+   "id": "50035322",
+   "name": "2010/11G Red"
   },
   {
    "club": "Arsenal Colorado",
@@ -57,18 +52,28 @@
   },
   {
    "club": "ALBION SC Boulder County",
-   "id": "50005781",
-   "name": "Boulder County Aspire 10/11"
+   "id": "50025022",
+   "name": "Boulder County GU16 DPL"
+  },
+  {
+   "club": "Westy Soccer Club",
+   "id": "50005775",
+   "name": "Westy SC N1 G2010/11 Elite (CO)"
   },
   {
    "club": "Colorado Storm",
-   "id": "50035317",
-   "name": "CR U16G DPL"
+   "id": "50005791",
+   "name": "Colorado Storm North ECNL RL G2010/11"
   },
   {
    "club": "Vail Valley SC",
    "id": "40019294",
    "name": "VVSC 2010 Girls Navy"
+  },
+  {
+   "club": "ALBION SC Boulder County",
+   "id": "50005781",
+   "name": "Boulder County Aspire 10/11"
   },
   {
    "club": "Real Colorado",
@@ -81,14 +86,9 @@
    "name": "Aspire 10/11"
   },
   {
-   "club": "ALBION SC Denver",
-   "id": "50005776",
-   "name": "Aspire 10/11"
-  },
-  {
-   "club": "Colorado Storm",
-   "id": "50005789",
-   "name": "Colorado Storm South ECNL RL G2010/11"
+   "club": "Real Colorado",
+   "id": "40019388",
+   "name": "U16 Girls Red"
   },
   {
    "club": "Pride SC",
@@ -96,14 +96,44 @@
    "name": "Pride SC ECNL RL G2010/11"
   },
   {
+   "club": "Colorado Storm",
+   "id": "50005789",
+   "name": "Colorado Storm South ECNL RL G2010/11"
+  },
+  {
    "club": "Colorado Rush",
    "id": "50005787",
    "name": "ECNL RL G2010/11"
   },
   {
+   "club": "ALBION SC Denver",
+   "id": "50005776",
+   "name": "Aspire 10/11"
+  },
+  {
+   "club": "Colorado Storm",
+   "id": "50035317",
+   "name": "CR U16G DPL"
+  },
+  {
    "club": "CO Elevation FC",
    "id": "50005782",
    "name": "Aspire 10/11"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "40019366",
+   "name": "Colorado Rush COS N1 G2010/11 (CO)"
+  },
+  {
+   "club": "Arsenal Colorado",
+   "id": "50035319",
+   "name": "N1 G2010/11 Gold (CO)"
+  },
+  {
+   "club": "Pride SC",
+   "id": "50035321",
+   "name": "Pride SC N1 G2010/11 Copa CO"
   },
   {
    "club": "CO Elevation FC",
@@ -116,24 +146,14 @@
    "name": "Colorado Rush North U16G DPL"
   },
   {
-   "club": "Albion SC Denver",
-   "id": "40008253",
-   "name": "GU16 DPL"
-  },
-  {
-   "club": "Arsenal Colorado",
-   "id": "50035319",
-   "name": "N1 G2010/11 Gold (CO)"
-  },
-  {
-   "club": "Denver Kickers Sport Club",
-   "id": "50025021",
-   "name": "U16G DPL"
+   "club": "Grand Junction SC",
+   "id": "50005780",
+   "name": "Aspire 10/11"
   },
   {
    "club": "Colorado Rush",
-   "id": "50035320",
-   "name": "Colorado Rush North N1 G2010/11 (CO)"
+   "id": "50035326",
+   "name": "Rush North U16G White"
   },
   {
    "club": "Colorado EDGE",
@@ -141,19 +161,14 @@
    "name": "Colorado EDGE United G2010/2011"
   },
   {
-   "club": "Grand Junction SC",
-   "id": "50005780",
-   "name": "Aspire 10/11"
+   "club": "Albion SC Denver",
+   "id": "40008253",
+   "name": "GU16 DPL"
   },
   {
-   "club": "Pride SC",
-   "id": "50035321",
-   "name": "Pride SC N1 G2010/11 Copa CO"
-  },
-  {
-   "club": "Skyline",
-   "id": "50025023",
-   "name": "U16 DPL"
+   "club": "Colorado Rush",
+   "id": "50035320",
+   "name": "Colorado Rush North N1 G2010/11 (CO)"
   },
   {
    "club": "Colorado Storm",
@@ -161,14 +176,24 @@
    "name": "Colorado Storm Central ECNL RL G2010/11"
   },
   {
+   "club": "Skyline",
+   "id": "50025023",
+   "name": "U16 DPL"
+  },
+  {
+   "club": "Denver Kickers Sport Club",
+   "id": "50025021",
+   "name": "U16G DPL"
+  },
+  {
+   "club": "Colorado Rush COS",
+   "id": "50054772",
+   "name": "Rush COS U16G White"
+  },
+  {
    "club": "Westy Soccer Club",
    "id": "50035318",
    "name": "Westy SC N1 G2010/11 Premier (CO)"
-  },
-  {
-   "club": "Colorado Rush",
-   "id": "50035326",
-   "name": "Rush North U16G White"
   },
   {
    "club": "Colorado Storm",
@@ -186,11 +211,6 @@
    "name": "Arsenal Colorado 10/11G Academy"
   },
   {
-   "club": "Colorado Rush",
-   "id": "50025020",
-   "name": "Colorado Rush East U16G DPL"
-  },
-  {
    "club": "Pride SC",
    "id": "50035314",
    "name": "Pride SC United G10"
@@ -199,6 +219,11 @@
    "club": "City SC NOCO",
    "id": "50005778",
    "name": "Aspire 10/11"
+  },
+  {
+   "club": "Colorado Rush",
+   "id": "50025020",
+   "name": "Colorado Rush East U16G DPL"
   },
   {
    "club": "FC Brighton",
@@ -211,24 +236,14 @@
    "name": "Aspire 10/11"
   },
   {
-   "club": "Colorado Rush",
-   "id": "40019366",
-   "name": "Colorado Rush COS N1 G2010/11 (CO)"
+   "club": "Rush Soccer Global",
+   "id": "40009719",
+   "name": "Rush Select U16 Girls Blue"
   },
   {
-   "club": "Real Colorado",
-   "id": "40019388",
-   "name": "U16 Girls Red"
-  },
-  {
-   "club": "Broomfield Soccer Club",
-   "id": "40070581",
-   "name": "GA 10/11"
-  },
-  {
-   "club": "Colorado United",
-   "id": "40070958",
-   "name": "GA10/11"
+   "club": "Rush Soccer Global",
+   "id": "40009721",
+   "name": "Rush Select U16 Girls White"
   },
   {
    "club": "NFA FK 5280",
@@ -239,11 +254,6 @@
    "club": "Colorado Rush",
    "id": "40136580",
    "name": "COS U16G Academy Blue N1L"
-  },
-  {
-   "club": "Colorado Rush COS",
-   "id": "50054772",
-   "name": "Rush COS U16G White"
   },
   {
    "club": "Super Stars",
@@ -324,6 +334,11 @@
    "club": "ALBION SC Boulder",
    "id": "40202234",
    "name": "GA Aspire U16"
+  },
+  {
+   "club": "Pueblo Rangers SC",
+   "id": "40205485",
+   "name": "Pueblo Rangers SC U16G Elite"
   }
  ]
 }
